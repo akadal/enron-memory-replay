@@ -1,6 +1,7 @@
 # State — right now
 
-As of 2000-05-05 (replay of the owner's mailbox, week 2000-W18). Owner gave Dyer's UT Austin class 4 May. 5 May: Baxter to Corp, Frevert ENA CEO, Sherriff Enron Europe CEO. Thomas Knudsen withdrew; ESVM storage model goes to Duffie for review.
+As of 2000-05-14 (replay of the owner's mailbox, week 2000-W19). Storage model, now SAM, sent to Duffie for audit 8 May. London summer stays: one per person, owner pays Leppard's month.
 
-- Coming: POWER 2000 8-11 May (Ronn 9 May, dinner); Repetto 11 May; Bambos visit 19 or 26 May; NY/Wharton 18-19 May; Toronto 29 May → memory/domains/industry/speaking-engagements-2000.md, memory/domains/organization/candidate-interviews-may-2000.md
-- Owed: Toronto paper (due 5 May); Krausz decision; Greg Ball's answer; Ronn's EOL guest account → memory/domains/organization/recruiting-candidates.md
+- Coming: Gibner off 17 May am; NYC/Wharton 17-19 May; Jana 20 May; Keeter study 23 May; UH econo-physics meeting 24 May; Bambos visit 26 May (dinner 25th with Hannon); Toronto 31 May → memory/domains/industry/speaking-engagements-2000.md, memory/domains/work/stanford-research-ties.md
+- Interviews: Kenyon 15 or 22-26 May; London video 16/17 May; Valdes formal → memory/domains/organization/candidate-interviews-may-2000.md
+- Owed: Toronto slides by 18 May; London rotation names to HR; XPRESS approval → memory/domains/organization/software-licenses.md
