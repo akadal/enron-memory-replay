@@ -5,7 +5,7 @@ entity: person
 name: "Paulo Rocha e Oliveira"
 aliases: ["Paulo Oliveira", "Paulo Rocha"]
 domains: [work, organization]
-updated: 2000-02-19
+updated: 2000-02-27
 ---
 # Paulo Rocha e Oliveira
 
@@ -18,3 +18,4 @@ MIT Sloan PhD student (Operations Management, Gabriel Bitran), Internet pricing;
 ## Context: organization
 
 - [2000-02-17] Intern with April Hodgson and Matt Harris; only a letter, no resume → memory/domains/organization/summer-interns-2000.md ←[[m00679]] ←[[m00701]] ←[[m00711]]
+- [2000-02-24] Among the five offers; resume to follow; thesis meeting with April Hodgson's group → memory/domains/organization/summer-interns-2000.md ←[[m00773]] ←[[m00779]] ←[[m00787]]

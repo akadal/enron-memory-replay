@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-02-19
+updated: 2000-02-27
 ---
 # Work — index
 
@@ -9,18 +9,18 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- London 20-23 Feb (dinner, interviews, IIR talk, RiskCare, Sherriff), then San Francisco → memory/domains/work/2000-02-20-london-trip.md
-- KMI licence: counsel call Mon 21 Feb, owner may join → memory/domains/work/kmi-database-license.md
-- Stanford: Bambos meeting end Feb, sponsored projects (Tom Gros) → memory/domains/work/stanford-research-ties.md
-- Credit reserve: owner doubts default probabilities; LJM ~100 MM credit loss → memory/domains/work/vega-var.md
-- Owed: comments on Grant's Ch. 3 overview (Strickland) → memory/domains/work/owner-publications.md
+- Real Options NY 13 Mar with Jackson and Tufano: London slides sent → memory/domains/industry/speaking-engagements-2000.md
+- Stanford: Bambos lunch Fri 25 Feb on sponsored graduate research (Tom Gros funds) → memory/domains/work/stanford-research-ties.md
+- LJM: Accounting argues for no credit reserve; Enron unwinding LJM → memory/domains/work/ljm-put-valuation.md
+- EBS: Martin Lin to Jim Irvine 1 Mar; CAIDA Metrics WG 2 Mar; KMI terms → memory/domains/work/broadband-services.md
+- Meetings: Remi Collonges on South America curves; storage contracts with Dillard 3 Mar → memory/domains/work/south-america-curves.md
 
 ## Files
 
-- memory/domains/work/2000-02-20-london-trip.md — owner's London trip itinerary, Feb 2000
+- memory/domains/work/2000-02-20-london-trip.md — London trip, 20-23 Feb 2000
 - memory/domains/work/argentina-modelling.md — Argentina modelling (Guerriero)
 - memory/domains/work/basis-report.md — Masson's basis report (Pandya)
-- memory/domains/work/broadband-services.md — EBS support: MIT day, Martin Lin, storage book
+- memory/domains/work/broadband-services.md — EBS support: Lin, CAIDA, algorithms
 - memory/domains/work/chicago-office-support.md — Chicago office (Tomaski)
 - memory/domains/work/china-pipeline-real-options.md — China pipeline real options
 - memory/domains/work/church-giving-forecast.md — Vernon's church giving regression
@@ -37,7 +37,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/internal-meetings.md — Enron NA Mondays, ICF talk, cost allocation
 - memory/domains/work/japan-merchant-business.md — Hirl's Japan business; Hoshino
 - memory/domains/work/kmi-database-license.md — KMI database licence (PennWell)
-- memory/domains/work/ljm-put-valuation.md — LJM: RTHM put, options, credit loss
+- memory/domains/work/ljm-put-valuation.md — LJM puts, credit reserve
 - memory/domains/work/model-risk-audit.md — 1999 Andersen model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps for Enron India
 - memory/domains/work/outside-requests.md — small asks: Cranfield, NJ Alliance, Nebraska
@@ -46,8 +46,9 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/pse-swap-warsaw.md — PSE swap credit reserve
 - memory/domains/work/research-presentations.md — group talks, Technical Corner
 - memory/domains/work/rofr-valuation.md — pipeline ROFR pricing (Corman)
+- memory/domains/work/south-america-curves.md — South America curves (Collonges)
 - memory/domains/work/stanford-research-ties.md — Stanford: Nick Bambos, sponsorship
-- memory/domains/work/storage-model.md — Zimin Lu's storage model (Bridgeline)
+- memory/domains/work/storage-model.md — Zimin Lu's storage model
 - memory/domains/work/uk-power-vol-curve.md — Ahmad's UK power vol curve
 - memory/domains/work/vega-var.md — vega VaR, Credit Reserve Model
 - memory/domains/work/vendor-offers-2000.md — Chicago Partners, Geman, Poten, RiskCare

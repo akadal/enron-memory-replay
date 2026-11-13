@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-02-19
+updated: 2000-02-27
 ---
 # Personal — index
 
@@ -9,8 +9,8 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Stanford Parents Weekend Fri 25 Feb with Ludmila (spelled Kaminski; Merrill Lynch to fix); phones and fax → memory/domains/personal/household.md
-- Maruti More wants an Enron trading contact; Solecki's resume sent to SAP; Beth Perlman's London dinner club → memory/domains/personal/correspondence.md
+- Son a junior at Stanford; Parents Weekend 25-27 Feb; Ludmila's name fixed with Merrill Lynch → memory/domains/personal/household.md
+- Maruti More applied for four Enron openings, wants the owner's help → memory/domains/personal/correspondence.md
 
 ## Files
 

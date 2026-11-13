@@ -1,7 +1,7 @@
 # State — right now
 
-As of 2000-02-19 (replay of the owner's mailbox, week 2000-W07).
+As of 2000-02-27 (replay of the owner's mailbox, week 2000-W08).
 
-- Owner in London Sun 20-Wed 23 Feb (interviews Mon, IIR talk Tue, RiskCare and Sherriff Wed), then San Francisco and Stanford (Parents Weekend 25 Feb, Bambos); back Mon 28 Feb → memory/domains/work/2000-02-20-london-trip.md
-- Mon 21 Feb KMI licence counsel call; Real Options NY slides due 25 Feb → memory/domains/work/kmi-database-license.md
-- Owed: comments on Grant's Ch. 3 overview; Knowledge Management document list; Maureen Raymond's answer on Nebraska to Carson; Paulo Rocha e Oliveira's intern offer
+- Owner back from London (Thu 24 Feb) and Stanford Parents Weekend (Bambos lunch Fri 25 Feb) → memory/domains/work/stanford-research-ties.md
+- Coming: NYMEX rodeo night Thu 2 Mar; CAIDA Metrics WG 2 Mar (Ravi, maybe owner); storage contracts with Dillard Fri 3 Mar; Real Options NY 13 Mar → memory/domains/industry/speaking-engagements-2000.md
+- Owed: call Rodney Greene; Polish-speaking MBA names for Sidney Cox; Paulo Rocha's resume to Karen Marshall; replies to ICBI PoweRisk and Australian Energy 2000; Remi Collonges meeting (with Grant)
