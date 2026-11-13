@@ -5,7 +5,7 @@ entity: person
 name: "Ronnie Chahal"
 aliases: []
 domains: [organization, work, industry]
-updated: 2000-02-06
+updated: 2000-02-19
 ---
 # Ronnie Chahal
 
@@ -19,6 +19,7 @@ Manager on the owner's wider Research list, working at EES. ←[[m00138]] ←[[m
 ## Context: work
 
 - [2000-01-17] Full Requirements brainstorm; EES Retail Risks meeting → memory/domains/work/internal-meetings.md ←[[m00354]] ←[[m00493]]
+- [2000-02-16] Co-author of Chapter 3 of Strickland's book → memory/domains/work/owner-publications.md ←[[m00649]]
 
 ## Context: industry
 

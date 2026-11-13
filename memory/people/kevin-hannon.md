@@ -5,16 +5,17 @@ entity: person
 name: "Kevin Hannon"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-30
+updated: 2000-02-19
 ---
 # Kevin Hannon
 
-ENA Office of the Chairman, with Cliff Baxter (Dec 1999); chairman and CEO of Enron Global Risk Management from 25 Jan 2000. ←[[m00028]] ←[[m00036]] ←[[m00445]]
+ENA Office of the Chairman, with Cliff Baxter (Dec 1999); chairman and CEO of Enron Global Risk Management from 25 Jan 2000; COO of Enron Broadband Services from 17 Feb 2000. ←[[m00028]] ←[[m00036]] ←[[m00445]] ←[[m00658]]
 
 ## Context: organization
 
 - [1999-12-15] Co-signed the ENA reorganization memos → memory/domains/organization/ena-reorganization.md ←[[m00028]] ←[[m00036]] ←[[m00063]] ←[[m00114]]
 - [2000-01-25] Appointed to head Enron Global Risk Management → memory/domains/organization/corporate-announcements-2000.md ←[[m00445]]
+- [2000-02-17] Named EBS chief operating officer → memory/domains/organization/corporate-announcements-2000.md ←[[m00658]]
 
 ## Context: work
 

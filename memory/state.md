@@ -1,8 +1,7 @@
 # State — right now
 
-As of 2000-02-12 (replay of the owner's mailbox, week 2000-W06).
+As of 2000-02-19 (replay of the owner's mailbox, week 2000-W07).
 
-- Sat 12 Feb AIESEC Mock Sales (UH, 1:00-3:30) → memory/domains/industry/aiesec-houston.md
-- Mon 14 Feb Scott Tholan interview; 15-16 Feb Lacima (Strickland, Brennan) in Houston; Wed 16 MIT students; Fri 18 Dow Jones training
-- Mon 21 Feb London candidates (Leppard); 25 Feb Stanford; 13-15 Mar Real Options NY → memory/domains/industry/speaking-engagements-2000.md
-- Owed: Strickland Ch. 3 overview line; concurrence on Seyfried's credit trading; answer Geman (Berlin) by 15 Feb and Hanley (Australia); push Ravi's promotion
+- Owner in London Sun 20-Wed 23 Feb (interviews Mon, IIR talk Tue, RiskCare and Sherriff Wed), then San Francisco and Stanford (Parents Weekend 25 Feb, Bambos); back Mon 28 Feb → memory/domains/work/2000-02-20-london-trip.md
+- Mon 21 Feb KMI licence counsel call; Real Options NY slides due 25 Feb → memory/domains/work/kmi-database-license.md
+- Owed: comments on Grant's Ch. 3 overview; Knowledge Management document list; Maureen Raymond's answer on Nebraska to Carson; Paulo Rocha e Oliveira's intern offer
