@@ -12,5 +12,6 @@ updated: 1999-12-26
 - [1999-12-25] Sandeep Kohli (Enron Development, India) wrote to the owner and [[vasant-shanbhogue]]: his team is working on selling Dabhol power to another state — a firm component over the peak period plus infirm power during the monsoon. ←[[m00100]]
 - [1999-12-25] Rajesh Sivaraman drafted (12/24) the issues to resolve with MSEB for a 50 MW firm sale from Phase I, and a peak-period tariff method with Vivek Kejriwal. Team also: Shubh Shrivastava, Anshuman Srivastav. ←[[m00100]]
 - [1999-12-25] Kohli: "soem structuring help will be needed on this"; he wants to discuss it with the owner in Houston in the new year. He is out with a slip disc (surgery possible), reachable in Houston at 281-345-9870. ←[[m00100]]
+- [2000-01-05] Owner forwarded the thread to [[pinnamaneni-krishnarao]] without comment. ←[[m00144]]
 
 Related: the same team's naphtha-cap work → memory/domains/work/maharashtra-naphtha-caps.md

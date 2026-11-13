@@ -3,14 +3,14 @@ id: gas-transmission-price-model
 type: topic
 domain: work
 title: "Clayton Vernon's gas price / transmission (basis) model"
-summary: "Dec 1999: Clayton Vernon proposed a stochastic gas basis model, then a simplified version of Brad's no-arbitrage model with 8 parameters per node; write-up in Scientific Word pending."
+summary: "Dec 1999-Jan 2000: Clayton Vernon's stochastic gas basis model, then a simplified 8-parameter version of Brad's no-arbitrage model; write-up in Scientific Word pending; EIA and OBA notes on production data."
 status: active
-updated: 2000-01-01
+updated: 2000-01-07
 ---
 # Clayton Vernon's gas price / transmission (basis) model
 
-- [1999-12-15] [[clayton-vernon]] proposed a weather-driven stochastic basis model from interconnect flows and spot prices (hoarding and storage as exotic calls at the hub); asked the owner's go-ahead. [1999-12-17] Owner forwarded it to AOL. ←[[m00025]] ←[[m00064]]
-- [1999-12-16] Chris Germany (East Desk) on capacity: leased monthly, e.g. South Texas→Brooklyn ~$12/month per 10,000 Dth plus fuel and overhead; many pipelines don't discount firm maximums. ←[[m00042]]
-- [1999-12-22] Vernon's simplified version of Brad's no-arbitrage model: 8 parameters per major node (storage, wellhead-to-pipeline, congestion-dependent transmission, trading margins, storage option values), identifiable from a few days' prices; write-up in Scientific Word pending, Vasant copied. ←[[m00086]]
-- [1999-12-21] Scientific Word needs a formal request from [[shirley-crenshaw]], approved by the owner, sent to IT. ←[[m00084]]
-- [1999-12-27] Vernon spoke to Roy Kass (EIA): EIA state wellhead production estimates are untimely; severe weather in the gas fields (freezes, hurricanes) moves production and wellhead prices far more than Northeast weather; Kass agreed with the owner that marginal production costs strictly increase across a varied well population. ←[[m00102]]
+- [1999-12-15] [[clayton-vernon]] proposed a weather-driven stochastic basis model from interconnect flows and spot prices (hoarding and storage as exotic calls at the hub); asked the owner's go-ahead; owner forwarded it to AOL. ←[[m00025]] ←[[m00064]]
+- [1999-12-16] Chris Germany (East Desk): capacity leased monthly (South Texas→Brooklyn ~$12/month per 10,000 Dth plus fuel). ←[[m00042]]
+- [1999-12-22] Simplified version of Brad's no-arbitrage model: 8 parameters per node (storage, wellhead-to-pipeline, congestion-dependent transmission, margins, storage options), fit from a few days' prices; Scientific Word write-up pending (request via [[shirley-crenshaw]], owner approves). ←[[m00086]] ←[[m00084]]
+- [1999-12-27] Roy Kass (EIA) to Vernon: state wellhead production estimates are untimely; field weather (freezes, hurricanes) moves production and wellhead prices far more than Northeast weather; agreed marginal production costs strictly increase. ←[[m00102]]
+- [2000-01-06] Vernon: pipelines are adopting Operational Balancing Agreements (shippers book scheduled flows; producing-region storage smooths weekday/weekend swings), so estimated marketed production tracks receipt-meter flow better than production less local storage. ←[[m00172]]
