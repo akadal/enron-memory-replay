@@ -1,0 +1,29 @@
+id	durable	status	detail
+m01046	yes	kept	domains/organization/research-group.md
+m01047	yes	kept	domains/work/argentina-modelling.md
+m01048	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/leave-and-training.md domains/work/vendor-offers-2000.md
+m01049	yes	kept	domains/organization/corporate-announcements-2000.md
+m01050	yes	kept	domains/organization/corporate-announcements-2000.md
+m01051	yes	kept	domains/organization/corporate-announcements-2000.md
+m01052	yes	kept	domains/organization/research-group.md domains/organization/staff-and-recruiting.md
+m01053	yes	kept	domains/organization/london-research.md
+m01054	yes	kept	domains/organization/staff-and-recruiting.md
+m01055	yes	kept	domains/industry/speaking-engagements-2000.md
+m01056	yes	kept	domains/work/storage-model.md domains/work/tips-inflation-model.md domains/work/uk-inflation-book-ppi.md
+m01057	yes	kept	domains/work/uk-inflation-book-ppi.md
+m01058	yes	kept	domains/work/outside-requests.md
+m01059	no	not_durable	bulk
+m01060	yes	kept	domains/work/broadband-services.md
+m01061	no	not_durable	logistics
+m01062	yes	kept	domains/work/research-presentations.md
+m01063	yes	kept	domains/organization/candidate-referrals-2000.md people/li-xiao.md
+m01064	yes	kept	domains/industry/rice-university.md
+m01065	no	not_durable	empty
+m01066	yes	kept	domains/organization/corporate-announcements-2000.md
+m01067	no	not_durable	bulk
+m01068	yes	kept	domains/work/credit-markets.md people/robert-rudy.md
+m01069	yes	kept	domains/work/ebs-network-planning.md
+m01070	yes	dropped	logistics: Ludmila passes on a phone number (Natasza) and asks about a matching donation form
+m01071	yes	kept	domains/work/owner-publications.md
+m01072	no	not_durable	other
+m01073	yes	kept	domains/organization/summer-interns-2000.md
