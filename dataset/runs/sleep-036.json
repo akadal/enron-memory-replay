@@ -1,0 +1,184 @@
+{
+ "slice": 36,
+ "simulated_today": "2000-08-06",
+ "feed": {
+  "slice": 36,
+  "iso_week": "2000-W31",
+  "first_seq": 2589,
+  "last_seq": 2700,
+  "messages": 112,
+  "durable": 97,
+  "first_date": "2000-07-31 01:58",
+  "last_date": "2000-08-06 14:16",
+  "today": "2000-08-06",
+  "inbox_files": [
+   "2000-07-31--mail.md",
+   "2000-08-01--mail.md",
+   "2000-08-02--mail.md",
+   "2000-08-03--mail.md",
+   "2000-08-04--mail.md",
+   "2000-08-06--mail.md"
+  ],
+  "inbox_chars": 69191,
+  "l2_chars": 282398
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 755,
+ "quota_before": {
+  "five_hour": 7.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 9.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 36,
+  "messages": 112,
+  "durable": 97,
+  "kept": 97,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1407,
+  "fact_lines_with_source": 1034,
+  "dated": 1034,
+  "date_matches_source": 1021,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 608
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1634
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 108,
+   "chars": 183020
+  },
+  "people": {
+   "files": 255,
+   "chars": 181985
+  },
+  "archive_inbox": {
+   "files": 227,
+   "chars": 1625726
+  },
+  "archive_mail": {
+   "files": 2726,
+   "chars": 6730706
+  },
+  "archive_other": {
+   "files": 504,
+   "chars": 530282
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 63,
+   "duration_ms": 753175,
+   "duration_api_ms": 675561,
+   "total_cost_usd": 5.008417,
+   "usage": {
+    "input_tokens": 118,
+    "cache_creation_input_tokens": 203800,
+    "cache_read_input_tokens": 9551525,
+    "output_tokens": 73362,
+    "output_tokens_details": {
+     "thinking_tokens": 30562
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 203800,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1059,
+      "cache_read_input_tokens": 234489,
+      "cache_creation_input_tokens": 1102,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1102
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 118,
+     "outputTokens": 73362,
+     "cacheReadInputTokens": 9551525,
+     "cacheCreationInputTokens": 203800,
+     "webSearchRequests": 0,
+     "costUSD": 5.008417,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 30562,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 203800,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 62,
+   "result_summary": "I ran the 2000-08-06 consolidation and committed it as one commit, `041df93`. Lint and sleep-audit are both green. I didn't push: the replay instructions say the runner pushes after its own checks, which conflicts with the \"git push origin main\" line at the end of your message, so I followed the more specific one.\n\n**What went into memory.** All 97 messages with notes this week are cited in L1, so the drops file is empty.\n- **MG V@R:** Masson circulated a Research memo and the owner sent a revised version. A new copper option raised total V@R to $5.99M on 2 Aug. The owner asked that prices be checked against the units the positions come in.\n- **London:** the owner prefers moving Ahmad to Houston soon, partly to prevent a leak; Surbey and Lewis agree.\n- **Reorganisation:** Enron Global Markets was formed on 31 Jul (McConnell CEO, Shankman COO), and Lavorato becomes ENA's COO.\n- **Other threads:** the owner recommended the Wharton Partnership to Skilling at $100K–150K a year. UT offered to license its collateralised-debt valuation, with an answer due within 90 days. Also recorded: the EES Regulatory/Tariff V@R project (new file `ees-regulatory-var`), the Lacima book preface, the interviews and hires, and the D-G Energy licence escrow.\n\n**People.** I opened 10 entity files for people who reached five noted messages: Sheila Walton, Ted Bland, Scott Stoness, Eric Gadd, Gabriel Bitran, Stathis Tompaidis, David Dupre, Mark Koenig, George McClellan and John Arnold. Ted Bland had already passed five before this week and an earlier run missed him.\n\n**Questions.**\n- **Closed by status quo:** the two items due 30 Jul, the Krapels alias and \"Shalesh\". A note sits next to each fact.\n- **New approval items:** whether Rick Bryant and Richard Bryant are the same person, and whether \"Julie\" of Lacima is Julie Brennan.\n- **Where the close log went:** the instructions put the run's log in `2000-08-06--mail.md`, but the audit blocks changing that file while archiving it. So the original"
+  },
+  "repair": null
+ }
+}
