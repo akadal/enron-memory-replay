@@ -5,11 +5,11 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones; wife Ludmila Kaminski; son a junior at Stanford studying computer science; family back in Houston mid-June 2000; brokers: PaineWebber (Julie Haviland: munis), Merrill Lynch (David Walkup: CMA, Ginnie Mae), Edward Jones (Keith Hazlewood: bonds, money fund)."
 status: active
-updated: 2000-05-14
+updated: 2000-05-26
 ---
 # Owner's household and personal admin
 
-Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-2000-03-w09]] ←[[household-2000-04-w14]] ←[[household-2000-04-w15]] ←[[household-2000-04-w17]] ←[[household-2000-05-w19]]
+Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-2000-03-w09]] ←[[household-2000-04-w14]] ←[[household-2000-04-w15]] ←[[household-2000-04-w17]] ←[[household-2000-05-w19]] ←[[household-2000-05-w21]]
 
 - [2000-01-10→] Personal AOL account vkaminski@aol.com, registered as Wincenty Kaminski (given to Michael Sergeev 5 Apr); home: 10 Snowbird, The Woodlands, Texas 77381. ←[[m00229]] ←[[m01251]]
 - [2000-01-15→] Home phone 281 367 5377 (office ext. 3-3848). ←[[m00348]]
@@ -20,5 +20,5 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-03-27→] Work e-mail vkamins@enron.com, not the old @ect.enron.com (CERA updated); title "Managing Director - Research", EB1962, (713) 853 3848. ←[[household-2000-03-w13]] ←[[m01077]] ←[[m01089]] ←[[m01093]]
 - [2000-04-17] Ludmila Kaminski's address: Escondido Village, 32B, Stanford University, CA 94305 (sent to Crenshaw). ←[[m01369]]
 - [2000-05-08] "My family will be back in Houston around mid-June." ←[[m01615]]
-- [2000-04-27] Merrill Lynch (David Walkup): purchases incl. a Ginnie Mae ("You can buy extra 5K of Ginnie Mae"); CMA tax-exempt fund offered. ←[[m00972]] ←[[m01534]] ←[[m01542]]
-- [2000-04-28] Julie Haviland (PaineWebber, (713) 654-0324) proposes AAA Texas munis for $50,000. ←[[m00556]] ←[[m01560]] ←[[m01566]]
+- [2000-04-28] Brokers: Merrill Lynch (David Walkup; Ginnie Mae), PaineWebber's Julie Haviland (AAA Texas munis). ←[[m01534]] ←[[m01566]]
+- [2000-05-22] Short messages while he travels: vkaminski@palm.net (to Masson, Roberts, Krishnarao, Crenshaw, Gibner, Shanbhogue). ←[[m01731]]
