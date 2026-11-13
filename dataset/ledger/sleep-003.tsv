@@ -1,0 +1,65 @@
+id	durable	status	detail
+m00010	yes	kept	domains/organization/research-group.md people/kevin-moore.md people/shirley-crenshaw.md
+m00011	no	not_durable	logistics
+m00012	yes	kept	domains/work/japan-merchant-business.md
+m00013	yes	kept	domains/organization/staff-and-recruiting.md people/shirley-crenshaw.md
+m00014	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md people/mike-roberts.md
+m00015	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00016	yes	kept	domains/work/emission-trading-poland.md people/adam-brulinski.md
+m00017	yes	kept	domains/work/research-presentations.md people/stinson-gibner.md
+m00018	yes	dropped	redundant: Helen Evans thanks; forward to Gibner already recorded from m00002/m00003
+m00019	no	not_durable	logistics
+m00020	yes	kept	domains/work/outside-requests.md
+m00021	yes	kept	domains/industry/speaking-engagements-2000.md
+m00022	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00023	no	not_durable	logistics
+m00024	yes	kept	domains/industry/speaking-engagements-2000.md
+m00025	yes	kept	domains/work/gas-flow-price-model.md
+m00026	yes	kept	domains/organization/officer-performance-review.md
+m00027	yes	kept	domains/industry/rice-university.md
+m00028	yes	kept	domains/organization/ena-reorganization.md
+m00029	yes	kept	domains/industry/rice-university.md people/stinson-gibner.md
+m00030	yes	kept	domains/industry/speaking-engagements-2000.md
+m00031	yes	kept	domains/organization/staff-and-recruiting.md
+m00032	yes	kept	domains/industry/speaking-engagements-2000.md
+m00033	no	not_durable	bulk
+m00034	yes	kept	domains/work/emission-trading-poland.md
+m00035	yes	kept	domains/work/emission-trading-poland.md people/joseph-hrgovcic.md
+m00036	yes	kept	domains/organization/ena-reorganization.md
+m00037	yes	kept	domains/work/research-presentations.md
+m00038	yes	kept	domains/organization/staff-and-recruiting.md
+m00039	yes	kept	domains/industry/speaking-engagements-2000.md
+m00040	yes	kept	domains/work/credit-markets.md people/vasant-shanbhogue.md
+m00041	yes	kept	domains/work/outside-requests.md
+m00042	yes	kept	domains/work/gas-flow-price-model.md people/vasant-shanbhogue.md
+m00043	no	not_durable	quote_only
+m00044	yes	kept	domains/industry/el-paso-capacity.md
+m00045	no	not_durable	bulk
+m00046	yes	kept	domains/organization/office-equipment.md people/shirley-crenshaw.md
+m00047	yes	kept	domains/organization/staff-and-recruiting.md
+m00048	yes	dropped	redundant: owner forwarded the same El Paso memo (m00044) to himself
+m00049	yes	kept	domains/organization/staff-and-recruiting.md
+m00050	yes	dropped	redundant: owner forwarded Hrgovcic emission reply to his AOL; covered by m00035/m00060
+m00051	no	not_durable	quote_only
+m00052	yes	kept	domains/work/credit-markets.md people/vasant-shanbhogue.md
+m00053	no	not_durable	logistics
+m00054	no	not_durable	quote_only
+m00055	no	not_durable	bulk
+m00056	no	not_durable	quote_only
+m00057	yes	kept	domains/personal/correspondence.md
+m00058	yes	kept	domains/work/pse-swap-warsaw.md
+m00059	yes	dropped	redundant: second AOL forward of the emission trading thread
+m00060	yes	kept	domains/work/emission-trading-poland.md people/adam-brulinski.md
+m00061	no	not_durable	quote_only
+m00062	yes	kept	domains/work/outside-requests.md
+m00063	yes	dropped	redundant: AOL forward of the revised ENA memo (m00036), only fragments
+m00064	no	not_durable	quote_only
+m00065	no	not_durable	quote_only
+m00066	yes	kept	domains/work/japan-merchant-business.md
+m00067	yes	kept	domains/industry/speaking-engagements-2000.md people/shirley-crenshaw.md
+m00068	no	not_durable	bulk
+m00069	yes	kept	domains/personal/correspondence.md
+m00070	no	not_durable	bulk
+m00071	no	not_durable	bulk
+m00072	yes	kept	domains/work/credit-markets.md people/stinson-gibner.md people/vasant-shanbhogue.md
+m00073	no	not_durable	pleasantry
