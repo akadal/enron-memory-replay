@@ -1,0 +1,185 @@
+{
+ "slice": 9,
+ "simulated_today": "2000-01-30",
+ "feed": {
+  "slice": 9,
+  "iso_week": "2000-W04",
+  "first_seq": 426,
+  "last_seq": 480,
+  "messages": 55,
+  "durable": 41,
+  "first_date": "2000-01-24 02:28",
+  "last_date": "2000-01-30 23:54",
+  "today": "2000-01-30",
+  "inbox_files": [
+   "2000-01-24--mail.md",
+   "2000-01-25--mail.md",
+   "2000-01-26--mail.md",
+   "2000-01-27--mail.md",
+   "2000-01-28--mail.md",
+   "2000-01-29--mail.md",
+   "2000-01-30--mail.md"
+  ],
+  "inbox_chars": 33440,
+  "l2_chars": 125395
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 515,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 46.0,
+  "seven_day": 8.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 9,
+  "messages": 55,
+  "durable": 41,
+  "kept": 40,
+  "kept_rate_excluding_redundant": 0.976,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 297,
+  "fact_lines_with_source": 338,
+  "dated": 338,
+  "date_matches_source": 334,
+  "date_mismatch_ids_this_slice": [
+   "m00471"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 655
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1185
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 55,
+   "chars": 79636
+  },
+  "people": {
+   "files": 43,
+   "chars": 35276
+  },
+  "archive_inbox": {
+   "files": 44,
+   "chars": 250054
+  },
+  "archive_mail": {
+   "files": 506,
+   "chars": 1080121
+  },
+  "archive_other": {
+   "files": 12,
+   "chars": 14060
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 50,
+   "duration_ms": 514091,
+   "duration_api_ms": 454409,
+   "total_cost_usd": 3.3332678000000002,
+   "usage": {
+    "input_tokens": 92,
+    "cache_creation_input_tokens": 150969,
+    "cache_read_input_tokens": 5353239,
+    "output_tokens": 52725,
+    "output_tokens_details": {
+     "thinking_tokens": 18904
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 150969,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 720,
+      "cache_read_input_tokens": 180957,
+      "cache_creation_input_tokens": 1803,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1803
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 92,
+     "outputTokens": 52725,
+     "cacheReadInputTokens": 5353239,
+     "cacheCreationInputTokens": 150969,
+     "webSearchRequests": 0,
+     "costUSD": 3.3332678000000002,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 18904,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 150969,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 49,
+   "result_summary": "The 2000-01-30 consolidation for week 2000-W04 is committed as `07a6077`, after lint and `sleep-audit.py` both came back green. Of 55 messages, 41 had notes: 40 are now cited in memory and one (m00450, a book order) is listed in `dataset/drops/sleep-009.tsv`.\n\n- **New topics:** the GRMS risk system (Ted Murphy's objection to resources being pulled from it), the Promigas TVCable call option, and AIESEC Houston.\n- **Existing topics extended:**\n  - the Dabhol/EIPL mark-to-market question with Bob Butts\n  - the Sycamore meetings in Chelmsford\n  - Samer Takriti turning down the move from Azurix\n  - the Hannon and Whalley appointments\n  - the Risk 2000 talk title\n  - LSU reprints and slides\n  - Strickland's book reviewers and the chapters sent to Grant Masson\n  - the credit reserve convergence test\n  - smaller items in personal, Rice, the language lessons and London Research\n- **New people files:** Rick Buy, Oliver Bennett, Brad McSherry and Samer Takriti each reached five noted messages.\n- **Compression:** older detail from the speaking, candidates, broadband and correspondence files moved verbatim into four new archive files, so those over-target files stayed within the growth limit. I also shrank Stinson Gibner's file, the only one above 90% of its ceiling. The quota asks for three such files, but no others exist.\n- **Approval gates:** nothing was applied. The \"Krishna\" alias question in `questions.md` now has new evidence (m00427, and \"P. V. Krishnarao\" in m00431) and still waits for approval. No question was past due, there was no sleep-task in the inbox, and the five oldest ongoing lines are still valid.\n\nL1 is now 117,390 characters (up from 106,280). I did not push, because the run instructions say the runner pushes after its own checks; that overrides the \"git push\" line at the end of the prompt. The runner's untracked `dataset/runs/sleep-009.transcript.jsonl` is left uncommitted."
+  },
+  "repair": null
+ }
+}
