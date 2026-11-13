@@ -3,9 +3,9 @@ id: candidate-referrals-2000
 type: topic
 domain: organization
 title: "Referred candidates and outside evaluations, 2000"
-summary: "People referred to the owner or evaluated for other units: Wendi Germani turned down for EBS; London quant Thomas Knudsen to interview; Gordian Kemen (Mannheim) in Austin; Carla Di Castro's internship held; Crenshaw's daughter Kathy (Mar 2000)."
+summary: "People referred to the owner or evaluated for other units: Germani turned down for EBS; London quant Knudsen to interview; Kemen in Austin; Di Castro held; Crenshaw's daughter Kathy; Mark Gandy's Entergy OR PhD (Mar 2000)."
 status: active
-updated: 2000-03-19
+updated: 2000-03-26
 ---
 # Referred candidates and outside evaluations, 2000
 
@@ -16,3 +16,4 @@ The group's own pipeline: memory/domains/organization/recruiting-candidates.md. 
 - [2000-03-15] Gordian Kemen (Mannheim; via Jens Gobel) in Austin 16-30 Mar, wants to talk. ←[[m00987]] ←[[m01014]]
 - [2000-03-16] Carla Di Castro (Issler's wife): summer program full; held until Associates are placed. ←[[m00956]] ←[[m01013]] ←[[m01028]]
 - [2000-03-17] Owner asked Ravi whether EBS needs a secretary (Crenshaw's daughter Kathy). ←[[m01034]]
+- [2000-03-24] Mark Gandy (Caribbean Structuring, ex-Entergy with Gary Zhu) refers an Entergy friend, an OR PhD, after talking to Li Xiao; ext. 67446. ←[[m01063]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-03-19
+updated: 2000-03-26
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- KMV, San Francisco 20 Mar (owner, Bradford) → memory/domains/work/credit-markets.md
-- EBS offsite, Breckenridge 21-23 Apr; Seeligson closes Hamachi → memory/domains/work/broadband-services.md
+- KMV visited 20 Mar; Rudy to see Seyfried in London 31 Mar → memory/domains/work/credit-markets.md
+- EBS offsite, Breckenridge: 21-23 or 27-30 Apr (?) → memory/domains/work/broadband-services.md
 - Bambos funding to settle before his visit (21 Apr or 19 May) → memory/domains/work/stanford-research-ties.md
 - Enron Media / Advertising with Mike Horning, 28 Mar 3 PM → memory/domains/work/enron-media-advertising.md
-- Argentina models due 1 Jun; Masson runs the process call → memory/domains/work/argentina-modelling.md
+- Owner opens the BBLOP brown bag Fri 31 Mar → memory/domains/work/research-presentations.md
 
 ## Files
 
@@ -29,7 +29,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/crude-oil-digital-option.md — crude digital option
 - memory/domains/work/dabhol-power-sale.md — Dabhol Rupee curve
 - memory/domains/work/day-rate-hedge.md — rig day-rate hedges (Peyton)
-- memory/domains/work/ebs-network-planning.md — EBS network modelling
+- memory/domains/work/ebs-network-planning.md — EBS network modelling, Lucent
 - memory/domains/work/ebs-storage-market.md — EBS storage trading
 - memory/domains/work/emission-trading-poland.md — Polish emission trading
 - memory/domains/work/enron-media-advertising.md — media/advertising idea
@@ -44,10 +44,10 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/model-risk-audit.md — 1999 model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps, India
 - memory/domains/work/outside-requests.md — small asks (Nebraska, Titman, EOTT)
-- memory/domains/work/owner-publications.md — MEPR, Strickland's book
+- memory/domains/work/owner-publications.md — MEPR, Strickland's book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
 - memory/domains/work/pse-swap-warsaw.md — PSE swap reserve
-- memory/domains/work/research-presentations.md — talks, brown bag
+- memory/domains/work/research-presentations.md — talks, BBLOP brown bag
 - memory/domains/work/rofr-valuation.md — pipeline ROFR pricing
 - memory/domains/work/south-america-curves.md — South America curves
 - memory/domains/work/stanford-research-ties.md — Stanford, Nick Bambos

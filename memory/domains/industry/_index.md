@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-03-19
+updated: 2000-03-26
 ---
 # Industry — index
 
@@ -12,7 +12,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - Miami "Powerful New Ideas 2000": slides final, shared with Koch's Sobotka; Amsterdam 3-4 Apr (Grant); TFF 7-8 Apr wants an Enron speaker → memory/domains/industry/speaking-engagements-2000.md
 - Australian Energy 2000 (July): VaR seminar sections; asked to chair day one → memory/domains/industry/eprm-risk.md
 - Georgia Tech QCF symposium 7 Apr; ERMA meeting 28 Mar → memory/domains/industry/events-attending-2000.md
-- Unanswered: ICBI PoweRisk Paris (Oct) and Geman's advisory board → memory/domains/industry/speaking-engagements-2000.md
+- Risk 2000 Boston 12-15 Jun confirmed; Paris 4-5 Oct with Geman; Bachelier Congress chair → memory/domains/industry/speaking-engagements-2000.md
 
 ## Files
 
@@ -24,5 +24,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/ferc-transmission-resale.md — FERC cap on transmission resale; Martin Lin's Harvard panel (Mar 2000)
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model, Enerfax list, capacity-release data (Robert Brooks; meeting 16 Mar)
 - memory/domains/industry/market-outlooks-2000.md — outside forecasts for 2000: CERA western power/gas, Poten crude; owner's California warning
-- memory/domains/industry/rice-university.md — Rice: Financial Engineering initiative (Ensor), Enron-sponsored finance seminars, Baraniuk
-- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Real Options NY, Amsterdam, Florida/Miami, TFF, POWER 2000, Risk 2000 Boston, Geman's Berlin workshop
+- memory/domains/industry/rice-university.md — Rice: Financial Engineering initiative (Ensor), Enron-sponsored finance seminars (Brav 31 Mar), Baraniuk
+- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Real Options NY, Amsterdam, Florida/Miami, TFF, POWER 2000, Risk 2000 Boston, Berlin, Paris with Geman, Bachelier Congress

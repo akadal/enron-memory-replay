@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-03-19
+updated: 2000-03-26
 ---
 # People and organisations — index
 
@@ -68,6 +68,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Kristy Carnes — — kristy-carnes
 - Lenos Trigeorgis — — lenos-trigeorgis
 - Les Clewlow — — les-clewlow
+- Li Xiao — — li-xiao
 - Louise Kitchen — — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
 - Lyn Malina — — lyn-malina
@@ -95,6 +96,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Rick Buy — — rick-buy
 - Robert Brooks — Robert E. Brooks, Bob Brooks — robert-brooks
 - Robert Lee — Bob Lee — robert-lee
+- Robert Rudy — — robert-rudy
 - Rodney Greene — — rodney-greene
 - Roman Zadorozhny — — roman-zadorozhny
 - Ronnie Chahal — — ronnie-chahal
