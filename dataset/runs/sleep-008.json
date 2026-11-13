@@ -1,0 +1,180 @@
+{
+ "slice": 8,
+ "simulated_today": "2000-01-23",
+ "feed": {
+  "slice": 8,
+  "iso_week": "2000-W03",
+  "first_seq": 350,
+  "last_seq": 425,
+  "messages": 76,
+  "durable": 68,
+  "first_date": "2000-01-17 00:41",
+  "last_date": "2000-01-23 23:48",
+  "today": "2000-01-23",
+  "inbox_files": [
+   "2000-01-17--mail.md",
+   "2000-01-18--mail.md",
+   "2000-01-19--mail.md",
+   "2000-01-20--mail.md",
+   "2000-01-21--mail.md",
+   "2000-01-23--mail.md"
+  ],
+  "inbox_chars": 47756,
+  "l2_chars": 157878
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 573,
+ "quota_before": {},
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 8,
+  "messages": 76,
+  "durable": 68,
+  "kept": 63,
+  "kept_rate_excluding_redundant": 0.926,
+  "drop_classes": {
+   "logistics": 2,
+   "other": 1,
+   "social": 3
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 263,
+  "fact_lines_with_source": 299,
+  "dated": 299,
+  "date_matches_source": 298,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   0.86,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 638
+  },
+  "questions": {
+   "files": 1,
+   "chars": 937
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 52,
+   "chars": 71974
+  },
+  "people": {
+   "files": 39,
+   "chars": 31657
+  },
+  "archive_inbox": {
+   "files": 37,
+   "chars": 216614
+  },
+  "archive_mail": {
+   "files": 451,
+   "chars": 954726
+  },
+  "archive_other": {
+   "files": 8,
+   "chars": 8017
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 58,
+   "duration_ms": 570860,
+   "duration_api_ms": 511633,
+   "total_cost_usd": 4.0933372000000015,
+   "usage": {
+    "input_tokens": 116,
+    "cache_creation_input_tokens": 163428,
+    "cache_read_input_tokens": 8208246,
+    "output_tokens": 57190,
+    "output_tokens_details": {
+     "thinking_tokens": 16889
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 163428,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1031,
+      "cache_read_input_tokens": 193454,
+      "cache_creation_input_tokens": 1765,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1765
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 116,
+     "outputTokens": 57190,
+     "cacheReadInputTokens": 8208246,
+     "cacheCreationInputTokens": 163428,
+     "webSearchRequests": 0,
+     "costUSD": 4.0933372000000015,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 16889,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 163428,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 57,
+   "result_summary": "The 2000-01-23 consolidation is committed on `main` as `dfb5a43`. Lint and sleep-audit both passed before the commit. I did not push: the run instructions say both \"do not push, the runner pushes after its checks\" and \"git push origin main\", so I followed the more specific one and left the push to the runner.\n\n**What went in.** All 76 messages of week 2000-W03 were processed, and 63 of the 69 that had notes are now cited in memory. The other 6 are listed in `dataset/drops/sleep-008.tsv`: three congratulation notes, one note about phone-extension changes, one about a magazine article copy, and one the capture step had marked not worth keeping. A dry run of the ledger check reported no missing messages and no citations to messages after this week.\n\n**New topic files:**\n- Enterprise-Wide Risk Management, which also took over the 21 Jan offsite line from `internal-meetings`\n- the group's broadband / Enron Communications support work\n- valuing a pipeline right of first refusal\n- the London Research team\n- 2000 market outlooks, including the owner's warning about California power prices next summer\n- company-wide announcements\n- the church-giving forecast done as a favour for George Posey\n\n**New people files.** Eight people reached five messages with notes: Ted Murphy, Robert (Bob) Lee, Elizabeth Grant, Benjamin Parsons, Sandeep Kohli, Emma Wolfin, Bryan Seyfried and Anjam Ahmad. All are in the alias table.\n\n**Size control.** Older detail from the candidates, speaking-engagements and outside-requests files moved to new `memory/archive/<domain>/2000/` files, so none of the files already over their size target grew past the tolerance. The 29 Dec 1999 Robert Lee visit topic is marked closed.\n\n**Indexes, state and queues:**\n- The domain indexes, people index and `state.md` are refreshed.\n- One alias question went into `questions.md`: whether the \"Krishna\" who asked for the Rupee curve is Krishna Krishnarao. That name matches no alias exactly, so I didn't attach it.\n- No quest"
+  },
+  "repair": null
+ }
+}
