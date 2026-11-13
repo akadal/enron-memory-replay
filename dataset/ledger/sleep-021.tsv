@@ -1,0 +1,87 @@
+id	durable	status	detail
+m01361	yes	kept	domains/organization/london-research.md people/thomas-knudsen.md
+m01362	no	not_durable	bulk
+m01363	yes	kept	domains/organization/staff-and-recruiting.md
+m01364	yes	kept	domains/industry/visitors-2000.md people/andrew-fastow.md people/lou-pai.md
+m01365	yes	kept	domains/work/internal-meetings.md people/rudi-zipter.md
+m01366	yes	kept	domains/organization/summer-interns-2000.md people/cantekin-dincerler.md
+m01367	yes	kept	domains/organization/leave-and-training.md
+m01368	yes	kept	domains/work/pse-swap-warsaw.md
+m01369	yes	kept	domains/personal/household.md
+m01370	no	not_durable	bulk
+m01371	yes	kept	domains/personal/correspondence.md
+m01372	no	not_durable	logistics
+m01373	yes	kept	domains/organization/london-research.md people/steven-leppard.md people/thomas-knudsen.md
+m01374	no	not_durable	quote_only
+m01375	yes	kept	domains/work/vendor-offers-2000.md
+m01376	yes	kept	domains/work/internal-meetings.md
+m01377	yes	kept	domains/organization/recruiting-candidates.md
+m01378	yes	kept	domains/organization/recruiting-candidates.md
+m01379	no	not_durable	logistics
+m01380	yes	kept	domains/organization/office-equipment.md
+m01381	yes	kept	domains/industry/gpcm-rbac.md
+m01382	yes	kept	domains/organization/office-equipment.md
+m01383	no	not_durable	logistics
+m01384	yes	kept	domains/organization/office-equipment.md
+m01385	no	not_durable	logistics
+m01386	yes	kept	domains/organization/recruiting-candidates.md
+m01387	no	not_durable	quote_only
+m01388	yes	kept	domains/organization/recruiting-candidates.md
+m01389	no	not_durable	logistics
+m01390	yes	kept	domains/work/outside-requests.md
+m01391	yes	dropped	other: bare self-addressed to-do "M. Soto" with no content; contact already archived
+m01392	yes	kept	domains/work/outside-requests.md
+m01393	no	not_durable	other
+m01394	yes	kept	domains/industry/declined-invitations-2000.md
+m01395	yes	kept	domains/work/outside-requests.md
+m01396	yes	kept	domains/industry/market-outlooks-2000.md
+m01397	yes	kept	domains/work/internal-meetings.md
+m01398	yes	kept	domains/personal/correspondence.md
+m01399	yes	kept	domains/industry/gpcm-rbac.md
+m01400	yes	kept	domains/organization/recruiting-candidates.md
+m01401	yes	kept	domains/organization/recruiting-candidates.md
+m01402	yes	kept	domains/industry/visitors-2000.md
+m01403	yes	kept	domains/work/outside-requests.md people/fred-lagrasta.md
+m01404	no	not_durable	logistics
+m01405	yes	kept	domains/organization/recruiting-candidates.md
+m01406	yes	kept	domains/organization/london-research.md
+m01407	yes	kept	domains/organization/recruiting-candidates.md
+m01408	yes	kept	domains/organization/recruiting-candidates.md
+m01409	yes	kept	domains/organization/recruiting-candidates.md
+m01410	yes	kept	domains/industry/speaking-engagements-2000.md
+m01411	no	not_durable	logistics
+m01412	yes	kept	domains/industry/gpcm-rbac.md
+m01413	yes	kept	domains/industry/speaking-engagements-2000.md
+m01414	yes	kept	domains/personal/correspondence.md
+m01415	yes	kept	domains/organization/recruiting-candidates.md
+m01416	no	not_durable	logistics
+m01417	no	not_durable	other
+m01418	yes	kept	domains/industry/declined-invitations-2000.md
+m01419	yes	kept	domains/work/outside-requests.md
+m01420	yes	kept	domains/industry/declined-invitations-2000.md
+m01421	yes	kept	domains/work/outside-requests.md
+m01422	yes	kept	domains/industry/declined-invitations-2000.md
+m01423	no	not_durable	bulk
+m01424	no	not_durable	logistics
+m01425	no	not_durable	bulk
+m01426	yes	kept	domains/organization/summer-interns-2000.md people/cantekin-dincerler.md
+m01427	yes	kept	domains/industry/visitors-2000.md
+m01428	yes	kept	domains/organization/summer-interns-2000.md people/cantekin-dincerler.md
+m01429	no	not_durable	empty
+m01430	yes	kept	domains/industry/events-attending-2000.md
+m01431	yes	kept	domains/industry/declined-invitations-2000.md people/steven-leppard.md
+m01432	yes	kept	domains/industry/visitors-2000.md people/eugenio-perez.md people/sally-beck.md
+m01433	no	not_durable	bulk
+m01434	yes	kept	domains/industry/declined-invitations-2000.md people/steven-leppard.md
+m01435	yes	kept	domains/organization/recruiting-candidates.md
+m01436	yes	kept	domains/organization/recruiting-candidates.md people/nurit-krausz.md
+m01437	no	not_durable	logistics
+m01438	yes	kept	domains/work/internal-meetings.md
+m01439	yes	kept	domains/organization/research-group.md
+m01440	yes	kept	domains/work/internal-meetings.md
+m01441	yes	kept	domains/work/internal-meetings.md
+m01442	yes	kept	domains/work/internal-meetings.md
+m01443	yes	kept	domains/work/internal-meetings.md
+m01444	yes	dropped	other: bare e-mail address sent to own AOL, no context
+m01445	yes	kept	domains/industry/gpcm-rbac.md
+m01446	yes	kept	domains/work/owner-publications.md
