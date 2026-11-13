@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-03-03
+updated: 2000-03-12
 ---
 # People and organisations — index
 
@@ -14,9 +14,11 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Amitava Dhar — — organization — amitava-dhar
 - Andrzej Wodnicki — — industry — andrzej-wodnicki
 - Anjam Ahmad — — work, organization — anjam-ahmad
+- Anthony Mends — Tony Mends — personal — anthony-mends
 - April Hodgson — April Hodgeson, April Hodges — organization — april-hodgson
 - Benjamin Parsons — Ben Parsons — organization, work, industry — benjamin-parsons
 - Brad McSherry — — organization — brad-mcsherry
+- Brad Romine — Bradley Romine — work, organization — brad-romine
 - Bryan Seyfried — — work, organization — bryan-seyfried
 - Celeste Roberts — — organization — celeste-roberts
 - Charlene Jackson — — organization — charlene-jackson
@@ -32,26 +34,33 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Emma Wolfin — — industry — emma-wolfin
 - Gary Hickerson — — organization, work — gary-hickerson
 - Ginger Gamble — Ginger B Gamble — organization — ginger-gamble
+- Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — work, organization — giuseppe-paleologo
+- Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — work — gopalakrishnan-subramaniam
 - Grant Masson — — organization, work — grant-masson
 - Greg Whalley — — organization, work — greg-whalley
 - Helyette Geman — — industry, work — helyette-geman
 - Iain Russell — — organization — iain-russell
+- Jana Phillips — Jana Laird Phillips — personal, industry — jana-phillips
 - Jarek Astramowicz — — work, industry, organization — jarek-astramowicz
 - Jason Sokolov — — organization — jason-sokolov
+- Jay Webb — — organization, work — jay-webb
 - Jean Mrha — — work, organization — jean-mrha
 - Jeff Shankman — Jeffrey A Shankman — organization, work — jeff-shankman
 - Jim Garven — James R. Garven — industry — jim-garven
 - Jim Irvine — — work — jim-irvine
 - Joan Payne — — industry — joan-payne
+- John Bloomer — — work — john-bloomer
 - John Griebling — — work — john-griebling
 - John Sherriff — — work, organization — john-sherriff
 - Jonathan Le — — work — jonathan-le
 - Joseph Hrgovcic — Joe Hrgovcic — organization, work — joseph-hrgovcic
+- Karla Feldman — — organization, work — karla-feldman
 - Katja Schilling — — work, industry — katja-schilling
 - Kevin Hannon — — organization, work — kevin-hannon
 - Kevin Kindall — — organization, work — kevin-kindall
 - Kevin Moore — Kevin G Moore — organization — kevin-moore
 - Kimberly Watson — — industry, work — kimberly-watson
+- Kristy Carnes — — organization, work — kristy-carnes
 - Lenos Trigeorgis — — industry — lenos-trigeorgis
 - Les Clewlow — — work — les-clewlow
 - Louise Kitchen — — work, organization — louise-kitchen
@@ -59,21 +68,26 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Lyn Malina — — organization — lyn-malina
 - Manuel Rensink — — work — manuel-rensink
 - Margaret Carson — — work, industry — margaret-carson
+- Mark Palmer — Mark S Palmer — industry, work — mark-palmer
 - Mark Ruane — — work, industry — mark-ruane
 - Martin Lin — — organization, work — martin-lin
+- Martina Angelova — — organization, work — martina-angelova
 - Maruti More — Maruti D. More — personal — maruti-more
 - Maureen Raymond — — organization, work — maureen-raymond
 - Michael Sergeev — — organization — michael-sergeev
 - Mike Roberts — Mike A Roberts — organization, work — mike-roberts
 - Nick Bambos — — work — nick-bambos
+- Nurit Krausz — — organization — nurit-krausz
 - Oliver Bennett — — industry — oliver-bennett
 - Osman Sezgen — — organization, work — osman-sezgen
 - Paulo Issler — — organization, work — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — work, organization — paulo-rocha-e-oliveira
 - Peter Tufano — — industry — peter-tufano
+- Philippe Bibi — Philippe A Bibi — organization, work — philippe-bibi
 - Pinnamaneni Krishnarao — Krishna Krishnarao — organization, work — pinnamaneni-krishnarao
 - Ravi Thuraisingham — — organization, work — ravi-thuraisingham
 - Rick Buy — — work, organization — rick-buy
+- Robert Brooks — Robert E. Brooks, Bob Brooks — industry — robert-brooks
 - Robert Lee — Bob Lee — organization, work — robert-lee
 - Rodney Greene — — organization — rodney-greene
 - Roman Zadorozhny — — organization — roman-zadorozhny
@@ -81,6 +95,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Samer Takriti — — organization, work — samer-takriti
 - Sandeep Kohli — — work, organization — sandeep-kohli
 - Sevil Yaman — — organization — sevil-yaman
+- Shalesh Ganjoo — — organization, work — shalesh-ganjoo
 - Shirley Crenshaw — — organization, work, industry — shirley-crenshaw
 - Steven Leppard — — organization, work — steven-leppard
 - Stinson Gibner — — organization, industry, work — stinson-gibner

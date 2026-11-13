@@ -5,7 +5,7 @@ entity: person
 name: "Rodney Greene"
 aliases: []
 domains: [organization]
-updated: 2000-03-03
+updated: 2000-03-12
 ---
 # Rodney Greene
 
@@ -14,3 +14,4 @@ Candidate for the owner's group: PhD, catastrophe-risk developer at Helios Group
 ## Context: organization
 
 - [2000-03-01] Phoned the owner 1 Mar, invited to a Houston interview arranged by Elizabeth Grant → memory/domains/organization/recruiting-candidates.md ←[[m00715]] ←[[m00719]] ←[[m00799]] ←[[m00805]] ←[[m00825]] ←[[m00826]] ←[[m00836]] ←[[m00837]]
+- [2000-03-12] Interviewed in Houston; thanks note → memory/domains/organization/recruiting-candidates.md ←[[m00955]]
