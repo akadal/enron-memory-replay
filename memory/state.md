@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-04-14 (replay of the owner's mailbox, week 2000-W15). The Breckenridge EBS offsite (27-29 Apr) is cancelled.
+As of 2000-04-21 (replay of the owner's mailbox, week 2000-W16). Research's home is unsettled: Enron Corp. or Enron N.A.; the owner hopes to settle it by 26 Apr.
 
-- Coming: Jana Phillips Sat 15 Apr; Fujita, Mary Sue Rose Mon 17 Apr; Darden 18 Apr; IT/credit lunch, Faiz 19 Apr; Nebraska, Dyer's class 20 Apr; Mends 22 Apr; Abacus, Orillion 25 Apr; CERA 26 Apr; round table 27 Apr → memory/domains/industry/visitors-2000.md
-- Owed: Kaminski Column Mon 17 Apr; Hoxha's answer; Becky Pham's allocation; GPG modelling reply; Toronto abstract; Wharton write-ups and travel → memory/domains/organization/recruiting-candidates.md
+- Coming: Mends Sat 22 Apr; Delainey presentation Mon 24 Apr 3 pm; Abacus, Orillion 25 Apr; Becky Pham, CERA 26 Apr; round table 27 Apr; Aram, Ruwan's interview 28 Apr; HEA lunch 2 May → memory/domains/work/internal-meetings.md
+- Owed: POWER 2000 materials 24 Apr; Toronto abstract; Hoxha's answer; Krausz decision early May; Knudsen (with Ahmad); Wharton write-ups and travel → memory/domains/organization/recruiting-candidates.md

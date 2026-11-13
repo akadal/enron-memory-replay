@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones (home, two cells, fax); wife Ludmila Kaminski, her check lists; son a junior at Stanford; brokers: PaineWebber (Julie Haviland), Merrill Lynch (David Walkup, CMA account), Edward Jones (Keith Hazlewood: bonds, tax-free money fund, Apr 2000)."
 status: active
-updated: 2000-04-14
+updated: 2000-04-21
 ---
 # Owner's household and personal admin
 
@@ -20,3 +20,4 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-04-14→] Keith Hazlewood, Edward Jones (P.O. Box 9479, The Woodlands, TX 77387): the owner's bonds and a tax-free money fund; the difference on a bond transaction was $4,391, and he may send more to the fund. ←[[m01349]] ←[[m01351]]
 - [2000-02-22→] Son: "my son is a junior at Stanford". ←[[m00732]]
 - [2000-03-27→] Work e-mail vkamins@enron.com, not the old @ect.enron.com (CERA updated); title "Managing Director - Research", EB1962, (713) 853 3848. AOL billing dispute (Jan) archived ←[[household-2000-03-w13]] ←[[m01077]] ←[[m01089]] ←[[m01093]]
+- [2000-04-17] Ludmila Kaminski's address: Escondido Village, 32B, Stanford University, CA 94305 (sent to Crenshaw). ←[[m01369]]
