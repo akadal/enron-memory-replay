@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-05-05
+updated: 2000-05-14
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Weekly with Maureen Raymond, Fridays 8:00; allocations sheet to Becky Pham 26 Apr → memory/domains/work/internal-meetings.md
-- Dyer's UT class given 4 May, back next year; Rausser reprint → memory/domains/work/outside-requests.md
-- Volumetric risk module for Rick Buy → memory/domains/work/enterprise-risk-management.md
-- ESVM storage model to Duffie for review 5 May → memory/domains/work/storage-model.md
-- Bambos asks to visit 19 or 26 May; new student → memory/domains/work/stanford-research-ties.md
+- Transwestern option sales vs revenue management, Tue 16 May → memory/domains/work/internal-meetings.md
+- Leppard's processing-power and bandwidth swing ideas to Bloomer; Hannon 11 May → memory/domains/work/broadband-services.md
+- Storage model (now SAM) sent to Duffie for audit 8 May → memory/domains/work/storage-model.md
+- Bambos visits Fri 26 May, dinner Thu with Hannon → memory/domains/work/stanford-research-ties.md
+- Keeter's network/QoS study Tue 23 May → memory/domains/work/ebs-network-planning.md
 
 ## Files
 
@@ -32,6 +32,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ebs-network-planning.md — EBS network modelling, Lucent, Orillion
 - memory/domains/work/ebs-storage-market.md — EBS storage trading
 - memory/domains/work/emission-trading-poland.md
+- memory/domains/work/ene-stock-drivers.md — ENE stock regressions
 - memory/domains/work/enron-media-advertising.md — media/advertising idea
 - memory/domains/work/enterprise-risk-management.md — EWRM
 - memory/domains/work/ethanol-hedging.md
@@ -44,7 +45,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ljm-put-valuation.md — LJM puts
 - memory/domains/work/model-risk-audit.md — 1999 model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps, India
-- memory/domains/work/outside-requests.md — small asks (Dyer, Rausser, Goodburn)
+- memory/domains/work/outside-requests.md — small asks (Dyer, Carson, PGN)
 - memory/domains/work/owner-publications.md — book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
 - memory/domains/work/pse-swap-warsaw.md — PSE swap, Nowa Sarzyna
@@ -59,6 +60,6 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/uk-inflation-book-ppi.md — UK Inflation Book PPI
 - memory/domains/work/uk-power-vol-curve.md — UK power and half-hourly vols
 - memory/domains/work/vega-var.md — vega VaR, Credit Reserve Model
-- memory/domains/work/vendor-offers-2000.md — vendors, data services
+- memory/domains/work/vendor-offers-2000.md — vendors, SKG
 
 Closed: 1

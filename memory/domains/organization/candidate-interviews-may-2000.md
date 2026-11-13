@@ -2,18 +2,17 @@
 id: candidate-interviews-may-2000
 type: topic
 domain: organization
-title: "Candidate interviews set for early May 2000"
-summary: "Research Group interviews, late Apr-May 2000: Norberto Valdes (TXU) 1 May; phone interviews 4 May (Praveen Mellacheruvu, Yong Cho); Hao Peng on site; Greg Ball (Unocal) waits to hear; Bruno Repetto on site 11 May; Marshall Brown's confidential candidate, dinner 3 May."
+title: "Candidate interviews, May 2000"
+summary: "Research Group interviews, May 2000: Norberto Valdes to a formal round (recruiter Lisa Ford); Chris Kenyon (Schlumberger, real options) formal interview 15 or 22-26 May; Sanjeev Khanna (PG&E) informal 12 May; two Credit.com candidates for Seyfried; Greg Ball waits; Repetto 11 May."
 status: active
-updated: 2000-05-05
+updated: 2000-05-14
 ---
-# Candidate interviews set for early May 2000
+# Candidate interviews, May 2000
 
-Earlier pipeline: memory/domains/organization/recruiting-candidates.md. Interviewers' titles: memory/domains/organization/research-group.md. Crenshaw books the panels. Detail (quotes, Ball's references) ←[[candidate-interviews-may-2000-2000-05-w18]]
+Earlier pipeline: memory/domains/organization/recruiting-candidates.md. Titles: memory/domains/organization/research-group.md. Crenshaw books panels through Elizabeth Grant (HR). Detail (Hao Peng, 4 May phone interviews, Marshall Brown's candidate, Ball's references) ←[[candidate-interviews-may-2000-2000-05-w18]] ←[[candidate-interviews-may-2000-2000-05-w19]]
 
-- [2000-04-26] Hao Peng (CMU): on-site interviews via Kathy McKay (HR), EB1938 (owner, Gibner, Lu, Issler, Masson, Krishnarao, Shanbhogue); not 2 or 4 May (finals). ←[[m01498]]
-- [2000-04-25] Norberto Valdes (TXU Energy; resume via Lisa Ford): panel Mon 1 May, 1:00-2:15, EB1938 (Shanbhogue, owner, Vernon, Gibner, Tamarchenko, Masson). ←[[m01483]] ←[[m01488]] ←[[m01489]] ←[[m01501]] ←[[m01507]] ←[[m01530]] ←[[m01550]]
-- [2000-05-01] Phone interviews (owner, Gibner, Krishnarao, Sezgen), Thu 4 May: Praveen Mellacheruvu (Maryland) 10:00; Yong Cho, for Sr. Specialist, 3:30 pm Houston; Tammy Ting-Yuan Wang declined. ←[[m01526]] ←[[m01527]] ←[[m01528]] ←[[m01531]] ←[[m01549]] ←[[m01575]]
-- [2000-05-02] Greg Ball (Unocal risk management, Physics PhD; Bill Bradford's MBA class): visited, impressed, expects word this week; prices Asian options by geometric averaging with an adjusted strike (Gemmill 1993). ←[[m01532]] ←[[m01533]] ←[[m01593]]
-- [2000-04-27] Marshall Brown's (Robert Walters) confidential candidate, not circulated: dinner Wed 3 May, 7:00, La Tour d'Argent. ←[[m01536]] ←[[m01540]]
-- [2000-05-02] Bruno Repetto on site Thu 11 May from 1:00, EB1938: owner, Gibner, Masson, Shanbhogue, Krishnarao, Lu, Tamarchenko (4:00). ←[[m01591]]
+- [2000-05-08] Norberto Valdes (TXU; via recruiter Lisa Ford; informal panel 1 May): formal round this week (owner, Tamarchenko, Ted Murphy, Krishnarao, Masson); Grant sets it up and a recruiter contract with HR; Ford sent her contacts. ←[[m01483]] ←[[m01550]] ←[[m01611]] ←[[m01621]] ←[[m01658]]
+- [2000-05-08] Chris Kenyon (Schlumberger, Austin; real options; heard the owner at Dyer's class): "We shall make arrangements to bring you over for an interview."; formal, Mon 15 May or 22-26 May (owner, Gibner, Lu, Shanbhogue, Masson, Issler, Krishnarao). ←[[m01609]] ←[[m01612]] ←[[m01613]] ←[[m01623]]
+- [2000-05-11] Sanjeev Khanna (PG&E Energy Trading, quantitative risk; met at POWER 2000): informal interview Fri 12 May from 1:00, EB1938; owner 5 minutes, then eight 15-minute slots. ←[[m01635]] ←[[m01636]] ←[[m01643]]
+- [2000-05-11] Two Credit.com candidates (Louise Bratby, London HR, for Bryan Seyfried) to Houston: Zak more pure research, Phil maybe the desk. ←[[m01620]] ←[[m01639]]
+- [2000-05-02] Greg Ball (Unocal, Physics PhD) visited, expects word; Bruno Repetto on site Thu 11 May. ←[[m01532]] ←[[m01593]] ←[[m01591]]

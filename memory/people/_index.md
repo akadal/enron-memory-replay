@@ -1,10 +1,10 @@
 ---
 type: index
-updated: 2000-05-05
+updated: 2000-05-14
 ---
 # People and organisations — index
 
-Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md). Format (?) 2000-03-31, 2000-04-21 (status quo), 2000-04-28.
+Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 
 ## Files
 
@@ -30,10 +30,12 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Charlene Jackson — charlene-jackson
 - Chonawee Supatgiat — chonawee-supatgiat
 - Chris Hilgert — chris-hilgert
+- Chris Kenyon — chris-kenyon
 - Chris Strickland — chris-strickland
 - Clayton Vernon — clayton-vernon
 - Cliff Baxter — cliff-baxter
 - Dale Surbey — dale-surbey
+- Damian Goodburn — damian-goodburn
 - Dave Delainey — dave-delainey
 - Darrell Duffie — darrell-duffie
 - David Cox — david-cox
@@ -42,6 +44,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Dorn Hetzel — dorn-hetzel
 - Doug Leach — doug-leach
 - Ed Krapels — ed-krapels
+- Edward Kao — edward-kao
 - Ehud Ronn — Ehud I. Ronn — ehud-ronn
 - Elizabeth Grant — elizabeth-grant
 - Emma Wolfin — emma-wolfin
@@ -87,6 +90,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Kevin Kindall — kevin-kindall
 - Kevin Moore — Kevin G Moore — kevin-moore
 - Kimberly Watson — kimberly-watson
+- Kirstee Hewitt — kirstee-hewitt
 - Kristy Carnes — kristy-carnes
 - Lenos Trigeorgis — lenos-trigeorgis
 - Les Clewlow — les-clewlow
@@ -116,6 +120,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Oliver Bennett — oliver-bennett
 - Osman Sezgen — osman-sezgen
 - Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
+- Paige Grumulaitis — paige-grumulaitis
 - Paula Corey — paula-corey
 - Paulo Issler — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
@@ -159,4 +164,5 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Vincent Tang — vincent-tang
 - William Bradford — William S Bradford — william-bradford
 - William Smith — Sam Smith — william-smith
+- Yannis Tzamouranis — yannis-tzamouranis
 - Zimin Lu — zimin-lu
