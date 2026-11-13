@@ -1,0 +1,180 @@
+{
+ "slice": 3,
+ "simulated_today": "1999-12-19",
+ "feed": {
+  "slice": 3,
+  "iso_week": "1999-W50",
+  "first_seq": 10,
+  "last_seq": 73,
+  "messages": 64,
+  "durable": 48,
+  "first_date": "1999-12-13 02:08",
+  "last_date": "1999-12-19 12:39",
+  "today": "1999-12-19",
+  "inbox_files": [
+   "1999-12-13--mail.md",
+   "1999-12-14--mail.md",
+   "1999-12-15--mail.md",
+   "1999-12-16--mail.md",
+   "1999-12-17--mail.md",
+   "1999-12-19--mail.md"
+  ],
+  "inbox_chars": 38210,
+  "l2_chars": 227063
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 238,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 44.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 3,
+  "messages": 64,
+  "durable": 48,
+  "kept": 48,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 57,
+  "fact_lines_with_source": 76,
+  "dated": 76,
+  "date_matches_source": 75,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 598
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 26,
+   "chars": 26143
+  },
+  "people": {
+   "files": 9,
+   "chars": 5726
+  },
+  "archive_inbox": {
+   "files": 9,
+   "chars": 43304
+  },
+  "archive_mail": {
+   "files": 99,
+   "chars": 314076
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 25,
+   "duration_ms": 236181,
+   "duration_api_ms": 206569,
+   "total_cost_usd": 1.4764558,
+   "usage": {
+    "input_tokens": 44,
+    "cache_creation_input_tokens": 79009,
+    "cache_read_input_tokens": 1833739,
+    "output_tokens": 23873,
+    "output_tokens_details": {
+     "thinking_tokens": 5365
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 79009,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 614,
+      "cache_read_input_tokens": 110026,
+      "cache_creation_input_tokens": 779,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 779
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 44,
+     "outputTokens": 23873,
+     "cacheReadInputTokens": 1833739,
+     "cacheCreationInputTokens": 79009,
+     "webSearchRequests": 0,
+     "costUSD": 1.4764558,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 5365,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 79009,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 24,
+   "result_summary": "Consolidation 003 is committed as `360526a` and not pushed, because the run header says the runner pushes after its own checks. That overrides the \"git push\" line at the end of the instructions. Lint and `sleep-audit.py` were both green on the first try, so no repair or reset was needed.\n\n- **What went in:** all 48 messages with notes from 13–19 Dec 1999 are now in L1, each fact linked to its source message. That made 18 new topic files and 3 updated ones, plus 5 new people files (Vince Kaminski as the owner, Clayton Vernon, Vasant Shanbhogue, Joseph Hrgovcic, Kevin Moore).\n- **Main topics:** the owner chairing at POWER 2000 (9 May 2000), European Energy 2000 and the New York Real Options conference; emission-trading material for Poland; Vernon's gas price model, still waiting for the owner's go-ahead; the PSE swap request for a volatility and CPI correlation estimate; the CreditManager meeting moved to 7 Jan 2000; a recruiting file; the ENA reorganisation; the new officer review process; the Credit Markets Group; and new equipment for the 19th floor.\n- **Drops and gates:** every message with notes is cited, so `dataset/drops/sleep-003.tsv` is empty. No questions, no sleep tasks and no approval-gated changes came up.\n- **Other updates:** the indexes and `state.md` (as of 1999-12-19) are refreshed. No file was above 90% of its ceiling, so the compression quota had nothing to act on. The one ongoing line I checked (vega validation) is still open. The processed logs moved to `memory/archive/inbox/`.\n\nThe runner's `dataset/runs/sleep-003.transcript.jsonl` is still uncommitted, as in earlier runs."
+  },
+  "repair": null
+ }
+}
