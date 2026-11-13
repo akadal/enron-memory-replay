@@ -1,7 +1,6 @@
 # State — right now
 
-As of 2000-05-21 (replay of the owner's mailbox, week 2000-W20). Owner now in the loop on all LNG (Sherriff): Elba Island book, tanker DASHes.
+As of 2000-05-26 (replay of the owner's mailbox, week 2000-W21). Owner in the LNG loop (EXMAR ships, final DASH); heavy travel until 22 Jun.
 
-- Coming: Titman call 22 May; Todd Perry phone interview week of 22 May; Keeter study and Hickerson trading meeting 23 May; UH econo-physics 24 May; Bambos 25-26 May; Berlin material due 26 May; Toronto 31 May; Boston (SKG) mid June → memory/domains/work/_index.md, memory/domains/industry/speaking-engagements-2000.md
-- Interviews: Kenyon 22-26 May; Credit.com feedback to Seyfried → memory/domains/organization/candidate-interviews-may-2000.md
-- Owed: CPLEX licence decision on the new quote; Strickland article follow-up → memory/domains/organization/software-licenses.md
+- Coming: Toronto talk and panel 31 May (29 May disputed); Risk 2000 panel call Wed 31 May 11 EST; weather derivatives support Thu 1 Jun; Todd Perry Fri 2 Jun; Super Saturday 3 Jun; Boston 12-15 Jun; People's Gas 16 Jun; Ronn 22 Jun → memory/domains/industry/speaking-engagements-2000.md, memory/domains/organization/_index.md
+- Owed: PEP feedback by 16 Jun; CPLEX vs XPRESS vote; Risk copyright for EOL → memory/domains/organization/mid-year-prc-2000.md, memory/domains/organization/software-licenses.md, memory/domains/work/eol-content-2000.md

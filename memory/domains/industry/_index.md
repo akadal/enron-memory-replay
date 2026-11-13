@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-05-21
+updated: 2000-05-26
 ---
 # Industry — index
 
@@ -9,10 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Toronto 31 May (closing panel); Berlin material due Fri 26 May; Risk 2000 Boston 13-14 Jun → memory/domains/industry/speaking-engagements-2000.md
-- UH econo-physics programme: meeting Wed 24 May → memory/domains/industry/uh-econophysics.md
-- PoweRisk Paris 3-6 Oct (Fitzgerald, ICBI) → memory/domains/industry/speaking-engagements-2000.md
-- Cambridge real options 5-8 Jul: Leppard goes, Scholes keynote → memory/domains/industry/declined-invitations-2000.md
+- Toronto 31 May (29 May disputed); Risk 2000 panel call Wed 31 May 11 EST, Boston 14 Jun; Berlin workshops 19 Jun cancelled → memory/domains/industry/speaking-engagements-2000.md
+- Australian Energy Risk, Sydney, July: speaker pack received → memory/domains/industry/eprm-risk.md
+- Rice seminar funding extended for fall; logo mug → memory/domains/industry/rice-university.md
+- FMRC (Vanderbilt) and Wharton ET membership offers → memory/domains/industry/research-memberships-2000.md
 - CERA E-Business 26-28 Jun → memory/domains/industry/events-attending-2000.md
 
 ## Files
@@ -26,8 +26,9 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model, Enerfax list, RDI conference (Robert Brooks)
 - memory/domains/industry/market-outlooks-2000.md — outside forecasts for 2000: CERA, Poten, owner's California warning, PDO links
 - memory/domains/industry/real-options-debate-2000.md — Economist 'Fading Fads' debate on real options (Faiz's list, Apr 2000)
-- memory/domains/industry/rice-university.md — Rice: Financial Engineering initiative (Ensor), Enron-sponsored finance seminars (Brav 31 Mar), Baraniuk
-- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Toronto (31 May), Risk 2000 Boston, Berlin, PoweRisk Paris, Bachelier; done ones archived
+- memory/domains/industry/research-memberships-2000.md — research-centre membership offers: Vanderbilt FMRC, Wharton ET (May 2000)
+- memory/domains/industry/rice-university.md — Rice: Financial Engineering (Ensor), Enron-sponsored finance seminars (Ostdiek)
+- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Toronto, Risk 2000 Boston, Berlin, PoweRisk Paris; done ones archived
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Mitsubishi Research, Darden case, Texaco, NYU's Diebold, Aram
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/weather-insurance-markets.md — CME weather, CATEX, cat options (Hrgovcic, Apr 2000)

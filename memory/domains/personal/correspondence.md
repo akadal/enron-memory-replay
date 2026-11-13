@@ -3,17 +3,17 @@ id: correspondence
 type: topic
 domain: personal
 title: "Owner's private contacts and views"
-summary: "Private contacts: Maruti More (job hunting), Tony Mends (hosted the owner 22 Apr), Jana Phillips of NYMEX, a Jana (jlpnymex) for dinner and a movie Sat 20 May, Paula Corey's round table (19 May does not suit the owner), Larrissa Sharma's letter (Joe Pokalsky helps); older ones archived (Dec 1999-May 2000)."
+summary: "Private contacts: Jana Phillips (NYMEX; 3 Jun), Marek Kierlanczyk, Larrissa Sharma; Corey's round table, Tony Mends; older ones archived."
 status: active
-updated: 2000-05-14
+updated: 2000-05-26
 ---
 # Owner's private contacts and views
 
-Detail ←[[correspondence-2000-03-w13]] ←[[correspondence-2000-04-w14]] ←[[correspondence-2000-04-w15]] ←[[correspondence-2000-04-w16]] ←[[correspondence-2000-04-w17]] ←[[correspondence-2000-05-w19]]
+Detail ←[[correspondence-2000-03-w13]] ←[[correspondence-2000-04-w14]] ←[[correspondence-2000-04-w15]] ←[[correspondence-2000-04-w16]] ←[[correspondence-2000-04-w17]] ←[[correspondence-2000-05-w19]] ←[[correspondence-2000-05-w21]]
 
 - [2000-02-24] Older contacts (Stiglitz, Marek, Perlman's dinner club, Goodpasture; Maruti More's job hunt; Zadorozhny on IMF advice to Russia) archived. ←[[m00441]] ←[[m00574]] ←[[m01160]] ←[[m00758]] ←[[m01371]]
-- [2000-05-10] Paula Corey's round table (Perlman, Casari, Livermore, Mends, Lovett and others; earlier 27 Apr): moved to Fri 19 May, La Mora: "Does not wok for me." ←[[m01346]] ←[[m01629]]
-- [2000-04-19] Jana Phillips (NYMEX): "It was a pleasure meeting  you and John last Saturday."; she travels 21 Apr-8 May. ←[[m01398]] ←[[m01273]]
+- [2000-05-10] Paula Corey's round table (19 May) declined; Tony Mends hosted the owner 22 Apr. ←[[m01629]] ←[[m01414]]
 - [2000-05-11] Jana (jlpnymex): a movie with David; owner "free for the next two weekends Enron permitting"; dinner and a movie Sat 20 May: "Saturday, May the 20th looks good."; Pavilion concerts this summer. ←[[m01615]] ←[[m01648]]
-- [2000-04-24] Tony Mends (EBS) hosted the owner Sat 22 Apr and hopes to again with the owner's family. ←[[m01414]] ←[[m01455]]
 - [2000-04-26] Larrissa Sharma: the owner drafted her letter from a lawyer's original ("perfect"); "I spoke with Joe Pokalsky. He will be glad to help you." Pokalsky: Cason 3015, Houston 77056, office (770) 393 7411 (self-sent 1 May). ←[[m01497]] ←[[m01577]]
+- [2000-05-22] Jana: Sat 3 Jun instead ("Sat, June the 3rd will work for me."); his return was stuck overnight at La Guardia, "came back with a slight cold"; firm up trip plans next week. ←[[m01745]] ←[[m01756]]
+- [2000-05-23] Marek Kierlanczyk (DKB House, London; fmginy.com): the owner, signing "Wicek", tells him Vince is home Tue and Fri 1-5 pm California time, 650 497 6938. ←[[m01759]] ←[[m01767]]

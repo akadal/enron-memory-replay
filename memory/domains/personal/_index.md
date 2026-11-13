@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-05-14
+updated: 2000-05-26
 ---
 # Personal — index
 
@@ -9,11 +9,11 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Jana: dinner and a movie Sat 20 May; Corey's round table 19 May declined → memory/domains/personal/correspondence.md
-- Family back in Houston mid-June; son studies computer science → memory/domains/personal/household.md
-- Work e-mail is vkamins@enron.com; son a junior at Stanford → memory/domains/personal/household.md
+- Jana: Sat 3 Jun; trip plans to firm up → memory/domains/personal/correspondence.md
+- Travel e-mail vkaminski@palm.net (short messages) → memory/domains/personal/household.md
+- Family back in Houston mid-June; son at Stanford (computer science) → memory/domains/personal/household.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts and views (Maruti More, Tony Mends, Jana Phillips, Paula Corey's round table, Larrissa Sharma, Zadorozhny; older ones archived)
-- memory/domains/personal/household.md — owner's AOL account, home address, phones and fax, wife Ludmila, son at Stanford, brokers (Haviland, Walkup, Hazlewood)
+- memory/domains/personal/correspondence.md — private contacts (Jana Phillips, Marek Kierlanczyk, Larrissa Sharma; older ones archived)
+- memory/domains/personal/household.md — owner's AOL and palm.net e-mail, home address, phones, wife Ludmila, son at Stanford, brokers

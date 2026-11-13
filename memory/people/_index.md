@@ -1,10 +1,12 @@
 ---
 type: index
-updated: 2000-05-21
+updated: 2000-05-26
 ---
 # People — index
 
 ## Files
+
+An alias that only adds a middle name or initial (Kevin G Moore) is in the entity file alone.
 
 - Adam Brulinski — adam-brulinski
 - Alan Aronowitz — alan-aronowitz
@@ -39,22 +41,25 @@ updated: 2000-05-21
 - Dave Delainey — dave-delainey
 - David Cox — david-cox
 - David Gorte — Dave Gorte — david-gorte
-- David Walkup — David C. Walkup — david-walkup
+- David Oxley — david-oxley
+- David Walkup — david-walkup
 - Dawn Scovill — dawn-scovill
-- Debbie Brackett — Debbie R Brackett — debbie-brackett
+- Debbie Brackett — debbie-brackett
+- Dennis Benevides — dennis-benevides
 - Dorn Hetzel — dorn-hetzel
 - Doug Leach — doug-leach
 - Ed Krapels — ed-krapels
 - Edward Kao — edward-kao
-- Ehud Ronn — Ehud I. Ronn — ehud-ronn
+- Ehud Ronn — ehud-ronn
+- Elena Chilkina — elena-chilkina
 - Elizabeth Grant — elizabeth-grant
 - Emma Wolfin — emma-wolfin
 - Eugenio Perez — eugenio-perez
 - Farouk Lalji — farouk-lalji
 - Fred Lagrasta — fred-lagrasta
 - Gary Hickerson — gary-hickerson
-- Ginger Gamble — Ginger B Gamble — ginger-gamble
-- Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — giuseppe-paleologo
+- Ginger Gamble — ginger-gamble
+- Giuseppe Paleologo — Gappy — giuseppe-paleologo
 - Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — gopalakrishnan-subramaniam
 - Gordon Sick — gordon-sick
 - Grant Masson — grant-masson
@@ -62,7 +67,7 @@ updated: 2000-05-21
 - Harry Arora — harry-arora
 - Helyette Geman — helyette-geman
 - Iain Russell — iain-russell
-- Jana Phillips — Jana Laird Phillips — jana-phillips
+- Jana Phillips — jana-phillips
 - Jarek Astramowicz — jarek-astramowicz
 - Jason Sokolov — jason-sokolov
 - Jay Webb — jay-webb
@@ -70,6 +75,7 @@ updated: 2000-05-21
 - Jeff Shankman — Jeffrey A Shankman — jeff-shankman
 - Jeff Skilling — jeff-skilling
 - Jens Gobel — jens-gobel
+- Jere Overdyke — jere-overdyke
 - Jim Dyer — James S. Dyer — jim-dyer
 - Jim Garven — James R. Garven — jim-garven
 - Jim Irvine — jim-irvine
@@ -86,10 +92,11 @@ updated: 2000-05-21
 - Joseph Hrgovcic — Joe Hrgovcic — joseph-hrgovcic
 - Karla Feldman — karla-feldman
 - Katja Schilling — katja-schilling
+- Keith Baggerly — keith-baggerly
 - Ken Rice — ken-rice
 - Kevin Hannon — kevin-hannon
 - Kevin Kindall — kevin-kindall
-- Kevin Moore — Kevin G Moore — kevin-moore
+- Kevin Moore — kevin-moore
 - Kimberly Watson — kimberly-watson
 - Kirstee Hewitt — kirstee-hewitt
 - Kristy Carnes — kristy-carnes
@@ -98,24 +105,26 @@ updated: 2000-05-21
 - Li Xiao — li-xiao
 - Linda Vargo — linda-vargo
 - Lisa Ford — lisa-ford
-- Liz Taylor — Liz M Taylor — liz-taylor
-- Lou Pai — Lou L Pai — lou-pai
+- Liz Taylor — liz-taylor
+- Lou Pai — lou-pai
 - Louise Kitchen — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
 - Lyn Malina — lyn-malina
 - Manuel Rensink — manuel-rensink
 - Margaret Carson — margaret-carson
-- Mark Palmer — Mark S Palmer — mark-palmer
+- Mark Palmer — mark-palmer
 - Mark Ruane — mark-ruane
+- Mark Tawney — mark-tawney
 - Martin Lin — martin-lin
 - Martina Angelova — martina-angelova
-- Maruti More — Maruti D. More — maruti-more
+- Maruti More — maruti-more
 - Masayuki Fujita — masayuki-fujita
 - Matthew Williams — Matt Williams — matthew-williams
 - Maureen Raymond — maureen-raymond
 - Michael Sergeev — michael-sergeev
 - Mike McConnell — mike-mcconnell
-- Mike Roberts — Mike A Roberts — mike-roberts
+- Mike Roberts — mike-roberts
+- Ming Sit — ming-sit
 - Nick Bambos — nick-bambos
 - Norberto Valdes — norberto-valdes
 - Nurit Krausz — nurit-krausz
@@ -128,16 +137,18 @@ updated: 2000-05-21
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
 - Peter Tufano — peter-tufano
 - Phelim Boyle — P.P. Boyle — phelim-boyle
-- Philippe Bibi — Philippe A Bibi — philippe-bibi
+- Philippe Bibi — philippe-bibi
 - Pinnamaneni Krishnarao — Krishna Krishnarao — pinnamaneni-krishnarao
 - Ravi Thuraisingham — ravi-thuraisingham
+- Richard Lewis — richard-lewis
 - Rick Buy — rick-buy
-- Robert Brooks — Robert E. Brooks, Bob Brooks — robert-brooks
+- Robert Brooks — Bob Brooks — robert-brooks
 - Robert Lee — Bob Lee — robert-lee
 - Robert Rudy — robert-rudy
 - Rodney Greene — rodney-greene
 - Roman Zadorozhny — roman-zadorozhny
 - Ronnie Chahal — ronnie-chahal
+- Ross Prevatt — ross-prevatt
 - Rudi Zipter — rudi-zipter
 - Sally Beck — sally-beck
 - Samer Takriti — samer-takriti
@@ -166,7 +177,7 @@ updated: 2000-05-21
 - Vasant Shanbhogue — vasant-shanbhogue
 - Vicky Windsor — vicky-windsor
 - Vincent Tang — vincent-tang
-- William Bradford — William S Bradford — william-bradford
+- William Bradford — william-bradford
 - William Smith — Sam Smith — william-smith
 - Yannis Tzamouranis — yannis-tzamouranis
 - Zimin Lu — zimin-lu
