@@ -10,10 +10,10 @@ decision record); this file is the description of what actually runs.
 |---|---|---|---|
 | S0 stream | `build_stream.py` | none | one mailbox from the checksummed tarball, de-duplicated across folders, ordered by UTC instant, messages without a placeable date set aside; owner addresses from a hand-checked list |
 | S1 describe | `preprocess.py` | none | `dataset/manifest.csv`: id, direction, bulk class, quote pointers, same-body links, thread; for each message its new text, with repeated runs replaced by `[quoted from m<seq>, k lines]` |
-| S2 capture | `capture.py` | Claude Haiku 5.5 (OpenRouter), prompt `capture-v3` | one stateless call per message: durable or not (with a reason class), up to five notes; owner quotes verified as verbatim substrings; one recorded retry for a "quote_only" or "empty" verdict on more than 500 new characters |
+| S2 capture | `capture.py` | Claude Opus 5.5, effort high (`claude -p`, Claude Code 2.1.323, capture prompt as system prompt, no tools), prompt `capture-v3` | one stateless call per message: durable or not (with a reason class), up to five notes; owner quotes verified as verbatim substrings; one recorded retry for a "quote_only" or "empty" verdict on more than 500 new characters |
 | S3 slice | `slices.py` | none | `dataset/slices.csv`: one slice per ISO week, weeks above 200 messages split; simulated today = last message's date |
 | S4 feed | `feed.py` | none | per slice: L2 files, inbox notes, capture records, one commit |
-| S5 consolidate | `run.sh` | Claude Opus 5.5 (`claude -p`, Claude Code 2.1.323 pinned, auto-update off) | eleman's own sleep prompt plus the replay preamble; one commit per slice |
+| S5 consolidate | `run.sh` | Claude Opus 5.5, effort high (`claude -p`, Claude Code 2.1.323 pinned, auto-update off) | eleman's own sleep prompt plus the replay preamble; one commit per slice |
 | S6 check | `run.sh`, `ledger.py`, `date_leaks.py` | none | gates from outside; ledger; record; tag `sleep-<kkk>` |
 
 Steps S0-S3 are deterministic: run twice, byte-identical output. S2 and S5 are model calls and
@@ -53,6 +53,11 @@ its source message; that the run lists in `dataset/drops/sleep-<kkk>.tsv` every 
 it chose not to keep, with a class (redundant, logistics, social, no_owner_content, other) and a
 reason; and that it commits but does not push.
 
+The preamble also asks for an entity file for every person who appears in five or more messages
+with notes, from the consolidation in which the fifth arrives. Without it, Opus kept people inside
+topic files: after ten weeks 15 people seen in five or more messages had no entity file
+(`dataset/audit/2026-11-13-5-checks-a-and-b.md`).
+
 Unattended, nobody approves an alias, an entity merge or a new domain (eleman's approval gates):
 those proposals stay in `questions.md` and close by status quo. The dataset therefore offers alias
 questions, not a curated alias table.
@@ -66,8 +71,10 @@ questions, not a curated alias table.
 5. `ledger.py`: every message the capture step marked durable is either cited by an L1 fact or
    listed as dropped (no silent loss), and no fact cites a later message. One repair turn is
    allowed and recorded; a second failure stops the run.
-6. The weekly subscription quota is below 80% before a slice starts; when the five-hour window is
-   at 90% or more the runner waits for it to refill (at most six hours).
+6. Quota: when the subscription's weekly meter is at 90% or more the runner waits for the weekly
+   reset, and when the five-hour window is at 90% or more it waits for that to refill; a slice
+   whose capture records are not written yet is waited for as well. Waiting changes nothing in
+   the data; it only spreads the run over more days.
 7. The harness is Claude Code 2.1.323; the runner refuses any other version.
 
 The ledger also records the kept rate excluding drops classed as redundant, the classes of the
@@ -82,7 +89,10 @@ take its place.
 eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing else does.
 
 - Root `README.md` and `CITATION.cff` describe the dataset; eleman's are in `docs/`.
-- `people_index` budget raised from [2300, 2900] to [5000, 6500] characters.
+- `people_index` budget raised from [2300, 2900] to [5000, 6500] characters, and the domain
+  `index` budget from [1600, 2000] to [3200, 4000]: after ten of 122 weeks two indexes stood at 89%
+  of the shipped ceiling.
+- The preamble's entity-file sentence (above).
 - Raw mail lives in `memory/archive/mail/YYYY/`, a source segment like `archive/inbox/`, not a
   domain segment.
 - The replay preamble above; the `pre-sleep` checkpoint is set by the runner; the lock commit of
@@ -114,11 +124,12 @@ for two decades and is used as the CMU release holds it. Concretely:
 Each role uses one model throughout (README, "Models"), measured against Claude Opus 5.5, the
 model the reference deployment of eleman runs on (`dataset/validation/`):
 
-- **Capture: Claude Haiku 5.5.** On 96 stratified pilot messages, judged blind both ways, Haiku
-  and Opus each miss about a third of the other's facts, while Opus costs about twenty times
-  more; DeepSeek V4 Pro reached 41% of Opus's facts. Haiku's weakness was the durable verdict
-  (8 messages Opus kept, against 1), which prompt v3 and the retry guard address; the control is
-  repeated on the corrected pipeline.
+- **Capture: Claude Opus 5.5.** On 96 stratified pilot messages, judged blind both ways, Claude
+  Haiku 5.5 and Opus each miss about a third of the other's facts (after prompt v3: Haiku 73% of
+  Opus's, Opus 61% of Haiku's), and DeepSeek V4 Pro reached 41% of Opus's facts. Haiku would have
+  done; Opus was chosen so that one model does all model work in the dataset, which makes it
+  simpler to describe and to reuse. On a subscription the price difference is quota, not money:
+  a measured $0.018 list-equivalent per capture call.
 - **Consolidation: Claude Opus 5.5.** On pilot slices 1-3 (branch `control-opus`) Opus kept every
   durable message, wrote standing topics instead of dated one-off files, stayed inside every
   budget, and cost 1.19 times Sonnet 5.5 with a third of the turns (review in
@@ -131,13 +142,15 @@ model the reference deployment of eleman runs on (`dataset/validation/`):
 | `pilot-raw` (tags `pilot-raw-01..03`) | raw mail fed straight into the inbox, 100 messages per consolidation, Sonnet 5.5 |
 | `pilot-v2` (tags `pilot-v2-001..007`) | the capture pipeline before the stream and prompt fixes, weekly slices 1-7, Sonnet 5.5, Claude Code 2.1.263 |
 | `control-opus` (tags `control-opus-001..003`) | slices 1-3 of `pilot-v2`'s feed consolidated by Opus 5.5 |
+| `pilot-v3` (tags `pilot-v3-001..010`) | the corrected pipeline with Haiku capture and Opus consolidation, slices 1-10; checks A and B ran on it |
 
 `main` was restarted from the setup commit after the review; its slices are the dataset.
 
 ## Run plan
 
-A first stretch of ten slices (554 messages) is checked against fixed criteria before the run
-continues: all green with at most one repair turn; no index over its ceiling and no topic closed
-to make room; every person cited in five or more messages has an entity file; the weekly quota
-moves at most 12 points. The full run then proceeds in quota-sized stretches, resumable at any
-slice.
+Checks A and B (`dataset/audit/2026-11-13-5-checks-a-and-b.md`) settled the pipeline; the
+three changes they led to (Opus capture, the entity sentence, the index budget) start `main` from
+slice 1 again. The capture step runs ahead over the whole mailbox while the weekly
+consolidations follow, each waiting for its slice's records; the run waits out quota windows and
+is resumable at any slice. A review of the first thirty slices decides whether anything changes
+before the rest.

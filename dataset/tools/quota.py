@@ -15,7 +15,10 @@ URL = "https://api.anthropic.com/api/oauth/usage"
 
 def main():
     try:
-        path = os.path.join(os.path.expanduser("~"), ".claude", ".credentials.json")
+        # The account the run uses: CLAUDE_CONFIG_DIR when set (a second subscription kept apart
+        # from the operator's own), otherwise Claude Code's default folder.
+        base = os.environ.get("CLAUDE_CONFIG_DIR") or os.path.join(os.path.expanduser("~"), ".claude")
+        path = os.path.join(base, ".credentials.json")
         with open(path, encoding="utf-8") as f:
             token = json.load(f)["claudeAiOauth"]["accessToken"]
         req = urllib.request.Request(URL, headers={"Authorization": "Bearer " + token,

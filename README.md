@@ -36,32 +36,35 @@ distilled memory after every week, with the links between them.
 
 `dataset/DESIGN.md` describes every stage and every deviation from eleman as shipped; the short
 version: a checksummed source tarball, a deterministic Python stream (de-duplication, owner
-addresses, quote pointers, no model), one stateless capture call per message (Claude Haiku 5.5),
-and one consolidation per ISO week (Claude Opus 5.5, eleman's own prompt plus a replay preamble),
+addresses, quote pointers, no model), one stateless capture call per message and one
+consolidation per ISO week, both by Claude Opus 5.5 (eleman's own prompt plus a replay preamble),
 each checked from outside before the next week is fed. `dataset/audit/` holds the reviews the
 design went through, before it ran and after its pilots.
 
-Three pilots are kept as branches and tagged: `pilot-raw` (raw mail straight into the inbox),
-`pilot-v2` (the capture pipeline before the review's fixes, Sonnet 5.5) and `control-opus` (the
-same feed consolidated by Opus 5.5). `dataset/DESIGN.md` says what each one is.
+Four pilots are kept as branches and tagged: `pilot-raw` (raw mail straight into the inbox),
+`pilot-v2` (the capture pipeline before the review's fixes, Sonnet 5.5), `control-opus` (the
+same feed consolidated by Opus 5.5) and `pilot-v3` (ten weeks on the corrected pipeline, Haiku
+capture). `dataset/DESIGN.md` says what each one is.
 
 ## Models
 
-One model per role, fixed for the whole run, so every result can be read against a known setup.
+One model for every model call, fixed for the whole run, so every result can be read against a
+known setup: **Claude Opus 5.5** (`claude-opus-5-5`), effort `high`, through Claude Code 2.1.323
+(`claude -p`, a pinned copy, auto-update off) on a Claude subscription.
 
-| Role | Model | How it is called |
-|---|---|---|
-| Capture (one call per message) | Claude Haiku 5.5 (`anthropic/claude-haiku-5.5`) | OpenRouter chat completions, prompt `capture-v3`, default sampling |
-| Consolidation, weekly | Claude Opus 5.5 (`claude-opus-5-5`) | Claude Code 2.1.323 (pinned, auto-update off), `claude -p`, eleman's sleep prompt plus the replay preamble |
-| Coverage repair turn (when needed) | Claude Opus 5.5 | same as consolidation |
-| Everything else (stream, description, slicing, gates, ledger) | none | deterministic Python |
+| Role | Call |
+|---|---|
+| Capture, one call per message | Claude Code's system prompt replaced by the capture prompt (`capture-v3`), no tools, one turn |
+| Consolidation, weekly | eleman's sleep prompt plus the replay preamble, Claude Code's own tools |
+| Coverage repair turn (when needed) | same as consolidation |
+| Everything else (stream, description, slicing, gates, ledger) | deterministic Python, no model |
 
-The CLI version, token counts and cost of every call are in `dataset/capture/` and
-`dataset/runs/`. Whether the smaller models lose anything against Claude Opus 5.5 is measured,
-not assumed: on a stratified sample, Haiku and Opus each miss about a third of what the other
-captures, at a twentieth of the cost, and DeepSeek V4 Pro reaches 41% of Opus's facts
-(`dataset/validation/capture-control/`). Consolidation runs on Opus itself, chosen over Sonnet 5.5
-after a side-by-side on the same feed (`dataset/audit/2026-11-13-4-pilot-review.md`).
+Token counts and the list-price equivalent of every call are in `dataset/capture/` and
+`dataset/runs/`. Cheaper models were measured against Opus before this choice, and the results
+are kept for anyone who wants to rebuild the dataset more cheaply: Claude Haiku 5.5 and Opus each
+miss about a third of what the other captures, DeepSeek V4 Pro reaches 41% of Opus's facts
+(`dataset/validation/`), and Opus consolidates with fewer losses and less bloat than Sonnet 5.5
+on the same feed (`dataset/audit/2026-11-13-4-pilot-review.md`).
 
 ## The data is used as it is
 
