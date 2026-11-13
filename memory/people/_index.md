@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 1999-12-19
+updated: 2000-01-07
 ---
 # People and organisations — index
 

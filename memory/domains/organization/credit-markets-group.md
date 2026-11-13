@@ -2,12 +2,14 @@
 id: credit-markets-group
 type: topic
 domain: organization
-title: "Enron Credit Markets Group (Bryan Seyfried) and credit white paper"
-summary: "Dec 1999: Credit Markets Group formed in London under Bryan Seyfried; wants the owner's 'Actively Managing Credit Risk' paper updated into a white paper."
+title: "Enron Credit Markets Group (Bryan Seyfried), credit white paper and credit articles"
+summary: "Dec 1999: Credit Markets Group formed in London under Bryan Seyfried; wants the owner's credit paper as a white paper. Jan 2000: Parsons article for the website; reuse of the Risk credit article needs RISK's permission."
 status: active
-updated: 2000-01-01
+updated: 2000-01-07
 ---
 # Enron Credit Markets Group and credit white paper
 
-- [1999-12-17] John Sherriff's 7 Dec announcement (owner forwarded it to AOL): the Credit Markets Group manages Enron's internal credit portfolio risk and sells third-party credit protection, first as bankruptcy protection on reference credits in Enron's portfolio, via EnronOnline and an external website; based in London with a Houston desk; public announcement expected late January 2000. Bryan Seyfried leaves RAC to lead it, reporting to Sherriff. ←[[m00072]] [1999-12-30] Owner forwarded the announcement (via Anjam Ahmad) to AOL again. ←[[m00117]]
-- [1999-12-17] Seyfried asked [[pinnamaneni-krishnarao]] and the owner for a soft copy of "Actively Managing Credit Risk" (Risk Publications, co-authored by [[vasant-shanbhogue]]), to be updated by LSE intern Bijoya Banerjea into a white paper for the group's website; Katja Schilling asked Shanbhogue to help over the next few weeks. ←[[m00052]] [1999-12-30] Re-forwarded to AOL. ←[[m00118]]
+- [1999-12-17] John Sherriff's 7 Dec announcement: the Credit Markets Group manages Enron's internal credit portfolio risk and sells third-party credit protection (first bankruptcy protection on reference credits) via EnronOnline and an external website; London-based with a Houston desk; public launch expected late January 2000. Bryan Seyfried leaves RAC to lead it, reporting to Sherriff. Owner forwarded it to AOL (again 1999-12-30). ←[[m00072]] ←[[m00117]]
+- [1999-12-17] Seyfried asked [[pinnamaneni-krishnarao]] and the owner for "Actively Managing Credit Risk" (Risk Publications, with [[vasant-shanbhogue]]) for LSE intern Bijoya Banerjea to update into a white paper for the website; Katja Schilling asked Shanbhogue to help. ←[[m00052]] ←[[m00118]]
+- [2000-01-03] Benjamin Parsons asked to post his "Measuring Credit Risk" article on the credit trading website (Banerjea builds it; Ross Prevatt copied); owner: "If you don't hear from me by Wednesday, it's OK to post it." ←[[m00129]]
+- [2000-01-06] Schilling wants external use of the credit article (Risk Books, 1998, "Credit Derivatives"); owner: "RISK magazine has the copyright" — ask Shan Millie, Risk Books London; Vasant: rewording does not allow reuse. [2000-01-07] Schilling is contacting Risk Books. ←[[m00170]] ←[[m00175]]

@@ -1,9 +1,9 @@
 # State — right now
 
-As of 2000-01-01 (replay clock).
+As of 2000-01-07 (replay clock).
 
-- CreditManager net-meeting Fri 2000-01-07, 9:30 → memory/domains/work/2000-01-07-creditmanager-net-meeting.md
-- Risk 2000 talk title + bullets due ~2000-01-07; TFF registration asked → memory/domains/industry/conferences-2000.md
-- Argentina modelling meeting (Guerriero), 1st week of Jan → memory/domains/work/argentina-modelling.md
-- Owed after the holidays: Andy Knight, MacMinn, Sam's comp (McBride) → memory/domains/organization/recruiting.md
-- Open asks: Parsons (EPRM), Kohli (Dabhol), PSE vol/correlation → memory/domains/industry/eprm-monte-carlo-course.md
+- Day rate hedge analysis for Peyton/Hilgert due Tue 01-11 → memory/domains/work/amerada-hess-day-rate-hedge.md
+- UH workshop 01-12/13 and NYU Stern conference 01-13/14 → memory/domains/industry/events-and-seminars-2000.md
+- EWRM meeting Fri 01-21; Enron NA Mondays 9:30 → memory/domains/work/standing-and-scheduled-meetings.md
+- Phone Ray Spudeck next week → memory/domains/organization/recruiting.md
+- Tufts reprint due 01-22; Argentina meeting unscheduled → memory/domains/work/managing-energy-price-risk-book.md
