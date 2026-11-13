@@ -1,0 +1,186 @@
+{
+ "slice": 3,
+ "simulated_today": "1999-12-19",
+ "feed": {
+  "slice": 3,
+  "iso_week": "1999-W50",
+  "first_seq": 10,
+  "last_seq": 73,
+  "messages": 64,
+  "durable": 46,
+  "first_date": "1999-12-13 02:08",
+  "last_date": "1999-12-19 12:39",
+  "today": "1999-12-19",
+  "inbox_files": [
+   "1999-12-13--mail.md",
+   "1999-12-14--mail.md",
+   "1999-12-15--mail.md",
+   "1999-12-16--mail.md",
+   "1999-12-17--mail.md",
+   "1999-12-19--mail.md"
+  ],
+  "inbox_chars": 39872,
+  "l2_chars": 227063
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 404,
+ "quota_before": {
+  "five_hour": 5.0,
+  "seven_day": 1.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 9.0,
+  "seven_day": 2.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 3,
+  "messages": 64,
+  "durable": 46,
+  "kept": 41,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {
+   "redundant": 5
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 49,
+  "fact_lines_with_source": 76,
+  "dated": 76,
+  "date_matches_source": 76,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.67,
+   0.75,
+   0.75,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 548
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 24,
+   "chars": 24170
+  },
+  "people": {
+   "files": 8,
+   "chars": 5110
+  },
+  "archive_inbox": {
+   "files": 9,
+   "chars": 45625
+  },
+  "archive_mail": {
+   "files": 99,
+   "chars": 314076
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 32,
+   "duration_ms": 401552,
+   "duration_api_ms": 243516,
+   "total_cost_usd": 1.8163143999999996,
+   "usage": {
+    "input_tokens": 62,
+    "cache_creation_input_tokens": 89675,
+    "cache_read_input_tokens": 2743632,
+    "output_tokens": 27497,
+    "output_tokens_details": {
+     "thinking_tokens": 7494
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 89675,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 616,
+      "cache_read_input_tokens": 121266,
+      "cache_creation_input_tokens": 200,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 200
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 62,
+     "outputTokens": 27497,
+     "cacheReadInputTokens": 2743632,
+     "cacheCreationInputTokens": 89675,
+     "webSearchRequests": 0,
+     "costUSD": 1.8163143999999996,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 7494,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 89675,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 31,
+   "result_summary": "I finished the 1999-12-19 consolidation as one commit, `cade326`, and did not push it, because the replay preamble says the runner pushes. Lint and `sleep-audit.py` both passed before the commit, and `sleep-audit.py --last` passes on the commit itself. Of the week's 64 messages, 46 had notes: 41 are now cited in L1 and 5 are listed in `dataset/drops/sleep-003.tsv` as redundant (Helen Evans's thank-you, and the owner forwarding things to his own AOL address: m00048, m00050, m00059, m00063). There was no source to pull, no sleep task, no question to close, and nothing went to `questions.md`. The week landed mostly in 16 new topic files, among them the Warsaw requests (emission-trading material and the PSE swap), London's new Credit Markets Group, Clayton Vernon's gas model, the owner's 2000 conference roles, Rice's Financial Engineering program, and the 15–16 Dec HR and ENA reorganization announcements. Only `research-group.md` grew among the existing files, and I trimmed it and the new conference file back under the 1,600-character target. Seven people reached five noted messages and now have entity files: Gibner, Crenshaw, Shanbhogue, Hrgovcic, Moore, Brulinski and Roberts. I listed only spellings seen in the mail as their aliases (\"Joe Hrgovcic\", \"Kevin G Moore\", \"Mike A Roberts\") and merged nothing; since these are new entities rather than names added to existing ones, I did not send them to `questions.md`. I also updated `state.md` and every index, and moved the six processed inbox logs to `memory/archive/inbox/`. `dataset/runs/sleep-003.transcript.jsonl` is still untracked, since that file belongs to the runner."
+  },
+  "repair": null
+ }
+}
