@@ -1,0 +1,172 @@
+{
+ "slice": 2,
+ "simulated_today": "1999-12-12",
+ "feed": {
+  "slice": 2,
+  "iso_week": "1999-W49",
+  "first_seq": 2,
+  "last_seq": 9,
+  "messages": 8,
+  "durable": 6,
+  "first_date": "1999-12-10 05:12",
+  "last_date": "1999-12-12 07:22",
+  "today": "1999-12-12",
+  "inbox_files": [
+   "1999-12-10--mail.md",
+   "1999-12-12--mail.md"
+  ],
+  "inbox_chars": 4456,
+  "l2_chars": 14094
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 91,
+ "quota_before": {},
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 2,
+  "messages": 8,
+  "durable": 6,
+  "kept": 6,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 7,
+  "fact_lines_with_source": 19,
+  "dated": 19,
+  "date_matches_source": 18,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   null,
+   1.0,
+   1.0,
+   null,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 470
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 10,
+   "chars": 7110
+  },
+  "people": {
+   "files": 4,
+   "chars": 2147
+  },
+  "archive_inbox": {
+   "files": 3,
+   "chars": 5094
+  },
+  "archive_mail": {
+   "files": 35,
+   "chars": 87013
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 11,
+   "duration_ms": 89483,
+   "duration_api_ms": 77136,
+   "total_cost_usd": 0.634783,
+   "usage": {
+    "input_tokens": 20,
+    "cache_creation_input_tokens": 42877,
+    "cache_read_input_tokens": 566835,
+    "output_tokens": 8916,
+    "output_tokens_details": {
+     "thinking_tokens": 2231
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 42877,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 537,
+      "cache_read_input_tokens": 74002,
+      "cache_creation_input_tokens": 671,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 671
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 20,
+     "outputTokens": 8916,
+     "cacheReadInputTokens": 566835,
+     "cacheCreationInputTokens": 42877,
+     "webSearchRequests": 0,
+     "costUSD": 0.634783,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 2231,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 42877,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 10,
+   "result_summary": "Sleep 002 is committed as `a5c7edf`, and lint and `sleep-audit.py` were both green before the commit (lint still shows its two old over-target warnings, for `MEMORY.md` and `AGENTS.md`). I didn't push: your instructions say both \"commit, but do not push\" and \"git push origin main\", and I followed the first, so the runner can push after its checks. I wrote six messages with notes (m00002–m00005, m00007, m00008) into five new topic files. In work, there's the naphtha cap pricing for Maharashtra and Robert Lee's office visit on 1999-12-29 at 9:00. In organization, there's the research group's move to the EB 19th floor with the office roster (your office is EB 1933), and the rankings you sent Brad McSherry, approved by Greg. In industry, there's the EPRM/RISK Monte Carlo speaker request, where you recommended Stinson Gibner. I also created three people files (Stinson Gibner, Shirley Crenshaw and Pinnamaneni Krishnarao, with the alias \"Krishna Krishnarao\" from the same messages) and refreshed the three indexes and `state.md`. m00006 and m00009 had no notes, so `dataset/drops/sleep-002.tsv` is committed empty. No file was near its size limit, so there was nothing to compress. The only ongoing line (vega VaR) is still valid, and there were no sleep tasks and no questions. Both inbox logs are now in `memory/archive/inbox/`. The runner's `dataset/runs/sleep-002.transcript.jsonl` is left untracked."
+  },
+  "repair": null
+ }
+}
