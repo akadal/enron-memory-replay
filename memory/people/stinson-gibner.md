@@ -5,7 +5,7 @@ entity: person
 name: "Stinson Gibner"
 aliases: []
 domains: [organization, industry]
-updated: 1999-12-26
+updated: 2000-01-01
 ---
 Stinson Gibner, Enron; the owner's associate in the research group.
 
@@ -14,6 +14,7 @@ Stinson Gibner, Enron; the owner's associate in the research group.
 - Copied on the Credit Markets Group announcement: memory/domains/organization/credit-markets-group.md ←[[m00072]]
 - Asked to audit Anjam Ahmad's UK power vol curve generator: memory/domains/work/uk-power-volatility-curve-generator.md ←[[m00098]]
 - Asked to review the Research Intelligence memo and Technical Corner binder: memory/domains/work/research-intelligence-newsletter.md ←[[m00101]]
+- Sent Wes Colwell the RTHM put valuation (LJM): memory/domains/work/ljm-rthm-put-valuation.md ←[[m00103]]
 
 ## Context: industry
 - Recommended by the owner as the new Enron speaker for EPRM's Monte Carlo course: memory/domains/industry/eprm-monte-carlo-speaker.md ←[[m00003]]
