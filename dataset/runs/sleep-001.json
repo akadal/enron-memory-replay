@@ -1,0 +1,176 @@
+{
+ "slice": 1,
+ "simulated_today": "1999-11-30",
+ "feed": {
+  "slice": 1,
+  "iso_week": "1999-W48",
+  "first_seq": 1,
+  "last_seq": 1,
+  "messages": 1,
+  "durable": 1,
+  "first_date": "1999-11-30 03:22",
+  "last_date": "1999-11-30 03:22",
+  "today": "1999-11-30",
+  "inbox_files": [
+   "1999-11-30--mail.md"
+  ],
+  "inbox_chars": 606,
+  "l2_chars": 1461
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 42,
+ "quota_before": {
+  "five_hour": 34.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 34.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 1,
+  "messages": 1,
+  "durable": 1,
+  "kept": 1,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1,
+  "fact_lines_with_source": 2,
+  "dated": 2,
+  "date_matches_source": 1,
+  "kept_rate_by_decile": [
+   1.0,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 116
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 5,
+   "chars": 1585
+  },
+  "people": {
+   "files": 1,
+   "chars": 345
+  },
+  "archive_inbox": {
+   "files": 1,
+   "chars": 606
+  },
+  "archive_mail": {
+   "files": 27,
+   "chars": 72919
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 8,
+   "duration_ms": 39572,
+   "duration_api_ms": 29635,
+   "total_cost_usd": 0.7067129999999999,
+   "usage": {
+    "input_tokens": 16,
+    "cache_creation_input_tokens": 70444,
+    "cache_read_input_tokens": 423485,
+    "output_tokens": 2920,
+    "output_tokens_details": {
+     "thinking_tokens": 506
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 70444,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 426,
+      "cache_read_input_tokens": 69912,
+      "cache_creation_input_tokens": 532,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 532
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 16,
+     "outputTokens": 2920,
+     "cacheReadInputTokens": 423485,
+     "cacheCreationInputTokens": 70444,
+     "webSearchRequests": 0,
+     "costUSD": 0.7067129999999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 506,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 70444,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 7,
+   "result_summary": "The consolidation for 1999-11-30 is committed as `de05a6d`, and lint and `sleep-audit.py` both passed before the commit. The inbox held one message, m00001, about vega VaR, and there was no sleep task. I opened `memory/domains/work/vega-var.md` with two fact lines, each linked back to m00001. One says Vincent Tang expects vega VaR to go live soon (1999-11-29). The other says vega positions are now captured every day, but the vega validation is down, and Jonathan Le suggested working it out with Debbie Brackett and Rudi Zipter (1999-11-30); the owner was cc'd. I also updated the work index's Hot and Files sections and `state.md`, moved the processed log to `memory/archive/inbox/1999-11-30--mail.md`, and wrote an empty `dataset/drops/sleep-001.tsv` because the one message is cited. I created no people files, so no merges, aliases or questions came up, and `todo.md` had nothing to clear. The compression quota had nothing to act on: lint's only warnings are the existing ones that `MEMORY.md` and `AGENTS.md` are over their target size. I did not push, as the replay instructions say, and I left the untracked `dataset/runs/` folder out of the commit."
+  },
+  "repair": null
+ }
+}
