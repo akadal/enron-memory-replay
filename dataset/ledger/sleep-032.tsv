@@ -1,0 +1,69 @@
+id	durable	status	detail
+m02233	yes	kept	domains/industry/visitors-2000.md
+m02234	no	not_durable	automated
+m02235	yes	kept	domains/organization/mg-metals-integration.md people/lloyd-fleming.md
+m02236	yes	kept	domains/industry/eprm-risk.md people/raymond-yeow.md
+m02237	yes	kept	domains/industry/eprm-risk.md people/raymond-yeow.md
+m02238	yes	kept	domains/industry/eprm-risk.md people/paul-quilkey.md
+m02239	no	not_durable	logistics
+m02240	yes	kept	domains/personal/investments-2000.md people/julie-haviland.md
+m02241	no	not_durable	quote_only
+m02242	yes	kept	domains/organization/software-licenses.md
+m02243	no	not_durable	logistics
+m02244	yes	kept	domains/organization/london-research.md
+m02245	yes	kept	domains/work/eol-content-2000.md
+m02246	yes	kept	domains/organization/london-research.md
+m02247	yes	kept	domains/work/ut-austin-ties-2000.md people/shelly-jones.md
+m02248	yes	kept	domains/industry/eprm-risk.md people/paul-quilkey.md people/raymond-yeow.md
+m02249	no	not_durable	bulk
+m02250	yes	kept	domains/organization/mid-year-prc-2000.md domains/work/vendor-offers-2000.md
+m02251	yes	dropped	other: the owner e-mails himself a library link as a bookmark
+m02252	yes	kept	domains/industry/esai-energycast-review.md
+m02253	yes	kept	domains/work/japan-merchant-business.md
+m02254	no	not_durable	logistics
+m02255	yes	kept	domains/work/aga-storage-forecast.md
+m02256	no	not_durable	logistics
+m02257	no	not_durable	bulk
+m02258	yes	kept	domains/organization/london-research.md
+m02259	yes	kept	domains/work/credit-markets.md
+m02260	yes	kept	domains/personal/correspondence.md
+m02261	yes	kept	domains/organization/office-equipment.md
+m02262	yes	kept	domains/organization/recruiting-candidates.md
+m02263	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02264	yes	kept	domains/industry/esai-energycast-review.md
+m02265	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02266	yes	kept	domains/organization/summer-interns-2000.md
+m02267	yes	kept	domains/industry/esai-energycast-review.md
+m02268	yes	kept	domains/organization/recruiting-candidates.md
+m02269	yes	kept	domains/industry/esai-energycast-review.md
+m02270	yes	kept	domains/work/vendor-offers-2000.md
+m02271	yes	kept	domains/organization/research-group.md
+m02272	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02273	yes	kept	domains/work/stanford-research-ties.md
+m02274	yes	kept	domains/organization/mg-metals-integration.md
+m02275	yes	kept	domains/organization/mg-metals-integration.md people/lloyd-fleming.md
+m02276	yes	kept	domains/work/lng-book-2000.md
+m02277	yes	dropped	other: the owner e-mails himself a bare phone-number contact entry
+m02278	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02279	yes	kept	domains/organization/candidate-referrals-2000.md
+m02280	yes	kept	domains/work/lng-book-2000.md
+m02281	no	not_durable	bulk
+m02282	yes	kept	domains/organization/mid-year-prc-2000.md domains/organization/research-group.md
+m02283	yes	kept	domains/organization/research-group.md
+m02284	no	not_durable	logistics
+m02285	no	not_durable	other
+m02286	yes	kept	domains/personal/recruiter-approaches-2000.md
+m02287	yes	kept	domains/organization/mg-metals-integration.md people/lloyd-fleming.md
+m02288	yes	kept	domains/organization/london-research.md
+m02289	yes	kept	domains/work/enterprise-risk-management.md
+m02290	yes	kept	domains/organization/london-research.md people/lloyd-fleming.md
+m02291	yes	kept	domains/organization/candidate-referrals-2000.md
+m02292	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02293	yes	kept	domains/organization/summer-interns-2000.md
+m02294	yes	kept	domains/work/university-relations.md people/beth-miertschin.md people/shelly-jones.md
+m02295	no	not_durable	logistics
+m02296	yes	kept	domains/work/university-relations.md people/beth-miertschin.md people/shelly-jones.md
+m02297	yes	kept	domains/work/broadband-services.md
+m02298	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02299	yes	kept	domains/work/broadband-services.md
+m02300	yes	kept	domains/work/broadband-services.md
