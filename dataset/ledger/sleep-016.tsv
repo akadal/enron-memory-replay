@@ -1,0 +1,91 @@
+id	durable	status	detail
+m00956	yes	kept	domains/organization/candidate-referrals-2000.md
+m00957	yes	kept	domains/organization/recruiting-candidates.md
+m00958	no	not_durable	automated
+m00959	no	not_durable	automated
+m00960	yes	kept	domains/industry/events-attending-2000.md
+m00961	yes	kept	domains/industry/speaking-engagements-2000.md
+m00962	yes	kept	domains/organization/leave-and-training.md
+m00963	yes	kept	domains/organization/leave-and-training.md
+m00964	yes	kept	domains/work/stanford-research-ties.md
+m00965	yes	kept	domains/organization/candidate-referrals-2000.md
+m00966	yes	kept	domains/work/day-rate-hedge.md people/john-peyton.md
+m00967	yes	kept	domains/organization/london-research.md
+m00968	yes	kept	domains/work/storage-model.md
+m00969	yes	kept	domains/organization/leave-and-training.md people/jose-marquez.md
+m00970	no	not_durable	logistics
+m00971	yes	kept	domains/organization/staff-and-recruiting.md
+m00972	yes	dropped	other: Merrill broker forwards an unnamed friend's resume; the file would not open, no candidate on record
+m00973	yes	kept	domains/organization/summer-interns-2000.md
+m00974	yes	kept	domains/work/enterprise-risk-management.md
+m00975	yes	kept	domains/work/outside-requests.md
+m00976	yes	kept	domains/industry/rice-university.md
+m00977	yes	kept	domains/work/vendor-offers-2000.md
+m00978	yes	kept	domains/work/broadband-services.md people/ken-rice.md
+m00979	yes	kept	domains/industry/aiesec-houston.md people/patrycja-dalecka.md
+m00980	yes	kept	domains/organization/london-research.md
+m00981	yes	dropped	logistics: Ravi's pager number
+m00982	yes	kept	domains/work/credit-markets.md
+m00983	no	not_durable	bulk
+m00984	no	not_durable	bulk
+m00985	no	not_durable	bulk
+m00986	no	not_durable	bulk
+m00987	yes	kept	domains/organization/candidate-referrals-2000.md
+m00988	yes	dropped	other: Williams/prosRM press release forwarded by a departed colleague; no Enron project stated
+m00989	no	not_durable	bulk
+m00990	no	not_durable	bulk
+m00991	no	not_durable	bulk
+m00992	no	not_durable	bulk
+m00993	yes	kept	domains/industry/speaking-engagements-2000.md people/dawn-scovill.md
+m00994	yes	kept	domains/organization/research-group.md
+m00995	yes	kept	domains/organization/recruiting-candidates.md
+m00996	yes	kept	domains/work/stanford-research-ties.md
+m00997	no	not_durable	logistics
+m00998	no	not_durable	bulk
+m00999	yes	dropped	other: owner forwards the same prosRM press release FYI to Krishnarao
+m01000	no	not_durable	bulk
+m01001	yes	dropped	logistics: owner forwards Ravi's pager details to his AOL
+m01002	yes	kept	domains/organization/staff-and-recruiting.md
+m01003	no	not_durable	logistics
+m01004	no	not_durable	logistics
+m01005	yes	kept	domains/industry/aiesec-houston.md people/patrycja-dalecka.md
+m01006	yes	kept	domains/organization/leave-and-training.md domains/personal/correspondence.md
+m01007	yes	kept	domains/work/outside-requests.md
+m01008	yes	kept	domains/work/vendor-offers-2000.md
+m01009	yes	kept	domains/work/enron-media-advertising.md people/ken-rice.md
+m01010	yes	kept	domains/industry/eprm-risk.md people/joel-hanley.md
+m01011	yes	kept	domains/work/vendor-offers-2000.md
+m01012	yes	kept	domains/personal/correspondence.md
+m01013	yes	kept	domains/organization/candidate-referrals-2000.md
+m01014	yes	kept	domains/organization/candidate-referrals-2000.md
+m01015	no	not_durable	bulk
+m01016	yes	kept	domains/work/stanford-research-ties.md
+m01017	yes	kept	domains/work/broadband-services.md people/scott-yeager.md
+m01018	yes	kept	domains/work/credit-markets.md
+m01019	yes	kept	domains/organization/candidate-referrals-2000.md
+m01020	yes	kept	domains/organization/leave-and-training.md domains/personal/correspondence.md
+m01021	yes	kept	domains/work/vendor-offers-2000.md
+m01022	yes	kept	domains/work/vendor-offers-2000.md
+m01023	yes	kept	domains/organization/candidate-referrals-2000.md domains/organization/leave-and-training.md
+m01024	yes	kept	domains/work/argentina-modelling.md
+m01025	no	not_durable	quote_only
+m01026	no	not_durable	pleasantry
+m01027	yes	kept	domains/personal/correspondence.md
+m01028	yes	kept	domains/organization/candidate-referrals-2000.md
+m01029	yes	kept	domains/work/argentina-modelling.md
+m01030	yes	kept	domains/work/vendor-offers-2000.md
+m01031	yes	kept	domains/work/outside-requests.md
+m01032	yes	kept	domains/work/storage-model.md
+m01033	yes	kept	domains/work/uk-power-vol-curve.md
+m01034	yes	kept	domains/organization/candidate-referrals-2000.md
+m01035	yes	kept	domains/organization/office-equipment.md
+m01036	yes	kept	domains/industry/events-attending-2000.md
+m01037	no	not_durable	logistics
+m01038	yes	kept	domains/work/broadband-services.md people/ken-rice.md people/scott-yeager.md
+m01039	no	not_durable	automated
+m01040	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/leave-and-training.md people/dawn-scovill.md
+m01041	no	not_durable	bulk
+m01042	yes	kept	domains/work/vendor-offers-2000.md
+m01043	yes	kept	domains/industry/speaking-engagements-2000.md people/dawn-scovill.md
+m01044	yes	kept	domains/industry/speaking-engagements-2000.md people/dawn-scovill.md
+m01045	yes	kept	domains/organization/office-equipment.md

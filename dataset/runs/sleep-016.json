@@ -1,0 +1,184 @@
+{
+ "slice": 16,
+ "simulated_today": "2000-03-19",
+ "feed": {
+  "slice": 16,
+  "iso_week": "2000-W11",
+  "first_seq": 956,
+  "last_seq": 1045,
+  "messages": 90,
+  "durable": 68,
+  "first_date": "2000-03-13 00:21",
+  "last_date": "2000-03-19 23:30",
+  "today": "2000-03-19",
+  "inbox_files": [
+   "2000-03-13--mail.md",
+   "2000-03-14--mail.md",
+   "2000-03-15--mail.md",
+   "2000-03-16--mail.md",
+   "2000-03-17--mail.md",
+   "2000-03-18--mail.md",
+   "2000-03-19--mail.md"
+  ],
+  "inbox_chars": 52807,
+  "l2_chars": 238322
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 829,
+ "quota_before": {
+  "five_hour": 15.0,
+  "seven_day": 17.0,
+  "extra_usage": null
+ },
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 16,
+  "messages": 90,
+  "durable": 68,
+  "kept": 63,
+  "kept_rate_excluding_redundant": 0.926,
+  "drop_classes": {
+   "logistics": 2,
+   "other": 3
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 757,
+  "fact_lines_with_source": 641,
+  "dated": 641,
+  "date_matches_source": 635,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.88,
+   0.89,
+   0.5,
+   0.8,
+   0.86,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 603
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2605
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 71,
+   "chars": 115202
+  },
+  "people": {
+   "files": 107,
+   "chars": 86893
+  },
+  "archive_inbox": {
+   "files": 92,
+   "chars": 607804
+  },
+  "archive_mail": {
+   "files": 1071,
+   "chars": 2643132
+  },
+  "archive_other": {
+   "files": 117,
+   "chars": 194723
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 85,
+   "duration_ms": 827143,
+   "duration_api_ms": 729309,
+   "total_cost_usd": 5.794320200000002,
+   "usage": {
+    "input_tokens": 166,
+    "cache_creation_input_tokens": 194820,
+    "cache_read_input_tokens": 13266781,
+    "output_tokens": 79087,
+    "output_tokens_details": {
+     "thinking_tokens": 19244
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 194820,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 956,
+      "cache_read_input_tokens": 226323,
+      "cache_creation_input_tokens": 288,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 288
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 166,
+     "outputTokens": 79087,
+     "cacheReadInputTokens": 13266781,
+     "cacheCreationInputTokens": 194820,
+     "webSearchRequests": 0,
+     "costUSD": 5.794320200000002,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19244,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 194820,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 84,
+   "result_summary": "The 2000-03-19 consolidation is committed as one commit, `65fa57f`, but not pushed. The replay preamble says the runner pushes after its own checks, so I left the closing \"git push\" step to it. Lint, `sleep-audit.py` and `sleep-audit.py --last` are all green. I also ran `ledger.py` locally: no message is missing and none cites a later one. I deleted the ledger file it generated, since the runner writes its own.\n\nOf the 68 messages with notes, 63 are cited in the memory files. The other five are listed in `dataset/drops/sleep-016.tsv`: two pager-number messages, the prosRM press release and its forward, and an unreadable resume. The ledger flagged one date mismatch (m00969), which I fixed by splitting a line before committing.\n\nThe main items this week:\n- **Owner's trip:** California from 19 to 24 Mar, KMV in San Francisco on 20 Mar, then Napa.\n- **EBS:** the Research offsite is confirmed for Breckenridge, 21-23 Apr, and Seeligson takes Hamachi to closure.\n- **Projects:** the owner offered to settle Bambos's research funding before his visit, Mike Horning's Enron Media / Advertising idea meets again 28 Mar, and Guerriero's Argentina models are due 1 Jun.\n- **Conferences:** the Miami slides are final, and Australian Energy 2000 asked the owner to chair day one.\n- **Credit:** Parsons and Danilov disagree on the risk-free benchmark (Treasuries vs LIBOR).\n- **Candidates:** Greene, Germani, Knudsen, Kemen and Di Castro all moved this week.\n\n**What changed in the structure:**\n- **New topic files:** `enron-media-advertising`, and `candidate-referrals-2000`, split out of `recruiting-candidates`.\n- **Seven new entity files** for people who reached five messages: Peyton (one week overdue), Yeager, Scovill, Ken Rice, Marquez, Hanley and Dalecka. Harry Arora is still at four; one match was Bani Arora.\n- **Alias table:** to fit those seven people I removed its domains column. The table sat in the audit's ceiling band, where it may not grow at all, and each entity file already lis"
+  },
+  "repair": null
+ }
+}
