@@ -1,0 +1,127 @@
+id	durable	status	detail
+m02107	yes	kept	domains/work/owner-publications.md
+m02108	yes	kept	domains/work/turkish-ipo-options.md
+m02109	yes	kept	domains/work/owner-publications.md
+m02110	yes	kept	domains/work/owner-publications.md people/conrad-gardner.md
+m02111	yes	kept	domains/work/owner-publications.md
+m02112	no	not_durable	quote_only
+m02113	yes	kept	domains/industry/speaking-engagements-2000.md
+m02114	yes	kept	domains/personal/correspondence.md domains/personal/household.md
+m02115	no	not_durable	logistics
+m02116	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02117	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02118	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02119	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02120	yes	kept	domains/personal/correspondence.md
+m02121	no	not_durable	quote_only
+m02122	yes	kept	domains/organization/staff-and-recruiting.md
+m02123	yes	kept	domains/organization/officer-performance-review.md
+m02124	no	not_durable	bulk
+m02125	yes	kept	domains/personal/correspondence.md
+m02126	yes	kept	domains/industry/eprm-risk.md domains/work/lacima-book-2000.md
+m02127	yes	kept	domains/work/owner-publications.md
+m02128	yes	kept	domains/industry/speaking-engagements-2000.md
+m02129	yes	dropped	redundant: forward of the already-recorded MEC lunch acceptance to Crenshaw, FYI
+m02130	no	not_durable	empty
+m02131	no	not_durable	other
+m02132	yes	kept	domains/personal/correspondence.md people/avi-hauser.md
+m02133	yes	kept	domains/industry/eprm-risk.md domains/personal/correspondence.md
+m02134	no	not_durable	logistics
+m02135	yes	kept	domains/personal/correspondence.md
+m02136	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02137	yes	kept	domains/organization/mid-year-prc-2000.md
+m02138	yes	kept	domains/organization/mid-year-prc-2000.md
+m02139	no	not_durable	bulk
+m02140	yes	kept	domains/organization/summer-interns-2000.md
+m02141	yes	kept	domains/work/vega-var.md
+m02142	yes	kept	domains/organization/leave-and-training.md
+m02143	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02144	yes	kept	domains/organization/research-offsite-2000.md
+m02145	yes	kept	domains/work/lacima-book-2000.md
+m02146	yes	kept	domains/work/vendor-offers-2000.md
+m02147	yes	kept	domains/work/outside-requests.md
+m02148	yes	kept	domains/work/mars-cds-weather.md people/avi-hauser.md
+m02149	yes	kept	domains/personal/recruiter-approaches-2000.md
+m02150	yes	kept	domains/industry/research-memberships-2000.md
+m02151	yes	kept	domains/work/mars-cds-weather.md people/avi-hauser.md
+m02152	yes	kept	domains/work/desk-analysis-requests.md
+m02153	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02154	yes	kept	domains/work/aga-storage-forecast.md
+m02155	yes	kept	domains/organization/mg-metals-integration.md
+m02156	yes	kept	domains/work/aga-storage-forecast.md
+m02157	yes	kept	domains/work/vendor-offers-2000.md people/dale-nesbitt.md
+m02158	yes	kept	domains/industry/esai-energycast-review.md people/ed-krapels.md
+m02159	yes	kept	domains/organization/summer-interns-2000.md
+m02160	yes	kept	domains/work/internal-meetings.md
+m02161	yes	kept	domains/work/desk-analysis-requests.md
+m02162	yes	kept	domains/industry/speaking-engagements-2000.md
+m02163	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02164	yes	kept	domains/work/vendor-offers-2000.md people/dale-nesbitt.md
+m02165	yes	kept	domains/work/lacima-book-2000.md
+m02166	yes	kept	domains/organization/staff-and-recruiting.md people/molly-magee.md
+m02167	yes	kept	domains/work/eol-content-2000.md people/conrad-gardner.md
+m02168	no	not_durable	quote_only
+m02169	no	not_durable	bulk
+m02170	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02171	yes	kept	domains/industry/market-outlooks-2000.md
+m02172	yes	kept	domains/organization/research-offsite-2000.md
+m02173	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02174	yes	kept	domains/organization/staff-and-recruiting.md people/leandro-ibasco.md
+m02175	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02176	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02177	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02178	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02179	yes	kept	domains/industry/research-memberships-2000.md
+m02180	yes	kept	domains/personal/correspondence.md
+m02181	yes	kept	domains/work/owner-publications.md
+m02182	yes	kept	domains/work/outside-requests.md
+m02183	yes	kept	domains/work/lacima-book-2000.md
+m02184	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02185	no	not_durable	quote_only
+m02186	yes	kept	domains/work/ebs-var-policy.md people/jim-fallon.md people/lou-casari.md
+m02187	yes	dropped	other: FYI link to a European Parliament STOA study forwarded to Tholan, no owner content
+m02188	yes	dropped	other: FYI link to an Echelon report forwarded to Tholan, no owner content
+m02189	yes	kept	domains/work/outside-requests.md
+m02190	yes	kept	domains/organization/staff-and-recruiting.md people/molly-magee.md
+m02191	yes	kept	domains/organization/staff-and-recruiting.md people/molly-magee.md
+m02192	yes	kept	domains/organization/corporate-announcements-2000.md
+m02193	yes	kept	domains/personal/investments-2000.md
+m02194	no	not_durable	bulk
+m02195	no	not_durable	pleasantry
+m02196	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02197	yes	kept	domains/work/var-backtesting-2000.md
+m02198	yes	kept	domains/industry/esai-energycast-review.md people/ed-krapels.md people/jeffrey-shorter.md
+m02199	yes	kept	domains/industry/esai-energycast-review.md people/george-hopley.md people/jeffrey-shorter.md
+m02200	yes	kept	domains/organization/leave-and-training.md
+m02201	yes	dropped	no_owner_content: NYMEX USAEE conference update, attachment unreadable
+m02202	yes	kept	domains/organization/staff-and-recruiting.md people/jim-fallon.md
+m02203	yes	kept	domains/organization/staff-and-recruiting.md people/jim-fallon.md
+m02204	yes	kept	domains/organization/staff-and-recruiting.md people/jim-fallon.md
+m02205	yes	kept	domains/industry/esai-energycast-review.md people/george-hopley.md
+m02206	no	not_durable	quote_only
+m02207	yes	kept	domains/work/ebs-var-policy.md people/jim-fallon.md
+m02208	yes	kept	domains/work/ebs-var-policy.md
+m02209	yes	kept	domains/industry/esai-energycast-review.md people/george-hopley.md
+m02210	yes	kept	domains/organization/staff-and-recruiting.md people/jim-fallon.md
+m02211	yes	kept	domains/industry/esai-energycast-review.md people/ed-krapels.md people/jeffrey-shorter.md
+m02212	yes	dropped	social: Tholan thanks the owner for the Echelon and STOA links
+m02213	yes	kept	domains/organization/mg-metals-integration.md
+m02214	yes	kept	domains/organization/mg-metals-integration.md
+m02215	yes	kept	domains/industry/esai-energycast-review.md people/jeffrey-shorter.md
+m02216	yes	kept	domains/organization/candidate-interviews-jul-2000.md domains/organization/leave-and-training.md
+m02217	yes	kept	domains/personal/investments-2000.md
+m02218	yes	kept	domains/personal/recruiter-approaches-2000.md
+m02219	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02220	yes	kept	domains/industry/esai-energycast-review.md domains/organization/mid-year-prc-2000.md
+m02221	yes	kept	domains/work/eol-content-2000.md
+m02222	yes	kept	domains/organization/recruiting-candidates.md people/shane-green.md
+m02223	no	not_durable	logistics
+m02224	yes	kept	domains/industry/esai-energycast-review.md
+m02225	yes	kept	domains/industry/eprm-risk.md people/lucie-deathridge.md
+m02226	yes	dropped	other: CERA web call replay forwarded to the owner's own AOL with login details; nothing to keep
+m02227	yes	kept	domains/work/vendor-offers-2000.md people/dale-nesbitt.md
+m02228	yes	kept	domains/organization/recruiting-candidates.md people/shane-green.md
+m02229	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02230	yes	kept	domains/industry/esai-energycast-review.md people/jeffrey-shorter.md
+m02231	yes	kept	domains/industry/visitors-2000.md people/shijie-deng.md
+m02232	no	not_durable	bulk
