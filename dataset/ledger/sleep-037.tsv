@@ -1,0 +1,128 @@
+id	durable	status	detail
+m02701	yes	kept	domains/work/value-research-lab.md people/marie-hejka.md
+m02702	yes	kept	domains/organization/office-equipment.md
+m02703	yes	kept	domains/organization/staff-and-recruiting.md people/norma-villarreal.md
+m02704	no	not_durable	other
+m02705	yes	kept	domains/work/research-presentations.md
+m02706	yes	kept	domains/work/value-research-lab.md people/marie-hejka.md
+m02707	yes	kept	domains/work/research-presentations.md
+m02708	yes	kept	domains/work/research-presentations.md
+m02709	no	not_durable	bulk
+m02710	yes	kept	domains/organization/recruiting-candidates.md
+m02711	yes	kept	domains/organization/candidate-interviews-aug-2000.md domains/organization/candidate-referrals-2000.md domains/work/enron-australia-2000.md people/christian-werner.md people/quentin-kerr.md
+m02712	yes	kept	domains/work/enron-australia-2000.md
+m02713	yes	kept	domains/organization/research-offsite-2000.md
+m02714	yes	kept	domains/organization/office-equipment.md
+m02715	yes	kept	domains/organization/staff-and-recruiting.md people/norma-villarreal.md
+m02716	yes	kept	domains/organization/staff-and-recruiting.md people/norma-villarreal.md
+m02717	yes	kept	domains/organization/staff-and-recruiting.md people/norma-villarreal.md
+m02718	yes	kept	domains/work/transport-model.md
+m02719	yes	kept	domains/organization/staff-and-recruiting.md people/norma-villarreal.md
+m02720	yes	kept	domains/industry/speaking-engagements-2000.md
+m02721	no	not_durable	other
+m02722	yes	kept	domains/organization/candidate-interviews-aug-2000.md domains/work/enron-australia-2000.md
+m02723	yes	kept	domains/work/enron-australia-2000.md people/christian-werner.md
+m02724	yes	kept	domains/work/desk-analysis-requests.md
+m02725	yes	kept	domains/work/university-relations.md people/mary-alison-bailey.md people/pierre-philippe-ste-marie.md people/rick-bryant.md
+m02726	no	not_durable	quote_only
+m02727	yes	kept	domains/work/university-relations.md people/mary-alison-bailey.md people/pierre-philippe-ste-marie.md
+m02728	yes	kept	domains/organization/software-licenses.md
+m02729	yes	kept	domains/organization/software-licenses.md
+m02730	yes	kept	domains/organization/candidate-referrals-2000.md
+m02731	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02732	yes	kept	domains/organization/software-licenses.md
+m02733	yes	kept	domains/work/university-relations.md people/ashley-baxter.md
+m02734	yes	kept	domains/organization/research-offsite-2000.md
+m02735	yes	kept	domains/work/university-relations.md people/ashley-baxter.md
+m02736	yes	kept	domains/work/enterprise-risk-management.md
+m02737	no	not_durable	logistics
+m02738	yes	kept	domains/work/university-relations.md people/ashley-baxter.md
+m02739	yes	kept	domains/organization/london-research.md
+m02740	yes	kept	domains/work/university-relations.md
+m02741	yes	kept	domains/work/aga-storage-forecast.md people/john-herbert.md
+m02742	yes	kept	domains/work/internal-meetings.md people/stephen-stock.md
+m02743	yes	kept	domains/industry/speaking-engagements-2000.md
+m02744	yes	kept	domains/work/internal-meetings.md
+m02745	yes	kept	domains/work/internal-meetings.md
+m02746	yes	kept	domains/organization/software-licenses.md
+m02747	yes	kept	domains/work/university-relations.md people/ashley-baxter.md
+m02748	yes	kept	domains/work/vendor-offers-2000.md
+m02749	yes	kept	domains/work/desk-analysis-requests.md people/craig-breslau.md
+m02750	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/chris-williams.md
+m02751	yes	kept	domains/work/value-research-lab.md
+m02752	yes	kept	domains/work/value-research-lab.md people/marie-hejka.md
+m02753	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02754	yes	kept	domains/industry/weather-insurance-markets.md
+m02755	yes	kept	domains/work/stanford-research-ties.md people/blake-johnson.md
+m02756	yes	kept	domains/work/stanford-research-ties.md people/blake-johnson.md
+m02757	yes	kept	domains/work/stanford-research-ties.md people/blake-johnson.md
+m02758	yes	kept	domains/personal/recruiter-approaches-2000.md people/al-arfsten.md
+m02759	yes	kept	domains/work/desk-analysis-requests.md people/craig-breslau.md
+m02760	no	not_durable	automated
+m02761	yes	kept	domains/work/fas133-implementation.md
+m02762	yes	kept	domains/organization/recruiting-candidates.md
+m02763	yes	kept	domains/personal/correspondence.md
+m02764	yes	kept	domains/organization/software-licenses.md
+m02765	yes	kept	domains/organization/london-research.md
+m02766	no	not_durable	automated
+m02767	yes	kept	domains/organization/london-research.md
+m02768	yes	kept	domains/personal/recruiter-approaches-2000.md people/al-arfsten.md
+m02769	yes	kept	domains/work/value-research-lab.md
+m02770	yes	kept	domains/industry/weather-insurance-markets.md
+m02771	no	not_durable	logistics
+m02772	yes	kept	domains/industry/weather-insurance-markets.md
+m02773	yes	kept	domains/work/stanford-research-ties.md
+m02774	yes	kept	domains/work/stanford-research-ties.md
+m02775	yes	kept	domains/organization/office-equipment.md people/hector-campos.md
+m02776	yes	kept	domains/organization/mg-metals-integration.md
+m02777	yes	kept	domains/work/transport-model.md people/colleen-sullivan.md people/hunter-shively.md
+m02778	yes	kept	domains/work/desk-analysis-requests.md people/craig-breslau.md
+m02779	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02780	no	not_durable	bulk
+m02781	yes	kept	domains/personal/household.md domains/work/lacima-book-2000.md
+m02782	no	not_durable	bulk
+m02783	no	not_durable	logistics
+m02784	no	not_durable	bulk
+m02785	yes	kept	domains/organization/staff-and-recruiting.md
+m02786	yes	kept	domains/organization/research-accounting-2000.md
+m02787	no	not_durable	logistics
+m02788	yes	kept	domains/organization/london-research.md
+m02789	yes	kept	domains/work/lacima-book-2000.md
+m02790	yes	kept	domains/organization/research-accounting-2000.md
+m02791	yes	kept	domains/work/internal-meetings.md people/stephen-stock.md
+m02792	yes	kept	domains/work/vendor-offers-2000.md
+m02793	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/chris-williams.md
+m02794	yes	kept	domains/organization/office-equipment.md
+m02795	yes	kept	domains/work/transport-model.md
+m02796	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02797	yes	kept	domains/organization/candidate-interviews-aug-2000.md domains/work/enron-australia-2000.md people/christian-werner.md
+m02798	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02799	yes	kept	domains/organization/mid-year-prc-2000.md
+m02800	yes	kept	domains/organization/mid-year-prc-2000.md
+m02801	yes	kept	domains/organization/research-accounting-2000.md people/dawn-derr.md
+m02802	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/quentin-kerr.md
+m02803	yes	kept	domains/organization/london-research.md
+m02804	no	not_durable	quote_only
+m02805	yes	kept	domains/work/value-research-lab.md people/marie-hejka.md
+m02806	yes	kept	domains/work/university-relations.md people/mary-alison-bailey.md people/pierre-philippe-ste-marie.md
+m02807	yes	kept	domains/organization/research-accounting-2000.md
+m02808	yes	kept	domains/organization/summer-interns-2000.md
+m02809	yes	kept	domains/organization/research-accounting-2000.md people/dawn-derr.md
+m02810	yes	kept	domains/work/transport-model.md
+m02811	yes	kept	domains/work/research-presentations.md
+m02812	yes	kept	domains/work/enron-australia-2000.md people/christian-werner.md
+m02813	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02814	yes	kept	domains/work/research-presentations.md
+m02815	yes	kept	domains/work/university-relations.md people/ashley-baxter.md
+m02816	yes	dropped	other: self-sent bookmark link (ETH Zurich papers page), no content
+m02817	yes	dropped	social: poker tournament invitation forwarded to AOL
+m02818	no	not_durable	other
+m02819	no	not_durable	other
+m02820	yes	kept	domains/organization/summer-interns-2000.md people/brad-aimone.md
+m02821	yes	dropped	other: self-sent bookmark link (ETH Zurich finance page), no content
+m02822	yes	kept	domains/work/university-relations.md people/mary-alison-bailey.md people/pierre-philippe-ste-marie.md people/rick-bryant.md
+m02823	yes	kept	domains/work/university-relations.md people/mary-alison-bailey.md
+m02824	no	not_durable	pleasantry
+m02825	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/quentin-kerr.md
+m02826	yes	kept	domains/organization/corporate-announcements-2000.md
+m02827	no	not_durable	bulk
