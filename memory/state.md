@@ -1,9 +1,9 @@
 # State — right now
 
-As of 2000-01-30 (replay of the owner's mailbox, week 2000-W04).
+As of 2000-02-06 (replay of the owner's mailbox, week 2000-W05).
 
-- 31 Jan-3 Feb: Sycamore meetings, Chelmsford (Ravi, Gibner, Krishna; not the owner) → memory/domains/work/broadband-services.md
-- Thu 3-Fri 4 Feb: LSU; reprints and slides owed to Garven → memory/domains/industry/speaking-engagements-2000.md
-- Owed: Strickland chapter; Maruti More lunch this week; WorldPower decline notice; OK on Schuleman's report
+- Mon 7 Feb: CERA E-Business workshop 9-11 am; UH talk in Ed Kao's class 7 pm → memory/domains/industry/speaking-engagements-2000.md
+- 8-10 Feb CERAWeek; MathWorks seminar 8 or 10 Feb; Fri 11 Feb 9 am Bryan Seyfried → memory/people/bryan-seyfried.md
+- Sat 12 Feb AIESEC Mock Sales; 15-16 Feb Strickland and Julie Brennan in Houston; Amit 16; London trip; Stanford 25
+- Owed: Strickland chapter; Krapels' EOL chapter check; topic for the Cranfield student; talk to Anthony about Ninya Chen
 - EWRM offsite date unclear (21 Jan or 4 Feb) → memory/domains/work/enterprise-risk-management.md
-- February: AIESEC 5 and 12; CERAWeek 8-10; CERA workshop offer 11; Amit 16; London trip; Stanford Parents Weekend 25

@@ -2,12 +2,12 @@
 id: promotions-2000
 type: topic
 domain: organization
-title: "January 2000 promotions"
-summary: "Owner promoted to Managing Director (~10 Jan 2000); Mike Roberts promoted; owner's bonus proposals to Whalley; ENA promotions memo (Oxley); London promotions (Steve Young); others the owner congratulated."
+title: "Promotions, 2000"
+summary: "Owner promoted to Managing Director (~10 Jan 2000); Mike Roberts promoted; owner's bonus proposals to Whalley; London promotions (Steve Young); congratulations and Oxley's ENA memo (archived); ENA Energy Operations promotions (1 Feb)."
 status: active
-updated: 2000-01-15
+updated: 2000-02-06
 ---
-# January 2000 promotions
+# Promotions, 2000
 
 Officer levels and the PRC: memory/domains/organization/officer-performance-review.md
 
@@ -15,6 +15,6 @@ Officer levels and the PRC: memory/domains/organization/officer-performance-revi
 - [2000-01-11] Asked about "Constrained Technical" (apparently the owner's category in the announcement), owner: "Constrained is a term that means "from a tight labor pool."" ←[[m00254]]
 - [2000-01-10] Owner sent Greg Whalley proposed bonuses for his managers, directors and assistants (VP numbers sent earlier); amounts in source. ←[[m00214]]
 - [2000-01-10] Mike Roberts (Kevin Moore's boss) promoted; owner: "Let's plan for a celebration next week, Thursday" (20 Jan). ←[[m00231]] ←[[m00239]]
-- [2000-01-11] Owner also sent "Congratulations. Well deserved." notes, mostly apparently for the same round: Rick Shapiro (EES), Beth Perlman, Richard Lewis, Dale Surbey (London), Laura Luce, Harry Arora, Anthony Dayao, Joe Gold, George McClellan, Bradford Larson, Jean Mrha (ECI), Rick Carson; Gary Hickerson was promoted too. ←[[m00243]] ←[[m00245]] ←[[m00288]] ←[[m00290]] ←[[m00291]] ←[[m00297]] ←[[m00309]] ←[[m00314]] ←[[m00320]] ←[[m00322]] ←[[m00326]] ←[[m00345]]
+- [2000-01-11] Owner's "Congratulations. Well deserved." notes (Shapiro, Perlman, Lewis, Surbey and others; Gary Hickerson promoted too); Oxley: ENA departments tell their own promotions; detail ←[[promotions-2000-02]] ←[[m00243]] ←[[m00245]] ←[[m00288]] ←[[m00290]] ←[[m00291]] ←[[m00297]] ←[[m00309]] ←[[m00314]] ←[[m00320]] ←[[m00322]] ←[[m00326]] ←[[m00345]] ←[[m00334]]
 - [2000-01-11] Steve W Young (London): approved Steven Leppard (Manager), Claire Viejou (Senior Professional), Ben Parsons (Junior Professional); company-wide announcement to follow. ←[[m00321]]
-- [2000-01-12] David Oxley: ENA Manager/Director promotions agreed at the 14 Dec review may now be told; no ENA-wide memo, departments may send their own. ←[[m00334]]
+- [2000-02-06] ENA Energy Operations, effective 1 Feb: VP Peggy Hedstrom (Enron Canada operations), Brent Price (gas trading operations); Senior Director Kristin Albrecht, Leslie Reeves (power controllers), Brenda Herod (assets controller), Mary Solmonson (Global Database Management); Director Scott Pleus (emerging products), Sheri Thomas (EnronOnline operations). ←[[m00554]]

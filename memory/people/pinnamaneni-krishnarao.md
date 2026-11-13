@@ -21,3 +21,4 @@ Research Group member at director level (EB 1964 from Jan 2000); one message als
 - [2000-01-05] Dabhol structuring; m-t-m talks with Bob Butts → memory/domains/work/dabhol-power-sale.md ←[[m00144]] ←[[m00427]] ←[[m00468]]
 - [1999-12-17] Asked for "Actively Managing Credit Risk" → memory/domains/work/credit-markets.md ←[[m00052]]
 - [2000-01-27] ICF meeting; Sycamore trip → memory/domains/work/internal-meetings.md, memory/domains/work/broadband-services.md ←[[m00451]] ←[[m00458]]
+- [2000-01-31] Set up the Cranfield student's call with Mark Schroeder → memory/domains/work/outside-requests.md ←[[m00481]]

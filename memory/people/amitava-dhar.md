@@ -5,7 +5,7 @@ entity: person
 name: "Amitava Dhar"
 aliases: []
 domains: [organization]
-updated: 2000-01-15
+updated: 2000-02-06
 ---
 # Amitava Dhar
 
@@ -17,3 +17,4 @@ Manager in the owner's Research Group (RC 100038); the owner is his manager of r
 - [2000-01-10] Crystal Ball Turbo request → memory/domains/organization/software-licenses.md ←[[m00209]]
 - [2000-01-10] On the owner's bonus proposal → memory/domains/organization/promotions-2000.md ←[[m00214]]
 - [2000-01-13] H1B extension pending → memory/domains/organization/staff-and-recruiting.md ←[[m00341]]
+- [2000-02-01] Got his INS Employment Authorization Card, valid one year; Milenia Soto filed his applications; he thanked the owner. ←[[m00509]]
