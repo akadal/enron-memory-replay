@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # People and organisations — index
 
@@ -12,6 +12,7 @@ Format, one line each: `name — aliases — domains — path`
 ## Files
 
 - Adam Brulinski — — work — memory/people/adam-brulinski.md
+- Clayton Vernon — — work, organization — memory/people/clayton-vernon.md
 - Joseph Hrgovcic — Joe Hrgovcic — organization, work — memory/people/joseph-hrgovcic.md
 - Kevin Moore — Kevin G Moore — organization — memory/people/kevin-moore.md
 - Mike Roberts — Mike A Roberts — organization — memory/people/mike-roberts.md
