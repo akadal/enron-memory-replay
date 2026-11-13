@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 1999-12-26
+updated: 2000-01-01
 ---
 # Industry — index
 
@@ -9,7 +9,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- 2000 talks: CERAWeek Feb 8-10, Real Options NY mid-March, Amsterdam Apr 3-4, POWER 2000 chair May 9, Risk 2000 Boston Jun 13-14 → memory/domains/industry/conferences-2000.md
+- 2000 talks: CERAWeek Feb 8-10, Real Options NY mid-March, Amsterdam Apr 3-4, POWER 2000 chair May 9, Risk 2000 Boston Jun 13-14 (title due ~Jan 7), TFF April → memory/domains/industry/conferences-2000.md
 - Benjamin Parsons asks: both EPRM events or prioritise? (1999-12-20) → memory/domains/industry/eprm-monte-carlo-course.md
 
 ## Files
