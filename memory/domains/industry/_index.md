@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 1999-11-30
+updated: 1999-12-12
 ---
 # Industry — index
 
@@ -9,8 +9,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-(nothing yet)
+- RISK/EPRM asked for an Enron Monte Carlo speaker; owner put forward Stinson Gibner → memory/domains/industry/eprm-risk.md
 
 ## Files
 
-(nothing yet)
+- memory/domains/industry/eprm-risk.md — RISK's EPRM conferences and courses (producer Helen Evans)
