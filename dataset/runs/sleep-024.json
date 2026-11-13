@@ -1,0 +1,183 @@
+{
+ "slice": 24,
+ "simulated_today": "2000-05-14",
+ "feed": {
+  "slice": 24,
+  "iso_week": "2000-W19",
+  "first_seq": 1609,
+  "last_seq": 1673,
+  "messages": 65,
+  "durable": 59,
+  "first_date": "2000-05-08 02:25",
+  "last_date": "2000-05-14 14:03",
+  "today": "2000-05-14",
+  "inbox_files": [
+   "2000-05-08--mail.md",
+   "2000-05-09--mail.md",
+   "2000-05-10--mail.md",
+   "2000-05-11--mail.md",
+   "2000-05-12--mail.md",
+   "2000-05-14--mail.md"
+  ],
+  "inbox_chars": 42545,
+  "l2_chars": 154434
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 732,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 78.0,
+  "seven_day": 28.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 24,
+  "messages": 65,
+  "durable": 59,
+  "kept": 57,
+  "kept_rate_excluding_redundant": 0.983,
+  "drop_classes": {
+   "logistics": 1,
+   "redundant": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1002,
+  "fact_lines_with_source": 759,
+  "dated": 759,
+  "date_matches_source": 747,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.83,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 763
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1129
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 80,
+   "chars": 132150
+  },
+  "people": {
+   "files": 159,
+   "chars": 122123
+  },
+  "archive_inbox": {
+   "files": 142,
+   "chars": 976203
+  },
+  "archive_mail": {
+   "files": 1699,
+   "chars": 4264541
+  },
+  "archive_other": {
+   "files": 267,
+   "chars": 351635
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 85,
+   "duration_ms": 730256,
+   "duration_api_ms": 688092,
+   "total_cost_usd": 4.5721446,
+   "usage": {
+    "input_tokens": 102,
+    "cache_creation_input_tokens": 184716,
+    "cache_read_input_tokens": 7572643,
+    "output_tokens": 78974,
+    "output_tokens_details": {
+     "thinking_tokens": 22001
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 184716,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 771,
+      "cache_read_input_tokens": 215481,
+      "cache_creation_input_tokens": 1026,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1026
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 102,
+     "outputTokens": 78974,
+     "cacheReadInputTokens": 7572643,
+     "cacheCreationInputTokens": 184716,
+     "webSearchRequests": 0,
+     "costUSD": 4.5721446,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22001,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 184716,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 84,
+   "result_summary": "I consolidated week 2000-W19 (2000-05-14) and committed it as `dcae1c3`. I did not push, because the run instructions say the runner pushes after its own checks. Of the 65 messages, 59 had notes: 57 are now cited in memory and 2 are listed in `dataset/drops/sleep-024.tsv` (m01656 is a newspaper-subscription approval, m01665 a congratulation on a promotion already recorded). The main updates:\n\n- **Interviews and hiring:** Chris Kenyon (formal interview 15 or 22–26 May), Sanjeev Khanna (12 May), a formal round for Valdes, two Credit.com candidates, and a second chance for Brad Romine.\n- **London:** each London team member now makes one summer stay in Houston, and the owner pays for Steven Leppard's month.\n- **Research visits and talks:** the storage model was renamed SAM and sent to Duffie for audit on 8 May. Bambos visits on 26 May. The Toronto conference moved to 31 May, with slides due 18 May.\n- **New topic files:** a University of Houston econo-physics programme and Vincent Tang's regressions on Enron stock.\n- **People:** I opened new entity files for Kenyon, Grumulaitis, Goodburn and Kirstee Hewitt. Tzamouranis and Kao crossed five messages in earlier weeks without getting files, so I caught those up too.\n- **Names left unattached:** I added no alias, so bare names like \"Jana\", \"Paul Issler\" and \"Kim Watson\" are not linked to existing people.\n- **Compression:** older detail from 21 topic files moved to the week's archive files.\n\nLint and the audit are both green. The first audit run was red: three files had grown too much, and I had appended this run's log to a file that the archive treats as unchangeable. I compressed those three files and moved the log to its own file, `memory/archive/inbox/2000-05-14--mail-2.md`. The second audit run was green. There was no sleep task, and no open question was past due: the Bill Bradford alias question falls due today, so it stays open."
+  },
+  "repair": null
+ }
+}
