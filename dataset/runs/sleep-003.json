@@ -1,0 +1,181 @@
+{
+ "slice": 3,
+ "simulated_today": "1999-12-19",
+ "feed": {
+  "slice": 3,
+  "iso_week": "1999-W50",
+  "first_seq": 10,
+  "last_seq": 73,
+  "messages": 64,
+  "durable": 34,
+  "first_date": "1999-12-13 02:08",
+  "last_date": "1999-12-19 12:39",
+  "today": "1999-12-19",
+  "inbox_files": [
+   "1999-12-13--mail.md",
+   "1999-12-14--mail.md",
+   "1999-12-15--mail.md",
+   "1999-12-16--mail.md",
+   "1999-12-17--mail.md",
+   "1999-12-19--mail.md"
+  ],
+  "inbox_chars": 30364,
+  "l2_chars": 227812
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 155,
+ "quota_before": {
+  "five_hour": 35.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 35.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 3,
+  "messages": 64,
+  "durable": 34,
+  "kept": 34,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 41,
+  "fact_lines_with_source": 37,
+  "dated": 37,
+  "date_matches_source": 36,
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 646
+  },
+  "questions": {
+   "files": 1,
+   "chars": 583
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 20,
+   "chars": 17279
+  },
+  "people": {
+   "files": 3,
+   "chars": 1541
+  },
+  "archive_inbox": {
+   "files": 9,
+   "chars": 35356
+  },
+  "archive_mail": {
+   "files": 99,
+   "chars": 314842
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 17,
+   "duration_ms": 153359,
+   "duration_api_ms": 133729,
+   "total_cost_usd": 0.9054048000000001,
+   "usage": {
+    "input_tokens": 32,
+    "cache_creation_input_tokens": 53549,
+    "cache_read_input_tokens": 1007824,
+    "output_tokens": 13766,
+    "output_tokens_details": {
+     "thinking_tokens": 3357
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 53549,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 593,
+      "cache_read_input_tokens": 84771,
+      "cache_creation_input_tokens": 567,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 567
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 32,
+     "outputTokens": 13766,
+     "cacheReadInputTokens": 1007824,
+     "cacheCreationInputTokens": 53549,
+     "webSearchRequests": 0,
+     "costUSD": 0.9054048000000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 3357,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 53549,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 16,
+   "result_summary": "I consolidated week 1999-W50 (messages m00010–m00073, six inbox logs) as commit `8f2467d`; both gates were green before it (lint had only the two existing over-target warnings on `MEMORY.md` and `AGENTS.md`, the audit had none). The automatic capture had written notes for 34 of the 64 messages, and every one of them is now cited in L1, so `dataset/drops/sleep-003.tsv` is committed empty. I opened eleven new topic files: recruiting (the Japan merchant-business talent for Hirl, Hoshino, Van Ngo, resumes), emission trading for Poland (the owner's promise to Brulinski is still open), Clayton Vernon's gas price model, credit risk (Credit Markets Group, white paper, the CreditManager net-meeting on 2000-01-07), the PSE swap, outside research requests, the 2000 conference engagements (Real Options NY in March, European Energy in Amsterdam in April, POWER 2000 in May), Rice University, officer levels and PRC review, the ENA reorganization, and the owner's stated views. I also extended the research-group, visitors and two people files, refreshed all four domain indexes and `state.md`, and moved the processed logs into `memory/archive/inbox/`. There were no sleep tasks, no question was due for a status-quo close and none was added, and the two ongoing lines are still valid. No file was near 90% of its ceiling, so the compression quota had nothing to act on. The upstream sync skipped itself because no `upstream` remote is set. As your run note said, I committed but did not push, which leaves the runner's push to `origin main` as the one open step. I left the untracked runner transcript `dataset/runs/sleep-003.transcript.jsonl` out of the commit."
+  },
+  "repair": null
+ }
+}
