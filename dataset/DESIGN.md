@@ -8,17 +8,28 @@ decision record); this file is the description of what actually runs.
 
 | Stage | Tool | Model | Output |
 |---|---|---|---|
-| S0 stream | `build_stream.py` | none | one mailbox from the checksummed tarball, de-duplicated across folders, impossible dates dropped, ordered by UTC instant; owner addresses from a hand-checked list |
+| S0 stream | `build_stream.py` | none | one mailbox from the checksummed tarball, de-duplicated across folders, ordered by UTC instant, messages without a placeable date set aside; owner addresses from a hand-checked list |
 | S1 describe | `preprocess.py` | none | `dataset/manifest.csv`: id, direction, bulk class, quote pointers, same-body links, thread; for each message its new text, with repeated runs replaced by `[quoted from m<seq>, k lines]` |
-| S2 capture | `capture.py` | Claude Haiku 5.5 (OpenRouter) | one stateless call per message: durable or not (with a reason class), up to five notes; owner quotes verified as verbatim substrings |
+| S2 capture | `capture.py` | Claude Haiku 5.5 (OpenRouter), prompt `capture-v3` | one stateless call per message: durable or not (with a reason class), up to five notes; owner quotes verified as verbatim substrings; one recorded retry for a "quote_only" or "empty" verdict on more than 500 new characters |
 | S3 slice | `slices.py` | none | `dataset/slices.csv`: one slice per ISO week, weeks above 200 messages split; simulated today = last message's date |
 | S4 feed | `feed.py` | none | per slice: L2 files, inbox notes, capture records, one commit |
-| S5 consolidate | `run.sh` | Claude Sonnet 5.5 (`claude -p`) | eleman's own sleep prompt plus the replay preamble; one commit per slice |
+| S5 consolidate | `run.sh` | Claude Opus 5.5 (`claude -p`, Claude Code 2.1.323 pinned, auto-update off) | eleman's own sleep prompt plus the replay preamble; one commit per slice |
 | S6 check | `run.sh`, `ledger.py`, `date_leaks.py` | none | gates from outside; ledger; record; tag `sleep-<kkk>` |
 
 Steps S0-S3 are deterministic: run twice, byte-identical output. S2 and S5 are model calls and
 are not; their every response is stored, so the dataset is reproducible from the repository even
 though a rerun of the models would differ.
+
+## Describing the stream (S1)
+
+A line counts as quoted when its normalised form has at least 30 characters, at least 15 letters
+or digits, is not a header line (To:, Cc:, From:, Subject:, Date:, Sent: ...), and was first seen
+in an earlier message; an earlier message counts as quoted only when at least three of its lines
+recur. Threads join two messages on a shared subject only when they also share a participant
+other than the owner, and on quote pointers only between non-bulk messages. Threads are an
+approximate convenience: the largest has 193 messages. The first version of these rules had no
+header, letter or three-line condition and made one early message the "source" of 1,287 others
+(`dataset/audit/2026-11-13-4-pilot-review.md`).
 
 ## Capture (S2)
 
@@ -26,9 +37,12 @@ Real eleman inboxes hold short notes written as things happen; long raw material
 archive. The capture step reproduces that: one call per message, seeing the message's new text,
 its headers, and up to three of the earlier messages it quotes as context, and nothing else (no
 memory, no later mail), so capturing the whole mailbox upfront cannot leak the future into any
-snapshot. Requests are
-reproducible from `capture.py`, its `PROMPT_VERSION` and the manifest (their SHA-256 is stored);
-responses are stored verbatim with token usage and cost.
+snapshot. Text that is still in the new-text view is new to the memory, even under a "Forwarded
+by" banner; "quote_only" is meant for a message that holds nothing but quote markers. Prompt v2
+let a forwarded memo of the owner's pass as quote_only; the v3 wording and a guard that asks once
+more are the fix. Requests are reproducible from `capture.py`, its `PROMPT_VERSION` and the
+manifest (their SHA-256 is stored); responses, including a first verdict that was retried, are
+stored verbatim with token usage and cost.
 
 ## Consolidation (S5)
 
@@ -36,8 +50,12 @@ The prompt is `memory/tools/sleep-run.sh`'s, read at run time, with a preamble (
 is in `run.sh`) that adds: the simulated date; that notes are model inference and quoted owner
 words are the owner's own statement; that every fact line ends with `←[[m<seq>]]` and is dated by
 its source message; that the run lists in `dataset/drops/sleep-<kkk>.tsv` every message with notes
-it chose not to keep; and that it
-commits but does not push.
+it chose not to keep, with a class (redundant, logistics, social, no_owner_content, other) and a
+reason; and that it commits but does not push.
+
+Unattended, nobody approves an alias, an entity merge or a new domain (eleman's approval gates):
+those proposals stay in `questions.md` and close by status quo. The dataset therefore offers alias
+questions, not a curated alias table.
 
 ## Gates (S6), checked from outside after every slice
 
@@ -48,7 +66,12 @@ commits but does not push.
 5. `ledger.py`: every message the capture step marked durable is either cited by an L1 fact or
    listed as dropped (no silent loss), and no fact cites a later message. One repair turn is
    allowed and recorded; a second failure stops the run.
-6. The weekly subscription quota is below 80% before a slice starts.
+6. The weekly subscription quota is below 80% before a slice starts; when the five-hour window is
+   at 90% or more the runner waits for it to refill (at most six hours).
+7. The harness is Claude Code 2.1.323; the runner refuses any other version.
+
+The ledger also records the kept rate excluding drops classed as redundant, the classes of the
+drops, and the ids whose fact lines carry a bracket date different from their source message.
 
 `sleep-audit.py`'s FABRICATION check exempts lines carrying `←[[...]]`, which here is every
 fact; gate 5 and the ledger's date-match metric (bracket date equals the cited message's date)
@@ -86,22 +109,35 @@ for two decades and is used as the CMU release holds it. Concretely:
 - Neither the capture prompt nor the consolidation preamble asks the models to leave anything
   out on grounds of privacy.
 
-## Model controls
+## Model choice and controls
 
-Each role uses one model throughout (README, "Models"). Whether the smaller models cost quality
-against Claude Opus 5.5, the model the reference deployment of eleman runs on, is measured on the
-pilot and kept in `dataset/validation/`:
+Each role uses one model throughout (README, "Models"), measured against Claude Opus 5.5, the
+model the reference deployment of eleman runs on (`dataset/validation/`):
 
-- **Capture:** a stratified sample of 96 pilot messages (half sent, half received, spread over
-  length quartiles) is captured again by Claude Opus 5.5 with the same prompt. A judge model
-  (Claude Sonnet 5.5, blind to which set is which) lists, per message, the facts in the Opus
-  notes missing from the dataset's notes, the dataset notes the message does not support, and
-  whether the durable verdicts agree (`control_capture.py`).
-- **Consolidation:** the first pilot slices are consolidated again on a branch `control-opus`
-  with Claude Opus 5.5 on the identical feed, and the two ledgers and memories are compared.
+- **Capture: Claude Haiku 5.5.** On 96 stratified pilot messages, judged blind both ways, Haiku
+  and Opus each miss about a third of the other's facts, while Opus costs about twenty times
+  more; DeepSeek V4 Pro reached 41% of Opus's facts. Haiku's weakness was the durable verdict
+  (8 messages Opus kept, against 1), which prompt v3 and the retry guard address; the control is
+  repeated on the corrected pipeline.
+- **Consolidation: Claude Opus 5.5.** On pilot slices 1-3 (branch `control-opus`) Opus kept every
+  durable message, wrote standing topics instead of dated one-off files, stayed inside every
+  budget, and cost 1.19 times Sonnet 5.5 with a third of the turns (review in
+  `dataset/audit/2026-11-13-4-pilot-review.md`).
 
-## Pilot and go/no-go
+## Pilots kept as records
 
-The pilot feeds slices until at least three consolidations and at least 300 messages have run
-(slices 1-7, 349 messages), then an independent review decides: continue, revise, or restart. The
-full run proceeds in quota-sized stretches and is resumable at any slice.
+| Branch | What it is |
+|---|---|
+| `pilot-raw` (tags `pilot-raw-01..03`) | raw mail fed straight into the inbox, 100 messages per consolidation, Sonnet 5.5 |
+| `pilot-v2` (tags `pilot-v2-001..007`) | the capture pipeline before the stream and prompt fixes, weekly slices 1-7, Sonnet 5.5, Claude Code 2.1.263 |
+| `control-opus` (tags `control-opus-001..003`) | slices 1-3 of `pilot-v2`'s feed consolidated by Opus 5.5 |
+
+`main` was restarted from the setup commit after the review; its slices are the dataset.
+
+## Run plan
+
+A first stretch of ten slices (554 messages) is checked against fixed criteria before the run
+continues: all green with at most one repair turn; no index over its ceiling and no topic closed
+to make room; every person cited in five or more messages has an entity file; the weekly quota
+moves at most 12 points. The full run then proceeds in quota-sized stretches, resumable at any
+slice.
