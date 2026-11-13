@@ -1,0 +1,181 @@
+{
+ "slice": 6,
+ "simulated_today": "2000-01-07",
+ "feed": {
+  "slice": 6,
+  "iso_week": "2000-W01",
+  "first_seq": 129,
+  "last_seq": 198,
+  "messages": 70,
+  "durable": 47,
+  "first_date": "2000-01-03 23:15",
+  "last_date": "2000-01-07 09:46",
+  "today": "2000-01-07",
+  "inbox_files": [
+   "2000-01-03--mail.md",
+   "2000-01-04--mail.md",
+   "2000-01-05--mail.md",
+   "2000-01-06--mail.md",
+   "2000-01-07--mail.md"
+  ],
+  "inbox_chars": 32901,
+  "l2_chars": 163494
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 293,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 47.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 6,
+  "messages": 70,
+  "durable": 47,
+  "kept": 45,
+  "kept_rate_excluding_redundant": 0.957,
+  "drop_classes": {
+   "social": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 135,
+  "fact_lines_with_source": 143,
+  "dated": 143,
+  "date_matches_source": 142,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 571
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 40,
+   "chars": 46216
+  },
+  "people": {
+   "files": 9,
+   "chars": 7318
+  },
+  "archive_inbox": {
+   "files": 25,
+   "chars": 106726
+  },
+  "archive_mail": {
+   "files": 224,
+   "chars": 605731
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 39,
+   "duration_ms": 291706,
+   "duration_api_ms": 259661,
+   "total_cost_usd": 1.8455764,
+   "usage": {
+    "input_tokens": 52,
+    "cache_creation_input_tokens": 91307,
+    "cache_read_input_tokens": 2369562,
+    "output_tokens": 32050,
+    "output_tokens_details": {
+     "thinking_tokens": 8988
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 91307,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 767,
+      "cache_read_input_tokens": 122297,
+      "cache_creation_input_tokens": 806,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 806
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 52,
+     "outputTokens": 32050,
+     "cacheReadInputTokens": 2369562,
+     "cacheCreationInputTokens": 91307,
+     "webSearchRequests": 0,
+     "costUSD": 1.8455764,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 8988,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 91307,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 38,
+   "result_summary": "Sleep 006 (replay date 2000-01-07) is committed locally as `afedda2`. Lint and `sleep-audit.py` both passed before the commit, and I did not push.\n\n**What went in:**\n- All 47 messages that had notes are now either cited in L1 or listed in `dataset/drops/sleep-006.tsv`. The two drops are social replies, to Ehud Ronn and Tony Mends.\n- Six new topics:\n  - the Amerada Hess rig day-rate hedge (analysis due Tue 01-11)\n  - the January UH and NYU events plus the LSU visit on Feb 3-4\n  - research group staff administration\n  - ad-hoc advice requests from colleagues\n  - the meetings calendar\n  - the owner's book and the Tufts reprint request (due 01-22)\n- Eleven existing topics were updated, among them conferences (Real Options talk confirmed, Texas Finance Festival dates), the credit articles (reuse needs RISK's permission), recruiting (Sokolov, Spudeck, Jimenez), Argentina (meeting still unscheduled) and the gas model.\n- The three domain indexes, `state.md` and five people files were refreshed.\n\n**Gate fixes:** the audit was red twice before going green.\n- **RATCHET and BLOAT:** the gas-model topic and Shirley Crenshaw's entity grew too much, and the work index reached the top 5% of its size limit. I compressed all three.\n- **L2:** I had appended a consolidation note to the day's log, which counts as changing a log while archiving it. Nothing required that note, so I removed it and restored the log as it was.\n\nThe inbox had no sleep-task or feedback blocks and no question had reached its due date, so nothing went to `questions.md` or `todo.md`.\n\n**Not pushed:** your instructions disagreed. One line said the runner pushes after its own checks, the last said `git push origin main`. I followed the first. `dataset/runs/sleep-006.transcript.jsonl` was already untracked before the run, and I left it out of the commit."
+  },
+  "repair": null
+ }
+}
