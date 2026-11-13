@@ -1,0 +1,183 @@
+{
+ "slice": 11,
+ "simulated_today": "2000-02-12",
+ "feed": {
+  "slice": 11,
+  "iso_week": "2000-W06",
+  "first_seq": 555,
+  "last_seq": 607,
+  "messages": 53,
+  "durable": 49,
+  "first_date": "2000-02-07 00:47",
+  "last_date": "2000-02-12 04:27",
+  "today": "2000-02-12",
+  "inbox_files": [
+   "2000-02-07--mail.md",
+   "2000-02-08--mail.md",
+   "2000-02-09--mail.md",
+   "2000-02-10--mail.md",
+   "2000-02-11--mail.md",
+   "2000-02-12--mail.md"
+  ],
+  "inbox_chars": 35685,
+  "l2_chars": 126094
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 627,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 65.0,
+  "seven_day": 11.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 11,
+  "messages": 53,
+  "durable": 49,
+  "kept": 46,
+  "kept_rate_excluding_redundant": 0.939,
+  "drop_classes": {
+   "other": 1,
+   "social": 2
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 399,
+  "fact_lines_with_source": 398,
+  "dated": 398,
+  "date_matches_source": 392,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.6,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 613
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1863
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 58,
+   "chars": 86678
+  },
+  "people": {
+   "files": 60,
+   "chars": 49296
+  },
+  "archive_inbox": {
+   "files": 57,
+   "chars": 330937
+  },
+  "archive_mail": {
+   "files": 633,
+   "chars": 1416999
+  },
+  "archive_other": {
+   "files": 38,
+   "chars": 53845
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 72,
+   "duration_ms": 624444,
+   "duration_api_ms": 577008,
+   "total_cost_usd": 4.0500128,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 168570,
+    "cache_read_input_tokens": 6856264,
+    "output_tokens": 66490,
+    "output_tokens_details": {
+     "thinking_tokens": 17917
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 168570,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 681,
+      "cache_read_input_tokens": 199529,
+      "cache_creation_input_tokens": 832,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 832
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 66490,
+     "cacheReadInputTokens": 6856264,
+     "cacheCreationInputTokens": 168570,
+     "webSearchRequests": 0,
+     "costUSD": 4.0500128,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 17917,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 168570,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 71,
+   "result_summary": "I finished the 2000-02-12 consolidation for week 2000-W06 as one commit, `d425cce`, after lint and `sleep-audit.py` both came back green on the first try. I did not push: your message says the runner pushes after its own checks, so that overrides the \"git push origin main\" line in the run template. Of the 53 messages, 49 had notes. 46 of those are now cited in the memory files. The other three are listed in `dataset/drops/sleep-011.tsv`: two are about the group's family outing and one is a UCEI working paper the owner already knew about. The main items merged in this week:\n- **Ed Krapels' EnronOnline access:** Louise Kitchen agreed to call him and offered a temporary password.\n- **Seyfried's credit trading:** it is waiting for the owner's sign-off by e-mail.\n- **New staff:** Supatgiat (supporting EBS), Ganjoo, Weldon starting early, and the owner asked for Sevil Yaman as a summer intern.\n- **Interviews:** Robert Lee's second round, Scott Tholan, and John Hou.\n- **Other items:** the MIT student visits, the two Real Options conferences, the end of the LSU visit, the Berlin (Geman) and Australia (Hanley) invitations, the Government Affairs announcement and a muni bond bought through the owner's broker.\n\nSeven people reached five messages and got entity files: Krapels, Kitchen, Trigeorgis, Surbey, Sherriff, Payne and Geman. Surbey had already passed five in an earlier week without getting one. To keep the 16 topic files I edited from growing past the audit limit, I moved their older detail into new archive files under `memory/archive/<domain>/2000/`. I updated the indexes and `state.md`. The five oldest ongoing lines are still valid. I added one alias question (Elisabeth Grant) and new evidence to the existing Tlapek and \"Krishna\" questions; nothing was due. There was no sleep task, and the untracked runner transcript was left out of the commit."
+  },
+  "repair": null
+ }
+}
