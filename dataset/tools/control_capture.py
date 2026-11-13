@@ -81,8 +81,12 @@ def judge(a):
 
     def one(seq):
         m = msgs[seq]
-        user = (f"Email (new text; earlier quoted messages are replaced by pointers):\n<<<\n"
-                f"From: {', '.join(m['from'])}\nSubject: {m['subject']}\n\n{m['novel_text'][:20000]}\n>>>\n\n"
+        # The judge sees what the capture model saw, and more: the whole source file, headers
+        # (To, Cc, X-From, Date) and quoted text included. Earlier versions showed only From,
+        # Subject and the new text, and flagged as unsupported the names taken from Cc and the
+        # facts taken from quoted context (2026-11-13; their reports are kept as v1 and v2).
+        user = (f"Email (the complete source file, headers and any quoted earlier messages):\n<<<\n"
+                f"{m['raw_text'][:40000]}\n>>>\n\n"
                 f"Set A:\n{notes_text(A[seq])}\n\nSet B:\n{notes_text(B[seq])}")
         body = {"model": a.judge, "max_tokens": 1500, "usage": {"include": True},
                 "messages": [{"role": "system", "content": JUDGE_SYSTEM}, {"role": "user", "content": user}]}
@@ -100,9 +104,19 @@ def judge(a):
                 err = f"{type(e).__name__}: {str(e)[:150]}"
         return {"seq": seq, "judge": a.judge, "error": err}
 
-    with cf.ThreadPoolExecutor(max_workers=10) as ex, \
+    done, keep = set(), []
+    if (OUT / "judgments.jsonl").exists():          # resume: keep good verdicts, redo errors
+        for ln in open(OUT / "judgments.jsonl", encoding="utf-8"):
+            r = json.loads(ln)
+            if "verdict" in r:
+                done.add(r["seq"])
+                keep.append(r)
+    todo = [s for s in seqs if s not in done]
+    with cf.ThreadPoolExecutor(max_workers=3) as ex, \
             open(OUT / "judgments.jsonl", "w", encoding="utf-8", newline="\n") as f:
-        for rec in ex.map(one, seqs):
+        for rec in keep:
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+        for rec in ex.map(one, todo):
             f.write(json.dumps(rec, ensure_ascii=False) + "\n")
     print(f"judged {len(seqs)} -> {OUT / 'judgments.jsonl'}")
 
