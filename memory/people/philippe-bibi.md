@@ -5,7 +5,7 @@ entity: person
 name: "Philippe Bibi"
 aliases: ["Philippe A Bibi"]
 domains: [organization, work]
-updated: 2000-03-12
+updated: 2000-04-07
 ---
 # Philippe Bibi
 
@@ -15,6 +15,7 @@ CTO, Enron Global Technology (Jan 2000). ←[[m00323]] ←[[m00953]]
 
 - [2000-01-11] Re-engineers IT Purchasing → memory/domains/organization/office-equipment.md ←[[m00323]] ←[[m00504]] ←[[m00505]]
 - [2000-03-11] Jenny Rub, Beth Perlman, Dan Bruce, John Pavetto, Jay Webb report to him → memory/domains/organization/corporate-announcements-2000.md ←[[m00953]]
+- [2000-04-07] Stays CTO of all Enron as Global Technology joins Enron Net Works → memory/domains/organization/corporate-announcements-2000.md ←[[m01267]]
 
 ## Context: work
 

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-03-31
+updated: 2000-04-07
 ---
 # People and organisations — index
 
@@ -21,6 +21,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Brad Romine — Bradley Romine — brad-romine
 - Bryan Seyfried — — bryan-seyfried
 - Cantekin Dincerler — — cantekin-dincerler
+- Carla Di Castro — Carla diCastro — carla-di-castro
 - Celeste Roberts — — celeste-roberts
 - Charlene Jackson — — charlene-jackson
 - Chonawee Supatgiat — — chonawee-supatgiat
@@ -29,8 +30,10 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Clayton Vernon — — clayton-vernon
 - Cliff Baxter — — cliff-baxter
 - Dale Surbey — — dale-surbey
+- Dave Delainey — — dave-delainey
 - David Cox — — david-cox
 - Dawn Scovill — — dawn-scovill
+- Dorn Hetzel — — dorn-hetzel
 - Doug Leach — — doug-leach
 - Ed Krapels — — ed-krapels
 - Ehud Ronn — Ehud I. Ronn — ehud-ronn
@@ -43,6 +46,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — gopalakrishnan-subramaniam
 - Grant Masson — — grant-masson
 - Greg Whalley — — greg-whalley
+- Harry Arora — — harry-arora
 - Helyette Geman — — helyette-geman
 - Iain Russell — — iain-russell
 - Jana Phillips — Jana Laird Phillips — jana-phillips
@@ -52,6 +56,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Jean Mrha — — jean-mrha
 - Jeff Shankman — Jeffrey A Shankman — jeff-shankman
 - Jeff Skilling — — jeff-skilling
+- Jens Gobel — — jens-gobel
 - Jim Dyer — James S. Dyer — jim-dyer
 - Jim Garven — James R. Garven — jim-garven
 - Jim Irvine — — jim-irvine
@@ -88,8 +93,10 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Martin Lin — — martin-lin
 - Martina Angelova — — martina-angelova
 - Maruti More — Maruti D. More — maruti-more
+- Masayuki Fujita — — masayuki-fujita
 - Maureen Raymond — — maureen-raymond
 - Michael Sergeev — — michael-sergeev
+- Mike McConnell — — mike-mcconnell
 - Mike Roberts — Mike A Roberts — mike-roberts
 - Nick Bambos — — nick-bambos
 - Nurit Krausz — — nurit-krausz
@@ -116,6 +123,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Shalesh Ganjoo — — shalesh-ganjoo
 - Sheridan Titman — — sheridan-titman
 - Sherri Sera — — sherri-sera
+- Sheryl Lara — — sheryl-lara
 - Shirley Crenshaw — — shirley-crenshaw
 - Steven Leppard — — steven-leppard
 - Stinson Gibner — — stinson-gibner

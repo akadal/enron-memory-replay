@@ -5,7 +5,7 @@ entity: person
 name: "Karla Feldman"
 aliases: []
 domains: [organization, work]
-updated: 2000-03-12
+updated: 2000-04-07
 ---
 # Karla Feldman
 
@@ -19,3 +19,4 @@ Enron Contract Administrator; handles the group's software licences and renewals
 ## Context: work
 
 - [2000-03-08] Pricing one licence of Geman's D-G Energy Systems → memory/domains/work/vendor-offers-2000.md ←[[m00911]]
+- [2000-04-03] Asks Geman for D-G licence prices → memory/domains/work/vendor-offers-2000.md ←[[m01208]]
