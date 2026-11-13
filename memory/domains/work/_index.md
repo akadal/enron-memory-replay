@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 1999-12-26
+updated: 2000-01-01
 ---
 # Work — index
 
@@ -9,24 +9,26 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Robert Lee visits 1999-12-29, 9:00 a.m. → memory/domains/work/1999-12-29-robert-lee-visit.md
-- RiskMetrics CreditManager net-meeting 2000-01-07, 9:30 → memory/domains/work/2000-01-07-creditmanager-net-meeting.md
-- Kohli wants structuring help on Dabhol firm sale, new year → memory/domains/work/dabhol-firm-power-sale.md
-- Technical Corner binder to unit heads (1999-12-26) → memory/domains/work/research-intelligence-newsletter.md
-- Vernon's simplified gas model write-up pending → memory/domains/work/gas-transmission-price-model.md
-- PSE swap: 20-yr USD/euro vol + CPI correlation asked (1999-12-17) → memory/domains/work/pse-swap-cpi-hedge.md
+- CreditManager net-meeting Fri 2000-01-07, 9:30 → memory/domains/work/2000-01-07-creditmanager-net-meeting.md
+- Guerriero: Argentina modelling meeting, 1st week of Jan → memory/domains/work/argentina-modelling.md
+- Kohli: Dabhol structuring help in the new year → memory/domains/work/dabhol-firm-power-sale.md
+- Model risk: owner's AA review comments re-sent 1999-12-30 → memory/domains/work/model-risk-review.md
+- PSE swap vol/CPI correlation asked (1999-12-17) → memory/domains/work/pse-swap-cpi-hedge.md
 
 ## Files
 
-- memory/domains/work/vega-var.md — vega VaR rollout, validation gap
-- memory/domains/work/maharashtra-naphtha-caps.md — 2000 naphtha caps for Maharashtra
-- memory/domains/work/dabhol-firm-power-sale.md — Dabhol Phase I firm power sale
-- memory/domains/work/1999-12-29-robert-lee-visit.md — Robert Lee's visit
-- memory/domains/work/2000-01-07-creditmanager-net-meeting.md — RiskMetrics CreditManager meeting
-- memory/domains/work/gas-transmission-price-model.md — Vernon's gas model, capacity pricing
-- memory/domains/work/uk-power-volatility-curve.md — UK power vol curve generator audit
-- memory/domains/work/research-intelligence-newsletter.md — Research Intelligence, Technical Corner
-- memory/domains/work/pse-swap-cpi-hedge.md — PSE swap vol/CPI correlation request
-- memory/domains/work/emission-trading-poland.md — emission-trading materials for Poland
-- memory/domains/work/outside-inquiries.md — paper review, GARCH refs, UK prices, lunch
-- memory/domains/work/research-group-presentations.md — IIR NY, Seoul, Imperial Capital
+- memory/domains/work/vega-var.md — vega VaR, validation gap
+- memory/domains/work/maharashtra-naphtha-caps.md — Maharashtra naphtha caps
+- memory/domains/work/dabhol-firm-power-sale.md — Dabhol firm power sale
+- memory/domains/work/1999-12-29-robert-lee-visit.md — Robert Lee visit
+- memory/domains/work/2000-01-07-creditmanager-net-meeting.md — CreditManager meeting
+- memory/domains/work/gas-transmission-price-model.md — Vernon's gas model
+- memory/domains/work/uk-power-volatility-curve.md — UK power vol curve audit
+- memory/domains/work/research-intelligence-newsletter.md — Technical Corner
+- memory/domains/work/pse-swap-cpi-hedge.md — PSE swap vol/CPI
+- memory/domains/work/emission-trading-poland.md — Poland emission trading
+- memory/domains/work/outside-inquiries.md — papers, Risk Books, contacts
+- memory/domains/work/research-group-presentations.md — talks given or missed
+- memory/domains/work/model-risk-review.md — AA model review, model risk
+- memory/domains/work/argentina-modelling.md — Argentina modelling
+- memory/domains/work/ljm-rthm-put-valuation.md — RTHM put (LJM)
