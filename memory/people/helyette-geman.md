@@ -5,7 +5,7 @@ entity: person
 name: "Helyette Geman"
 aliases: []
 domains: [industry, work]
-updated: 2000-02-19
+updated: 2000-03-12
 ---
 # Helyette Geman
 
@@ -15,6 +15,7 @@ Offers energy-option pricing software and workshop teaching (GemanIX@aol.com); t
 
 - [2000-02-01] Her pricing software; owner wants to buy it → memory/domains/work/vendor-offers-2000.md ←[[m00520]] ←[[m00525]]
 - [2000-01-31] Dust-jacket reviewer of Strickland's book → memory/domains/work/owner-publications.md ←[[m00457]] ←[[m00485]]
+- [2000-03-08] One D-G Energy Systems licence being priced (Karla Feldman) → memory/domains/work/vendor-offers-2000.md ←[[m00911]] ←[[m00878]]
 
 ## Context: industry
 

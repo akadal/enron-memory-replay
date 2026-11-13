@@ -5,7 +5,7 @@ entity: person
 name: "Zimin Lu"
 aliases: []
 domains: [organization, work]
-updated: 2000-02-19
+updated: 2000-03-12
 ---
 # Zimin Lu
 
@@ -15,6 +15,7 @@ Research Group member at director level; EB 1967 from Jan 2000. ←[[m00004]] �
 
 - [1999-12-10] Group member → memory/domains/organization/research-group.md ←[[m00004]] ←[[m00010]]
 - [2000-01-20] Recommended Ningya Cheng; meets Alberto Jimenez → memory/domains/organization/recruiting-candidates.md ←[[m00403]] ←[[m00428]]
+- [2000-03-07] Proposes the Friday brown-bag with Alex Huang → memory/domains/work/research-presentations.md ←[[m00895]]
 
 ## Context: work
 

@@ -5,7 +5,7 @@ entity: person
 name: "Lenos Trigeorgis"
 aliases: []
 domains: [industry]
-updated: 2000-02-19
+updated: 2000-03-12
 ---
 # Lenos Trigeorgis
 
@@ -14,3 +14,4 @@ President of the Real Options Group and Professor of Finance, University of Cypr
 ## Context: industry
 
 - [1999-12-17] Owner speaks at his NY conference, 13-15 Mar 2000 → memory/domains/industry/speaking-engagements-2000.md ←[[m00067]] ←[[m00128]] ←[[m00131]] ←[[m00140]] ←[[m00583]] ←[[m00586]] ←[[m00652]]
+- [2000-03-10] Last reminder for the owner's slides/bio → memory/domains/industry/speaking-engagements-2000.md ←[[m00939]] ←[[m00951]]

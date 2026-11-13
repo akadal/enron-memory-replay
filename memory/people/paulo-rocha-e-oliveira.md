@@ -5,7 +5,7 @@ entity: person
 name: "Paulo Rocha e Oliveira"
 aliases: ["Paulo Oliveira", "Paulo Rocha"]
 domains: [work, organization]
-updated: 2000-02-27
+updated: 2000-03-12
 ---
 # Paulo Rocha e Oliveira
 
@@ -14,6 +14,7 @@ MIT Sloan PhD student (Operations Management, Gabriel Bitran), Internet pricing;
 ## Context: work
 
 - [2000-02-10] Invited by Tom Gros for the 16 Feb MIT day → memory/domains/work/broadband-services.md ←[[m00593]] ←[[m00594]]
+- [2000-03-06] Summer project on web customer behaviour (eyeball value) → memory/domains/work/broadband-services.md ←[[m00865]]
 
 ## Context: organization
 

@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones (home, two cells, fax); wife Ludmila Kaminski (spelling corrected with Merrill Lynch, Feb 2000), her check lists; son a junior at Stanford, Parents Weekend 25 Feb 2000; AOL billing dispute (Jan 2000); PaineWebber broker Julie Haviland, muni bond 7 Feb 2000; Merrill Lynch broker David Walkup."
 status: active
-updated: 2000-03-03
+updated: 2000-03-12
 ---
 # Owner's household and personal admin
 
@@ -22,3 +22,4 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-02-19] Wife's name: "my wife's name is Ludmila Kaminski, not Kaminsky"; Merrill Lynch broker David Walkup (713-658-1685) to fix the documents; he pitches new bond issues (29 Feb). ←[[m00710]] ←[[m00816]]
 - [2000-02-22→] Son: "my son is a junior at Stanford". ←[[m00732]]
 - [2000-02-21] To Ludmila from London: "Elzbieta was reconnected to the machine again this morning (Mon)." ←[[m00717]]
+- [2000-03-08] Note to self: "$933  to Dean Witter". ←[[m00904]]
