@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 1999-11-30
+updated: 1999-12-12
 ---
 # Industry — index
 
@@ -9,8 +9,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-(nothing yet)
+- EPRM Monte Carlo course: owner recommended Stinson Gibner (1999-12-10) → memory/domains/industry/eprm-risk-courses.md
 
 ## Files
 
-(nothing yet)
+- memory/domains/industry/eprm-risk-courses.md — EPRM/RISK conferences and speaker requests
