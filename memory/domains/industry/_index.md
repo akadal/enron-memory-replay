@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-06-11
+updated: 2000-06-18
 ---
 # Industry — index
 
@@ -9,9 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Risk 2000 Boston from 12 Jun, panel 14 Jun; Geman's Paris conference (late Jun) declined → memory/domains/industry/speaking-engagements-2000.md
-- Sydney July: slides due 12 Jun; dinner at Strickland's 18 Jul → memory/domains/industry/eprm-risk.md
-- Wharton ET: Parsons observes the Insead symposium 10 Jun → memory/domains/industry/research-memberships-2000.md
+- Risk 2000 Boston done (talk 14 Jun); PSEG's Aaron Gould asks for the slides → memory/domains/industry/speaking-engagements-2000.md
+- Geman's late-June Paris conference declined; her reply 12 Jun → memory/domains/industry/speaking-engagements-2000.md
+- Sydney July: slides asked by 12 Jun, forwarded to AOL 16 Jun; dinner at Strickland's 18 Jul → memory/domains/industry/eprm-risk.md
+- After the Insead workshop the owner will recommend Wharton as a partner to Skilling → memory/domains/industry/research-memberships-2000.md
 
 ## Files
 
@@ -24,9 +25,9 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model, Enerfax list, RDI conference (Robert Brooks)
 - memory/domains/industry/market-outlooks-2000.md — outside forecasts for 2000: CERA, Poten, owner's California warning, PDO links
 - memory/domains/industry/real-options-debate-2000.md — Economist 'Fading Fads' debate on real options (Faiz's list, Apr 2000)
-- memory/domains/industry/research-memberships-2000.md — research-centre membership offers: Vanderbilt FMRC, Wharton ET (May 2000)
+- memory/domains/industry/research-memberships-2000.md — research-centre membership offers: Vanderbilt FMRC, Wharton ET; Wharton partner proposal (Jun 2000)
 - memory/domains/industry/rice-university.md — Rice: Financial Engineering (Ensor), Enron-sponsored finance seminars (Ostdiek)
-- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Risk 2000 Boston, Berlin, Paris (Jun declined; PoweRisk Oct); done ones archived
+- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Risk 2000 Boston (done), Berlin, Paris (Jun declined; PoweRisk Oct); done ones archived
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Mitsubishi Research, Darden case, Texaco, NYU's Diebold, Aram
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/weather-insurance-markets.md — CME weather, CATEX, cat options; Corney & Barrow hedge (Jun 2000)

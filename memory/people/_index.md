@@ -1,12 +1,12 @@
 ---
 type: index
-updated: 2000-06-11
+updated: 2000-06-18
 ---
 # People — index
 
 ## Files
 
-Variant aliases (initials, first-name forms, misspellings) live in the entity files.
+Variant aliases live in the entity files.
 
 - Adam Brulinski — adam-brulinski
 - Alan Aronowitz — alan-aronowitz
@@ -19,7 +19,8 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Anthony Mends — anthony-mends
 - April Hodgson — april-hodgson
 - Aram Sogomonian — aram-sogomonian
-- Benjamin Parsons — Ben Parsons — benjamin-parsons
+- Barbara Dillard — barbara-dillard
+- Benjamin Parsons — benjamin-parsons
 - Beth Perlman — beth-perlman
 - Bjorn Hagelmann — bjorn-hagelmann
 - Brad McSherry — brad-mcsherry
@@ -39,6 +40,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Dale Surbey — dale-surbey
 - Damian Goodburn — damian-goodburn
 - Darrell Duffie — darrell-duffie
+- Datren Williams — datren-williams
 - Dave Delainey — dave-delainey
 - David Cox — david-cox
 - David Gorte — david-gorte
@@ -62,8 +64,8 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Fred Lagrasta — fred-lagrasta
 - Gary Hickerson — gary-hickerson
 - Ginger Gamble — ginger-gamble
-- Giuseppe Paleologo — Gappy — giuseppe-paleologo
-- Gopalakrishnan Subramaniam — G.Subbu — gopalakrishnan-subramaniam
+- Giuseppe Paleologo — giuseppe-paleologo
+- Gopalakrishnan Subramaniam — gopalakrishnan-subramaniam
 - Gordon Sick — gordon-sick
 - Grant Masson — grant-masson
 - Greg Whalley — greg-whalley
@@ -85,6 +87,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Jim Garven — jim-garven
 - Jim Irvine — jim-irvine
 - Joan Payne — joan-payne
+- Joe Gold — joe-gold
 - Joe Hirko — joe-hirko
 - Joel Hanley — joel-hanley
 - John Bloomer — john-bloomer
@@ -106,7 +109,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Kimberly Watson — kimberly-watson
 - Kirstee Hewitt — kirstee-hewitt
 - Kristy Carnes — kristy-carnes
-- Leandro Ibasco — Roy Ibasco — leandro-ibasco
+- Leandro Ibasco — leandro-ibasco
 - Lenos Trigeorgis — lenos-trigeorgis
 - Les Clewlow — les-clewlow
 - Li Xiao — li-xiao
@@ -142,7 +145,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Patrycja Dalecka — patrycja-dalecka
 - Paula Corey — paula-corey
 - Paulo Issler — paulo-issler
-- Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
+- Paulo Rocha e Oliveira — paulo-rocha-e-oliveira
 - Peter Tufano — peter-tufano
 - Phelim Boyle — phelim-boyle
 - Philippe Bibi — philippe-bibi
@@ -151,7 +154,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Richard Lewis — richard-lewis
 - Rick Buy — rick-buy
 - Robert Brooks — robert-brooks
-- Robert Lee — Bob Lee — robert-lee
+- Robert Lee — robert-lee
 - Robert Rudy — robert-rudy
 - Rodney Greene — rodney-greene
 - Roman Zadorozhny — roman-zadorozhny
@@ -180,6 +183,7 @@ Variant aliases (initials, first-name forms, misspellings) live in the entity fi
 - Ted Murphy — ted-murphy
 - Teresa Bien — teresa-bien
 - Thomas Knudsen — thomas-knudsen
+- Tim Davies — tim-davies
 - Tom Gros — tom-gros
 - Tom Halliburton — tom-halliburton
 - Tom Piazze — tom-piazze
