@@ -1,0 +1,186 @@
+{
+ "slice": 9,
+ "simulated_today": "2000-01-30",
+ "feed": {
+  "slice": 9,
+  "iso_week": "2000-W04",
+  "first_seq": 426,
+  "last_seq": 480,
+  "messages": 55,
+  "durable": 40,
+  "first_date": "2000-01-24 02:28",
+  "last_date": "2000-01-30 23:54",
+  "today": "2000-01-30",
+  "inbox_files": [
+   "2000-01-24--mail.md",
+   "2000-01-25--mail.md",
+   "2000-01-26--mail.md",
+   "2000-01-27--mail.md",
+   "2000-01-28--mail.md",
+   "2000-01-29--mail.md",
+   "2000-01-30--mail.md"
+  ],
+  "inbox_chars": 32094,
+  "l2_chars": 125395
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 355,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 50.0,
+  "seven_day": 46.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 9,
+  "messages": 55,
+  "durable": 40,
+  "kept": 38,
+  "kept_rate_excluding_redundant": 0.95,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 234,
+  "fact_lines_with_source": 214,
+  "dated": 214,
+  "date_matches_source": 210,
+  "date_mismatch_ids_this_slice": [
+   "m00435"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 572
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 57,
+   "chars": 70893
+  },
+  "people": {
+   "files": 9,
+   "chars": 8769
+  },
+  "archive_inbox": {
+   "files": 44,
+   "chars": 231913
+  },
+  "archive_mail": {
+   "files": 506,
+   "chars": 1080121
+  },
+  "archive_other": {
+   "files": 4,
+   "chars": 7350
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 40,
+   "duration_ms": 353489,
+   "duration_api_ms": 316902,
+   "total_cost_usd": 2.3894238000000003,
+   "usage": {
+    "input_tokens": 78,
+    "cache_creation_input_tokens": 107887,
+    "cache_read_input_tokens": 4088179,
+    "output_tokens": 35419,
+    "output_tokens_details": {
+     "thinking_tokens": 9659
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 107887,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 929,
+      "cache_read_input_tokens": 138315,
+      "cache_creation_input_tokens": 1368,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1368
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 78,
+     "outputTokens": 35419,
+     "cacheReadInputTokens": 4088179,
+     "cacheCreationInputTokens": 107887,
+     "webSearchRequests": 0,
+     "costUSD": 2.3894238000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 9659,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 107887,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 39,
+   "result_summary": "Sleep 009 is done: week 2000-W04 (messages m00426–m00480, 55 mails) is in one commit, `fca7180`. Lint and sleep-audit were both green on the first try after one small index fix, and I didn't push. Your run instructions said \"do not push\" in one place and \"git push origin main\" in another; I went with the explicit \"the runner pushes after its own checks\". I added eight new topics:\n- **Work:** the mark-to-market question on the Enron India (EIPL) deal, the Promigas TVCable call option, the Research credit model convergence test, and Strickland and Clewlow's energy book (Strickland's line moved there from outside-inquiries).\n- **Organization:** Kevin Hannon taking over Enron Global Risk Management with Greg Whalley as ENA president, and Ted Murphy's dispute over GRMS resources.\n- **Industry:** AIESEC Houston.\n- **Personal:** Adam T.'s request for summer jobs in Houston for Michal.\n\nUpdates to existing files:\n- **Recruiting:** Samer Takriti declined the move, Bob Lee's follow-up, Alberto Jimenez Crespo (now kept apart from Craig Jimenez), Matthew Williams and Chonawee Supatgiat.\n- **Others:** the Risk 2000 Boston talk title and the owner's own wording of his name and title, the LSU visit, the Real Options E&P course, the Sycamore meeting in Chelmsford, the California power outlook, staff language lessons, the owner's travel this week, the ICF meeting agenda, Maruti More's lunch request, and three people files.\n- **Compression:** older detail from recruiting, staff-administration and conferences-2000 moved to `memory/archive/<domain>/2000/` with a link left behind. Two past-event topics are closed (the 29 Dec Lee visit and the 7 Jan CreditManager call), and the work index is shorter.\n- **Indexes and state:** all four domain indexes and `state.md` are refreshed.\n\n`dataset/drops/sleep-009.tsv` lists two messages: m00439 (article sent without its text) and m00450 (a book order). Every other message with notes is cited. The inbox had no sleep-task or feedback blocks and noth"
+  },
+  "repair": null
+ }
+}
