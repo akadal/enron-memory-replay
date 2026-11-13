@@ -1,0 +1,188 @@
+{
+ "slice": 10,
+ "simulated_today": "2000-02-06",
+ "feed": {
+  "slice": 10,
+  "iso_week": "2000-W05",
+  "first_seq": 481,
+  "last_seq": 554,
+  "messages": 74,
+  "durable": 59,
+  "first_date": "2000-01-31 00:07",
+  "last_date": "2000-02-06 23:01",
+  "today": "2000-02-06",
+  "inbox_files": [
+   "2000-01-31--mail.md",
+   "2000-02-01--mail.md",
+   "2000-02-02--mail.md",
+   "2000-02-03--mail.md",
+   "2000-02-04--mail.md",
+   "2000-02-05--mail.md",
+   "2000-02-06--mail.md"
+  ],
+  "inbox_chars": 44921,
+  "l2_chars": 210784
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 255,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 51.0,
+  "seven_day": 46.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 10,
+  "messages": 74,
+  "durable": 59,
+  "kept": 51,
+  "kept_rate_excluding_redundant": 0.864,
+  "drop_classes": {
+   "no_owner_content": 5,
+   "other": 1,
+   "social": 2
+  },
+  "dropped": 8,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 256,
+  "fact_lines_with_source": 222,
+  "dated": 222,
+  "date_matches_source": 217,
+  "date_mismatch_ids_this_slice": [
+   "m00481",
+   "m00526"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   0.6,
+   0.75,
+   0.57
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 579
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 59,
+   "chars": 74658
+  },
+  "people": {
+   "files": 9,
+   "chars": 9082
+  },
+  "archive_inbox": {
+   "files": 51,
+   "chars": 276834
+  },
+  "archive_mail": {
+   "files": 580,
+   "chars": 1290905
+  },
+  "archive_other": {
+   "files": 11,
+   "chars": 17556
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 32,
+   "duration_ms": 252773,
+   "duration_api_ms": 222773,
+   "total_cost_usd": 1.8353232,
+   "usage": {
+    "input_tokens": 52,
+    "cache_creation_input_tokens": 101591,
+    "cache_read_input_tokens": 2550936,
+    "output_tokens": 25610,
+    "output_tokens_details": {
+     "thinking_tokens": 6570
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 101591,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1077,
+      "cache_read_input_tokens": 132699,
+      "cache_creation_input_tokens": 688,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 688
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 52,
+     "outputTokens": 25610,
+     "cacheReadInputTokens": 2550936,
+     "cacheCreationInputTokens": 101591,
+     "webSearchRequests": 0,
+     "costUSD": 1.8353232,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 6570,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 101591,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 31,
+   "result_summary": "I ran sleep 010 for week 2000-W05 (messages 481–554) and committed it as `3685c84`. I did not push, because the run instructions say the runner pushes after its own checks. That overrides the generic \"git push origin main\" line.\n\n**Gates:** lint is green (23 over-target warnings, none over a ceiling). The first sleep-audit was red and the second was green. Two problems caused the red result:\n- **LOSS:** the archive files holding the moved detail weren't staged yet, so the audit couldn't see that content survived. Staging them fixed it.\n- **RATCHET:** `outside-inquiries.md` and `staff-administration.md` grew past the 150-character allowance. I compressed both further.\n\n**What changed:**\n- **Compression:** I trimmed seven topic files and moved their older detail into new archive files under `memory/archive/<domain>/2000/`. Six of them were already over the 1,600-character target, the seventh close to it.\n- **New topics:** Tamarchenko's correlation-matrix stress tool, and the Global Strategic Sourcing unit under George Wasaff.\n- **Updated topics (main items):**\n  - Cranfield student project.\n  - Chicago Partners.\n  - Geman's pricing software, which the owner wants to buy.\n  - The Kellogg real-options class.\n  - Krapels' EnronOnline chapter.\n  - The owner's decision to give the Research Group two personal days a year.\n  - The color copier bids.\n  - Candidates Wayne Tow, John Hou, Matthew Williams and Datren Williams.\n  - Feb 7: the UH talk for Ed Kao and the CERA workshop.\n  - Chairing and speaking in Amsterdam.\n  - The El Paso capacity deal, terminated 31 Jan.\n  - Promigas default probabilities and the ROFR model switch.\n  - The Strickland book credits and Lacima's Houston visit.\n  - AIESEC: the owner worked for AIESEC in Poland in the 1970s.\n- **Bookkeeping:**\n  - Indexes, `state.md` and the drops file `dataset/drops/sleep-010.tsv` are refreshed. It lists 8 drops: social notes, announcements to all staff, and press releases forwarded without comment.\n  - All 59 messag"
+  },
+  "repair": null
+ }
+}
