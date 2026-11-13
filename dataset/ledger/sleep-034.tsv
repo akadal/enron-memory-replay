@@ -1,0 +1,41 @@
+id	durable	status	detail
+m02413	yes	kept	domains/industry/eprm-risk.md
+m02414	no	not_durable	bulk
+m02415	no	not_durable	bulk
+m02416	yes	kept	domains/work/var-backtesting-2000.md
+m02417	yes	kept	domains/industry/esai-energycast-review.md
+m02418	yes	kept	domains/work/outside-requests.md
+m02419	no	not_durable	bulk
+m02420	yes	kept	domains/work/broadband-services.md people/john-bloomer.md
+m02421	yes	kept	domains/work/lng-book-2000.md
+m02422	yes	kept	domains/industry/eprm-risk.md
+m02423	yes	kept	domains/industry/eprm-risk.md
+m02424	no	not_durable	bulk
+m02425	yes	dropped	logistics: lunch date with Phil Sisneros on 24 Jul; the return date is in state.md
+m02426	no	not_durable	bulk
+m02427	no	not_durable	bulk
+m02428	no	not_durable	bulk
+m02429	yes	kept	domains/work/university-relations.md
+m02430	yes	kept	domains/work/outside-requests.md
+m02431	yes	kept	domains/work/japan-merchant-business.md
+m02432	yes	kept	domains/work/outside-requests.md
+m02433	yes	kept	domains/work/outside-requests.md
+m02434	yes	kept	domains/industry/visitors-2000.md
+m02435	yes	kept	domains/organization/staff-and-recruiting.md people/joseph-hrgovcic.md
+m02436	yes	kept	domains/industry/speaking-engagements-2000.md people/tom-arnold.md
+m02437	yes	kept	domains/organization/corporate-announcements-2000.md
+m02438	yes	kept	domains/work/stanford-research-ties.md
+m02439	no	not_durable	bulk
+m02440	yes	kept	domains/organization/staff-and-recruiting.md domains/work/gas-flow-price-model.md
+m02441	no	not_durable	bulk
+m02442	yes	kept	domains/organization/staff-and-recruiting.md
+m02443	yes	kept	domains/organization/candidate-referrals-2000.md people/iris-mack.md people/teresa-bien.md
+m02444	yes	kept	domains/industry/speaking-engagements-2000.md people/tom-arnold.md
+m02445	no	not_durable	logistics
+m02446	yes	kept	domains/industry/eprm-risk.md
+m02447	yes	kept	domains/work/university-relations.md
+m02448	yes	kept	domains/organization/mg-metals-integration.md
+m02449	yes	kept	domains/organization/london-research.md
+m02450	yes	kept	domains/organization/mg-metals-integration.md
+m02451	yes	kept	domains/organization/mg-metals-integration.md
+m02452	yes	kept	domains/organization/corporate-announcements-2000.md
