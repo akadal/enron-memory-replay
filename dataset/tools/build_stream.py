@@ -70,8 +70,8 @@ def addr_list(value):
 def parse(raw, path):
     # The CMU files are 8-bit text, mostly ASCII with Windows-1252 punctuation. Decoding here, once,
     # with replacement, keeps every later step on clean str and makes the output valid UTF-8.
-    msg = email.message_from_string(raw.decode("cp1252", errors="replace"),
-                                    policy=email.policy.compat32)
+    text = raw.decode("cp1252", errors="replace")
+    msg = email.message_from_string(text, policy=email.policy.compat32)
     try:
         dt = email.utils.parsedate_to_datetime(msg.get("Date", ""))
     except (TypeError, ValueError, IndexError):
@@ -93,6 +93,7 @@ def parse(raw, path):
         "x_folder": (msg.get("X-Folder") or "").strip(),
         "body": body,
         "raw_sha256": hashlib.sha256(raw).hexdigest(),
+        "raw_text": text.replace("\r\n", "\n"),   # the whole file, headers and body, verbatim
     }
 
 
@@ -140,12 +141,16 @@ def sent_folder_addresses(msgs):
 
 
 def unique_stream(msgs):
-    """De-duplicate, drop out-of-range dates, sort by UTC instant then path."""
+    """De-duplicate, set aside messages with no placeable date, sort by UTC instant then path.
+
+    A message whose Date header is missing or impossible (the CMU release has a placeholder
+    date of 31 Dec 1979 on some files) cannot be put on the timeline. It is not discarded: it is
+    returned as "unplaced" and kept verbatim in L2, outside the replay."""
     msgs = sorted(msgs, key=lambda m: natural_key(m["path"]))
     kept, aliases, dropped = {}, defaultdict(list), []
     for m in msgs:
         if m["dt"] is None or m["dt"].tzinfo is None or not (DATE_MIN <= m["dt"] <= DATE_MAX):
-            dropped.append(m["path"])
+            dropped.append(m)
             continue
         k = dedup_key(m)
         if k in kept:
@@ -197,15 +202,24 @@ def cmd_build(a):
             direction = "sent" if own & set(m["from"]) else "received"
             utc = m["dt"].astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
             rec = {k: m[k] for k in ("path", "message_id", "date", "from", "to", "cc",
-                                     "subject", "x_from", "x_folder", "body", "raw_sha256")}
+                                     "subject", "x_from", "x_folder", "body", "raw_sha256",
+                                     "raw_text")}
             rec.update(seq=i, utc=utc, local=m["dt"].strftime("%Y-%m-%d %H:%M"),
                        direction=direction)
             fc.write(json.dumps(rec, ensure_ascii=False) + "\n")
             w.writerow([i, (i - 1) // a.batch + 1, m["path"], m["raw_sha256"], m["date"], utc,
                         direction, len(m["body"]), " ".join(al)])
+    unplaced = os.path.join(a.cache, f"{a.owner}.unplaced.jsonl")
+    with open(unplaced, "w", encoding="utf-8", newline="\n") as fu:
+        for i, m in enumerate(dropped, 1):
+            rec = {k: m[k] for k in ("path", "message_id", "date", "from", "to", "cc", "subject",
+                                     "x_from", "x_folder", "body", "raw_sha256", "raw_text")}
+            rec.update(uid=f"u{i:03d}",
+                       direction="sent" if own & set(m["from"]) else "received")
+            fu.write(json.dumps(rec, ensure_ascii=False) + "\n")
     print(json.dumps({"owner": a.owner, "owner_addresses": sorted(own), "files": len(msgs),
-                      "unique": len(stream), "dropped_bad_date": len(dropped),
-                      "dropped_paths": dropped, "cache": cache}, indent=1))
+                      "unique": len(stream), "unplaced": len(dropped),
+                      "unplaced_paths": [m["path"] for m in dropped], "cache": cache}, indent=1))
 
 
 def main():

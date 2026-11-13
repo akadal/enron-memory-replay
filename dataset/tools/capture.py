@@ -9,7 +9,7 @@ so the whole mailbox can be captured upfront without leaking the future into any
 
 Output per message: `durable` true/false, a reason class when false, up to five notes. A note
 that attributes words to the owner carries a verbatim quote; Python checks every quote is a
-substring of the message and drops the note when it is not (the same rule the private
+substring of the message and drops the note when it is not (the same rule the reference
 deployment applies to its automatic session summaries). Every request is reproducible from this
 file, the prompt version and the manifest; every response is stored verbatim with its usage.
 
@@ -31,12 +31,12 @@ import urllib.error
 import urllib.request
 
 MODEL = "anthropic/claude-haiku-5.5"
-PROMPT_VERSION = "capture-v1"
+PROMPT_VERSION = "capture-v2"
 URL = "https://openrouter.ai/api/v1/chat/completions"
 CHUNK = 40000          # characters of new text per call; longer messages are split
 CONTEXT_PER_QUOTE = 1500
 MAX_QUOTED_CONTEXT = 3
-REASONS = ["bulk", "automated", "logistics", "pleasantry", "quote_only", "private", "empty", "other"]
+REASONS = ["bulk", "automated", "logistics", "pleasantry", "quote_only", "empty", "other"]
 
 SYSTEM = """You are the capture step of a personal memory core for Vince Kaminski ("the owner"), \
 an Enron employee. Messages from the owner's mailbox arrive one at a time, in the order they \
@@ -49,8 +49,6 @@ projects and their status, roles, hires and departures, who works with whom, mod
 in use, numbers that matter, the owner's views and preferences.
 Not durable: newsletters and advertising, automated notices, logistics that will be moot within \
 days, pleasantries, a message that only repeats quoted text, an empty message.
-Private: do not put health details, family matters, or personal contact details (phone numbers, \
-home addresses) into notes. If that is all a message holds, it is not durable, reason "private".
 
 Rules:
 - Write in English, plain prose, one fact per note, at most 300 characters, at most 5 notes.
@@ -64,7 +62,7 @@ Rules:
 
 Answer with JSON only, no prose around it:
 {"durable": true or false, "reason": "<when false: one of bulk, automated, logistics, \
-pleasantry, quote_only, private, empty, other>", "notes": [{"text": "...", "quote": "..."}]}"""
+pleasantry, quote_only, empty, other>", "notes": [{"text": "...", "quote": "..."}]}"""
 
 
 def user_prompt(m, chunk_text, part, parts, context):
@@ -168,13 +166,17 @@ def capture_one(m, key, by_seq):
 
 
 def main():
+    global MODEL
     p = argparse.ArgumentParser()
     p.add_argument("--enriched", required=True)
     p.add_argument("--out", required=True)
     p.add_argument("--first", type=int, required=True)
     p.add_argument("--last", type=int, required=True)
     p.add_argument("--workers", type=int, default=15)
+    p.add_argument("--model", default=MODEL, help="only for control runs; the dataset uses the default")
+    p.add_argument("--seqs", help="file with one seq per line: capture only these (control samples)")
     a = p.parse_args()
+    MODEL = a.model
     key = os.environ.get("OPENROUTER_API_KEY")
     if not key:
         sys.exit("OPENROUTER_API_KEY is not set")
@@ -187,7 +189,9 @@ def main():
             r = json.loads(ln)
             if not r.get("error"):
                 done.add(r["seq"])
-    todo = [m for m in msgs if a.first <= m["seq"] <= a.last and m["seq"] not in done]
+    only = {int(x) for x in open(a.seqs, encoding="utf-8").read().split()} if a.seqs else None
+    todo = [m for m in msgs if a.first <= m["seq"] <= a.last and m["seq"] not in done
+            and (only is None or m["seq"] in only)]
     lock = threading.Lock()
     cost, n_err = 0.0, 0
     with open(a.out, "a", encoding="utf-8", newline="\n") as out, \

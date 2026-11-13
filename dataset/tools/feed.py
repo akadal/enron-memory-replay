@@ -43,22 +43,23 @@ def addrs(lst, n=10):
     return ", ".join(lst[:n]) + (f" (+{len(lst) - n} more)" if len(lst) > n else "")
 
 
-def l2_file(m):
-    mid = f"m{m['seq']:05d}"
-    body = m["body"] or "(empty body)"
-    f = fence_for(body)
-    head = ["---", "type: archive", f"date: {m['local'][:10]}", f"source: \"{m['path']}\"",
-            f"raw_sha256: {m['raw_sha256']}", f"direction: {m['direction']}", f"class: {m['cls']}",
-            f"thread: {m['thread_id']}", "---", f"# {mid} · {m['subject'] or '(no subject)'}", "",
-            f"Date: {m['local']} · {m['date']}",
-            f"From: {addrs(m['from'])}" + (f" ({m['x_from']})" if m.get("x_from") else ""),
-            f"To: {addrs(m['to'], 50)}"]
-    if m["cc"]:
-        head.append(f"Cc: {addrs(m['cc'], 50)}")
-    head.append(f"Subject: {m['subject'] or '(no subject)'}")
-    if m["quoted_from"]:
-        head.append("Quotes: " + " ".join(f"m{q:05d}" for q in m["quoted_from"]))
-    return "\n".join(head) + f"\n\n{f}text\n{body}\n{f}\n"
+def l2_file(m, mid=None, date=None):
+    """The source file exactly as it is in the CMU tarball, headers and body, inside a fence.
+    Only line endings are normalised (CRLF to LF); raw_sha256 is the checksum of the original
+    bytes. The frontmatter and the title line describe the message; they do not replace it."""
+    mid = mid or f"m{m['seq']:05d}"
+    raw = m["raw_text"]
+    f = fence_for(raw)
+    if date is None:
+        date = m["local"][:10]
+    head = ["---", "type: archive"] + ([f"date: {date}"] if date else []) + [
+        f"source: \"{m['path']}\"", f"raw_sha256: {m['raw_sha256']}", f"direction: {m['direction']}"]
+    if "cls" in m:
+        head += [f"class: {m['cls']}", f"thread: {m['thread_id']}"]
+    if m.get("quoted_from"):
+        head.append("quotes: [" + ", ".join(f"m{q:05d}" for q in m["quoted_from"]) + "]")
+    head += ["---", f"# {mid} · {m['subject'] or '(no subject)'}"]
+    return "\n".join(head) + f"\n\n{f}text\n{raw}\n{f}\n"
 
 
 def inbox_block(m, rec):
@@ -78,6 +79,22 @@ def inbox_block(m, rec):
     return "\n".join(lines) + "\n"
 
 
+def unplaced(src):
+    """--slice 0 --enriched <owner>.unplaced.jsonl: write the messages that have no placeable
+    date (dataset/SOURCE.md) to memory/archive/mail/unplaced/u<nnn>.md. They are kept, verbatim,
+    outside the replay: there is no point in the timeline at which the owner could have
+    received them. Their frontmatter carries no date; the header date is in the raw text."""
+    out = MAIL / "unplaced"
+    out.mkdir(parents=True, exist_ok=True)
+    n = 0
+    for ln in open(src, encoding="utf-8"):
+        m = json.loads(ln)
+        (out / f"{m['uid']}.md").write_text(l2_file(m, mid=m["uid"], date=""),
+                                            encoding="utf-8", newline="\n")
+        n += 1
+    print(json.dumps({"unplaced": n, "dir": str(out.relative_to(ROOT))}))
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--enriched", required=True)
@@ -85,6 +102,8 @@ def main():
     p.add_argument("--slices", required=True)
     p.add_argument("--slice", type=int, required=True)
     a = p.parse_args()
+    if a.slice == 0:
+        return unplaced(a.enriched)
 
     sl = {int(r["slice"]): r for r in csv.DictReader(open(a.slices, encoding="utf-8"))}[a.slice]
     lo, hi = int(sl["first_seq"]), int(sl["last_seq"])

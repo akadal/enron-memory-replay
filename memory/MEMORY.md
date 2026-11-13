@@ -2,8 +2,7 @@
 
 Owner: Vince Kaminski, an Enron Corp. employee. This memory is built by replaying the owner's
 mailbox (`kaminski-v`, CMU Enron release) in arrival order. Mail the owner sent is the owner's own
-statement; mail the owner received is third-party. Health, family and personal contact details
-stay in the raw archive and are never distilled.
+statement; mail the owner received is third-party.
 Language: English. Write memory content and replies in English; structure stays English.
 If something is not in memory, say so plainly. Never invent a fact.
 Current context: memory/state.md (read it first on any memory-related task).
@@ -15,7 +14,7 @@ Current context: memory/state.md (read it first on any memory-related task).
 | work | the owner's own projects, models, deals, decisions, research output | memory/domains/work/_index.md |
 | organization | company structure, teams, hiring, policies, announcements | memory/domains/organization/_index.md |
 | industry | markets, regulation, conferences, outside institutions | memory/domains/industry/_index.md |
-| personal | the owner's private matters that appear in the mail, within the rule above | memory/domains/personal/_index.md |
+| personal | the owner's private matters that appear in the mail | memory/domains/personal/_index.md |
 
 People and organisations: memory/people/_index.md
 
