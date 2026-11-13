@@ -5,7 +5,7 @@ entity: person
 name: "Teresa Bien"
 aliases: []
 domains: [organization]
-updated: 2000-06-04
+updated: 2000-07-23
 ---
 # Teresa Bien
 
@@ -17,3 +17,4 @@ Enron HR contact for the owner's group: summer hires, visitors' housing, payroll
 - [2000-05-16] Hires S. Tamarchenko as a summer temporary: "It's OK to hire S. Tamarchenko as a summer temporary employee." → memory/domains/organization/summer-interns-2000.md ←[[m01694]] ←[[m01702]]
 - [2000-05-25] Copied on Elizabeth Grant's resignation. ←[[m01800]]
 - [2000-06-01] Asked to make Elena Chilkina non-exempt (overtime) → memory/people/elena-chilkina.md ←[[m01871]]
+- [2000-07-20] No longer at Enron (Crenshaw) → memory/domains/organization/candidate-referrals-2000.md ←[[m02443]]

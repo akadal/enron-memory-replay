@@ -5,7 +5,7 @@ entity: person
 name: "Joseph Hrgovcic"
 aliases: ["Joe Hrgovcic"]
 domains: [organization, work]
-updated: 2000-04-07
+updated: 2000-07-23
 ---
 # Joseph Hrgovcic
 
@@ -14,6 +14,7 @@ Research Group member. ←[[m00004]]
 ## Context: organization
 
 - [1999-12-10] Group member → memory/domains/organization/research-group.md ←[[m00004]]
+- [2000-07-20] Outside offer; salary adjustment via Mark Tawney, who wants him on the weather desk → memory/domains/organization/staff-and-recruiting.md ←[[m02435]]
 
 ## Context: work
 

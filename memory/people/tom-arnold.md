@@ -5,7 +5,7 @@ entity: person
 name: "Tom Arnold"
 aliases: []
 domains: [industry, organization]
-updated: 2000-07-14
+updated: 2000-07-23
 ---
 # Tom Arnold
 
@@ -19,3 +19,4 @@ LSU finance faculty (tarnold@finance.lsu.edu); hosted the owner's spring 2000 LS
 ## Context: organization
 
 - [2000-06-20] Agrees with Shane Green on a 1-2 year Enron sabbatical → memory/domains/organization/recruiting-candidates.md ←[[m02045]]
+- [2000-07-20] Asks comments on "Real World Option Pricing" with Tim Crack → memory/domains/industry/speaking-engagements-2000.md ←[[m02436]] ←[[m02444]]
