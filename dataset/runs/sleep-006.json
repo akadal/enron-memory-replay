@@ -1,0 +1,177 @@
+{
+ "slice": 6,
+ "simulated_today": "2000-01-07",
+ "feed": {
+  "slice": 6,
+  "iso_week": "2000-W01",
+  "first_seq": 129,
+  "last_seq": 198,
+  "messages": 70,
+  "durable": 42,
+  "first_date": "2000-01-03 23:15",
+  "last_date": "2000-01-07 09:46",
+  "today": "2000-01-07",
+  "inbox_files": [
+   "2000-01-03--mail.md",
+   "2000-01-04--mail.md",
+   "2000-01-05--mail.md",
+   "2000-01-06--mail.md",
+   "2000-01-07--mail.md"
+  ],
+  "inbox_chars": 30445,
+  "l2_chars": 164447
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 251,
+ "quota_before": {
+  "five_hour": 31.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 32.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 6,
+  "messages": 70,
+  "durable": 42,
+  "kept": 34,
+  "dropped": 8,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 97,
+  "fact_lines_with_source": 144,
+  "dated": 144,
+  "date_matches_source": 137,
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   0.83,
+   0.8,
+   1.0,
+   0.6,
+   1.0,
+   0.4
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 753
+  },
+  "questions": {
+   "files": 1,
+   "chars": 590
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 47,
+   "chars": 55640
+  },
+  "people": {
+   "files": 16,
+   "chars": 10033
+  },
+  "archive_inbox": {
+   "files": 25,
+   "chars": 89300
+  },
+  "archive_mail": {
+   "files": 224,
+   "chars": 608200
+  },
+  "archive_other": {
+   "files": 1,
+   "chars": 699
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 30,
+   "duration_ms": 249200,
+   "duration_api_ms": 222663,
+   "total_cost_usd": 3.1878145,
+   "usage": {
+    "input_tokens": 52,
+    "cache_creation_input_tokens": 92381,
+    "cache_read_input_tokens": 2819489,
+    "output_tokens": 34160,
+    "output_tokens_details": {
+     "thinking_tokens": 7637
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 92381,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 878,
+      "cache_read_input_tokens": 137248,
+      "cache_creation_input_tokens": 2664,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 2664
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 52,
+     "outputTokens": 34160,
+     "cacheReadInputTokens": 2819489,
+     "cacheCreationInputTokens": 92381,
+     "webSearchRequests": 0,
+     "costUSD": 3.1878145,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 7637,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 29,
+   "result_summary": "Sleep 006 (2000-01-07) is committed as `6cb8f2f`; I did not push, per the run instructions. Both `lint.py` and `sleep-audit.py` were green before the commit. The first audit run was red on RATCHET and BLOAT findings; I compressed the three flagged files and the second run passed.\n\n- **Triage:** 42 messages had notes. I kept 34 in L1 and dropped 8, listed with reasons in `dataset/drops/sleep-006.tsv`. The 8 are m00143, m00157, m00168, m00179, m00180, m00194, m00195 and m00197.\n- **New topics:** 10, covering these areas:\n  - **work:** Amerada Hess day rate hedge, hurricane swap, ExIm vs OPIC guarantees, and a Jan 2000 calendar.\n  - **industry:** UH Energy Institute workshop, NYU Stern conference, Stanford credit risk program, and the Tufts conference volume.\n  - **organization:** Jan 2000 candidates (Sokolov, Spudeck, Jimenez) and Vincent Tang's green-card job description.\n- **Updated topics:**\n  - **Argentina meeting:** the open \"first week of January\" line moved to `## History`; the meeting is still unscheduled.\n  - **Credit white paper:** gained the Parsons article posting and Risk's copyright on the credit article.\n  - **Speaking engagements:** now includes the Real Options confirmation and the LSU visit on 3-4 Feb.\n  - **Texas Finance Festival:** the registration form added.\n  - **Gas model:** Vernon's storage note added.\n- **Compression:** I tightened `speaking-engagements-2000`, `gas-transmission-price-model`, `credit-white-paper`, and the `shirley-crenshaw`, `stinson-gibner` and `vasant-shanbhogue` entities. `domains/organization/_index.md` was also cut to 1201 chars (from 1942 chars at its peak).\n- **Housekeeping:** six entity files, the three domain indexes and `state.md` are refreshed, and the five processed inbox logs are in `archive/inbox/`.\n- **Left alone:** I wrote no new questions and no approval-gated changes, and the Krishnarao alias question stays open (due 2000-01-11). There were no `(sleep-task)` blocks, and the five oldest ongoing lines still hol"
+  },
+  "repair": null
+ }
+}
