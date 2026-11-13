@@ -1,0 +1,65 @@
+id	durable	status	detail
+m01846	no	not_durable	quote_only
+m01847	no	not_durable	quote_only
+m01848	yes	kept	domains/industry/declined-invitations-2000.md
+m01849	yes	kept	domains/work/storage-model.md
+m01850	yes	kept	domains/industry/speaking-engagements-2000.md
+m01851	yes	kept	domains/organization/mid-year-prc-2000.md people/james-steffes.md
+m01852	yes	kept	domains/work/storage-model.md
+m01853	yes	kept	domains/organization/recruiting-candidates.md
+m01854	yes	kept	domains/organization/recruiting-candidates.md
+m01855	no	not_durable	logistics
+m01856	yes	kept	domains/work/outside-requests.md
+m01857	yes	kept	domains/work/japan-merchant-business.md people/joseph-hirl.md
+m01858	yes	kept	domains/personal/correspondence.md
+m01859	no	not_durable	logistics
+m01860	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/recruiting-candidates.md domains/work/eol-content-2000.md
+m01861	yes	kept	domains/industry/speaking-engagements-2000.md people/stephen-bramlett.md
+m01862	yes	kept	domains/work/broadband-services.md
+m01863	no	not_durable	logistics
+m01864	yes	kept	domains/organization/recruiting-candidates.md
+m01865	no	not_durable	logistics
+m01866	yes	kept	domains/organization/mid-year-prc-2000.md people/james-steffes.md
+m01867	yes	kept	domains/industry/speaking-engagements-2000.md
+m01868	yes	kept	domains/organization/candidate-interviews-may-2000.md people/sanjeev-khanna.md
+m01869	no	not_durable	logistics
+m01870	yes	kept	domains/work/internal-meetings.md
+m01871	yes	kept	people/elena-chilkina.md people/teresa-bien.md
+m01872	yes	kept	domains/work/storage-book-var.md
+m01873	no	not_durable	pleasantry
+m01874	no	not_durable	logistics
+m01875	no	not_durable	logistics
+m01876	no	not_durable	logistics
+m01877	yes	kept	domains/industry/weather-insurance-markets.md people/lucy-ortiz.md
+m01878	no	not_durable	quote_only
+m01879	yes	kept	domains/organization/london-research.md
+m01880	no	not_durable	logistics
+m01881	no	not_durable	logistics
+m01882	yes	kept	domains/industry/weather-insurance-markets.md people/lucy-ortiz.md
+m01883	yes	kept	domains/industry/events-attending-2000.md
+m01884	yes	kept	domains/work/ut-austin-ties-2000.md
+m01885	yes	kept	domains/industry/eprm-risk.md
+m01886	yes	kept	domains/organization/london-research.md domains/work/japan-merchant-business.md
+m01887	yes	kept	domains/personal/household.md
+m01888	yes	kept	domains/work/ut-austin-ties-2000.md people/traci-warner.md
+m01889	yes	kept	domains/organization/mid-year-prc-2000.md
+m01890	yes	kept	domains/industry/market-outlooks-2000.md
+m01891	yes	kept	domains/work/owner-publications.md
+m01892	yes	kept	domains/work/owner-publications.md
+m01893	yes	kept	domains/personal/household.md
+m01894	yes	kept	domains/work/eol-content-2000.md
+m01895	yes	kept	domains/personal/household.md
+m01896	yes	kept	domains/industry/eprm-risk.md domains/work/owner-publications.md
+m01897	yes	kept	domains/industry/eprm-risk.md domains/work/owner-publications.md
+m01898	yes	dropped	other: self-sent link to the science-finance.fr publications page, no context
+m01899	yes	kept	domains/organization/mid-year-prc-2000.md
+m01900	yes	kept	domains/organization/mid-year-prc-2000.md people/ding-yuan.md people/james-steffes.md
+m01901	no	not_durable	quote_only
+m01902	yes	dropped	redundant: same science-finance.fr link sent to himself again
+m01903	yes	kept	domains/work/university-relations.md people/tom-piazze.md
+m01904	yes	kept	domains/work/storage-book-var.md domains/work/ut-austin-ties-2000.md
+m01905	yes	kept	domains/work/storage-book-var.md
+m01906	no	not_durable	other
+m01907	no	not_durable	automated
+m01908	yes	kept	domains/industry/speaking-engagements-2000.md
+m01909	yes	kept	domains/organization/mid-year-prc-2000.md
