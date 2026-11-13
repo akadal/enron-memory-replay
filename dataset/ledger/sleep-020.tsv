@@ -1,0 +1,93 @@
+id	durable	status	detail
+m01269	yes	kept	domains/organization/london-research.md
+m01270	yes	kept	domains/organization/recruiting-candidates.md
+m01271	yes	kept	domains/organization/research-group.md
+m01272	yes	kept	domains/industry/speaking-engagements-2000.md
+m01273	yes	kept	domains/personal/correspondence.md
+m01274	yes	kept	domains/work/vendor-offers-2000.md
+m01275	yes	kept	domains/work/internal-meetings.md
+m01276	yes	kept	domains/industry/speaking-engagements-2000.md
+m01277	yes	kept	domains/industry/market-outlooks-2000.md
+m01278	yes	kept	domains/industry/visitors-2000.md
+m01279	yes	kept	domains/organization/research-group.md
+m01280	no	not_durable	logistics
+m01281	yes	kept	domains/work/outside-requests.md
+m01282	yes	kept	domains/work/vendor-offers-2000.md
+m01283	yes	kept	domains/organization/recruiting-candidates.md
+m01284	yes	kept	domains/work/vendor-offers-2000.md
+m01285	yes	kept	domains/industry/events-attending-2000.md
+m01286	yes	kept	domains/work/outside-requests.md
+m01287	yes	kept	domains/work/internal-meetings.md
+m01288	no	not_durable	automated
+m01289	yes	kept	domains/organization/candidate-referrals-2000.md
+m01290	yes	kept	domains/work/broadband-services.md
+m01291	yes	kept	domains/organization/recruiting-candidates.md
+m01292	yes	kept	domains/organization/recruiting-candidates.md
+m01293	yes	kept	domains/organization/research-group.md
+m01294	yes	dropped	logistics: NBER working-paper invoice passed to Crenshaw for processing
+m01295	yes	kept	domains/organization/recruiting-candidates.md
+m01296	yes	kept	domains/organization/recruiting-candidates.md
+m01297	yes	kept	domains/industry/visitors-2000.md
+m01298	yes	kept	domains/work/research-presentations.md
+m01299	yes	kept	domains/industry/visitors-2000.md
+m01300	yes	kept	domains/work/vendor-offers-2000.md
+m01301	yes	kept	domains/organization/candidate-referrals-2000.md
+m01302	yes	dropped	social: get-well card for a colleague's wife
+m01303	yes	kept	domains/work/vendor-offers-2000.md
+m01304	yes	kept	domains/work/broadband-services.md
+m01305	yes	kept	domains/industry/eprm-risk.md people/vicky-windsor.md
+m01306	no	not_durable	quote_only
+m01307	yes	dropped	no_owner_content: PJM mailing-list notice on sample day-ahead LMP postings
+m01308	yes	kept	domains/personal/correspondence.md
+m01309	yes	kept	domains/work/vendor-offers-2000.md
+m01310	yes	kept	domains/organization/candidate-referrals-2000.md
+m01311	yes	kept	domains/work/vendor-offers-2000.md
+m01312	yes	kept	domains/organization/corporate-announcements-2000.md
+m01313	yes	kept	domains/organization/software-licenses.md
+m01314	no	not_durable	quote_only
+m01315	yes	kept	domains/work/talon-raptor.md
+m01316	yes	dropped	other: bare contact card (Milena Soto) sent to self, no context
+m01317	yes	kept	domains/organization/software-licenses.md
+m01318	yes	kept	domains/work/research-presentations.md
+m01319	yes	kept	domains/work/research-presentations.md
+m01320	no	not_durable	logistics
+m01321	yes	kept	domains/industry/visitors-2000.md
+m01322	no	not_durable	logistics
+m01323	yes	kept	domains/work/vendor-offers-2000.md
+m01324	yes	kept	domains/industry/declined-invitations-2000.md
+m01325	yes	kept	domains/industry/declined-invitations-2000.md
+m01326	yes	kept	domains/organization/staff-and-recruiting.md
+m01327	no	not_durable	logistics
+m01328	yes	kept	domains/work/vendor-offers-2000.md
+m01329	no	not_durable	other
+m01330	yes	kept	domains/work/talon-raptor.md
+m01331	yes	kept	domains/organization/recruiting-candidates.md
+m01332	no	not_durable	other
+m01333	yes	kept	domains/industry/eprm-risk.md people/vicky-windsor.md
+m01334	yes	kept	domains/industry/eprm-risk.md people/vicky-windsor.md
+m01335	no	not_durable	other
+m01336	yes	kept	domains/organization/corporate-announcements-2000.md
+m01337	no	not_durable	quote_only
+m01338	yes	kept	domains/work/broadband-services.md
+m01339	yes	kept	domains/industry/eprm-risk.md people/vicky-windsor.md
+m01340	no	not_durable	bulk
+m01341	no	not_durable	bulk
+m01342	yes	kept	domains/work/research-presentations.md
+m01343	yes	kept	domains/work/research-presentations.md
+m01344	no	not_durable	quote_only
+m01345	yes	kept	domains/organization/candidate-referrals-2000.md
+m01346	yes	kept	domains/personal/correspondence.md people/beth-perlman.md people/paula-corey.md
+m01347	yes	kept	domains/work/outside-requests.md
+m01348	yes	kept	domains/work/owner-publications.md
+m01349	yes	kept	domains/personal/household.md
+m01350	yes	kept	domains/organization/recruiting-candidates.md
+m01351	yes	kept	domains/personal/household.md
+m01352	yes	kept	domains/organization/candidate-referrals-2000.md
+m01353	yes	kept	domains/organization/candidate-referrals-2000.md
+m01354	yes	kept	domains/work/owner-publications.md
+m01355	yes	kept	domains/industry/visitors-2000.md
+m01356	yes	kept	domains/personal/correspondence.md
+m01357	yes	kept	domains/industry/speaking-engagements-2000.md
+m01358	yes	kept	domains/organization/candidate-referrals-2000.md
+m01359	no	not_durable	other
+m01360	yes	kept	domains/organization/candidate-referrals-2000.md
