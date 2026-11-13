@@ -1,0 +1,50 @@
+id	durable	status	detail
+m01910	yes	kept	domains/work/owner-publications.md
+m01911	yes	dropped	other: self-sent link to the science-finance.fr publications page, no context
+m01912	no	not_durable	automated
+m01913	yes	kept	domains/work/storage-book-var.md people/winston-jia.md
+m01914	yes	kept	domains/industry/research-memberships-2000.md
+m01915	yes	kept	domains/work/owner-publications.md
+m01916	no	not_durable	logistics
+m01917	yes	kept	domains/work/internal-meetings.md
+m01918	yes	kept	domains/organization/mid-year-prc-2000.md people/soma-ghosh.md
+m01919	yes	kept	domains/work/outside-requests.md
+m01920	yes	kept	domains/organization/recruiting-candidates.md
+m01921	yes	dropped	other: self-sent link to a University of Queensland energy exchange page, no context
+m01922	no	not_durable	logistics
+m01923	yes	kept	domains/work/storage-book-var.md people/winston-jia.md
+m01924	yes	kept	domains/work/broadband-services.md
+m01925	yes	kept	domains/work/owner-publications.md
+m01926	yes	dropped	logistics: owner sends Strickland his AOL address, already in household.md
+m01927	yes	kept	domains/organization/candidate-referrals-2000.md
+m01928	yes	kept	domains/work/owner-publications.md
+m01929	yes	kept	domains/work/vendor-offers-2000.md people/dale-nesbitt.md
+m01930	yes	kept	domains/industry/speaking-engagements-2000.md people/dick-jefferis.md
+m01931	yes	kept	domains/personal/household.md domains/work/internal-meetings.md
+m01932	yes	kept	domains/industry/speaking-engagements-2000.md people/dick-jefferis.md
+m01933	yes	kept	domains/organization/candidate-referrals-2000.md people/iris-mack.md
+m01934	yes	kept	domains/organization/candidate-referrals-2000.md
+m01935	yes	kept	domains/industry/speaking-engagements-2000.md people/dick-jefferis.md
+m01936	yes	kept	domains/work/internal-meetings.md
+m01937	yes	kept	domains/work/desk-analysis-requests.md
+m01938	yes	kept	domains/work/desk-analysis-requests.md
+m01939	yes	kept	domains/work/vendor-offers-2000.md people/dale-nesbitt.md
+m01940	no	not_durable	logistics
+m01941	yes	kept	domains/organization/candidate-referrals-2000.md domains/personal/household.md people/iris-mack.md
+m01942	no	not_durable	other
+m01943	no	not_durable	bulk
+m01944	yes	kept	domains/organization/mid-year-prc-2000.md people/soma-ghosh.md
+m01945	yes	kept	domains/organization/recruiting-candidates.md
+m01946	yes	kept	domains/work/broadband-services.md
+m01947	yes	kept	domains/work/eol-content-2000.md
+m01948	no	not_durable	automated
+m01949	yes	kept	domains/industry/research-memberships-2000.md
+m01950	yes	kept	domains/organization/summer-interns-2000.md
+m01951	yes	kept	domains/organization/staff-and-recruiting.md people/leandro-ibasco.md
+m01952	yes	kept	domains/organization/staff-and-recruiting.md people/leandro-ibasco.md
+m01953	yes	kept	domains/industry/eprm-risk.md
+m01954	yes	kept	domains/work/internal-meetings.md
+m01955	no	not_durable	automated
+m01956	yes	kept	domains/organization/candidate-referrals-2000.md
+m01957	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/mid-year-prc-2000.md domains/work/vendor-offers-2000.md
+m01958	no	not_durable	automated

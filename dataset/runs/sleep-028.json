@@ -1,0 +1,188 @@
+{
+ "slice": 28,
+ "simulated_today": "2000-06-11",
+ "feed": {
+  "slice": 28,
+  "iso_week": "2000-W23",
+  "first_seq": 1910,
+  "last_seq": 1958,
+  "messages": 49,
+  "durable": 40,
+  "first_date": "2000-06-05 01:04",
+  "last_date": "2000-06-11 17:05",
+  "today": "2000-06-11",
+  "inbox_files": [
+   "2000-06-05--mail.md",
+   "2000-06-06--mail.md",
+   "2000-06-07--mail.md",
+   "2000-06-08--mail.md",
+   "2000-06-09--mail.md",
+   "2000-06-10--mail.md",
+   "2000-06-11--mail.md"
+  ],
+  "inbox_chars": 30476,
+  "l2_chars": 103334
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 562,
+ "quota_before": {
+  "five_hour": 83.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 85.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 28,
+  "messages": 49,
+  "durable": 40,
+  "kept": 37,
+  "kept_rate_excluding_redundant": 0.925,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 2
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1124,
+  "fact_lines_with_source": 870,
+  "dated": 870,
+  "date_matches_source": 857,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.75,
+   1.0,
+   0.75,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 747
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2830
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 88,
+   "chars": 146986
+  },
+  "people": {
+   "files": 189,
+   "chars": 143089
+  },
+  "archive_inbox": {
+   "files": 172,
+   "chars": 1153369
+  },
+  "archive_mail": {
+   "files": 1984,
+   "chars": 4958280
+  },
+  "archive_other": {
+   "files": 331,
+   "chars": 403708
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 48,
+   "duration_ms": 560394,
+   "duration_api_ms": 514377,
+   "total_cost_usd": 3.338708200000001,
+   "usage": {
+    "input_tokens": 90,
+    "cache_creation_input_tokens": 143664,
+    "cache_read_input_tokens": 5361481,
+    "output_tokens": 55837,
+    "output_tokens_details": {
+     "thinking_tokens": 22039
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 143664,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 970,
+      "cache_read_input_tokens": 175189,
+      "cache_creation_input_tokens": 266,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 266
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 90,
+     "outputTokens": 55837,
+     "cacheReadInputTokens": 5361481,
+     "cacheCreationInputTokens": 143664,
+     "webSearchRequests": 0,
+     "costUSD": 3.338708200000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22039,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 143664,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 47,
+   "result_summary": "The 2000-06-11 consolidation (week 2000-W23) is committed as `2eaa51a` and not pushed. Your brief said both \"do not push; the runner pushes\" and \"git push origin main\", so I followed the first. Lint and sleep-audit were both green before the commit, and the audit is still green when run on the commit itself.\n\n- **Messages:** 37 of the 40 messages with notes are cited in L1. The other three are in `dataset/drops/sleep-028.tsv`: two links the owner emailed to himself (m01911, m01921) and his AOL address sent to Strickland (m01926), which is already in `household.md`.\n- **What went in:**\n  - Storage book VaR test: forward-forward vols from historical curves give $3.14M against 3.37M in production.\n  - MEPR2 and Enron's Risk papers going on an Enron site with Risk Books (Dan Diamond's project).\n  - Risk 2000 Boston from 12 Jun, with the panel prep meeting at 8:00 on 14 Jun.\n  - Helyette Geman's Paris conference in late June, which the owner declined because a deal is closing. I marked it as probably the Bachelier World Congress, with a (?).\n  - Also: MarketPoint, the Storm deal, valuation visioning, PJM FTR, the PEP lists, Phil Roan, Iris Mack, Roy Ibasco's move, and a new file `work/desk-analysis-requests.md`.\n- **People:** entity files added for six people who reached five messages: Winston Jia, Dale Nesbitt, Iris Mack, Leandro \"Roy\" Ibasco, Dick Jefferis and Soma Ghosh. To keep the alias table under the audit's limit, nine nickname aliases (Andy Fastow, Jim Steffes, Bob Brooks and others) left the table; they are still in the entity files.\n- **Compression:** older detail from 11 topic files moved to `archive/*/2000/*-2000-06-w23.md`. The rule asks for three near-ceiling files to be pulled down each run, but only one exists: the alias table, at 6,170 characters against a 6,500 ceiling. It can't get much smaller until the pending question on raising its budget is decided.\n- **Questions added (not applied):** whether \"Henry Arora\" is Harry Arora, and whether the Summer "
+  },
+  "repair": null
+ }
+}
