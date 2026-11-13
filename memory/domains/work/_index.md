@@ -9,8 +9,8 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-(nothing yet)
+- Vega VaR coming soon; vega positions captured daily but vega limit validation is down → memory/domains/work/vega-var.md
 
 ## Files
 
-(nothing yet)
+- memory/domains/work/vega-var.md — vega VaR rollout and vega position capture/validation
