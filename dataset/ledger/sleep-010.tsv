@@ -1,0 +1,75 @@
+id	durable	status	detail
+m00481	yes	kept	domains/work/outside-requests.md people/pinnamaneni-krishnarao.md
+m00482	no	not_durable	pleasantry
+m00483	yes	kept	domains/organization/office-equipment.md
+m00484	yes	kept	domains/organization/office-equipment.md people/jason-sokolov.md
+m00485	yes	kept	domains/work/owner-publications.md people/chris-strickland.md
+m00486	yes	kept	people/bryan-seyfried.md
+m00487	yes	kept	domains/organization/leave-and-training.md
+m00488	yes	kept	domains/organization/office-equipment.md people/iain-russell.md
+m00489	yes	kept	domains/industry/events-attending-2000.md
+m00490	yes	kept	people/bryan-seyfried.md
+m00491	yes	kept	domains/organization/recruiting-candidates.md
+m00492	yes	kept	domains/organization/recruiting-candidates.md
+m00493	yes	kept	domains/work/internal-meetings.md people/jonathan-le.md people/ronnie-chahal.md
+m00494	yes	dropped	social: Dorothy Dalton's baby shower 11 Feb; calendar and gift question only
+m00495	no	not_durable	logistics
+m00496	yes	kept	domains/organization/london-research.md people/steven-leppard.md
+m00497	no	not_durable	other
+m00498	yes	kept	domains/work/outside-requests.md
+m00499	yes	kept	domains/industry/rice-university.md
+m00500	yes	kept	domains/industry/aiesec-houston.md
+m00501	yes	kept	domains/industry/events-attending-2000.md people/mark-ruane.md
+m00502	yes	kept	domains/industry/events-attending-2000.md people/mark-ruane.md
+m00503	yes	kept	domains/work/vendor-offers-2000.md
+m00504	yes	dropped	redundant: owner forwarding Ted Murphy's GRMS memo to his AOL; memo already in grms.md (m00475)
+m00505	yes	dropped	redundant: second AOL forward of the same GRMS memo; content already in grms.md (m00475)
+m00506	yes	kept	domains/personal/correspondence.md
+m00507	yes	kept	domains/work/correlation-stress.md people/tanya-tamarchenko.md
+m00508	yes	kept	domains/organization/office-equipment.md people/iain-russell.md
+m00509	yes	kept	people/amitava-dhar.md
+m00510	yes	kept	domains/organization/office-equipment.md people/iain-russell.md
+m00511	yes	kept	domains/organization/london-research.md people/steven-leppard.md
+m00512	no	not_durable	logistics
+m00513	yes	kept	domains/organization/leave-and-training.md
+m00514	yes	kept	domains/work/vendor-offers-2000.md
+m00515	yes	kept	domains/organization/recruiting-candidates.md
+m00516	yes	kept	domains/personal/correspondence.md
+m00517	yes	kept	domains/industry/speaking-engagements-2000.md people/jim-garven.md
+m00518	yes	kept	domains/work/outside-requests.md
+m00519	yes	kept	domains/organization/leave-and-training.md
+m00520	yes	kept	domains/work/vendor-offers-2000.md
+m00521	no	not_durable	quote_only
+m00522	yes	kept	domains/industry/events-attending-2000.md
+m00523	yes	kept	domains/work/owner-publications.md people/chris-strickland.md
+m00524	yes	kept	domains/industry/speaking-engagements-2000.md people/jim-garven.md
+m00525	yes	kept	domains/work/vendor-offers-2000.md
+m00526	yes	kept	domains/industry/speaking-engagements-2000.md
+m00527	no	not_durable	quote_only
+m00528	no	not_durable	quote_only
+m00529	yes	kept	domains/organization/recruiting-candidates.md
+m00530	yes	kept	domains/industry/aiesec-houston.md
+m00531	yes	kept	domains/industry/events-attending-2000.md
+m00532	yes	kept	domains/organization/recruiting-candidates.md
+m00533	yes	kept	domains/organization/corporate-announcements-2000.md
+m00534	no	not_durable	logistics
+m00535	no	not_durable	logistics
+m00536	yes	kept	domains/industry/speaking-engagements-2000.md
+m00537	yes	kept	domains/work/vendor-offers-2000.md people/doug-leach.md
+m00538	yes	kept	domains/work/storage-model.md people/zimin-lu.md
+m00539	yes	kept	domains/work/vendor-offers-2000.md people/doug-leach.md
+m00540	yes	kept	people/greg-whalley.md
+m00541	yes	kept	domains/work/promigas-tvcable-option.md
+m00542	no	not_durable	bulk
+m00543	yes	kept	domains/work/rofr-valuation.md
+m00544	no	not_durable	quote_only
+m00545	no	not_durable	quote_only
+m00546	yes	kept	domains/industry/speaking-engagements-2000.md
+m00547	no	not_durable	bulk
+m00548	yes	kept	domains/organization/corporate-announcements-2000.md
+m00549	yes	kept	domains/organization/corporate-announcements-2000.md
+m00550	yes	kept	domains/work/outside-requests.md
+m00551	yes	kept	domains/organization/corporate-announcements-2000.md
+m00552	yes	kept	domains/industry/el-paso-capacity.md
+m00553	yes	kept	domains/industry/speaking-engagements-2000.md
+m00554	yes	kept	domains/organization/promotions-2000.md

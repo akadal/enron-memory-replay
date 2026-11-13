@@ -1,0 +1,187 @@
+{
+ "slice": 10,
+ "simulated_today": "2000-02-06",
+ "feed": {
+  "slice": 10,
+  "iso_week": "2000-W05",
+  "first_seq": 481,
+  "last_seq": 554,
+  "messages": 74,
+  "durable": 61,
+  "first_date": "2000-01-31 00:07",
+  "last_date": "2000-02-06 23:01",
+  "today": "2000-02-06",
+  "inbox_files": [
+   "2000-01-31--mail.md",
+   "2000-02-01--mail.md",
+   "2000-02-02--mail.md",
+   "2000-02-03--mail.md",
+   "2000-02-04--mail.md",
+   "2000-02-05--mail.md",
+   "2000-02-06--mail.md"
+  ],
+  "inbox_chars": 45198,
+  "l2_chars": 210784
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 786,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 56.0,
+  "seven_day": 9.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 10,
+  "messages": 74,
+  "durable": 61,
+  "kept": 58,
+  "kept_rate_excluding_redundant": 0.983,
+  "drop_classes": {
+   "redundant": 2,
+   "social": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 358,
+  "fact_lines_with_source": 380,
+  "dated": 380,
+  "date_matches_source": 374,
+  "date_mismatch_ids_this_slice": [
+   "m00548",
+   "m00551"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   0.83,
+   1.0,
+   0.71,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 674
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1185
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 58,
+   "chars": 85399
+  },
+  "people": {
+   "files": 53,
+   "chars": 43504
+  },
+  "archive_inbox": {
+   "files": 51,
+   "chars": 295252
+  },
+  "archive_mail": {
+   "files": 580,
+   "chars": 1290905
+  },
+  "archive_other": {
+   "files": 22,
+   "chars": 30379
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 147,
+   "duration_ms": 784606,
+   "duration_api_ms": 714894,
+   "total_cost_usd": 5.392944200000003,
+   "usage": {
+    "input_tokens": 134,
+    "cache_creation_input_tokens": 206392,
+    "cache_read_input_tokens": 10352661,
+    "output_tokens": 83537,
+    "output_tokens_details": {
+     "thinking_tokens": 30640
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 206392,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 632,
+      "cache_read_input_tokens": 237563,
+      "cache_creation_input_tokens": 620,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 620
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 134,
+     "outputTokens": 83537,
+     "cacheReadInputTokens": 10352661,
+     "cacheCreationInputTokens": 206392,
+     "webSearchRequests": 0,
+     "costUSD": 5.392944200000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 30640,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 206392,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 146,
+   "result_summary": "The 2000-02-06 consolidation (week 2000-W05) is committed as `9340d2e` and not pushed, as the replay instructions say. Both gates passed: `lint.py` and `sleep-audit.py`. The audit first failed once because the work index grew 153 characters against a 150 tolerance; I shortened three lines in it and it passed. 61 of the 74 messages had notes. 58 are now cited in L1, and the other 3 are listed in `dataset/drops/sleep-010.tsv`: a baby-shower invitation (social) and two copies of the GRMS memo the owner forwarded to his AOL address (redundant). A runner-style check, `date_leaks.py`, found no stray dates and no fact cites a later message. This week's facts went into about 20 existing topic files. I opened three new work topics: outside services (Chicago Partners, Helyette Geman's software, the Poten report), correlation stressing, and the storage model. Ten people reached five noted messages and got entity files and alias-table lines: Strickland, Leppard, Garven, Bradford, Hickerson, Leach, Ruane, Russell, Jonathan Le and Chahal. Garven and Bradford had already passed five in earlier weeks without a file. To keep ten topic files that were over their size target from growing too much, I moved their older lines word for word into `memory/archive/<domain>/2000/*-2000-02.md`. `state.md` and the four domain indexes are refreshed, and the seven inbox logs moved to `memory/archive/inbox/`. The five oldest ongoing lines still hold. There was no sleep task, no question had reached its due date, and nothing needed approval. The only file left uncommitted is the runner's own `dataset/runs/sleep-010.transcript.jsonl`."
+  },
+  "repair": null
+ }
+}
