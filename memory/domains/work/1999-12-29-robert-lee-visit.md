@@ -4,8 +4,8 @@ type: topic
 domain: work
 title: "Robert Lee visit to the owner's office, 29 Dec 1999"
 summary: "Robert (Bob) Lee of bizserve.com confirmed a visit to the owner's Enron office on 1999-12-29 at 9:00 a.m."
-status: active
-updated: 2000-01-15
+status: closed
+updated: 2000-01-30
 ---
 # Robert Lee visit to the owner's office, 29 Dec 1999
 

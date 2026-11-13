@@ -4,8 +4,8 @@ type: topic
 domain: work
 title: "RiskMetrics CreditManager net-meeting, 7 Jan 2000"
 summary: "The RiskMetrics CreditManager net-meeting moved from 17 Dec 1999 to Fri 7 Jan 2000, 9:30 Houston time; owner confirmed."
-status: active
-updated: 2000-01-01
+status: closed
+updated: 2000-01-30
 ---
 # RiskMetrics CreditManager net-meeting, 7 Jan 2000
 
