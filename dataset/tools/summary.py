@@ -17,6 +17,7 @@ import sys
 
 PRICES = {  # USD per million tokens
     "claude-sonnet-5-5": {"in": 2.00, "out": 10.00, "read": 0.10, "w5m": 2.50, "w1h": 4.00},
+    "claude-opus-5-5": {"in": 4.00, "out": 20.00, "read": 0.20, "w5m": 5.00, "w1h": 8.00},
 }
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "runs")
 
