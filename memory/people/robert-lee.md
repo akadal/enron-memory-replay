@@ -1,0 +1,20 @@
+---
+id: robert-lee
+type: entity
+entity: person
+name: "Robert Lee"
+aliases: ["Bob Lee"]
+domains: [organization, work]
+updated: 2000-01-23
+---
+# Robert Lee
+
+Outside candidate (rrlee@bizserve.com); the mail calls him "Robert (Bob) Lee". ←[[m00008]] ←[[m00355]]
+
+## Context: work
+
+- [1999-12-10] Visited the owner's office 29 Dec 1999 → memory/domains/work/1999-12-29-robert-lee-visit.md ←[[m00008]]
+
+## Context: organization
+
+- [2000-01-10] Formal interview Mon 24 Jan, manager level → memory/domains/organization/recruiting-candidates.md ←[[m00206]] ←[[m00207]] ←[[m00215]] ←[[m00355]] ←[[m00357]]

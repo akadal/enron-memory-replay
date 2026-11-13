@@ -3,9 +3,9 @@ id: dabhol-power-sale
 type: topic
 domain: work
 title: "Dabhol Phase I firm power sale (Enron India)"
-summary: "Sandeep Kohli's India team wants the owner's group to help structure a 50 MW firm peak plus monsoon infirm sale from Dabhol to another state; owner handed it to Krishnarao (Jan 2000)."
+summary: "Sandeep Kohli's India team wants the owner's group to help structure a 50 MW firm peak plus monsoon infirm sale from Dabhol to another state; owner handed it to Krishnarao; Rupee forward curve request (Jan 2000)."
 status: active
-updated: 2000-01-07
+updated: 2000-01-23
 ---
 # Dabhol Phase I firm power sale (Enron India)
 
@@ -13,3 +13,4 @@ Team: Sandeep Kohli with Rajesh Sivaraman, Vivek Kejriwal, Shubh Shrivastava, An
 
 - [1999-12-25] Kohli asked the owner and Vasant Shanbhogue for structuring help on selling Dabhol power to another state: a firm peak-period component plus infirm power in the monsoon; he plans to meet them in Houston in the New Year. Sivaraman's issue list for a 50 MW firm sale from Phase I must be refined and then settled with MSEB; Sivaraman and Kejriwal drafted a simple tariff formula tracking the PPA tariffs; sensitivities next. ←[[m00100]]
 - [2000-01-05] Owner forwarded Kohli's request to Krishna Krishnarao without comment; Krishna is with Kohli in Bombay 10-14 Jan (trip: memory/domains/organization/leave-and-training.md). ←[[m00144]] ←[[m00186]]
+- [2000-01-20] "Krishna", visiting the Bombay office, urgently asked Harry (from Rajesh Sivaraman's address, cc Kohli) for a Rupee/US$ forward curve to at least 2005 for a deal being worked there; back in Houston next week. ←[[m00397]]
