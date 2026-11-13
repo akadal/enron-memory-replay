@@ -3,18 +3,19 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Robert Lee's second round with EES (Feb 2000); John Hou to get a formal interview; Scott Tholan, candidate for Ron's job, interviews 14 Feb; Ding Yuan's resume; Ninya Chen pending Anthony; Takriti, Jimenez, Wayne Tow and older leads archived."
+summary: "Older leads archived (Robert Lee's EES round, John Hou, Scott Tholan 14 Feb); Ding Yuan on board; Lance Cunningham for Grant Masson; LSU's Richard Iles to Lynn Dunphy; a Koch weather analyst; Steve Roeder not a fit; Allen Humbolt's interviews (Feb 2000)."
 status: active
-updated: 2000-02-12
+updated: 2000-02-19
 ---
 # Candidates for the owner's group
 
 Hires: memory/domains/organization/staff-and-recruiting.md. HR: Elizabeth Grant (assistant Felicia Solis). ←[[m00357]]
 
-- [1999-12-22] Older candidates and leads (Craig Jimenez lost to SCEM, Supatgiat, a Cinergy trader, Ningya Cheng, Cameron Payne, Bob Lee); detail ←[[recruiting-candidates-2000-01]] ←[[recruiting-candidates-2000-01-w04]] ←[[recruiting-candidates-2000-02]] ←[[m00097]] ←[[m00176]] ←[[m00313]] ←[[m00377]] ←[[m00358]] ←[[m00372]] ←[[m00403]] ←[[m00425]] ←[[m00206]] ←[[m00355]] ←[[m00471]] ←[[m00432]]
-- [2000-01-24] Late Jan: Takriti declined; Alberto Jimenez (Analyst from 6 Feb) wants Research; Wayne Tow sent to IT; detail ←[[recruiting-candidates-2000-02-w06]]
-- [2000-02-02] Ninya Chen: "Let's wait till next week. Anthony's parent has just died." ←[[m00532]]
-- [2000-02-08] John Hou (math and programming, learning finance) wants Research; owner to Zimin Lu and Gibner: "We should set up a formal interview for him." ←[[m00532]] ←[[m00568]] ←[[m00570]]
-- [2000-02-07] Robert Lee: second round with EES (Dennis Benevides, John Henderson), per Ronnie Chahal; owner: "What about structuring and Sean and Margueritte?" Felicia Solis also schedules Puneet Mathur. ←[[m00560]]
-- [2000-02-08] Scott Tholan, candidate for Ron's present position, interviews Mon 14 Feb; owner to Crenshaw: "Please, coordinate this interview." ←[[m00573]]
-- [2000-02-10] Ding Yuan (x6-7072) sent the owner his resume. ←[[m00591]]
+- [2000-01-25] Older leads (Jimenez, Takriti, Tow, Ninya Chen) ←[[recruiting-candidates-2000-01]] ←[[recruiting-candidates-2000-01-w04]] ←[[recruiting-candidates-2000-02]] ←[[recruiting-candidates-2000-02-w06]] ←[[recruiting-candidates-2000-02-w07]] ←[[m00313]] ←[[m00432]] ←[[m00532]]
+- [2000-02-08] Open early Feb: John Hou (formal interview), Robert Lee (second round with EES), Scott Tholan (Ron's job, 14 Feb). ←[[m00560]] ←[[m00568]] ←[[m00570]] ←[[m00573]]
+- [2000-02-15] Ding Yuan is on board this week (via Rick). ←[[m00591]] ←[[m00636]]
+- [2000-02-14] Lance Cunningham (UT PhD) for Manager, Transmission/Power Trading Support under Grant Masson: exploratory interview, owner required. ←[[m00612]]
+- [2000-02-15] Owner sent LSU's Richard Iles to Lynn Dunphy: "I think we should consider him for an analyst position." ←[[m00624]] ←[[m00631]]
+- [2000-02-17] Koch weather analyst via Jennifer Richard (HR): "Yes, we shall look at him." Mike Roberts' technical hire: "No attachment." ←[[m00659]] ←[[m00686]]
+- [2000-02-17] Steve Roeder (Air Liquide engineer, via Michael Miller): owner sent him to Krishna and Osman for EES; Osman: no match, passed to the Water Group. ←[[m00665]] ←[[m00702]] ←[[m00703]]
+- [2000-02-17] Krishnarao asks Elizabeth Grant for Allen Humbolt's interviews (owner, Gibner, Masson, Sezgen, others). ←[[m00691]]

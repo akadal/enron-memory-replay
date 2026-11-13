@@ -5,7 +5,7 @@ entity: person
 name: "John Sherriff"
 aliases: []
 domains: [work, organization]
-updated: 2000-02-12
+updated: 2000-02-19
 ---
 # John Sherriff
 
@@ -14,6 +14,7 @@ Enron Europe executive; formed the Credit Markets Group under Bryan Seyfried (De
 ## Context: work
 
 - [1999-12-17] Credit Markets Group; one of the reviewers asked to concur on Seyfried's credit trading (Feb 2000) → memory/domains/work/credit-markets.md ←[[m00072]] ←[[m00117]] ←[[m00579]]
+- [2000-02-17] Meets the owner in London Wed 23 Feb 11.30 → memory/domains/work/2000-02-20-london-trip.md ←[[m00681]]
 
 ## Context: organization
 

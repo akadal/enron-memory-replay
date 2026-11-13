@@ -5,7 +5,7 @@ entity: person
 name: "Paulo Issler"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-15
+updated: 2000-02-19
 ---
 # Paulo Issler
 
@@ -19,3 +19,4 @@ Research Group member. ←[[m00004]]
 ## Context: work
 
 - [2000-01-07] Given the Amerada Hess day-rate data with Gibner → memory/domains/work/day-rate-hedge.md ←[[m00192]]
+- [2000-02-14] Prices the LJM options with a two-factor credit model; showed it to Accounting and Credit → memory/domains/work/ljm-put-valuation.md ←[[m00618]] ←[[m00630]] ←[[m00648]]

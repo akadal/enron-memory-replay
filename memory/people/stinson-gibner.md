@@ -5,7 +5,7 @@ entity: person
 name: "Stinson Gibner"
 aliases: []
 domains: [organization, industry, work]
-updated: 2000-01-30
+updated: 2000-02-19
 ---
 # Stinson Gibner
 
@@ -13,7 +13,7 @@ The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. 
 
 ## Context: organization
 
-- [1999-12-10] Member, party host, off 22-25 Feb, ECI move → memory/domains/organization/research-group.md, memory/domains/organization/staff-and-recruiting.md ←[[m00004]] ←[[m00147]] ←[[m00180]] ←[[m00217]]
+- [1999-12-10] Member; off 22-25 Feb; ECI → memory/domains/organization/research-group.md ←[[m00004]] ←[[m00147]] ←[[m00180]] ←[[m00217]]
 - [2000-01-10] Candidates Supatgiat, Bob Lee, Alberto Jimenez; Takriti's complaint → memory/domains/organization/recruiting-candidates.md ←[[m00313]] ←[[m00206]] ←[[m00428]] ←[[m00474]]
 
 ## Context: industry
@@ -23,4 +23,4 @@ The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. 
 ## Context: work
 
 - [1999-12-14] Talks; UK vol curve audit, RTHM put → memory/domains/work/research-presentations.md, memory/domains/work/uk-power-vol-curve.md, memory/domains/work/ljm-put-valuation.md ←[[m00017]] ←[[m00098]] ←[[m00103]]
-- [2000-01-07] Day-rate hedge; bandwidth (Amit, ECI, Sycamore) → memory/domains/work/day-rate-hedge.md, memory/domains/work/broadband-services.md ←[[m00185]] ←[[m00356]] ←[[m00453]]
+- [2000-01-07] Day-rate hedge; bandwidth (MIT day 16 Feb, Sycamore, storage book) → memory/domains/work/broadband-services.md ←[[m00185]] ←[[m00356]] ←[[m00453]] ←[[m00608]] ←[[m00706]]

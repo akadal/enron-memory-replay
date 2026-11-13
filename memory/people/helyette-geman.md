@@ -5,11 +5,11 @@ entity: person
 name: "Helyette Geman"
 aliases: []
 domains: [industry, work]
-updated: 2000-02-12
+updated: 2000-02-19
 ---
 # Helyette Geman
 
-Offers energy-option pricing software and workshop teaching (GemanIX@aol.com); asked the owner to co-teach a workshop on topics similar to before. ←[[m00520]] ←[[m00607]]
+Offers energy-option pricing software and workshop teaching (GemanIX@aol.com); the owner co-teaches her Berlin workshop. ←[[m00520]] ←[[m00607]]
 
 ## Context: work
 
@@ -18,4 +18,4 @@ Offers energy-option pricing software and workshop teaching (GemanIX@aol.com); a
 
 ## Context: industry
 
-- [2000-02-12] Asks the owner to co-teach a workshop before ICBI Berlin, 19 Jun → memory/domains/industry/speaking-engagements-2000.md ←[[m00607]]
+- [2000-02-14] Owner agreed to co-teach her workshop before ICBI Berlin, 19 Jun; outline approved → memory/domains/industry/speaking-engagements-2000.md ←[[m00607]] ←[[m00609]] ←[[m00610]] ←[[m00645]]

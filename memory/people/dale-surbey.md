@@ -5,7 +5,7 @@ entity: person
 name: "Dale Surbey"
 aliases: []
 domains: [organization, work]
-updated: 2000-02-12
+updated: 2000-02-19
 ---
 # Dale Surbey
 
@@ -19,3 +19,4 @@ Enron Europe, London; works with the London Research team (Ahmad, Leppard) and S
 ## Context: work
 
 - [2000-01-11] Runs the weekly London Structuring-Research update; on the Energydesk.com review → memory/domains/work/internal-meetings.md ←[[m00316]] ←[[m00606]]
+- [2000-02-17] Lunch with the owner Mon 21 Feb; RiskCare talks → memory/domains/work/2000-02-20-london-trip.md, memory/domains/work/vendor-offers-2000.md ←[[m00681]] ←[[m00687]]
