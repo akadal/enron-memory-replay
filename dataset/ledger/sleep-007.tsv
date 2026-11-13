@@ -1,0 +1,152 @@
+id	durable	status	detail
+m00199	no	not_durable	logistics
+m00200	no	not_durable	logistics
+m00201	yes	kept	domains/organization/research-group-19th-floor-move.md people/kevin-moore.md people/shirley-crenshaw.md people/stinson-gibner.md people/vince-kaminski.md
+m00202	no	not_durable	logistics
+m00203	no	not_durable	logistics
+m00204	no	not_durable	bulk
+m00205	yes	kept	domains/industry/conferences-2000.md
+m00206	yes	kept	domains/organization/recruiting.md
+m00207	yes	kept	domains/organization/recruiting.md domains/work/1999-12-29-robert-lee-visit.md
+m00208	yes	kept	domains/industry/conferences-2000.md
+m00209	yes	kept	domains/organization/staff-administration.md
+m00210	yes	kept	domains/work/internal-advisory-requests.md
+m00211	yes	dropped	other: FYI forward of ESAI Flow of Funds vendor report, no owner content
+m00212	yes	kept	domains/work/model-risk-review.md
+m00213	yes	kept	domains/work/vega-var.md
+m00214	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00215	yes	kept	domains/organization/recruiting.md
+m00216	yes	kept	domains/work/outside-inquiries.md
+m00217	yes	kept	domains/organization/staff-administration.md people/stinson-gibner.md
+m00218	no	not_durable	logistics
+m00219	no	not_durable	pleasantry
+m00220	yes	kept	domains/organization/2000-01-year-end-promotions.md people/vince-kaminski.md
+m00221	no	not_durable	pleasantry
+m00222	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00223	no	not_durable	pleasantry
+m00224	yes	kept	domains/organization/staff-administration.md people/stinson-gibner.md
+m00225	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00226	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00227	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00228	no	not_durable	logistics
+m00229	no	not_durable	logistics
+m00230	no	not_durable	logistics
+m00231	yes	kept	domains/organization/2000-01-year-end-promotions.md people/kevin-moore.md
+m00232	no	not_durable	logistics
+m00233	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00234	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00235	no	not_durable	pleasantry
+m00236	yes	kept	domains/organization/2000-01-year-end-promotions.md people/vince-kaminski.md
+m00237	no	not_durable	logistics
+m00238	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00239	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00240	no	not_durable	pleasantry
+m00241	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00242	no	not_durable	logistics
+m00243	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00244	yes	dropped	redundant: Shapiro thanks for congratulation, already cited via m00243
+m00245	yes	kept	domains/work/standing-and-scheduled-meetings.md
+m00246	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00247	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00248	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00249	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00250	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00251	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00252	no	not_durable	pleasantry
+m00253	yes	dropped	redundant: owner thanks Sherry Graham for MD congratulation, covered
+m00254	yes	kept	domains/organization/recruiting.md
+m00255	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00256	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00257	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00258	yes	kept	domains/organization/2000-01-year-end-promotions.md domains/work/standing-and-scheduled-meetings.md
+m00259	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00260	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00261	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00262	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00263	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00264	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00265	no	not_durable	pleasantry
+m00266	no	not_durable	pleasantry
+m00267	no	not_durable	pleasantry
+m00268	no	not_durable	pleasantry
+m00269	no	not_durable	pleasantry
+m00270	no	not_durable	pleasantry
+m00271	yes	kept	domains/organization/2000-01-year-end-promotions.md domains/work/outside-inquiries.md
+m00272	no	not_durable	pleasantry
+m00273	no	not_durable	pleasantry
+m00274	no	not_durable	pleasantry
+m00275	no	not_durable	pleasantry
+m00276	no	not_durable	pleasantry
+m00277	no	not_durable	pleasantry
+m00278	no	not_durable	pleasantry
+m00279	no	not_durable	pleasantry
+m00280	no	not_durable	pleasantry
+m00281	no	not_durable	pleasantry
+m00282	no	not_durable	pleasantry
+m00283	no	not_durable	pleasantry
+m00284	no	not_durable	pleasantry
+m00285	no	not_durable	pleasantry
+m00286	no	not_durable	pleasantry
+m00287	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00288	no	not_durable	pleasantry
+m00289	no	not_durable	pleasantry
+m00290	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00291	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00292	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00293	no	not_durable	automated
+m00294	no	not_durable	logistics
+m00295	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00296	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00297	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00298	no	not_durable	pleasantry
+m00299	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00300	yes	kept	domains/organization/recruiting.md
+m00301	no	not_durable	pleasantry
+m00302	no	not_durable	logistics
+m00303	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00304	no	not_durable	logistics
+m00305	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00306	yes	kept	domains/organization/staff-administration.md
+m00307	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00308	no	not_durable	pleasantry
+m00309	no	not_durable	pleasantry
+m00310	no	not_durable	pleasantry
+m00311	no	not_durable	pleasantry
+m00312	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00313	yes	kept	domains/organization/recruiting.md people/stinson-gibner.md
+m00314	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00315	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00316	yes	kept	domains/organization/2000-01-year-end-promotions.md domains/work/standing-and-scheduled-meetings.md
+m00317	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00318	no	not_durable	pleasantry
+m00319	no	not_durable	logistics
+m00320	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00321	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00322	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00323	yes	dropped	other: company-wide IT purchasing reorganisation notice, no owner action
+m00324	no	not_durable	quote_only
+m00325	yes	kept	domains/organization/staff-administration.md people/shirley-crenshaw.md
+m00326	no	not_durable	pleasantry
+m00327	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00328	yes	kept	domains/organization/staff-administration.md
+m00329	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00330	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00331	yes	kept	domains/industry/conferences-2000.md
+m00332	yes	kept	domains/industry/conferences-2000.md
+m00333	yes	kept	domains/work/internal-advisory-requests.md
+m00334	yes	kept	domains/organization/2000-01-year-end-promotions.md
+m00335	yes	kept	domains/organization/recruiting.md
+m00336	no	not_durable	pleasantry
+m00337	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00338	yes	kept	domains/work/internal-advisory-requests.md
+m00339	yes	kept	domains/organization/recruiting.md
+m00340	yes	dropped	redundant: MD promotion congratulation or thanks, covered by promotions topic
+m00341	yes	kept	domains/organization/staff-administration.md
+m00342	yes	kept	domains/work/internal-advisory-requests.md
+m00343	yes	kept	domains/organization/staff-administration.md
+m00344	no	not_durable	automated
+m00345	yes	kept	domains/organization/2000-01-year-end-promotions.md domains/organization/cuneo-matter.md
+m00346	no	not_durable	pleasantry
+m00347	yes	kept	domains/personal/2000-02-shelunchik-visit.md
+m00348	no	not_durable	pleasantry
+m00349	no	not_durable	other

@@ -1,0 +1,186 @@
+{
+ "slice": 7,
+ "simulated_today": "2000-01-15",
+ "feed": {
+  "slice": 7,
+  "iso_week": "2000-W02",
+  "first_seq": 199,
+  "last_seq": 349,
+  "messages": 151,
+  "durable": 91,
+  "first_date": "2000-01-10 03:13",
+  "last_date": "2000-01-15 08:18",
+  "today": "2000-01-15",
+  "inbox_files": [
+   "2000-01-10--mail.md",
+   "2000-01-11--mail.md",
+   "2000-01-12--mail.md",
+   "2000-01-13--mail.md",
+   "2000-01-14--mail.md",
+   "2000-01-15--mail.md"
+  ],
+  "inbox_chars": 50230,
+  "l2_chars": 191117
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 306,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 48.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 7,
+  "messages": 151,
+  "durable": 91,
+  "kept": 51,
+  "kept_rate_excluding_redundant": 0.962,
+  "drop_classes": {
+   "other": 2,
+   "redundant": 38
+  },
+  "dropped": 40,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 186,
+  "fact_lines_with_source": 169,
+  "dated": 169,
+  "date_matches_source": 167,
+  "date_mismatch_ids_this_slice": [
+   "m00342",
+   "m00345"
+  ],
+  "kept_rate_by_decile": [
+   0.91,
+   0.56,
+   0.56,
+   0.43,
+   0.17,
+   1.0,
+   0.33,
+   0.56,
+   0.54,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 538
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 43,
+   "chars": 51887
+  },
+  "people": {
+   "files": 9,
+   "chars": 8051
+  },
+  "archive_inbox": {
+   "files": 31,
+   "chars": 156956
+  },
+  "archive_mail": {
+   "files": 375,
+   "chars": 796848
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 29,
+   "duration_ms": 304286,
+   "duration_api_ms": 277257,
+   "total_cost_usd": 1.59032,
+   "usage": {
+    "input_tokens": 48,
+    "cache_creation_input_tokens": 88189,
+    "cache_read_input_tokens": 2155680,
+    "output_tokens": 22674,
+    "output_tokens_details": {
+     "thinking_tokens": 4332
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 88189,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 797,
+      "cache_read_input_tokens": 119182,
+      "cache_creation_input_tokens": 803,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 803
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 48,
+     "outputTokens": 22674,
+     "cacheReadInputTokens": 2155680,
+     "cacheCreationInputTokens": 88189,
+     "webSearchRequests": 0,
+     "costUSD": 1.59032,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 4332,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 88189,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 28,
+   "result_summary": "Sleep 007 for the week of 2000-01-10 to 2000-01-15 is committed locally as `5cd6ab7`, not pushed, so the runner can push after its checks. Lint and sleep-audit are both green. The audit came back red once, flagging three files that had grown while already over their size target (conferences-2000, model-risk-review, stinson-gibner). I compressed them and the second audit run passed.\n\n- **Promotion:** the main event of the week is the owner's promotion to Managing Director, announced 2000-01-10. A new topic, `2000-01-year-end-promotions.md`, holds it along with Mike Roberts's promotion (celebration planned for Thursday 2000-01-20), other people's promotions, the ENA and London promotion procedures, and the owner's proposed bonuses for his group.\n- **Other new topics:** the Cuneo legal case, dismissed by a court order signed 2000-01-06, and a personal file on Rita Shelunchik and Geoff's visit planned for around February.\n- **Updated files:**\n  - The 19th-floor roster now reflects the room renumbering (owner moved from EB 1933 to EB 1962).\n  - Recruiting: Bob Lee's manager-level interview on 01-24, Sam Smith's acceptance, two proposed candidates (Supatgiat, Bartarya), and Jose Marquez starting 01-17.\n  - Staff administration: Alex Huang's PC is still not ordered, Amitava Dhar's work visa is pending renewal, and Stinson Gibner now works from desks in two units (ECI and ENA).\n  - Smaller additions went into the files on vega VaR, conferences (two talks declined), advisory requests, outside contacts, model review and meetings.\n- **Indexes and state:** all four domain indexes, the people index and `state.md` are refreshed.\n- **Drops:** I listed 40 messages in `dataset/drops/sleep-007.tsv`. 38 are repeat promotion congratulations already covered by the new topic; the other two are a vendor report forward and a company-wide IT purchasing notice.\n\nThere were no sleep tasks or feedback blocks in the inbox, and nothing needed an approval question. The processed inbox logs are mo"
+  },
+  "repair": null
+ }
+}
