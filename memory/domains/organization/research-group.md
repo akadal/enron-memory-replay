@@ -3,9 +3,9 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Members, 19th-floor offices (owner EB 1933, Dec 1999), admin contacts, rankings and Christmas baskets."
+summary: "Members, 19th-floor offices (owner EB 1933, Dec 1999), admin contacts and software requests, rankings and Christmas baskets."
 status: active
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # The owner's Research Group
 
@@ -18,6 +18,7 @@ updated: 1999-12-19
 
 ## Admin
 
+- [1999-12-21] Software requests (e.g. Clayton Vernon's Scientific Word): Crenshaw submits a formal request, the owner approves and forwards it to IT; setup takes a day or two. ←[[m00084]]
 - [1999-12-10] Owner sent Brad McSherry the group rankings "as blessed by Greg". ←[[m00005]]
-- [1999-12-12] Kevin Moore ordered the 1999 Christmas baskets: outside contacts Earth-Sat (Matt Rodgers, Chris Hyde, Darren Prager), Freeze-Notis (Charlie Notis, Harvey Freese), Smith Barney (Jon Davis); specials to Greg Whalley and Richard Weeks; group baskets to the Move Team, Facilities, Telephone Services. ←[[m00009]]
+- [1999-12-12] Kevin Moore ordered the 1999 Christmas baskets (outside: Earth-Sat, Freeze-Notis, Smith Barney; Greg Whalley, Richard Weeks; Move Team, Facilities, Telephone Services). ←[[m00009]]
 - [1999-12-13] On the owner's suggestion the holiday party became an offsite after New Year; Moore runs a gift draw (<$20). ←[[m00010]]
