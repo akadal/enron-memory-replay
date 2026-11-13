@@ -1,0 +1,180 @@
+{
+ "slice": 4,
+ "simulated_today": "1999-12-26",
+ "feed": {
+  "slice": 4,
+  "iso_week": "1999-W51",
+  "first_seq": 74,
+  "last_seq": 101,
+  "messages": 28,
+  "durable": 14,
+  "first_date": "1999-12-20 02:41",
+  "last_date": "1999-12-26 15:59",
+  "today": "1999-12-26",
+  "inbox_files": [
+   "1999-12-20--mail.md",
+   "1999-12-21--mail.md",
+   "1999-12-22--mail.md",
+   "1999-12-23--mail.md",
+   "1999-12-25--mail.md",
+   "1999-12-26--mail.md"
+  ],
+  "inbox_chars": 13723,
+  "l2_chars": 54681
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 158,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 45.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 4,
+  "messages": 28,
+  "durable": 14,
+  "kept": 14,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 71,
+  "fact_lines_with_source": 101,
+  "dated": 101,
+  "date_matches_source": 100,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 635
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 30,
+   "chars": 32807
+  },
+  "people": {
+   "files": 9,
+   "chars": 6627
+  },
+  "archive_inbox": {
+   "files": 15,
+   "chars": 57027
+  },
+  "archive_mail": {
+   "files": 127,
+   "chars": 368757
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 18,
+   "duration_ms": 156716,
+   "duration_api_ms": 133401,
+   "total_cost_usd": 1.034787,
+   "usage": {
+    "input_tokens": 34,
+    "cache_creation_input_tokens": 59795,
+    "cache_read_input_tokens": 1198755,
+    "output_tokens": 15827,
+    "output_tokens_details": {
+     "thinking_tokens": 2779
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 59795,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 838,
+      "cache_read_input_tokens": 90463,
+      "cache_creation_input_tokens": 1128,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1128
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 34,
+     "outputTokens": 15827,
+     "cacheReadInputTokens": 1198755,
+     "cacheCreationInputTokens": 59795,
+     "webSearchRequests": 0,
+     "costUSD": 1.034787,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 2779,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 59795,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 17,
+   "result_summary": "Sleep 004 is committed locally as `065caff` (replay date 1999-12-26). I did not push it: your run prompt says the runner pushes after its own checks, even though it also ends with `git push origin main`.\n\nAll 14 messages from week 1999-W51 that had notes were moved into memory, and each line cites its message. The other 14 had no notes, so the drops file `dataset/drops/sleep-004.tsv` is empty. Both gates passed, lint and `sleep-audit.py`. The audit failed once (RATCHET) because `conferences-2000.md` had grown too much; I rewrote it shorter (1,418 chars) and the second run passed.\n\n- **New topic files:**\n  - Dabhol Phase I firm power sale (Sandeep Kohli wants structuring help)\n  - UK power volatility curve generator (Stinson Gibner asked to audit it)\n  - Research Intelligence / Technical Corner binder for business-unit heads\n  - GPCM gas market model (RBAC)\n- **Updated topic files:**\n  - 2000 conferences: added CERAWeek and Risk 2000 Boston (owner gives two talks)\n  - El Paso capacity: Enron North America won it for $38M\n  - Clayton Vernon's gas model: simplified 8-parameter version, plus how software requests are approved\n  - Benjamin Parsons and the EPRM course\n  - The colour printer follow-up\n  - Recruiting: the owner's view of Hoshino, and MacMinn's interest in a job\n  - The owner's IIR real-options talk\n- **People, indexes and `state.md`** were refreshed to match.\n\nTwo capture notes wrongly marked third-party words as \"owner, verbatim\" (Parsons in m00076, Kohli in m00100). I wrote both as the sender's words. There was no sleep-task, nothing went to `questions.md`, and the one open \"still true\" line (vega VaR) is still valid. No file was above 90% of its size ceiling, so the compression quota had nothing to act on. A few files are still over their size target, which is only a lint warning. Your runner's file `dataset/runs/sleep-004.transcript.jsonl` is left untracked."
+  },
+  "repair": null
+ }
+}
