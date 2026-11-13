@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-07-09
+updated: 2000-07-14
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- EOL Phase 2 calculator: Zimin Lu's Exotica formulas → memory/domains/work/eol-content-2000.md
+- TW Capacity Options FERC filing Mon 31 Jul → memory/domains/work/tw-capacity-options.md
+- VAR priorities: hourly power vol needs IT → memory/domains/work/var-backtesting-2000.md
 - Stanford: Bambos' draft letter, $100K a year for 3 years; visit mid-Aug → memory/domains/work/stanford-research-ties.md
-- LNG: Arnell's book update Tue 9:00; Rotenberg's LNG models to review → memory/domains/work/lng-book-2000.md
-- Baylor professors' lunch Wed 12 Jul; UT class talk 11 Oct → memory/domains/work/university-relations.md, memory/domains/work/ut-austin-ties-2000.md
-- EBS V@R policy: volumetric control now, Research's V@R later → memory/domains/work/ebs-var-policy.md
+- MarketPoint: Nesbitt's EOL and metals proposals → memory/domains/work/vendor-offers-2000.md
+- Real options seminar repeats in the fall → memory/domains/work/research-presentations.md
 
 ## Files
 
@@ -51,6 +51,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/lng-book-2000.md
 - memory/domains/work/mars-cds-weather.md
 - memory/domains/work/model-risk-audit.md
+- memory/domains/work/monte-carlo-library.md — McLib
 - memory/domains/work/naphtha-caps-india.md
 - memory/domains/work/outside-requests.md
 - memory/domains/work/owner-publications.md — book, column
@@ -67,6 +68,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/talon-raptor.md — LJM2, PwC
 - memory/domains/work/tips-inflation-model.md
 - memory/domains/work/turkish-ipo-options.md
+- memory/domains/work/tw-capacity-options.md
 - memory/domains/work/uk-inflation-book-ppi.md
 - memory/domains/work/uk-power-vol-curve.md
 - memory/domains/work/university-relations.md
