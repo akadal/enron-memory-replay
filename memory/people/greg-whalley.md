@@ -5,7 +5,7 @@ entity: person
 name: "Greg Whalley"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Greg Whalley
 
@@ -16,6 +16,7 @@ Enron executive; president and COO of Enron North America from 25 Jan 2000. ←[
 - [2000-01-04] Invited to the group's party; got the owner's note that competitors pay more (Craig Jimenez) → memory/domains/organization/research-group.md, memory/domains/organization/staff-and-recruiting.md ←[[m00009]] ←[[m00147]] ←[[m00176]]
 - [2000-01-10] Received the owner's bonus proposals → memory/domains/organization/promotions-2000.md ←[[m00214]]
 - [2000-01-25] Named ENA president and COO → memory/domains/organization/corporate-announcements-2000.md ←[[m00445]]
+- [2000-02-03] Moved to EB3324 (Steno #549); Liz Taylor at EB3322. ←[[m00540]]
 
 ## Context: work
 

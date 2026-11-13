@@ -3,19 +3,17 @@ id: correspondence
 type: topic
 domain: personal
 title: "Owner's private contacts and views"
-summary: "Personal contacts and opinions from the owner's mail: Stiglitz/IMF view, Maruti More lunch, Burchett, Tony Mends, Beth Perlman, Darlene Norris, Marek (fuel cells, opera), Adam T. in Gdansk (Dec 1999-Jan 2000)."
+summary: "Personal contacts from the owner's mail: Maruti More (job hunting, lunch early Feb), Tony Mends (to EBS; dinner invitation), Beth Perlman, Marek (fuel cells, opera), Adam T. in Gdansk; Stiglitz view, Burchett, Norris archived (Dec 1999-Feb 2000)."
 status: active
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Owner's private contacts and views
 
-Detail ←[[correspondence-2000-01]]
+Detail ←[[correspondence-2000-01]] ←[[correspondence-2000-02]]
 
-- [1999-12-17] On Stiglitz leaving the World Bank (IMF policy on Russia), to Pavel Zadorozhny: "Stiglitz is a very bright person and I agree completely with his points." ←[[m00057]]
+- [1999-12-17] Older: Stiglitz view ("a very bright person"), flu kept the owner from Shannon Burchett's class, Darlene Norris's baby (end Feb); Marek (fuel cells, opera); Adam T. (Gdansk) asks summer work for Michal. ←[[m00441]] ←[[m00460]] ←[[m00057]] ←[[m00108]] ←[[m00340]] ←[[m00348]]
 - [2000-01-25] Maruti More (lunched with the owner Jul 1999), now out of American General, wants lunch; owner, travelling, offered next week: "Please give me a call Monday at 713 853 3848." ←[[m00069]] ←[[m00434]]
-- [1999-12-30] A bad flu with complications made the owner miss Shannon Burchett's class (Risk Limited, Dallas). ←[[m00108]]
+- [2000-01-31] More sent his resume (713-722-7199) and offered lunch Tue 1, Wed 2 or Fri 4 Feb; a family friend introduced him to Chris Holmes (EES), whom he meets next week. ←[[m00506]]
 - [2000-01-06] Tony (Anthony Mends), VP Knowledge Management at Azurix: lunch when he is back. ←[[m00168]] ←[[m00312]]
+- [2000-02-01] Tony moves to EBS and suggests coffee after; they had dinner around end Jan. Owner to Tony and his wife Elisabeth: "I shall be glad to meet your wife and havea dinner at your house." ←[[m00516]]
 - [2000-01-11] Beth Perlman (London) wants to restart their dinner club; owner: "I shall be in London in February." ←[[m00245]] ←[[m00258]]
-- [2000-01-15] Darlene Norris (Woodlands bus) expects a baby end of Feb; owner offered help. ←[[m00340]] ←[[m00348]]
-- [2000-01-25] Marek (BJ Services) sent a fuel-cell file; owner owes him an article, asked about "Elisir d'Amore" and replies to his AOL; "I shall be in Portland and San Francisco through the weekend." ←[[m00441]]
-- [2000-01-28] Adam T., a family friend in Gdansk, asked whether Michal and his fiancée (medical students) could find summer work in Houston; owner forwarded it to his AOL. ←[[m00460]]

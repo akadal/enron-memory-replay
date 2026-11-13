@@ -5,7 +5,7 @@ entity: person
 name: "Tanya Tamarchenko"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Tanya Tamarchenko
 
@@ -22,3 +22,4 @@ Research Group member, EB 1940 from Jan 2000. ←[[m00010]] ←[[m00201]]
 
 - [2000-01-10] Vega VaR documentation; credit reserve convergence test → memory/domains/work/vega-var.md ←[[m00213]] ←[[m00446]]
 - [2000-01-17] Ran the Full Requirements Deals brainstorm → memory/domains/work/internal-meetings.md ←[[m00354]]
+- [2000-01-31] Correlation-stressing spreadsheet → memory/domains/work/correlation-stress.md ←[[m00507]]

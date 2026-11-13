@@ -5,7 +5,7 @@ entity: person
 name: "Bryan Seyfried"
 aliases: []
 domains: [work, organization]
-updated: 2000-01-23
+updated: 2000-02-06
 ---
 # Bryan Seyfried
 
@@ -18,3 +18,4 @@ Heads Enron Europe's Credit Markets Group (EnronCredit.com), London. ←[[m00072
 ## Context: organization
 
 - [2000-01-21] Copied on the London Research job spec → memory/domains/organization/london-research.md ←[[m00412]]
+- [2000-01-31] In Houston 9-11 Feb (via Danya Moody); Shirley Crenshaw set his hour with the owner for Fri 11 Feb, 9:00 am. ←[[m00486]] ←[[m00490]]
