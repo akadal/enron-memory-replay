@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Work — index
 
@@ -9,11 +9,12 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Argentina modelling meeting with Guerriero still unscheduled (Shirley to set a day): memory/domains/work/argentina-modelling-meeting.md
-- Amerada Hess day rate hedge: Peyton waits for the owner's analysis (Tuesday 11 Jan): memory/domains/work/amerada-hess-day-rate-hedge.md
-- Calendar: EOL tracking 7 Jan, Enterprise Wide Risk Mgmt 21 Jan, Enron NA Mondays: memory/domains/work/calendar-jan-2000.md
-- Pending: emission trading materials for Brulinski: memory/domains/work/emission-trading-materials.md
-- Credit website: Risk holds copyright on the credit article: memory/domains/work/credit-white-paper.md
+- Amerada Hess day rate hedge: Peyton waits for the owner's analysis: memory/domains/work/amerada-hess-day-rate-hedge.md
+- Argentina modelling meeting with Guerriero still unscheduled: memory/domains/work/argentina-modelling-meeting.md
+- Schuleman model development report: reply asked by 12 Jan, none in mail: memory/domains/work/model-development-report-schuleman.md
+- Jeanne Klein wants a real options meeting (China pipeline): memory/domains/work/china-pipeline-real-options.md
+- Calendar: London in Feb, Thursday Structuring-Research meeting, Super Saturday IV 15 Jan: memory/domains/work/calendar-mid-jan-2000.md; earlier: calendar-jan-2000.md
+- Chicago support request, Tomaski in Houston 17 Jan: memory/domains/work/chicago-transaction-support.md
 
 ## Files
 
@@ -25,3 +26,5 @@ Path: memory/domains/work/ (all active)
 - dabhol-firm-power-sale · pse-swap-transaction · uk-power-volatility-curve-generator
 - research-intelligence-newsletter · amerada-hess-day-rate-hedge · calendar-jan-2000
 - hurricane-interest-rate-swap · exim-opic-guarantees
+- calendar-mid-jan-2000 · basis-report-maintenance · henwood-prosym-license
+- credit-reserve-model-update · crude-oil-downside-insurance-model · cuneo-matter-dismissal
