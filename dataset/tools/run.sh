@@ -14,7 +14,8 @@
 # citation of future mail. A ledger failure gets one recorded repair turn. Anything else stops
 # the run and leaves the repository as the harness left it.
 #
-# Environment: MODEL (claude-sonnet-5-5), CLAUDE (claude), PY (python3), QUOTA_STOP (80),
+# Environment: MODEL (claude-opus-5-5), CLAUDE (claude), PY (python3), QUOTA_STOP (80),
+# FIVE_HOUR_WAIT (90), CLAUDE_VERSION (2.1.323: the run refuses any other harness version),
 # TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-).
 
 ROOT=$(cd "$(dirname "$0")/../.." && pwd) || exit 2
@@ -22,7 +23,10 @@ cd "$ROOT" || exit 2
 ENRICHED=$1; CAPTURES=$2; FIRST=$3; LAST=$4
 [ -n "$ENRICHED" ] && [ -n "$CAPTURES" ] && [ -n "$FIRST" ] && [ -n "$LAST" ] \
   || { echo "usage: run.sh <enriched.jsonl> <captures.jsonl> <first_slice> <last_slice>"; exit 2; }
-MODEL=${MODEL:-claude-sonnet-5-5}
+MODEL=${MODEL:-claude-opus-5-5}
+CLAUDE_VERSION=${CLAUDE_VERSION:-2.1.323}
+FIVE_HOUR_WAIT=${FIVE_HOUR_WAIT:-90}
+export DISABLE_AUTOUPDATER=1   # one harness version for the whole dataset
 CLAUDE=${CLAUDE:-claude}
 PY=${PY:-python3}
 QUOTA_STOP=${QUOTA_STOP:-80}
@@ -37,6 +41,9 @@ BASE_PROMPT=$(sed -n "/^PROMPT='/,/summary when you are done.'\$/p" memory/tools
 [ -n "$BASE_PROMPT" ] || { echo "could not read the prompt from sleep-run.sh"; exit 2; }
 
 json_get() { $PY -c "import json,sys; d=json.load(sys.stdin); print($1)"; }
+
+GOT=$($CLAUDE --version 2>/dev/null | cut -d' ' -f1)
+[ "$GOT" = "$CLAUDE_VERSION" ] || { echo "harness is $GOT, the dataset is pinned to $CLAUDE_VERSION"; exit 2; }
 
 harness() {  # $1 prompt, $2 transcript path
   printf '%s' "$1" | $CLAUDE -p --model "$MODEL" --permission-mode bypassPermissions \
@@ -53,6 +60,14 @@ while [ "$k" -le "$LAST" ]; do
   if [ "${WEEK%.*}" -ge "$QUOTA_STOP" ]; then
     echo "stopping before slice $k: weekly quota at ${WEEK}% (limit ${QUOTA_STOP}%)"; exit 3
   fi
+  waited=0
+  while :; do   # the five-hour window refills on its own: wait for it instead of failing mid-slice
+    FIVE=$($PY dataset/tools/quota.py | json_get "d.get('five_hour') or 0")
+    [ "${FIVE%.*}" -lt "$FIVE_HOUR_WAIT" ] && break
+    [ "$waited" -ge 24 ] && { echo "five-hour quota still at ${FIVE}% after 6 hours; stopping"; exit 3; }
+    echo "five-hour quota at ${FIVE}%: waiting 15 minutes before slice $k $(date '+%T')"
+    sleep 900; waited=$((waited + 1))
+  done
 
   # 1. feed: L2 files, inbox notes, capture records; lint before any model sees them
   FEED=$($PY dataset/tools/feed.py --enriched "$ENRICHED" --captures "$CAPTURES" \
@@ -85,8 +100,9 @@ the link to the message it comes from, for example ←[[m00042]] (several are al
 bracket date of a fact is the date of that message; an event date goes in the prose.
 
 Drops: write dataset/drops/sleep-$kkk.tsv with one line per message of this week whose inbox
-block has notes but which you decide not to keep anywhere in L1: the id, a tab, a short reason
-(m00042<TAB>no lasting value). A message you cite needs no line. Commit the file with the
+block has notes but which you decide not to keep anywhere in L1: the id, a tab, one class out of
+redundant, logistics, social, no_owner_content, other, a tab, a short reason
+(m00042<TAB>social<TAB>congratulation note). A message you cite needs no line. Commit the file with the
 consolidation. A check after the run fails it if a message with notes is neither cited nor
 listed.
 

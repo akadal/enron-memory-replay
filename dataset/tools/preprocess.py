@@ -28,6 +28,13 @@ import json
 import re
 
 MIN_LINE = 30
+MIN_ALNUM = 15          # separator rules and date stamps carry fewer letters and digits
+MIN_SOURCE_LINES = 3    # a quote pointer needs three recurring lines from one earlier message
+HEADER_LIKE = re.compile(r"^(to|cc|bcc|from|subject|date|sent|re|fw|fwd|importance)\s*:", re.I)
+
+
+def alnum(s):
+    return sum(ch.isalnum() for ch in s)
 BULK_SENDER = re.compile(
     r"(no-?reply|newsletter|listserv|majordomo|mailer-daemon|announce|subscri|bulletin|digest|"
     r"webmaster|alerts?@|news@|info@|marketing@|promo|^lists?\.|@lists?\.|enron\.announcements|"
@@ -78,8 +85,11 @@ def main():
 
     first_seen = {}      # normalised line -> seq where it first appeared
     body_seen = {}       # body hash -> seq
-    subject_first = {}   # normalised subject -> seq
+    subject_first = {}   # normalised subject -> [(seq, participants other than the owner)]
     uf = Union()
+    by_seq = {m["seq"]: m for m in msgs}
+    # The owner's addresses: every From of a message the stream marks as sent.
+    owners = {x for m in msgs if m["direction"] == "sent" for x in m["from"]}
 
     for m in msgs:
         seq = m["seq"]
@@ -94,11 +104,28 @@ def main():
                 out.append(f"[quoted from {srcs}, {run_len} lines]")
             run_src, run_len = [], 0
 
-        new_lines = []
+        # Pass 1: which earlier message does each line come from? Header-like and separator lines
+        # never count: they recur in every Lotus Notes reply ("To: Vince J Kaminski/HOU/ECT@ECT")
+        # and made one early message the "source" of 1,287 others in the first version.
+        matched = []
         for ln in lines:
             n = norm_line(ln)
-            src = first_seen.get(n) if len(n) >= MIN_LINE else None
-            if src is not None and src < seq:
+            src = None
+            if len(n) >= MIN_LINE and not HEADER_LIKE.match(n) and alnum(n) >= MIN_ALNUM:
+                s = first_seen.get(n)
+                if s is not None and s < seq:
+                    src = s
+            matched.append((ln, n, src))
+        # A source counts only when at least MIN_SOURCE_LINES of its lines recur here.
+        per_src = {}
+        for _, _, s in matched:
+            if s is not None:
+                per_src[s] = per_src.get(s, 0) + 1
+        valid = {s for s, c in per_src.items() if c >= MIN_SOURCE_LINES}
+
+        new_lines = []
+        for ln, n, src in matched:
+            if src in valid:
                 run_src.append(src)
                 run_len += 1
                 quoted.add(src)
@@ -106,7 +133,7 @@ def main():
                 flush()
                 out.append(ln)
                 novel_chars += len(ln) + 1
-                if len(n) >= MIN_LINE:
+                if len(n) >= MIN_LINE and src is None:
                     new_lines.append(n)
         flush()
         for n in new_lines:
@@ -120,14 +147,22 @@ def main():
         n_rcpt = len(m["to"]) + len(m["cc"])
         bulk = m["direction"] == "received" and (bool(BULK_SENDER.search(sender)) or n_rcpt > 20)
 
+        # Threads: a shared subject joins two messages only when they also share a participant
+        # other than the mailbox owner ("hello", "resume" and "lunch" otherwise chain hundreds of
+        # unrelated conversations), and quote pointers join only non-bulk mail (newsletters
+        # repeat their boilerplate in every issue).
+        people = {x for x in m["from"] + m["to"] + m["cc"]} - owners
         subj = norm_subject(m["subject"])
         if subj:
-            if subj in subject_first:
-                uf.join(seq, subject_first[subj])
-            else:
-                subject_first[subj] = seq
-        for q in quoted:
-            uf.join(seq, q)
+            for prev_seq, prev_people in subject_first.get(subj, []):
+                if people & prev_people:
+                    uf.join(seq, prev_seq)
+                    break
+            subject_first.setdefault(subj, []).append((seq, people))
+        if not bulk:
+            for q in quoted:
+                if by_seq[q]["cls"] != "bulk":
+                    uf.join(seq, q)
 
         m.update(quoted_from=sorted(quoted), novel_text="\n".join(out).strip(),
                  novel_chars=novel_chars, same_body_as=same,

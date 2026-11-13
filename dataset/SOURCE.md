@@ -54,8 +54,12 @@ not an owner address.
 
 ## Stream facts
 
-- 32.5% of all body characters repeat, line by line, text that appeared in an earlier message
-  (reply chains and forwards); 7,745 messages quote at least one earlier message.
-- 437 messages repeat another message's body exactly; 635 are tagged bulk; 2,312 threads.
+- 23.5% of all body characters repeat, line by line, text that appeared in an earlier message
+  (reply chains and forwards, by the rules in `dataset/DESIGN.md`); 4,156 messages quote at least
+  one earlier message.
+- 437 messages repeat another message's body exactly; 635 are tagged bulk; 6,292 threads, the
+  largest 193 messages.
+- (The first description reported 32.5%, 7,745 and 2,312: its rules counted single recurring
+  header lines as quotes. See `dataset/audit/2026-11-13-4-pilot-review.md`.)
 - Longest body 107,183 characters; 99th percentile 11,981. Nothing is capped anywhere.
 - No body contains `(sleep-task)`, `(feedback)` or a `memory/...md` path.

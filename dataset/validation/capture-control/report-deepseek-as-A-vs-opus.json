@@ -1,0 +1,10 @@
+{
+ "judged": 95,
+ "errors": 1,
+ "control_facts": 280,
+ "missing_in_capture": 165,
+ "recall_vs_control": 0.411,
+ "unsupported_capture_notes": 7,
+ "durable_verdict_agreement": 0.779,
+ "judge_cost_usd": 0.3532
+}

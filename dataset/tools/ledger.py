@@ -49,6 +49,7 @@ def main():
 
     caps = [json.loads(ln) for ln in open(ROOT / "dataset" / "capture" / f"s{kkk}.jsonl", encoding="utf-8")]
     cited, lines_total, lines_dated, lines_match = defaultdict(set), 0, 0, 0
+    mismatch = []   # sources of dated fact lines whose bracket date is not the source's date
     for f in l1_files():
         rel = f.relative_to(MEM).as_posix()
         for ln in f.read_text(encoding="utf-8").splitlines():
@@ -63,14 +64,19 @@ def main():
                     lines_dated += 1
                     if set(ds) & {day.get(i) for i in ids}:
                         lines_match += 1
+                    else:
+                        mismatch.extend(i for i in ids if lo <= int(i[1:]) <= hi)
 
     drops = {}
     dpath = ROOT / "dataset" / "drops" / f"sleep-{kkk}.tsv"
     if dpath.exists():
         for ln in dpath.read_text(encoding="utf-8").splitlines():
-            parts = ln.strip().split("\t", 1)
+            parts = [x.strip() for x in ln.strip().split("\t")]
             if parts and re.fullmatch(r"m\d{5}", parts[0]):
-                drops[parts[0]] = parts[1].strip() if len(parts) > 1 else ""
+                # id<TAB>class<TAB>reason; an older two-column line has no class
+                cls = parts[1] if len(parts) > 2 else ""
+                reason = parts[-1] if len(parts) > 1 else ""
+                drops[parts[0]] = (cls, reason)
 
     rows, missing = [], []
     decile_kept, decile_durable = [0] * 10, [0] * 10
@@ -82,7 +88,7 @@ def main():
         elif mid in cited:
             status, detail = "kept", " ".join(sorted(cited[mid]))
         elif mid in drops:
-            status, detail = "dropped", drops[mid]
+            status, detail = "dropped", (f"{drops[mid][0]}: " if drops[mid][0] else "") + drops[mid][1]
         else:
             status, detail = "missing", ""
             missing.append(mid)
@@ -100,15 +106,23 @@ def main():
             f.write("\t".join(r) + "\n")
 
     durable = sum(1 for r in caps if r["durable"])
+    redundant = sum(1 for r in rows if r[2] == "dropped" and r[3].startswith("redundant:"))
+    kept = sum(1 for r in rows if r[2] == "kept")
+    classes = {}
+    for cls, _ in drops.values():
+        classes[cls or "unclassed"] = classes.get(cls or "unclassed", 0) + 1
     summary = {
         "slice": a.slice, "messages": n, "durable": durable,
-        "kept": sum(1 for r in rows if r[2] == "kept"),
+        "kept": kept,
+        "kept_rate_excluding_redundant": round(kept / (durable - redundant), 3) if durable > redundant else None,
+        "drop_classes": dict(sorted(classes.items())),
         "dropped": sum(1 for r in rows if r[2] == "dropped"),
         "missing": len(missing), "missing_ids": missing[:30],
         "future_citations": future[:30],
         "cited_ids_total": len(cited),
         "fact_lines_with_source": lines_total, "dated": lines_dated,
         "date_matches_source": lines_match,
+        "date_mismatch_ids_this_slice": sorted(set(mismatch))[:30],
         "kept_rate_by_decile": [round(k / d, 2) if d else None for k, d in zip(decile_kept, decile_durable)],
     }
     print(json.dumps(summary))
