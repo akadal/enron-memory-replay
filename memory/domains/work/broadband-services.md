@@ -3,19 +3,17 @@ id: broadband-services
 type: topic
 domain: work
 title: "Research support for Enron Communications / Broadband Services"
-summary: "The group's bandwidth work: Martin Lin on Irvine's team from 1 Mar; CAIDA; Project Hamachi (Seeligson to closure); Research/EBS Engineering and Operations offsite, Breckenridge, 27-29 Apr (Skilling Fri 28; Rice, Hannon, Hirko on EBS strategy); eyeball valuation (Feb-Mar 2000)."
+summary: "Bandwidth work (older threads archived); Research/EBS Engineering and Operations offsite, Breckenridge, 27-29 Apr: Skilling Fri 28, Hannon, Rice, Hirko on EBS strategy (Apr 2000)."
 status: active
-updated: 2000-03-31
+updated: 2000-04-07
 ---
 # Research support for Enron Communications / Broadband Services
 
-EBS management: memory/domains/organization/corporate-announcements-2000.md. Network modelling: memory/domains/work/ebs-network-planning.md. Storage: memory/domains/work/ebs-storage-market.md. Media and advertising: memory/domains/work/enron-media-advertising.md. Stanford: memory/domains/work/stanford-research-ties.md. Detail ←[[broadband-services-2000-03-w13]]
+EBS management: memory/domains/organization/corporate-announcements-2000.md. Network modelling: memory/domains/work/ebs-network-planning.md. Storage: memory/domains/work/ebs-storage-market.md. Media and advertising: memory/domains/work/enron-media-advertising.md. Stanford: memory/domains/work/stanford-research-ties.md. EBS candidates: memory/domains/organization/candidate-referrals-2000.md. Detail ←[[broadband-services-2000-03-w13]] ←[[broadband-services-2000-04-w14]]
 
-- [2000-02-29] Martin Lin on Irvine's network planning team from 1 Mar; CAIDA Metrics WG 2 Mar. ←[[m00632]] ←[[m00746]] ←[[m00822]] ←[[m00744]] ←[[m00781]] ←[[m00820]] ←[[m00821]]
-- [2000-03-13] Project Hamachi (Ravi's deal support for Griebling) heads to closure under Stewart Seeligson. ←[[m00978]]
-- [2000-03-27] Offsite, Research with Griebling's EBS Engineering and Operations, Great Divide Lodge, Breckenridge, Thu-Sat 27-29 Apr, timed around Skilling: "develop common language and accomplish transfer of skills between the two groups"; Rice, Hannon, Hirko to speak on EBS strategy. ←[[m01103]] ←[[m01104]] ←[[m01105]] ←[[m01106]] ←[[m01107]] ←[[m01109]] ←[[m01110]] ←[[m01111]] ←[[m01123]]
-- [2000-03-30] Skilling comes Fri 28 Apr, Yeager Thu evening; Hirko (Fri only) asked to move it: "difficult to rearrange"; Content Services added to the agenda. Sheryl Lara has the list; dinners at the hotel. ←[[m01101]] ←[[m01128]] ←[[m01141]] ←[[m01153]] ←[[m01158]]
-- [2000-03-06] Eyeball valuation for Kevin Howard and Scott Yeager; Paulo Rocha e Oliveira's summer work fits. ←[[m00865]]
+- [2000-03-13] Martin Lin on Irvine's network planning team from 1 Mar, CAIDA, Project Hamachi to closure under Seeligson, eyeball valuation for Kevin Howard and Scott Yeager: detail ←[[broadband-services-2000-04-w14]]
+- [2000-04-03] Offsite, Research with Griebling's EBS Engineering and Operations, Great Divide Lodge, Breckenridge, Thu-Sat 27-29 Apr, timed around Skilling: "develop common language and accomplish transfer of skills between the two groups". Owner to Hannon: "We would appreciate if you could speak, together with Joe and Ken, on strategic directions of EBS."; preliminary agenda sent. ←[[m01103]] ←[[m01104]] ←[[m01105]] ←[[m01106]] ←[[m01107]] ←[[m01109]] ←[[m01110]] ←[[m01111]] ←[[m01123]] ←[[m01198]]
+- [2000-04-05] Skilling comes Fri 28 Apr (Sherri Sera got the package by hand 5 Apr), Yeager Thu evening, Hirko Fri only; Content Services on the agenda; Sheryl Lara has the list; dinners at the hotel. Attendance capped: "We are under a lot of pressure to keep the numbers down"; Phil Sisneros's suggestion Merat Bagha is left to Ravi. ←[[m01101]] ←[[m01128]] ←[[m01141]] ←[[m01153]] ←[[m01158]] ←[[m01239]] ←[[m01245]]
 
 ## History
 
