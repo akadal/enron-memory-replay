@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-07-14
+updated: 2000-07-23
 ---
 # Work — index
 
@@ -10,10 +10,10 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 ## Hot
 
 - TW Capacity Options FERC filing Mon 31 Jul → memory/domains/work/tw-capacity-options.md
-- VAR priorities: hourly power vol needs IT → memory/domains/work/var-backtesting-2000.md
+- VaR to forward-forward vols: Gorny's plan, Rick Buy to approve → memory/domains/work/var-backtesting-2000.md
 - Stanford: Bambos' draft letter, $100K a year for 3 years; visit mid-Aug → memory/domains/work/stanford-research-ties.md
 - MarketPoint: Nesbitt's EOL and metals proposals → memory/domains/work/vendor-offers-2000.md
-- Real options seminar repeats in the fall → memory/domains/work/research-presentations.md
+- Vernon's EOL trade-booking software; Gas Model LP slow → memory/domains/work/gas-flow-price-model.md
 
 ## Files
 
