@@ -1,0 +1,180 @@
+{
+ "slice": 2,
+ "simulated_today": "1999-12-12",
+ "feed": {
+  "slice": 2,
+  "iso_week": "1999-W49",
+  "first_seq": 2,
+  "last_seq": 9,
+  "messages": 8,
+  "durable": 7,
+  "first_date": "1999-12-10 05:12",
+  "last_date": "1999-12-12 07:22",
+  "today": "1999-12-12",
+  "inbox_files": [
+   "1999-12-10--mail.md",
+   "1999-12-12--mail.md"
+  ],
+  "inbox_chars": 5204,
+  "l2_chars": 14094
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 154,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 1.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 5.0,
+  "seven_day": 1.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 2,
+  "messages": 8,
+  "durable": 7,
+  "kept": 7,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 8,
+  "fact_lines_with_source": 13,
+  "dated": 13,
+  "date_matches_source": 13,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   null,
+   1.0,
+   1.0,
+   1.0,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 370
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 9,
+   "chars": 6123
+  },
+  "people": {
+   "files": 1,
+   "chars": 345
+  },
+  "archive_inbox": {
+   "files": 3,
+   "chars": 5753
+  },
+  "archive_mail": {
+   "files": 35,
+   "chars": 87013
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 10,
+   "duration_ms": 152311,
+   "duration_api_ms": 138298,
+   "total_cost_usd": 0.5814858,
+   "usage": {
+    "input_tokens": 20,
+    "cache_creation_input_tokens": 40774,
+    "cache_read_input_tokens": 562169,
+    "output_tokens": 7139,
+    "output_tokens_details": {
+     "thinking_tokens": 1965
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 40774,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 701,
+      "cache_read_input_tokens": 71769,
+      "cache_creation_input_tokens": 796,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 796
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 20,
+     "outputTokens": 7139,
+     "cacheReadInputTokens": 562169,
+     "cacheCreationInputTokens": 40774,
+     "webSearchRequests": 0,
+     "costUSD": 0.5814858,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 1965,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 40774,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 9,
+   "result_summary": "I've consolidated the 1999-12-12 replay week. The 8 messages in the two inbox logs (m00002–m00009) are now in memory, and both checks passed (`lint.py` and `sleep-audit.py`). It's one commit, `405d1e7`, and I didn't push. The prompt said both \"do not push\" and \"git push origin main\"; I followed the replay-specific line saying the runner pushes after its own checks.\n\n- **Where the notes went:** the 7 messages with notes went into four new files:\n  - `organization/research-group.md`: members, the 19th-floor offices (yours is EB 1933), Shirley Crenshaw as admin, the rankings you sent Brad McSherry, and the Christmas baskets.\n  - `industry/eprm-risk.md`: Helen Evans asked for an Enron speaker on Monte Carlo and you recommended Stinson Gibner.\n  - `work/naphtha-caps-india.md`: Krishnarao's indicative 10–15% premiums, still waiting on real 2000 forward prices.\n  - `work/1999-12-29-robert-lee-visit.md`: Bob Lee is coming to your office on 29 Dec at 9:00.\n- **Indexes and state:** I updated the three domain indexes and `state.md`, and moved both inbox logs into `memory/archive/inbox/`.\n- **Drops:** m00006 had no notes and every other message is cited, so `dataset/drops/sleep-002.tsv` is empty.\n- **People:** nobody reaches five messages yet (Gibner is closest with four), so no entity files were needed.\n- **Nothing else to act on:**\n  - There were no sleep tasks, feedback blocks or approval-gate items.\n  - The three vega-VaR lines that are still open have no later news, so they stay as they are.\n  - No file was close enough to its size limit to need compressing.\n  - Lint's only warnings are that `MEMORY.md` and `AGENTS.md` are over their target sizes. Those are rule files, outside this run's scope."
+  },
+  "repair": null
+ }
+}
