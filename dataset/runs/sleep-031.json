@@ -1,0 +1,184 @@
+{
+ "slice": 31,
+ "simulated_today": "2000-06-30",
+ "feed": {
+  "slice": 31,
+  "iso_week": "2000-W26",
+  "first_seq": 2107,
+  "last_seq": 2232,
+  "messages": 126,
+  "durable": 110,
+  "first_date": "2000-06-26 02:00",
+  "last_date": "2000-06-30 11:50",
+  "today": "2000-06-30",
+  "inbox_files": [
+   "2000-06-26--mail.md",
+   "2000-06-27--mail.md",
+   "2000-06-28--mail.md",
+   "2000-06-29--mail.md",
+   "2000-06-30--mail.md"
+  ],
+  "inbox_chars": 79142,
+  "l2_chars": 305252
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 773,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 91.0,
+  "seven_day": 30.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 31,
+  "messages": 126,
+  "durable": 110,
+  "kept": 104,
+  "kept_rate_excluding_redundant": 0.954,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 3,
+   "redundant": 1,
+   "social": 1
+  },
+  "dropped": 6,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1243,
+  "fact_lines_with_source": 930,
+  "dated": 930,
+  "date_matches_source": 919,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.89,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.91,
+   0.92,
+   0.9
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 7,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 786
+  },
+  "questions": {
+   "files": 1,
+   "chars": 3234
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 101,
+   "chars": 170250
+  },
+  "people": {
+   "files": 212,
+   "chars": 155327
+  },
+  "archive_inbox": {
+   "files": 193,
+   "chars": 1332636
+  },
+  "archive_mail": {
+   "files": 2258,
+   "chars": 5647099
+  },
+  "archive_other": {
+   "files": 389,
+   "chars": 449266
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 52,
+   "duration_ms": 770702,
+   "duration_api_ms": 698588,
+   "total_cost_usd": 4.5041226000000005,
+   "usage": {
+    "input_tokens": 86,
+    "cache_creation_input_tokens": 202265,
+    "cache_read_input_tokens": 6613093,
+    "output_tokens": 78152,
+    "output_tokens_details": {
+     "thinking_tokens": 35745
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 202265,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 988,
+      "cache_read_input_tokens": 233112,
+      "cache_creation_input_tokens": 944,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 944
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 86,
+     "outputTokens": 78152,
+     "cacheReadInputTokens": 6613093,
+     "cacheCreationInputTokens": 202265,
+     "webSearchRequests": 0,
+     "costUSD": 4.5041226000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 35745,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 202265,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 51,
+   "result_summary": "Consolidation for 2000-W26 is committed as `e595c19` and not pushed. The run instructions said both \"do not push, the runner pushes\" and \"git push origin main\"; I left the push to the runner. Lint and sleep-audit are both green. The audit was red once (internal-meetings grew by 245 characters against a 150 limit), so I shortened the new line and it passed on the second run.\n\nAll 110 messages with notes are accounted for: 104 are cited in memory and 6 are listed in `dataset/drops/sleep-031.tsv` (the MEC lunch FYI, the Echelon/STOA links and Tholan's thanks, the unreadable USAEE attachment, and the CERA replay forward that carried a login).\n\n- **Main facts:**\n  - The owner's Turkish-options answer: an extra illiquidity discount is \"double counting\", and a short unhedgeable option should be priced like insurance.\n  - The EBS V@R policy is a volumetric control for now, with Research's V@R to follow.\n  - AGA forecasting moves to Holt-Winter/ARIMAX models, and Fleming is gathering MG Metals data.\n  - PRC pre-ranking is on 5 Jul and the owner spends all of 7 Jul at PRC.\n  - Phone interviews are set for 5-6 Jul; the Cunningham offer is out; Shane Green interviews on 10 Jul.\n  - The owner and Fallon are disputing Shalesh's rotation to EBS, and Ibasco leaves on 5 Jul.\n  - The Energycast review with Krapels is 6 and 12 Jul, Deng visits on 28 Jul, and the Breckenridge offsite is 18-20 Aug.\n  - EnronOptions was announced, and a recruiter (Arfsten) has approached the owner.\n- **New files:** nine topic files, plus entity files for nine people who reached five messages this week: Hauser, Deng, Fallon, Magee, Gardner, Deathridge, Hopley, Shorter and Casari.\n- **Compression:** older lines from 23 topic files moved word for word to `*-2000-06-w26` archives. No file was above 90% of its ceiling.\n- **Rotation:** the five oldest ongoing lines were checked and are still valid.\n- **Questions:** two new approval items in `questions.md` (an \"Edward Krapels\" alias, and whether \"Shalesh\" is Sh"
+  },
+  "repair": null
+ }
+}
