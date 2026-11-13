@@ -2,17 +2,18 @@
 id: office-equipment
 type: topic
 domain: organization
-title: "Research Group office equipment, 19th floor"
-summary: "Equipment for the group's 19th-floor space: HP 4500n color printer (still chased 21 Dec), Stentofon and PC for Trisha Tlapek, Toshiba network copier (Dec 1999)."
+title: "Research Group office equipment and IT, 19th floor"
+summary: "Equipment and IT access for the group: color printer still missing 5 Jan 2000, flat screens for Tlapek and Sergeev, PCs for Zadorozhny and Alex Huang, Masson's Palm, research-drive access."
 status: active
-updated: 1999-12-26
+updated: 2000-01-07
 ---
-# Research Group office equipment, 19th floor
+# Research Group office equipment and IT, 19th floor
 
-Kevin Moore (x34710) handles purchases with Lyn Malina; Shirley Crenshaw the copier. Charges: Co# 0011, RC 100038. ←[[m00015]] ←[[m00046]] ←[[m00075]]
+Kevin Moore (x34710) orders through Lyn Malina; Shirley Crenshaw files requests the owner approves and chose the copier. Charges: Co# 0011, RC 100038. ←[[m00015]] ←[[m00046]] ←[[m00075]] ←[[m00188]]
 
-- [1999-12-14] Color printer ordered through IT Purchasing: HP 4500n at $2,753 (Enron Technology's standard, per Lyn Malina), placed in Moore's area. ←[[m00014]] ←[[m00015]]
-- [1999-12-21] Printer not yet in: Moore asked Malina for status ("A.S.A.P."), to sit on the counter beside the black-and-white printer. ←[[m00081]]
-- [1999-12-14] Moore asked Liz Taylor for another Stentofon intercom for Trisha Tlapek, who works closely with the traders. ←[[m00022]]
-- [1999-12-20] Moore asked for a PC for Tlapek at EB3132b; on 21 Dec, marked VERY IMPORTANT, he asked what it takes to have it by early morning. ←[[m00075]] ←[[m00082]]
-- [1999-12-17] Crenshaw chose a Toshiba copier like the one on 32 (owner agreed) and asked Iain Russell (Enron Property & Services) about network printing; quotes cover Lanier/Canon/Toshiba 55-65 CPM at $0.017-0.023 per image. ←[[m00046]]
+- [1999-12-21] Dec 1999 orders: HP 4500n color printer ($2,753), Stentofon and a PC for Trisha Tlapek (EB3132b), Toshiba network copier; detail ←[[office-equipment-1999-12]] ←[[m00014]] ←[[m00022]] ←[[m00046]] ←[[m00081]] ←[[m00082]]
+- [2000-01-05] Color printer still not received; Moore asked Malina for its status. ←[[m00149]]
+- [2000-01-05] Flat screens asked for on 15 Dec still outstanding: two each for Tlapek (EB3132B) and Michael Sergeev (EB3131B); on 6 Jan Moore confirmed the locations to Tommy Garza and asked for a computer for Roman Zadorozhny (EB1972B). ←[[m00154]] ←[[m00173]]
+- [2000-01-05] Grant Masson ordered a Palm Vx (8MB) with cradle. ←[[m00157]]
+- [2000-01-05] Stinson Gibner approved William Smith's save/modify access to all o:\research folders (same rights as Moore). ←[[m00143]]
+- [2000-01-07] Owner approved a new PC (500 MHz+) for Alex Huang, whose PC is old and short on memory; Crenshaw asked Malina to order it. ←[[m00179]] ←[[m00188]]
