@@ -1,0 +1,179 @@
+{
+ "slice": 22,
+ "simulated_today": "2000-04-28",
+ "feed": {
+  "slice": 22,
+  "iso_week": "2000-W17",
+  "first_seq": 1447,
+  "last_seq": 1566,
+  "messages": 120,
+  "durable": 99,
+  "first_date": "2000-04-24 00:46",
+  "last_date": "2000-04-28 13:48",
+  "today": "2000-04-28",
+  "inbox_files": [
+   "2000-04-24--mail.md",
+   "2000-04-25--mail.md",
+   "2000-04-26--mail.md",
+   "2000-04-27--mail.md",
+   "2000-04-28--mail.md"
+  ],
+  "inbox_chars": 70464,
+  "l2_chars": 335917
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 952,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 69.0,
+  "seven_day": 26.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 22,
+  "messages": 120,
+  "durable": 99,
+  "kept": 99,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 940,
+  "fact_lines_with_source": 732,
+  "dated": 732,
+  "date_matches_source": 721,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 659
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1129
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 78,
+   "chars": 128134
+  },
+  "people": {
+   "files": 151,
+   "chars": 116788
+  },
+  "archive_inbox": {
+   "files": 130,
+   "chars": 909878
+  },
+  "archive_mail": {
+   "files": 1592,
+   "chars": 3983591
+  },
+  "archive_other": {
+   "files": 234,
+   "chars": 312718
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 73,
+   "duration_ms": 950345,
+   "duration_api_ms": 829757,
+   "total_cost_usd": 5.696588599999999,
+   "usage": {
+    "input_tokens": 128,
+    "cache_creation_input_tokens": 221541,
+    "cache_read_input_tokens": 10618543,
+    "output_tokens": 90002,
+    "output_tokens_details": {
+     "thinking_tokens": 44649
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 221541,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 784,
+      "cache_read_input_tokens": 252356,
+      "cache_creation_input_tokens": 976,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 976
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 128,
+     "outputTokens": 90002,
+     "cacheReadInputTokens": 10618543,
+     "cacheCreationInputTokens": 221541,
+     "webSearchRequests": 0,
+     "costUSD": 5.696588599999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 44649,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 221541,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 72,
+   "result_summary": "I finished the 2000-04-28 consolidation (week 2000-W17). Lint and sleep-audit both pass, and it is committed locally as one commit, `0325fd5`, which I have not pushed, as the run instructions said. The prompt's closing \"git push origin main\" conflicts with that, and I went with \"do not push\".\n\n**What went in:** all 99 of this week's 120 messages that had notes are now cited somewhere in memory, so `dataset/drops/sleep-022.tsv` is empty.\n- **Updated:** 21 existing topic files.\n- **New topic files:** three. One covers Steven Leppard's real-options work (his Cambridge talk and Risk article), one the Economist \"Fading Fads\" debate that Soussan Faiz started, and one the candidate interviews booked for early May.\n- **Archived detail:** to stay within the size limits, older lines from 23 files moved word for word into `memory/archive/*/2000/*-2000-04-w17.md`.\n- **People:** eleven people reached five messages with notes this week and got entity files: Van Ngo, Soussan Faiz, Gordon Sick, Amy Aldous, Phelim Boyle, Shan Millie, Matthew Williams, David Walkup, Norberto Valdes, Lisa Ford and Aram Sogomonian.\n- **Aliases:** two of the new files list another name. Phelim Boyle's has \"P.P. Boyle\", since Amy Aldous writes for P.P. Boyle from the Waterloo centre that Phelim P. Boyle directs. I treated that as part of creating the file rather than an alias gate, and noted the reason in the run log. Matthew Williams' file has \"Matt Williams\".\n\n**Change waiting for approval:** the alias table in `memory/people/_index.md` was the only file above 90% of its size limit. To fit the eleven new people, it now drops the empty alias field and writes `name — id` when a person has no alias. The change is applied; whether to keep it is a new approval question in `memory/questions.md`, due 2000-05-28, and the status quo is to keep it.\n\n**Other checks:**\n- No questions were past due.\n- The five oldest \"still true\" lines are still valid.\n- The inbox had no sleep task, and no source taps are configure"
+  },
+  "repair": null
+ }
+}
