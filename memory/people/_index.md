@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-02-27
+updated: 2000-03-03
 ---
 # People and organisations — index
 
@@ -38,8 +38,10 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Iain Russell — — organization — iain-russell
 - Jarek Astramowicz — — work, industry, organization — jarek-astramowicz
 - Jason Sokolov — — organization — jason-sokolov
+- Jean Mrha — — work, organization — jean-mrha
 - Jeff Shankman — Jeffrey A Shankman — organization, work — jeff-shankman
 - Jim Garven — James R. Garven — industry — jim-garven
+- Jim Irvine — — work — jim-irvine
 - Joan Payne — — industry — joan-payne
 - John Griebling — — work — john-griebling
 - John Sherriff — — work, organization — john-sherriff
@@ -49,6 +51,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Kevin Hannon — — organization, work — kevin-hannon
 - Kevin Kindall — — organization, work — kevin-kindall
 - Kevin Moore — Kevin G Moore — organization — kevin-moore
+- Kimberly Watson — — industry, work — kimberly-watson
 - Lenos Trigeorgis — — industry — lenos-trigeorgis
 - Les Clewlow — — work — les-clewlow
 - Louise Kitchen — — work, organization — louise-kitchen
@@ -72,6 +75,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Ravi Thuraisingham — — organization, work — ravi-thuraisingham
 - Rick Buy — — work, organization — rick-buy
 - Robert Lee — Bob Lee — organization, work — robert-lee
+- Rodney Greene — — organization — rodney-greene
 - Roman Zadorozhny — — organization — roman-zadorozhny
 - Ronnie Chahal — — organization, work, industry — ronnie-chahal
 - Samer Takriti — — organization, work — samer-takriti

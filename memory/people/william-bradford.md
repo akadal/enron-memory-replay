@@ -5,7 +5,7 @@ entity: person
 name: "William Bradford"
 aliases: ["William S Bradford"]
 domains: [work, organization]
-updated: 2000-02-19
+updated: 2000-03-03
 ---
 # William Bradford
 
@@ -16,6 +16,7 @@ Enron risk-side manager (title not stated in the mail so far), copied on credit-
 - [2000-01-26] Copied on Tamarchenko's credit reserve convergence test → memory/domains/work/vega-var.md ←[[m00446]]
 - [2000-01-28] Addressee of Ted Murphy's GRMS objection → memory/domains/work/grms.md ←[[m00456]] ←[[m00475]]
 - [2000-02-17] Owner's doubts on default probabilities; Credit re-examines the reserve; Rod Nelson briefs him on LJM → memory/domains/work/vega-var.md, memory/domains/work/ljm-put-valuation.md ←[[m00670]] ←[[m00695]] ←[[m00648]]
+- [2000-02-28] Goes to KMV, San Francisco, 20 Mar → memory/domains/work/credit-markets.md ←[[m00802]] ←[[m00813]]
 
 ## Context: organization
 

@@ -5,7 +5,7 @@ entity: person
 name: "Steven Leppard"
 aliases: []
 domains: [organization, work]
-updated: 2000-02-19
+updated: 2000-03-03
 ---
 # Steven Leppard
 
@@ -20,3 +20,4 @@ Member of Enron Europe's Research team in London; promoted to Manager in Jan 200
 ## Context: work
 
 - [2000-02-01] His real options paper for Risk: the owner backs publication, internal approval via Richard Lewis → memory/domains/organization/london-research.md ←[[m00511]]
+- [2000-03-01] Paper draft circulated; owner linked him to Shan Millie (Risk Books); Amsterdam as the owner's guest → memory/domains/organization/london-research.md, memory/domains/industry/speaking-engagements-2000.md ←[[m00830]] ←[[m00849]] ←[[m00854]]

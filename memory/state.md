@@ -1,7 +1,6 @@
 # State — right now
 
-As of 2000-02-27 (replay of the owner's mailbox, week 2000-W08).
+As of 2000-03-03 (replay of the owner's mailbox, week 2000-W09).
 
-- Owner back from London (Thu 24 Feb) and Stanford Parents Weekend (Bambos lunch Fri 25 Feb) → memory/domains/work/stanford-research-ties.md
-- Coming: NYMEX rodeo night Thu 2 Mar; CAIDA Metrics WG 2 Mar (Ravi, maybe owner); storage contracts with Dillard Fri 3 Mar; Real Options NY 13 Mar → memory/domains/industry/speaking-engagements-2000.md
-- Owed: call Rodney Greene; Polish-speaking MBA names for Sidney Cox; Paulo Rocha's resume to Karen Marshall; replies to ICBI PoweRisk and Australian Energy 2000; Remi Collonges meeting (with Grant)
+- Coming: Bambos lunch Sat 4 Mar → memory/domains/work/stanford-research-ties.md; Collonges from Mon 6 Mar; Hamachi 7-10 Mar (Ravi); Real Options NY 13 Mar; RBAC 16 Mar; KMV San Francisco 20 Mar, then the week off → memory/domains/work/credit-markets.md
+- Owed: Polish-speaking MBA names for Sidney Cox; Rodney Greene's Houston interview; Krausz and Marwaha interviews; view on Tom Halliburton → memory/domains/organization/recruiting-candidates.md
