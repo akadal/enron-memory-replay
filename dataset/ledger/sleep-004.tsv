@@ -1,0 +1,29 @@
+id	durable	status	detail
+m00074	no	not_durable	logistics
+m00075	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00076	yes	kept	domains/industry/eprm-risk.md people/stinson-gibner.md
+m00077	no	not_durable	automated
+m00078	yes	kept	domains/industry/speaking-engagements-2000.md
+m00079	no	not_durable	pleasantry
+m00080	no	not_durable	logistics
+m00081	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md people/mike-roberts.md
+m00082	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00083	no	not_durable	logistics
+m00084	yes	kept	domains/organization/research-group.md people/clayton-vernon.md people/shirley-crenshaw.md
+m00085	no	not_durable	bulk
+m00086	yes	kept	domains/work/gas-flow-price-model.md people/clayton-vernon.md people/vasant-shanbhogue.md
+m00087	yes	kept	domains/industry/el-paso-capacity.md domains/industry/gpcm-rbac.md
+m00088	yes	kept	domains/industry/speaking-engagements-2000.md people/shirley-crenshaw.md
+m00089	yes	kept	domains/work/japan-merchant-business.md
+m00090	no	not_durable	pleasantry
+m00091	yes	kept	domains/work/research-presentations.md
+m00092	no	not_durable	quote_only
+m00093	no	not_durable	logistics
+m00094	no	not_durable	pleasantry
+m00095	no	not_durable	bulk
+m00096	no	not_durable	pleasantry
+m00097	yes	kept	domains/organization/staff-and-recruiting.md
+m00098	yes	kept	domains/work/uk-power-vol-curve.md people/stinson-gibner.md
+m00099	yes	kept	domains/industry/gpcm-rbac.md
+m00100	yes	kept	domains/work/dabhol-power-sale.md people/vasant-shanbhogue.md
+m00101	yes	kept	domains/work/research-presentations.md people/stinson-gibner.md
