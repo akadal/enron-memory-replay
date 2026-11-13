@@ -5,7 +5,7 @@ entity: person
 name: "Tom Gros"
 aliases: ["Thomas Gros"]
 domains: [work, organization]
-updated: 2000-02-19
+updated: 2000-03-03
 ---
 # Tom Gros
 
@@ -15,6 +15,7 @@ Enron Broadband Services, VP of global trading; invites MIT students and wants t
 
 - [2000-01-19] Brought MIT's Juan-Carlos Ferrer and Paulo Rocha e Oliveira to the 16 Feb visit → memory/domains/work/broadband-services.md ←[[m00386]] ←[[m00593]] ←[[m00594]]
 - [2000-02-17] Will fund a Stanford tie with Bambos; owner forwarded him the Paleologo exchange → memory/domains/work/stanford-research-ties.md ←[[m00677]] ←[[m00685]]
+- [2000-02-29] Backs the owner's Bambos plan ("Sounds great."); on Rodney Greene's interview panel → memory/domains/work/stanford-research-ties.md, memory/domains/organization/recruiting-candidates.md ←[[m00804]] ←[[m00824]] ←[[m00825]]
 
 ## Context: organization
 

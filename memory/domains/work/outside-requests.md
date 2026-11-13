@@ -3,9 +3,9 @@ id: outside-requests
 type: topic
 domain: work
 title: "Requests to the owner for data, papers, views and references"
-summary: "Small asks to the owner: older ones archived; Cranfield student meets Schroeder 1 Mar; NJ Alliance passed to EES; Nebraska governor talk (Maureen Raymond undecided, researching); Knowledge Management document inventory; Enron India wants the Risk energy-derivatives issue (Feb 2000)."
+summary: "Small asks to the owner: older ones archived; Cranfield student meets Schroeder 1 Mar; NJ Alliance passed to EES; Nebraska governor talk (Maureen Raymond undecided, researching); Knowledge Management document inventory; Enron India gets two copies of the Risk energy-derivatives issue (Feb 2000)."
 status: active
-updated: 2000-02-27
+updated: 2000-03-03
 ---
 # Requests to the owner for data, papers, views and references
 
@@ -17,4 +17,4 @@ Paid services and vendors: memory/domains/work/vendor-offers-2000.md. Detail ←
 - [2000-02-17] Nebraska: Beth Jensen wants a speaker for Governor Johanns' CEO meeting (Omaha, early Apr); owner asked Maureen Raymond. ←[[m00655]] ←[[m00656]] ←[[m00737]]
 - [2000-02-24] Maureen undecided, researching energy prices and Nebraska agri-business. ←[[m00752]]
 - [2000-02-17] Knowledge Management (Marie Hejka) wants the owner's papers listed ("a lot of effort"). ←[[m00673]]
-- [2000-02-26] Enron India's new Treasurer, G. Subramaniam, asks for two copies of the Enron-sponsored Risk issue on energy derivatives; India may let corporates hedge oil risk. ←[[m00784]]
+- [2000-02-26] Enron India's new Treasurer, G. Subramaniam, asked for two copies of the Enron-sponsored Risk issue on energy derivatives (India may let corporates hedge oil risk); owner: "Do we still have some copies left?"; Crenshaw has Sam send two. ←[[m00784]] ←[[m00791]] ←[[m00793]] ←[[m00796]]
