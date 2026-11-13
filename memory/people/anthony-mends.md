@@ -5,7 +5,7 @@ entity: person
 name: "Anthony Mends"
 aliases: ["Tony Mends"]
 domains: [personal]
-updated: 2000-03-12
+updated: 2000-04-28
 ---
 # Anthony Mends
 
@@ -15,3 +15,4 @@ Tony; ex-Azurix Knowledge Management, building his own organisation at Enron Bro
 
 - [2000-02-01] Moved to EBS; dinner invitation → memory/domains/personal/correspondence.md ←[[m00168]] ←[[m00312]] ←[[m00516]]
 - [2000-03-07] Dinner at his house Sat 22 Apr → memory/domains/personal/correspondence.md ←[[m00881]] ←[[m00888]] ←[[m00898]]
+- [2000-04-24] Hosted the owner 22 Apr; his John Young gets after-hours access → memory/domains/personal/correspondence.md, memory/domains/organization/office-equipment.md ←[[m01455]]

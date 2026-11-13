@@ -3,19 +3,19 @@ id: research-presentations
 type: topic
 domain: work
 title: "Research group outreach: talks and Technical Corner"
-summary: "Group and owner talks (Dec 1999 archived), Technical Corner binders; BBLOP Friday brown bag (owner opened 31 Mar 2000); Tzamouranis' data visualization proposal at the staff meeting 13 Apr, weather desk invited; Monte Carlo training for Hal Bertram; Enron slides for Gibner's Texas A&M MBA talk (Apr 2000)."
+summary: "Group and owner talks (Dec 1999 archived), Technical Corner; BBLOP Friday brown bag (owner opened 31 Mar; Masson on Marginal VaR 28 Apr); Tzamouranis' data visualization proposal 13 Apr; Real Options Seminar with Chicago guests 27 Apr, the owner's 'Peoples' slides (Apr 2000)."
 status: active
-updated: 2000-04-14
+updated: 2000-04-28
 ---
 # Research group outreach: talks and Technical Corner
 
-Detail ←[[research-presentations-2000-04-w15]]
+Detail ←[[research-presentations-2000-04-w15]] ←[[research-presentations-2000-04-w17]]
 
 - [1999-12-14] Dec 1999 talks (Imperial Capital, Seoul, IIR NY, INFOCAST) archived ←[[research-presentations-2000-03-w13]] ←[[m00017]] ←[[m00037]] ←[[m00091]] ←[[m00122]]
 - [2000-03-24] BBLOP, Zimin Lu and Alex Huang's Friday brown bag on derivative pricing, 12:00: the owner opened 31 Mar; Grant, Amitava, Kevin, Clayton, Chonawee follow; detail ←[[research-presentations-2000-03-w12]] ←[[m00895]] ←[[m01062]]
 - [2000-04-12] Yannis Tzamouranis (Enron IT) presents "Proposal for a new data visualization project" at the staff meeting 13 Apr; Hrgovcic may bring weather desk people: "OK as long as the number is limited." ←[[m01129]] ←[[m01318]] ←[[m01319]]
-- [2000-04-11] Harold (Hal) Bertram wants internal training on Monte Carlo techniques; Gibner asks Zimin Lu to set a ~90-minute talk with Kevin Kindall. Gibner no longer speaks on Monte Carlo at the Risk conference. ←[[m01298]]
-- [2000-04-14] For Gibner's Texas A&M MBA talk: "There are many presentations available on our Intranet site, but the are outdated."; Mark Koenig points to Laura Valencia for the 1Q analyst slides. ←[[m01342]] ←[[m01343]]
+- [2000-04-26] Real Options Seminar (Lynn Pikofsky, ENA Chicago), Thu 27 Apr 8:30-11:30, EB46C1, with Chicago guests (pecorp.com), then baseball and dinner; invitees include Gibner, Fred Mitro, Laura Luce; owner's slides "for Peoples' presentation": "I need color transparencies." ←[[m01486]] ←[[m01502]] ←[[m01511]]
+- [2000-04-28] BBLOP: Grant Masson on "Marginal Value at Risk", Friday 12 noon, 19C2. ←[[m01552]]
 
 ## Research Intelligence / Technical Corner
 
