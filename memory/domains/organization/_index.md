@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-01-15
+updated: 2000-01-23
 ---
 # Organization — index
 
@@ -9,9 +9,9 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Owner promoted MD (2000-01-10); Roberts celebration Thu 01-20; bonuses → memory/domains/organization/2000-01-year-end-promotions.md
-- Bob Lee interview 01-24; Marquez starts 01-17; Supatgiat, Bartarya → memory/domains/organization/recruiting.md
-- Huang PC, Dhar H1B, Gibner ECI desk → memory/domains/organization/staff-administration.md
+- Bob Lee interview 01-24; Yu Hai, Ningya Cheng, Fontaine, Payne, Mardanov → memory/domains/organization/recruiting.md
+- Huang PC and Sun unordered; Gibner ECI ID → memory/domains/organization/staff-administration.md
+- Owner promoted MD (2000-01-10); bonuses → memory/domains/organization/2000-01-year-end-promotions.md
 
 ## Files
 
@@ -27,3 +27,4 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 - memory/domains/organization/development-center-courses.md — courses
 - memory/domains/organization/research-group-lunches.md — lunches on 31
 - memory/domains/organization/cuneo-matter.md — Cuneo case dismissed
+- memory/domains/organization/2000-01-21-analyst-conference.md — 2000 objectives

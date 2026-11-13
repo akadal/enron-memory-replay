@@ -3,20 +3,21 @@ id: recruiting
 type: topic
 domain: organization
 title: "Candidates and temporary staff in the owner's pipeline"
-summary: "Dec 1999-Jan 2000: Bob Lee interview 24 Jan (manager); Sam Smith accepted offer; Chonawee Supatgiat and Amit Bartarya proposed; Jose Marquez starts 17 Jan; Ray Spudeck to phone; Craig Jimenez lost to SCEM; Sokolov internship."
+summary: "Jan 2000: Bob Lee interview 24 Jan; Yu Hai (Cinergy) to interview; Ningya Cheng informal interview; Fontaine rotation; Cameron Payne, Mardanov, Van Ngo referrals; London research vacancy; Sam Smith accepted; Marquez started 17 Jan."
 status: active
-updated: 2000-01-15
+updated: 2000-01-23
 ---
 # Candidates and temporary staff in the owner's pipeline
 
-Older leads (Dec 1999): Van Ngo winter work via ProStaff; Taiichi Hoshino profile sent to Joseph Hirl for Japan ("A very bright fellow") ←[[m00012]]; Anurag Saksena resume; Andy Knight; Richard MacMinn (UT Austin). ←[[m00013]] ←[[m00066]] ←[[m00089]] ←[[m00038]] ←[[m00049]] ←[[m00097]]
+Dec 1999 leads and early-Jan detail (Supatgiat, Bartarya, Spudeck, Jimenez lost to SCEM, Sokolov, Sam Smith's $30K) ←[[recruiting-detail-2000-01-15]]
 
-- [2000-01-10] Bob Lee (bizserve.com): interview Mon 24 Jan, manager level ("Yes, manager."); panel: owner, [[stinson-gibner]], Zimin Lu, Paulo Issler, [[vasant-shanbhogue]], [[pinnamaneni-krishnarao]], Grant Masson; Elizabeth Grant (HR) arranges travel. ←[[m00206]] ←[[m00207]] ←[[m00215]]
-- [1999-12-30] Mike Roberts: Sam needs $30K to leave ProStaff ←[[m00120]]; [2000-01-11] William (Sam) Smith accepted Enron's offer and asked for the hire date. ←[[m00300]]
-- [2000-01-11] Gibner proposed Azurix's Chonawee Supatgiat (OR, good programmer, maybe weak communicator; recommended by Hector Campos) for ENA support: "we seem to be unable to attract anyone in the outside market right now". ←[[m00313]]
-- [2000-01-11] Owner: "Constrained" in "Constrained Technical" means "from a tight labor pool". ←[[m00254]]
-- [2000-01-12] Anjam Ahmad nominated internal candidate Amit Bartarya for the VaR/Credit role (to owner and Dale Surbey). ←[[m00335]]
-- [2000-01-13] New employee Jose Marquez starts 2000-01-17 (EB3130C, EB1968); Kevin Moore arranging phones. ←[[m00339]]
-- [2000-01-04] Jason Sokolov (part-time for Mike Roberts): owner recommended him for an Analyst & Associate summer internship; forwarded to Lynn Dunphy. ←[[m00139]] ←[[m00142]] ←[[m00156]]
-- [2000-01-07] Ray Spudeck (NAIC, insurance background): Vasant asks the owner to phone him ((816) 889-4417). ←[[m00165]] ←[[m00178]]
-- [2000-01-07] Craig Jimenez took an amended SCEM offer over Gibner's group; owner to Greg Whalley: "One of many data points I have the competition is paying more." ←[[m00176]]
+- [2000-01-17] Bob Lee: formal interview Mon 24 Jan, manager level; panel incl. [[stinson-gibner]], Zimin Lu, Grant Masson; Elizabeth Grant (HR) and Felicia Solis arrange travel. ←[[m00206]] ←[[m00355]] ←[[m00357]]
+- [2000-01-17] Yu Hai (via Robert Walters): owner wants to interview him "mostly to find out what Cinergy is doing"; add Jim Fallon, power traders, originators (Masson to suggest). ←[[m00358]]
+- [2000-01-20] Ningya Cheng (IT under Tom Moore; MIT geophysics PhD, UH finance MS; ERMS option models), recommended by Zimin Lu: "Let's bring him over for an informal interview (you, me and Stinson)." ←[[m00403]]
+- [2000-01-18] Jean-Sebastien Fontaine (analyst, rotation) to interview with owner and Gibner; owner told Masson and Ted Murphy he "might qualify" for EWRM. ←[[m00372]] ←[[m00381]]
+- [2000-01-23] Cameron Payne, referred by Robert C Williams (also sent to Fastow, Whalley); owner passed the resume to Gary Hickerson, Jere Overdyke, Ted Murphy. ←[[m00418]] ←[[m00425]]
+- [2000-01-23] Konstantin Mardanov (UT Austin physics, neural networks; intern recommended 1999-10-20): owner to Celeste Roberts, "We can use this guy as a help for Enron Broad band Svc's." ←[[m00423]]
+- [2000-01-17] Van Ngo (Rice): owner recommended her to Christy Young and Beth Miertschin for another internship ("She did an outstanding job."); on the Rice interview schedule. ←[[m00351]]
+- [2000-01-21] London research vacancy (Ben Parsons's role; internal candidate Amit): owner called the job spec "very good"; Leppard's version goes to universities. ←[[m00371]] ←[[m00412]]
+- [2000-01-11] William (Sam) Smith accepted Enron's offer. ←[[m00300]]
+- [2000-01-13] Jose Marquez started 2000-01-17 (EB3130C, EB1968). ←[[m00339]] ←[[m00368]]
