@@ -3,16 +3,18 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Alberto Jimenez (Analyst, 6 Feb); Samer Takriti declined the move from Azurix (30 Jan); Wayne Tow's resume passed to Melissa Becker's IT group (phone interview); John Hou wants Zimin Lu's group; Ninya Chen pending Anthony; Bob Lee and older leads archived."
+summary: "Robert Lee's second round with EES (Feb 2000); John Hou to get a formal interview; Scott Tholan, candidate for Ron's job, interviews 14 Feb; Ding Yuan's resume; Ninya Chen pending Anthony; Takriti, Jimenez, Wayne Tow and older leads archived."
 status: active
-updated: 2000-02-06
+updated: 2000-02-12
 ---
 # Candidates for the owner's group
 
 Hires: memory/domains/organization/staff-and-recruiting.md. HR: Elizabeth Grant (assistant Felicia Solis). ←[[m00357]]
 
 - [1999-12-22] Older candidates and leads (Craig Jimenez lost to SCEM, Supatgiat, a Cinergy trader, Ningya Cheng, Cameron Payne, Bob Lee); detail ←[[recruiting-candidates-2000-01]] ←[[recruiting-candidates-2000-01-w04]] ←[[recruiting-candidates-2000-02]] ←[[m00097]] ←[[m00176]] ←[[m00313]] ←[[m00377]] ←[[m00358]] ←[[m00372]] ←[[m00403]] ←[[m00425]] ←[[m00206]] ←[[m00355]] ←[[m00471]] ←[[m00432]]
-- [2000-01-30] Samer Takriti (Azurix) declined the move: "a significant lack of communication and respect". ←[[m00474]]
-- [2000-01-24] Alberto Jimenez (real options for oil and mining) starts the Analyst Program in Houston 6 Feb and wants Research; Gibner set meetings with himself, Zimin Lu and the owner. ←[[m00428]]
-- [2000-01-31] Wayne Tow, cold-called in by headhunter Lee Wells ("she did not make a good impression"): owner sent him to Melissa Becker's IT group; Greg Nikkel phone-interviews him for HR application support lead and answers Wells. ←[[m00491]] ←[[m00492]] ←[[m00515]] ←[[m00529]]
-- [2000-02-02] John Hou wants Zimin Lu's group (strong math and programming, weak on finance). Ninya Chen: "Let's wait till next week. Anthony's parent has just died." ←[[m00532]]
+- [2000-01-24] Late Jan: Takriti declined; Alberto Jimenez (Analyst from 6 Feb) wants Research; Wayne Tow sent to IT; detail ←[[recruiting-candidates-2000-02-w06]]
+- [2000-02-02] Ninya Chen: "Let's wait till next week. Anthony's parent has just died." ←[[m00532]]
+- [2000-02-08] John Hou (math and programming, learning finance) wants Research; owner to Zimin Lu and Gibner: "We should set up a formal interview for him." ←[[m00532]] ←[[m00568]] ←[[m00570]]
+- [2000-02-07] Robert Lee: second round with EES (Dennis Benevides, John Henderson), per Ronnie Chahal; owner: "What about structuring and Sean and Margueritte?" Felicia Solis also schedules Puneet Mathur. ←[[m00560]]
+- [2000-02-08] Scott Tholan, candidate for Ron's present position, interviews Mon 14 Feb; owner to Crenshaw: "Please, coordinate this interview." ←[[m00573]]
+- [2000-02-10] Ding Yuan (x6-7072) sent the owner his resume. ←[[m00591]]

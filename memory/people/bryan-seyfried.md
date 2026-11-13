@@ -5,7 +5,7 @@ entity: person
 name: "Bryan Seyfried"
 aliases: []
 domains: [work, organization]
-updated: 2000-02-06
+updated: 2000-02-12
 ---
 # Bryan Seyfried
 
@@ -14,6 +14,7 @@ Heads Enron Europe's Credit Markets Group (EnronCredit.com), London. ←[[m00072
 ## Context: work
 
 - [1999-12-17] Credit Markets Group, White Paper, bankruptcy-swap paper for the website → memory/domains/work/credit-markets.md ←[[m00052]] ←[[m00072]] ←[[m00118]] ←[[m00362]]
+- [2000-02-09] Credit trading proposal up for approval under an interim policy → memory/domains/work/credit-markets.md ←[[m00579]] ←[[m00582]]
 
 ## Context: organization
 

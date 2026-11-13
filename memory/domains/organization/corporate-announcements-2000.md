@@ -3,9 +3,9 @@ id: corporate-announcements-2000
 type: topic
 domain: organization
 title: "Enron corporate announcements, 2000"
-summary: "Company-wide news in the owner's mail: Beck's Global Risk Management Operations and the 21 Jan analyst conference (archived); Hannon heads Enron Global Risk Management, Whalley ENA president (25 Jan); Global Strategic Sourcing under George Wasaff (1 Feb); EES-Chase and EBS content deals (2 Feb)."
+summary: "Company-wide news in the owner's mail: Beck's Global Risk Management Operations and the 21 Jan analyst conference (archived); Hannon heads Enron Global Risk Management, Whalley ENA president (25 Jan); Global Strategic Sourcing under George Wasaff (1 Feb); EES-Chase and EBS content deals (2 Feb); Government Affairs reshuffle (Shapiro, Schroeder), Terraso, Hardy (11 Feb)."
 status: active
-updated: 2000-02-06
+updated: 2000-02-12
 ---
 # Enron corporate announcements, 2000
 
@@ -13,3 +13,4 @@ updated: 2000-02-06
 - [2000-01-25] Kevin Hannon: chairman and CEO of Enron Global Risk Management; Greg Whalley: ENA president and COO. ←[[m00445]]
 - [2000-02-02] Global Strategic Sourcing (from 1 Feb) under George Wasaff, MD, reporting to Mike McConnell, CEO Global Technology. ←[[m00533]] ←[[m00549]]
 - [2000-02-02] Press releases the owner sent home: EES (CEO Lou Pai) signs a 10-year, $750 million energy management deal for 860 Chase facilities; EBS (co-CEO Joe Hirko) delivers streaming content for Road-Show.Com and Q4i.com over the Enron Intelligent Network (ePowered Market Cast). ←[[m00548]] ←[[m00551]]
+- [2000-02-11] Government Affairs and staff roles: Rick Shapiro MD for the Americas (Ricardo Charvel, Jose Bestard, Joe Hillings report to him); Mark Schroeder VP for Europe, Asia and Africa (adds APACHI and India; Jane Wilson on Enron India reports to him); Mike Terraso VP Environment, Health & Safety and Chief Environmental Officer; John Hardy VP Global Project Finance. ←[[m00605]]

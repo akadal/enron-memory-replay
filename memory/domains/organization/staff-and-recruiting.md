@@ -3,20 +3,17 @@ id: staff-and-recruiting
 type: topic
 domain: organization
 title: "Research Group staff, hires, moves and visas"
-summary: "Staff side of the owner's group: Sam Smith hired from ProStaff, Jose Marquez starts 17 Jan, Gibner joins ECI part-time, interns Van Ngo and Sokolov, Vincent Tang's green card, Dhar's H1B (Dec 1999-Jan 2000)."
+summary: "Staff side of the owner's group: Dec-Jan hires, interns and visas (archived); Chonawee Supatgiat starts 8 Feb for EBS; analyst Shalesh Ganjoo 21 Feb; summer interns (Sevil Yaman asked for); Charlie Weldon starts early, 21 Jun (Feb 2000)."
 status: active
-updated: 2000-01-23
+updated: 2000-02-12
 ---
 # Research Group staff, hires, moves and visas
 
 Candidates not yet hired: memory/domains/organization/recruiting-candidates.md
 
 - [1999-12-17] Dec 1999 résumés and moves: Anurag Saksena (GMAC-RFC), Andy Knight; Martina Angelova to Enron Europe, London (~Feb), Yana Kristal takes over; detail ←[[staff-and-recruiting-1999-12]] ←[[m00038]] ←[[m00047]] ←[[m00049]]
-- [1999-12-13] Van Ngo (Rice student, ex-group temp via ProStaff) can work 27 Dec-14 Jan. ←[[m00013]]
-- [2000-01-17] Owner recommended Van Ngo to A&A recruiters Christy Young and Beth Miertschin for a summer internship and later hire: "She did an outstanding job"; she is on the Rice interview schedule. 18 Jan: her parking badge cancelled, holiday work over. ←[[m00351]] ←[[m00385]]
-- [2000-01-11] William (Sam) Smith accepted the offer (to the owner and Brad McSherry), leaving ProStaff (needed $30K; owner: "Let me talk to McBride about the comp levels"). ←[[m00120]] ←[[m00300]]
-- [2000-01-13] New employee Jose Marquez starts 17 Jan (EB3130C, EB1968). ←[[m00339]]
-- [2000-01-10] Stinson Gibner joins Enron Communications (desk 4415c) but keeps ENA work, reporting at both; ENA workstation duplicated (Paula Corey, Richard Weeks). ←[[m00217]] ←[[m00224]]
-- [2000-01-04] Jason Sokolov (part-time for Mike Roberts) petitioned for an A/A summer internship; owner recommended him to Celeste Roberts ("a valuable future Enron employee") and Lynn Dunphy. ←[[m00139]] ←[[m00142]] ←[[m00156]]
-- [2000-01-07] Vincent Tang's green card (Tindall & Foster; Candace Womack): the owner, his supervisor, edited the job description (Operations Research Analyst); counsel very pleased. ←[[m00136]] ←[[m00181]] ←[[m00193]]
-- [2000-01-13] Amitava Dhar's H1B expires 15 Jan; extension filed by Milenia Soto (Enron immigration attorney, 713 522 0141), so he may keep working; I-140 approved Sep 1999. ←[[m00341]]
+- [2000-01-11] Dec-Jan: Van Ngo (Rice temp, recommended for an internship), Sam Smith hired from ProStaff, Jose Marquez from 17 Jan, Gibner part-time at ECI, Sokolov's internship, Tang's green card, Dhar's H1B extension; detail ←[[staff-and-recruiting-2000-02-w06]] ←[[m00013]] ←[[m00351]] ←[[m00385]] ←[[m00120]] ←[[m00300]] ←[[m00339]] ←[[m00217]] ←[[m00224]] ←[[m00139]] ←[[m00142]] ←[[m00156]] ←[[m00136]] ←[[m00181]] ←[[m00193]] ←[[m00341]]
+- [2000-02-07] Chonawee Supatgiat accepted 7 Feb, starts 8 Feb: mainly EBS support, reports to Ravi; a 19th-floor spot pending (Gibner's office meanwhile; Gibner also sits on 44). ←[[m00561]]
+- [2000-02-08] Shalesh Ganjoo, rotating Analyst, joins 21 Feb at EB1951. ←[[m00565]]
+- [2000-02-11] Summer interns: owner asked Celeste Roberts for Sevil Yaman (UH PhD, electricity transmission): "transmission: a critical issue to the power markets everywhere"; more students' resumes to follow. ←[[m00598]]
+- [2000-02-11] Charlie Weldon (ex-summer associate) starts his Associate rotation early, Wed 21 Jun, on Mike Roberts's hurricane-season project, then joins the August orientation. ←[[m00601]] ←[[m00602]]
