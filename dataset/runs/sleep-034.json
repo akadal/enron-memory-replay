@@ -1,0 +1,186 @@
+{
+ "slice": 34,
+ "simulated_today": "2000-07-23",
+ "feed": {
+  "slice": 34,
+  "iso_week": "2000-W29",
+  "first_seq": 2413,
+  "last_seq": 2452,
+  "messages": 40,
+  "durable": 30,
+  "first_date": "2000-07-17 05:06",
+  "last_date": "2000-07-23 19:42",
+  "today": "2000-07-23",
+  "inbox_files": [
+   "2000-07-17--mail.md",
+   "2000-07-18--mail.md",
+   "2000-07-19--mail.md",
+   "2000-07-20--mail.md",
+   "2000-07-21--mail.md",
+   "2000-07-23--mail.md"
+  ],
+  "inbox_chars": 24789,
+  "l2_chars": 104949
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 392,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 30.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 5.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 34,
+  "messages": 40,
+  "durable": 30,
+  "kept": 29,
+  "kept_rate_excluding_redundant": 0.967,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1310,
+  "fact_lines_with_source": 980,
+  "dated": 980,
+  "date_matches_source": 969,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 681
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1844
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 103,
+   "chars": 175103
+  },
+  "people": {
+   "files": 228,
+   "chars": 166918
+  },
+  "archive_inbox": {
+   "files": 213,
+   "chars": 1467699
+  },
+  "archive_mail": {
+   "files": 2478,
+   "chars": 6159262
+  },
+  "archive_other": {
+   "files": 453,
+   "chars": 493106
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 42,
+   "duration_ms": 389781,
+   "duration_api_ms": 348235,
+   "total_cost_usd": 2.548371800000001,
+   "usage": {
+    "input_tokens": 76,
+    "cache_creation_input_tokens": 118999,
+    "cache_read_input_tokens": 4047479,
+    "output_tokens": 39329,
+    "output_tokens_details": {
+     "thinking_tokens": 12835
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 118999,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 792,
+      "cache_read_input_tokens": 149807,
+      "cache_creation_input_tokens": 983,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 983
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 76,
+     "outputTokens": 39329,
+     "cacheReadInputTokens": 4047479,
+     "cacheCreationInputTokens": 118999,
+     "webSearchRequests": 0,
+     "costUSD": 2.548371800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12835,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 118999,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 41,
+   "result_summary": "The 2000-07-23 consolidation (week 2000-W29) is committed as `df82725`. Lint and the sleep audit were both green before the commit. I did not push: the run's instructions say the runner pushes after its own checks, although the closing step also said to push.\n\nOf the 30 messages with notes, 29 are cited in memory and 1 is dropped: m02425, a lunch date, listed in `dataset/drops/sleep-034.tsv`. The main updates this week:\n- **MG metals:** Ted Murphy wants a rough metals VaR as soon as possible, and the owner is to prepare a VaR method before the 7/8 Aug board meeting. Gibner sent a rough value for the credit support given to MG and PaperCo.\n- **VaR method:** Gorny's plan moves VaR onto forward-forward volatilities, and Rick Buy's approval is still needed.\n- **Staff:** Hrgovcic seems to have an outside offer and may move to the weather desk. Vernon wants to apply for a Power Trading job; the owner will discuss it Monday and refused Vernon's Portland trip if Vernon had not asked his boss first.\n- **Smaller items:**\n  - **People and visits:** Iris Mack took another job, Ecopetrol wants to visit, and there were follow-ups from Sydney.\n  - **Outside requests:** the Arnold/Crack paper, the CMU MSCF program, the Weathereffects trial, Petroleum Economics, and the United Way pledges.\n\n**Questions:** the London first-names question passed its due date and was closed without an answer; the names stay unlinked. I added one approval question about adding the alias \"John Blumer\" to John Bloomer's file. No new person reached five messages, so no new person files.\n\n**Compression:** older lines from 15 files moved to `archive/*/2000/*-2000-07-w29.md`. `london-research` was the only file above 90% of its limit and went from 2538 to 2179 characters. The rule asks for three such files, but only that one qualified.\n\n**Checks:** the five oldest ongoing lines are still valid. The audit failed once on two files that grew too much (speaking-engagements, outside-requests) and passed after I tr"
+  },
+  "repair": null
+ }
+}
