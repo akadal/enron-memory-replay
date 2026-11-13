@@ -5,7 +5,7 @@ entity: person
 name: "Shirley Crenshaw"
 aliases: []
 domains: [organization, work]
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 Shirley Crenshaw, Enron; handles office logistics for the owner's research group.
 
@@ -16,3 +16,4 @@ Shirley Crenshaw, Enron; handles office logistics for the owner's research group
 ## Context: work
 - Contact for the 1999-12-29 Robert Lee visit: memory/domains/work/1999-12-29-robert-lee-visit.md ←[[m00008]]
 - Asked to schedule the owner's Real Options talk, March 2000: memory/domains/industry/speaking-engagements-2000.md ←[[m00067]]
+- Must file a formal request with the owner to get Scientific Word: memory/domains/work/simplified-gas-price-model.md ←[[m00084]]
