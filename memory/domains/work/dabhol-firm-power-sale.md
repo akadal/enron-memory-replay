@@ -5,7 +5,7 @@ domain: work
 title: "Dabhol Phase I firm power sale to another state (India)"
 summary: "Dec 1999: Sandeep Kohli's Enron Development India team proposes a 50 MW firm (peak) plus infirm (monsoon) power sale from Dabhol; asks the owner for structuring help in the new year."
 status: active
-updated: 1999-12-26
+updated: 2000-01-30
 ---
 # Dabhol Phase I firm power sale to another state (India)
 
@@ -15,3 +15,4 @@ updated: 1999-12-26
 - [2000-01-05] Owner forwarded the thread to [[pinnamaneni-krishnarao]] without comment. ←[[m00144]]
 
 Related: the same team's naphtha-cap work → memory/domains/work/maharashtra-naphtha-caps.md
+Mark-to-market of the follow-on EIPL deal (Jan 2000) → memory/domains/work/eipl-india-deal-mark-to-market.md

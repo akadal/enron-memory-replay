@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-01-23
+updated: 2000-01-30
 ---
 # Work — index
 
@@ -9,32 +9,22 @@ Scope: the owner's own projects, models, deals and research.
 
 ## Hot
 
+- EIPL India MTM: plant-tied flows can't be marked → memory/domains/work/eipl-india-deal-mark-to-market.md
+- Promigas call: guarantee quotes 01-31 → memory/domains/work/promigas-tvcable-call-option.md
+- Sycamore Chelmsford 01-31; Amit 02-16 → memory/domains/work/bandwidth-pricing-research.md
 - EWRM implementation; NPPD visit → memory/domains/work/enterprise-wide-risk-management.md
-- ROFR template for Corman → memory/domains/work/right-of-first-refusal-valuation.md
-- Amit 02-16; Bambos → memory/domains/work/bandwidth-pricing-research.md
-- Strickland chapter; RiskCare 02-01 → memory/domains/work/outside-inquiries.md
 
 ## Files
 
 - memory/domains/work/enterprise-wide-risk-management.md — EWRM
-- memory/domains/work/right-of-first-refusal-valuation.md — ROFR
+- memory/domains/work/eipl-india-deal-mark-to-market.md — India MTM
+- memory/domains/work/promigas-tvcable-call-option.md — Promigas
+- memory/domains/work/clewlow-strickland-energy-book.md — Strickland book
+- memory/domains/work/research-credit-model-convergence.md — credit model
 - memory/domains/work/bandwidth-pricing-research.md — bandwidth
-- memory/domains/work/vega-var.md — vega VaR
-- memory/domains/work/maharashtra-naphtha-caps.md — naphtha
-- memory/domains/work/dabhol-firm-power-sale.md — Dabhol
-- memory/domains/work/1999-12-29-robert-lee-visit.md — Lee visit
-- memory/domains/work/2000-01-07-creditmanager-net-meeting.md — credit
-- memory/domains/work/gas-transmission-price-model.md — gas model
-- memory/domains/work/uk-power-volatility-curve.md — UK vol
-- memory/domains/work/research-intelligence-newsletter.md — newsletter
-- memory/domains/work/pse-swap-cpi-hedge.md — PSE swap
-- memory/domains/work/emission-trading-poland.md — Poland
 - memory/domains/work/outside-inquiries.md — outside asks
-- memory/domains/work/managing-energy-price-risk-book.md — book
-- memory/domains/work/research-group-presentations.md — talks
-- memory/domains/work/model-risk-review.md — AA review
-- memory/domains/work/argentina-modelling.md — Argentina
-- memory/domains/work/ljm-rthm-put-valuation.md — RTHM put
-- memory/domains/work/amerada-hess-day-rate-hedge.md — rig rates
-- memory/domains/work/internal-advisory-requests.md — asks
-- memory/domains/work/standing-and-scheduled-meetings.md — meetings
+- memory/domains/work/internal-advisory-requests.md — internal asks
+- memory/domains/work/standing-and-scheduled-meetings.md — meetings, travel
+- memory/domains/work/dabhol-firm-power-sale.md — Dabhol
+- Older, path memory/domains/work/<name>.md: right-of-first-refusal-valuation · vega-var · maharashtra-naphtha-caps · gas-transmission-price-model · uk-power-volatility-curve · research-intelligence-newsletter · pse-swap-cpi-hedge · emission-trading-poland · managing-energy-price-risk-book · research-group-presentations · model-risk-review · argentina-modelling · ljm-rthm-put-valuation · amerada-hess-day-rate-hedge
+- Closed topics (2): Lee visit 29 Dec, CreditManager call 7 Jan

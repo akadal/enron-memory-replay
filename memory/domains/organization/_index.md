@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-01-23
+updated: 2000-01-30
 ---
 # Organization — index
 
@@ -9,13 +9,16 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Bob Lee interview 01-24; Yu Hai, Ningya Cheng, Fontaine, Payne, Mardanov → memory/domains/organization/recruiting.md
-- Huang PC and Sun unordered; Gibner ECI ID → memory/domains/organization/staff-administration.md
-- Owner promoted MD (2000-01-10); bonuses → memory/domains/organization/2000-01-year-end-promotions.md
+- Hannon heads Global Risk Mgmt; Whalley ENA president → memory/domains/organization/2000-01-25-hannon-global-risk-management.md
+- Samer Takriti declined (01-30); Bob Lee, Jimenez Crespo, Williams → memory/domains/organization/recruiting.md
+- GRMS resource fight (Ted Murphy) → memory/domains/organization/2000-01-grms-resource-dispute.md
+- Language lessons; Huang PC, Sun unordered → memory/domains/organization/staff-administration.md
 
 ## Files
 
-- memory/domains/organization/2000-01-year-end-promotions.md — Jan 2000 promotions, bonuses
+- memory/domains/organization/2000-01-25-hannon-global-risk-management.md — Hannon, Whalley
+- memory/domains/organization/2000-01-grms-resource-dispute.md — GRMS
+- memory/domains/organization/2000-01-year-end-promotions.md — promotions, bonuses
 - memory/domains/organization/research-group-19th-floor-move.md — 19th floor, roster
 - memory/domains/organization/recruiting.md — candidates, temps
 - memory/domains/organization/staff-administration.md — equipment, immigration, leave
