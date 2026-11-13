@@ -1,0 +1,9 @@
+id	durable	status	detail
+m00002	yes	kept	domains/industry/eprm-risk-courses.md
+m00003	yes	kept	domains/industry/eprm-risk-courses.md people/stinson-gibner.md
+m00004	yes	kept	domains/organization/research-group.md people/shirley-crenshaw.md people/stinson-gibner.md
+m00005	yes	kept	domains/organization/research-group.md
+m00006	no	not_durable	pleasantry
+m00007	yes	kept	domains/work/naphtha-caps-maharashtra.md
+m00008	yes	kept	domains/work/visitors.md people/shirley-crenshaw.md
+m00009	no	not_durable	logistics
