@@ -1,0 +1,183 @@
+{
+ "slice": 21,
+ "simulated_today": "2000-04-21",
+ "feed": {
+  "slice": 21,
+  "iso_week": "2000-W16",
+  "first_seq": 1361,
+  "last_seq": 1446,
+  "messages": 86,
+  "durable": 66,
+  "first_date": "2000-04-17 02:30",
+  "last_date": "2000-04-21 09:47",
+  "today": "2000-04-21",
+  "inbox_files": [
+   "2000-04-17--mail.md",
+   "2000-04-18--mail.md",
+   "2000-04-19--mail.md",
+   "2000-04-20--mail.md",
+   "2000-04-21--mail.md"
+  ],
+  "inbox_chars": 44232,
+  "l2_chars": 196236
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 544,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 59.0,
+  "seven_day": 25.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 21,
+  "messages": 86,
+  "durable": 66,
+  "kept": 64,
+  "kept_rate_excluding_redundant": 0.97,
+  "drop_classes": {
+   "other": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 886,
+  "fact_lines_with_source": 706,
+  "dated": 706,
+  "date_matches_source": 695,
+  "date_mismatch_ids_this_slice": [
+   "m01446"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 616
+  },
+  "questions": {
+   "files": 1,
+   "chars": 683
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 75,
+   "chars": 121203
+  },
+  "people": {
+   "files": 140,
+   "chars": 109785
+  },
+  "archive_inbox": {
+   "files": 124,
+   "chars": 838880
+  },
+  "archive_mail": {
+   "files": 1472,
+   "chars": 3647674
+  },
+  "archive_other": {
+   "files": 213,
+   "chars": 297872
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 48,
+   "duration_ms": 542470,
+   "duration_api_ms": 468655,
+   "total_cost_usd": 3.4015930000000005,
+   "usage": {
+    "input_tokens": 96,
+    "cache_creation_input_tokens": 146904,
+    "cache_read_input_tokens": 6095985,
+    "output_tokens": 50339,
+    "output_tokens_details": {
+     "thinking_tokens": 23047
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 146904,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 855,
+      "cache_read_input_tokens": 178460,
+      "cache_creation_input_tokens": 235,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 235
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 96,
+     "outputTokens": 50339,
+     "cacheReadInputTokens": 6095985,
+     "cacheCreationInputTokens": 146904,
+     "webSearchRequests": 0,
+     "costUSD": 3.4015930000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23047,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 146904,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 47,
+   "result_summary": "I committed the 2000-04-21 consolidation as `01ef7a7` but did not push it, because the run brief says the runner pushes after its own checks. Lint and `sleep-audit.py` were both green before the commit, and the audit is still green on the commit itself. All 66 of the week's emails that had notes are now either cited in a domain or people file or listed as a drop; the two drops are m01391 (a bare \"M. Soto\" to-do) and m01444 (a bare email address), recorded in `dataset/drops/sleep-021.tsv`.\n\nThis week's main items:\n- **Organization:** where Research sits (Enron Corp. or Enron N.A.) is unsettled, and the owner hopes to settle it at the 26 Apr allocation meeting with Becky Pham. His direct reports present to Delainey on 24 Apr.\n- **Hiring:** Baggerly (Rice), Hao Peng (CMU), Ruwan Jayasuriya (28 Apr) and Ross McIntyre were interviewed or booked, and Krausz was told to expect a decision in early May. Thomas Knudsen's London interviews stalled over Ahmad's objections, while Houston is keen on him.\n- **People moves:** Dincerler starts 22 May, and Ganjoo and Martin Lin go on loan to Ravi.\n- **Invitations:** the owner declined the Cambridge real options conference and Leppard takes his 6 Jul slot. He also declined the Navigant study.\n\nI created seven people files:\n- **Crossed five noted emails this week:** Thomas Knudsen, Sally Beck, Rudi Zipter, Andrew Fastow and Eugenio Perez.\n- **Missed by earlier runs:** Lou Pai and Fred Lagrasta had already crossed five.\n\nThe 2000-03-19 question on the alias table's format was past due, so I closed it on status quo. Because the audit won't let an inbox file change while it is archived, that log went into `memory/archive/inbox/2000-04-21--mail-2.md`, as last week's run did, rather than the 21 April inbox file the brief named.\n\nOnly two files were above 90% of their size ceiling, `research-group.md` and `clayton-vernon.md`, and I compressed both. The 23 files I touched moved older detail into `memory/archive/*/2000/*-2000-04-w16.md`. The f"
+  },
+  "repair": null
+ }
+}
