@@ -101,6 +101,8 @@ def main():
     p.add_argument("--captures", required=True)
     p.add_argument("--slices", required=True)
     p.add_argument("--slice", type=int, required=True)
+    p.add_argument("--check", action="store_true",
+                   help="write nothing; exit 0 when every message of the slice has a capture record")
     a = p.parse_args()
     if a.slice == 0:
         return unplaced(a.enriched)
@@ -110,12 +112,17 @@ def main():
     msgs = [m for m in (json.loads(ln) for ln in open(a.enriched, encoding="utf-8")) if lo <= m["seq"] <= hi]
     caps = {}
     for ln in open(a.captures, encoding="utf-8"):
-        r = json.loads(ln)
+        try:                      # the capture step may be appending to this file right now
+            r = json.loads(ln)
+        except ValueError:
+            continue
         if lo <= r["seq"] <= hi and not r.get("error"):
             caps[r["seq"]] = r        # the last good record for a message wins
     missing = [m["seq"] for m in msgs if m["seq"] not in caps]
     if missing:
         sys.exit(f"slice {a.slice}: no capture record for {len(missing)} messages, e.g. m{missing[0]:05d}")
+    if a.check:
+        return
 
     INBOX.mkdir(parents=True, exist_ok=True)
     CAPDIR.mkdir(parents=True, exist_ok=True)

@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """date_leaks.py: find dates in the memory core that the simulated clock cannot have produced.
 
-A replayed mailbox lives in the past. A date more than a year after the simulated today, or more
-than a year before the first message, came from the machine's real clock (or was invented), and
-once it lands in the archive it is immutable and poisons later fabrication checks. The year of
-slack on each side is there because legitimate dates do reach ahead: a question's due date is 30
-days out, a conference date in a fact's prose can be months out. (The first version used the
-exact window and stopped batch 2 on a correct due date.) The mechanism's own files
+A replayed mailbox lives in the past. A date more than a year after the simulated today came from
+the machine's real clock (or was invented), and once it lands in the archive it is immutable and
+poisons later fabrication checks. The year of slack is there because legitimate dates do reach
+ahead: a question's due date is 30 days out, a conference date in a fact's prose can be months
+out. Past dates are not limited: mail cites real earlier dates. (The first version used the exact
+window and stopped on a correct due date; the second allowed one year back and stopped on a
+correct 1998 date taken from a message.) The mechanism's own files
 (rules/, tools/, secret/) are exempt: they carry the real dates of their authoring.
 
   python date_leaks.py --today 2000-03-14 --first 1999-12-02
@@ -29,7 +30,10 @@ def main():
     p.add_argument("--today", required=True)
     p.add_argument("--first", required=True)
     a = p.parse_args()
-    lo = (date.fromisoformat(a.first) - timedelta(days=366)).isoformat()
+    # No lower bound worth enforcing: mail cites real past dates (a 1998 appeal Sunday, 1987
+    # price series), and the real clock can only leak forward. The second version allowed one
+    # year back and stopped slice 8 on a correct 1998-04-19 taken from the message itself.
+    lo = "1900-01-01"
     hi = (date.fromisoformat(a.today) + timedelta(days=366)).isoformat()
     hits = []
     for f in sorted(MEM.rglob("*.md")):

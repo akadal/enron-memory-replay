@@ -207,7 +207,7 @@ lint-config:
     root:   [2000, 3200]
     state:  [null, 800]
     todo_open_item_cap: 20
-    index:  [1600, 2000]
+    index:  [3200, 4000]   # raised for this dataset (dataset/DESIGN.md, deviations); shipped value [1600, 2000]
     people_index: [5000, 6500] # people/_index.md — raised for this dataset (dataset/DESIGN.md, deviations); shipped value [2300, 2900]
     topic:  [1600, 2800]
     entity: [1000, 1600]

@@ -13,8 +13,13 @@ substring of the message and drops the note when it is not (the same rule the re
 deployment applies to its automatic session summaries). Every request is reproducible from this
 file, the prompt version and the manifest; every response is stored verbatim with its usage.
 
-  OPENROUTER_API_KEY=... python capture.py --enriched <enriched.jsonl> --out <records.jsonl>
-                                           --first 1 --last 300 [--workers 15]
+The dataset's capture runs Claude Opus 5.5 through the Claude Code CLI on a subscription
+(--backend claude-cli, the default); --backend openrouter calls a per-token API instead and is how
+the model controls were run.
+
+  CLAUDE_CONFIG_DIR=<account> python capture.py --enriched <enriched.jsonl> --out <records.jsonl>
+      --first 1 --last 300 [--workers 6] [--claude <pinned claude executable>] [--effort high]
+  OPENROUTER_API_KEY=... python capture.py --backend openrouter --model anthropic/claude-haiku-5.5 ...
 
 Resumable: messages already in --out are skipped. Stdlib only.
 """
@@ -30,7 +35,8 @@ import time
 import urllib.error
 import urllib.request
 
-MODEL = "anthropic/claude-haiku-5.5"
+MODEL = "claude-opus-5-5"
+BACKEND, CLAUDE, EFFORT, EMPTY_DIR = "claude-cli", "claude", "high", None
 PROMPT_VERSION = "capture-v3"
 URL = "https://openrouter.ai/api/v1/chat/completions"
 CHUNK = 40000          # characters of new text per call; longer messages are split
@@ -110,6 +116,76 @@ def call(key, system, user, timeout=120):
         return json.load(r)
 
 
+class CliError(Exception):
+    pass
+
+
+def call_cli(system, user, timeout=600):
+    """The same request through the Claude Code CLI (a Claude subscription instead of per-token
+    billing): Claude Code's own system prompt is replaced by the capture prompt, no tools are
+    offered, and the call runs in an empty folder so no project instructions load. One turn."""
+    import subprocess
+    cmd = [CLAUDE, "-p", "--model", MODEL, "--system-prompt", system, "--tools", "",
+           "--output-format", "json", "--setting-sources", "project", "--strict-mcp-config",
+           "--no-session-persistence"]
+    if EFFORT:
+        cmd += ["--effort", EFFORT]
+    r = subprocess.run(cmd, input=user, capture_output=True, text=True, encoding="utf-8",
+                       cwd=EMPTY_DIR, timeout=timeout, env={**os.environ, "DISABLE_AUTOUPDATER": "1"})
+    try:
+        d = json.loads(r.stdout)
+    except ValueError:
+        raise CliError(f"exit {r.returncode}: {(r.stderr or r.stdout)[:200]}")
+    if d.get("is_error"):
+        raise CliError(f"{d.get('subtype')}: {str(d.get('result'))[:200]}")
+    return d
+
+
+QUOTA_LOCK = threading.Lock()
+QUOTA_STATE = {"checked": 0.0, "ok": True}
+QUOTA_WAIT_AT = 90
+
+
+def quota_gate():
+    """Subscription windows refill on their own; when the five-hour or weekly meter is at 90% or
+    more, every worker waits instead of running into rate limits. One worker reads the meter at
+    most every two minutes; the rest reuse its reading."""
+    import subprocess
+    while True:
+        with QUOTA_LOCK:
+            if time.time() - QUOTA_STATE["checked"] > 120:
+                q = os.path.join(os.path.dirname(os.path.abspath(__file__)), "quota.py")
+                try:
+                    d = json.loads(subprocess.run([sys.executable, q], capture_output=True, text=True,
+                                                  timeout=60).stdout or "{}")
+                except (ValueError, subprocess.SubprocessError):
+                    d = {}
+                QUOTA_STATE["ok"] = (d.get("five_hour") or 0) < QUOTA_WAIT_AT and (d.get("seven_day") or 0) < QUOTA_WAIT_AT
+                QUOTA_STATE["checked"] = time.time()
+            ok = QUOTA_STATE["ok"]
+        if ok:
+            return
+        time.sleep(300)
+
+
+def ask(key, user):
+    """One model call; returns (content, provider_model, usage, cost_usd, prompt_tokens, completion_tokens)."""
+    if BACKEND == "claude-cli":
+        quota_gate()
+    if BACKEND == "openrouter":
+        r = call(key, SYSTEM, user)
+        u = r.get("usage") or {}
+        return (r["choices"][0]["message"]["content"] or "", r.get("model"), u, float(u.get("cost") or 0),
+                u.get("prompt_tokens", 0), u.get("completion_tokens", 0))
+    d = call_cli(SYSTEM, user)
+    u = d.get("usage") or {}
+    prompt = u.get("input_tokens", 0) + u.get("cache_read_input_tokens", 0) + u.get("cache_creation_input_tokens", 0)
+    return (d.get("result") or "", ",".join((d.get("modelUsage") or {}).keys()) or MODEL,
+            {"usage": u, "modelUsage": d.get("modelUsage"), "num_turns": d.get("num_turns"),
+             "duration_api_ms": d.get("duration_api_ms")},
+            float(d.get("total_cost_usd") or 0), prompt, u.get("output_tokens", 0))
+
+
 RETRY_REASONS = {"quote_only", "empty"}
 RETRY_MIN_CHARS = 500
 
@@ -148,24 +224,24 @@ def capture_attempt(m, key, by_seq, extra):
     for i, ch in enumerate(chunks, 1):
         user = user_prompt(m, ch, i, len(chunks), context if i == 1 else []) + extra
         part = {"request_sha256": hashlib.sha256((SYSTEM + "\x1e" + user).encode("utf-8")).hexdigest()}
-        for attempt in range(4):
+        for attempt in range(5):
             try:
                 t0 = time.time()
-                r = call(key, SYSTEM, user)
+                content, pmodel, usage, cost, ptok, ctok = ask(key, user)
                 part["seconds"] = round(time.time() - t0, 2)
-                content = r["choices"][0]["message"]["content"] or ""
                 part["response"] = content
-                part["provider_model"] = r.get("model")
-                u = r.get("usage") or {}
-                part["usage"] = u
-                rec["prompt_tokens"] += u.get("prompt_tokens", 0)
-                rec["completion_tokens"] += u.get("completion_tokens", 0)
-                rec["cost_usd"] += float(u.get("cost") or 0)
+                part["provider_model"] = pmodel
+                part["usage"] = usage
+                rec["prompt_tokens"] += ptok
+                rec["completion_tokens"] += ctok
+                rec["cost_usd"] += cost
                 d = parse(content)
                 break
-            except (urllib.error.URLError, TimeoutError, ValueError, KeyError, json.JSONDecodeError) as e:
+            except (urllib.error.URLError, TimeoutError, ValueError, KeyError, json.JSONDecodeError,
+                    CliError, OSError) as e:
                 part["error"] = f"{type(e).__name__}: {str(e)[:200]}"
-                time.sleep(2 * (attempt + 1))
+                # a subscription rate limit needs minutes, a network blip seconds
+                time.sleep(60 * (attempt + 1) if BACKEND == "claude-cli" else 2 * (attempt + 1))
         else:
             rec["parts"].append(part)
             rec["error"] = part.get("error")
@@ -200,13 +276,21 @@ def main():
     p.add_argument("--first", type=int, required=True)
     p.add_argument("--last", type=int, required=True)
     p.add_argument("--workers", type=int, default=15)
-    p.add_argument("--model", default=MODEL, help="only for control runs; the dataset uses the default")
+    p.add_argument("--backend", choices=["claude-cli", "openrouter"], default="claude-cli",
+                   help="claude-cli: Claude Code on a subscription (the dataset); openrouter: per-token API")
+    p.add_argument("--model", help="default: claude-opus-5-5 (claude-cli) or anthropic/claude-haiku-5.5 (openrouter)")
+    p.add_argument("--claude", default=os.environ.get("CLAUDE", "claude"), help="Claude Code executable")
+    p.add_argument("--effort", default="high", help="claude-cli only; empty for the CLI default")
     p.add_argument("--seqs", help="file with one seq per line: capture only these (control samples)")
     a = p.parse_args()
-    MODEL = a.model
+    global BACKEND, CLAUDE, EFFORT, EMPTY_DIR
+    BACKEND, CLAUDE, EFFORT = a.backend, a.claude, a.effort
+    MODEL = a.model or ("claude-opus-5-5" if BACKEND == "claude-cli" else "anthropic/claude-haiku-5.5")
     key = os.environ.get("OPENROUTER_API_KEY")
-    if not key:
+    if BACKEND == "openrouter" and not key:
         sys.exit("OPENROUTER_API_KEY is not set")
+    import tempfile
+    EMPTY_DIR = tempfile.mkdtemp(prefix="capture-")
 
     msgs = [json.loads(ln) for ln in open(a.enriched, encoding="utf-8")]
     by_seq = {m["seq"]: m for m in msgs}
