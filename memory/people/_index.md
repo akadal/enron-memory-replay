@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # People and organisations — index
 
@@ -18,4 +18,4 @@ Format, one line each: `name — aliases — domains — path`
 - Shirley Crenshaw — — organization, industry, work — memory/people/shirley-crenshaw.md
 - Stinson Gibner — — organization, industry, work — memory/people/stinson-gibner.md
 - Vasant Shanbhogue — — work, organization — memory/people/vasant-shanbhogue.md
-- Vince Kaminski (owner) — Vince J Kaminski — industry — memory/people/vince-kaminski.md
+- Vince Kaminski (owner) — Vince J Kaminski — industry, organization — memory/people/vince-kaminski.md

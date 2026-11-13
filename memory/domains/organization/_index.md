@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Organization — index
 
@@ -9,20 +9,21 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Candidates: phone Ray Spudeck next week; Sokolov internship; Jimenez lost to SCEM → memory/domains/organization/recruiting.md
-- Staff: leave, PCs, Vincent Tang green card JD sent 2000-01-07 → memory/domains/organization/staff-administration.md
-- Credit article reuse needs RISK's permission (Schilling) → memory/domains/organization/credit-markets-group.md
-- Research group on EB 19th floor (owner EB 1933) → memory/domains/organization/research-group-19th-floor-move.md
+- Owner promoted MD (2000-01-10); Roberts celebration Thu 01-20; bonuses → memory/domains/organization/2000-01-year-end-promotions.md
+- Bob Lee interview 01-24; Marquez starts 01-17; Supatgiat, Bartarya → memory/domains/organization/recruiting.md
+- Huang PC, Dhar H1B, Gibner ECI desk → memory/domains/organization/staff-administration.md
 
 ## Files
 
-- memory/domains/organization/research-group-19th-floor-move.md — 19th-floor move, roster, equipment
-- memory/domains/organization/1999-12-10-rankings.md — rankings sent to Brad McSherry
-- memory/domains/organization/recruiting.md — candidates and temporary staff
-- memory/domains/organization/staff-administration.md — approvals, leave, training, immigration
-- memory/domains/organization/performance-management-process.md — officer levels, PRC reviews
-- memory/domains/organization/1999-12-ena-organizational-changes.md — ENA reorg memo
-- memory/domains/organization/credit-markets-group.md — Credit Markets Group, credit articles
-- memory/domains/organization/1999-12-17-martina-angelova-departure.md — Angelova to Enron Europe
-- memory/domains/organization/development-center-courses.md — Development Center courses
-- memory/domains/organization/research-group-lunches.md — lunch policy for Research on 31
+- memory/domains/organization/2000-01-year-end-promotions.md — Jan 2000 promotions, bonuses
+- memory/domains/organization/research-group-19th-floor-move.md — 19th floor, roster
+- memory/domains/organization/recruiting.md — candidates, temps
+- memory/domains/organization/staff-administration.md — equipment, immigration, leave
+- memory/domains/organization/performance-management-process.md — officer levels, PRC
+- memory/domains/organization/1999-12-10-rankings.md — rankings
+- memory/domains/organization/1999-12-ena-organizational-changes.md — ENA reorg
+- memory/domains/organization/credit-markets-group.md — credit articles
+- memory/domains/organization/1999-12-17-martina-angelova-departure.md — Angelova
+- memory/domains/organization/development-center-courses.md — courses
+- memory/domains/organization/research-group-lunches.md — lunches on 31
+- memory/domains/organization/cuneo-matter.md — Cuneo case dismissed

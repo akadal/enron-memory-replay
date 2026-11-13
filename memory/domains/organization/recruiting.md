@@ -3,18 +3,20 @@ id: recruiting
 type: topic
 domain: organization
 title: "Candidates and temporary staff in the owner's pipeline"
-summary: "Dec 1999-Jan 2000: Van Ngo winter break; Hoshino for Hirl (Japan); MacMinn; Saksena, Andy Knight resumes; Sam $30K; Jason Sokolov internship recommended; Ray Spudeck (insurance) to phone; Craig Jimenez lost to SCEM."
+summary: "Dec 1999-Jan 2000: Bob Lee interview 24 Jan (manager); Sam Smith accepted offer; Chonawee Supatgiat and Amit Bartarya proposed; Jose Marquez starts 17 Jan; Ray Spudeck to phone; Craig Jimenez lost to SCEM; Sokolov internship."
 status: active
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Candidates and temporary staff in the owner's pipeline
 
-- [1999-12-13] Van Ngo (Rice, ex-Enron) asked to work over winter break, 27 Dec–14 Jan, via ProStaff; forwarded by [[shirley-crenshaw]]. ←[[m00013]]
-- [1999-12-13] Joseph P Hirl (Sydney/Tokyo) wants help evaluating a merchant business in Japan. ←[[m00012]] [1999-12-17] Owner sent him Taiichi Hoshino's profile (Stanford PhD candidate, Duffie's assistant, ex-McKinsey Tokyo): "A very bright fellow", "I could not assess his commercial skills" (1999-12-22). ←[[m00066]] ←[[m00089]]
-- [1999-12-16] Owner sent himself Anurag Saksena's resume (GMAC-RFC). ←[[m00038]]
-- [1999-12-17] To applicant Andy Knight: "I shall get back to you after Xmas." ←[[m00049]]
-- [1999-12-22] Richard MacMinn (Journal of Risk and Insurance, UT Austin) may want the Enron position; meet after New Year. ←[[m00097]]
-- [1999-12-30] Mike A Roberts: Sam needs $30K to leave ProStaff; owner: "Let me talk to McBride about the comp levels." ←[[m00120]]
-- [2000-01-04] Jason Sokolov (part-time for Mike Roberts) petitioned for an Analyst & Associate summer internship; owner recommended him to Celeste Roberts: "We are very happy with his performance"; [2000-01-05] forwarded to Lynn Dunphy. ←[[m00139]] ←[[m00142]] ←[[m00156]]
-- [2000-01-06] Ray Spudeck (NAIC Sr. Research Associate, MacMinn's referral; quantitative and insurance background, not an actuary) for the insurance group. [2000-01-07] [[vasant-shanbhogue]] asks the owner to phone him next week ((816) 889-4417), then possibly interviews. ←[[m00165]] ←[[m00178]]
-- [2000-01-07] Craig Jimenez took an amended SCEM offer (more pay, rotation) over [[stinson-gibner]]'s group; Atlanta in March. Owner to Greg Whalley: "One of many data points I have the competition is paying more." ←[[m00176]]
+Older leads (Dec 1999): Van Ngo winter work via ProStaff; Taiichi Hoshino profile sent to Joseph Hirl for Japan ("A very bright fellow") ←[[m00012]]; Anurag Saksena resume; Andy Knight; Richard MacMinn (UT Austin). ←[[m00013]] ←[[m00066]] ←[[m00089]] ←[[m00038]] ←[[m00049]] ←[[m00097]]
+
+- [2000-01-10] Bob Lee (bizserve.com): interview Mon 24 Jan, manager level ("Yes, manager."); panel: owner, [[stinson-gibner]], Zimin Lu, Paulo Issler, [[vasant-shanbhogue]], [[pinnamaneni-krishnarao]], Grant Masson; Elizabeth Grant (HR) arranges travel. ←[[m00206]] ←[[m00207]] ←[[m00215]]
+- [1999-12-30] Mike Roberts: Sam needs $30K to leave ProStaff ←[[m00120]]; [2000-01-11] William (Sam) Smith accepted Enron's offer and asked for the hire date. ←[[m00300]]
+- [2000-01-11] Gibner proposed Azurix's Chonawee Supatgiat (OR, good programmer, maybe weak communicator; recommended by Hector Campos) for ENA support: "we seem to be unable to attract anyone in the outside market right now". ←[[m00313]]
+- [2000-01-11] Owner: "Constrained" in "Constrained Technical" means "from a tight labor pool". ←[[m00254]]
+- [2000-01-12] Anjam Ahmad nominated internal candidate Amit Bartarya for the VaR/Credit role (to owner and Dale Surbey). ←[[m00335]]
+- [2000-01-13] New employee Jose Marquez starts 2000-01-17 (EB3130C, EB1968); Kevin Moore arranging phones. ←[[m00339]]
+- [2000-01-04] Jason Sokolov (part-time for Mike Roberts): owner recommended him for an Analyst & Associate summer internship; forwarded to Lynn Dunphy. ←[[m00139]] ←[[m00142]] ←[[m00156]]
+- [2000-01-07] Ray Spudeck (NAIC, insurance background): Vasant asks the owner to phone him ((816) 889-4417). ←[[m00165]] ←[[m00178]]
+- [2000-01-07] Craig Jimenez took an amended SCEM offer over Gibner's group; owner to Greg Whalley: "One of many data points I have the competition is paying more." ←[[m00176]]
