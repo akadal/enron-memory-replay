@@ -1,0 +1,56 @@
+id	durable	status	detail
+m00426	yes	kept	domains/industry/2000-western-power-outlook.md
+m00427	yes	kept	domains/work/eipl-india-deal-mark-to-market.md
+m00428	yes	kept	domains/organization/recruiting.md
+m00429	yes	kept	domains/work/eipl-india-deal-mark-to-market.md
+m00430	yes	kept	domains/industry/conferences-2000.md
+m00431	yes	kept	domains/work/eipl-india-deal-mark-to-market.md
+m00432	yes	kept	domains/organization/recruiting.md
+m00433	no	not_durable	logistics
+m00434	yes	kept	domains/work/outside-inquiries.md
+m00435	yes	kept	domains/industry/conferences-2000.md
+m00436	yes	kept	domains/industry/events-and-seminars-2000.md
+m00437	no	not_durable	quote_only
+m00438	yes	kept	domains/industry/conferences-2000.md domains/work/standing-and-scheduled-meetings.md people/vince-kaminski.md
+m00439	yes	dropped	no_owner_content: "Shipping on Internet" article sent to Fowler and Horn, body not included
+m00440	no	not_durable	logistics
+m00441	yes	kept	domains/work/standing-and-scheduled-meetings.md
+m00442	yes	kept	domains/industry/aiesec-houston.md
+m00443	yes	kept	domains/work/outside-inquiries.md
+m00444	no	not_durable	quote_only
+m00445	yes	kept	domains/organization/2000-01-25-hannon-global-risk-management.md
+m00446	yes	kept	domains/work/research-credit-model-convergence.md
+m00447	yes	kept	domains/organization/recruiting.md
+m00448	yes	kept	domains/industry/events-and-seminars-2000.md
+m00449	yes	kept	domains/industry/events-and-seminars-2000.md
+m00450	yes	dropped	logistics: Risk Management book order confirmation
+m00451	yes	kept	domains/work/standing-and-scheduled-meetings.md
+m00452	yes	kept	domains/organization/staff-administration.md
+m00453	yes	kept	domains/work/bandwidth-pricing-research.md people/pinnamaneni-krishnarao.md people/stinson-gibner.md
+m00454	no	not_durable	logistics
+m00455	no	not_durable	bulk
+m00456	yes	kept	domains/organization/2000-01-grms-resource-dispute.md
+m00457	yes	kept	domains/work/clewlow-strickland-energy-book.md
+m00458	yes	kept	domains/work/bandwidth-pricing-research.md
+m00459	yes	kept	domains/work/promigas-tvcable-call-option.md
+m00460	yes	kept	domains/personal/2000-summer-michal-houston-work.md
+m00461	yes	kept	domains/industry/aiesec-houston.md people/vince-kaminski.md
+m00462	no	not_durable	bulk
+m00463	yes	kept	domains/organization/2000-01-grms-resource-dispute.md
+m00464	no	not_durable	quote_only
+m00465	no	not_durable	logistics
+m00466	no	not_durable	logistics
+m00467	no	not_durable	quote_only
+m00468	yes	kept	domains/work/eipl-india-deal-mark-to-market.md people/pinnamaneni-krishnarao.md
+m00469	no	not_durable	quote_only
+m00470	yes	kept	domains/work/promigas-tvcable-call-option.md
+m00471	yes	kept	domains/organization/recruiting.md
+m00472	no	not_durable	logistics
+m00473	no	not_durable	logistics
+m00474	yes	kept	domains/organization/recruiting.md people/stinson-gibner.md
+m00475	yes	kept	domains/organization/2000-01-grms-resource-dispute.md
+m00476	yes	kept	domains/work/eipl-india-deal-mark-to-market.md
+m00477	no	not_durable	logistics
+m00478	yes	kept	domains/work/clewlow-strickland-energy-book.md
+m00479	yes	kept	domains/work/clewlow-strickland-energy-book.md
+m00480	yes	kept	domains/work/clewlow-strickland-energy-book.md
