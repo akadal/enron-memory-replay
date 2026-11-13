@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-04-07
+updated: 2000-04-14
 ---
 # People and organisations — index
 
@@ -17,6 +17,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Anthony Mends — Tony Mends — anthony-mends
 - April Hodgson — April Hodgeson, April Hodges — april-hodgson
 - Benjamin Parsons — Ben Parsons — benjamin-parsons
+- Beth Perlman — — beth-perlman
 - Brad McSherry — — brad-mcsherry
 - Brad Romine — Bradley Romine — brad-romine
 - Bryan Seyfried — — bryan-seyfried
@@ -103,6 +104,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Oliver Bennett — — oliver-bennett
 - Osman Sezgen — — osman-sezgen
 - Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
+- Paula Corey — — paula-corey
 - Paulo Issler — — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
 - Peter Tufano — — peter-tufano
@@ -134,6 +136,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Trisha Tlapek — — trisha-tlapek
 - Vadim Pokhlebkin — — vadim-pokhlebkin
 - Vasant Shanbhogue — — vasant-shanbhogue
+- Vicky Windsor — — vicky-windsor
 - Vincent Tang — — vincent-tang
 - William Bradford — William S Bradford — william-bradford
 - William Smith — Sam Smith — william-smith

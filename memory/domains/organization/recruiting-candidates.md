@@ -3,15 +3,17 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Older leads archived (Polish MBAs too); Greene wanted in Zimin Lu's sub-group; Krausz, Marwaha; Romine not coming 15 Mar; Parid Hoxha (Texas A&M) waits for an answer (Mar-Apr 2000)."
+summary: "Older leads archived (Polish MBAs, Greene, Romine too); Parid Hoxha (Texas A&M) waits for an answer; Jorge Valenzuela (Pitt, unit commitment); Taube (Global Technology); UT's Zeigham wants full-time in ~6 months; Mary Sue Rose meets the owner 17 Apr; BS/MS profiles to Celeste Roberts (Apr 2000)."
 status: active
-updated: 2000-04-07
+updated: 2000-04-14
 ---
 # Candidates for the owner's group
 
-Hires: memory/domains/organization/staff-and-recruiting.md. Referrals and outside evaluations: memory/domains/organization/candidate-referrals-2000.md. HR: Elizabeth Grant (assistant Felicia Solis). ←[[m00357]]
+Hires: memory/domains/organization/staff-and-recruiting.md. Referrals: memory/domains/organization/candidate-referrals-2000.md. HR: Elizabeth Grant (assistant Felicia Solis). ←[[m00357]] Older leads (Jan-Mar: Polish MBAs, Krausz, Marwaha, Greene, Romine and others) ←[[recruiting-candidates-2000-04-w14]] ←[[recruiting-candidates-2000-04-w15]] ←[[m00715]] ←[[m00940]] ←[[m00995]]
 
-- [2000-01-25] Older leads (Jan-Mar: Cunningham, Saksena, Halliburton, Polish MBAs, Krausz from 28 Mar, Marwaha) ←[[recruiting-candidates-2000-01]] ←[[recruiting-candidates-2000-01-w04]] ←[[recruiting-candidates-2000-02]] ←[[recruiting-candidates-2000-02-w06]] ←[[recruiting-candidates-2000-02-w07]] ←[[recruiting-candidates-2000-02-w08]] ←[[recruiting-candidates-2000-03-w09]] ←[[recruiting-candidates-2000-03-w10]] ←[[recruiting-candidates-2000-03-w11]] ←[[recruiting-candidates-2000-04-w14]] ←[[m00313]] ←[[m00432]] ←[[m00532]] ←[[m00560]] ←[[m00568]] ←[[m00570]] ←[[m00573]] ←[[m00591]] ←[[m00636]] ←[[m00665]] ←[[m00702]] ←[[m00703]] ←[[m00612]] ←[[m00624]] ←[[m00631]] ←[[m00659]] ←[[m00686]] ←[[m00691]] ←[[m00811]] ←[[m00864]] ←[[m00872]] ←[[m00910]] ←[[m00889]] ←[[m00890]] ←[[m00834]]
-- [2000-03-12] Rodney Greene interviewed; Zimin Lu wants him in his pricing sub-group. ←[[m00715]] ←[[m00719]] ←[[m00799]] ←[[m00805]] ←[[m00825]] ←[[m00826]] ←[[m00836]] ←[[m00837]] ←[[m00955]] ←[[m00957]]
-- [2000-03-09] Brad Romine skips his 15 Mar start (dot-com); "Either Brad or a stipend refund check should show up". ←[[m00940]] ←[[m00995]]
 - [2000-04-03] Parid Hoxha (Texas A&M, graduates early May; met the group via Sally Beck) wants an entry-level job and holds a Bell Atlantic offer; owner: "I shall get back to you early next week." ←[[m01206]]
+- [2000-04-10] Jorge Valenzuela (Pitt Ph.D., Dec 1999; unit commitment with market trading; via Samer Takriti): Gibner asks whether to interview him. ←[[m01270]]
+- [2000-04-11] Taube (Enron Global Technology, via Shalesh Ganjoo) to Gibner: "Another possible candidate." ←[[m01283]]
+- [2000-04-11] Zeigham (UT doctoral student met at the Texas Finance Festival; telecom) prefers full-time employment after his dissertation, ~6 months out, to a summer internship; owner: "Are you interested exclusively in full employment?" ←[[m01291]] ←[[m01292]] ←[[m01295]] ←[[m01296]]
+- [2000-04-13] Gibner sent Celeste Roberts profiles for the BS/MS-level hires; Sezgen and Krishnarao offer to interview; Gibner covers Caltech and Rice. ←[[m01331]]
+- [2000-04-14] Mary Sue Rose (information specialist, 14 years; Info Central closed), sent by Maureen Raymond, meets the owner Mon 17 Apr, 1 pm, about Research roles. ←[[m01350]]
