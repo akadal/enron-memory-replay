@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-01-23
+updated: 2000-01-30
 ---
 # People and organisations — index
 
@@ -16,6 +16,7 @@ Format, one line each: `name — aliases — domains — path`
 - Amitava Dhar — — organization — memory/people/amitava-dhar.md
 - Anjam Ahmad — — work, organization — memory/people/anjam-ahmad.md
 - Benjamin Parsons — Ben Parsons — organization, work, industry — memory/people/benjamin-parsons.md
+- Brad McSherry — — organization — memory/people/brad-mcsherry.md
 - Bryan Seyfried — — work, organization — memory/people/bryan-seyfried.md
 - Chris Hilgert — — organization, work — memory/people/chris-hilgert.md
 - Clayton Vernon — — work, organization — memory/people/clayton-vernon.md
@@ -34,11 +35,14 @@ Format, one line each: `name — aliases — domains — path`
 - Maureen Raymond — — organization — memory/people/maureen-raymond.md
 - Michael Sergeev — — organization — memory/people/michael-sergeev.md
 - Mike Roberts — Mike A Roberts — organization, work — memory/people/mike-roberts.md
+- Oliver Bennett — — industry — memory/people/oliver-bennett.md
 - Paulo Issler — — organization, work — memory/people/paulo-issler.md
 - Pinnamaneni Krishnarao — Krishna Krishnarao — organization, work — memory/people/pinnamaneni-krishnarao.md
 - Ravi Thuraisingham — — organization, work — memory/people/ravi-thuraisingham.md
+- Rick Buy — — work, organization — memory/people/rick-buy.md
 - Robert Lee — Bob Lee — organization, work — memory/people/robert-lee.md
 - Roman Zadorozhny — — organization — memory/people/roman-zadorozhny.md
+- Samer Takriti — — organization, work — memory/people/samer-takriti.md
 - Sandeep Kohli — — work, organization — memory/people/sandeep-kohli.md
 - Shirley Crenshaw — — organization, work, industry — memory/people/shirley-crenshaw.md
 - Stinson Gibner — — organization, industry, work — memory/people/stinson-gibner.md

@@ -3,15 +3,19 @@ id: correspondence
 type: topic
 domain: personal
 title: "Owner's private contacts and views"
-summary: "Personal contacts and opinions from the owner's mail: Stiglitz/IMF view, Maruti More, flu that cost a Burchett class, Tony Mends at Azurix, Beth Perlman dinner club, Darlene Norris (Dec 1999-Jan 2000)."
+summary: "Personal contacts and opinions from the owner's mail: Stiglitz/IMF view, Maruti More lunch, Burchett, Tony Mends, Beth Perlman, Darlene Norris, Marek (fuel cells, opera), Adam T. in Gdansk (Dec 1999-Jan 2000)."
 status: active
-updated: 2000-01-15
+updated: 2000-01-30
 ---
 # Owner's private contacts and views
 
-- [1999-12-17] Owner forwarded Pavel Zadorozhny an article on Stiglitz leaving the World Bank, as commentary on IMF policy toward Russia: "Stiglitz is a very bright person and I agree completely with his points." "Privately, he is even more outspoken." ←[[m00057]]
-- [1999-12-17] Maruti More (more@insync.net, 713-831-6209; lunched with the owner 2 Jul 1999) wants another lunch; owner, off a few days around Xmas, will call him at the end of December. ←[[m00069]]
-- [1999-12-30] Owner missed Shannon Burchett's class (Risk Limited Corporation, Dallas): "I had a very bad case of flu with some additional complications." He offered to present the same topic another time. ←[[m00108]]
-- [2000-01-06] Tony (Anthony Mends), just promoted to VP Knowledge Management at Azurix, needs to see the owner soon; owner: "Let's meet for lunch when you get back to the office." On 11 Jan he proposed celebrating the owner's promotion. ←[[m00168]] ←[[m00312]]
+Detail ←[[correspondence-2000-01]]
+
+- [1999-12-17] On Stiglitz leaving the World Bank (IMF policy on Russia), to Pavel Zadorozhny: "Stiglitz is a very bright person and I agree completely with his points." ←[[m00057]]
+- [2000-01-25] Maruti More (lunched with the owner Jul 1999), now out of American General, wants lunch; owner, travelling, offered next week: "Please give me a call Monday at 713 853 3848." ←[[m00069]] ←[[m00434]]
+- [1999-12-30] A bad flu with complications made the owner miss Shannon Burchett's class (Risk Limited, Dallas). ←[[m00108]]
+- [2000-01-06] Tony (Anthony Mends), VP Knowledge Management at Azurix: lunch when he is back. ←[[m00168]] ←[[m00312]]
 - [2000-01-11] Beth Perlman (London) wants to restart their dinner club; owner: "I shall be in London in February." ←[[m00245]] ←[[m00258]]
-- [2000-01-15] Darlene Norris (knows the owner from the Woodlands bus, now drives) expects a baby at the end of February; owner offered help "(driving you home, delivering things from the office". ←[[m00340]] ←[[m00348]]
+- [2000-01-15] Darlene Norris (Woodlands bus) expects a baby end of Feb; owner offered help. ←[[m00340]] ←[[m00348]]
+- [2000-01-25] Marek (BJ Services) sent a fuel-cell file; owner owes him an article, asked about "Elisir d'Amore" and replies to his AOL; "I shall be in Portland and San Francisco through the weekend." ←[[m00441]]
+- [2000-01-28] Adam T., a family friend in Gdansk, asked whether Michal and his fiancée (medical students) could find summer work in Houston; owner forwarded it to his AOL. ←[[m00460]]

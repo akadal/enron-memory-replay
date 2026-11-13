@@ -5,7 +5,7 @@ entity: person
 name: "Ravi Thuraisingham"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-23
+updated: 2000-01-30
 ---
 # Ravi Thuraisingham
 
@@ -18,4 +18,4 @@ Research Group member at manager level; works with Enron Communications. ←[[m0
 
 ## Context: work
 
-- [2000-01-18] Enron Communications contact; Network Engineering org chart, Stanford Bambos meeting → memory/domains/work/broadband-services.md ←[[m00375]] ←[[m00400]]
+- [2000-01-18] Enron Communications contact: org chart, Bambos meeting, Sycamore meetings in Chelmsford → memory/domains/work/broadband-services.md ←[[m00375]] ←[[m00400]] ←[[m00453]] ←[[m00458]]
