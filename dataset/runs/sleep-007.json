@@ -1,0 +1,180 @@
+{
+ "slice": 7,
+ "simulated_today": "2000-01-15",
+ "feed": {
+  "slice": 7,
+  "iso_week": "2000-W02",
+  "first_seq": 199,
+  "last_seq": 349,
+  "messages": 151,
+  "durable": 101,
+  "first_date": "2000-01-10 03:13",
+  "last_date": "2000-01-15 08:18",
+  "today": "2000-01-15",
+  "inbox_files": [
+   "2000-01-10--mail.md",
+   "2000-01-11--mail.md",
+   "2000-01-12--mail.md",
+   "2000-01-13--mail.md",
+   "2000-01-14--mail.md",
+   "2000-01-15--mail.md"
+  ],
+  "inbox_chars": 55739,
+  "l2_chars": 191117
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 652,
+ "quota_before": {},
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 7,
+  "messages": 151,
+  "durable": 101,
+  "kept": 64,
+  "kept_rate_excluding_redundant": 0.771,
+  "drop_classes": {
+   "other": 1,
+   "redundant": 18,
+   "social": 18
+  },
+  "dropped": 37,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 200,
+  "fact_lines_with_source": 240,
+  "dated": 240,
+  "date_matches_source": 239,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.91,
+   0.62,
+   0.64,
+   0.21,
+   0.2,
+   1.0,
+   0.55,
+   0.7,
+   0.77,
+   0.92
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 642
+  },
+  "questions": {
+   "files": 1,
+   "chars": 591
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 45,
+   "chars": 59637
+  },
+  "people": {
+   "files": 31,
+   "chars": 24061
+  },
+  "archive_inbox": {
+   "files": 31,
+   "chars": 168858
+  },
+  "archive_mail": {
+   "files": 375,
+   "chars": 796848
+  },
+  "archive_other": {
+   "files": 5,
+   "chars": 4088
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 74,
+   "duration_ms": 650503,
+   "duration_api_ms": 577299,
+   "total_cost_usd": 4.207549,
+   "usage": {
+    "input_tokens": 96,
+    "cache_creation_input_tokens": 174682,
+    "cache_read_input_tokens": 7264945,
+    "output_tokens": 67836,
+    "output_tokens_details": {
+     "thinking_tokens": 29408
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 174682,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 863,
+      "cache_read_input_tokens": 206062,
+      "cache_creation_input_tokens": 411,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 411
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 96,
+     "outputTokens": 67836,
+     "cacheReadInputTokens": 7264945,
+     "cacheCreationInputTokens": 174682,
+     "webSearchRequests": 0,
+     "costUSD": 4.207549,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 29408,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 174682,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 73,
+   "result_summary": "I consolidated the week of 2000-01-10 to 01-15 (151 messages, 101 with notes) and committed it to `main` as `efaef62`. Lint and `sleep-audit` both passed, before the commit and again on it, and the ledger check found no missing messages. I did not push: the run instructions say the runner pushes after its own checks, so I followed that over the closing \"git push\" line. The untracked `dataset/runs/sleep-007.transcript.jsonl` belongs to the runner and I left it alone. There were no sleep-task or feedback blocks in the inbox. The main event this week is the owner's promotion to Managing Director (about 10 Jan). It now lives in a new `promotions-2000.md` together with Mike Roberts' promotion, the ENA and London promotion lists, and the bonus proposal to Whalley (bonus amounts left out, as AGENTS.md says for other people's personal data). I split candidates out of `staff-and-recruiting.md` into a new `recruiting-candidates.md`: Bob Lee's interview on 24 Jan at manager level, Supatgiat, Bartarya and Super Saturday. Hires, Gibner's part-time move to ECI and Dhar's visa extension stayed in the old file. The owner's office changed to EB 1962 when rooms were renumbered; the old room line went to History and I updated the entity files that carried old room numbers. Other new files cover the declined Infocast and IIR talks, the household and AOL billing details, the Cuneo case dismissal, software licences (Henwood renewal, Crystal Ball) and four work topics: the basis report, China pipeline real options, Zimin Lu's crude oil option model, and Chicago's request for Houston structuring help. Ten people reached five messages with notes and now have entity files: Tamarchenko, Sergeev, Raymond, Issler, Huang, Dhar, Zadorozhny, Thuraisingham, William (Sam) Smith and Lin. To keep over-target files from growing past what the audit allows, I moved older detail from `outside-requests.md` and `research-group.md` to `memory/archive/` and shortened Gibner's entity file. I kept 64 messages a"
+  },
+  "repair": null
+ }
+}

@@ -1,0 +1,152 @@
+id	durable	status	detail
+m00199	no	not_durable	logistics
+m00200	no	not_durable	logistics
+m00201	yes	kept	domains/organization/research-group.md people/alex-huang.md people/amitava-dhar.md people/grant-masson.md people/martin-lin.md people/maureen-raymond.md people/michael-sergeev.md people/mike-roberts.md people/paulo-issler.md people/pinnamaneni-krishnarao.md people/ravi-thuraisingham.md people/roman-zadorozhny.md people/shirley-crenshaw.md people/stinson-gibner.md people/tanya-tamarchenko.md people/vasant-shanbhogue.md people/william-smith.md people/zimin-lu.md
+m00202	no	not_durable	logistics
+m00203	no	not_durable	logistics
+m00204	no	not_durable	bulk
+m00205	yes	kept	domains/industry/declined-invitations-2000.md
+m00206	yes	kept	domains/organization/recruiting-candidates.md people/grant-masson.md people/paulo-issler.md people/stinson-gibner.md
+m00207	yes	kept	domains/organization/recruiting-candidates.md
+m00208	yes	kept	domains/industry/declined-invitations-2000.md
+m00209	yes	kept	domains/organization/software-licenses.md people/amitava-dhar.md
+m00210	yes	kept	domains/work/basis-report.md people/grant-masson.md
+m00211	yes	dropped	other: ESAI Flow of Funds vendor newsletter forwarded FYI to Roberts and Tlapek
+m00212	yes	kept	domains/work/model-risk-audit.md
+m00213	yes	kept	domains/work/vega-var.md people/grant-masson.md people/tanya-tamarchenko.md people/vincent-tang.md
+m00214	yes	kept	domains/organization/promotions-2000.md people/amitava-dhar.md people/greg-whalley.md people/maureen-raymond.md people/mike-roberts.md people/pinnamaneni-krishnarao.md people/ravi-thuraisingham.md people/tanya-tamarchenko.md people/zimin-lu.md
+m00215	yes	kept	domains/organization/recruiting-candidates.md
+m00216	yes	kept	domains/work/outside-requests.md
+m00217	yes	kept	domains/organization/staff-and-recruiting.md people/lyn-malina.md people/stinson-gibner.md
+m00218	yes	kept	domains/personal/household.md
+m00219	no	not_durable	pleasantry
+m00220	yes	dropped	social: Bani Arora congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00221	yes	dropped	social: Mark Lay congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00222	yes	dropped	social: Trang Dinh congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00223	no	not_durable	pleasantry
+m00224	yes	kept	domains/organization/staff-and-recruiting.md people/lyn-malina.md people/stinson-gibner.md
+m00225	yes	dropped	social: Jordan Mintz congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00226	yes	kept	domains/organization/promotions-2000.md
+m00227	yes	dropped	social: Ding Yuan congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00228	yes	kept	domains/personal/household.md
+m00229	yes	kept	domains/personal/household.md
+m00230	yes	kept	domains/personal/household.md
+m00231	yes	kept	domains/organization/promotions-2000.md people/kevin-moore.md people/mike-roberts.md
+m00232	no	not_durable	logistics
+m00233	yes	kept	domains/organization/promotions-2000.md
+m00234	yes	dropped	social: Doug Leach congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00235	no	not_durable	pleasantry
+m00236	yes	kept	domains/organization/promotions-2000.md
+m00237	yes	kept	domains/personal/household.md
+m00238	yes	dropped	redundant: owner thanks Ding Yuan for promotion congratulations; promotion kept in promotions-2000
+m00239	yes	kept	domains/organization/promotions-2000.md people/mike-roberts.md
+m00240	no	not_durable	pleasantry
+m00241	yes	dropped	redundant: owner thanks Doug Leach for promotion congratulations; promotion kept in promotions-2000
+m00242	no	not_durable	logistics
+m00243	yes	kept	domains/organization/promotions-2000.md
+m00244	yes	dropped	redundant: Rick Shapiro reply quoting the owner congratulation already kept from m00243
+m00245	yes	kept	domains/organization/promotions-2000.md domains/personal/correspondence.md
+m00246	yes	dropped	social: Bill Cordes congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00247	yes	dropped	social: Clayton Vernon congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00248	yes	dropped	social: Julie A Gomez congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00249	yes	dropped	social: Sherry J Graham congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00250	yes	dropped	social: Robert Saltiel congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00251	yes	dropped	social: Eklavya Sareen congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00252	no	not_durable	pleasantry
+m00253	yes	dropped	redundant: owner thanks Sherry J Graham for promotion congratulations; promotion kept in promotions-2000
+m00254	yes	kept	domains/organization/promotions-2000.md
+m00255	yes	dropped	redundant: owner thanks Bill Cordes for promotion congratulations; promotion kept in promotions-2000
+m00256	yes	dropped	redundant: owner thanks Robert Saltiel for promotion congratulations; promotion kept in promotions-2000
+m00257	yes	dropped	redundant: owner thanks Eklavya Sareen for promotion congratulations; promotion kept in promotions-2000
+m00258	yes	kept	domains/personal/correspondence.md
+m00259	yes	dropped	redundant: owner thanks Zhiyong Wei for promotion congratulations; promotion kept in promotions-2000
+m00260	yes	dropped	redundant: owner thanks Jordan Mintz for promotion congratulations; promotion kept in promotions-2000
+m00261	yes	dropped	redundant: owner thanks Trang Dinh for promotion congratulations; promotion kept in promotions-2000
+m00262	no	not_durable	pleasantry
+m00263	yes	dropped	redundant: owner thanks Mark Lay for promotion congratulations; promotion kept in promotions-2000
+m00264	yes	dropped	redundant: owner thanks Bani Arora for promotion congratulations; promotion kept in promotions-2000
+m00265	no	not_durable	pleasantry
+m00266	no	not_durable	pleasantry
+m00267	no	not_durable	pleasantry
+m00268	no	not_durable	pleasantry
+m00269	no	not_durable	pleasantry
+m00270	no	not_durable	pleasantry
+m00271	yes	kept	domains/work/outside-requests.md
+m00272	no	not_durable	pleasantry
+m00273	no	not_durable	pleasantry
+m00274	no	not_durable	pleasantry
+m00275	no	not_durable	pleasantry
+m00276	no	not_durable	pleasantry
+m00277	no	not_durable	pleasantry
+m00278	no	not_durable	pleasantry
+m00279	no	not_durable	pleasantry
+m00280	no	not_durable	pleasantry
+m00281	no	not_durable	pleasantry
+m00282	no	not_durable	pleasantry
+m00283	no	not_durable	pleasantry
+m00284	no	not_durable	pleasantry
+m00285	no	not_durable	pleasantry
+m00286	no	not_durable	pleasantry
+m00287	no	not_durable	pleasantry
+m00288	yes	kept	domains/organization/promotions-2000.md
+m00289	no	not_durable	pleasantry
+m00290	yes	kept	domains/organization/promotions-2000.md
+m00291	yes	kept	domains/organization/promotions-2000.md
+m00292	yes	dropped	social: Barbara G Dillard congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00293	no	not_durable	automated
+m00294	yes	kept	domains/organization/office-equipment.md people/william-smith.md
+m00295	yes	dropped	redundant: owner thanks Barbara G Dillard for promotion congratulations; promotion kept in promotions-2000
+m00296	yes	dropped	social: Lucy M Marshall congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00297	yes	kept	domains/organization/promotions-2000.md
+m00298	no	not_durable	pleasantry
+m00299	yes	dropped	redundant: owner thanks Lucy M Marshall for promotion congratulations; promotion kept in promotions-2000
+m00300	yes	kept	domains/organization/staff-and-recruiting.md people/william-smith.md
+m00301	no	not_durable	pleasantry
+m00302	no	not_durable	logistics
+m00303	yes	dropped	social: Bob Hermann via Bobbie Moody congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00304	yes	kept	domains/personal/household.md
+m00305	yes	kept	domains/organization/promotions-2000.md
+m00306	no	not_durable	logistics
+m00307	yes	dropped	social: Donna Dye congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00308	no	not_durable	pleasantry
+m00309	yes	kept	domains/organization/promotions-2000.md
+m00310	no	not_durable	pleasantry
+m00311	no	not_durable	pleasantry
+m00312	yes	kept	domains/personal/correspondence.md
+m00313	yes	kept	domains/organization/recruiting-candidates.md people/stinson-gibner.md
+m00314	yes	kept	domains/organization/promotions-2000.md
+m00315	yes	dropped	redundant: owner thanks Jesse E Neyman for promotion congratulations; promotion kept in promotions-2000
+m00316	yes	kept	domains/work/internal-meetings.md
+m00317	yes	dropped	redundant: owner thanks Donna Dye for promotion congratulations; promotion kept in promotions-2000
+m00318	no	not_durable	pleasantry
+m00319	yes	kept	domains/organization/recruiting-candidates.md
+m00320	yes	kept	domains/organization/promotions-2000.md
+m00321	yes	kept	domains/organization/promotions-2000.md
+m00322	yes	kept	domains/organization/promotions-2000.md
+m00323	yes	kept	domains/organization/office-equipment.md
+m00324	no	not_durable	quote_only
+m00325	no	not_durable	logistics
+m00326	yes	kept	domains/organization/promotions-2000.md
+m00327	yes	dropped	social: Neil Hong congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00328	yes	kept	domains/organization/software-licenses.md people/grant-masson.md
+m00329	yes	dropped	social: Alan Aronowitz congratulates the owner on the MD promotion; promotion kept from m00226/m00233
+m00330	yes	dropped	redundant: owner thanks Alan Aronowitz for promotion congratulations; promotion kept in promotions-2000
+m00331	yes	kept	domains/industry/declined-invitations-2000.md
+m00332	yes	kept	domains/industry/declined-invitations-2000.md
+m00333	yes	kept	domains/work/china-pipeline-real-options.md people/zimin-lu.md
+m00334	yes	kept	domains/organization/promotions-2000.md
+m00335	yes	kept	domains/organization/recruiting-candidates.md
+m00336	no	not_durable	pleasantry
+m00337	yes	kept	domains/organization/promotions-2000.md
+m00338	yes	kept	domains/work/crude-oil-digital-option.md people/zimin-lu.md
+m00339	yes	kept	domains/organization/staff-and-recruiting.md people/kevin-moore.md
+m00340	yes	kept	domains/personal/correspondence.md
+m00341	yes	kept	domains/organization/staff-and-recruiting.md people/amitava-dhar.md
+m00342	yes	kept	domains/work/chicago-office-support.md
+m00343	yes	kept	domains/organization/research-group.md people/alex-huang.md people/martin-lin.md people/maureen-raymond.md people/michael-sergeev.md people/roman-zadorozhny.md
+m00344	no	not_durable	automated
+m00345	yes	kept	domains/organization/legal-matters.md domains/organization/promotions-2000.md
+m00346	yes	dropped	redundant: owner thanks Sue Haynes for promotion congratulations; promotion kept in promotions-2000
+m00347	yes	kept	domains/personal/household.md
+m00348	yes	kept	domains/personal/correspondence.md domains/personal/household.md
+m00349	no	not_durable	other
