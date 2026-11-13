@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-06-30
+updated: 2000-07-09
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Turkish options: illiquidity discount on top is double counting; price a short option like insurance → memory/domains/work/turkish-ipo-options.md
+- EOL Phase 2 calculator: Zimin Lu's Exotica formulas → memory/domains/work/eol-content-2000.md
+- Stanford: Bambos' draft letter, $100K a year for 3 years; visit mid-Aug → memory/domains/work/stanford-research-ties.md
+- LNG: Arnell's book update Tue 9:00; Rotenberg's LNG models to review → memory/domains/work/lng-book-2000.md
+- Baylor professors' lunch Wed 12 Jul; UT class talk 11 Oct → memory/domains/work/university-relations.md, memory/domains/work/ut-austin-ties-2000.md
 - EBS V@R policy: volumetric control now, Research's V@R later → memory/domains/work/ebs-var-policy.md
-- Mars (CDS) video conference 30 Jun with Whalley → memory/domains/work/mars-cds-weather.md
-- Nesbitt Fri 7 Jul 9:00, put to Whalley's B2B unit → memory/domains/work/vendor-offers-2000.md
-- Lacima chapter 3 revisions; EPRM series under authors' names → memory/domains/work/lacima-book-2000.md
 
 ## Files
 

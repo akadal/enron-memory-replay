@@ -3,13 +3,13 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Members, titles, extensions, Thursday staff meeting and video conference (valuation group to present more, Jun 2000), Research Projects Tracking database, org chart (Apr 2000); 19th-floor offices closed; admin history archived."
+summary: "Members, titles, extensions, Thursday staff meeting and video conference, Research Projects Tracking database; new expense IDs (SAP), 2001 headcount sent 7 Jul, meet-and-greet at Ninfa's 11 Jul (Jul 2000); 19th-floor offices closed; admin history archived."
 status: active
-updated: 2000-06-25
+updated: 2000-07-09
 ---
 # The owner's Research Group
 
-Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]]
+Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]]
 
 ## Members and offices
 
@@ -21,7 +21,8 @@ Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.
 
 - [2000-01-14→] Research Projects Tracking database (Lotus Notes): access via a security resource request. ←[[m00343]]
 - [2000-03-16→] Thursdays 11:30-1:00, EB30C1: staff meeting with lunch, and the video conference with London and Portland (30-35 people). ←[[m00994]] ←[[m01052]] ←[[m01964]]
-- [2000-06-21] Zimin Lu: his valuation group is left out of the Thursday-lunch updates; owner: "I interact with each of the members of your group daily and I know what's going on.", yet "I will make sure that you have the opportunity to present your contributions."; Paulo to say a few words every time. ←[[m02069]] ←[[m02077]]
+- [2000-07-06] Expense reports (Crenshaw, Anita Dupont): new SAP-era forms use the HRonline employee number, not the SSN. ←[[m02271]]
+- [2000-07-07] 2001 headcount sent to Dawn Derr a day late (the owner at PRC all day). Meet and greet, the owner's idea: Tue 11 Jul 5:30-7:30 pm at Ninfa's across the street, for the many new members and a great first half. ←[[m02282]] ←[[m02283]]
 
 ## History
 

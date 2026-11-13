@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-06-30
+updated: 2000-07-09
 ---
 # People — index
 
@@ -26,6 +26,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
 - Benjamin Parsons (Ben Parsons)
+- Beth Miertschin
 - Beth Perlman
 - Bjorn Hagelmann
 - Bob Shults
@@ -111,6 +112,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jose Marquez
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
+- Julie Haviland
 - Karla Feldman
 - Katja Schilling
 - Keith Baggerly
@@ -128,6 +130,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Linda Vargo
 - Lisa Ford
 - Liz Taylor (Liz M Taylor)
+- Lloyd Fleming
 - Lou Casari
 - Lou Pai (Lou L Pai)
 - Louise Kitchen
@@ -159,6 +162,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Osman Sezgen
 - Paige Grumulaitis
 - Patrycja Dalecka (Patricia Dalecka)
+- Paul Quilkey
 - Paula Corey
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
@@ -167,6 +171,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Philippe Bibi (Philippe A Bibi)
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
 - Ravi Thuraisingham
+- Raymond Yeow
 - Richard Lewis
 - Rick Buy
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
@@ -187,6 +192,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shalesh Ganjoo
 - Shan Millie
 - Shane Green
+- Shelly Jones
 - Sheridan Titman
 - Sherri Sera
 - Sheryl Lara
