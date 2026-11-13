@@ -1,0 +1,177 @@
+{
+ "slice": 5,
+ "simulated_today": "2000-01-01",
+ "feed": {
+  "slice": 5,
+  "iso_week": "1999-W52",
+  "first_seq": 102,
+  "last_seq": 128,
+  "messages": 27,
+  "durable": 12,
+  "first_date": "1999-12-27 00:27",
+  "last_date": "2000-01-01 11:17",
+  "today": "2000-01-01",
+  "inbox_files": [
+   "1999-12-27--mail.md",
+   "1999-12-28--mail.md",
+   "1999-12-29--mail.md",
+   "1999-12-30--mail.md",
+   "2000-01-01--mail.md"
+  ],
+  "inbox_chars": 10087,
+  "l2_chars": 73865
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 206,
+ "quota_before": {
+  "five_hour": 31.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 31.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 5,
+  "messages": 27,
+  "durable": 12,
+  "kept": 12,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 63,
+  "fact_lines_with_source": 108,
+  "dated": 108,
+  "date_matches_source": 101,
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   null,
+   null,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 748
+  },
+  "questions": {
+   "files": 1,
+   "chars": 590
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 37,
+   "chars": 43583
+  },
+  "people": {
+   "files": 16,
+   "chars": 9872
+  },
+  "archive_inbox": {
+   "files": 20,
+   "chars": 58855
+  },
+  "archive_mail": {
+   "files": 154,
+   "chars": 443753
+  },
+  "archive_other": {
+   "files": 1,
+   "chars": 699
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 32,
+   "duration_ms": 204508,
+   "duration_api_ms": 190155,
+   "total_cost_usd": 2.8113574999999997,
+   "usage": {
+    "input_tokens": 54,
+    "cache_creation_input_tokens": 82174,
+    "cache_read_input_tokens": 2784345,
+    "output_tokens": 23887,
+    "output_tokens_details": {
+     "thinking_tokens": 9625
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 82174,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 698,
+      "cache_read_input_tokens": 128355,
+      "cache_creation_input_tokens": 1350,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1350
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 54,
+     "outputTokens": 23887,
+     "cacheReadInputTokens": 2784345,
+     "cacheCreationInputTokens": 82174,
+     "webSearchRequests": 0,
+     "costUSD": 2.8113574999999997,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 9625,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 31,
+   "result_summary": "Consolidation 005 (simulated date 2000-01-01) is committed as `ac03a28`. Lint and the sleep audit were both green before the commit, with no repair needed. I did not push, as instructed.\n\n- **Kept:** all 12 messages with notes (m00102–m00124 and m00128), so `dataset/drops/sleep-005.tsv` is committed empty.\n- **New topics (6):**\n  - work: Argentina meeting with Guerriero, LJM/RTHM put valuation.\n  - industry: Texas Finance Festival 2000, Risk Books Utility Risk title, INFOCAST panel.\n  - organization: Research Group lunches.\n- **Updated topics (5):**\n  - Vernon/EIA note in the gas model topic.\n  - Jermakyan's revised paper and Burchett's offered talk in the pending-replies topic.\n  - CreditManager meeting forward.\n  - Trigeorgis program for the New York real options conference.\n  - Sam's ProStaff exit in the staffing topic.\n- **Other updates:** four entity files, the work, industry and organization indexes, and `state.md`.\n- **Compression:** only one file was pressed against its ceiling, the work index, so the quota of three could not be met. I cut it from 1909 to 1199 characters. I also trimmed the pending-replies and gas-model topics back under their previous sizes.\n- **Ongoing-line rotation:** I checked the five oldest ongoing lines (vega capture, the two 19th-floor office lists, emission materials, Rice meeting). Nothing later in the mail contradicts them, so I left them as they are.\n- **Questions:** none opened, and the open Krishnarao alias question is not due until 2000-01-11.\n- **Capture error:** the notes for m00124 repeated m00123's Risk Books content, so I cited that content to m00123 and used m00124 only for the CreditManager forward.\n- **Untracked files:** I left `dataset/runs/sleep-005.transcript.jsonl` untracked. `dataset/runs/stderr.log` is modified and not staged."
+  },
+  "repair": null
+ }
+}
