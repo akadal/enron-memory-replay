@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 1999-12-19
+updated: 2000-01-01
 ---
 # Organization — index
 
@@ -22,5 +22,6 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 - memory/domains/organization/performance-review-process.md — officer levels, PRC process, active
 - memory/domains/organization/credit-markets-group.md — Enron Europe credit group, active
 - memory/domains/organization/japan-merchant-business-candidate.md — Hirl's Japan search, Hoshino, active
-- memory/domains/organization/hiring-and-staffing-dec-1999.md — Van Ngo holiday help, Angelova leaving, active
+- memory/domains/organization/hiring-and-staffing-dec-1999.md — Van Ngo holiday help, Angelova leaving, Sam/ProStaff, active
+- memory/domains/organization/research-group-daily-lunches.md — lunch rule for 31st-floor Research Group, active
 - memory/domains/organization/rankings-for-brad-mcsherry.md — rankings "blessed by Greg", active
