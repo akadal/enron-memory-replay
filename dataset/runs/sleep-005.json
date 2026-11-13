@@ -1,0 +1,179 @@
+{
+ "slice": 5,
+ "simulated_today": "2000-01-01",
+ "feed": {
+  "slice": 5,
+  "iso_week": "1999-W52",
+  "first_seq": 102,
+  "last_seq": 128,
+  "messages": 27,
+  "durable": 19,
+  "first_date": "1999-12-27 00:27",
+  "last_date": "2000-01-01 11:17",
+  "today": "2000-01-01",
+  "inbox_files": [
+   "1999-12-27--mail.md",
+   "1999-12-28--mail.md",
+   "1999-12-29--mail.md",
+   "1999-12-30--mail.md",
+   "2000-01-01--mail.md"
+  ],
+  "inbox_chars": 16798,
+  "l2_chars": 73480
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 173,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 46.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 5,
+  "messages": 27,
+  "durable": 19,
+  "kept": 19,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 90,
+  "fact_lines_with_source": 115,
+  "dated": 115,
+  "date_matches_source": 114,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   null,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 621
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 34,
+   "chars": 37495
+  },
+  "people": {
+   "files": 9,
+   "chars": 7010
+  },
+  "archive_inbox": {
+   "files": 20,
+   "chars": 73825
+  },
+  "archive_mail": {
+   "files": 154,
+   "chars": 442237
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 19,
+   "duration_ms": 170189,
+   "duration_api_ms": 150341,
+   "total_cost_usd": 1.100043,
+   "usage": {
+    "input_tokens": 32,
+    "cache_creation_input_tokens": 63820,
+    "cache_read_input_tokens": 1134875,
+    "output_tokens": 18119,
+    "output_tokens_details": {
+     "thinking_tokens": 2454
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 63820,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 695,
+      "cache_read_input_tokens": 94897,
+      "cache_creation_input_tokens": 719,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 719
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 32,
+     "outputTokens": 18119,
+     "cacheReadInputTokens": 1134875,
+     "cacheCreationInputTokens": 63820,
+     "webSearchRequests": 0,
+     "costUSD": 1.100043,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 2454,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 63820,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 18,
+   "result_summary": "Sleep 005 (clock 2000-01-01) is done and committed as `546dea0`; lint and `sleep-audit.py` both passed. All 19 messages with notes are cited, so `dataset/drops/sleep-005.tsv` is empty, and nothing waited on an approval gate, so `questions.md` and `todo.md` are unchanged.\n\n- **New topics (4):** the Arthur Andersen model-risk review thread (`work/model-risk-review.md`), Guerriero's Argentina modelling meeting (`work/argentina-modelling.md`), Gibner's RTHM/LJM put valuation (`work/ljm-rthm-put-valuation.md`), and the lunch policy for Research staff on the 31st floor (`organization/research-group-lunches.md`).\n- **Updates:**\n  - conferences: Risk 2000 title due about 7 Jan, TFF 2000 registration requested, Trigeorgis program.\n  - Vernon's notes from Roy Kass (EIA) went into the gas model file.\n  - Jermakyan's paper moved to the March issue; added the Risk Books note and the INFOCAST panel.\n  - added the missed Burchett class (flu), Sam's $30K ProStaff ask, and the CreditManager reconfirmation.\n  - re-forwarded mail is cited in its existing files.\n- **Compression:** shortened the work index, the gas model file, `recruiting.md` and `stinson-gibner.md` (the audit's first pass flagged it for growing). Only the work index was in the top 10% of its budget, so the three-file quota could not fully apply.\n- **Housekeeping:** refreshed the indexes and `state.md`; there were no sleep-task blocks. The only ongoing line (vega VaR) is still valid. The five inbox logs moved to `memory/archive/inbox/`.\n\nI did not push: your instructions said both \"do not push, the runner pushes\" and \"git push origin main\", and I followed the more specific one. The untracked `dataset/runs/sleep-005.transcript.jsonl` is left uncommitted."
+  },
+  "repair": null
+ }
+}
