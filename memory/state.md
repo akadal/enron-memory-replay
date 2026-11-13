@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-06-18 (week 2000-W24). Risk 2000 Boston done (talk 14 Jun); owner in Houston late June-early July for a closing deal; London PRC agreed.
+As of 2000-06-25 (week 2000-W25). Ronn's talk and the mentor reception were set for 22 Jun; mid-year PRC under way; CPLEX chosen.
 
-- Coming: Ronn visit and mentor reception 22 Jun; Iris Mack early July; Kierlanczyk 12-17 Jul; Sydney July (Strickland 18 Jul); PoweRisk Paris Oct → memory/domains/work/ut-austin-ties-2000.md, memory/domains/organization/candidate-referrals-2000.md, memory/domains/industry/eprm-risk.md
-- Owed: Sydney slides; slides to PSEG's Gould; Wharton recommendation to Skilling; Akamai hire sponsor; Geman contract; CPLEX vs XPRESS vote → memory/domains/industry/speaking-engagements-2000.md, memory/domains/industry/research-memberships-2000.md, memory/domains/organization/software-licenses.md
+- Coming: Bruce James interviews 26-30 Jun; Skunkworks and Nesbitt 5 Jul; Keeter 6 Jul; Iris Mack early July; Kierlanczyk 12-17 Jul; Sydney July (Strickland 18 Jul); MEC lunch 25 Jul → memory/domains/organization/candidate-referrals-2000.md, memory/domains/work/internal-meetings.md, memory/domains/industry/eprm-risk.md
+- Owed: Turkish option discount-rate memo; Sydney slides; London credit help (Dhar or Shanbhogue); Wharton recommendation to Skilling; Geman contract → memory/domains/work/turkish-ipo-options.md, memory/domains/work/credit-markets.md, memory/domains/industry/research-memberships-2000.md

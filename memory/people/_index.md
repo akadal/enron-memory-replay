@@ -1,202 +1,212 @@
 ---
 type: index
-updated: 2000-06-18
+updated: 2000-06-25
 ---
 # People — index
 
 ## Files
 
-Variant aliases live in the entity files.
+File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them, from the entity files). Budget question closed by status quo 2000-06-25 (budget unchanged (?)); the table was compressed instead.
 
-- Adam Brulinski — adam-brulinski
-- Alan Aronowitz — alan-aronowitz
-- Alex Huang — alex-huang
-- Amitava Dhar — amitava-dhar
-- Amy Aldous — amy-aldous
-- Andrew Fastow — andrew-fastow
-- Andrzej Wodnicki — andrzej-wodnicki
-- Anjam Ahmad — anjam-ahmad
-- Anthony Mends — anthony-mends
-- April Hodgson — april-hodgson
-- Aram Sogomonian — aram-sogomonian
-- Barbara Dillard — barbara-dillard
-- Benjamin Parsons — benjamin-parsons
-- Beth Perlman — beth-perlman
-- Bjorn Hagelmann — bjorn-hagelmann
-- Brad McSherry — brad-mcsherry
-- Brad Romine — brad-romine
-- Bryan Seyfried — bryan-seyfried
-- Cantekin Dincerler — cantekin-dincerler
-- Carla Di Castro — carla-di-castro
-- Celeste Roberts — celeste-roberts
-- Charlene Jackson — charlene-jackson
-- Chonawee Supatgiat — chonawee-supatgiat
-- Chris Hilgert — chris-hilgert
-- Chris Kenyon — chris-kenyon
-- Chris Strickland — chris-strickland
-- Clayton Vernon — clayton-vernon
-- Cliff Baxter — cliff-baxter
-- Dale Nesbitt — dale-nesbitt
-- Dale Surbey — dale-surbey
-- Damian Goodburn — damian-goodburn
-- Darrell Duffie — darrell-duffie
-- Datren Williams — datren-williams
-- Dave Delainey — dave-delainey
-- David Cox — david-cox
-- David Gorte — david-gorte
-- David Oxley — david-oxley
-- David Walkup — david-walkup
-- Dawn Scovill — dawn-scovill
-- Debbie Brackett — debbie-brackett
-- Dennis Benevides — dennis-benevides
-- Dick Jefferis — dick-jefferis
-- Ding Yuan — ding-yuan
-- Dorn Hetzel — dorn-hetzel
-- Doug Leach — doug-leach
-- Ed Krapels — ed-krapels
-- Edward Kao — edward-kao
-- Ehud Ronn — ehud-ronn
-- Elena Chilkina — elena-chilkina
-- Elizabeth Grant — elizabeth-grant
-- Emma Wolfin — emma-wolfin
-- Eugenio Perez — eugenio-perez
-- Farouk Lalji — farouk-lalji
-- Fred Lagrasta — fred-lagrasta
-- Gary Hickerson — gary-hickerson
-- Ginger Gamble — ginger-gamble
-- Giuseppe Paleologo — giuseppe-paleologo
-- Gopalakrishnan Subramaniam — gopalakrishnan-subramaniam
-- Gordon Sick — gordon-sick
-- Grant Masson — grant-masson
-- Greg Whalley — greg-whalley
-- Harry Arora — harry-arora
-- Helyette Geman — helyette-geman
-- Iain Russell — iain-russell
-- Iris Mack — iris-mack
-- James Steffes — james-steffes
-- Jana Phillips — jana-phillips
-- Jarek Astramowicz — jarek-astramowicz
-- Jason Sokolov — jason-sokolov
-- Jay Webb — jay-webb
-- Jean Mrha — jean-mrha
-- Jeff Shankman — jeff-shankman
-- Jeff Skilling — jeff-skilling
-- Jens Gobel — jens-gobel
-- Jere Overdyke — jere-overdyke
-- Jim Dyer — jim-dyer
-- Jim Garven — jim-garven
-- Jim Irvine — jim-irvine
-- Joan Payne — joan-payne
-- Joe Gold — joe-gold
-- Joe Hirko — joe-hirko
-- Joel Hanley — joel-hanley
-- John Bloomer — john-bloomer
-- John D. Martin — john-d-martin
-- John Griebling — john-griebling
-- John Peyton — john-peyton
-- John Sherriff — john-sherriff
-- Jonathan Le — jonathan-le
-- Jose Marquez — jose-marquez
-- Joseph Hirl — joseph-hirl
-- Joseph Hrgovcic — joseph-hrgovcic
-- Karla Feldman — karla-feldman
-- Katja Schilling — katja-schilling
-- Keith Baggerly — keith-baggerly
-- Ken Rice — ken-rice
-- Kevin Hannon — kevin-hannon
-- Kevin Kindall — kevin-kindall
-- Kevin Moore — kevin-moore
-- Kimberly Watson — kimberly-watson
-- Kirstee Hewitt — kirstee-hewitt
-- Kristy Carnes — kristy-carnes
-- Leandro Ibasco — leandro-ibasco
-- Lenos Trigeorgis — lenos-trigeorgis
-- Les Clewlow — les-clewlow
-- Li Xiao — li-xiao
-- Linda Vargo — linda-vargo
-- Lisa Ford — lisa-ford
-- Liz Taylor — liz-taylor
-- Lou Pai — lou-pai
-- Louise Kitchen — louise-kitchen
-- Lucy Ortiz — lucy-ortiz
-- Ludmila Kaminski — Ludmila — ludmila-kaminski
-- Lyn Malina — lyn-malina
-- Manuel Rensink — manuel-rensink
-- Margaret Carson — margaret-carson
-- Mark Palmer — mark-palmer
-- Mark Ruane — mark-ruane
-- Mark Tawney — mark-tawney
-- Martin Lin — martin-lin
-- Martina Angelova — martina-angelova
-- Maruti More — maruti-more
-- Masayuki Fujita — masayuki-fujita
-- Matthew Williams — matthew-williams
-- Maureen Raymond — maureen-raymond
-- Michael Sergeev — michael-sergeev
-- Mike McConnell — mike-mcconnell
-- Mike Roberts — mike-roberts
-- Ming Sit — ming-sit
-- Nick Bambos — nick-bambos
-- Norberto Valdes — norberto-valdes
-- Nurit Krausz — nurit-krausz
-- Oliver Bennett — oliver-bennett
-- Osman Sezgen — osman-sezgen
-- Paige Grumulaitis — paige-grumulaitis
-- Patrycja Dalecka — patrycja-dalecka
-- Paula Corey — paula-corey
-- Paulo Issler — paulo-issler
-- Paulo Rocha e Oliveira — paulo-rocha-e-oliveira
-- Peter Tufano — peter-tufano
-- Phelim Boyle — phelim-boyle
-- Philippe Bibi — philippe-bibi
-- Pinnamaneni Krishnarao — pinnamaneni-krishnarao
-- Ravi Thuraisingham — ravi-thuraisingham
-- Richard Lewis — richard-lewis
-- Rick Buy — rick-buy
-- Robert Brooks — robert-brooks
-- Robert Lee — robert-lee
-- Robert Rudy — robert-rudy
-- Rodney Greene — rodney-greene
-- Roman Zadorozhny — roman-zadorozhny
-- Ronnie Chahal — ronnie-chahal
-- Ross Prevatt — ross-prevatt
-- Rudi Zipter — rudi-zipter
-- Sally Beck — sally-beck
-- Samer Takriti — samer-takriti
-- Sandeep Kohli — sandeep-kohli
-- Sanjeev Khanna — sanjeev-khanna
-- Scott Tholan — scott-tholan
-- Scott Yeager — scott-yeager
-- Sevil Yaman — sevil-yaman
-- Shalesh Ganjoo — shalesh-ganjoo
-- Shan Millie — shan-millie
-- Sheridan Titman — sheridan-titman
-- Sherri Sera — sherri-sera
-- Sheryl Lara — sheryl-lara
-- Shirley Crenshaw — shirley-crenshaw
-- Soma Ghosh — soma-ghosh
-- Soussan Faiz — soussan-faiz
-- Stephen Bramlett — stephen-bramlett
-- Steven Leppard — steven-leppard
-- Stinson Gibner — stinson-gibner
-- Tanya Tamarchenko — tanya-tamarchenko
-- Ted Murphy — ted-murphy
-- Teresa Bien — teresa-bien
-- Thomas Knudsen — thomas-knudsen
-- Tim Davies — tim-davies
-- Tom Gros — tom-gros
-- Tom Halliburton — tom-halliburton
-- Tom Piazze — tom-piazze
-- Traci Warner — traci-warner
-- Trena McFarland — trena-mcfarland
-- Trisha Tlapek — trisha-tlapek
-- Vadim Pokhlebkin — vadim-pokhlebkin
-- Van Ngo — van-ngo
-- Vasant Shanbhogue — vasant-shanbhogue
-- Vicky Windsor — vicky-windsor
-- Vincent Tang — vincent-tang
-- William Bradford — william-bradford
-- William Smith — william-smith
-- Winston Jia — winston-jia
-- Yannis Tzamouranis — yannis-tzamouranis
-- Zimin Lu — zimin-lu
+- Adam Brulinski
+- Alan Aronowitz
+- Alex Huang
+- Alla Gil
+- Amitava Dhar
+- Amy Aldous
+- Amy Lamonsoff
+- Andrew Fastow (Andy Fastow)
+- Andrzej Wodnicki
+- Anjam Ahmad
+- Anthony Mends (Tony Mends)
+- April Hodgson (April Hodgeson, April Hodges)
+- Aram Sogomonian
+- Arshak Sarkissian
+- Barbara Dillard (Barbara G Dillard)
+- Barbara Ostdiek
+- Benjamin Parsons (Ben Parsons)
+- Beth Perlman
+- Bjorn Hagelmann
+- Bob Shults
+- Brad McSherry
+- Brad Romine (Bradley Romine)
+- Bryan Seyfried
+- Cantekin Dincerler
+- Carla Di Castro (Carla diCastro)
+- Celeste Roberts
+- Charlene Jackson
+- Cheryl Kuehl
+- Chonawee Supatgiat
+- Chris Hilgert
+- Chris Kenyon
+- Chris Strickland
+- Clayton Vernon
+- Cliff Baxter
+- Dale Nesbitt
+- Dale Surbey
+- Damian Goodburn
+- Darrell Duffie
+- Datren Williams (Datren L. Williams)
+- Dave Delainey
+- David Cox
+- David Gorte (Dave Gorte)
+- David Oxley
+- David Walkup (David C. Walkup)
+- Dawn Scovill
+- Debbie Brackett (Debbie R Brackett)
+- Dennis Benevides
+- Dick Jefferis (Richard Jefferis)
+- Ding Yuan
+- Dorn Hetzel
+- Doug Leach
+- Ed Krapels
+- Edward Kao
+- Ehud Ronn (Ehud I. Ronn)
+- Elena Chilkina
+- Elizabeth Grant
+- Emma Wolfin
+- Eric Hilton
+- Eugenio Perez
+- Farouk Lalji
+- Fred Lagrasta
+- Gary Hickerson
+- Ginger Gamble (Ginger B Gamble)
+- Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
+- Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
+- Gordon Sick
+- Grant Masson
+- Greg Whalley
+- Harry Arora
+- Helyette Geman
+- Iain Russell
+- Iris Mack
+- James Steffes (James D Steffes, Jim Steffes)
+- Jana Phillips (Jana Laird Phillips)
+- Jarek Astramowicz
+- Jason Sokolov
+- Jay Webb
+- Jean Mrha
+- Jeff Shankman (Jeffrey A Shankman)
+- Jeff Skilling
+- Jens Gobel
+- Jere Overdyke (Jere C Overdyke)
+- Jim Dyer (James S. Dyer)
+- Jim Garven (James R. Garven)
+- Jim Irvine
+- Joan Payne
+- Joe Gold
+- Joe Hirko
+- Joel Hanley
+- John Bloomer
+- John D. Martin
+- John Griebling
+- John Peyton
+- John Sherriff
+- Jonathan Le
+- Jose Marquez
+- Joseph Hirl (Joseph P Hirl)
+- Joseph Hrgovcic (Joe Hrgovcic)
+- Karla Feldman
+- Katja Schilling
+- Keith Baggerly
+- Ken Rice
+- Kevin Hannon
+- Kevin Kindall
+- Kevin Moore (Kevin G Moore)
+- Kimberly Watson
+- Kirstee Hewitt
+- Kristy Carnes
+- Leandro Ibasco (Roy Ibasco, Roy)
+- Lenos Trigeorgis
+- Les Clewlow
+- Li Xiao
+- Linda Vargo
+- Lisa Ford
+- Liz Taylor (Liz M Taylor)
+- Lou Pai (Lou L Pai)
+- Louise Kitchen
+- Lucy Ortiz
+- Ludmila Kaminski (Ludmila)
+- Lyn Malina
+- Manuel Rensink
+- Margaret Carson
+- Mark Palmer (Mark S Palmer)
+- Mark Ruane
+- Mark Tawney
+- Martin Lin
+- Martina Angelova
+- Maruti More (Maruti D. More)
+- Masayuki Fujita
+- Matthew Williams (Matt Williams)
+- Maureen Raymond
+- Michael Moscoso (Michael E Moscoso)
+- Michael Sergeev
+- Mike McConnell
+- Mike Roberts (Mike A Roberts)
+- Ming Sit
+- Nick Bambos
+- Norberto Valdes
+- Nurit Krausz
+- Oliver Bennett
+- Osman Sezgen
+- Paige Grumulaitis
+- Patrycja Dalecka (Patricia Dalecka)
+- Paula Corey
+- Paulo Issler
+- Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
+- Peter Tufano
+- Phelim Boyle (P.P. Boyle)
+- Philippe Bibi (Philippe A Bibi)
+- Pinnamaneni Krishnarao (Krishna Krishnarao)
+- Ravi Thuraisingham
+- Richard Lewis
+- Rick Buy
+- Robert Brooks (Robert E. Brooks, Bob Brooks)
+- Robert Lee (Bob Lee)
+- Robert Rudy
+- Rodney Greene
+- Roman Zadorozhny
+- Ronnie Chahal
+- Ross Prevatt
+- Rudi Zipter
+- Sally Beck
+- Samer Takriti
+- Sandeep Kohli
+- Sanjeev Khanna (Sanjeev K Khanna)
+- Scott Tholan
+- Scott Yeager
+- Sevil Yaman
+- Shalesh Ganjoo
+- Shan Millie
+- Shane Green
+- Sheridan Titman
+- Sherri Sera
+- Sheryl Lara
+- Shirley Crenshaw
+- Soma Ghosh
+- Soussan Faiz
+- Stephen Bramlett (Steven Bramlet)
+- Steven Leppard
+- Stinson Gibner
+- Tanya Tamarchenko
+- Ted Murphy
+- Teresa Bien
+- Thomas Knudsen
+- Tim Davies (Timothy Davies)
+- Tom Gros (Thomas Gros)
+- Tom Halliburton
+- Tom Piazze (Thomas Piazze)
+- Traci Warner
+- Trena McFarland
+- Trisha Tlapek
+- Vadim Pokhlebkin
+- Van Ngo
+- Vasant Shanbhogue
+- Vicky Windsor
+- Vincent Tang
+- Vladimir Gorny
+- William Bradford (William S Bradford)
+- William Smith (Sam Smith)
+- Winston Jia (Wenyao Jia)
+- Yannis Tzamouranis
+- Zimin Lu
