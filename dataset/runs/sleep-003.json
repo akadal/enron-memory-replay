@@ -1,0 +1,174 @@
+{
+ "slice": 3,
+ "simulated_today": "1999-12-19",
+ "feed": {
+  "slice": 3,
+  "iso_week": "1999-W50",
+  "first_seq": 10,
+  "last_seq": 73,
+  "messages": 64,
+  "durable": 34,
+  "first_date": "1999-12-13 02:08",
+  "last_date": "1999-12-19 12:39",
+  "today": "1999-12-19",
+  "inbox_files": [
+   "1999-12-13--mail.md",
+   "1999-12-14--mail.md",
+   "1999-12-15--mail.md",
+   "1999-12-16--mail.md",
+   "1999-12-17--mail.md",
+   "1999-12-19--mail.md"
+  ],
+  "inbox_chars": 30364,
+  "l2_chars": 227812
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 276,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 30.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 3,
+  "messages": 64,
+  "durable": 34,
+  "kept": 32,
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 39,
+  "fact_lines_with_source": 64,
+  "dated": 64,
+  "date_matches_source": 61,
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 662
+  },
+  "questions": {
+   "files": 1,
+   "chars": 590
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 25,
+   "chars": 29159
+  },
+  "people": {
+   "files": 16,
+   "chars": 8347
+  },
+  "archive_inbox": {
+   "files": 9,
+   "chars": 35356
+  },
+  "archive_mail": {
+   "files": 99,
+   "chars": 314842
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 55,
+   "duration_ms": 273657,
+   "duration_api_ms": 259486,
+   "total_cost_usd": 2.9349385,
+   "usage": {
+    "input_tokens": 34,
+    "cache_creation_input_tokens": 96595,
+    "cache_read_input_tokens": 1809387,
+    "output_tokens": 42565,
+    "output_tokens_details": {
+     "thinking_tokens": 16099
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 96595,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 525,
+      "cache_read_input_tokens": 143582,
+      "cache_creation_input_tokens": 544,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 544
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 34,
+     "outputTokens": 42565,
+     "cacheReadInputTokens": 1809387,
+     "cacheCreationInputTokens": 96595,
+     "webSearchRequests": 0,
+     "costUSD": 2.9349385,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 16099,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 54,
+   "result_summary": "Consolidation 003 is committed as `9cda651`; I did not push, as instructed. Lint and `sleep-audit.py` were both green before the commit. The only lint warnings were size overruns on one new topic file, MEMORY.md and AGENTS.md.\n\n- **Added:** 16 new topic files across work, organization and industry, and 7 new entity files. Examples are the emission-trading request from Adam Brulinski, Clayton Vernon's gas model, the PSE swap, the ENA reorganization and POWER 2000.\n- **Updated:** the Stinson Gibner and Shirley Crenshaw entity files, the three domain indexes, the alias table and `state.md`. The six inbox logs moved to `memory/archive/inbox/`.\n- **Drops:** `dataset/drops/sleep-003.tsv` lists two messages, m00038 (a resume forwarded with no comment) and m00057 (a forwarded news article). The other 30 messages with notes are each cited by a fact.\n- **Not applicable:** no `(sleep-task)` blocks, no new `questions.md` items, and no question was due to be closed. The four ongoing lines were checked and all still stand.\n- **Compression quota not met:** no file sat above 90% of its ceiling, so nothing needed pulling down. The one new file over its 1,600-character target, the gas-model topic, is at 1,828 against a 2,800 ceiling.\n- **Left uncommitted:** `dataset/runs/stderr.log` and `sleep-003.transcript.jsonl`, which belong to the runner."
+  },
+  "repair": null
+ }
+}
