@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-07-30
+updated: 2000-08-06
 ---
 # Organization — index
 
@@ -9,19 +9,19 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- London: Leppard to head research soon (Sherriff, Lewis agree); owner may offer Ahmad Houston; Agnihotri accepted → memory/domains/organization/london-research.md
-- MG Metals: owner's V@R method before the 7/8 Aug Board; model in work → memory/domains/organization/mg-metals-integration.md
-- Vernon's transfer to Presto only if he delivers; HR doubts → memory/domains/organization/staff-and-recruiting.md
-- Interviews: Stephen Bennett Fri 4 Aug; decisions owed on five candidates → memory/domains/organization/candidate-interviews-jul-2000.md
-- Offsite at Breckenridge 18-20 Aug, agenda done; MD PRC 15 Aug, GIS profile by 31 Jul → memory/domains/organization/research-offsite-2000.md, memory/domains/organization/mid-year-prc-2000.md
+- London: owner prefers moving Ahmad to Houston soon (Surbey, Lewis concur); Leppard to head → memory/domains/organization/london-research.md
+- Enron Global Markets formed 31 Jul (McConnell, Shankman); Lavorato ENA COO → memory/domains/organization/ena-reorganization.md
+- Interviews: Rabi De Fri 11 Aug; Dupre meets the owner 7 Aug; Anita DuPont to be hired → memory/domains/organization/candidate-interviews-jul-2000.md, memory/domains/organization/staff-and-recruiting.md
+- EEA talk 15 Aug; MD PRC 15 Aug; A&A Roundtable 18 Aug; offsite 18-20 Aug → memory/domains/organization/corporate-announcements-2000.md, memory/domains/organization/research-offsite-2000.md
+- D-G Energy (Geman) licence: escrow cost open → memory/domains/organization/software-licenses.md
 
 ## Files
 
 - memory/domains/organization/candidate-interviews-jul-2000.md — interviews, Jun-Jul 2000 (Rabi De, Bruce James, Stephen Bennett, Xu)
 - memory/domains/organization/candidate-interviews-may-2000.md — May 2000 interviews (Valdes, Kenyon, Credit.com, Perry)
 - memory/domains/organization/candidate-referrals-2000.md — referred candidates (Iris Mack, Maruti More, Simon Hurst, Wenjiang Jiang)
-- memory/domains/organization/corporate-announcements-2000.md — company-wide news: EnronOptions, United Way, ENA event approvals, budgets due 14 Aug
-- memory/domains/organization/ena-reorganization.md — ENA reorganizations, Dec 1999 and 13 Jul 2000
+- memory/domains/organization/corporate-announcements-2000.md — company-wide news: United Way, budgets due 14 Aug, EEA talk, Alberta PPA auction
+- memory/domains/organization/ena-reorganization.md — ENA reorganizations, Dec 1999; Enron Global Markets, 31 Jul 2000
 - memory/domains/organization/leave-and-training.md — vacations, courses (Stanford credit risk, Oct; Tamarchenko 26 Jul-8 Aug; Campos' Rice PDE course)
 - memory/domains/organization/legal-matters.md — legal matters involving the owner (Cuneo case dismissed, Jan 2000)
 - memory/domains/organization/london-research.md — London Research (Ahmad, Parsons, Leppard, Surbey): Leppard to head it, Agnihotri offer

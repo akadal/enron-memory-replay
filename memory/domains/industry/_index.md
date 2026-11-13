@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-07-30
+updated: 2000-08-06
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Sydney follow-ups: SDDP to O'Brien via Halliburton; Fin Math course Houston 31 Aug-1 Sep, London 21-22 Sep → memory/domains/industry/eprm-risk.md
-- Energycast trial on the floor 31 Jul-3 Aug; Krapels' EOL access renewed → memory/domains/industry/esai-energycast-review.md
-- PoweRisk Paris 3-6 Oct; EFA energy panel, Charleston, Apr 2001 (Tom Arnold) → memory/domains/industry/speaking-engagements-2000.md
-- Ecopetrol officials early Aug; Deng visited 28 Jul → memory/domains/industry/visitors-2000.md
-- AGA membership to JS, DD, JL; Wharton E-commerce to Whalley → memory/domains/industry/research-memberships-2000.md
+- SDDP manual to O'Brien (Halliburton); Fin Math course Houston 31 Aug-1 Sep → memory/domains/industry/eprm-risk.md
+- EPRM enterprise risk conference: operational-risk session 16 Nov proposed → memory/domains/industry/speaking-engagements-2000.md
+- Wharton Partnership at $100K-150K a year recommended to Skilling → memory/domains/industry/research-memberships-2000.md
+- Energycast trial 31 Jul-3 Aug; Krapels' EOL access → memory/domains/industry/esai-energycast-review.md
+- PoweRisk Paris 3-6 Oct; EFA panel Apr 2001 → memory/domains/industry/speaking-engagements-2000.md
 
 ## Files
 
@@ -27,7 +27,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model, Enerfax list, RDI conference (Robert Brooks)
 - memory/domains/industry/market-outlooks-2000.md — outside views for 2000: owner's California warning, Iraq's output threat, El Paso's hedges, CERA on European gas
 - memory/domains/industry/real-options-debate-2000.md — Economist 'Fading Fads' debate on real options (Faiz's list, Apr 2000)
-- memory/domains/industry/research-memberships-2000.md — membership offers: Wharton E-commerce to Whalley (Jun 2000); AGA membership (Jul 2000)
+- memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership to Skilling (Aug 2000); AGA membership (Jul 2000)
 - memory/domains/industry/rice-university.md — Rice: Financial Engineering (Ensor), Enron-sponsored finance seminars (Ostdiek), seminar mugs (logo, Jul)
 - memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: PoweRisk Paris (Oct), EFA panel (Apr 2001); done ones archived
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000

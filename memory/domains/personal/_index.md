@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-07-30
+updated: 2000-08-06
 ---
 # Personal — index
 
@@ -9,10 +9,10 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Jana: dinner Fri 28 Jul at Amerigo's Grill, then the owner's home → memory/domains/personal/correspondence.md
-- Recruiter Al Arfsten: package to Tim Luehrman (PwC), meeting after Australia → memory/domains/personal/recruiter-approaches-2000.md
-- PaineWebber (Julie Haviland) offers corporate and muni bonds → memory/domains/personal/investments-2000.md
-- Sister's estate case, Pabianice: power of attorney to sign → memory/domains/personal/household.md
+- Jana and David Phillips: dinners, a wine class → memory/domains/personal/correspondence.md
+- Recruiter Al Arfsten: package to Tim Luehrman (PwC) → memory/domains/personal/recruiter-approaches-2000.md
+- PaineWebber (Julie Haviland) offers bonds → memory/domains/personal/investments-2000.md
+- Sister's estate case, Pabianice → memory/domains/personal/household.md
 
 ## Files
 
