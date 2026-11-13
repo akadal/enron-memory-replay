@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-02-06
+updated: 2000-02-12
 ---
 # People and organisations — index
 
@@ -22,20 +22,27 @@ Format, one line each: `name — aliases — domains — path`
 - Chris Strickland — — work — memory/people/chris-strickland.md
 - Clayton Vernon — — work, organization — memory/people/clayton-vernon.md
 - Cliff Baxter — — organization, work — memory/people/cliff-baxter.md
+- Dale Surbey — — organization, work — memory/people/dale-surbey.md
 - Doug Leach — — industry, work, organization — memory/people/doug-leach.md
+- Ed Krapels — — work, industry — memory/people/ed-krapels.md
 - Elizabeth Grant — — organization — memory/people/elizabeth-grant.md
 - Emma Wolfin — — industry — memory/people/emma-wolfin.md
 - Gary Hickerson — — organization, work — memory/people/gary-hickerson.md
 - Grant Masson — — organization, work — memory/people/grant-masson.md
 - Greg Whalley — — organization, work — memory/people/greg-whalley.md
+- Helyette Geman — — industry, work — memory/people/helyette-geman.md
 - Iain Russell — — organization — memory/people/iain-russell.md
 - Jason Sokolov — — organization — memory/people/jason-sokolov.md
 - Jim Garven — James R. Garven — industry — memory/people/jim-garven.md
+- Joan Payne — — industry — memory/people/joan-payne.md
+- John Sherriff — — work, organization — memory/people/john-sherriff.md
 - Jonathan Le — — work — memory/people/jonathan-le.md
 - Joseph Hrgovcic — Joe Hrgovcic — organization, work — memory/people/joseph-hrgovcic.md
 - Kevin Hannon — — organization, work — memory/people/kevin-hannon.md
 - Kevin Kindall — — organization, work — memory/people/kevin-kindall.md
 - Kevin Moore — Kevin G Moore — organization — memory/people/kevin-moore.md
+- Lenos Trigeorgis — — industry — memory/people/lenos-trigeorgis.md
+- Louise Kitchen — — work, organization — memory/people/louise-kitchen.md
 - Lyn Malina — — organization — memory/people/lyn-malina.md
 - Mark Ruane — — work, industry — memory/people/mark-ruane.md
 - Martin Lin — — organization — memory/people/martin-lin.md

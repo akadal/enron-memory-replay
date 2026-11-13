@@ -3,17 +3,17 @@ id: broadband-services
 type: topic
 domain: work
 title: "Research support for Enron Communications / Broadband Services"
-summary: "The group's bandwidth work: Amit (MIT) visits 16 Feb; Stanford's Nick Bambos met 26 Jan; Sycamore route-design meetings in Chelmsford 31 Jan-3 Feb; Gibner 80% at ECI (Jan 2000)."
+summary: "The group's bandwidth work: MIT students (Amit, Ferrer, Rocha e Oliveira) visit 16 Feb, Salal Humair in Feb; Stanford's Nick Bambos met 26 Jan; Sycamore route-design meetings 31 Jan-3 Feb; Gibner 80% at ECI; Supatgiat joins for EBS (Feb 2000)."
 status: active
-updated: 2000-01-30
+updated: 2000-02-12
 ---
 # Research support for Enron Communications / Broadband Services
 
-ECI was renamed Enron Broadband Services on 21 Jan 2000: memory/domains/organization/corporate-announcements-2000.md. Detail ←[[broadband-services-2000-01]]
+ECI was renamed Enron Broadband Services on 21 Jan 2000: memory/domains/organization/corporate-announcements-2000.md. New hire for EBS (Supatgiat): memory/domains/organization/staff-and-recruiting.md. Detail ←[[broadband-services-2000-01]] ←[[broadband-services-2000-02-w06]]
 
-- [2000-01-17] Amit (MIT) at Enron 16 Feb: bandwidth-pricing update and round table, agenda by Gibner. ←[[m00356]] ←[[m00386]]
-- [2000-01-18] Ravi Thuraisingham printed Griebling's Network Engineering org chart for the owner. ←[[m00375]]
-- [2000-01-20] Stanford: Bradley Romine set up a meeting with Prof. Nick Bambos (bandwidth options), Wed 26 Jan 3pm, Terman; owner sent it to his AOL 25 Jan. ←[[m00399]] ←[[m00405]] ←[[m00440]]
+- [2000-01-18] Earlier: Griebling's org chart (Ravi), Stanford's Prof. Nick Bambos met 26 Jan. ←[[m00375]] ←[[m00399]] ←[[m00405]] ←[[m00440]]
 - [2000-01-21] Gibner spends ~80% of his time on ECI trading and origination. ←[[m00409]]
 - [2000-01-23] Owner: "We are getting many projects in this area"; Mardanov could help. ←[[m00423]]
 - [2000-01-27] Sycamore Networks planning meetings, Chelmsford MA, 31 Jan-3 Feb (optical architecture, route design, deployment): Ravi, Gibner, Krishna, Samer go; the owner cannot. ←[[m00453]] ←[[m00458]]
+- [2000-02-07] Ravi and Krishna rate MIT OR student Salal Humair (met at Sycamore) for the EBS Analytics group; he visits Houston in Feb with two Stanford students. Recruit visits are now booked by Elisabeth Grant on the research RC, to be allocated to John Griebling later. ←[[m00557]]
+- [2000-02-10] Tom Gros invited MIT Sloan PhD students (Gabriel Bitran's) for Wed 16 Feb: Amit, Juan-Carlos Ferrer (bandwidth, yield management) and Paulo Rocha e Oliveira (Internet pricing). Amit's earlier plan: bandwidth-pricing update and round table, agenda by Gibner. ←[[m00356]] ←[[m00386]] ←[[m00593]] ←[[m00594]]
