@@ -1,0 +1,65 @@
+id	durable	status	detail
+m00010	no	not_durable	logistics
+m00011	no	not_durable	logistics
+m00012	yes	kept	domains/organization/recruiting.md
+m00013	yes	kept	domains/organization/recruiting.md people/shirley-crenshaw.md
+m00014	yes	kept	domains/organization/research-group-19th-floor-move.md people/kevin-moore.md
+m00015	yes	kept	domains/organization/research-group-19th-floor-move.md people/kevin-moore.md
+m00016	yes	kept	domains/work/emission-trading-poland.md
+m00017	yes	kept	domains/work/research-group-presentations.md people/stinson-gibner.md
+m00018	yes	kept	domains/industry/eprm-monte-carlo-course.md
+m00019	no	not_durable	logistics
+m00020	yes	kept	domains/work/outside-inquiries.md
+m00021	yes	kept	domains/industry/conferences-2000.md
+m00022	yes	kept	domains/organization/research-group-19th-floor-move.md
+m00023	no	not_durable	logistics
+m00024	yes	kept	domains/industry/conferences-2000.md
+m00025	yes	kept	domains/work/gas-transmission-price-model.md people/clayton-vernon.md
+m00026	yes	kept	domains/organization/performance-management-process.md
+m00027	yes	kept	domains/industry/rice-financial-engineering-program.md
+m00028	yes	kept	domains/organization/1999-12-ena-organizational-changes.md
+m00029	yes	kept	domains/industry/rice-financial-engineering-program.md people/stinson-gibner.md
+m00030	yes	kept	domains/industry/conferences-2000.md
+m00031	yes	kept	domains/organization/development-center-courses.md people/clayton-vernon.md
+m00032	yes	kept	domains/industry/conferences-2000.md
+m00033	no	not_durable	bulk
+m00034	yes	kept	domains/work/emission-trading-poland.md
+m00035	yes	kept	domains/work/emission-trading-poland.md people/joseph-hrgovcic.md
+m00036	yes	kept	domains/organization/1999-12-ena-organizational-changes.md
+m00037	yes	kept	domains/work/research-group-presentations.md
+m00038	yes	kept	domains/organization/recruiting.md
+m00039	yes	kept	domains/industry/conferences-2000.md people/vince-kaminski.md
+m00040	yes	kept	domains/work/2000-01-07-creditmanager-net-meeting.md people/vasant-shanbhogue.md
+m00041	yes	kept	domains/work/outside-inquiries.md
+m00042	yes	kept	domains/work/gas-transmission-price-model.md people/clayton-vernon.md people/vasant-shanbhogue.md
+m00043	no	not_durable	quote_only
+m00044	yes	kept	domains/industry/1999-12-el-paso-capacity-open-season.md
+m00045	no	not_durable	bulk
+m00046	yes	kept	domains/organization/research-group-19th-floor-move.md people/shirley-crenshaw.md
+m00047	yes	kept	domains/organization/1999-12-17-martina-angelova-departure.md
+m00048	yes	kept	domains/industry/1999-12-el-paso-capacity-open-season.md
+m00049	yes	kept	domains/organization/recruiting.md
+m00050	yes	kept	domains/work/emission-trading-poland.md
+m00051	yes	kept	domains/industry/conferences-2000.md
+m00052	yes	kept	domains/organization/credit-markets-group.md people/pinnamaneni-krishnarao.md people/vasant-shanbhogue.md
+m00053	no	not_durable	logistics
+m00054	yes	kept	domains/organization/1999-12-ena-organizational-changes.md
+m00055	no	not_durable	bulk
+m00056	yes	kept	domains/work/outside-inquiries.md
+m00057	yes	kept	domains/personal/views-on-imf-and-stiglitz.md
+m00058	yes	kept	domains/work/pse-swap-cpi-hedge.md
+m00059	yes	kept	domains/work/emission-trading-poland.md
+m00060	yes	kept	domains/work/emission-trading-poland.md
+m00061	no	not_durable	quote_only
+m00062	yes	kept	domains/work/outside-inquiries.md
+m00063	yes	kept	domains/organization/1999-12-ena-organizational-changes.md
+m00064	no	not_durable	quote_only
+m00065	no	not_durable	quote_only
+m00066	yes	kept	domains/organization/recruiting.md
+m00067	yes	kept	domains/industry/conferences-2000.md people/shirley-crenshaw.md
+m00068	no	not_durable	bulk
+m00069	yes	kept	domains/work/outside-inquiries.md
+m00070	no	not_durable	bulk
+m00071	no	not_durable	bulk
+m00072	yes	kept	domains/organization/credit-markets-group.md
+m00073	no	not_durable	pleasantry
