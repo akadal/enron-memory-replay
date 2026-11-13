@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-01-01
+updated: 2000-01-07
 ---
 # Organization — index
 
@@ -11,17 +11,14 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 - ENA reorganization of 15 Dec: Delainey, Piper, CTG: memory/domains/organization/ena-reorganization-1999-12-15.md
 - Officer levels 1-4 and Performance Review Committee: memory/domains/organization/performance-review-process.md
-- Research group moving to the 19th floor (office list): memory/domains/organization/research-group-19th-floor-move.md
+- Research group moving to the 19th floor: memory/domains/organization/research-group-19th-floor-move.md
 - Credit Markets Group formed in London (Seyfried): memory/domains/organization/credit-markets-group.md
+- Candidates: Sokolov, Spudeck, Jimenez (lost to Southern): memory/domains/organization/hiring-candidates-jan-2000.md
 
 ## Files
 
-- memory/domains/organization/research-group-19th-floor-move.md — move, office list, contact, active
-- memory/domains/organization/19th-floor-office-equipment.md — HP 4500n printer, Toshiba copier, active
-- memory/domains/organization/ena-reorganization-1999-12-15.md — ENA coverage/origination and CTG leaders, active
-- memory/domains/organization/performance-review-process.md — officer levels, PRC process, active
-- memory/domains/organization/credit-markets-group.md — Enron Europe credit group, active
-- memory/domains/organization/japan-merchant-business-candidate.md — Hirl's Japan search, Hoshino, active
-- memory/domains/organization/hiring-and-staffing-dec-1999.md — Van Ngo holiday help, Angelova leaving, Sam/ProStaff, active
-- memory/domains/organization/research-group-daily-lunches.md — lunch rule for 31st-floor Research Group, active
-- memory/domains/organization/rankings-for-brad-mcsherry.md — rankings "blessed by Greg", active
+Path: memory/domains/organization/ (all active)
+- research-group-19th-floor-move · 19th-floor-office-equipment · research-group-daily-lunches
+- ena-reorganization-1999-12-15 · performance-review-process · credit-markets-group · rankings-for-brad-mcsherry
+- japan-merchant-business-candidate (Hirl's Japan search) · hiring-and-staffing-dec-1999 (Ngo, Angelova, Sam/ProStaff)
+- hiring-candidates-jan-2000 · vincent-tang-green-card
