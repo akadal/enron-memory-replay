@@ -1,0 +1,9 @@
+id	durable	status	detail
+m00002	yes	kept	domains/industry/eprm-risk.md
+m00003	yes	kept	domains/industry/eprm-risk.md domains/organization/research-group.md
+m00004	yes	kept	domains/organization/research-group.md
+m00005	yes	kept	domains/organization/research-group.md
+m00006	no	not_durable	pleasantry
+m00007	yes	kept	domains/work/naphtha-caps-india.md
+m00008	yes	kept	domains/organization/research-group.md domains/work/1999-12-29-robert-lee-visit.md
+m00009	yes	kept	domains/organization/research-group.md
