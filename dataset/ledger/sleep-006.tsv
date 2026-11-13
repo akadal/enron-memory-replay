@@ -1,0 +1,71 @@
+id	durable	status	detail
+m00129	yes	kept	domains/work/credit-markets.md
+m00130	yes	kept	domains/industry/events-attending-2000.md people/shirley-crenshaw.md
+m00131	yes	kept	domains/industry/speaking-engagements-2000.md
+m00132	no	not_durable	pleasantry
+m00133	no	not_durable	pleasantry
+m00134	yes	kept	domains/industry/speaking-engagements-2000.md
+m00135	yes	kept	domains/work/outside-requests.md
+m00136	yes	kept	domains/organization/staff-and-recruiting.md people/vincent-tang.md
+m00137	no	not_durable	logistics
+m00138	yes	kept	domains/organization/research-group.md people/jason-sokolov.md people/kevin-kindall.md people/zimin-lu.md
+m00139	yes	kept	domains/organization/staff-and-recruiting.md people/jason-sokolov.md
+m00140	yes	kept	domains/industry/speaking-engagements-2000.md
+m00141	yes	kept	domains/work/day-rate-hedge.md people/chris-hilgert.md
+m00142	yes	kept	domains/organization/staff-and-recruiting.md people/jason-sokolov.md people/mike-roberts.md
+m00143	yes	kept	domains/organization/office-equipment.md
+m00144	yes	kept	domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00145	no	not_durable	pleasantry
+m00146	no	not_durable	logistics
+m00147	yes	kept	domains/organization/research-group.md people/greg-whalley.md people/stinson-gibner.md
+m00148	no	not_durable	automated
+m00149	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md people/lyn-malina.md
+m00150	no	not_durable	logistics
+m00151	no	not_durable	logistics
+m00152	yes	kept	domains/industry/events-attending-2000.md
+m00153	yes	kept	domains/work/internal-meetings.md
+m00154	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md people/lyn-malina.md people/trisha-tlapek.md
+m00155	no	not_durable	logistics
+m00156	yes	kept	domains/organization/staff-and-recruiting.md people/jason-sokolov.md
+m00157	yes	kept	domains/organization/office-equipment.md people/grant-masson.md people/lyn-malina.md
+m00158	no	not_durable	quote_only
+m00159	yes	kept	domains/work/internal-meetings.md people/grant-masson.md people/kevin-kindall.md
+m00160	yes	kept	domains/work/internal-meetings.md people/kevin-kindall.md
+m00161	no	not_durable	logistics
+m00162	no	not_durable	other
+m00163	yes	kept	domains/work/owner-publications.md people/vasant-shanbhogue.md
+m00164	yes	kept	domains/industry/speaking-engagements-2000.md
+m00165	yes	kept	domains/organization/staff-and-recruiting.md people/vasant-shanbhogue.md
+m00166	no	not_durable	logistics
+m00167	yes	kept	domains/work/owner-publications.md
+m00168	yes	kept	domains/personal/correspondence.md
+m00169	no	not_durable	logistics
+m00170	yes	kept	domains/work/credit-markets.md people/vasant-shanbhogue.md
+m00171	yes	kept	domains/work/outside-requests.md people/clayton-vernon.md
+m00172	yes	kept	domains/work/gas-flow-price-model.md people/clayton-vernon.md
+m00173	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md people/trisha-tlapek.md
+m00174	no	not_durable	logistics
+m00175	yes	kept	domains/work/credit-markets.md
+m00176	yes	kept	domains/organization/staff-and-recruiting.md people/greg-whalley.md
+m00177	no	not_durable	logistics
+m00178	yes	kept	domains/organization/staff-and-recruiting.md people/vasant-shanbhogue.md
+m00179	yes	kept	domains/organization/office-equipment.md
+m00180	yes	kept	domains/organization/leave-and-training.md people/stinson-gibner.md
+m00181	yes	kept	domains/organization/staff-and-recruiting.md people/vincent-tang.md
+m00182	yes	kept	domains/industry/speaking-engagements-2000.md
+m00183	no	not_durable	bulk
+m00184	no	not_durable	logistics
+m00185	yes	kept	domains/work/day-rate-hedge.md people/chris-hilgert.md people/stinson-gibner.md
+m00186	yes	kept	domains/organization/leave-and-training.md domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00187	yes	kept	domains/work/day-rate-hedge.md people/chris-hilgert.md
+m00188	yes	kept	domains/organization/office-equipment.md people/lyn-malina.md people/shirley-crenshaw.md
+m00189	yes	kept	domains/organization/leave-and-training.md
+m00190	yes	kept	domains/organization/leave-and-training.md
+m00191	no	not_durable	bulk
+m00192	yes	kept	domains/work/day-rate-hedge.md people/chris-hilgert.md people/stinson-gibner.md
+m00193	yes	kept	domains/organization/staff-and-recruiting.md people/vincent-tang.md
+m00194	yes	kept	domains/work/outside-requests.md
+m00195	yes	kept	domains/organization/leave-and-training.md people/shirley-crenshaw.md
+m00196	no	not_durable	logistics
+m00197	yes	kept	domains/work/outside-requests.md
+m00198	yes	kept	domains/work/internal-meetings.md people/shirley-crenshaw.md
