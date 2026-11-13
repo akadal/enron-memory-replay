@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-07-30
+updated: 2000-08-06
 ---
 # People — index
 
@@ -60,6 +60,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Datren Williams (Datren L. Williams)
 - Dave Delainey
 - David Cox
+- David Dupre
 - David Gorte (Dave Gorte)
 - David Oxley
 - David Walkup (David C. Walkup)
@@ -76,13 +77,16 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Elena Chilkina
 - Elizabeth Grant
 - Emma Wolfin
+- Eric Gadd
 - Eric Hilton
 - Erik Simpson
 - Eugenio Perez
 - Farouk Lalji
 - Fred Lagrasta
+- Gabriel Bitran
 - Gary Hickerson
 - George Hopley
+- George McClellan
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
@@ -113,6 +117,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joe Gold
 - Joe Hirko
 - Joel Hanley
+- John Arnold
 - John Bloomer
 - John D. Martin
 - John Echols
@@ -156,6 +161,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lyn Malina
 - Manuel Rensink
 - Margaret Carson
+- Mark Koenig
 - Mark Lay
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
@@ -207,6 +213,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Scott Stoness
 - Scott Tholan
 - Scott Yeager
 - Sean Grady
@@ -215,6 +222,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shan Millie
 - Shane Green
 - Sharad Agnihotri
+- Sheila Walton
 - Shelly Jones
 - Sheridan Titman
 - Sherri Sera
@@ -223,11 +231,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shirley Crenshaw
 - Soma Ghosh
 - Soussan Faiz
+- Stathis Tompaidis
 - Stephen Bramlett (Steven Bramlet)
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Stinson Gibner
 - Tanya Tamarchenko
+- Ted Bland
 - Ted Murphy
 - Teresa Bien
 - Thomas Knudsen

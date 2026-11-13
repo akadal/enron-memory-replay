@@ -3,15 +3,15 @@ id: corporate-announcements-2000
 type: topic
 domain: organization
 title: "Enron corporate announcements, 2000"
-summary: "Company-wide news, 2000: older items archived (EnronOptions grant 29 Dec); United Way breakfast Fri 4 Aug (owner registered), pledges by 7 Aug; ENA event approval thresholds; 2001-2003 plan budgets due 14 Aug."
+summary: "Company-wide news, 2000: United Way pledges by 7 Aug; budgets due 14 Aug; ENA Fileplan (records); EEA trade-secrets talk 15 Aug (owner attends); Alberta PPA auction confidential; rumour of an Enron International sale (Aug 2000); older items archived."
 status: active
-updated: 2000-07-23
+updated: 2000-08-06
 ---
 # Enron corporate announcements, 2000
 
-Detail ←[[corporate-announcements-2000-02-w08]] ←[[corporate-announcements-2000-03-w10]] ←[[corporate-announcements-2000-04-w14]] ←[[corporate-announcements-2000-2000-04-w17]] ←[[corporate-announcements-2000-2000-05-w18]] ←[[corporate-announcements-2000-2000-05-w19]] ←[[corporate-announcements-2000-2000-05-w21]] ←[[corporate-announcements-2000-2000-06-w25]] ←[[corporate-announcements-2000-2000-06-w26]] ←[[corporate-announcements-2000-2000-07-w28]] ←[[corporate-announcements-2000-2000-07-w29]]
+Detail ←[[corporate-announcements-2000-02-w08]] ←[[corporate-announcements-2000-03-w10]] ←[[corporate-announcements-2000-04-w14]] ←[[corporate-announcements-2000-2000-04-w17]] ←[[corporate-announcements-2000-2000-05-w18]] ←[[corporate-announcements-2000-2000-05-w19]] ←[[corporate-announcements-2000-2000-05-w21]] ←[[corporate-announcements-2000-2000-06-w25]] ←[[corporate-announcements-2000-2000-06-w26]] ←[[corporate-announcements-2000-2000-07-w28]] ←[[corporate-announcements-2000-2000-07-w29]] ←[[corporate-announcements-2000-2000-08-w31]]
 
-- [2000-07-10] United Way 2000 (goal $2,310,000; agency DePelchin Children's Center): executive breakfasts for VPs and up, Thu 3 Aug (Joe Sutton) or Fri 4 Aug (Skilling), 7:45-9:00, bus 7:30; RSVP by 26 Jul; owner: "Please, register me for Friday." ←[[m02338]] ←[[m02340]]
-- [2000-07-10] ENA events: customer events over $5,000 and employee events over $2,000 (with an agenda) need PR review (EB 3642, Dorie Hitchcock) and ENA Office of the Chairman approval. ←[[m02339]]
-- [2000-07-14] 2001-2003 Operating & Strategic Plan: a Budget Template per 2001 cost center, due to Corp. Financial Planning (Dawn Derr, X37775) by 14 Aug; corrected files 17 and 20 Jul. ←[[m02408]] ←[[m02437]]
-- [2000-07-23] United Way executive solicitation (Office of the Chairman): pledge at unitedway.enron.com by Mon 7 Aug; kickoff 9 Aug; with the dollar-for-dollar match over $4.5M; coordinator Kathy Mayfield; Make a Difference Club: 1.2% of a base of $90,000 or more; Chairman's Club $1,000-9,999; Tocqueville $10,000+. ←[[m02452]]
+- [2000-08-01] ENA Fileplan (Carolyn Gilley, ENA Records Manager; Millican & Associates' Sara Bolken, x35150): an inventory of each department's records and retention, via a VP or director, then a working contact; Crenshaw forwards it FYI. ←[[m02629]]
+- [2000-08-01] Clayton Vernon's rumour: the Board meets this week to approve selling all Enron International assets to the Saudi prince who once bailed out Citicorp. ←[[m02639]]
+- [2000-08-01] EEA (trade secrets) talk by Daniel Waltz (Patton Boggs), Tue 15 Aug 1:30-3:00, 50th floor, opening ENA CABC's CI Standards Program (FCPA next, in the fall); Scott Tholan invites the owner, Lavorato, Shankman, Whalley, Kean; owner: "I shall attend." ←[[m02649]]
+- [2000-08-03] Alberta PPA auction (from 2 Aug): Enron Canada Power Corp. is an Invited Bidder; everything stays confidential until the winners are announced; US$27MM bid deposit; questions to Peter Keohane. ←[[m02680]]
