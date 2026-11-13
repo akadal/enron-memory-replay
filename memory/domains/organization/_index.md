@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-03-26
+updated: 2000-03-31
 ---
 # Organization — index
 
@@ -10,10 +10,10 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 ## Hot
 
 - Candidates: Krausz 28 Mar, Greene wanted by Zimin Lu, Romine no-show → memory/domains/organization/recruiting-candidates.md
-- Knudsen (London) to interview; Kemen in Austin; Gandy's Entergy OR PhD → memory/domains/organization/candidate-referrals-2000.md
+- Knudsen video-interviewed, owner: strong; Gandy's Entergy OR PhD → memory/domains/organization/candidate-referrals-2000.md
 - Group moves to the 32nd floor at end of March → memory/domains/organization/office-equipment.md
-- SAP HR time keeping by 1 Jul; Moody's upgrade to Baa1 → memory/domains/organization/corporate-announcements-2000.md
-- Sokolov recommended to Ted Murphy; Gappy accepted → memory/domains/organization/summer-interns-2000.md
+- Dincerler asks to return; London intern for Leppard → memory/domains/organization/summer-interns-2000.md
+- Sergeev to EBS in D.C. from 1 May; Li Xiao's referral bonus → memory/domains/organization/staff-and-recruiting.md
 
 ## Files
 

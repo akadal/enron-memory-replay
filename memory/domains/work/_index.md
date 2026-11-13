@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-03-26
+updated: 2000-03-31
 ---
 # Work — index
 
@@ -9,18 +9,18 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- KMV visited 20 Mar; Rudy to see Seyfried in London 31 Mar → memory/domains/work/credit-markets.md
-- EBS offsite, Breckenridge: 21-23 or 27-30 Apr (?) → memory/domains/work/broadband-services.md
+- EBS offsite, Breckenridge, 27-29 Apr; Skilling Fri 28 → memory/domains/work/broadband-services.md
+- UK inflation curves: Sherriff wants them now; Houston review (Zimin, Maureen, owner) → memory/domains/work/uk-inflation-book-ppi.md
+- Owner speaks to Jim Dyer's UT class 20 Apr (tentative) → memory/domains/work/outside-requests.md
+- Synthetic storage valued for Peoples Energy → memory/domains/work/storage-model.md
 - Bambos funding to settle before his visit (21 Apr or 19 May) → memory/domains/work/stanford-research-ties.md
-- Enron Media / Advertising with Mike Horning, 28 Mar 3 PM → memory/domains/work/enron-media-advertising.md
-- Owner opens the BBLOP brown bag Fri 31 Mar → memory/domains/work/research-presentations.md
 
 ## Files
 
 - memory/domains/work/2000-02-20-london-trip.md — London trip, Feb 2000
 - memory/domains/work/argentina-modelling.md — Argentina models (Guerriero)
 - memory/domains/work/basis-report.md — Masson's basis report
-- memory/domains/work/broadband-services.md — EBS support, Hamachi, offsite
+- memory/domains/work/broadband-services.md — EBS support, offsite 27-29 Apr
 - memory/domains/work/chicago-office-support.md — Chicago office
 - memory/domains/work/china-pipeline-real-options.md — China pipeline options
 - memory/domains/work/church-giving-forecast.md — Vernon's church regression
@@ -29,7 +29,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/crude-oil-digital-option.md — crude digital option
 - memory/domains/work/dabhol-power-sale.md — Dabhol Rupee curve
 - memory/domains/work/day-rate-hedge.md — rig day-rate hedges (Peyton)
-- memory/domains/work/ebs-network-planning.md — EBS network modelling, Lucent
+- memory/domains/work/ebs-network-planning.md — EBS network modelling, Lucent, Orillion
 - memory/domains/work/ebs-storage-market.md — EBS storage trading
 - memory/domains/work/emission-trading-poland.md — Polish emission trading
 - memory/domains/work/enron-media-advertising.md — media/advertising idea
@@ -43,7 +43,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ljm-put-valuation.md — LJM puts
 - memory/domains/work/model-risk-audit.md — 1999 model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps, India
-- memory/domains/work/outside-requests.md — small asks (Nebraska, Titman, EOTT)
+- memory/domains/work/outside-requests.md — small asks (Nebraska, Dyer, Turkey)
 - memory/domains/work/owner-publications.md — MEPR, Strickland's book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
 - memory/domains/work/pse-swap-warsaw.md — PSE swap reserve
@@ -56,6 +56,6 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/uk-inflation-book-ppi.md — UK Inflation Book PPI
 - memory/domains/work/uk-power-vol-curve.md — UK power and half-hourly vols
 - memory/domains/work/vega-var.md — vega VaR, Credit Reserve Model
-- memory/domains/work/vendor-offers-2000.md — vendors: Geman, IDEA, CA PX
+- memory/domains/work/vendor-offers-2000.md — vendors: Geman, IDEAglobal
 
 Closed: 1
