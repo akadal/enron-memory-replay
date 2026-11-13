@@ -22,7 +22,20 @@ ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "runs")
 
 
 def cost(rec):
-    h = rec.get("harness") or {}
+    usd, tok = 0.0, {"in": 0, "out": 0, "read": 0, "write": 0}
+    for part in (rec.get("harness") or {}).values():
+        if not part:
+            continue
+        u, t = cost_one(part)
+        if u is None:
+            return None, tok
+        usd += u
+        for k in tok:
+            tok[k] += t[k]
+    return usd, tok
+
+
+def cost_one(h):
     usage = h.get("usage") or {}
     cc = usage.get("cache_creation") or {}
     total_cc = (cc.get("ephemeral_1h_input_tokens") or 0) + (cc.get("ephemeral_5m_input_tokens") or 0)
@@ -45,19 +58,23 @@ def cost(rec):
 
 def main():
     rows = []
-    for f in sorted(glob.glob(os.path.join(ROOT, "sleep-[0-9][0-9].json"))):
+    for f in sorted(glob.glob(os.path.join(ROOT, "sleep-[0-9][0-9][0-9].json"))):
         with open(f, encoding="utf-8") as fh:
             r = json.load(fh)
         usd, tok = cost(r)
         s = r["sizes"]
         l1 = sum(s[k]["chars"] for k in ("root", "state", "questions", "todo", "domains", "people"))
+        h = (r.get("harness") or {}).get("main") or {}
+        feed = r.get("feed") or {}
+        led = r.get("ledger") or {}
         rows.append({
-            "sleep": r["sleep"], "today": r["simulated_today"],
-            "fed_chars": (r.get("feed") or {}).get("chars"),
+            "slice": r["slice"], "today": r["simulated_today"], "msgs": feed.get("messages"),
+            "durable": feed.get("durable"), "inbox_chars": feed.get("inbox_chars"),
+            "kept": led.get("kept"), "dropped": led.get("dropped"), "missing": led.get("missing"),
+            "repair": r.get("repair_turn"),
             "usd": round(usd, 3) if usd is not None else None,
-            "cli_usd": (r.get("harness") or {}).get("total_cost_usd"),
             "tok_in_total": tok["in"] + tok["read"] + tok["write"], "tok_out": tok["out"],
-            "turns": (r.get("harness") or {}).get("num_turns"), "seconds": r["wall_seconds"],
+            "turns": h.get("num_turns"), "seconds": r["wall_seconds"],
             "week_before": (r.get("quota_before") or {}).get("seven_day"),
             "week_after": (r.get("quota_after") or {}).get("seven_day"),
             "l1_chars": l1, "l1_files": s["domains"]["files"] + s["people"]["files"],
@@ -74,8 +91,7 @@ def main():
         print("| " + " | ".join("" if r[c] is None else str(r[c]) for c in cols) + " |")
     if rows:
         tot = sum(r["usd"] or 0 for r in rows)
-        print(f"\nTotal {len(rows)} consolidations: ${tot:.2f} at list price "
-              f"(CLI said ${sum(r['cli_usd'] or 0 for r in rows):.2f}); "
+        print(f"\nTotal {len(rows)} consolidations: ${tot:.2f} at list price; "
               f"{sum(r['seconds'] for r in rows) / 60:.0f} min wall time.")
 
 
