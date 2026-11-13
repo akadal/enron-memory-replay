@@ -1,0 +1,198 @@
+{
+ "slice": 37,
+ "simulated_today": "2000-08-11",
+ "feed": {
+  "slice": 37,
+  "iso_week": "2000-W32",
+  "first_seq": 2701,
+  "last_seq": 2827,
+  "messages": 127,
+  "durable": 109,
+  "first_date": "2000-08-07 00:58",
+  "last_date": "2000-08-11 18:20",
+  "today": "2000-08-11",
+  "inbox_files": [
+   "2000-08-07--mail.md",
+   "2000-08-08--mail.md",
+   "2000-08-09--mail.md",
+   "2000-08-10--mail.md",
+   "2000-08-11--mail.md"
+  ],
+  "inbox_chars": 74751,
+  "l2_chars": 291890
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 757,
+ "quota_before": {
+  "five_hour": 9.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 11.0,
+  "seven_day": 32.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 37,
+  "messages": 127,
+  "durable": 109,
+  "kept": 106,
+  "kept_rate_excluding_redundant": 0.972,
+  "drop_classes": {
+   "other": 2,
+   "social": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1488,
+  "fact_lines_with_source": 1081,
+  "dated": 1081,
+  "date_matches_source": 1058,
+  "date_mismatch_ids_this_slice": [
+   "m02701",
+   "m02706",
+   "m02725",
+   "m02752",
+   "m02758",
+   "m02768",
+   "m02793",
+   "m02801",
+   "m02806",
+   "m02809",
+   "m02822"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.62
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 654
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1298
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 112,
+   "chars": 191429
+  },
+  "people": {
+   "files": 274,
+   "chars": 192289
+  },
+  "archive_inbox": {
+   "files": 233,
+   "chars": 1700798
+  },
+  "archive_mail": {
+   "files": 2853,
+   "chars": 7022596
+  },
+  "archive_other": {
+   "files": 526,
+   "chars": 544809
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 59,
+   "duration_ms": 755615,
+   "duration_api_ms": 675706,
+   "total_cost_usd": 4.747253799999998,
+   "usage": {
+    "input_tokens": 108,
+    "cache_creation_input_tokens": 203385,
+    "cache_read_input_tokens": 8208009,
+    "output_tokens": 73907,
+    "output_tokens_details": {
+     "thinking_tokens": 33970
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 203385,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 717,
+      "cache_read_input_tokens": 233913,
+      "cache_creation_input_tokens": 1263,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1263
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 108,
+     "outputTokens": 73907,
+     "cacheReadInputTokens": 8208009,
+     "cacheCreationInputTokens": 203385,
+     "webSearchRequests": 0,
+     "costUSD": 4.747253799999998,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 33970,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 203385,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 58,
+   "result_summary": "The consolidation for 2000-08-11 (week 2000-W32) is done and committed as `3e5930a`. Lint and sleep-audit both passed on the first try, and I did not push, since the runner does that. All 127 messages were processed: 109 had notes, 106 are now cited in memory and 3 are listed in `dataset/drops/sleep-037.tsv` (two links the owner mailed to himself, m02816 and m02821, and a poker invitation, m02817). The main news is about Anjam Ahmad's move to Houston: he wants 12-month assignment terms, and the owner said he gets the offer as discussed or stays in London. Grant Masson is holding at 110 and has asked the owner for guidelines. The meeting with MIT and Arthur Andersen on the research lab, set for 10 Aug, was postponed. I opened four new topic files: a review of the gas transportation model, follow-ups with the Sydney office after the owner's July visit, August candidate interviews (Quentin Kerr, Jeff Andrews, Li Sun) and Research accounting (a missing cost true-up with the gas pipeline group, GPG, and the 2001-2003 budget). I also opened 19 people files for everyone whose fifth noted message arrived this week. The question about \"Timothy Luehrman\" passed its due date, so I closed it unanswered and left the name unlinked; the log is in `memory/archive/inbox/2000-08-11--mail-2.md`. I opened `rick-bryant.md` without adding \"Richard Bryant\" as an alias, and left that question waiting for approval. To keep files within budget, I moved older lines from 22 topic files into `memory/archive/*/2000/*-2000-08-w32.md`. No file was above 90% of its size limit, so the three-file compression quota had nothing to act on. The five oldest \"still true\" lines are all still valid. The inbox held no sleep-task block, and the inbox is now empty."
+  },
+  "repair": null
+ }
+}
