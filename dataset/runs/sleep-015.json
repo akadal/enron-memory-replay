@@ -1,0 +1,185 @@
+{
+ "slice": 15,
+ "simulated_today": "2000-03-12",
+ "feed": {
+  "slice": 15,
+  "iso_week": "2000-W10",
+  "first_seq": 862,
+  "last_seq": 955,
+  "messages": 94,
+  "durable": 80,
+  "first_date": "2000-03-06 00:22",
+  "last_date": "2000-03-12 14:37",
+  "today": "2000-03-12",
+  "inbox_files": [
+   "2000-03-06--mail.md",
+   "2000-03-07--mail.md",
+   "2000-03-08--mail.md",
+   "2000-03-09--mail.md",
+   "2000-03-10--mail.md",
+   "2000-03-11--mail.md",
+   "2000-03-12--mail.md"
+  ],
+  "inbox_chars": 62396,
+  "l2_chars": 297136
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 1104,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 16.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 15.0,
+  "seven_day": 17.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 15,
+  "messages": 94,
+  "durable": 80,
+  "kept": 80,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 693,
+  "fact_lines_with_source": 614,
+  "dated": 614,
+  "date_matches_source": 609,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 589
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2375
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 69,
+   "chars": 110922
+  },
+  "people": {
+   "files": 100,
+   "chars": 83725
+  },
+  "archive_inbox": {
+   "files": 84,
+   "chars": 554306
+  },
+  "archive_mail": {
+   "files": 981,
+   "chars": 2404810
+  },
+  "archive_other": {
+   "files": 102,
+   "chars": 164769
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 106,
+   "duration_ms": 1102646,
+   "duration_api_ms": 1007746,
+   "total_cost_usd": 6.756306,
+   "usage": {
+    "input_tokens": 138,
+    "cache_creation_input_tokens": 239872,
+    "cache_read_input_tokens": 12211890,
+    "output_tokens": 119720,
+    "output_tokens_details": {
+     "thinking_tokens": 33614
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 239872,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 999,
+      "cache_read_input_tokens": 268955,
+      "cache_creation_input_tokens": 948,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 948
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 138,
+     "outputTokens": 119720,
+     "cacheReadInputTokens": 12211890,
+     "cacheCreationInputTokens": 239872,
+     "webSearchRequests": 0,
+     "costUSD": 6.756306,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 33614,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 239872,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 105,
+   "result_summary": "I ran the 2000-03-12 consolidation for week 2000-W10 and committed it as one commit (`df178b2`). Both gates passed, `lint.py` and `sleep-audit.py`, so I didn't need to roll back to `pre-sleep`. I did not push: the replay instructions say the runner pushes after its own checks, which overrides the \"git push\" line at the end of the prompt.\n\nAll 80 messages with notes are cited in L1, so `dataset/drops/sleep-015.tsv` is empty. The main items this week:\n- **Broadband (EBS):** the Hamachi talks moved to the Hamachi campus, 14–17 Mar. The offsite with Griebling's optical engineers moved from 13–14 Apr to 14–15 Apr, and the owner then approved 21–22 Apr.\n- **New topic files:**\n  - `ebs-network-planning`: Griebling's request for a network modelling group (OPNET software, a Sycamore contractor, outside consultants).\n  - `ebs-storage-market`: Mark Palmer and Shalesh Ganjoo's EBS-wide storage effort, which needs Research to define a tradable unit and pricing.\n  - `uk-inflation-book-ppi`: Ahmad's PPI model for London's UK Inflation Book.\n  - `ferc-transmission-resale`: Martin Lin's 16 Mar Harvard panel with FERC's O'Neill on the transmission resale cap.\n- **Hiring and people:** Paleologo (Gappy) accepted his summer offer, and the group will pay his tuition. Brad Romine won't start on 15 Mar. Krausz interviews from 28 Mar, and Greene has interviewed.\n- **The owner's own calendar:** he is enrolled in Strickland's Houston courses, 29–31 Mar. The group moves to the 32nd floor at month end. He has dinner at Tony Mends' house on 22 Apr.\n\nFifteen people reached five noted messages and now have entity files and alias-table lines. Paleologo's file was overdue from an earlier week. I added this week's lines to 14 existing entity files. Older detail from sixteen topic files moved under `memory/archive/<domain>/2000/`, which kept every file within the ratchet tolerance and out of the top budget band.\n\nI logged one approval question in `questions.md` and applied nothing behind a gate: shoul"
+  },
+  "repair": null
+ }
+}

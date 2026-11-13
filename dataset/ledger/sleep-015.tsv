@@ -1,0 +1,95 @@
+id	durable	status	detail
+m00862	no	not_durable	pleasantry
+m00863	yes	kept	domains/personal/correspondence.md people/jana-phillips.md
+m00864	yes	kept	domains/organization/recruiting-candidates.md
+m00865	yes	kept	domains/work/broadband-services.md people/paulo-rocha-e-oliveira.md
+m00866	yes	kept	domains/organization/research-group.md domains/work/broadband-services.md
+m00867	yes	kept	domains/work/broadband-services.md people/jim-irvine.md
+m00868	yes	kept	domains/work/ebs-network-planning.md people/jim-irvine.md people/john-bloomer.md people/john-griebling.md
+m00869	yes	kept	domains/work/owner-publications.md people/gopalakrishnan-subramaniam.md
+m00870	yes	kept	domains/work/research-presentations.md
+m00871	no	not_durable	logistics
+m00872	yes	kept	domains/organization/recruiting-candidates.md
+m00873	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/correspondence.md people/jana-phillips.md
+m00874	yes	kept	domains/personal/correspondence.md people/jana-phillips.md
+m00875	yes	kept	domains/work/broadband-services.md
+m00876	yes	kept	domains/industry/gpcm-rbac.md people/robert-brooks.md
+m00877	yes	kept	domains/organization/software-licenses.md people/karla-feldman.md
+m00878	yes	kept	people/helyette-geman.md people/karla-feldman.md
+m00879	yes	kept	domains/organization/software-licenses.md
+m00880	yes	kept	domains/personal/correspondence.md people/jana-phillips.md
+m00881	yes	kept	domains/personal/correspondence.md people/anthony-mends.md
+m00882	yes	kept	domains/organization/software-licenses.md people/karla-feldman.md
+m00883	yes	kept	domains/work/broadband-services.md people/john-griebling.md people/ravi-thuraisingham.md
+m00884	yes	kept	domains/work/broadband-services.md
+m00885	yes	kept	domains/industry/eprm-risk.md
+m00886	no	not_durable	bulk
+m00887	no	not_durable	bulk
+m00888	yes	kept	domains/personal/correspondence.md people/anthony-mends.md
+m00889	yes	kept	domains/organization/recruiting-candidates.md
+m00890	yes	kept	domains/organization/recruiting-candidates.md
+m00891	yes	kept	domains/work/ebs-network-planning.md people/ravi-thuraisingham.md
+m00892	no	not_durable	logistics
+m00893	yes	kept	domains/organization/recruiting-candidates.md people/nurit-krausz.md
+m00894	yes	kept	domains/industry/ferc-transmission-resale.md people/martin-lin.md
+m00895	yes	kept	domains/work/research-presentations.md people/zimin-lu.md
+m00896	yes	kept	domains/organization/leave-and-training.md people/chris-strickland.md
+m00897	yes	kept	domains/work/credit-markets.md
+m00898	yes	kept	domains/personal/correspondence.md people/anthony-mends.md
+m00899	yes	kept	domains/work/ebs-network-planning.md
+m00900	yes	kept	domains/organization/corporate-announcements-2000.md
+m00901	no	not_durable	bulk
+m00902	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00903	yes	kept	domains/organization/leave-and-training.md people/chris-strickland.md
+m00904	yes	kept	domains/personal/household.md
+m00905	yes	kept	domains/work/fas133-implementation.md
+m00906	no	not_durable	logistics
+m00907	yes	kept	domains/work/ebs-storage-market.md people/mark-palmer.md people/shalesh-ganjoo.md
+m00908	yes	kept	domains/work/broadband-services.md people/john-griebling.md people/ravi-thuraisingham.md
+m00909	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m00910	yes	kept	domains/organization/recruiting-candidates.md
+m00911	yes	kept	domains/work/vendor-offers-2000.md people/helyette-geman.md people/karla-feldman.md
+m00912	no	not_durable	logistics
+m00913	yes	kept	domains/industry/events-attending-2000.md
+m00914	yes	kept	domains/work/ebs-network-planning.md people/jim-irvine.md people/john-bloomer.md people/martin-lin.md
+m00915	yes	kept	domains/work/fas133-implementation.md
+m00916	yes	kept	domains/organization/office-equipment.md people/iain-russell.md
+m00917	yes	kept	domains/organization/research-group.md
+m00918	yes	kept	domains/work/ebs-network-planning.md people/jim-irvine.md people/kristy-carnes.md
+m00919	yes	kept	domains/organization/london-research.md
+m00920	yes	kept	domains/work/ebs-storage-market.md people/john-bloomer.md people/mark-palmer.md people/shalesh-ganjoo.md
+m00921	yes	kept	domains/organization/leave-and-training.md
+m00922	yes	kept	domains/industry/events-attending-2000.md
+m00923	yes	kept	domains/work/ebs-storage-market.md people/john-bloomer.md people/mark-palmer.md people/shalesh-ganjoo.md
+m00924	no	not_durable	bulk
+m00925	no	not_durable	bulk
+m00926	no	not_durable	bulk
+m00927	yes	kept	domains/organization/summer-interns-2000.md people/celeste-roberts.md people/giuseppe-paleologo.md
+m00928	no	not_durable	logistics
+m00929	yes	kept	domains/work/ebs-storage-market.md people/shalesh-ganjoo.md
+m00930	yes	kept	domains/industry/rice-university.md
+m00931	yes	kept	domains/industry/rice-university.md
+m00932	yes	kept	domains/industry/speaking-engagements-2000.md
+m00933	yes	kept	domains/work/ebs-storage-market.md people/john-bloomer.md people/shalesh-ganjoo.md
+m00934	yes	kept	domains/work/broadband-services.md
+m00935	yes	kept	domains/work/broadband-services.md
+m00936	yes	kept	domains/work/internal-meetings.md people/jay-webb.md
+m00937	yes	kept	domains/work/internal-meetings.md people/jay-webb.md
+m00938	yes	kept	domains/work/internal-meetings.md people/jay-webb.md
+m00939	yes	kept	domains/industry/speaking-engagements-2000.md people/lenos-trigeorgis.md
+m00940	yes	kept	domains/organization/recruiting-candidates.md people/brad-romine.md people/celeste-roberts.md
+m00941	no	not_durable	bulk
+m00942	yes	kept	domains/organization/leave-and-training.md domains/organization/research-group.md people/chris-strickland.md
+m00943	yes	kept	domains/organization/leave-and-training.md
+m00944	no	not_durable	logistics
+m00945	yes	kept	domains/organization/leave-and-training.md
+m00946	yes	kept	domains/organization/leave-and-training.md domains/work/internal-meetings.md people/jay-webb.md
+m00947	yes	kept	domains/work/broadband-services.md people/john-griebling.md
+m00948	yes	kept	domains/organization/recruiting-candidates.md
+m00949	yes	kept	domains/work/uk-inflation-book-ppi.md people/anjam-ahmad.md people/martina-angelova.md
+m00950	yes	kept	domains/industry/aiesec-houston.md
+m00951	yes	kept	domains/industry/speaking-engagements-2000.md people/lenos-trigeorgis.md
+m00952	yes	kept	domains/organization/corporate-announcements-2000.md
+m00953	yes	kept	domains/organization/corporate-announcements-2000.md people/jay-webb.md people/philippe-bibi.md
+m00954	yes	kept	domains/work/uk-inflation-book-ppi.md people/anjam-ahmad.md people/martina-angelova.md
+m00955	yes	kept	domains/organization/recruiting-candidates.md people/rodney-greene.md
