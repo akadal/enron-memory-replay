@@ -1,0 +1,77 @@
+id	durable	status	detail
+m00350	yes	kept	domains/industry/events-attending-2000.md
+m00351	yes	kept	domains/organization/staff-and-recruiting.md
+m00352	yes	kept	domains/organization/research-group.md
+m00353	yes	kept	domains/work/gas-flow-price-model.md people/clayton-vernon.md
+m00354	yes	kept	domains/work/internal-meetings.md people/tanya-tamarchenko.md
+m00355	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/robert-lee.md
+m00356	yes	kept	domains/work/broadband-services.md people/stinson-gibner.md
+m00357	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/robert-lee.md
+m00358	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md
+m00359	yes	kept	domains/work/enterprise-risk-management.md people/ted-murphy.md
+m00360	yes	kept	domains/organization/office-equipment.md people/tanya-tamarchenko.md
+m00361	yes	kept	domains/organization/office-equipment.md people/lyn-malina.md
+m00362	yes	kept	domains/work/credit-markets.md people/benjamin-parsons.md people/bryan-seyfried.md
+m00363	yes	kept	domains/organization/corporate-announcements-2000.md
+m00364	yes	kept	domains/industry/speaking-engagements-2000.md people/emma-wolfin.md
+m00365	yes	kept	domains/industry/speaking-engagements-2000.md
+m00366	yes	kept	domains/industry/speaking-engagements-2000.md
+m00367	yes	kept	domains/industry/speaking-engagements-2000.md
+m00368	yes	dropped	logistics: Kevin Moore phone-extension changes for the group (incl. Jose Marquez); no lasting content
+m00369	no	not_durable	other
+m00370	yes	kept	domains/work/enterprise-risk-management.md
+m00371	yes	kept	domains/organization/london-research.md people/anjam-ahmad.md people/benjamin-parsons.md
+m00372	yes	kept	domains/organization/recruiting-candidates.md
+m00373	yes	kept	domains/work/broadband-services.md
+m00374	yes	kept	domains/work/enterprise-risk-management.md people/shirley-crenshaw.md
+m00375	yes	kept	domains/work/broadband-services.md people/ravi-thuraisingham.md
+m00376	yes	kept	domains/work/owner-publications.md
+m00377	yes	kept	domains/organization/recruiting-candidates.md
+m00378	yes	kept	domains/work/enterprise-risk-management.md people/ted-murphy.md
+m00379	yes	kept	domains/work/outside-requests.md
+m00380	yes	kept	domains/work/outside-requests.md
+m00381	yes	kept	domains/organization/recruiting-candidates.md domains/work/enterprise-risk-management.md people/ted-murphy.md
+m00382	yes	kept	domains/work/china-pipeline-real-options.md people/zimin-lu.md
+m00383	yes	kept	domains/work/uk-power-vol-curve.md
+m00384	yes	kept	domains/work/rofr-valuation.md people/clayton-vernon.md
+m00385	yes	kept	domains/organization/staff-and-recruiting.md
+m00386	yes	kept	domains/work/broadband-services.md
+m00387	yes	kept	domains/work/outside-requests.md
+m00388	yes	dropped	social: Kimberly Watson congratulates the owner on the MD promotion; promotion already kept
+m00389	yes	dropped	social: Lou Casari congratulates the owner on the promotion
+m00390	no	not_durable	bulk
+m00391	no	not_durable	pleasantry
+m00392	yes	kept	domains/organization/research-group.md
+m00393	yes	dropped	social: owner thanks Lou Casari for congratulations
+m00394	yes	kept	domains/work/rofr-valuation.md people/clayton-vernon.md
+m00395	yes	kept	domains/organization/research-group.md
+m00396	yes	kept	domains/work/church-giving-forecast.md
+m00397	yes	kept	domains/work/dabhol-power-sale.md people/sandeep-kohli.md
+m00398	yes	kept	domains/work/church-giving-forecast.md people/clayton-vernon.md
+m00399	yes	kept	domains/work/broadband-services.md
+m00400	yes	kept	domains/work/broadband-services.md people/ravi-thuraisingham.md
+m00401	yes	kept	domains/work/church-giving-forecast.md
+m00402	no	not_durable	logistics
+m00403	yes	kept	domains/organization/recruiting-candidates.md people/zimin-lu.md
+m00404	yes	kept	domains/industry/gpcm-rbac.md people/clayton-vernon.md
+m00405	yes	kept	domains/work/broadband-services.md
+m00406	yes	kept	domains/industry/market-outlooks-2000.md people/mike-roberts.md
+m00407	yes	kept	domains/industry/market-outlooks-2000.md
+m00408	yes	dropped	logistics: owner sends Larry Lawyer a JDSU article copy; no lasting content
+m00409	yes	kept	domains/work/broadband-services.md people/stinson-gibner.md
+m00410	yes	kept	domains/organization/leave-and-training.md
+m00411	no	not_durable	logistics
+m00412	yes	kept	domains/organization/london-research.md people/anjam-ahmad.md people/benjamin-parsons.md people/bryan-seyfried.md
+m00413	yes	kept	domains/work/church-giving-forecast.md people/clayton-vernon.md
+m00414	yes	kept	domains/work/rofr-valuation.md people/zimin-lu.md
+m00415	no	not_durable	logistics
+m00416	yes	kept	domains/industry/declined-invitations-2000.md
+m00417	yes	kept	domains/industry/market-outlooks-2000.md people/ted-murphy.md
+m00418	yes	kept	domains/organization/recruiting-candidates.md
+m00419	yes	kept	domains/organization/corporate-announcements-2000.md
+m00420	no	not_durable	pleasantry
+m00421	no	not_durable	bulk
+m00422	yes	kept	domains/work/owner-publications.md people/grant-masson.md
+m00423	yes	kept	domains/work/broadband-services.md
+m00424	yes	kept	domains/industry/declined-invitations-2000.md
+m00425	yes	kept	domains/organization/recruiting-candidates.md people/ted-murphy.md
