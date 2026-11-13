@@ -1,0 +1,56 @@
+id	durable	status	detail
+m00426	yes	kept	domains/industry/market-outlooks-2000.md people/mike-roberts.md people/rick-buy.md
+m00427	yes	kept	domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00428	yes	kept	domains/organization/recruiting-candidates.md people/stinson-gibner.md people/zimin-lu.md
+m00429	yes	kept	domains/work/dabhol-power-sale.md people/sandeep-kohli.md
+m00430	yes	kept	domains/industry/speaking-engagements-2000.md people/oliver-bennett.md
+m00431	yes	kept	domains/work/dabhol-power-sale.md
+m00432	yes	kept	domains/organization/recruiting-candidates.md
+m00433	no	not_durable	other
+m00434	yes	kept	domains/personal/correspondence.md
+m00435	yes	kept	domains/industry/speaking-engagements-2000.md
+m00436	yes	kept	domains/industry/events-attending-2000.md
+m00437	no	not_durable	quote_only
+m00438	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/household.md people/oliver-bennett.md
+m00439	no	not_durable	other
+m00440	yes	kept	domains/work/broadband-services.md
+m00441	yes	kept	domains/personal/correspondence.md
+m00442	yes	kept	domains/industry/aiesec-houston.md
+m00443	no	not_durable	quote_only
+m00444	no	not_durable	quote_only
+m00445	yes	kept	domains/organization/corporate-announcements-2000.md people/greg-whalley.md people/kevin-hannon.md
+m00446	yes	kept	domains/work/vega-var.md people/tanya-tamarchenko.md
+m00447	yes	kept	domains/organization/london-research.md
+m00448	yes	kept	domains/industry/events-attending-2000.md
+m00449	yes	kept	domains/industry/speaking-engagements-2000.md
+m00450	yes	dropped	logistics: Judith Schlesinger ordered the Risk Management book the owner requested (out 2 Jun); no lasting content
+m00451	yes	kept	domains/work/internal-meetings.md people/pinnamaneni-krishnarao.md
+m00452	yes	kept	domains/organization/leave-and-training.md
+m00453	yes	kept	domains/work/broadband-services.md people/ravi-thuraisingham.md people/stinson-gibner.md
+m00454	no	not_durable	bulk
+m00455	yes	kept	domains/industry/rice-university.md
+m00456	yes	kept	domains/work/grms.md people/rick-buy.md people/ted-murphy.md
+m00457	yes	kept	domains/work/owner-publications.md people/grant-masson.md
+m00458	yes	kept	domains/work/broadband-services.md people/pinnamaneni-krishnarao.md people/ravi-thuraisingham.md people/samer-takriti.md
+m00459	yes	kept	domains/work/promigas-tvcable-option.md people/zimin-lu.md
+m00460	yes	kept	domains/personal/correspondence.md
+m00461	yes	kept	domains/industry/aiesec-houston.md
+m00462	yes	kept	domains/industry/events-attending-2000.md
+m00463	no	not_durable	quote_only
+m00464	no	not_durable	quote_only
+m00465	no	not_durable	logistics
+m00466	no	not_durable	logistics
+m00467	no	not_durable	quote_only
+m00468	yes	kept	domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00469	no	not_durable	quote_only
+m00470	yes	kept	domains/work/promigas-tvcable-option.md people/zimin-lu.md
+m00471	yes	kept	domains/organization/recruiting-candidates.md people/robert-lee.md
+m00472	yes	kept	domains/organization/research-group.md
+m00473	no	not_durable	logistics
+m00474	yes	kept	domains/organization/recruiting-candidates.md people/brad-mcsherry.md people/samer-takriti.md people/stinson-gibner.md
+m00475	yes	kept	domains/work/grms.md people/rick-buy.md people/ted-murphy.md
+m00476	yes	kept	domains/work/dabhol-power-sale.md people/sandeep-kohli.md
+m00477	no	not_durable	logistics
+m00478	yes	kept	domains/work/owner-publications.md people/grant-masson.md
+m00479	yes	kept	domains/work/owner-publications.md
+m00480	yes	kept	domains/work/owner-publications.md
