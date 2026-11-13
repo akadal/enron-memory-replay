@@ -3,13 +3,13 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Members, titles, Thursday staff meeting and video conference, Research Projects Tracking database; timesheets by e-mail (13th and 28th); staff meeting 20 Jul (Jul 2000); 19th-floor offices closed; admin history archived."
+summary: "Members, titles, Thursday staff meeting and video conference, Research Projects Tracking database; SAP timesheets by the 13th and 29th (Jul 2000); the group is on the 19th floor again, owner EB1962 (Jul 2000); admin history archived."
 status: active
-updated: 2000-07-14
+updated: 2000-07-30
 ---
 # The owner's Research Group
 
-Detail ←[[research-group-2000-07-w28]]
+Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]]
 
 Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]]
 
@@ -23,8 +23,8 @@ Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.
 
 - [2000-01-14→] Research Projects Tracking database (Lotus Notes): access via a security resource request. ←[[m00343]]
 - [2000-03-16→] Thursdays 11:30-1:00, EB30C1: staff meeting with lunch, and the video conference with London and Portland (30-35 people). ←[[m00994]] ←[[m01052]] ←[[m01964]]
-- [2000-07-12] Timesheets by e-mail (Crenshaw): off-duty and overtime due the 13th and 28th. ←[[m02354]] ←[[m02374]]
-- [2000-07-12] Staff meeting Thu 20 Jul: Shirley's birthday, lunch from another caterer at about Marriott's price (Kevin Moore); owner: "No problem." ←[[m02375]]
+- [2000-07-24] SAP timesheets: one Excel tab per person (O:\Research\Common\SAP Timesheets), due the 13th and 29th; exempt staff enter exceptions only. ←[[m02456]]
+- [2000-07-27→] Owner: "We are on the 19th floor." (his office EB1962, ext. 3-3848); 32nd-floor seat: memory/domains/organization/office-equipment.md ←[[m02532]] ←[[m02553]]
 
 ## History
 
