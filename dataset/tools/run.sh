@@ -19,7 +19,9 @@
 # meter reads the same account), PY (python3), QUOTA_STOP (90: the weekly meter level at which the
 # run waits for the weekly reset), FIVE_HOUR_WAIT (90), CAPTURE_WAIT (10800 seconds to wait for a
 # slice's capture records while the capture step is still running), CLAUDE_VERSION (2.1.323: the
-# run refuses any other harness version),
+# run refuses any other harness version), REVIEW_EVERY (30) and HOLD (a file path): after every
+# REVIEW_EVERY-th slice the runner creates HOLD and waits until it is removed, so that an
+# independent review of the run so far can happen before more slices are written,
 # TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-).
 
 ROOT=$(cd "$(dirname "$0")/../.." && pwd) || exit 2
@@ -58,8 +60,15 @@ harness() {  # $1 prompt, $2 transcript path
 }
 
 k=$FIRST
+REVIEW_EVERY=${REVIEW_EVERY:-30}
+HOLD=${HOLD:-}
 while [ "$k" -le "$LAST" ]; do
   kkk=$(printf '%03d' "$k")
+  if [ -n "$HOLD" ] && [ -f "$HOLD" ]; then
+    echo "holding before slice $k for review $(date '+%F %T')"
+    while [ -f "$HOLD" ]; do sleep 120; done
+    echo "review released before slice $k $(date '+%F %T')"
+  fi
   [ -z "$(git status --porcelain)" ] || { echo "tree not clean before slice $k"; exit 2; }
 
   waited=0
@@ -148,7 +157,12 @@ $BASE_PROMPT"
     fi
     DIRTY=$(git status --porcelain -- . ':!dataset/runs' ':!dataset/ledger' | wc -l | tr -d ' ')
     LEFT=0
-    for f in $FED_FILES; do [ -f "memory/inbox/$f" ] && LEFT=$((LEFT + 1)); done
+    # A fed file counts as unconsumed only while it still holds mail blocks: the run may write its
+    # own log lines (status-quo closes) into memory/inbox/<today>--mail.md, the same name as the
+    # day's fed file it has already archived (slice 12 of the first full run stopped on that).
+    for f in $FED_FILES; do
+      grep -q "^(mail · " "memory/inbox/$f" 2>/dev/null && LEFT=$((LEFT + 1))
+    done
     LEAKS=$($PY dataset/tools/date_leaks.py --today "$TODAY" --first "$FIRST_DAY")
     NLEAKS=$(echo "$LEAKS" | json_get "d['count']")
     LEDGER=$($PY dataset/tools/ledger.py --slice "$k" --slices dataset/slices.csv --manifest dataset/manifest.csv)
@@ -194,5 +208,9 @@ then make one commit 'sleep $kkk: coverage repair'. Do not push."
   git commit -q -m "run $kkk: consolidation record ($STATUS)"
   git tag -f "$TAG_PREFIX$kkk" >/dev/null
   git push -q origin "$BRANCH" && git push -q -f origin "$TAG_PREFIX$kkk"
+  if [ -n "$HOLD" ] && [ $((k % REVIEW_EVERY)) -eq 0 ] && [ "$k" -lt "$LAST" ]; then
+    : > "$HOLD"
+    echo "review hold after slice $kkk $(date '+%F %T')"
+  fi
   k=$((k + 1))
 done
