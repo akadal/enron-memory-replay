@@ -1,0 +1,73 @@
+id	durable	status	detail
+m00790	no	not_durable	bulk
+m00791	yes	kept	domains/work/outside-requests.md
+m00792	yes	kept	domains/work/internal-meetings.md people/kimberly-watson.md
+m00793	yes	kept	domains/work/outside-requests.md
+m00794	yes	kept	domains/organization/summer-interns-2000.md
+m00795	yes	kept	domains/organization/research-group.md
+m00796	yes	kept	domains/work/outside-requests.md
+m00797	no	not_durable	logistics
+m00798	yes	kept	domains/organization/office-equipment.md people/maureen-raymond.md
+m00799	yes	kept	domains/organization/recruiting-candidates.md people/rodney-greene.md
+m00800	yes	kept	domains/organization/office-equipment.md
+m00801	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/leave-and-training.md domains/work/credit-markets.md
+m00802	yes	kept	domains/work/credit-markets.md people/bryan-seyfried.md people/william-bradford.md
+m00803	yes	kept	domains/organization/office-equipment.md
+m00804	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md people/tom-gros.md
+m00805	yes	kept	domains/organization/recruiting-candidates.md domains/organization/research-group.md people/rodney-greene.md
+m00806	yes	kept	domains/personal/correspondence.md
+m00807	yes	kept	domains/personal/correspondence.md
+m00808	yes	kept	domains/organization/leave-and-training.md
+m00809	yes	kept	domains/work/tips-inflation-model.md
+m00810	yes	kept	domains/industry/speaking-engagements-2000.md
+m00811	yes	kept	domains/organization/recruiting-candidates.md
+m00812	yes	kept	domains/industry/speaking-engagements-2000.md
+m00813	yes	kept	domains/work/credit-markets.md people/william-bradford.md
+m00814	yes	dropped	other: owner self-note "Interview for Lee": bare name, no context to attribute
+m00815	yes	kept	domains/organization/summer-interns-2000.md
+m00816	yes	kept	domains/personal/household.md
+m00817	yes	kept	domains/organization/summer-interns-2000.md
+m00818	no	not_durable	logistics
+m00819	yes	kept	domains/industry/aiesec-houston.md people/andrzej-wodnicki.md
+m00820	yes	kept	domains/work/broadband-services.md
+m00821	yes	kept	domains/work/broadband-services.md people/jim-irvine.md
+m00822	yes	kept	domains/work/broadband-services.md people/jean-mrha.md people/jim-irvine.md
+m00823	no	not_durable	logistics
+m00824	yes	kept	domains/work/stanford-research-ties.md people/tom-gros.md
+m00825	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/jean-mrha.md people/rodney-greene.md people/tom-gros.md
+m00826	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/rodney-greene.md
+m00827	yes	kept	domains/organization/london-research.md
+m00828	yes	kept	domains/organization/recruiting-candidates.md
+m00829	yes	kept	domains/work/credit-markets.md people/bryan-seyfried.md
+m00830	yes	kept	domains/organization/london-research.md people/steven-leppard.md
+m00831	yes	kept	domains/work/broadband-services.md
+m00832	yes	kept	domains/work/broadband-services.md
+m00833	yes	dropped	logistics: Steven Leppard out of office 9-15 March notice
+m00834	yes	kept	domains/organization/recruiting-candidates.md
+m00835	no	not_durable	bulk
+m00836	yes	kept	domains/organization/recruiting-candidates.md people/rodney-greene.md
+m00837	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/rodney-greene.md
+m00838	no	not_durable	bulk
+m00839	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00840	yes	kept	domains/organization/recruiting-candidates.md
+m00841	yes	kept	domains/organization/summer-interns-2000.md people/jason-sokolov.md
+m00842	no	not_durable	bulk
+m00843	yes	kept	domains/organization/recruiting-candidates.md
+m00844	yes	kept	domains/organization/recruiting-candidates.md
+m00845	yes	kept	domains/work/vendor-offers-2000.md
+m00846	yes	kept	domains/organization/recruiting-candidates.md
+m00847	yes	kept	domains/industry/eprm-risk.md
+m00848	yes	kept	domains/organization/software-licenses.md
+m00849	yes	kept	domains/organization/london-research.md people/steven-leppard.md
+m00850	yes	kept	domains/organization/research-group.md
+m00851	yes	kept	domains/organization/research-group.md
+m00852	no	not_durable	logistics
+m00853	no	not_durable	logistics
+m00854	yes	kept	domains/industry/speaking-engagements-2000.md people/steven-leppard.md
+m00855	yes	kept	domains/work/south-america-curves.md
+m00856	yes	kept	domains/personal/correspondence.md
+m00857	no	not_durable	empty
+m00858	yes	kept	domains/work/vega-var.md people/jonathan-le.md
+m00859	yes	kept	domains/personal/correspondence.md
+m00860	yes	kept	domains/industry/gpcm-rbac.md people/kimberly-watson.md
+m00861	yes	kept	domains/work/gas-flow-price-model.md people/clayton-vernon.md
