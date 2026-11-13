@@ -1,0 +1,137 @@
+id	durable	status	detail
+m02453	yes	kept	domains/work/value-research-lab.md people/amy-oberg.md
+m02454	no	not_durable	bulk
+m02455	yes	kept	domains/work/university-relations.md
+m02456	yes	kept	domains/organization/research-group.md
+m02457	no	not_durable	logistics
+m02458	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02459	no	not_durable	logistics
+m02460	yes	kept	domains/work/outside-requests.md people/steven-kean.md
+m02461	no	not_durable	logistics
+m02462	yes	kept	domains/work/mg-metals-var.md
+m02463	yes	kept	domains/work/mg-metals-var.md people/andreas-barschkis.md
+m02464	yes	kept	domains/work/mg-metals-var.md
+m02465	yes	kept	domains/organization/london-research.md
+m02466	yes	kept	domains/organization/london-research.md domains/work/mg-metals-var.md
+m02467	yes	kept	domains/organization/software-licenses.md
+m02468	no	not_durable	empty
+m02469	no	not_durable	other
+m02470	yes	kept	domains/work/mg-metals-var.md
+m02471	yes	kept	domains/work/mg-metals-var.md
+m02472	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/bruce-james.md people/sean-grady.md
+m02473	yes	kept	domains/work/owner-publications.md
+m02474	yes	kept	domains/work/mg-metals-var.md
+m02475	yes	kept	domains/organization/london-research.md
+m02476	yes	kept	domains/organization/candidate-referrals-2000.md
+m02477	yes	kept	domains/industry/esai-energycast-review.md
+m02478	yes	kept	domains/industry/esai-energycast-review.md
+m02479	yes	kept	domains/work/lacima-book-2000.md
+m02480	yes	kept	domains/work/aga-storage-forecast.md
+m02481	yes	kept	domains/work/mg-metals-var.md people/andreas-barschkis.md
+m02482	no	not_durable	quote_only
+m02483	yes	kept	domains/work/mg-metals-var.md
+m02484	yes	dropped	no_owner_content: EarthSat summer seminar slides forwarded to the weather group; nothing for the owner
+m02485	yes	kept	domains/work/mec-molecular-electronics.md people/mark-lay.md people/steven-kean.md
+m02486	yes	kept	domains/work/mg-metals-var.md
+m02487	no	not_durable	empty
+m02488	yes	kept	domains/organization/research-offsite-2000.md
+m02489	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/bruce-james.md people/sean-grady.md
+m02490	yes	kept	domains/work/aga-storage-forecast.md
+m02491	yes	kept	domains/work/value-research-lab.md people/amy-oberg.md
+m02492	yes	kept	domains/work/mg-metals-var.md
+m02493	yes	kept	domains/industry/esai-energycast-review.md
+m02494	no	not_durable	quote_only
+m02495	yes	kept	domains/organization/research-offsite-2000.md people/anita-dupont.md
+m02496	no	not_durable	empty
+m02497	yes	kept	domains/organization/research-offsite-2000.md
+m02498	yes	kept	domains/organization/candidate-referrals-2000.md
+m02499	yes	kept	domains/organization/research-offsite-2000.md
+m02500	yes	dropped	no_owner_content: Masson to Gibner on Derek Davies' asset auction support; owner only copied, no decision
+m02501	yes	kept	domains/work/mg-metals-var.md
+m02502	yes	kept	domains/organization/research-offsite-2000.md
+m02503	yes	kept	domains/organization/research-offsite-2000.md
+m02504	yes	kept	domains/work/mg-metals-var.md
+m02505	yes	kept	domains/organization/recruiting-candidates.md
+m02506	yes	kept	domains/organization/recruiting-candidates.md
+m02507	yes	kept	domains/organization/london-research.md people/sharad-agnihotri.md
+m02508	no	not_durable	logistics
+m02509	yes	kept	domains/organization/london-research.md
+m02510	no	not_durable	logistics
+m02511	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02512	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/rabi-de.md
+m02513	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02514	yes	kept	domains/work/ees-structuring-models.md people/alexios-kollaros.md
+m02515	yes	kept	domains/work/south-america-curves.md
+m02516	yes	kept	domains/work/mg-metals-var.md
+m02517	yes	kept	domains/work/south-america-curves.md
+m02518	yes	kept	domains/organization/research-offsite-2000.md people/anita-dupont.md
+m02519	yes	kept	domains/personal/correspondence.md
+m02520	no	not_durable	logistics
+m02521	yes	kept	domains/organization/london-research.md
+m02522	yes	kept	domains/organization/summer-interns-2000.md
+m02523	yes	kept	domains/organization/research-offsite-2000.md people/anita-dupont.md
+m02524	yes	kept	domains/work/mg-metals-var.md
+m02525	yes	kept	domains/work/value-research-lab.md
+m02526	yes	kept	domains/work/mg-metals-var.md people/andreas-barschkis.md
+m02527	yes	kept	domains/industry/eprm-risk.md
+m02528	yes	kept	domains/work/value-research-lab.md
+m02529	yes	kept	domains/industry/research-memberships-2000.md
+m02530	yes	kept	domains/work/mec-molecular-electronics.md people/steven-kean.md
+m02531	yes	kept	domains/work/mec-molecular-electronics.md people/mark-lay.md people/steven-kean.md
+m02532	yes	kept	domains/industry/visitors-2000.md domains/organization/research-group.md
+m02533	yes	kept	domains/organization/london-research.md
+m02534	yes	kept	domains/work/mg-metals-var.md
+m02535	yes	kept	domains/industry/visitors-2000.md
+m02536	yes	kept	domains/organization/summer-interns-2000.md domains/work/stanford-research-ties.md people/john-echols.md
+m02537	yes	kept	domains/industry/esai-energycast-review.md
+m02538	yes	kept	domains/industry/eprm-risk.md
+m02539	yes	kept	domains/organization/software-licenses.md
+m02540	yes	kept	domains/work/mg-metals-var.md
+m02541	no	not_durable	automated
+m02542	yes	kept	domains/industry/visitors-2000.md people/anita-dupont.md
+m02543	yes	kept	domains/organization/staff-and-recruiting.md
+m02544	yes	kept	domains/organization/software-licenses.md people/ainsley-gaddis.md
+m02545	yes	kept	domains/organization/software-licenses.md people/ainsley-gaddis.md people/gwyn-koepke.md
+m02546	yes	kept	domains/industry/esai-energycast-review.md
+m02547	yes	kept	domains/work/value-research-lab.md
+m02548	yes	kept	domains/work/broadband-services.md
+m02549	yes	kept	domains/work/mg-metals-var.md
+m02550	no	not_durable	bulk
+m02551	yes	kept	domains/organization/london-research.md
+m02552	no	not_durable	bulk
+m02553	yes	kept	domains/organization/research-group.md domains/work/value-research-lab.md
+m02554	yes	kept	domains/organization/recruiting-candidates.md
+m02555	no	not_durable	quote_only
+m02556	yes	kept	domains/work/university-relations.md
+m02557	yes	kept	domains/organization/staff-and-recruiting.md people/kevin-presto.md
+m02558	no	not_durable	pleasantry
+m02559	yes	kept	domains/industry/eprm-risk.md people/john-obrien.md
+m02560	yes	kept	domains/work/value-research-lab.md people/amy-oberg.md people/richard-causey.md
+m02561	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/bruce-james.md
+m02562	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02563	yes	kept	domains/industry/esai-energycast-review.md
+m02564	yes	kept	domains/industry/eprm-risk.md people/john-obrien.md
+m02565	yes	kept	domains/industry/eprm-risk.md
+m02566	yes	kept	domains/industry/eprm-risk.md people/john-obrien.md
+m02567	yes	kept	domains/organization/research-offsite-2000.md
+m02568	no	not_durable	bulk
+m02569	yes	kept	domains/work/broadband-services.md people/richard-weeks.md
+m02570	yes	kept	domains/organization/staff-and-recruiting.md people/kevin-presto.md
+m02571	yes	kept	domains/work/broadband-services.md
+m02572	no	not_durable	logistics
+m02573	yes	kept	domains/work/internal-meetings.md
+m02574	yes	kept	domains/work/value-research-lab.md people/amy-oberg.md people/richard-causey.md people/steven-kean.md
+m02575	yes	kept	domains/work/university-relations.md
+m02576	yes	kept	domains/work/gas-flow-price-model.md
+m02577	yes	kept	domains/work/gas-flow-price-model.md people/kevin-presto.md
+m02578	yes	kept	domains/work/mg-metals-var.md
+m02579	yes	kept	domains/work/mg-metals-var.md people/andreas-barschkis.md
+m02580	yes	kept	domains/work/mg-metals-var.md
+m02581	yes	kept	domains/organization/leave-and-training.md
+m02582	yes	kept	domains/work/university-relations.md
+m02583	no	not_durable	quote_only
+m02584	yes	kept	domains/work/mg-metals-var.md
+m02585	yes	kept	domains/work/mg-metals-var.md
+m02586	yes	kept	domains/work/mg-metals-var.md
+m02587	yes	kept	domains/organization/staff-and-recruiting.md
+m02588	yes	kept	domains/organization/mid-year-prc-2000.md

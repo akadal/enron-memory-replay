@@ -1,0 +1,191 @@
+{
+ "slice": 35,
+ "simulated_today": "2000-07-30",
+ "feed": {
+  "slice": 35,
+  "iso_week": "2000-W30",
+  "first_seq": 2453,
+  "last_seq": 2588,
+  "messages": 136,
+  "durable": 115,
+  "first_date": "2000-07-24 01:33",
+  "last_date": "2000-07-30 16:24",
+  "today": "2000-07-30",
+  "inbox_files": [
+   "2000-07-24--mail.md",
+   "2000-07-25--mail.md",
+   "2000-07-26--mail.md",
+   "2000-07-27--mail.md",
+   "2000-07-28--mail.md",
+   "2000-07-29--mail.md",
+   "2000-07-30--mail.md"
+  ],
+  "inbox_chars": 86305,
+  "l2_chars": 289046
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 706,
+ "quota_before": {
+  "five_hour": 5.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 7.0,
+  "seven_day": 31.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 35,
+  "messages": 136,
+  "durable": 115,
+  "kept": 113,
+  "kept_rate_excluding_redundant": 0.983,
+  "drop_classes": {
+   "no_owner_content": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1374,
+  "fact_lines_with_source": 1015,
+  "dated": 1015,
+  "date_matches_source": 1002,
+  "date_mismatch_ids_this_slice": [
+   "m02532",
+   "m02535",
+   "m02542"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.91,
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 678
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1944
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 107,
+   "chars": 181016
+  },
+  "people": {
+   "files": 245,
+   "chars": 175757
+  },
+  "archive_inbox": {
+   "files": 220,
+   "chars": 1556028
+  },
+  "archive_mail": {
+   "files": 2614,
+   "chars": 6448308
+  },
+  "archive_other": {
+   "files": 477,
+   "chars": 509270
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 58,
+   "duration_ms": 705302,
+   "duration_api_ms": 658396,
+   "total_cost_usd": 4.7465345999999995,
+   "usage": {
+    "input_tokens": 110,
+    "cache_creation_input_tokens": 199056,
+    "cache_read_input_tokens": 8802733,
+    "output_tokens": 69655,
+    "output_tokens_details": {
+     "thinking_tokens": 31471
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 199056,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 919,
+      "cache_read_input_tokens": 230059,
+      "cache_creation_input_tokens": 788,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 788
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 110,
+     "outputTokens": 69655,
+     "cacheReadInputTokens": 8802733,
+     "cacheCreationInputTokens": 199056,
+     "webSearchRequests": 0,
+     "costUSD": 4.7465345999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 31471,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 199056,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 57,
+   "result_summary": "The 2000-07-30 consolidation is committed on `main` as `c6169f4`, and lint and `sleep-audit.py` were both green on the first run. I didn't push: the brief says both \"do not push; the runner pushes after its own checks\" and \"git push origin main\", so I followed the more specific one. Of the 136 messages, 115 had notes; 113 of those are now cited in memory, and the other two (m02484, EarthSat seminar slides; m02500, an asset-auction note the owner was only copied on) are listed in `dataset/drops/sleep-035.tsv`. The main story is the MG Metals value-at-risk model: the first version ran on 26 Jul and the owner judges it \"within 80-85% of the true number\" but blind to MG's liquidity risk, with delivery due 7 Aug. It went into a new file, `memory/domains/work/mg-metals-var.md`, alongside three other new work files: the MEC investment, the MIT/Arthur Andersen Value Research Lab (meeting 1 Aug), and the EES pricing models. Other updates:\n\n- **London Research:** Sherriff and Richard Lewis back Leppard as head, the owner hopes to keep Ahmad with a Houston post, and Agnihotri accepted his offer.\n- **Clayton Vernon:** his transfer to Presto is approved only if he finishes his current project, and HR doubts it should go ahead at all.\n- **Elsewhere:** the offsite agenda is done, the Energycast trial (31 Jul-3 Aug) and Ed Krapels' EnronOnline access are recorded, plus interviews, CMU/Baylor contacts and SAS access.\n- **New conflicting fact:** the owner says the group is on the 19th floor again, while an earlier line has him moving to the 32nd. I recorded it as a new current line next to the old one.\n\n17 people reached five noted messages this week, so each got an entity file and a line in the alias table. I made no alias change to any existing file, and no sleep-task or feedback block was in the inbox. Two questions, the Krapels alias and \"Shalesh\", fall due today; I read \"due has passed\" strictly, so they stay open one more run. The compression quota had nothing to act on because"
+  },
+  "repair": null
+ }
+}
