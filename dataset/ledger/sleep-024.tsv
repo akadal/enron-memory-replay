@@ -1,0 +1,66 @@
+id	durable	status	detail
+m01609	yes	kept	domains/organization/candidate-interviews-may-2000.md people/chris-kenyon.md
+m01610	yes	kept	domains/work/owner-publications.md
+m01611	yes	kept	domains/organization/candidate-interviews-may-2000.md domains/organization/london-research.md
+m01612	yes	kept	domains/organization/candidate-interviews-may-2000.md people/chris-kenyon.md
+m01613	yes	kept	domains/organization/candidate-interviews-may-2000.md people/chris-kenyon.md
+m01614	yes	kept	domains/industry/uh-econophysics.md people/yannis-tzamouranis.md
+m01615	yes	kept	domains/personal/correspondence.md domains/personal/household.md
+m01616	yes	kept	domains/industry/uh-econophysics.md people/yannis-tzamouranis.md
+m01617	yes	kept	domains/work/storage-model.md
+m01618	yes	kept	domains/industry/uh-econophysics.md people/yannis-tzamouranis.md
+m01619	yes	kept	domains/work/storage-model.md
+m01620	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01621	yes	kept	domains/organization/candidate-interviews-may-2000.md domains/organization/london-research.md
+m01622	yes	kept	domains/work/fas133-implementation.md people/paige-grumulaitis.md
+m01623	yes	kept	domains/organization/candidate-interviews-may-2000.md people/chris-kenyon.md
+m01624	yes	kept	domains/work/broadband-services.md
+m01625	yes	kept	domains/industry/uh-econophysics.md people/yannis-tzamouranis.md
+m01626	yes	kept	domains/industry/speaking-engagements-2000.md
+m01627	yes	kept	domains/organization/corporate-announcements-2000.md
+m01628	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/london-research.md domains/work/real-options-diagrams.md
+m01629	yes	kept	domains/personal/correspondence.md
+m01630	yes	kept	domains/work/stanford-research-ties.md
+m01631	yes	kept	domains/organization/summer-interns-2000.md
+m01632	yes	kept	domains/organization/leave-and-training.md
+m01633	yes	kept	domains/work/vendor-offers-2000.md
+m01634	yes	kept	domains/organization/candidate-referrals-2000.md
+m01635	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/candidate-interviews-may-2000.md
+m01636	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01637	yes	kept	domains/personal/household.md domains/work/broadband-services.md
+m01638	yes	kept	domains/organization/london-research.md people/kirstee-hewitt.md
+m01639	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01640	yes	kept	domains/organization/london-research.md
+m01641	yes	kept	domains/organization/candidate-referrals-2000.md
+m01642	yes	kept	domains/organization/software-licenses.md
+m01643	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01644	no	not_durable	other
+m01645	yes	kept	domains/work/broadband-services.md
+m01646	yes	kept	domains/industry/weather-insurance-markets.md people/damian-goodburn.md
+m01647	yes	kept	domains/organization/candidate-referrals-2000.md
+m01648	yes	kept	domains/industry/events-attending-2000.md domains/personal/correspondence.md
+m01649	no	not_durable	logistics
+m01650	yes	kept	domains/work/real-options-diagrams.md
+m01651	no	not_durable	quote_only
+m01652	yes	kept	domains/organization/london-research.md
+m01653	yes	kept	domains/work/stanford-research-ties.md
+m01654	yes	kept	domains/work/outside-requests.md
+m01655	yes	kept	domains/organization/summer-interns-2000.md people/edward-kao.md
+m01656	yes	dropped	logistics: WSJ subscription approval for Elena Chilkina
+m01657	yes	kept	domains/work/outside-requests.md
+m01658	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01659	no	not_durable	bulk
+m01660	yes	kept	domains/work/stanford-research-ties.md
+m01661	yes	kept	domains/work/internal-meetings.md
+m01662	yes	kept	domains/work/ebs-network-planning.md
+m01663	yes	kept	domains/organization/recruiting-candidates.md
+m01664	yes	kept	domains/organization/recruiting-candidates.md
+m01665	yes	dropped	redundant: congratulation on the January MD promotion, already recorded
+m01666	no	not_durable	pleasantry
+m01667	yes	kept	domains/work/ene-stock-drivers.md
+m01668	yes	kept	domains/organization/recruiting-candidates.md
+m01669	yes	kept	domains/industry/speaking-engagements-2000.md
+m01670	yes	kept	domains/work/ebs-network-planning.md
+m01671	yes	kept	domains/organization/candidate-referrals-2000.md
+m01672	no	not_durable	automated
+m01673	yes	kept	domains/industry/speaking-engagements-2000.md
