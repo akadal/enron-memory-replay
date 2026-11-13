@@ -1,110 +1,117 @@
 ---
 type: index
-updated: 2000-03-12
+updated: 2000-03-19
 ---
 # People and organisations — index
 
 The alias table, read in full on every run (namesakes are caught here). One line each:
-`name — aliases — domains — id`; the file is memory/people/<id>.md.
+`name — aliases — id`; the file is memory/people/<id>.md (its domains are in its frontmatter).
 
 ## Files
 
-- Adam Brulinski — — work — adam-brulinski
-- Alex Huang — — organization — alex-huang
-- Amitava Dhar — — organization — amitava-dhar
-- Andrzej Wodnicki — — industry — andrzej-wodnicki
-- Anjam Ahmad — — work, organization — anjam-ahmad
-- Anthony Mends — Tony Mends — personal — anthony-mends
-- April Hodgson — April Hodgeson, April Hodges — organization — april-hodgson
-- Benjamin Parsons — Ben Parsons — organization, work, industry — benjamin-parsons
-- Brad McSherry — — organization — brad-mcsherry
-- Brad Romine — Bradley Romine — work, organization — brad-romine
-- Bryan Seyfried — — work, organization — bryan-seyfried
-- Celeste Roberts — — organization — celeste-roberts
-- Charlene Jackson — — organization — charlene-jackson
-- Chonawee Supatgiat — — organization, work — chonawee-supatgiat
-- Chris Hilgert — — organization, work — chris-hilgert
-- Chris Strickland — — work — chris-strickland
-- Clayton Vernon — — work, organization — clayton-vernon
-- Cliff Baxter — — organization, work — cliff-baxter
-- Dale Surbey — — organization, work — dale-surbey
-- Doug Leach — — industry, work, organization — doug-leach
-- Ed Krapels — — work, industry — ed-krapels
-- Elizabeth Grant — — organization — elizabeth-grant
-- Emma Wolfin — — industry — emma-wolfin
-- Gary Hickerson — — organization, work — gary-hickerson
-- Ginger Gamble — Ginger B Gamble — organization — ginger-gamble
-- Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — work, organization — giuseppe-paleologo
-- Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — work — gopalakrishnan-subramaniam
-- Grant Masson — — organization, work — grant-masson
-- Greg Whalley — — organization, work — greg-whalley
-- Helyette Geman — — industry, work — helyette-geman
-- Iain Russell — — organization — iain-russell
-- Jana Phillips — Jana Laird Phillips — personal, industry — jana-phillips
-- Jarek Astramowicz — — work, industry, organization — jarek-astramowicz
-- Jason Sokolov — — organization — jason-sokolov
-- Jay Webb — — organization, work — jay-webb
-- Jean Mrha — — work, organization — jean-mrha
-- Jeff Shankman — Jeffrey A Shankman — organization, work — jeff-shankman
-- Jim Garven — James R. Garven — industry — jim-garven
-- Jim Irvine — — work — jim-irvine
-- Joan Payne — — industry — joan-payne
-- John Bloomer — — work — john-bloomer
-- John Griebling — — work — john-griebling
-- John Sherriff — — work, organization — john-sherriff
-- Jonathan Le — — work — jonathan-le
-- Joseph Hrgovcic — Joe Hrgovcic — organization, work — joseph-hrgovcic
-- Karla Feldman — — organization, work — karla-feldman
-- Katja Schilling — — work, industry — katja-schilling
-- Kevin Hannon — — organization, work — kevin-hannon
-- Kevin Kindall — — organization, work — kevin-kindall
-- Kevin Moore — Kevin G Moore — organization — kevin-moore
-- Kimberly Watson — — industry, work — kimberly-watson
-- Kristy Carnes — — organization, work — kristy-carnes
-- Lenos Trigeorgis — — industry — lenos-trigeorgis
-- Les Clewlow — — work — les-clewlow
-- Louise Kitchen — — work, organization — louise-kitchen
-- Ludmila Kaminski — Ludmila — personal — ludmila-kaminski
-- Lyn Malina — — organization — lyn-malina
-- Manuel Rensink — — work — manuel-rensink
-- Margaret Carson — — work, industry — margaret-carson
-- Mark Palmer — Mark S Palmer — industry, work — mark-palmer
-- Mark Ruane — — work, industry — mark-ruane
-- Martin Lin — — organization, work — martin-lin
-- Martina Angelova — — organization, work — martina-angelova
-- Maruti More — Maruti D. More — personal — maruti-more
-- Maureen Raymond — — organization, work — maureen-raymond
-- Michael Sergeev — — organization — michael-sergeev
-- Mike Roberts — Mike A Roberts — organization, work — mike-roberts
-- Nick Bambos — — work — nick-bambos
-- Nurit Krausz — — organization — nurit-krausz
-- Oliver Bennett — — industry — oliver-bennett
-- Osman Sezgen — — organization, work — osman-sezgen
-- Paulo Issler — — organization, work — paulo-issler
-- Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — work, organization — paulo-rocha-e-oliveira
-- Peter Tufano — — industry — peter-tufano
-- Philippe Bibi — Philippe A Bibi — organization, work — philippe-bibi
-- Pinnamaneni Krishnarao — Krishna Krishnarao — organization, work — pinnamaneni-krishnarao
-- Ravi Thuraisingham — — organization, work — ravi-thuraisingham
-- Rick Buy — — work, organization — rick-buy
-- Robert Brooks — Robert E. Brooks, Bob Brooks — industry — robert-brooks
-- Robert Lee — Bob Lee — organization, work — robert-lee
-- Rodney Greene — — organization — rodney-greene
-- Roman Zadorozhny — — organization — roman-zadorozhny
-- Ronnie Chahal — — organization, work, industry — ronnie-chahal
-- Samer Takriti — — organization, work — samer-takriti
-- Sandeep Kohli — — work, organization — sandeep-kohli
-- Sevil Yaman — — organization — sevil-yaman
-- Shalesh Ganjoo — — organization, work — shalesh-ganjoo
-- Shirley Crenshaw — — organization, work, industry — shirley-crenshaw
-- Steven Leppard — — organization, work — steven-leppard
-- Stinson Gibner — — organization, industry, work — stinson-gibner
-- Tanya Tamarchenko — — organization, work — tanya-tamarchenko
-- Ted Murphy — — work, organization — ted-murphy
-- Tom Gros — Thomas Gros — work, organization — tom-gros
-- Trisha Tlapek — — organization — trisha-tlapek
-- Vasant Shanbhogue — — organization, work — vasant-shanbhogue
-- Vincent Tang — — organization, work — vincent-tang
-- William Bradford — William S Bradford — work, organization — william-bradford
-- William Smith — Sam Smith — organization — william-smith
-- Zimin Lu — — organization, work — zimin-lu
+- Adam Brulinski — — adam-brulinski
+- Alex Huang — — alex-huang
+- Amitava Dhar — — amitava-dhar
+- Andrzej Wodnicki — — andrzej-wodnicki
+- Anjam Ahmad — — anjam-ahmad
+- Anthony Mends — Tony Mends — anthony-mends
+- April Hodgson — April Hodgeson, April Hodges — april-hodgson
+- Benjamin Parsons — Ben Parsons — benjamin-parsons
+- Brad McSherry — — brad-mcsherry
+- Brad Romine — Bradley Romine — brad-romine
+- Bryan Seyfried — — bryan-seyfried
+- Celeste Roberts — — celeste-roberts
+- Charlene Jackson — — charlene-jackson
+- Chonawee Supatgiat — — chonawee-supatgiat
+- Chris Hilgert — — chris-hilgert
+- Chris Strickland — — chris-strickland
+- Clayton Vernon — — clayton-vernon
+- Cliff Baxter — — cliff-baxter
+- Dale Surbey — — dale-surbey
+- Dawn Scovill — — dawn-scovill
+- Doug Leach — — doug-leach
+- Ed Krapels — — ed-krapels
+- Elizabeth Grant — — elizabeth-grant
+- Emma Wolfin — — emma-wolfin
+- Gary Hickerson — — gary-hickerson
+- Ginger Gamble — Ginger B Gamble — ginger-gamble
+- Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — giuseppe-paleologo
+- Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — gopalakrishnan-subramaniam
+- Grant Masson — — grant-masson
+- Greg Whalley — — greg-whalley
+- Helyette Geman — — helyette-geman
+- Iain Russell — — iain-russell
+- Jana Phillips — Jana Laird Phillips — jana-phillips
+- Jarek Astramowicz — — jarek-astramowicz
+- Jason Sokolov — — jason-sokolov
+- Jay Webb — — jay-webb
+- Jean Mrha — — jean-mrha
+- Jeff Shankman — Jeffrey A Shankman — jeff-shankman
+- Jim Garven — James R. Garven — jim-garven
+- Jim Irvine — — jim-irvine
+- Joan Payne — — joan-payne
+- Joel Hanley — — joel-hanley
+- John Bloomer — — john-bloomer
+- John Griebling — — john-griebling
+- John Peyton — — john-peyton
+- John Sherriff — — john-sherriff
+- Jonathan Le — — jonathan-le
+- Jose Marquez — — jose-marquez
+- Joseph Hrgovcic — Joe Hrgovcic — joseph-hrgovcic
+- Karla Feldman — — karla-feldman
+- Katja Schilling — — katja-schilling
+- Ken Rice — — ken-rice
+- Kevin Hannon — — kevin-hannon
+- Kevin Kindall — — kevin-kindall
+- Kevin Moore — Kevin G Moore — kevin-moore
+- Kimberly Watson — — kimberly-watson
+- Kristy Carnes — — kristy-carnes
+- Lenos Trigeorgis — — lenos-trigeorgis
+- Les Clewlow — — les-clewlow
+- Louise Kitchen — — louise-kitchen
+- Ludmila Kaminski — Ludmila — ludmila-kaminski
+- Lyn Malina — — lyn-malina
+- Manuel Rensink — — manuel-rensink
+- Margaret Carson — — margaret-carson
+- Mark Palmer — Mark S Palmer — mark-palmer
+- Mark Ruane — — mark-ruane
+- Martin Lin — — martin-lin
+- Martina Angelova — — martina-angelova
+- Maruti More — Maruti D. More — maruti-more
+- Maureen Raymond — — maureen-raymond
+- Michael Sergeev — — michael-sergeev
+- Mike Roberts — Mike A Roberts — mike-roberts
+- Nick Bambos — — nick-bambos
+- Nurit Krausz — — nurit-krausz
+- Oliver Bennett — — oliver-bennett
+- Osman Sezgen — — osman-sezgen
+- Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
+- Paulo Issler — — paulo-issler
+- Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
+- Peter Tufano — — peter-tufano
+- Philippe Bibi — Philippe A Bibi — philippe-bibi
+- Pinnamaneni Krishnarao — Krishna Krishnarao — pinnamaneni-krishnarao
+- Ravi Thuraisingham — — ravi-thuraisingham
+- Rick Buy — — rick-buy
+- Robert Brooks — Robert E. Brooks, Bob Brooks — robert-brooks
+- Robert Lee — Bob Lee — robert-lee
+- Rodney Greene — — rodney-greene
+- Roman Zadorozhny — — roman-zadorozhny
+- Ronnie Chahal — — ronnie-chahal
+- Samer Takriti — — samer-takriti
+- Sandeep Kohli — — sandeep-kohli
+- Scott Yeager — — scott-yeager
+- Sevil Yaman — — sevil-yaman
+- Shalesh Ganjoo — — shalesh-ganjoo
+- Shirley Crenshaw — — shirley-crenshaw
+- Steven Leppard — — steven-leppard
+- Stinson Gibner — — stinson-gibner
+- Tanya Tamarchenko — — tanya-tamarchenko
+- Ted Murphy — — ted-murphy
+- Tom Gros — Thomas Gros — tom-gros
+- Trisha Tlapek — — trisha-tlapek
+- Vasant Shanbhogue — — vasant-shanbhogue
+- Vincent Tang — — vincent-tang
+- William Bradford — William S Bradford — william-bradford
+- William Smith — Sam Smith — william-smith
+- Zimin Lu — — zimin-lu

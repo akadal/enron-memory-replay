@@ -3,18 +3,18 @@ id: events-attending-2000
 type: topic
 domain: industry
 title: "Workshops and conferences the owner attends, 2000"
-summary: "January events (UH Energy Institute, NYU Stern, CERA call; archived); CERA E-Business workshop 7 Feb; MathWorks seminar 8 or 10 Feb; CERA transmission workshop sent to Grant; Chorn's Real Options E&P course skipped; NYMEX rodeo night 2 Mar; MathWorks training declined, Georgia Tech QCF symposium 7 Apr (Mar)."
+summary: "January events (UH Energy Institute, NYU Stern, CERA call; archived); CERA E-Business workshop 7 Feb; MathWorks seminar 8 or 10 Feb; CERA transmission workshop sent to Grant; Chorn's Real Options E&P course skipped; NYMEX rodeo night 2 Mar; MathWorks training declined, Georgia Tech QCF symposium 7 Apr; Information Break talk 17 Mar; ERMA (Mar)."
 status: active
-updated: 2000-03-12
+updated: 2000-03-19
 ---
 # Workshops and conferences the owner attends, 2000
 
-Events where the owner speaks or chairs: memory/domains/industry/speaking-engagements-2000.md. Detail ←[[events-attending-2000-02-w08]]
+Events where the owner speaks or chairs: memory/domains/industry/speaking-engagements-2000.md. Detail ←[[events-attending-2000-02-w08]] ←[[events-attending-2000-03-w11]]
 
 - [2000-01-03] January: UH Energy Institute power restructuring workshop 12-13 Jan (registered), NYU Stern risk management conference 13-14 Jan, CERA call 25 Jan; detail ←[[events-attending-2000-02]] ←[[m00130]] ←[[m00152]] ←[[m00350]]
-- [2000-01-31] Larry Chorn's Real Options E&P course (22 Feb-4 Apr): "We are too busy. We shall skip it."; sent to Mark Ruane, "the best customer at Enron for real options applications". ←[[m00436]] ←[[m00448]] ←[[m00501]] ←[[m00502]]
-- [2000-02-01] CERA "High Tension" transmission workshop, 11 Feb ($5,000 seat): forwarded to Grant Masson. ←[[m00462]] ←[[m00522]]
-- [2000-01-31] MathWorks seminar (Dallas 8 Feb or Houston 10 Feb) and CERA's "Energy and E-Business" workshop, Mon 7 Feb: "Please register me". ←[[m00489]] ←[[m00531]]
-- [2000-02-22] NYMEX night, Thu 2 Mar: dinner at Pappasito's, then the Houston rodeo (Reba McEntire); host Jana Laird Phillips. NYMEX Houston contact Deniese Palmer Huggins, (713) 658 9292. ←[[m00736]] ←[[m00755]]
-- [2000-03-08] Declined The MathWorks' MATLAB/Simulink/Stateflow week in Houston, 3-7 Apr (Scott Wakefield): "I am traveling on the days when you offer the class." ←[[m00913]]
-- [2000-03-08] Robert Kertz invited him to Georgia Tech's free Symposium on Quantitative and Computational Finance, Atlanta, Fri 7 Apr (register by 5 Apr): Alexander Eydeland (Southern Company) on energy derivatives, Ron Dembo (Algorithmics) and others. ←[[m00922]]
+- [2000-01-31] Feb: Chorn's Real Options course skipped (sent to Mark Ruane); CERA transmission workshop to Masson; MathWorks seminar and CERA E-Business, 7 Feb, registered. ←[[m00436]] ←[[m00448]] ←[[m00501]] ←[[m00502]] ←[[m00462]] ←[[m00522]] ←[[m00489]] ←[[m00531]]
+- [2000-02-22] NYMEX night, Thu 2 Mar (Pappasito's, rodeo); host Jana Laird Phillips. ←[[m00736]] ←[[m00755]]
+- [2000-03-08] Declined MathWorks' MATLAB week, 3-7 Apr: "I am traveling on the days when you offer the class." ←[[m00913]]
+- [2000-03-08] Georgia Tech's Symposium on Quantitative and Computational Finance, Atlanta, Fri 7 Apr (Robert Kertz; Eydeland, Dembo). ←[[m00922]]
+- [2000-03-13] Owner: "Please, register me." for the Information Break talk by John Nolan (Phoenix Consulting Group) on industrial and economic espionage, Fri 17 Mar 11:30, EB5C2. ←[[m00960]]
+- [2000-03-17] On the ERMA list: Rose O. Perez (Arthur Andersen) sent a meeting notice (28 Mar) and the membership application; owner forwarded it to his AOL. ←[[m01036]]
