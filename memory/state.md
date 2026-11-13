@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-06-04 (replay of the owner's mailbox, week 2000-W22). Owner on the storage book VaR problem and a university-relations proposal to Skilling; heavy travel in June.
+As of 2000-06-11 (week 2000-W23). Owner leaves for Risk 2000 Boston on 12 Jun; storage VaR fix (fwd-fwd vols) in test; in Houston late June-early July for a closing deal.
 
-- Coming: Risk 2000 Boston 12-15 Jun (reception 12, panel 14); People's Gas 16 Jun; Berlin 19 Jun; Ronn 22 Jun; Sydney in July (Strickland 18 Jul); Paris 3-6 Oct → memory/domains/industry/speaking-engagements-2000.md, memory/domains/industry/eprm-risk.md
-- Owed: PEP feedback and reviewer approvals by 16 Jun; Lacima chapter revision; CPLEX vs XPRESS vote; Risk copyright for EOL → memory/domains/organization/mid-year-prc-2000.md, memory/domains/work/owner-publications.md, memory/domains/organization/software-licenses.md
+- Coming: Boston 12-15 Jun (panel 14 Jun); Phil Roan 16 Jun; Berlin 19 Jun; Ronn and mentor reception 22 Jun; Iris Mack early July; Sydney July (Strickland 18 Jul); PoweRisk Paris Oct → memory/domains/industry/speaking-engagements-2000.md, memory/domains/organization/candidate-referrals-2000.md
+- Owed: Sydney slides 12 Jun; PEP feedback 16 Jun; Geman contract (Feldman); Lacima chapter; CPLEX vs XPRESS vote → memory/domains/organization/mid-year-prc-2000.md, memory/domains/work/vendor-offers-2000.md, memory/domains/organization/software-licenses.md

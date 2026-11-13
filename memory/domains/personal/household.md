@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones, work card; wife Ludmila Kaminski; son a junior at Stanford studying computer science; family back in Houston mid-June 2000; sister's estate case in Pabianice (Jun 2000); brokers (PaineWebber, Merrill Lynch, Edward Jones) archived."
 status: active
-updated: 2000-06-04
+updated: 2000-06-11
 ---
 # Owner's household and personal admin
 
@@ -19,5 +19,6 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-06-02→] Work: vkamins@enron.com (not @ect.enron.com); card sent to David DeAngelo (papl.com): Managing Director, Enron Corp., 1400 Smith Street, Room 1962, Houston, TX 77251-1188, (713) 853 3848. ←[[household-2000-03-w13]] ←[[m01077]] ←[[m01893]] ←[[m01895]]
 - [2000-04-17] Ludmila Kaminski's address: Escondido Village, 32B, Stanford University, CA 94305 (sent to Crenshaw). ←[[m01369]]
 - [2000-05-08] "My family will be back in Houston around mid-June." ←[[m01615]]
+- [2000-06-06] "Leaving for Ca in a few minutes."; drives back from California to Houston that week. ←[[m01931]] ←[[m01941]]
 - [2000-05-22] Short messages while he travels: vkaminski@palm.net (to Masson, Roberts, Krishnarao, Crenshaw, Gibner, Shanbhogue). ←[[m01731]]
 - [2000-06-01] Poland: court case on the inheritance of his late sister Elżbieta Maleta's estate, District Court (Sąd Rejonowy) Pabianice; Marek Bartnicki drafted a power of attorney naming Jerzy Kasperski (Pabianice) to receive summons; his signature needs a notary or the Consulate. ←[[m01887]]

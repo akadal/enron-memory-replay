@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-06-04
+updated: 2000-06-11
 ---
 # Work — index
 
@@ -9,10 +9,10 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Storage book VaR wrong (fwd-fwd vols): sum sub-book VaRs → memory/domains/work/storage-book-var.md
-- VP/MD university function proposed to Skilling → memory/domains/work/university-relations.md
-- UT NDA arbitration clause; distance learning; Ronn 22 Jun → memory/domains/work/ut-austin-ties-2000.md
-- Lacima chapter draft; MEPR in Japanese → memory/domains/work/owner-publications.md
+- Storage VaR: fwd-fwd vols tested ($3.14M), sum sub-book VaRs → memory/domains/work/storage-book-var.md
+- MEPR2 on an Enron site with Risk Books (Dan Diamond); Lacima chapter → memory/domains/work/owner-publications.md
+- MarketPoint's Nesbitt in Houston late June; Geman contract → memory/domains/work/vendor-offers-2000.md
+- JCC-Brent hedge ratio sign-off (Kindall) → memory/domains/work/desk-analysis-requests.md
 
 ## Files
 
@@ -28,13 +28,14 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/crude-oil-digital-option.md
 - memory/domains/work/dabhol-power-sale.md — Dabhol, India power trading setup
 - memory/domains/work/day-rate-hedge.md — rig day-rate hedges (Peyton)
+- memory/domains/work/desk-analysis-requests.md — desk hedge ratios, data
 - memory/domains/work/ebs-network-planning.md — EBS network modelling
 - memory/domains/work/ebs-storage-market.md — EBS storage trading
-- memory/domains/work/eol-content-2000.md — Research content for EOL
 - memory/domains/work/emission-trading-poland.md
 - memory/domains/work/ene-stock-drivers.md — ENE stock regressions
 - memory/domains/work/enron-media-advertising.md
 - memory/domains/work/enterprise-risk-management.md — EWRM
+- memory/domains/work/eol-content-2000.md — Research content for EOL
 - memory/domains/work/ethanol-hedging.md
 - memory/domains/work/fas133-implementation.md
 - memory/domains/work/gas-flow-price-model.md — Vernon's gas flow model
@@ -61,8 +62,8 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/tips-inflation-model.md — TIPS, US inflation
 - memory/domains/work/uk-inflation-book-ppi.md — UK Inflation Book PPI
 - memory/domains/work/uk-power-vol-curve.md — UK power and half-hourly vols
-- memory/domains/work/ut-austin-ties-2000.md — Titman, Ronn, UT
 - memory/domains/work/university-relations.md — universities memo
+- memory/domains/work/ut-austin-ties-2000.md — Titman, Ronn, UT
 - memory/domains/work/vega-var.md — vega VaR, Credit Reserve Model
 - memory/domains/work/vendor-offers-2000.md — vendors, SKG
 
