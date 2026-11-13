@@ -1,0 +1,178 @@
+{
+ "slice": 7,
+ "simulated_today": "2000-01-15",
+ "feed": {
+  "slice": 7,
+  "iso_week": "2000-W02",
+  "first_seq": 199,
+  "last_seq": 349,
+  "messages": 151,
+  "durable": 66,
+  "first_date": "2000-01-10 03:13",
+  "last_date": "2000-01-15 08:18",
+  "today": "2000-01-15",
+  "inbox_files": [
+   "2000-01-10--mail.md",
+   "2000-01-11--mail.md",
+   "2000-01-12--mail.md",
+   "2000-01-13--mail.md",
+   "2000-01-14--mail.md",
+   "2000-01-15--mail.md"
+  ],
+  "inbox_chars": 44295,
+  "l2_chars": 192669
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 427,
+ "quota_before": {
+  "five_hour": 32.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 33.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 7,
+  "messages": 151,
+  "durable": 66,
+  "kept": 42,
+  "dropped": 24,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 139,
+  "fact_lines_with_source": 194,
+  "dated": 194,
+  "date_matches_source": 187,
+  "kept_rate_by_decile": [
+   1.0,
+   0.56,
+   0.67,
+   0.38,
+   1.0,
+   null,
+   0.29,
+   0.5,
+   0.6,
+   0.89
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 705
+  },
+  "questions": {
+   "files": 1,
+   "chars": 552
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 68,
+   "chars": 77671
+  },
+  "people": {
+   "files": 18,
+   "chars": 12212
+  },
+  "archive_inbox": {
+   "files": 32,
+   "chars": 133967
+  },
+  "archive_mail": {
+   "files": 375,
+   "chars": 800869
+  },
+  "archive_other": {
+   "files": 1,
+   "chars": 699
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 52,
+   "duration_ms": 425155,
+   "duration_api_ms": 394110,
+   "total_cost_usd": 4.786623999999999,
+   "usage": {
+    "input_tokens": 68,
+    "cache_creation_input_tokens": 154106,
+    "cache_read_input_tokens": 3468057,
+    "output_tokens": 49661,
+    "output_tokens_details": {
+     "thinking_tokens": 20828
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 154106,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 821,
+      "cache_read_input_tokens": 83231,
+      "cache_creation_input_tokens": 706,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 706
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 2225,
+     "outputTokens": 56715,
+     "cacheReadInputTokens": 3633128,
+     "cacheCreationInputTokens": 154106,
+     "webSearchRequests": 0,
+     "costUSD": 4.786623999999999,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 20828,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 50,
+   "result_summary": "Consolidation 007 (simulated 2000-01-15) is committed as `f28f408` and not pushed. `lint.py` and `sleep-audit.py` were both green on the first try, so I didn't use the retry and `pre-sleep` was not reset to. Lint still shows 15 over-budget warnings, none of them failures.\n\n- **Coverage:** 66 of the 151 messages (m00199–m00349) had durable notes. 42 are cited in new or updated files. The other 24 are listed in `dataset/drops/sleep-007.tsv`, mostly congratulation notes. A script check found no message with notes that is neither cited nor listed.\n- **New topics:** 24 topic files and 2 people (Grant Masson, Zimin Lu).\n  - Organization: promotions, research interviews, room directory, system access, the Dhar H1B status, and a bonus note with tiers only.\n  - Work: calendar additions, the basis report, the Henwood Prosym renewal, the Credit Reserve Model, the Schuleman report, the China pipeline real options request, the crude oil insurance model, Chicago support, and the Cuneo dismissal.\n  - Industry and personal: four industry topics and the Stanford Parents Weekend.\n- **Updated:** four existing people files, `vega-position-capture` and `research-group-19th-floor-move` got small additions. The five domain and people indexes and `state.md` were also rewritten.\n- **Questions:** the overdue \"Krishna Krishnarao\" alias question got no answer. I closed it on the status quo (no alias added) and logged the close in `archive/inbox/2000-01-15--mail-2.md`. A new approval question asks whether \"Bob Lee\" in m00207 is Robert Lee; it is due 2000-02-14, and the alias is not applied.\n- **Archive and bonus data:** all six inbox logs are moved to `memory/archive/inbox/` unchanged, and the inbox is empty. Bonus figures are recorded as tiers only, with no names.\n- **Budgets:** no file is above 90% of its ceiling, so there was nothing to compress under the quota. Two files I created (`year-end-promotions` and `research-interviews`) are slightly over the 1600 target even after trimming; both a"
+  },
+  "repair": null
+ }
+}
