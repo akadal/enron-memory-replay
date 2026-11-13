@@ -1,22 +1,22 @@
 ---
 type: index
-updated: 2000-06-04
+updated: 2000-06-11
 ---
 # People — index
 
 ## Files
 
-Aliases that add a middle name or initial, spell out a first name or misspell (Kevin G Moore, Thomas Gros) are in the entity file alone.
+Variant aliases (initials, first-name forms, misspellings) live in the entity files.
 
 - Adam Brulinski — adam-brulinski
 - Alan Aronowitz — alan-aronowitz
 - Alex Huang — alex-huang
 - Amitava Dhar — amitava-dhar
 - Amy Aldous — amy-aldous
-- Andrew Fastow — Andy Fastow — andrew-fastow
+- Andrew Fastow — andrew-fastow
 - Andrzej Wodnicki — andrzej-wodnicki
 - Anjam Ahmad — anjam-ahmad
-- Anthony Mends — Tony Mends — anthony-mends
+- Anthony Mends — anthony-mends
 - April Hodgson — april-hodgson
 - Aram Sogomonian — aram-sogomonian
 - Benjamin Parsons — Ben Parsons — benjamin-parsons
@@ -35,17 +35,19 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Chris Strickland — chris-strickland
 - Clayton Vernon — clayton-vernon
 - Cliff Baxter — cliff-baxter
+- Dale Nesbitt — dale-nesbitt
 - Dale Surbey — dale-surbey
 - Damian Goodburn — damian-goodburn
 - Darrell Duffie — darrell-duffie
 - Dave Delainey — dave-delainey
 - David Cox — david-cox
-- David Gorte — Dave Gorte — david-gorte
+- David Gorte — david-gorte
 - David Oxley — david-oxley
 - David Walkup — david-walkup
 - Dawn Scovill — dawn-scovill
 - Debbie Brackett — debbie-brackett
 - Dennis Benevides — dennis-benevides
+- Dick Jefferis — dick-jefferis
 - Ding Yuan — ding-yuan
 - Dorn Hetzel — dorn-hetzel
 - Doug Leach — doug-leach
@@ -68,7 +70,8 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Harry Arora — harry-arora
 - Helyette Geman — helyette-geman
 - Iain Russell — iain-russell
-- James Steffes — Jim Steffes — james-steffes
+- Iris Mack — iris-mack
+- James Steffes — james-steffes
 - Jana Phillips — jana-phillips
 - Jarek Astramowicz — jarek-astramowicz
 - Jason Sokolov — jason-sokolov
@@ -92,7 +95,7 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Jonathan Le — jonathan-le
 - Jose Marquez — jose-marquez
 - Joseph Hirl — joseph-hirl
-- Joseph Hrgovcic — Joe Hrgovcic — joseph-hrgovcic
+- Joseph Hrgovcic — joseph-hrgovcic
 - Karla Feldman — karla-feldman
 - Katja Schilling — katja-schilling
 - Keith Baggerly — keith-baggerly
@@ -103,6 +106,7 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Kimberly Watson — kimberly-watson
 - Kirstee Hewitt — kirstee-hewitt
 - Kristy Carnes — kristy-carnes
+- Leandro Ibasco — Roy Ibasco — leandro-ibasco
 - Lenos Trigeorgis — lenos-trigeorgis
 - Les Clewlow — les-clewlow
 - Li Xiao — li-xiao
@@ -123,7 +127,7 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Martina Angelova — martina-angelova
 - Maruti More — maruti-more
 - Masayuki Fujita — masayuki-fujita
-- Matthew Williams — Matt Williams — matthew-williams
+- Matthew Williams — matthew-williams
 - Maureen Raymond — maureen-raymond
 - Michael Sergeev — michael-sergeev
 - Mike McConnell — mike-mcconnell
@@ -142,11 +146,11 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Peter Tufano — peter-tufano
 - Phelim Boyle — phelim-boyle
 - Philippe Bibi — philippe-bibi
-- Pinnamaneni Krishnarao — Krishna Krishnarao — pinnamaneni-krishnarao
+- Pinnamaneni Krishnarao — pinnamaneni-krishnarao
 - Ravi Thuraisingham — ravi-thuraisingham
 - Richard Lewis — richard-lewis
 - Rick Buy — rick-buy
-- Robert Brooks — Bob Brooks — robert-brooks
+- Robert Brooks — robert-brooks
 - Robert Lee — Bob Lee — robert-lee
 - Robert Rudy — robert-rudy
 - Rodney Greene — rodney-greene
@@ -167,6 +171,7 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Sherri Sera — sherri-sera
 - Sheryl Lara — sheryl-lara
 - Shirley Crenshaw — shirley-crenshaw
+- Soma Ghosh — soma-ghosh
 - Soussan Faiz — soussan-faiz
 - Stephen Bramlett — stephen-bramlett
 - Steven Leppard — steven-leppard
@@ -187,6 +192,7 @@ Aliases that add a middle name or initial, spell out a first name or misspell (K
 - Vicky Windsor — vicky-windsor
 - Vincent Tang — vincent-tang
 - William Bradford — william-bradford
-- William Smith — Sam Smith — william-smith
+- William Smith — william-smith
+- Winston Jia — winston-jia
 - Yannis Tzamouranis — yannis-tzamouranis
 - Zimin Lu — zimin-lu
