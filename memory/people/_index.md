@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-07-09
+updated: 2000-07-14
 ---
 # People — index
 
@@ -15,6 +15,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Amitava Dhar
 - Amy Aldous
 - Amy Lamonsoff
+- Andrea Reed
 - Andrew Fastow (Andy Fastow)
 - Andrzej Wodnicki
 - Anjam Ahmad
@@ -28,6 +29,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Benjamin Parsons (Ben Parsons)
 - Beth Miertschin
 - Beth Perlman
+- Bill Petty
 - Bjorn Hagelmann
 - Bob Shults
 - Brad McSherry
@@ -69,6 +71,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Elizabeth Grant
 - Emma Wolfin
 - Eric Hilton
+- Erik Simpson
 - Eugenio Perez
 - Farouk Lalji
 - Fred Lagrasta
@@ -106,6 +109,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Bloomer
 - John D. Martin
 - John Griebling
+- John Lavorato
 - John Peyton
 - John Sherriff
 - Jonathan Le
@@ -114,8 +118,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joseph Hrgovcic (Joe Hrgovcic)
 - Julie Haviland
 - Karla Feldman
+- Kate Bruges
 - Katja Schilling
 - Keith Baggerly
+- Ken Lay
 - Ken Rice
 - Kevin Hannon
 - Kevin Kindall
@@ -178,6 +184,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Robert Lee (Bob Lee)
 - Robert Rudy
 - Rodney Greene
+- Rodney Malcolm
 - Roman Zadorozhny
 - Ronnie Chahal
 - Ross Prevatt
@@ -208,9 +215,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Teresa Bien
 - Thomas Knudsen
 - Tim Davies (Timothy Davies)
+- Tim Luehrman
+- Tom Arnold
 - Tom Gros (Thomas Gros)
 - Tom Halliburton
 - Tom Piazze (Thomas Piazze)
+- Toni Graham
 - Traci Warner
 - Trena McFarland
 - Trisha Tlapek

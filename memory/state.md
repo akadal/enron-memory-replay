@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-07-09 (week 2000-W27). PRC day done 7 Jul; Ahmad in Houston from 10 Jul.
+As of 2000-07-14 (week 2000-W28). The owner leaves for Australia 14 Jul; Gibner covers while he is away; back the week of 24 Jul.
 
-- Coming: Shane Green 10 Jul; meet and greet 11 Jul; Krapels and Baylor lunch 12 Jul; Kierlanczyk 12-17 Jul; Sydney 16-22 Jul; Deng 27-29 Jul; Jana's dinner 28 Jul; offsite 18-20 Aug → memory/domains/organization/recruiting-candidates.md, memory/domains/industry/eprm-risk.md, memory/domains/industry/visitors-2000.md
-- Owed: Sharad Agnihotri offer view; Rabi De formal interview; Yaman's PJM study; Arnell's LNG update; ALCAR test; offsite contract by 31 Jul → memory/domains/organization/london-research.md, memory/domains/organization/candidate-interviews-jul-2000.md, memory/domains/work/lng-book-2000.md
+- Coming: Sydney 16-22 Jul; staff meeting 20 Jul; MG NY visit (Tamarchenko, Ahmad); Deng 27-29 Jul; Jana's dinner 28 Jul; TW options filing 31 Jul; United Way 4 Aug; budgets 14 Aug; offsite 18-20 Aug → memory/domains/industry/eprm-risk.md, memory/domains/organization/mg-metals-integration.md, memory/domains/work/tw-capacity-options.md
+- Owed: Leppard letter to Sherriff; Agnihotri offer (55K?); Rabi De formal interview; Arnold paper comments; Nesbitt reply; offsite contract by 31 Jul → memory/domains/organization/london-research.md, memory/domains/organization/candidate-interviews-jul-2000.md
