@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 1999-11-30
+updated: 1999-12-12
 ---
 # Industry — index
 
@@ -9,8 +9,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-(nothing yet)
+- EPRM/RISK Monte Carlo course: owner recommended Stinson Gibner as speaker (1999-12-10) → memory/domains/industry/eprm-monte-carlo-course.md
 
 ## Files
 
-(nothing yet)
+- memory/domains/industry/eprm-monte-carlo-course.md — EPRM (risk.co.uk) speaker request, Helen Evans
