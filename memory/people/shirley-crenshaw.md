@@ -5,7 +5,7 @@ entity: person
 name: "Shirley Crenshaw"
 aliases: []
 domains: [organization, industry, work]
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Shirley Crenshaw
 
@@ -18,8 +18,9 @@ Research group administrator: office move, equipment, visitors and the owner's s
 
 ## Context: industry
 
-- [1999-12-17] Put the NY Real Options talk on the owner's schedule → memory/domains/industry/conferences-2000.md ←[[m00067]]
+- [1999-12-17] Put the NY Real Options talk on the owner's schedule; copied on Risk 2000 (1999-12-22) → memory/domains/industry/conferences-2000.md ←[[m00067]] ←[[m00088]]
 
 ## Context: work
 
 - [1999-12-10] Gave Robert Lee directions for his visit → memory/domains/work/1999-12-29-robert-lee-visit.md ←[[m00008]]
+- [1999-12-21] Submits the group's software requests (e.g. Scientific Word) for the owner's approval → memory/domains/work/gas-transmission-price-model.md ←[[m00084]]

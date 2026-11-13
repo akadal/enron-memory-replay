@@ -5,7 +5,7 @@ entity: person
 name: "Clayton Vernon"
 aliases: []
 domains: [work, organization]
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Clayton Vernon
 
@@ -13,7 +13,7 @@ Research group member working on gas price and transmission modelling. ←[[m000
 
 ## Context: work
 
-- [1999-12-15] Proposed a gas basis model → memory/domains/work/gas-transmission-price-model.md ←[[m00025]] ←[[m00042]]
+- [1999-12-15] Proposed a gas basis model; 1999-12-22 a simplified 8-parameter version, to be written up in Scientific Word → memory/domains/work/gas-transmission-price-model.md ←[[m00025]] ←[[m00042]] ←[[m00086]] ←[[m00084]]
 
 ## Context: organization
 
