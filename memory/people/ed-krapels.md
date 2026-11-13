@@ -5,7 +5,7 @@ entity: person
 name: "Ed Krapels"
 aliases: []
 domains: [work, industry]
-updated: 2000-02-12
+updated: 2000-06-30
 ---
 # Ed Krapels
 
@@ -18,3 +18,4 @@ Runs ESAI (301 Edgewater Place, Suite 108, Wakefield, MA 01880; (781) 245-2036; 
 ## Context: industry
 
 - [2000-01-10] ESAI's monthly "Flow of Funds" report; feedback goes to him ←[[m00211]]
+- [2000-06-30] ESAI/WSI Energycast: site cruise 6 Jul, meeting in Houston 12 Jul → memory/domains/industry/esai-energycast-review.md ←[[m02158]] ←[[m02198]] ←[[m02211]]

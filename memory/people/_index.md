@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-06-25
+updated: 2000-06-30
 ---
 # People — index
 
@@ -22,6 +22,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - April Hodgson (April Hodgeson, April Hodges)
 - Aram Sogomonian
 - Arshak Sarkissian
+- Avi Hauser (Avi I. Hauser)
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
 - Benjamin Parsons (Ben Parsons)
@@ -42,6 +43,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Chris Strickland
 - Clayton Vernon
 - Cliff Baxter
+- Conrad Gardner
 - Dale Nesbitt
 - Dale Surbey
 - Damian Goodburn
@@ -70,6 +72,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Farouk Lalji
 - Fred Lagrasta
 - Gary Hickerson
+- George Hopley
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
@@ -88,9 +91,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jean Mrha
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
+- Jeffrey Shorter
 - Jens Gobel
 - Jere Overdyke (Jere C Overdyke)
 - Jim Dyer (James S. Dyer)
+- Jim Fallon
 - Jim Garven (James R. Garven)
 - Jim Irvine
 - Joan Payne
@@ -123,8 +128,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Linda Vargo
 - Lisa Ford
 - Liz Taylor (Liz M Taylor)
+- Lou Casari
 - Lou Pai (Lou L Pai)
 - Louise Kitchen
+- Lucie Deathridge (Lucy Deathridge)
 - Lucy Ortiz
 - Ludmila Kaminski (Ludmila)
 - Lyn Malina
@@ -144,6 +151,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mike McConnell
 - Mike Roberts (Mike A Roberts)
 - Ming Sit
+- Molly Magee
 - Nick Bambos
 - Norberto Valdes
 - Nurit Krausz
@@ -182,6 +190,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sheridan Titman
 - Sherri Sera
 - Sheryl Lara
+- Shijie Deng (Shi-Jie Deng)
 - Shirley Crenshaw
 - Soma Ghosh
 - Soussan Faiz

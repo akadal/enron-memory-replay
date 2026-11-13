@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-06-25 (week 2000-W25). Ronn's talk and the mentor reception were set for 22 Jun; mid-year PRC under way; CPLEX chosen.
+As of 2000-06-30 (week 2000-W26). PRC pre-rankings due; Masson away from 1 Jul.
 
-- Coming: Bruce James interviews 26-30 Jun; Skunkworks and Nesbitt 5 Jul; Keeter 6 Jul; Iris Mack early July; Kierlanczyk 12-17 Jul; Sydney July (Strickland 18 Jul); MEC lunch 25 Jul → memory/domains/organization/candidate-referrals-2000.md, memory/domains/work/internal-meetings.md, memory/domains/industry/eprm-risk.md
-- Owed: Turkish option discount-rate memo; Sydney slides; London credit help (Dhar or Shanbhogue); Wharton recommendation to Skilling; Geman contract → memory/domains/work/turkish-ipo-options.md, memory/domains/work/credit-markets.md, memory/domains/industry/research-memberships-2000.md
+- Coming: PRC meeting 5 Jul, PRC day 7 Jul; interviews 5-6 Jul, Shane Green 10 Jul; Krapels 6/12 Jul; Nesbitt 7 Jul; Sydney from 14 Jul; Deng 28 Jul; offsite 18-20 Aug → memory/domains/organization/mid-year-prc-2000.md, memory/domains/organization/candidate-interviews-jul-2000.md, memory/domains/industry/esai-energycast-review.md, memory/domains/industry/eprm-risk.md
+- Owed: Technical Corner article for 10 Jul; chapter 3 footnotes; EBS V@R views; Shalesh after Ravi's return; offsite contract by 31 Jul → memory/domains/work/owner-publications.md, memory/domains/work/lacima-book-2000.md, memory/domains/work/ebs-var-policy.md, memory/domains/organization/staff-and-recruiting.md
