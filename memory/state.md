@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-05-26 (replay of the owner's mailbox, week 2000-W21). Owner in the LNG loop (EXMAR ships, final DASH); heavy travel until 22 Jun.
+As of 2000-06-04 (replay of the owner's mailbox, week 2000-W22). Owner on the storage book VaR problem and a university-relations proposal to Skilling; heavy travel in June.
 
-- Coming: Toronto talk and panel 31 May (29 May disputed); Risk 2000 panel call Wed 31 May 11 EST; weather derivatives support Thu 1 Jun; Todd Perry Fri 2 Jun; Super Saturday 3 Jun; Boston 12-15 Jun; People's Gas 16 Jun; Ronn 22 Jun → memory/domains/industry/speaking-engagements-2000.md, memory/domains/organization/_index.md
-- Owed: PEP feedback by 16 Jun; CPLEX vs XPRESS vote; Risk copyright for EOL → memory/domains/organization/mid-year-prc-2000.md, memory/domains/organization/software-licenses.md, memory/domains/work/eol-content-2000.md
+- Coming: Risk 2000 Boston 12-15 Jun (reception 12, panel 14); People's Gas 16 Jun; Berlin 19 Jun; Ronn 22 Jun; Sydney in July (Strickland 18 Jul); Paris 3-6 Oct → memory/domains/industry/speaking-engagements-2000.md, memory/domains/industry/eprm-risk.md
+- Owed: PEP feedback and reviewer approvals by 16 Jun; Lacima chapter revision; CPLEX vs XPRESS vote; Risk copyright for EOL → memory/domains/organization/mid-year-prc-2000.md, memory/domains/work/owner-publications.md, memory/domains/organization/software-licenses.md

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-05-26
+updated: 2000-06-04
 ---
 # Work — index
 
@@ -9,11 +9,10 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- LNG: EXMAR ships valued as stand-alone longs; final DASH → memory/domains/work/lng-book-2000.md
-- Titman NDA, UT courses streamed by EBS; Ronn 22 Jun → memory/domains/work/ut-austin-ties-2000.md
-- Zimin Lu in London 31 May-2 Jun, UK gas models → memory/domains/work/storage-model.md
-- Weather derivatives support Thu 1 Jun; People's Gas 16 Jun → memory/domains/work/internal-meetings.md, memory/domains/work/chicago-office-support.md
-- EOL content, Risk copyright → memory/domains/work/eol-content-2000.md
+- Storage book VaR wrong (fwd-fwd vols): sum sub-book VaRs → memory/domains/work/storage-book-var.md
+- VP/MD university function proposed to Skilling → memory/domains/work/university-relations.md
+- UT NDA arbitration clause; distance learning; Ronn 22 Jun → memory/domains/work/ut-austin-ties-2000.md
+- Lacima chapter draft; MEPR in Japanese → memory/domains/work/owner-publications.md
 
 ## Files
 
@@ -41,7 +40,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/gas-flow-price-model.md — Vernon's gas flow model
 - memory/domains/work/grms.md — GRMS risk warehouse
 - memory/domains/work/internal-meetings.md
-- memory/domains/work/japan-merchant-business.md — Japan business
+- memory/domains/work/japan-merchant-business.md — Japan business, LTCB WTI options
 - memory/domains/work/kmi-database-license.md — KMI database licence
 - memory/domains/work/ljm-put-valuation.md — LJM puts
 - memory/domains/work/lng-book-2000.md — LNG book, Elba Island, tankers
@@ -56,12 +55,14 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/rofr-valuation.md
 - memory/domains/work/south-america-curves.md
 - memory/domains/work/stanford-research-ties.md — Stanford, Bambos
+- memory/domains/work/storage-book-var.md — storage book VaR
 - memory/domains/work/storage-model.md — ESVM, Duffie review
 - memory/domains/work/talon-raptor.md — Talon/Raptor, PwC, LJM2
 - memory/domains/work/tips-inflation-model.md — TIPS, US inflation
 - memory/domains/work/uk-inflation-book-ppi.md — UK Inflation Book PPI
 - memory/domains/work/uk-power-vol-curve.md — UK power and half-hourly vols
 - memory/domains/work/ut-austin-ties-2000.md — Titman, Ronn, UT
+- memory/domains/work/university-relations.md — universities memo
 - memory/domains/work/vega-var.md — vega VaR, Credit Reserve Model
 - memory/domains/work/vendor-offers-2000.md — vendors, SKG
 

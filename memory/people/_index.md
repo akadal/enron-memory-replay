@@ -1,12 +1,12 @@
 ---
 type: index
-updated: 2000-05-26
+updated: 2000-06-04
 ---
 # People — index
 
 ## Files
 
-An alias that only adds a middle name or initial (Kevin G Moore) is in the entity file alone.
+Aliases that add a middle name or initial, spell out a first name or misspell (Kevin G Moore, Thomas Gros) are in the entity file alone.
 
 - Adam Brulinski — adam-brulinski
 - Alan Aronowitz — alan-aronowitz
@@ -17,16 +17,16 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Andrzej Wodnicki — andrzej-wodnicki
 - Anjam Ahmad — anjam-ahmad
 - Anthony Mends — Tony Mends — anthony-mends
-- April Hodgson — April Hodgeson, April Hodges — april-hodgson
+- April Hodgson — april-hodgson
 - Aram Sogomonian — aram-sogomonian
 - Benjamin Parsons — Ben Parsons — benjamin-parsons
 - Beth Perlman — beth-perlman
 - Bjorn Hagelmann — bjorn-hagelmann
 - Brad McSherry — brad-mcsherry
-- Brad Romine — Bradley Romine — brad-romine
+- Brad Romine — brad-romine
 - Bryan Seyfried — bryan-seyfried
 - Cantekin Dincerler — cantekin-dincerler
-- Carla Di Castro — Carla diCastro — carla-di-castro
+- Carla Di Castro — carla-di-castro
 - Celeste Roberts — celeste-roberts
 - Charlene Jackson — charlene-jackson
 - Chonawee Supatgiat — chonawee-supatgiat
@@ -46,6 +46,7 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Dawn Scovill — dawn-scovill
 - Debbie Brackett — debbie-brackett
 - Dennis Benevides — dennis-benevides
+- Ding Yuan — ding-yuan
 - Dorn Hetzel — dorn-hetzel
 - Doug Leach — doug-leach
 - Ed Krapels — ed-krapels
@@ -60,24 +61,25 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Gary Hickerson — gary-hickerson
 - Ginger Gamble — ginger-gamble
 - Giuseppe Paleologo — Gappy — giuseppe-paleologo
-- Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — gopalakrishnan-subramaniam
+- Gopalakrishnan Subramaniam — G.Subbu — gopalakrishnan-subramaniam
 - Gordon Sick — gordon-sick
 - Grant Masson — grant-masson
 - Greg Whalley — greg-whalley
 - Harry Arora — harry-arora
 - Helyette Geman — helyette-geman
 - Iain Russell — iain-russell
+- James Steffes — Jim Steffes — james-steffes
 - Jana Phillips — jana-phillips
 - Jarek Astramowicz — jarek-astramowicz
 - Jason Sokolov — jason-sokolov
 - Jay Webb — jay-webb
 - Jean Mrha — jean-mrha
-- Jeff Shankman — Jeffrey A Shankman — jeff-shankman
+- Jeff Shankman — jeff-shankman
 - Jeff Skilling — jeff-skilling
 - Jens Gobel — jens-gobel
 - Jere Overdyke — jere-overdyke
-- Jim Dyer — James S. Dyer — jim-dyer
-- Jim Garven — James R. Garven — jim-garven
+- Jim Dyer — jim-dyer
+- Jim Garven — jim-garven
 - Jim Irvine — jim-irvine
 - Joan Payne — joan-payne
 - Joe Hirko — joe-hirko
@@ -89,6 +91,7 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - John Sherriff — john-sherriff
 - Jonathan Le — jonathan-le
 - Jose Marquez — jose-marquez
+- Joseph Hirl — joseph-hirl
 - Joseph Hrgovcic — Joe Hrgovcic — joseph-hrgovcic
 - Karla Feldman — karla-feldman
 - Katja Schilling — katja-schilling
@@ -108,6 +111,7 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Liz Taylor — liz-taylor
 - Lou Pai — lou-pai
 - Louise Kitchen — louise-kitchen
+- Lucy Ortiz — lucy-ortiz
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
 - Lyn Malina — lyn-malina
 - Manuel Rensink — manuel-rensink
@@ -131,12 +135,12 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Oliver Bennett — oliver-bennett
 - Osman Sezgen — osman-sezgen
 - Paige Grumulaitis — paige-grumulaitis
-- Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
+- Patrycja Dalecka — patrycja-dalecka
 - Paula Corey — paula-corey
 - Paulo Issler — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
 - Peter Tufano — peter-tufano
-- Phelim Boyle — P.P. Boyle — phelim-boyle
+- Phelim Boyle — phelim-boyle
 - Philippe Bibi — philippe-bibi
 - Pinnamaneni Krishnarao — Krishna Krishnarao — pinnamaneni-krishnarao
 - Ravi Thuraisingham — ravi-thuraisingham
@@ -153,6 +157,7 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Sally Beck — sally-beck
 - Samer Takriti — samer-takriti
 - Sandeep Kohli — sandeep-kohli
+- Sanjeev Khanna — sanjeev-khanna
 - Scott Tholan — scott-tholan
 - Scott Yeager — scott-yeager
 - Sevil Yaman — sevil-yaman
@@ -163,13 +168,17 @@ An alias that only adds a middle name or initial (Kevin G Moore) is in the entit
 - Sheryl Lara — sheryl-lara
 - Shirley Crenshaw — shirley-crenshaw
 - Soussan Faiz — soussan-faiz
+- Stephen Bramlett — stephen-bramlett
 - Steven Leppard — steven-leppard
 - Stinson Gibner — stinson-gibner
 - Tanya Tamarchenko — tanya-tamarchenko
 - Ted Murphy — ted-murphy
+- Teresa Bien — teresa-bien
 - Thomas Knudsen — thomas-knudsen
-- Tom Gros — Thomas Gros — tom-gros
+- Tom Gros — tom-gros
 - Tom Halliburton — tom-halliburton
+- Tom Piazze — tom-piazze
+- Traci Warner — traci-warner
 - Trena McFarland — trena-mcfarland
 - Trisha Tlapek — trisha-tlapek
 - Vadim Pokhlebkin — vadim-pokhlebkin
