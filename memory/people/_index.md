@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 1999-11-30
+updated: 1999-12-12
 ---
 # People and organisations — index
 
@@ -11,5 +11,11 @@ Format, one line each: `name — aliases — domains — path`
 
 ## Files
 
+- Brad McSherry — (none) — organization — memory/people/brad-mcsherry.md
+- Helen Evans — (none) — industry — memory/people/helen-evans.md
 - Jonathan Le — (none) — work — memory/people/jonathan-le.md
+- Pinnamaneni Krishnarao — (none; "Krishna Krishnarao" pending, see questions.md) — work — memory/people/pinnamaneni-krishnarao.md
+- Robert Lee — (none) — work — memory/people/robert-lee.md
+- Shirley Crenshaw — (none) — organization, work — memory/people/shirley-crenshaw.md
+- Stinson Gibner — (none) — organization, industry — memory/people/stinson-gibner.md
 - Vincent Tang — (none) — work — memory/people/vincent-tang.md
