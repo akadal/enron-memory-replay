@@ -3,9 +3,9 @@ id: household
 type: topic
 domain: personal
 title: "Owner's household and personal admin"
-summary: "Owner's AOL account, home address, phones (cell 713 410 5396), work card; wife Ludmila Kaminski, back home in late June; son a junior at Stanford (computer science); sister's estate case in Pabianice (Jun 2000); investments: memory/domains/personal/investments-2000.md."
+summary: "Owner's AOL account, home address, phones (cell 713 410 5396), work card; wife Ludmila Kaminski; son Vince at Stanford (senior year from Sep 2000); sister's estate case in Pabianice; investments: memory/domains/personal/investments-2000.md."
 status: active
-updated: 2000-08-06
+updated: 2000-08-11
 ---
 # Owner's household and personal admin
 
@@ -17,3 +17,4 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-06-02→] Work: vkamins@enron.com (not @ect.enron.com; again to Baylor 31 Jul); fax 713 646 2503; card sent to David DeAngelo (papl.com): Managing Director, Enron Corp., 1400 Smith Street, Room 1962, Houston, TX 77251-1188, (713) 853 3848. ←[[household-2000-03-w13]] ←[[m01077]] ←[[m01893]] ←[[m01895]] ←[[m02616]] ←[[m02621]]
 - [2000-06-01] Poland: court case on the inheritance of his late sister Elżbieta Maleta's estate, District Court (Sąd Rejonowy) Pabianice; Marek Bartnicki drafted a power of attorney naming Jerzy Kasperski (Pabianice) to receive summons; his signature needs a notary or the Consulate. ←[[m01887]]
 - [2000-06-26] Wife Ludmila Kaminski (not "Kaminsky", Merrill Lynch fixed; ludkam@aol.com, sends him lists of written checks) is back home after a long absence: "I think I need the coming long weekend to clean up all the papers". ←[[m00218]] ←[[m00304]] ←[[m00710]] ←[[m00816]] ←[[m02114]]
+- [2000-08-09] Son Vince starts his senior year in 6 weeks, then wants to work, not do an advanced degree. ←[[m02781]]

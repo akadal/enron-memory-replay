@@ -5,11 +5,11 @@ entity: person
 name: "Tim Luehrman"
 aliases: []
 domains: [industry, personal]
-updated: 2000-07-14
+updated: 2000-08-11
 ---
 # Tim Luehrman
 
-PricewaterhouseCoopers (Boston), Financial Advisory Services; real options writer ("tomato field" model). "Timothy Luehrman" is not linked (?), see memory/questions.md. ←[[m02286]] ←[[m02355]]
+PricewaterhouseCoopers (Boston), Financial Advisory Services; real options writer ("tomato field" model). "Timothy Luehrman" is not linked (?); closed by status quo 2000-08-11, unanswered: no link. ←[[m02286]] ←[[m02355]]
 
 ## Context: industry
 
