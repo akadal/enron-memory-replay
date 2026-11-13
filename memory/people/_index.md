@@ -1,11 +1,11 @@
 ---
 type: index
-updated: 2000-03-26
+updated: 2000-03-31
 ---
 # People and organisations — index
 
 The alias table, read in full on every run (namesakes are caught here). One line each:
-`name — aliases — id`; the file is memory/people/<id>.md (its domains are in its frontmatter).
+`name — aliases — id`; the file is memory/people/<id>.md (its domains are in its frontmatter). Bare ids, not full paths: (?) status quo of 2000-03-31.
 
 ## Files
 
@@ -20,6 +20,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Brad McSherry — — brad-mcsherry
 - Brad Romine — Bradley Romine — brad-romine
 - Bryan Seyfried — — bryan-seyfried
+- Cantekin Dincerler — — cantekin-dincerler
 - Celeste Roberts — — celeste-roberts
 - Charlene Jackson — — charlene-jackson
 - Chonawee Supatgiat — — chonawee-supatgiat
@@ -28,11 +29,14 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Clayton Vernon — — clayton-vernon
 - Cliff Baxter — — cliff-baxter
 - Dale Surbey — — dale-surbey
+- David Cox — — david-cox
 - Dawn Scovill — — dawn-scovill
 - Doug Leach — — doug-leach
 - Ed Krapels — — ed-krapels
+- Ehud Ronn — Ehud I. Ronn — ehud-ronn
 - Elizabeth Grant — — elizabeth-grant
 - Emma Wolfin — — emma-wolfin
+- Farouk Lalji — — farouk-lalji
 - Gary Hickerson — — gary-hickerson
 - Ginger Gamble — Ginger B Gamble — ginger-gamble
 - Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — giuseppe-paleologo
@@ -47,11 +51,15 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Jay Webb — — jay-webb
 - Jean Mrha — — jean-mrha
 - Jeff Shankman — Jeffrey A Shankman — jeff-shankman
+- Jeff Skilling — — jeff-skilling
+- Jim Dyer — James S. Dyer — jim-dyer
 - Jim Garven — James R. Garven — jim-garven
 - Jim Irvine — — jim-irvine
 - Joan Payne — — joan-payne
+- Joe Hirko — — joe-hirko
 - Joel Hanley — — joel-hanley
 - John Bloomer — — john-bloomer
+- John D. Martin — — john-d-martin
 - John Griebling — — john-griebling
 - John Peyton — — john-peyton
 - John Sherriff — — john-sherriff
@@ -69,6 +77,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Lenos Trigeorgis — — lenos-trigeorgis
 - Les Clewlow — — les-clewlow
 - Li Xiao — — li-xiao
+- Linda Vargo — — linda-vargo
 - Louise Kitchen — — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
 - Lyn Malina — — lyn-malina
@@ -105,13 +114,17 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Scott Yeager — — scott-yeager
 - Sevil Yaman — — sevil-yaman
 - Shalesh Ganjoo — — shalesh-ganjoo
+- Sheridan Titman — — sheridan-titman
+- Sherri Sera — — sherri-sera
 - Shirley Crenshaw — — shirley-crenshaw
 - Steven Leppard — — steven-leppard
 - Stinson Gibner — — stinson-gibner
 - Tanya Tamarchenko — — tanya-tamarchenko
 - Ted Murphy — — ted-murphy
 - Tom Gros — Thomas Gros — tom-gros
+- Trena McFarland — — trena-mcfarland
 - Trisha Tlapek — — trisha-tlapek
+- Vadim Pokhlebkin — — vadim-pokhlebkin
 - Vasant Shanbhogue — — vasant-shanbhogue
 - Vincent Tang — — vincent-tang
 - William Bradford — William S Bradford — william-bradford

@@ -3,9 +3,9 @@ id: staff-and-recruiting
 type: topic
 domain: organization
 title: "Research Group staff, hires, moves and visas"
-summary: "Dec-Jan hires archived; Chonawee Supatgiat 8 Feb (H-1B); Shalesh Ganjoo 21 Feb; Charlie Weldon from 21 Jun; Tlapek's band; Paulo Issler's green card; IT transfers via Beth Perlman, Ningya Cheng's own transfer; Tom Halliburton joins (Mar 2000)."
+summary: "Dec-Jan hires archived; Chonawee Supatgiat 8 Feb (H-1B); Ganjoo, Weldon, Tlapek; Paulo Issler's green card; IT transfers, Ningya Cheng; Tom Halliburton joins; Li Xiao's referral bonus approved; Michael Sergeev to EBS in D.C. from 1 May (Mar 2000)."
 status: active
-updated: 2000-03-26
+updated: 2000-03-31
 ---
 # Research Group staff, hires, moves and visas
 
@@ -13,9 +13,9 @@ Candidates not yet hired: memory/domains/organization/recruiting-candidates.md. 
 
 - [2000-01-17] Dec-Jan: hires, moves, visas (Angelova to London, Sam Smith, Marquez, Tang, Dhar). ←[[m00038]] ←[[m00013]] ←[[m00351]] ←[[m00139]]
 - [2000-02-07] Chonawee Supatgiat, Manager from 8 Feb (EBS support, reports to Ravi); H-1B before the cap. Sevil Yaman asked as intern; Li Xiao's referral of Alex Huang. ←[[m00561]] ←[[m00615]] ←[[m00728]] ←[[m00598]] ←[[m00611]] ←[[m00627]] ←[[m00633]] ←[[m00682]]
-- [2000-02-08] Shalesh Ganjoo, rotating Analyst, joins 21 Feb (EB1951). ←[[m00565]] ←[[m00672]]
-- [2000-02-11] Charlie Weldon starts his Associate rotation 21 Jun on Mike Roberts's hurricane project. ←[[m00601]] ←[[m00602]]
-- [2000-02-23] Mike Roberts documents for Brad McSherry why the owner wants Tlapek at the top of the manager band (Technical Analysis Section, gas trading book); detail ←[[staff-and-recruiting-2000-03-w12]] ←[[m00745]]
+- [2000-02-23] Ganjoo (Analyst) joined 21 Feb; Weldon's Associate rotation from 21 Jun (Mike Roberts); Tlapek at the top of the manager band; detail ←[[staff-and-recruiting-2000-03-w13]] ←[[m00565]] ←[[m00601]] ←[[m00745]]
 - [2000-03-13] Paulo Issler, now a manager: green card started ("Brad can start the process."). ←[[m00971]]
-- [2000-03-16] IT director Tom Moore moves to London 1 May; Ningya Cheng wants IT staff transferred to the group; owner: "I shall talk to Beth Perlman about the transfers." 21 Mar: Moore backs Cheng's own move to Research ("a good fit"; cc Zimin Lu). ←[[m01002]] ←[[m01054]]
+- [2000-03-21] IT transfers via Beth Perlman (Tom Moore to London 1 May); Moore backs Ningya Cheng's own move to Research. ←[[m01002]] ←[[m01054]]
 - [2000-03-21] Tom Halliburton joins: EB1957, 5-8539, details asked for the Research Directory. ←[[m01052]]
+- [2000-03-27] Alex Huang referral: owner to Tasha Lair (referral programme, for Linda Vargo): "Yes, I think Li Xiao deserves the bonus." ←[[m01098]]
+- [2000-03-28] Michael Sergeev's rotation: Ravi takes him into EBS, based in D.C., hard start 1 May, his work handed over first; fine with the owner if Mike Roberts agrees. ←[[m01119]]

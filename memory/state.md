@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-03-26 (replay of the owner's mailbox, week 2000-W12). Owner back from California 24 Mar.
+As of 2000-03-31 (replay of the owner's mailbox, week 2000-W13). Owner at the Lacima courses 29-31 Mar.
 
-- Coming: Horning 28 Mar; Lacima courses 29-31 Mar; owner opens BBLOP Fri 31 Mar; Miami 6 Apr; Lucent's Zaidi 6-8 Apr; TFF 7-8 Apr; EBS offsite 21-23 or 27-30 Apr (?); Mends 22 Apr → memory/domains/industry/speaking-engagements-2000.md
-- Owed: Knudsen interview; Bambos funding; Geman licence (Karla, legal; sites Houston, London); Jim Dyer's class speaker; Gandy's Entergy referral → memory/domains/work/vendor-offers-2000.md
+- Coming: Ahmad's Oslo call 3 Apr; Miami 6 Apr; Zaidi 6-8 Apr; TFF 7-8 Apr; Darden 18 Apr; Faiz 19 Apr; Dyer's class 20 Apr; Mends 22 Apr; Orillion 25 Apr; EBS offsite 27-29 Apr → memory/domains/industry/visitors-2000.md
+- Owed: Knudsen feedback; Dincerler's place; Fujita (MEPR rights); Bambos funding; Geman licence; Berlin slides 26 May → memory/domains/work/vendor-offers-2000.md
