@@ -1,0 +1,186 @@
+{
+ "slice": 30,
+ "simulated_today": "2000-06-25",
+ "feed": {
+  "slice": 30,
+  "iso_week": "2000-W25",
+  "first_seq": 2008,
+  "last_seq": 2106,
+  "messages": 99,
+  "durable": 85,
+  "first_date": "2000-06-19 00:23",
+  "last_date": "2000-06-25 16:16",
+  "today": "2000-06-25",
+  "inbox_files": [
+   "2000-06-19--mail.md",
+   "2000-06-20--mail.md",
+   "2000-06-21--mail.md",
+   "2000-06-22--mail.md",
+   "2000-06-23--mail.md",
+   "2000-06-25--mail.md"
+  ],
+  "inbox_chars": 60501,
+  "l2_chars": 254029
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 996,
+ "quota_before": {
+  "five_hour": 86.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 89.0,
+  "seven_day": 30.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 30,
+  "messages": 99,
+  "durable": 85,
+  "kept": 82,
+  "kept_rate_excluding_redundant": 0.965,
+  "drop_classes": {
+   "other": 3
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1188,
+  "fact_lines_with_source": 903,
+  "dated": 903,
+  "date_matches_source": 888,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.88
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 761
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2427
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 92,
+   "chars": 156033
+  },
+  "people": {
+   "files": 203,
+   "chars": 149261
+  },
+  "archive_inbox": {
+   "files": 187,
+   "chars": 1250904
+  },
+  "archive_mail": {
+   "files": 2132,
+   "chars": 5341847
+  },
+  "archive_other": {
+   "files": 366,
+   "chars": 432943
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 83,
+   "duration_ms": 994251,
+   "duration_api_ms": 762557,
+   "total_cost_usd": 5.809087200000001,
+   "usage": {
+    "input_tokens": 162,
+    "cache_creation_input_tokens": 204996,
+    "cache_read_input_tokens": 12942056,
+    "output_tokens": 79003,
+    "output_tokens_details": {
+     "thinking_tokens": 29194
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 204996,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 982,
+      "cache_read_input_tokens": 236551,
+      "cache_creation_input_tokens": 236,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 236
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 162,
+     "outputTokens": 79003,
+     "cacheReadInputTokens": 12942056,
+     "cacheCreationInputTokens": 204996,
+     "webSearchRequests": 0,
+     "costUSD": 5.809087200000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 29194,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 204996,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 82,
+   "result_summary": "The 2000-W25 consolidation is committed as `039321a` and not pushed, because the replay instructions say the runner pushes. Lint and sleep-audit are both green, including `--last` on the commit. All 85 messages with notes are either cited in L1 or listed in `dataset/drops/sleep-030.tsv`. 82 are cited and 3 are listed as drops: m02065 and m02066 (a speed-of-light article the owner forwarded to his own addresses) and m02104 (a link he sent himself).\n\n- **What went into memory:**\n  - The Turkish IPO options discount-rate question: the owner says the risk-free rate is \"not appropriate\" and still owes a longer answer.\n  - London credit: Seyfried wants Dhar or Shanbhogue there for 8–12 weeks, and Parsons plans to price thousands of illiquid credits.\n  - Tamarchenko's gas backtest, which favours historical over implied volatilities, and Ted Murphy's memo on the rewritten factor-loadings code.\n  - Mars looking for an energy-market partner; Nesbitt in Houston 5–7 July; Ken Lay's lunch with Molecular Electronics Corp. on 25 July; Ronn's visit.\n  - Other items: the Iraq output threat, the group buying CPLEX, Ravi's review, three job candidates and SAP time entry.\n  - There are three new topic files: `var-backtesting-2000`, `turkish-ipo-options` and `mars-cds-weather`.\n- **People:** I opened ten entity files: nine people reached their fifth message this week, and Barbara Ostdiek had passed five in May without getting one.\n- **Alias table:** to make room, I dropped the \"— slug\" part of each line, since every file name is just the person's name in kebab-case (I checked all 202). That took the table from 6162 to about 4350 characters and left room to put back all the aliases earlier runs had moved out to save space. This changes the table's format, so you may want to look at it.\n- **Questions:** the overdue people-index budget question is closed with no change, as the rules require when one goes unanswered past its due date. Three alias questions got new evidence (Peyton S. Gibner"
+  },
+  "repair": null
+ }
+}
