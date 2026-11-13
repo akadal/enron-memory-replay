@@ -11,4 +11,5 @@ Format, one line each: `name — aliases — domains — path`
 
 ## Files
 
-(nobody yet)
+- Jonathan Le — (none) — work — memory/people/jonathan-le.md
+- Vincent Tang — (none) — work — memory/people/vincent-tang.md
