@@ -1,0 +1,173 @@
+{
+ "slice": 1,
+ "simulated_today": "1999-11-30",
+ "feed": {
+  "slice": 1,
+  "iso_week": "1999-W48",
+  "first_seq": 1,
+  "last_seq": 1,
+  "messages": 1,
+  "durable": 1,
+  "first_date": "1999-11-30 03:22",
+  "last_date": "1999-11-30 03:22",
+  "today": "1999-11-30",
+  "inbox_files": [
+   "1999-11-30--mail.md"
+  ],
+  "inbox_chars": 606,
+  "l2_chars": 1461
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 39,
+ "quota_before": {
+  "five_hour": 28.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 28.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 1,
+  "messages": 1,
+  "durable": 1,
+  "kept": 1,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1,
+  "fact_lines_with_source": 3,
+  "dated": 3,
+  "date_matches_source": 2,
+  "kept_rate_by_decile": [
+   1.0,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 212
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 5,
+   "chars": 1890
+  },
+  "people": {
+   "files": 3,
+   "chars": 1074
+  },
+  "archive_inbox": {
+   "files": 1,
+   "chars": 606
+  },
+  "archive_mail": {
+   "files": 27,
+   "chars": 72919
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 23,
+   "duration_ms": 36421,
+   "duration_api_ms": 29982,
+   "total_cost_usd": 0.6777815,
+   "usage": {
+    "input_tokens": 12,
+    "cache_creation_input_tokens": 37775,
+    "cache_read_input_tokens": 387443,
+    "output_tokens": 4250,
+    "output_tokens_details": {
+     "thinking_tokens": 588
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 37775,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 437,
+      "cache_read_input_tokens": 79331,
+      "cache_creation_input_tokens": 792,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 792
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 12,
+     "outputTokens": 4250,
+     "cacheReadInputTokens": 387443,
+     "cacheCreationInputTokens": 37775,
+     "webSearchRequests": 0,
+     "costUSD": 0.6777815,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 588,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 22,
+   "result_summary": "Consolidation 001 for 1999-11-30 is committed as `0cbe969`, not pushed, as instructed. `lint.py` and `sleep-audit.py` were both green before the commit and again after I archived the inbox log. Lint still warns that `MEMORY.md` and `AGENTS.md` are over their target size, which this run didn't touch.\n\nThe inbox held one message, m00001 (Re: vega position). It became a work topic, `memory/domains/work/vega-position-capture.md`:\n- **Vega positions:** they are now captured daily, but limited validation of vega is down.\n- **Context:** the vega VaR is about to be implemented, and Jonathan Le suggested coordinating with Debbie Brackett and Rudi Zipter.\n- **Owner's role:** the owner is only on Bcc, so the topic records it as not an action item.\n\nI also created entity files for Jonathan Le and Vincent Tang and updated the work index, the people index and `state.md`. `dataset/drops/sleep-001.tsv` is empty and committed, because m00001 is cited.\n\nThe inbox log is now in `memory/archive/inbox/`. I opened no questions or todos and ran no sleep tasks, since there was no `(sleep-task)` block. I skipped the three-file compression quota because no file was near its ceiling."
+  },
+  "repair": null
+ }
+}
