@@ -1,0 +1,181 @@
+{
+ "slice": 1,
+ "simulated_today": "1999-11-30",
+ "feed": {
+  "slice": 1,
+  "iso_week": "1999-W48",
+  "first_seq": 1,
+  "last_seq": 1,
+  "messages": 1,
+  "durable": 1,
+  "first_date": "1999-11-30 03:22",
+  "last_date": "1999-11-30 03:22",
+  "today": "1999-11-30",
+  "inbox_files": [
+   "1999-11-30--mail.md"
+  ],
+  "inbox_chars": 638,
+  "l2_chars": 1461
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 50,
+ "quota_before": {
+  "five_hour": 43.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 43.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 1,
+  "messages": 1,
+  "durable": 1,
+  "kept": 1,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1,
+  "fact_lines_with_source": 3,
+  "dated": 3,
+  "date_matches_source": 2,
+  "date_mismatch_ids_this_slice": [
+   "m00001"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 179
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 5,
+   "chars": 1872
+  },
+  "people": {
+   "files": 1,
+   "chars": 345
+  },
+  "archive_inbox": {
+   "files": 1,
+   "chars": 638
+  },
+  "archive_mail": {
+   "files": 27,
+   "chars": 72919
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 10,
+   "duration_ms": 48752,
+   "duration_api_ms": 35193,
+   "total_cost_usd": 0.4010828,
+   "usage": {
+    "input_tokens": 20,
+    "cache_creation_input_tokens": 29137,
+    "cache_read_input_tokens": 512434,
+    "output_tokens": 3271,
+    "output_tokens_details": {
+     "thinking_tokens": 640
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 29137,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 510,
+      "cache_read_input_tokens": 58812,
+      "cache_creation_input_tokens": 356,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 356
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 20,
+     "outputTokens": 3271,
+     "cacheReadInputTokens": 512434,
+     "cacheCreationInputTokens": 29137,
+     "webSearchRequests": 0,
+     "costUSD": 0.4010828,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 640,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 29137,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 9,
+   "result_summary": "The consolidation for 1999-11-30 is committed as `ccbfa16`, and both lint and `sleep-audit.py` passed before the commit. The inbox held one message, m00001: Vincent Tang asked whether all vega positions are being captured in the database, since vega VaR goes live soon, and Jonathan Le replied that they are captured daily but vega validation is down and needs Debbie Brackett and Rudi Zipter; the owner was copied. I put that in a new file, `memory/domains/work/vega-var.md`, with every line linked back to m00001, and updated the work index and `state.md` to point to it. The pre-sleep checkpoint tag was already in place, no source taps are set up, and the upstream sync found no upstream remote. Because m00001 is cited, `dataset/drops/sleep-001.tsv` is committed empty. There were no sleep tasks, feedback blocks, questions, entity merges or to-do items, and I wrote no people files. The processed log moved to `memory/archive/inbox/1999-11-30--mail.md`. Lint gave two warnings that were there before the run: `MEMORY.md` and `AGENTS.md` are over their target size but under their limits. I left `dataset/runs/` uncommitted because it belongs to the runner. I did not push: your note says the runner pushes after its own checks, which overrides the `git push` line in the run steps."
+  },
+  "repair": null
+ }
+}
