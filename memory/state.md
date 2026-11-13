@@ -1,9 +1,8 @@
 # State — right now
 
-As of 1999-12-26 (replay of the owner's mailbox, week 1999-W51).
+As of 2000-01-01 (replay of the owner's mailbox, week 1999-W52).
 
-- Owner off a few days around Xmas; promised replies after Xmas (Andy Knight, Maruti More)
-- Bob Lee visits 1999-12-29 09:00 → memory/domains/work/1999-12-29-robert-lee-visit.md
-- New Year meetings: Kohli on the Dabhol sale (memory/domains/work/dabhol-power-sale.md); Richard MacMinn (memory/domains/organization/staff-and-recruiting.md)
-- RiskMetrics CreditManager demo 2000-01-07 → memory/domains/work/credit-markets.md
-- Real Options NY abstract owed; Risk 2000 Boston: two talks → memory/domains/industry/speaking-engagements-2000.md
+- Owner recovering from a bad flu late Dec (memory/domains/personal/correspondence.md)
+- Due first week of Jan: NY Real Options title by 4 Jan; Risk 2000 talk title and bullets → memory/domains/industry/speaking-engagements-2000.md
+- Meetings early Jan: Guerriero on Argentina modelling; Kohli on Dabhol; MacMinn; CreditManager demo 7 Jan
+- Hiring Sam from ProStaff: owner to talk to McBride on comp → memory/domains/organization/staff-and-recruiting.md
