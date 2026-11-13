@@ -5,7 +5,7 @@ entity: person
 name: "Vasant Shanbhogue"
 aliases: []
 domains: [organization, work]
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 Vasant Shanbhogue, Enron; member of the owner's research group (office EB 1949 after the 19th-floor move). ←[[m00004]]
 
@@ -15,3 +15,4 @@ Vasant Shanbhogue, Enron; member of the owner's research group (office EB 1949 a
 ## Context: work
 - Asked to update the credit paper into a White Paper with an LSE intern: memory/domains/work/credit-white-paper.md ←[[m00052]]
 - Copied on Vernon's gas model reports and the CreditManager net meeting: memory/domains/work/gas-transmission-price-model.md ←[[m00042]] ←[[m00040]]
+- Copied on Vernon's simplified gas model and on Kohli's Dabhol firm-power request: memory/domains/work/simplified-gas-price-model.md ←[[m00086]]; memory/domains/work/dabhol-firm-power-sale.md ←[[m00100]]
