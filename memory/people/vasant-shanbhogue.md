@@ -5,11 +5,11 @@ entity: person
 name: "Vasant Shanbhogue"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Vasant Shanbhogue
 
-Research Group member (EB 1949). ←[[m00004]]
+Research Group member (EB 1973 from Jan 2000). ←[[m00004]] ←[[m00201]]
 
 ## Context: organization
 

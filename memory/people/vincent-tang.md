@@ -5,7 +5,7 @@ entity: person
 name: "Vincent Tang"
 aliases: []
 domains: [organization, work]
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Vincent Tang
 
@@ -17,4 +17,4 @@ Research Group member (EB 1934); the owner is his supervisor. ←[[m00004]] ←[
 
 ## Context: work
 
-- [1999-11-30] Vega VaR rollout → memory/domains/work/vega-var.md ←[[m00001]]
+- [1999-11-30] Vega VaR rollout; new Credit Reserve Model with IT (Jan 2000) → memory/domains/work/vega-var.md ←[[m00001]] ←[[m00213]]

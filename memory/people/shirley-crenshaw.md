@@ -5,11 +5,11 @@ entity: person
 name: "Shirley Crenshaw"
 aliases: []
 domains: [organization, work, industry]
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Shirley Crenshaw
 
-The owner's assistant; Research Group administrator, ext. 3-5290. ←[[m00004]] ←[[m00121]]
+The owner's assistant; Research Group administrator, EB 1961, ext. 3-5290. ←[[m00004]] ←[[m00121]] ←[[m00201]]
 
 ## Context: organization
 

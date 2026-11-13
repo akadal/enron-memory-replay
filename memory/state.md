@@ -1,8 +1,9 @@
 # State — right now
 
-As of 2000-01-07 (replay of the owner's mailbox, week 2000-W01).
+As of 2000-01-15 (replay of the owner's mailbox, week 2000-W02).
 
-- Due: Amerada Hess day-rate collar analysis Tue 11 Jan → memory/domains/work/day-rate-hedge.md; Risk 2000 title/bullets (overdue); Jacque volume paper 22 Jan
-- Next week: UH power workshop 12-13 Jan and NYU Stern risk conference 13-14 Jan (overlap) → memory/domains/industry/events-attending-2000.md
-- 21 Jan Enterprise Wide Risk Management meeting; weekly Enron NA Mondays 9:30
-- Owner to phone candidate Ray Spudeck → memory/domains/organization/staff-and-recruiting.md
+- Owner promoted to Managing Director (~10 Jan) → memory/domains/organization/promotions-2000.md
+- Next week: Tomaski (Chicago) in Houston Mon 17; Jose Marquez starts 17; Mike Roberts celebration Thu 20; Enterprise Wide Risk Management Fri 21; Jacque paper due 22 Jan
+- Bob Lee interview Mon 24 Jan (manager) → memory/domains/organization/recruiting-candidates.md
+- Owed: Risk 2000 title/bullets (overdue); OK on Schuleman's model report (asked by 12 Jan); call Joe Gold re Commodities Now
+- February: owner in London; Stanford Parents Weekend Fri 25 Feb

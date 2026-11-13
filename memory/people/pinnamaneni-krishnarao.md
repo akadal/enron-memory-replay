@@ -5,11 +5,11 @@ entity: person
 name: "Pinnamaneni Krishnarao"
 aliases: ["Krishna Krishnarao"]
 domains: [organization, work]
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Pinnamaneni Krishnarao
 
-Research Group member (EB 1938); the same message lists him as Pinnamaneni Krishnarao (To:) and Krishna Krishnarao (room list). ←[[m00004]]
+Research Group member at director level (EB 1964 from Jan 2000; earlier EB 1938); the same message lists him as Pinnamaneni Krishnarao (To:) and Krishna Krishnarao (room list). ←[[m00004]] ←[[m00201]] ←[[m00214]]
 
 ## Context: organization
 
