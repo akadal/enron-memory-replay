@@ -1,0 +1,186 @@
+{
+ "slice": 6,
+ "simulated_today": "2000-01-07",
+ "feed": {
+  "slice": 6,
+  "iso_week": "2000-W01",
+  "first_seq": 129,
+  "last_seq": 198,
+  "messages": 70,
+  "durable": 50,
+  "first_date": "2000-01-03 23:15",
+  "last_date": "2000-01-07 09:46",
+  "today": "2000-01-07",
+  "inbox_files": [
+   "2000-01-03--mail.md",
+   "2000-01-04--mail.md",
+   "2000-01-05--mail.md",
+   "2000-01-06--mail.md",
+   "2000-01-07--mail.md"
+  ],
+  "inbox_chars": 33665,
+  "l2_chars": 163494
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 444,
+ "quota_before": {
+  "five_hour": 16.0,
+  "seven_day": 3.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 22.0,
+  "seven_day": 4.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 6,
+  "messages": 70,
+  "durable": 50,
+  "kept": 50,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 136,
+  "fact_lines_with_source": 170,
+  "dated": 170,
+  "date_matches_source": 169,
+  "date_mismatch_ids_this_slice": [
+   "m00147",
+   "m00176"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 560
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 35,
+   "chars": 44458
+  },
+  "people": {
+   "files": 21,
+   "chars": 16024
+  },
+  "archive_inbox": {
+   "files": 25,
+   "chars": 113119
+  },
+  "archive_mail": {
+   "files": 224,
+   "chars": 605731
+  },
+  "archive_other": {
+   "files": 3,
+   "chars": 2713
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 442834,
+   "duration_api_ms": 399037,
+   "total_cost_usd": 2.6442837999999997,
+   "usage": {
+    "input_tokens": 64,
+    "cache_creation_input_tokens": 125900,
+    "cache_read_input_tokens": 3412039,
+    "output_tokens": 47721,
+    "output_tokens_details": {
+     "thinking_tokens": 19687
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 125900,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 708,
+      "cache_read_input_tokens": 155998,
+      "cache_creation_input_tokens": 1693,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1693
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 64,
+     "outputTokens": 47721,
+     "cacheReadInputTokens": 3412039,
+     "cacheCreationInputTokens": 125900,
+     "webSearchRequests": 0,
+     "costUSD": 2.6442837999999997,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19687,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 125900,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "Week 2000-W01 (70 messages) is consolidated in one commit, `dbbe0d6`. I didn't push, because the run instructions say the runner pushes; I also left the runner's untracked `dataset/runs/sleep-006.transcript.jsonl` out of the commit. Before committing, `lint.py` and `sleep-audit.py` both passed on the first run, so no repair was needed. Lint gave only over-target warnings, none over a ceiling.\n\nAll 50 messages that had notes are cited in memory, so `dataset/drops/sleep-006.tsv` is empty. I added five new topics: the Amerada Hess day-rate hedge (analysis due Tue 11 Jan), the owner's internal meetings (risk management meeting 21 Jan, weekly Enron NA meeting Mondays), his publications (author cards for the 2nd edition of his Risk Books title, a paper for a Tufts volume due 22 Jan), events he attends, and group leave and training. Two events he attends overlap on 13 Jan: the UH power workshop and the NYU Stern risk conference. Updated topics include the New York Real Options talk (now confirmed), the LSU seminar on 3–4 Feb, and the copyright question on a credit article (RISK holds the copyright). Eight people reached five messages and got entity files: Masson, Malina, Vincent Tang, Kindall, Hilgert, Zimin Lu, Whalley and Sokolov. To keep two files near their size target, I moved their December detail into `memory/archive/organization/1999/`. The inbox logs moved to `memory/archive/inbox/` and `state.md` is refreshed. There were no sleep tasks, feedback blocks or approval-gate items, `questions.md` and `todo.md` didn't change, and none of the five oldest ongoing claims had gone stale."
+  },
+  "repair": null
+ }
+}
