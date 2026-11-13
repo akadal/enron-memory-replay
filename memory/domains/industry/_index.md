@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-05-14
+updated: 2000-05-21
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Toronto now 31 May, panel, slides due 18 May; Risk 2000; Berlin → memory/domains/industry/speaking-engagements-2000.md
+- Toronto 31 May (closing panel); Berlin material due Fri 26 May; Risk 2000 Boston 13-14 Jun → memory/domains/industry/speaking-engagements-2000.md
 - UH econo-physics programme: meeting Wed 24 May → memory/domains/industry/uh-econophysics.md
-- Aram Sogomonian 28 Apr, owner wants him back; Faiz summary OK → memory/domains/industry/visitors-2000.md
-- NYC 17-19 May with Wharton; CERA E-Business 26-28 Jun → memory/domains/industry/events-attending-2000.md
-- RDI conference 17-19 May; MMS Gulf supply outlook → memory/domains/industry/gpcm-rbac.md
+- PoweRisk Paris 3-6 Oct (Fitzgerald, ICBI) → memory/domains/industry/speaking-engagements-2000.md
+- Cambridge real options 5-8 Jul: Leppard goes, Scholes keynote → memory/domains/industry/declined-invitations-2000.md
+- CERA E-Business 26-28 Jun → memory/domains/industry/events-attending-2000.md
 
 ## Files
 
@@ -27,7 +27,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/market-outlooks-2000.md — outside forecasts for 2000: CERA, Poten, owner's California warning, PDO links
 - memory/domains/industry/real-options-debate-2000.md — Economist 'Fading Fads' debate on real options (Faiz's list, Apr 2000)
 - memory/domains/industry/rice-university.md — Rice: Financial Engineering initiative (Ensor), Enron-sponsored finance seminars (Brav 31 Mar), Baraniuk
-- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Toronto (31 May), Risk 2000 Boston, Berlin, Paris, Bachelier; done ones archived
+- memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: Toronto (31 May), Risk 2000 Boston, Berlin, PoweRisk Paris, Bachelier; done ones archived
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Mitsubishi Research, Darden case, Texaco, NYU's Diebold, Aram
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/weather-insurance-markets.md — CME weather, CATEX, cat options (Hrgovcic, Apr 2000)

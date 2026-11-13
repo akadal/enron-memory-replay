@@ -1,7 +1,7 @@
 # State — right now
 
-As of 2000-05-14 (replay of the owner's mailbox, week 2000-W19). Storage model, now SAM, sent to Duffie for audit 8 May. London summer stays: one per person, owner pays Leppard's month.
+As of 2000-05-21 (replay of the owner's mailbox, week 2000-W20). Owner now in the loop on all LNG (Sherriff): Elba Island book, tanker DASHes.
 
-- Coming: Gibner off 17 May am; NYC/Wharton 17-19 May; Jana 20 May; Keeter study 23 May; UH econo-physics meeting 24 May; Bambos visit 26 May (dinner 25th with Hannon); Toronto 31 May → memory/domains/industry/speaking-engagements-2000.md, memory/domains/work/stanford-research-ties.md
-- Interviews: Kenyon 15 or 22-26 May; London video 16/17 May; Valdes formal → memory/domains/organization/candidate-interviews-may-2000.md
-- Owed: Toronto slides by 18 May; London rotation names to HR; XPRESS approval → memory/domains/organization/software-licenses.md
+- Coming: Titman call 22 May; Todd Perry phone interview week of 22 May; Keeter study and Hickerson trading meeting 23 May; UH econo-physics 24 May; Bambos 25-26 May; Berlin material due 26 May; Toronto 31 May; Boston (SKG) mid June → memory/domains/work/_index.md, memory/domains/industry/speaking-engagements-2000.md
+- Interviews: Kenyon 22-26 May; Credit.com feedback to Seyfried → memory/domains/organization/candidate-interviews-may-2000.md
+- Owed: CPLEX licence decision on the new quote; Strickland article follow-up → memory/domains/organization/software-licenses.md

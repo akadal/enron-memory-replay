@@ -5,7 +5,7 @@ entity: person
 name: "Sheridan Titman"
 aliases: []
 domains: [work, industry]
-updated: 2000-04-07
+updated: 2000-05-21
 ---
 # Sheridan Titman
 
@@ -14,6 +14,7 @@ Finance professor, University of Texas at Austin (titman@mail.utexas.edu, 512-23
 ## Context: work
 
 - [2000-03-31] Asks for real-options speakers and lectures; for Jim Dyer's class recommends Ehud Ronn → memory/domains/work/outside-requests.md ←[[m00975]] ←[[m01058]] ←[[m01181]]
+- [2000-05-17] Internet-course call 22 May; default-pricing paper behind an NDA → memory/domains/work/outside-requests.md ←[[m01711]] ←[[m01717]]
 
 ## Context: industry
 
