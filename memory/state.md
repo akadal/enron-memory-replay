@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-07-23 (week 2000-W29). The owner is back from Sydney; in the office Mon 24 Jul.
+As of 2000-07-30 (week 2000-W30). The owner is in Houston.
 
-- Coming: Fin Math course materials 27 Jul; Deng 27-29 Jul; TW options filing 31 Jul; United Way 4 Aug, pledges by 7 Aug; Ecopetrol visit early Aug; metals V@R before the 7/8 Aug Board; budgets 14 Aug; offsite 18-20 Aug → memory/domains/industry/eprm-risk.md, memory/domains/organization/mg-metals-integration.md
-- Owed: Arnold/Crack paper comments; O'Brien SDDP; Takigawa talk; Vernon and Hrgovcic talks; Leppard letter; Agnihotri offer; offsite contract by 31 Jul → memory/domains/organization/staff-and-recruiting.md, memory/domains/organization/london-research.md
+- Coming: GIS profile 31 Jul; Energycast trial 31 Jul-3 Aug; Value Lab 1 Aug; Bennett interview 4 Aug; United Way 4 Aug, pledges 7 Aug; MG V@R due 7 Aug, Board 7/8 Aug; EBS purchasing 8 Aug; budgets 14 Aug; MD PRC 15 Aug; offsite 18-20 Aug → memory/domains/work/mg-metals-var.md, memory/domains/organization/research-offsite-2000.md
+- Owed: Arnold/Crack comments; candidate decisions to Toni Graham; Hrgovcic talk; Leppard announcement and Ahmad talk; Rob Wilson's topic; Takigawa talk → memory/domains/organization/london-research.md, memory/domains/organization/candidate-interviews-jul-2000.md

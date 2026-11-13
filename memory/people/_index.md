@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-07-14
+updated: 2000-07-30
 ---
 # People — index
 
@@ -9,15 +9,20 @@ updated: 2000-07-14
 File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them, from the entity files). Budget question closed by status quo 2000-06-25 (budget unchanged (?)); the table was compressed instead.
 
 - Adam Brulinski
+- Ainsley Gaddis
 - Alan Aronowitz
 - Alex Huang
+- Alexios Kollaros (Alex Kollaros)
 - Alla Gil
 - Amitava Dhar
 - Amy Aldous
 - Amy Lamonsoff
+- Amy Oberg
 - Andrea Reed
+- Andreas Barschkis
 - Andrew Fastow (Andy Fastow)
 - Andrzej Wodnicki
+- Anita Dupont (Anita DuPont)
 - Anjam Ahmad
 - Anthony Mends (Tony Mends)
 - April Hodgson (April Hodgeson, April Hodges)
@@ -34,6 +39,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Bob Shults
 - Brad McSherry
 - Brad Romine (Bradley Romine)
+- Bruce James
 - Bryan Seyfried
 - Cantekin Dincerler
 - Carla Di Castro (Carla diCastro)
@@ -83,6 +89,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gordon Sick
 - Grant Masson
 - Greg Whalley
+- Gwyn Koepke
 - Harry Arora
 - Helyette Geman
 - Iain Russell
@@ -108,8 +115,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joel Hanley
 - John Bloomer
 - John D. Martin
+- John Echols
 - John Griebling
 - John Lavorato
+- John O'Brien
 - John Peyton
 - John Sherriff
 - Jonathan Le
@@ -126,6 +135,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kevin Hannon
 - Kevin Kindall
 - Kevin Moore (Kevin G Moore)
+- Kevin Presto (Kevin M Presto)
 - Kimberly Watson
 - Kirstee Hewitt
 - Kristy Carnes
@@ -146,6 +156,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lyn Malina
 - Manuel Rensink
 - Margaret Carson
+- Mark Lay
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
 - Mark Tawney
@@ -176,9 +187,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Phelim Boyle (P.P. Boyle)
 - Philippe Bibi (Philippe A Bibi)
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
+- Rabi De
 - Ravi Thuraisingham
 - Raymond Yeow
+- Richard Causey (Rick Causey)
 - Richard Lewis
+- Richard Weeks
 - Rick Buy
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
 - Robert Lee (Bob Lee)
@@ -195,10 +209,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sanjeev Khanna (Sanjeev K Khanna)
 - Scott Tholan
 - Scott Yeager
+- Sean Grady
 - Sevil Yaman
 - Shalesh Ganjoo
 - Shan Millie
 - Shane Green
+- Sharad Agnihotri
 - Shelly Jones
 - Sheridan Titman
 - Sherri Sera
@@ -208,6 +224,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Soma Ghosh
 - Soussan Faiz
 - Stephen Bramlett (Steven Bramlet)
+- Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Stinson Gibner
 - Tanya Tamarchenko

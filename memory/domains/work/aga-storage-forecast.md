@@ -3,9 +3,9 @@ id: aga-storage-forecast
 type: topic
 domain: work
 title: "Zimin Lu's AGA storage forecasts (2000)"
-summary: "Zimin Lu's weekly forecast of the AGA gas storage number for Mike Roberts: molecular model, then Seasonal Holt-Winter (66 for 30 Jun, actual 69) and ARIMAX; 68 for 7 Jul; temperatures wanted as inputs (Jul 2000)."
+summary: "Zimin Lu's weekly forecast of the AGA gas storage number for Mike Roberts: molecular model, then Seasonal Holt-Winter and ARIMAX; a time-series 42 for 21 Jul vs Mike's 61; temperatures wanted as inputs (Jul 2000)."
 status: active
-updated: 2000-07-09
+updated: 2000-07-30
 ---
 # Zimin Lu's AGA storage forecasts (2000)
 
@@ -15,3 +15,4 @@ Other desk analyses: memory/domains/work/desk-analysis-requests.md.
 - [2000-06-22] AGA for 23 Jun: Zimin Lu predicts 69 after a "really low" 64; owner: "I think it's a combination of shrinking supply and new peaking power plants demands." ←[[m02078]]
 - [2000-06-28] Refit with last week's data: 65 for the week of 6/23 (3 lower); it came in at 73. For 30 Jun: 66 from a Seasonal Holt-Winter model; he fits an ARIMAX model (forward curves later) and asks Mike Roberts for weighted temperatures (east, west, production areas): AGA is a market mover (cc owner, Gibner, Vernon). ←[[m02154]] ←[[m02156]]
 - [2000-07-06] 68 for the week ending 7 Jul; for 30 Jun the model said 66, actual 69; Lu asks Mike Roberts where to get temperature data to add as explanatory variables. ←[[m02255]]
+- [2000-07-25] For 21 Jul: 42 from Lu's time-series model vs Mike's 61 (last year 41 and 26: the curve slopes down sharply); the owner forwards it to Mike Roberts. ←[[m02480]] ←[[m02490]]

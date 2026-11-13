@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-07-23
+updated: 2000-07-30
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- TW Capacity Options FERC filing Mon 31 Jul → memory/domains/work/tw-capacity-options.md
-- VaR to forward-forward vols: Gorny's plan, Rick Buy to approve → memory/domains/work/var-backtesting-2000.md
-- Stanford: Bambos' draft letter, $100K a year for 3 years; visit mid-Aug → memory/domains/work/stanford-research-ties.md
-- MarketPoint: Nesbitt's EOL and metals proposals → memory/domains/work/vendor-offers-2000.md
-- Vernon's EOL trade-booking software; Gas Model LP slow → memory/domains/work/gas-flow-price-model.md
+- MG Metals V@R 1a runs; owner: 80-85% of the true number → memory/domains/work/mg-metals-var.md
+- Value Research Lab (MIT, Arthur Andersen): meeting Tue 1 Aug → memory/domains/work/value-research-lab.md
+- MEC: Gibner and Masson to vet the technology → memory/domains/work/mec-molecular-electronics.md
+- Vernon's EOL and Gas model deliverables → memory/domains/work/gas-flow-price-model.md
+- Bambos visits in August → memory/domains/work/stanford-research-ties.md
 
 ## Files
 
@@ -34,6 +34,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ebs-network-planning.md
 - memory/domains/work/ebs-storage-market.md
 - memory/domains/work/ebs-var-policy.md — EBS V@R
+- memory/domains/work/ees-structuring-models.md
 - memory/domains/work/emission-trading-poland.md
 - memory/domains/work/ene-stock-drivers.md
 - memory/domains/work/enron-media-advertising.md
@@ -50,6 +51,8 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ljm-put-valuation.md
 - memory/domains/work/lng-book-2000.md
 - memory/domains/work/mars-cds-weather.md
+- memory/domains/work/mec-molecular-electronics.md
+- memory/domains/work/mg-metals-var.md
 - memory/domains/work/model-risk-audit.md
 - memory/domains/work/monte-carlo-library.md — McLib
 - memory/domains/work/naphtha-caps-india.md
@@ -73,6 +76,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/uk-power-vol-curve.md
 - memory/domains/work/university-relations.md
 - memory/domains/work/ut-austin-ties-2000.md
+- memory/domains/work/value-research-lab.md
 - memory/domains/work/var-backtesting-2000.md
 - memory/domains/work/vega-var.md
 - memory/domains/work/vendor-offers-2000.md — vendors, SKG
