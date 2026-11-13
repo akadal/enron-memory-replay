@@ -1,0 +1,178 @@
+{
+ "slice": 23,
+ "simulated_today": "2000-05-05",
+ "feed": {
+  "slice": 23,
+  "iso_week": "2000-W18",
+  "first_seq": 1567,
+  "last_seq": 1608,
+  "messages": 42,
+  "durable": 34,
+  "first_date": "2000-05-01 01:57",
+  "last_date": "2000-05-05 11:04",
+  "today": "2000-05-05",
+  "inbox_files": [
+   "2000-05-01--mail.md",
+   "2000-05-02--mail.md",
+   "2000-05-04--mail.md",
+   "2000-05-05--mail.md"
+  ],
+  "inbox_chars": 22526,
+  "l2_chars": 126516
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 430,
+ "quota_before": {},
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 23,
+  "messages": 42,
+  "durable": 34,
+  "kept": 30,
+  "kept_rate_excluding_redundant": 0.882,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 2,
+   "social": 1
+  },
+  "dropped": 4,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 970,
+  "fact_lines_with_source": 740,
+  "dated": 740,
+  "date_matches_source": 729,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   0.67,
+   0.75
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 667
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1129
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 78,
+   "chars": 129132
+  },
+  "people": {
+   "files": 153,
+   "chars": 118880
+  },
+  "archive_inbox": {
+   "files": 135,
+   "chars": 932815
+  },
+  "archive_mail": {
+   "files": 1634,
+   "chars": 4110107
+  },
+  "archive_other": {
+   "files": 247,
+   "chars": 325380
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 428708,
+   "duration_api_ms": 365099,
+   "total_cost_usd": 2.725161800000001,
+   "usage": {
+    "input_tokens": 92,
+    "cache_creation_input_tokens": 118779,
+    "cache_read_input_tokens": 4781709,
+    "output_tokens": 40911,
+    "output_tokens_details": {
+     "thinking_tokens": 12594
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 118779,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 941,
+      "cache_read_input_tokens": 149353,
+      "cache_creation_input_tokens": 1217,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1217
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 92,
+     "outputTokens": 40911,
+     "cacheReadInputTokens": 4781709,
+     "cacheCreationInputTokens": 118779,
+     "webSearchRequests": 0,
+     "costUSD": 2.725161800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12594,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 118779,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "The week of 2000-05-05 (W18) is consolidated in one commit, `cee3660`. I did not push: the replay instructions say the runner pushes after its own checks, although the generic run text also says `git push origin main`.\n\n**What went into memory.** Of the 34 noted messages, 30 are cited in memory and 4 are listed in `dataset/drops/sleep-023.tsv`: two self-sent links, a concert invitation, and an e-mail address given to John Peyton.\n- The owner gave Dyer's UT Austin class on 4 May.\n- On 5 May, Baxter moved to Corp, Frevert became ENA CEO and Sherriff became Enron Europe CEO. Corp IT Compliance now sits under Andrew Parsons.\n- Thomas Knudsen withdrew his application to the London research group.\n- The London summer visits to Houston were approved, and the owner asked Anjam Ahmad to stay three weeks or more.\n- Interviews: Yong Cho (by phone, 4 May), Bruno Repetto (on site, 11 May), and Greg Ball, who is waiting to hear back.\n- Bambos asked to visit on 19 or 26 May and has a new student.\n- Zimin Lu's storage model is going to Darrell Duffie for review.\n- Krishnarao sent a checklist for setting up power trading.\n- Ronn speaks at POWER 2000 on 9 May; there is a dinner, and he has asked for EnronOnline access.\n- The owner now meets Maureen Raymond every Friday at 8:00.\n- Smaller items: access approvals, printer memory, interns taking two 19th-floor offices, and the AccuWeather contract cancelled.\n\n**People.** Alan Aronowitz and Darrell Duffie now have person files. Duffie should have had one from his fifth noted message on 2000-03-21, so this catches up a miss. I added no aliases.\n\n**Gates.** The first audit run was red, with five files growing past the allowed limit and one change to an archived inbox log. I compressed those files, moving detail to the week's archive files, and put the run's own log note in a separate `-2` file. On the second run, lint and sleep-audit were both green.\n\n**Housekeeping.**\n- `memory/people/_index.md` is the only file above 90% of its ceiling. "
+  },
+  "repair": null
+ }
+}

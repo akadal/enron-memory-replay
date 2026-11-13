@@ -1,0 +1,43 @@
+id	durable	status	detail
+m01567	yes	kept	domains/organization/london-research.md
+m01568	no	not_durable	pleasantry
+m01569	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m01570	yes	kept	domains/work/dabhol-power-sale.md people/alan-aronowitz.md
+m01571	yes	kept	domains/work/internal-meetings.md
+m01572	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m01573	no	not_durable	bulk
+m01574	yes	kept	domains/organization/london-research.md
+m01575	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01576	yes	dropped	other: self-sent PMA conference link, no stated plan
+m01577	yes	kept	domains/personal/correspondence.md
+m01578	yes	kept	domains/organization/corporate-announcements-2000.md
+m01579	yes	kept	domains/industry/eprm-risk.md
+m01580	no	not_durable	logistics
+m01581	no	not_durable	logistics
+m01582	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/software-licenses.md people/ehud-ronn.md
+m01583	yes	kept	domains/organization/office-equipment.md
+m01584	yes	kept	domains/organization/office-equipment.md
+m01585	yes	kept	domains/work/outside-requests.md
+m01586	yes	kept	domains/organization/office-equipment.md
+m01587	yes	kept	domains/industry/speaking-engagements-2000.md
+m01588	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/software-licenses.md people/ehud-ronn.md
+m01589	yes	kept	domains/industry/eprm-risk.md
+m01590	yes	kept	domains/industry/speaking-engagements-2000.md
+m01591	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01592	yes	kept	domains/organization/office-equipment.md
+m01593	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01594	no	not_durable	logistics
+m01595	no	not_durable	automated
+m01596	yes	kept	domains/work/outside-requests.md
+m01597	yes	kept	domains/organization/summer-interns-2000.md
+m01598	no	not_durable	pleasantry
+m01599	yes	kept	domains/work/outside-requests.md
+m01600	yes	dropped	other: self-sent search link on GE and Enron, no stated view
+m01601	no	not_durable	bulk
+m01602	yes	kept	domains/organization/london-research.md people/thomas-knudsen.md
+m01603	yes	dropped	social: concert invitation forwarded to personal address
+m01604	yes	kept	domains/work/outside-requests.md people/jim-dyer.md
+m01605	yes	kept	domains/work/storage-model.md people/darrell-duffie.md
+m01606	yes	kept	domains/organization/software-licenses.md
+m01607	yes	kept	domains/organization/corporate-announcements-2000.md people/cliff-baxter.md people/john-sherriff.md
+m01608	yes	dropped	logistics: personal e-mail address given to John Peyton
