@@ -1,0 +1,117 @@
+id	durable	status	detail
+m01730	no	not_durable	bulk
+m01731	yes	kept	domains/personal/household.md
+m01732	no	not_durable	logistics
+m01733	yes	kept	domains/organization/leave-and-training.md
+m01734	yes	kept	domains/industry/eprm-risk.md domains/organization/london-research.md
+m01735	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01736	yes	kept	domains/industry/research-memberships-2000.md
+m01737	no	not_durable	pleasantry
+m01738	yes	kept	domains/work/ut-austin-ties-2000.md
+m01739	yes	kept	domains/organization/mid-year-prc-2000.md people/richard-lewis.md
+m01740	yes	kept	domains/work/ut-austin-ties-2000.md
+m01741	yes	kept	domains/work/owner-publications.md
+m01742	yes	kept	domains/work/owner-publications.md
+m01743	yes	kept	domains/organization/leave-and-training.md
+m01744	yes	kept	domains/organization/leave-and-training.md
+m01745	yes	kept	domains/personal/correspondence.md
+m01746	yes	kept	domains/work/owner-publications.md
+m01747	yes	kept	domains/organization/mid-year-prc-2000.md
+m01748	yes	kept	domains/organization/candidate-referrals-2000.md people/dennis-benevides.md people/ming-sit.md
+m01749	yes	dropped	social: Alex Ulitsky (eplanning.com) nice-to-meet-you note with a home phone
+m01750	yes	kept	domains/organization/candidate-referrals-2000.md people/dennis-benevides.md people/ming-sit.md
+m01751	yes	kept	domains/organization/candidate-referrals-2000.md
+m01752	yes	kept	domains/organization/candidate-referrals-2000.md
+m01753	yes	kept	domains/work/lng-book-2000.md
+m01754	yes	kept	domains/organization/candidate-referrals-2000.md people/dennis-benevides.md people/ming-sit.md
+m01755	yes	kept	domains/work/lng-book-2000.md
+m01756	yes	kept	domains/personal/correspondence.md
+m01757	yes	kept	domains/work/lng-book-2000.md
+m01758	yes	kept	domains/organization/candidate-referrals-2000.md people/ming-sit.md
+m01759	yes	kept	domains/personal/correspondence.md
+m01760	yes	kept	domains/organization/corporate-announcements-2000.md
+m01761	yes	kept	domains/organization/candidate-referrals-2000.md
+m01762	yes	kept	domains/work/ut-austin-ties-2000.md
+m01763	no	not_durable	quote_only
+m01764	yes	kept	domains/work/real-options-diagrams.md
+m01765	yes	kept	domains/organization/summer-interns-2000.md
+m01766	yes	kept	domains/work/real-options-diagrams.md
+m01767	yes	kept	domains/personal/correspondence.md
+m01768	no	not_durable	automated
+m01769	yes	kept	domains/organization/mid-year-prc-2000.md
+m01770	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01771	yes	kept	domains/organization/summer-interns-2000.md
+m01772	no	not_durable	bulk
+m01773	no	not_durable	logistics
+m01774	yes	kept	domains/organization/recruiting-candidates.md
+m01775	yes	kept	domains/work/eol-content-2000.md people/ross-prevatt.md
+m01776	yes	kept	domains/work/outside-requests.md people/keith-baggerly.md
+m01777	yes	dropped	logistics: Julian Rose address and phone note, no context
+m01778	yes	kept	domains/work/ut-austin-ties-2000.md
+m01779	yes	kept	domains/work/stanford-research-ties.md
+m01780	yes	kept	domains/organization/candidate-referrals-2000.md
+m01781	yes	kept	domains/work/outside-requests.md people/keith-baggerly.md
+m01782	yes	kept	domains/industry/aiesec-houston.md
+m01783	yes	kept	domains/work/internal-meetings.md
+m01784	yes	kept	domains/work/vendor-offers-2000.md
+m01785	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01786	yes	kept	domains/industry/research-memberships-2000.md
+m01787	yes	kept	domains/industry/speaking-engagements-2000.md
+m01788	yes	kept	domains/organization/mid-year-prc-2000.md
+m01789	yes	kept	domains/organization/office-equipment.md
+m01790	yes	kept	domains/organization/summer-interns-2000.md
+m01791	yes	kept	domains/work/stanford-research-ties.md
+m01792	yes	kept	domains/organization/software-licenses.md
+m01793	yes	kept	domains/organization/london-research.md
+m01794	yes	kept	domains/work/research-presentations.md
+m01795	no	not_durable	automated
+m01796	no	not_durable	other
+m01797	no	not_durable	automated
+m01798	yes	kept	domains/organization/summer-interns-2000.md
+m01799	yes	kept	domains/organization/software-licenses.md
+m01800	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md
+m01801	yes	kept	domains/organization/london-research.md
+m01802	yes	kept	domains/work/storage-model.md
+m01803	no	not_durable	pleasantry
+m01804	yes	kept	domains/organization/candidate-referrals-2000.md
+m01805	yes	kept	domains/organization/leave-and-training.md
+m01806	yes	dropped	other: "Brown U" self-note with two unexplained numbers
+m01807	yes	dropped	other: same "Brown U" numbers sent to the AOL account
+m01808	yes	kept	domains/industry/speaking-engagements-2000.md
+m01809	yes	kept	domains/organization/candidate-referrals-2000.md
+m01810	yes	kept	domains/organization/london-research.md
+m01811	yes	kept	domains/industry/speaking-engagements-2000.md
+m01812	yes	kept	domains/industry/eprm-risk.md
+m01813	yes	kept	domains/industry/speaking-engagements-2000.md
+m01814	yes	kept	domains/industry/rice-university.md
+m01815	yes	kept	domains/industry/rice-university.md
+m01816	yes	kept	domains/industry/speaking-engagements-2000.md
+m01817	yes	kept	domains/work/broadband-services.md
+m01818	no	not_durable	logistics
+m01819	yes	kept	domains/work/eol-content-2000.md
+m01820	yes	kept	domains/work/outside-requests.md people/keith-baggerly.md
+m01821	yes	kept	domains/work/owner-publications.md
+m01822	yes	kept	domains/industry/speaking-engagements-2000.md
+m01823	yes	kept	domains/work/owner-publications.md
+m01824	yes	kept	domains/industry/speaking-engagements-2000.md
+m01825	no	not_durable	empty
+m01826	yes	kept	domains/work/ut-austin-ties-2000.md
+m01827	no	not_durable	automated
+m01828	yes	kept	domains/organization/mid-year-prc-2000.md
+m01829	yes	kept	domains/organization/recruiting-candidates.md people/david-oxley.md people/jere-overdyke.md
+m01830	yes	kept	domains/organization/office-equipment.md people/elena-chilkina.md
+m01831	yes	kept	domains/organization/mid-year-prc-2000.md
+m01832	yes	kept	domains/organization/recruiting-candidates.md people/david-oxley.md people/jere-overdyke.md
+m01833	yes	kept	domains/work/ut-austin-ties-2000.md
+m01834	yes	kept	domains/industry/speaking-engagements-2000.md
+m01835	no	not_durable	logistics
+m01836	yes	kept	domains/organization/summer-interns-2000.md
+m01837	yes	kept	domains/organization/candidate-interviews-may-2000.md
+m01838	yes	kept	domains/work/chicago-office-support.md
+m01839	yes	kept	domains/organization/office-equipment.md
+m01840	yes	kept	domains/organization/candidate-referrals-2000.md
+m01841	no	not_durable	bulk
+m01842	yes	kept	domains/work/storage-model.md
+m01843	yes	kept	domains/industry/speaking-engagements-2000.md
+m01844	yes	kept	domains/work/internal-meetings.md people/mark-tawney.md
+m01845	yes	kept	domains/organization/mid-year-prc-2000.md
