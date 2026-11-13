@@ -1,0 +1,187 @@
+{
+ "slice": 29,
+ "simulated_today": "2000-06-18",
+ "feed": {
+  "slice": 29,
+  "iso_week": "2000-W24",
+  "first_seq": 1959,
+  "last_seq": 2007,
+  "messages": 49,
+  "durable": 38,
+  "first_date": "2000-06-12 01:26",
+  "last_date": "2000-06-18 13:52",
+  "today": "2000-06-18",
+  "inbox_files": [
+   "2000-06-12--mail.md",
+   "2000-06-13--mail.md",
+   "2000-06-14--mail.md",
+   "2000-06-15--mail.md",
+   "2000-06-16--mail.md",
+   "2000-06-17--mail.md",
+   "2000-06-18--mail.md"
+  ],
+  "inbox_chars": 31252,
+  "l2_chars": 129538
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 702,
+ "quota_before": {
+  "five_hour": 85.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 86.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 29,
+  "messages": 49,
+  "durable": 38,
+  "kept": 38,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1144,
+  "fact_lines_with_source": 885,
+  "dated": 885,
+  "date_matches_source": 871,
+  "date_mismatch_ids_this_slice": [
+   "m02007"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 6,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 757
+  },
+  "questions": {
+   "files": 1,
+   "chars": 3613
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 89,
+   "chars": 150213
+  },
+  "people": {
+   "files": 193,
+   "chars": 145494
+  },
+  "archive_inbox": {
+   "files": 180,
+   "chars": 1187120
+  },
+  "archive_mail": {
+   "files": 2033,
+   "chars": 5087818
+  },
+  "archive_other": {
+   "files": 343,
+   "chars": 413774
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 48,
+   "duration_ms": 700554,
+   "duration_api_ms": 634475,
+   "total_cost_usd": 4.093200199999999,
+   "usage": {
+    "input_tokens": 96,
+    "cache_creation_input_tokens": 168735,
+    "cache_read_input_tokens": 6552081,
+    "output_tokens": 71626,
+    "output_tokens_details": {
+     "thinking_tokens": 32328
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 168735,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1042,
+      "cache_read_input_tokens": 200269,
+      "cache_creation_input_tokens": 257,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 257
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 96,
+     "outputTokens": 71626,
+     "cacheReadInputTokens": 6552081,
+     "cacheCreationInputTokens": 168735,
+     "webSearchRequests": 0,
+     "costUSD": 4.093200199999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 32328,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 168735,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 47,
+   "result_summary": "The 2000-06-18 consolidation (week 2000-W24) is committed as `6b5df7b`, with lint and sleep-audit both green; I did not push. Your instructions said both \"do not push, the runner pushes\" and \"git push origin main\", so I went with the runner. All 38 noted messages are cited in memory, so `dataset/drops/sleep-029.tsv` is empty.\n\n**What went in:**\n- **Events:** Risk 2000 Boston is done; the owner spoke on 14 Jun, and Aaron Gould of PSEG asked for the slides. Geman's late-June Paris conference was declined, and her reply is recorded.\n- **PEP feedback lists:** the 12–15 Jun lists name Delainey as the owner's supervisor, while the 5–6 Jun list named Lavorato. Both are kept side by side.\n- **Candidates:** Iris Mack is invited to Houston for early July. Also recorded: Kamich, Dupre and Picazo, plus Hannon's request for a hire with Akamai experience.\n- **Visits:** Ronn's 22 Jun visit plan and the owner's yes to the mentor reception.\n- **Work threads:** Marg's LNG NPV model, London's swing-option models being rebuilt on Zimin Lu's, the Seneca Lake Storage valuation and the AGA forecast. Smaller items include FAS 138, the plan to recommend Wharton as a research partner to Skilling, and Marek Kierlanczyk's July visit to Houston.\n- **New file:** `work/research-web-content-2000` (Ahmad's London intranet site and Sven Becker's European web channel).\n\n**People:** four people reached five messages this week, so they got entity files: Barbara Dillard, Joe Gold, Datren Williams and Tim Davies. To keep the alias table under the audit's limit, seven aliases left the table but stay in the entity files. The table is at 6,162 characters, just under the 6,175 limit.\n\n**Questions:** one new item in `questions.md`. Surbey's London PRC note uses first names only (Steven, Ben, Anjam, Kirstee), so they are left unlinked and marked (?). The alias-table budget and Peyton S. Gibner items got this week's evidence. Nothing passed its due date, so nothing was closed.\n\n**Rotation and compression:**\n- *"
+  },
+  "repair": null
+ }
+}
