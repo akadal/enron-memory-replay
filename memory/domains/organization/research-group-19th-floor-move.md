@@ -5,7 +5,7 @@ domain: organization
 title: "Research group move to EB 19th floor and office roster"
 summary: "Dec 1999: research group moves to EB 19th floor; owner's office EB 1933; office roster; HP 4500N color printer and Toshiba copier for the floor."
 status: active
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Research group move to EB 19th floor and office roster
 
@@ -16,5 +16,6 @@ updated: 1999-12-19
 ## Equipment for the floor
 
 - [1999-12-14] [[kevin-moore]] urgently requested a central color printer for the 19th floor; Shirley: nothing as big as "Sapphire", ask Sam; the HP 4500N ($2,753, via Lyn Malina, Enron Technology) is being ordered. ←[[m00014]] ←[[m00015]]
+- [1999-12-21] Color printer not yet in: Moore asked Lyn Malina for its status, needed ASAP, to stand on the counter with the black-and-white printer (the owner and Mike Roberts copied). ←[[m00081]]
 - [1999-12-14] Moore asked Liz Taylor for another Stentofon for Trisha Tlapek, who works closely with traders. ←[[m00022]]
 - [1999-12-17] [[shirley-crenshaw]] told Iain Russell (Property & Services) the owner agreed to a Toshiba copier like the one on 32 (options priced: Toshiba 5570/6570, Lanier, Canon IR550/600); she asked whether it can be networked. ←[[m00046]]

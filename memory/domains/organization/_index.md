@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Organization — index
 
@@ -9,8 +9,8 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Research group on EB 19th floor (owner EB 1933); printer and copier chosen → memory/domains/organization/research-group-19th-floor-move.md
-- Candidates: Van Ngo winter break, Japan hires, Andy Knight after Xmas → memory/domains/organization/recruiting.md
+- Research group on EB 19th floor (owner EB 1933); color printer still awaited 1999-12-21 → memory/domains/organization/research-group-19th-floor-move.md
+- Candidates: Van Ngo winter break, Hoshino assessed, MacMinn after New Year, Andy Knight after Xmas → memory/domains/organization/recruiting.md
 - ENA reorganisation under Delainey, Bowen/Donahue (1999-12-15) → memory/domains/organization/1999-12-ena-organizational-changes.md
 
 ## Files

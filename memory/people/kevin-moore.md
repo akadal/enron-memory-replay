@@ -5,7 +5,7 @@ entity: person
 name: "Kevin Moore"
 aliases: ["Kevin G Moore"]
 domains: [organization]
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Kevin Moore
 
@@ -13,4 +13,4 @@ Research group member (EB 1944); handles office equipment. ←[[m00004]] ←[[m0
 
 ## Context: organization
 
-- [1999-12-14] Ordered the 19th-floor color printer → memory/domains/organization/research-group-19th-floor-move.md ←[[m00014]] ←[[m00015]]
+- [1999-12-14] Ordered the 19th-floor color printer; chased it again 1999-12-21 → memory/domains/organization/research-group-19th-floor-move.md ←[[m00014]] ←[[m00015]] ←[[m00081]]

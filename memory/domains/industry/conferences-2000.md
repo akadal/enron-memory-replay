@@ -3,22 +3,15 @@ id: conferences-2000
 type: topic
 domain: industry
 title: "Owner's 2000 conference engagements"
-summary: "Owner chairs POWER 2000 stream 1 day 1 (Houston, 9 May 2000), chairs a stream at European Energy 2000 (Amsterdam, 3-4 Apr), speaks at Real Options NY (mid-March)."
+summary: "2000: CERAWeek Houston Feb 8-10; Real Options NY mid-March; European Energy Amsterdam Apr 3-4 (chair); POWER 2000 Houston May 9 (chair); Risk 2000 Boston Jun 13-14."
 status: active
-updated: 1999-12-19
+updated: 1999-12-26
 ---
 # Owner's 2000 conference engagements
 
-## POWER 2000, Houston, 9–10 May 2000 (organiser Emma Wolfin, risk-ny)
-- [1999-12-14] Wolfin invited the owner to chair a day-2 stream or present. ←[[m00021]]
-- [1999-12-15] The owner left the choice to her and offered talks on insurance as a risk tool, real options for power plants, and volatility estimation. ←[[m00024]]
-- [1999-12-16] Those slots were taken; M&A is "not my area"; the owner chose stream 1, day 1, "Pricing and Trading in the US Power Market". Wolfin confirmed him as chairman on 9 May. ←[[m00030]] ←[[m00039]] ←[[m00043]]
-
-## European Energy 2000, Amsterdam, 3–4 April 2000
-- [1999-12-16] Asked by Angela Adedeji (risk.co.uk), the owner agreed to chair the stream of his own talk: "I shall be glad to do it." ←[[m00032]]
-
-## Real Options conference, New York, mid-March 2000
-- [1999-12-17] Lenos Trigeorgis (Real Options Group) invited the owner to speak at "Real Options Valuation in the New Economy" (tentatively 13–15 March); he accepted on 9 Dec and asked [[shirley-crenshaw]] to put it on his schedule. Abstract was due 17 Dec. ←[[m00067]]
-
-## Other
-- [1999-12-17] The owner kept the announcement of "Applications of Physics in Financial Analysis 2" (Liège, 13–15 July 2000) by forwarding it to his AOL address. ←[[m00051]]
+- [1999-12-21] CERAWeek 2000, Houston, 8–10 Feb: CERA confirmed his registration. ←[[m00078]]
+- [1999-12-17] Real Options, New York, ~13–15 March (Lenos Trigeorgis): accepted 9 Dec, [[shirley-crenshaw]] scheduled it; abstract due 17 Dec. ←[[m00067]]
+- [1999-12-16] European Energy 2000 (EPRM), Amsterdam, 3–4 April: agreed to Angela Adedeji to chair his own talk's stream. ←[[m00032]] Benjamin Parsons also invited → memory/domains/industry/eprm-monte-carlo-course.md ←[[m00076]]
+- [1999-12-16] POWER 2000 (Emma Wolfin, risk-ny), Houston: offered topics taken, so he chairs stream 1, day 1 (9 May), "Pricing and Trading in the US Power Market". ←[[m00021]] ←[[m00024]] ←[[m00030]] ←[[m00039]] ←[[m00043]]
+- [1999-12-22] Risk 2000, Boston, 13–14 June (Oliver Bennett): new research in stream 3 plus a weather-derivatives panel (Jeff Porter, Koch; Ravi Nathan, Aquila): "I can cover both presentations." ←[[m00088]]
+- [1999-12-17] Kept the call for "Applications of Physics in Financial Analysis 2" (Liège, 13–15 July). ←[[m00051]]
