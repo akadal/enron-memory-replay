@@ -1,0 +1,113 @@
+id	durable	status	detail
+m02301	yes	kept	domains/work/research-presentations.md
+m02302	no	not_durable	quote_only
+m02303	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/john-lavorato.md
+m02304	yes	kept	domains/work/university-relations.md people/bill-petty.md
+m02305	yes	kept	domains/work/desk-analysis-requests.md
+m02306	no	not_durable	bulk
+m02307	no	not_durable	logistics
+m02308	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02309	yes	kept	domains/industry/market-outlooks-2000.md
+m02310	no	not_durable	quote_only
+m02311	yes	kept	domains/work/ebs-network-planning.md
+m02312	no	not_durable	logistics
+m02313	yes	kept	domains/organization/mg-metals-integration.md
+m02314	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02315	no	not_durable	logistics
+m02316	no	not_durable	logistics
+m02317	yes	dropped	logistics: the owner sends a contact address to his wife's AOL
+m02318	yes	kept	domains/industry/rice-university.md
+m02319	yes	kept	domains/industry/esai-energycast-review.md
+m02320	yes	kept	domains/industry/rice-university.md
+m02321	yes	kept	domains/organization/london-research.md
+m02322	yes	kept	domains/industry/speaking-engagements-2000.md
+m02323	yes	kept	domains/industry/eprm-risk.md
+m02324	no	not_durable	logistics
+m02325	yes	dropped	other: bare SAP identifier sent to the assistant, no context
+m02326	no	not_durable	quote_only
+m02327	yes	kept	domains/work/ene-stock-drivers.md
+m02328	yes	kept	domains/work/storage-model.md
+m02329	no	not_durable	bulk
+m02330	no	not_durable	logistics
+m02331	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02332	no	not_durable	automated
+m02333	no	not_durable	quote_only
+m02334	yes	dropped	other: the owner e-mails himself a real-options links page as a bookmark
+m02335	yes	kept	domains/organization/office-equipment.md
+m02336	yes	kept	domains/organization/candidate-interviews-jul-2000.md
+m02337	yes	kept	domains/organization/candidate-referrals-2000.md people/ken-lay.md
+m02338	yes	kept	domains/organization/corporate-announcements-2000.md
+m02339	yes	kept	domains/organization/corporate-announcements-2000.md
+m02340	yes	kept	domains/organization/corporate-announcements-2000.md people/ken-lay.md
+m02341	yes	kept	domains/work/ene-stock-drivers.md
+m02342	yes	kept	domains/work/vendor-offers-2000.md
+m02343	yes	kept	domains/industry/speaking-engagements-2000.md people/tom-arnold.md
+m02344	yes	dropped	other: the owner forwards Leppard's presentation to his own AOL
+m02345	yes	dropped	logistics: assistant's initials on calendar entries
+m02346	yes	kept	domains/industry/speaking-engagements-2000.md people/tom-arnold.md
+m02347	yes	kept	domains/work/outside-requests.md
+m02348	no	not_durable	logistics
+m02349	no	not_durable	bulk
+m02350	yes	kept	domains/organization/london-research.md
+m02351	yes	kept	domains/work/university-relations.md
+m02352	yes	kept	domains/organization/mg-metals-integration.md
+m02353	no	not_durable	quote_only
+m02354	yes	kept	domains/organization/research-group.md
+m02355	yes	kept	domains/personal/recruiter-approaches-2000.md people/tim-luehrman.md
+m02356	no	not_durable	logistics
+m02357	yes	kept	domains/work/var-backtesting-2000.md people/john-lavorato.md
+m02358	yes	kept	domains/organization/london-research.md people/kate-bruges.md
+m02359	yes	kept	domains/work/var-backtesting-2000.md
+m02360	no	not_durable	quote_only
+m02361	yes	kept	domains/organization/recruiting-candidates.md people/john-lavorato.md
+m02362	no	not_durable	logistics
+m02363	yes	kept	domains/organization/office-equipment.md
+m02364	yes	kept	domains/organization/london-research.md
+m02365	yes	kept	domains/organization/london-research.md
+m02366	yes	kept	domains/organization/recruiting-candidates.md
+m02367	yes	kept	domains/organization/mid-year-prc-2000.md
+m02368	yes	kept	domains/work/research-presentations.md
+m02369	yes	kept	domains/organization/recruiting-candidates.md
+m02370	yes	kept	domains/work/vendor-offers-2000.md
+m02371	yes	dropped	logistics: meeting slot for an undisclosed confidential note
+m02372	yes	kept	domains/work/research-presentations.md
+m02373	yes	kept	domains/organization/recruiting-candidates.md people/john-lavorato.md
+m02374	yes	kept	domains/organization/research-group.md
+m02375	yes	kept	domains/organization/research-group.md
+m02376	yes	kept	domains/organization/summer-interns-2000.md
+m02377	yes	kept	domains/work/tw-capacity-options.md
+m02378	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/toni-graham.md
+m02379	yes	kept	domains/work/university-relations.md
+m02380	yes	kept	domains/work/vendor-offers-2000.md
+m02381	yes	kept	domains/work/monte-carlo-library.md
+m02382	no	not_durable	logistics
+m02383	yes	kept	domains/work/research-presentations.md
+m02384	yes	kept	domains/industry/speaking-engagements-2000.md
+m02385	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/toni-graham.md
+m02386	yes	kept	domains/organization/candidate-interviews-jul-2000.md people/toni-graham.md
+m02387	no	not_durable	quote_only
+m02388	yes	kept	domains/work/broadband-services.md people/erik-simpson.md
+m02389	yes	kept	domains/work/research-presentations.md
+m02390	yes	kept	domains/organization/staff-and-recruiting.md
+m02391	no	not_durable	bulk
+m02392	yes	kept	domains/organization/ena-reorganization.md people/andrea-reed.md people/rodney-malcolm.md
+m02393	yes	kept	domains/organization/london-research.md people/kate-bruges.md
+m02394	yes	kept	domains/work/desk-analysis-requests.md
+m02395	yes	kept	domains/organization/mg-metals-integration.md
+m02396	yes	kept	domains/work/lacima-book-2000.md
+m02397	yes	kept	domains/organization/mg-metals-integration.md
+m02398	yes	kept	domains/organization/office-equipment.md
+m02399	yes	kept	domains/organization/mg-metals-integration.md
+m02400	yes	kept	domains/industry/eprm-risk.md domains/organization/summer-interns-2000.md
+m02401	yes	kept	domains/work/outside-requests.md
+m02402	no	not_durable	logistics
+m02403	yes	kept	domains/industry/eprm-risk.md
+m02404	no	not_durable	pleasantry
+m02405	yes	kept	domains/industry/eprm-risk.md
+m02406	yes	kept	domains/industry/weather-insurance-markets.md
+m02407	no	not_durable	pleasantry
+m02408	yes	kept	domains/organization/corporate-announcements-2000.md
+m02409	yes	kept	domains/organization/london-research.md
+m02410	yes	kept	domains/work/desk-analysis-requests.md
+m02411	yes	kept	domains/industry/eprm-risk.md
+m02412	no	not_durable	logistics
