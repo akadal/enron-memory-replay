@@ -1,149 +1,160 @@
 ---
 type: index
-updated: 2000-04-21
+updated: 2000-04-28
 ---
 # People and organisations — index
 
-Alias table, read whole each run: `name — aliases — id` (memory/people/<id>.md). Bare ids, no domains: (?) status quo 2000-03-31, 2000-04-21.
+Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md). Format (?) 2000-03-31, 2000-04-21 (status quo), 2000-04-28.
 
 ## Files
 
-- Adam Brulinski — — adam-brulinski
-- Alex Huang — — alex-huang
-- Amitava Dhar — — amitava-dhar
+- Adam Brulinski — adam-brulinski
+- Alex Huang — alex-huang
+- Amitava Dhar — amitava-dhar
+- Amy Aldous — amy-aldous
 - Andrew Fastow — Andy Fastow — andrew-fastow
-- Andrzej Wodnicki — — andrzej-wodnicki
-- Anjam Ahmad — — anjam-ahmad
+- Andrzej Wodnicki — andrzej-wodnicki
+- Anjam Ahmad — anjam-ahmad
 - Anthony Mends — Tony Mends — anthony-mends
 - April Hodgson — April Hodgeson, April Hodges — april-hodgson
+- Aram Sogomonian — aram-sogomonian
 - Benjamin Parsons — Ben Parsons — benjamin-parsons
-- Beth Perlman — — beth-perlman
-- Brad McSherry — — brad-mcsherry
+- Beth Perlman — beth-perlman
+- Brad McSherry — brad-mcsherry
 - Brad Romine — Bradley Romine — brad-romine
-- Bryan Seyfried — — bryan-seyfried
-- Cantekin Dincerler — — cantekin-dincerler
+- Bryan Seyfried — bryan-seyfried
+- Cantekin Dincerler — cantekin-dincerler
 - Carla Di Castro — Carla diCastro — carla-di-castro
-- Celeste Roberts — — celeste-roberts
-- Charlene Jackson — — charlene-jackson
-- Chonawee Supatgiat — — chonawee-supatgiat
-- Chris Hilgert — — chris-hilgert
-- Chris Strickland — — chris-strickland
-- Clayton Vernon — — clayton-vernon
-- Cliff Baxter — — cliff-baxter
-- Dale Surbey — — dale-surbey
-- Dave Delainey — — dave-delainey
-- David Cox — — david-cox
-- Dawn Scovill — — dawn-scovill
-- Dorn Hetzel — — dorn-hetzel
-- Doug Leach — — doug-leach
-- Ed Krapels — — ed-krapels
+- Celeste Roberts — celeste-roberts
+- Charlene Jackson — charlene-jackson
+- Chonawee Supatgiat — chonawee-supatgiat
+- Chris Hilgert — chris-hilgert
+- Chris Strickland — chris-strickland
+- Clayton Vernon — clayton-vernon
+- Cliff Baxter — cliff-baxter
+- Dale Surbey — dale-surbey
+- Dave Delainey — dave-delainey
+- David Cox — david-cox
+- David Walkup — David C. Walkup — david-walkup
+- Dawn Scovill — dawn-scovill
+- Dorn Hetzel — dorn-hetzel
+- Doug Leach — doug-leach
+- Ed Krapels — ed-krapels
 - Ehud Ronn — Ehud I. Ronn — ehud-ronn
-- Elizabeth Grant — — elizabeth-grant
-- Emma Wolfin — — emma-wolfin
-- Eugenio Perez — — eugenio-perez
-- Farouk Lalji — — farouk-lalji
-- Fred Lagrasta — — fred-lagrasta
-- Gary Hickerson — — gary-hickerson
+- Elizabeth Grant — elizabeth-grant
+- Emma Wolfin — emma-wolfin
+- Eugenio Perez — eugenio-perez
+- Farouk Lalji — farouk-lalji
+- Fred Lagrasta — fred-lagrasta
+- Gary Hickerson — gary-hickerson
 - Ginger Gamble — Ginger B Gamble — ginger-gamble
 - Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — giuseppe-paleologo
 - Gopalakrishnan Subramaniam — G. Subramaniam, G.Subbu — gopalakrishnan-subramaniam
-- Grant Masson — — grant-masson
-- Greg Whalley — — greg-whalley
-- Harry Arora — — harry-arora
-- Helyette Geman — — helyette-geman
-- Iain Russell — — iain-russell
+- Gordon Sick — gordon-sick
+- Grant Masson — grant-masson
+- Greg Whalley — greg-whalley
+- Harry Arora — harry-arora
+- Helyette Geman — helyette-geman
+- Iain Russell — iain-russell
 - Jana Phillips — Jana Laird Phillips — jana-phillips
-- Jarek Astramowicz — — jarek-astramowicz
-- Jason Sokolov — — jason-sokolov
-- Jay Webb — — jay-webb
-- Jean Mrha — — jean-mrha
+- Jarek Astramowicz — jarek-astramowicz
+- Jason Sokolov — jason-sokolov
+- Jay Webb — jay-webb
+- Jean Mrha — jean-mrha
 - Jeff Shankman — Jeffrey A Shankman — jeff-shankman
-- Jeff Skilling — — jeff-skilling
-- Jens Gobel — — jens-gobel
+- Jeff Skilling — jeff-skilling
+- Jens Gobel — jens-gobel
 - Jim Dyer — James S. Dyer — jim-dyer
 - Jim Garven — James R. Garven — jim-garven
-- Jim Irvine — — jim-irvine
-- Joan Payne — — joan-payne
-- Joe Hirko — — joe-hirko
-- Joel Hanley — — joel-hanley
-- John Bloomer — — john-bloomer
-- John D. Martin — — john-d-martin
-- John Griebling — — john-griebling
-- John Peyton — — john-peyton
-- John Sherriff — — john-sherriff
-- Jonathan Le — — jonathan-le
-- Jose Marquez — — jose-marquez
+- Jim Irvine — jim-irvine
+- Joan Payne — joan-payne
+- Joe Hirko — joe-hirko
+- Joel Hanley — joel-hanley
+- John Bloomer — john-bloomer
+- John D. Martin — john-d-martin
+- John Griebling — john-griebling
+- John Peyton — john-peyton
+- John Sherriff — john-sherriff
+- Jonathan Le — jonathan-le
+- Jose Marquez — jose-marquez
 - Joseph Hrgovcic — Joe Hrgovcic — joseph-hrgovcic
-- Karla Feldman — — karla-feldman
-- Katja Schilling — — katja-schilling
-- Ken Rice — — ken-rice
-- Kevin Hannon — — kevin-hannon
-- Kevin Kindall — — kevin-kindall
+- Karla Feldman — karla-feldman
+- Katja Schilling — katja-schilling
+- Ken Rice — ken-rice
+- Kevin Hannon — kevin-hannon
+- Kevin Kindall — kevin-kindall
 - Kevin Moore — Kevin G Moore — kevin-moore
-- Kimberly Watson — — kimberly-watson
-- Kristy Carnes — — kristy-carnes
-- Lenos Trigeorgis — — lenos-trigeorgis
-- Les Clewlow — — les-clewlow
-- Li Xiao — — li-xiao
-- Linda Vargo — — linda-vargo
+- Kimberly Watson — kimberly-watson
+- Kristy Carnes — kristy-carnes
+- Lenos Trigeorgis — lenos-trigeorgis
+- Les Clewlow — les-clewlow
+- Li Xiao — li-xiao
+- Linda Vargo — linda-vargo
+- Lisa Ford — lisa-ford
 - Lou Pai — Lou L Pai — lou-pai
-- Louise Kitchen — — louise-kitchen
+- Louise Kitchen — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
-- Lyn Malina — — lyn-malina
-- Manuel Rensink — — manuel-rensink
-- Margaret Carson — — margaret-carson
+- Lyn Malina — lyn-malina
+- Manuel Rensink — manuel-rensink
+- Margaret Carson — margaret-carson
 - Mark Palmer — Mark S Palmer — mark-palmer
-- Mark Ruane — — mark-ruane
-- Martin Lin — — martin-lin
-- Martina Angelova — — martina-angelova
+- Mark Ruane — mark-ruane
+- Martin Lin — martin-lin
+- Martina Angelova — martina-angelova
 - Maruti More — Maruti D. More — maruti-more
-- Masayuki Fujita — — masayuki-fujita
-- Maureen Raymond — — maureen-raymond
-- Michael Sergeev — — michael-sergeev
-- Mike McConnell — — mike-mcconnell
+- Masayuki Fujita — masayuki-fujita
+- Matthew Williams — Matt Williams — matthew-williams
+- Maureen Raymond — maureen-raymond
+- Michael Sergeev — michael-sergeev
+- Mike McConnell — mike-mcconnell
 - Mike Roberts — Mike A Roberts — mike-roberts
-- Nick Bambos — — nick-bambos
-- Nurit Krausz — — nurit-krausz
-- Oliver Bennett — — oliver-bennett
-- Osman Sezgen — — osman-sezgen
+- Nick Bambos — nick-bambos
+- Norberto Valdes — norberto-valdes
+- Nurit Krausz — nurit-krausz
+- Oliver Bennett — oliver-bennett
+- Osman Sezgen — osman-sezgen
 - Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
-- Paula Corey — — paula-corey
-- Paulo Issler — — paulo-issler
+- Paula Corey — paula-corey
+- Paulo Issler — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
-- Peter Tufano — — peter-tufano
+- Peter Tufano — peter-tufano
+- Phelim Boyle — P.P. Boyle — phelim-boyle
 - Philippe Bibi — Philippe A Bibi — philippe-bibi
 - Pinnamaneni Krishnarao — Krishna Krishnarao — pinnamaneni-krishnarao
-- Ravi Thuraisingham — — ravi-thuraisingham
-- Rick Buy — — rick-buy
+- Ravi Thuraisingham — ravi-thuraisingham
+- Rick Buy — rick-buy
 - Robert Brooks — Robert E. Brooks, Bob Brooks — robert-brooks
 - Robert Lee — Bob Lee — robert-lee
-- Robert Rudy — — robert-rudy
-- Rodney Greene — — rodney-greene
-- Roman Zadorozhny — — roman-zadorozhny
-- Ronnie Chahal — — ronnie-chahal
-- Rudi Zipter — — rudi-zipter
-- Sally Beck — — sally-beck
-- Samer Takriti — — samer-takriti
-- Sandeep Kohli — — sandeep-kohli
-- Scott Yeager — — scott-yeager
-- Sevil Yaman — — sevil-yaman
-- Shalesh Ganjoo — — shalesh-ganjoo
-- Sheridan Titman — — sheridan-titman
-- Sherri Sera — — sherri-sera
-- Sheryl Lara — — sheryl-lara
-- Shirley Crenshaw — — shirley-crenshaw
-- Steven Leppard — — steven-leppard
-- Stinson Gibner — — stinson-gibner
-- Tanya Tamarchenko — — tanya-tamarchenko
-- Ted Murphy — — ted-murphy
-- Thomas Knudsen — — thomas-knudsen
+- Robert Rudy — robert-rudy
+- Rodney Greene — rodney-greene
+- Roman Zadorozhny — roman-zadorozhny
+- Ronnie Chahal — ronnie-chahal
+- Rudi Zipter — rudi-zipter
+- Sally Beck — sally-beck
+- Samer Takriti — samer-takriti
+- Sandeep Kohli — sandeep-kohli
+- Scott Yeager — scott-yeager
+- Sevil Yaman — sevil-yaman
+- Shalesh Ganjoo — shalesh-ganjoo
+- Shan Millie — shan-millie
+- Sheridan Titman — sheridan-titman
+- Sherri Sera — sherri-sera
+- Sheryl Lara — sheryl-lara
+- Shirley Crenshaw — shirley-crenshaw
+- Soussan Faiz — soussan-faiz
+- Steven Leppard — steven-leppard
+- Stinson Gibner — stinson-gibner
+- Tanya Tamarchenko — tanya-tamarchenko
+- Ted Murphy — ted-murphy
+- Thomas Knudsen — thomas-knudsen
 - Tom Gros — Thomas Gros — tom-gros
-- Trena McFarland — — trena-mcfarland
-- Trisha Tlapek — — trisha-tlapek
-- Vadim Pokhlebkin — — vadim-pokhlebkin
-- Vasant Shanbhogue — — vasant-shanbhogue
-- Vicky Windsor — — vicky-windsor
-- Vincent Tang — — vincent-tang
+- Trena McFarland — trena-mcfarland
+- Trisha Tlapek — trisha-tlapek
+- Vadim Pokhlebkin — vadim-pokhlebkin
+- Van Ngo — van-ngo
+- Vasant Shanbhogue — vasant-shanbhogue
+- Vicky Windsor — vicky-windsor
+- Vincent Tang — vincent-tang
 - William Bradford — William S Bradford — william-bradford
 - William Smith — Sam Smith — william-smith
-- Zimin Lu — — zimin-lu
+- Zimin Lu — zimin-lu

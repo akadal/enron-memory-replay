@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-04-21
+updated: 2000-04-28
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Direct reports present to Delainey Mon 24 Apr 3 pm; Becky Pham 26 Apr, Corp vs ENA → memory/domains/work/internal-meetings.md
-- Nebraska 20 Apr; Navigant declined; CBOT manual; E&P model → memory/domains/work/outside-requests.md
-- EPRM article series proposed (Strickland, Clewlow); chapter owed → memory/domains/work/owner-publications.md
-- Talon/Raptor: PwC draft, Issler's MC model → memory/domains/work/talon-raptor.md
-- Abacus for Resco 25 Apr; IDEAglobal wants contacts → memory/domains/work/vendor-offers-2000.md
+- Delainey talk done 24 Apr; allocations sheet to Becky Pham 26 Apr → memory/domains/work/internal-meetings.md
+- Dyer's UT class Thu 4 May; Rausser reprint; Rochester (Goodburn) → memory/domains/work/outside-requests.md
+- Leppard's Cambridge talk and Risk article; AMC kept quiet → memory/domains/work/real-options-diagrams.md
+- Volumetric risk module for Rick Buy; next A/L or operational → memory/domains/work/enterprise-risk-management.md
+- Storage book meeting on Luken's model 27 Apr → memory/domains/work/storage-model.md
 
 ## Files
 
@@ -44,10 +44,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/ljm-put-valuation.md — LJM puts
 - memory/domains/work/model-risk-audit.md — 1999 model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps, India
-- memory/domains/work/outside-requests.md — small asks (Nebraska, Dyer, JA)
+- memory/domains/work/outside-requests.md — small asks (Dyer, Rausser, Goodburn)
 - memory/domains/work/owner-publications.md — book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
 - memory/domains/work/pse-swap-warsaw.md — PSE swap, Nowa Sarzyna
+- memory/domains/work/real-options-diagrams.md — Leppard's real options notation
 - memory/domains/work/research-presentations.md — talks, BBLOP, training
 - memory/domains/work/rofr-valuation.md
 - memory/domains/work/south-america-curves.md

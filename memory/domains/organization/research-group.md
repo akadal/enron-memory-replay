@@ -3,20 +3,20 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Members, 19th-floor offices (32nd floor from end of March 2000), extensions, Thursday staff meeting and video conference, Research Projects Tracking database, org chart (Apr 2000); admin history archived."
+summary: "Members, titles, 19th-floor offices (32nd floor from end of April 2000), extensions, Thursday staff meeting and video conference, Research Projects Tracking database, org chart (Apr 2000); admin history archived."
 status: active
-updated: 2000-04-21
+updated: 2000-04-28
 ---
 # The owner's Research Group
 
-Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]]
+Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]]
 
 ## Members and offices
 
 - [1999-12-10→] Members: Stinson Gibner, Joseph Hrgovcic, Paulo Issler, Krishna Krishnarao, Martin Lin, Grant Masson, Kevin Moore, Maureen Raymond, Mike Roberts, Vasant Shanbhogue, Vincent Tang, Ravi Thuraisingham, Zimin Lu. ←[[m00004]]
 - [1999-12-13→] Wider list: Takriti, Dhar, Huang, Kindall, Sezgen, Tamarchenko, Prevatt, Sergeev, Tlapek, Zadorozhny, Angelova, Sokolov. ←[[m00010]] ←[[m00138]]
 - [2000-01-10→] 19th floor: owner EB 1962 (3-3848), Crenshaw EB 1961 (3-5290), Maureen Raymond EB1939; conference room 19C2; Gibner (3-4748) the owner's associate. ←[[m00004]] ←[[m00201]] ←[[m00121]] ←[[m00352]] ←[[m00392]] ←[[m00395]] ←[[m00751]] ←[[m00805]] ←[[m00942]]
-- [2000-03-08] Robert Knight restored ext. 30396 of Maureen Raymond-Castaneda (as written), complaining of her demands. (?) Status quo 2000-04-14: kept apart from memory/people/maureen-raymond.md. ←[[m00917]]
+- [2000-04-27] Titles (Crenshaw's interview mails): the owner Managing Director; Gibner, Masson, Shanbhogue Vice Presidents; Krishnarao, Lu Directors; Tamarchenko, Huang, Sezgen Managers; Crenshaw Administrative Coordinator (713-853-5290). ←[[m01525]] ←[[m01533]]
 
 ## Admin
 
