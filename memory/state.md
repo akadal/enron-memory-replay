@@ -1,3 +1,3 @@
 # State — right now
 
-(nothing yet — this fills in after the first consolidation)
+- 1999-11-30: Vega VaR rollout pending; vega validation down → memory/domains/work/vega-var.md
