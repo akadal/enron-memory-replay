@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 1999-12-12
+updated: 1999-12-19
 ---
 # People and organisations — index
 
@@ -11,4 +11,10 @@ Format, one line each: `name — aliases — domains — path`
 
 ## Files
 
-(nobody yet)
+- Adam Brulinski — — work — memory/people/adam-brulinski.md
+- Joseph Hrgovcic — Joe Hrgovcic — organization, work — memory/people/joseph-hrgovcic.md
+- Kevin Moore — Kevin G Moore — organization — memory/people/kevin-moore.md
+- Mike Roberts — Mike A Roberts — organization — memory/people/mike-roberts.md
+- Shirley Crenshaw — — organization, work, industry — memory/people/shirley-crenshaw.md
+- Stinson Gibner — — organization, industry, work — memory/people/stinson-gibner.md
+- Vasant Shanbhogue — — organization, work — memory/people/vasant-shanbhogue.md

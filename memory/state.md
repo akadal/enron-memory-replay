@@ -1,7 +1,9 @@
 # State — right now
 
-As of 1999-12-12 (replay of the owner's mailbox, week 1999-W49).
+As of 1999-12-19 (replay of the owner's mailbox, week 1999-W50).
 
-- Bob Lee visits the office 1999-12-29 09:00 → memory/domains/work/1999-12-29-robert-lee-visit.md
-- India naphtha caps: waiting on real 2000 forwards → memory/domains/work/naphtha-caps-india.md
-- Vega VaR rollout pending; vega limit validation down → memory/domains/work/vega-var.md
+- Owner off a few days around Xmas; promised replies after Xmas (Andy Knight, Maruti More)
+- Bob Lee visits 1999-12-29 09:00 → memory/domains/work/1999-12-29-robert-lee-visit.md
+- PSE swap vol/correlation help for Warsaw → memory/domains/work/pse-swap-warsaw.md
+- Real Options NY abstract owed; POWER 2000 chair confirmed → memory/domains/industry/speaking-engagements-2000.md
+- RiskMetrics CreditManager demo 2000-01-07 → memory/domains/work/credit-markets.md
