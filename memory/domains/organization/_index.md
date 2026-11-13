@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-05-26
+updated: 2000-06-04
 ---
 # Organization — index
 
@@ -9,11 +9,9 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Todd Perry on site Fri 2 Jun; Credit.com feedback; Valdes pay → memory/domains/organization/candidate-interviews-may-2000.md
-- Super Saturday 3 Jun; Elizabeth Grant leaves 8 Jun → memory/domains/organization/recruiting-candidates.md
-- Ming Sit for EES; Iris Mack to interview; Huan, Bruce James → memory/domains/organization/candidate-referrals-2000.md
-- Mid-year PEP feedback due 16 Jun (Ahmad, Zipter, Vernon, Ghosh) → memory/domains/organization/mid-year-prc-2000.md
-- CPLEX vs XPRESS vote; Gaddis intern; London stays 31 Jul-10 Nov → memory/domains/organization/software-licenses.md, memory/domains/organization/summer-interns-2000.md, memory/domains/organization/london-research.md
+- Mid-year PEP feedback due 16 Jun (Ahmad, Carson, Ghosh, Vernon, Yuan, Zipter) → memory/domains/organization/mid-year-prc-2000.md
+- Khanna stays in Houston; Maragos dinner; Super Saturday 3 Jun → memory/domains/organization/candidate-interviews-may-2000.md, memory/domains/organization/recruiting-candidates.md
+- London stays 31 Jul-10 Nov, 777 Clay parking; UK Gas: Gallagher replaces Whitehead → memory/domains/organization/london-research.md
 
 ## Files
 
@@ -23,8 +21,8 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 - memory/domains/organization/ena-reorganization.md — ENA reorganization of Dec 1999 (Delainey, CTG)
 - memory/domains/organization/leave-and-training.md — vacations, courses (Stanford credit risk, Oct), personal days
 - memory/domains/organization/legal-matters.md — legal matters involving the owner (Cuneo case dismissed, Jan 2000)
-- memory/domains/organization/london-research.md — London Research team (Ahmad, Parsons, Leppard, Surbey): hires, summer stays in Houston
-- memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PEP feedback requests (due 16 Jun)
+- memory/domains/organization/london-research.md — London Research team (Ahmad, Parsons, Leppard, Surbey): hires, summer stays in Houston, UK Gas desk
+- memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PEP feedback and reviewer approvals (due 16 Jun)
 - memory/domains/organization/office-equipment.md — equipment, moves (EB3240 from 30 May), access approvals
 - memory/domains/organization/officer-performance-review.md — officer levels, PRC process, promotions
 - memory/domains/organization/promotions-2000.md — 2000 promotions: owner to MD, Mike Roberts, London list, Ravi missed
