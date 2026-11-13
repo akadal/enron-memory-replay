@@ -44,6 +44,12 @@ more are the fix. Requests are reproducible from `capture.py`, its `PROMPT_VERSI
 manifest (their SHA-256 is stored); responses, including a first verdict that was retried, are
 stored verbatim with token usage and cost.
 
+Known limitation: the verbatim check on owner quotes is a plain substring test against the raw
+text, so a quote the model joined across a quoted-printable line break fails it and the note is
+dropped (`unverified_dropped` in the capture record). Over the whole stream that is 116 notes in
+94 messages; two messages lost every note and were recorded as not durable (m00369, m05777; the
+substance of m00369 reached L1 through m00370). They were not re-captured.
+
 ## Consolidation (S5)
 
 The prompt is `memory/tools/sleep-run.sh`'s, read at run time, with a preamble (the exact text
@@ -65,7 +71,12 @@ questions, not a curated alias table.
 ## Gates (S6), checked from outside after every slice
 
 1. The harness exited 0 and committed at least once.
-2. Every inbox file the feed wrote was consumed; the tree is clean.
+2. Every inbox file the feed wrote was consumed; the tree is clean. A fed file counts as
+   unconsumed while it still holds mail blocks, not merely because a file of that name exists: a
+   run may log its own work (a question closed by status quo, say) in the inbox file of the
+   simulated day, which has the fed file's name. Slice 12 stopped on that before the rule was
+   changed and carries a note in `sleep-012.json`; since then the runs log to
+   `<day>--mail-2.md` (17 such files by slice 30), consumed by the next sleep like any inbox file.
 3. `lint.py` green; `sleep-audit.py --last <the run's commit>` green.
 4. `date_leaks.py`: no date more than a year outside [first message, simulated today].
 5. `ledger.py`: every message the capture step marked durable is either cited by an L1 fact or
@@ -79,6 +90,9 @@ questions, not a curated alias table.
 
 The ledger also records the kept rate excluding drops classed as redundant, the classes of the
 drops, and the ids whose fact lines carry a bracket date different from their source message.
+"Kept" is measured in the week of the slice: a message kept then may later leave L1 when its topic
+is retired to `memory/archive/<domain>/`, which is eleman's way of forgetting. At slice 30, 1,169
+of the 1,605 messages kept so far were still cited in `memory/domains/` or `memory/people/`.
 
 `sleep-audit.py`'s FABRICATION check exempts lines carrying `←[[...]]`, which here is every
 fact; gate 5 and the ledger's date-match metric (bracket date equals the cited message's date)
@@ -92,6 +106,17 @@ eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing 
 - `people_index` budget raised from [2300, 2900] to [5000, 6500] characters, and the domain
   `index` budget from [1600, 2000] to [3200, 4000]: after ten of 122 weeks two indexes stood at 89%
   of the shipped ceiling.
+- From slice 31 on, `people_index` raised again, to [20000, 25000]. The entity-file sentence
+  makes the alias table grow with every person who reaches five messages, and the budget did not:
+  from slice 15 to 29 the table stayed within 10% of the 6,500 ceiling, and to fit it the runs
+  dropped the domains column, then aliases (slices 16-29), then at slice 30 the file id, keeping one
+  line per person (202 people, 4,356 characters; every name still maps to its file). The model
+  asked twice in `questions.md` for a higher budget; nobody answers, so both closed by status quo.
+  At 7.5 new entity files per slice (slices 10-30) the 6,500 ceiling would hold about 300 people,
+  reached near slice 43; a linear projection gives about 900 people, about 19,000 characters, by
+  slice 122. The new target sits above that so the number changes once. Slices 16-29 therefore
+  carry a thinner alias table; that is a record of the old budget, not an error
+  (`dataset/audit/2026-11-14-6-review-030.md`).
 - The preamble's entity-file sentence (above).
 - Raw mail lives in `memory/archive/mail/YYYY/`, a source segment like `archive/inbox/`, not a
   domain segment.

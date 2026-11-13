@@ -208,7 +208,7 @@ lint-config:
     state:  [null, 800]
     todo_open_item_cap: 20
     index:  [3200, 4000]   # raised for this dataset (dataset/DESIGN.md, deviations); shipped value [1600, 2000]
-    people_index: [5000, 6500] # people/_index.md — raised for this dataset (dataset/DESIGN.md, deviations); shipped value [2300, 2900]
+    people_index: [20000, 25000] # people/_index.md — raised for this dataset (dataset/DESIGN.md, deviations), from slice 31; slices 1-30 ran with [5000, 6500]; shipped value [2300, 2900]
     topic:  [1600, 2800]
     entity: [1000, 1600]
   questions_grammar: "^- \[\d{4}-\d{2}-\d{2}\] (approval|conflict|fact)( · due \d{4}-\d{2}-\d{2})?( · asked \d+)? — "
