@@ -1,0 +1,186 @@
+{
+ "slice": 14,
+ "simulated_today": "2000-03-03",
+ "feed": {
+  "slice": 14,
+  "iso_week": "2000-W09",
+  "first_seq": 790,
+  "last_seq": 861,
+  "messages": 72,
+  "durable": 62,
+  "first_date": "2000-02-28 00:02",
+  "last_date": "2000-03-03 13:42",
+  "today": "2000-03-03",
+  "inbox_files": [
+   "2000-02-28--mail.md",
+   "2000-02-29--mail.md",
+   "2000-03-01--mail.md",
+   "2000-03-02--mail.md",
+   "2000-03-03--mail.md"
+  ],
+  "inbox_chars": 42620,
+  "l2_chars": 176401
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 649,
+ "quota_before": {
+  "five_hour": 89.0,
+  "seven_day": 14.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 92.0,
+  "seven_day": 15.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 14,
+  "messages": 72,
+  "durable": 62,
+  "kept": 60,
+  "kept_rate_excluding_redundant": 0.968,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 612,
+  "fact_lines_with_source": 546,
+  "dated": 546,
+  "date_matches_source": 541,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 536
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2003
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 65,
+   "chars": 102145
+  },
+  "people": {
+   "files": 85,
+   "chars": 70963
+  },
+  "archive_inbox": {
+   "files": 77,
+   "chars": 491910
+  },
+  "archive_mail": {
+   "files": 887,
+   "chars": 2107674
+  },
+  "archive_other": {
+   "files": 85,
+   "chars": 132287
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 73,
+   "duration_ms": 645872,
+   "duration_api_ms": 579185,
+   "total_cost_usd": 4.591363999999999,
+   "usage": {
+    "input_tokens": 126,
+    "cache_creation_input_tokens": 177937,
+    "cache_read_input_tokens": 8993320,
+    "output_tokens": 68435,
+    "output_tokens_details": {
+     "thinking_tokens": 15401
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 177937,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1044,
+      "cache_read_input_tokens": 208869,
+      "cache_creation_input_tokens": 859,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 859
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 126,
+     "outputTokens": 68435,
+     "cacheReadInputTokens": 8993320,
+     "cacheCreationInputTokens": 177937,
+     "webSearchRequests": 0,
+     "costUSD": 4.591363999999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 15401,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 177937,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 72,
+   "result_summary": "I ran the 2000-03-03 consolidation and committed it as `7026135`. Lint and sleep-audit were both green before the commit. I did not push: the run instructions say the runner pushes after its own checks, which overrides the push step at the end.\n\n**What went in:** all 62 messages with notes from week 2000-W09 (m00790–m00861) are filed. 60 are cited in memory, and 2 are listed in `dataset/drops/sleep-014.tsv`:\n- **m00814**: the owner's note \"Interview for Lee\". \"Lee\" is a bare name I couldn't tie to anyone.\n- **m00833**: Steven Leppard's out-of-office notice.\n\n**Main facts recorded:**\n- The KMV meeting in San Francisco on 20 March, after which the owner takes the rest of the week off.\n- The Bambos lunch moved to Saturday 4 March, with a $100K-a-year graduate-research plan that Tom Gros backs.\n- Rodney Greene's Houston interview is being arranged. Natasha Marwaha and Nurit Krausz are to be interviewed, and Grant Masson proposes bringing Tom Halliburton into Research.\n- Kirstee Hewitt was hired for London.\n- The owner accepted Australian Energy 2000, and Grant will speak in his place in Amsterdam.\n- The Credit Reserve Model is targeted for release at the end of March.\n- Ongoing EBS work: Project Hamachi, the CAIDA metrics group, and a planned offsite with John Griebling's engineers.\n\n**New files:**\n- Four people crossed five noted messages and got entity files: Kimberly Watson, Jim Irvine, Jean Mrha and Rodney Greene.\n- One new topic, `tips-inflation-model`.\n\n**Questions and checks:**\n- I added one question to `memory/questions.md`: whether to add \"Kim Watson\" as an alias for Kimberly Watson. The spelling matches no alias, so I didn't attach it myself.\n- No queued question was past its due date.\n- The five oldest ongoing lines are all still valid.\n- There was no sleep-task block.\n\n**Audit fix:** the first audit run was red. Three files had grown past the allowed limit: `recruiting-candidates`, `research-group` and `broadband-services`. I compressed them, moving the deta"
+  },
+  "repair": null
+ }
+}
