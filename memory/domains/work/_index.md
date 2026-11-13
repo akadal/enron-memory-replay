@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-06-25
+updated: 2000-06-30
 ---
 # Work — index
 
@@ -9,15 +9,16 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Turkish IPO options: risk-free rate "not appropriate" → memory/domains/work/turkish-ipo-options.md
-- London credit: Dhar or Shanbhogue for 8-12 weeks? → memory/domains/work/credit-markets.md
-- NG VaR backtest: historical vols fit → memory/domains/work/var-backtesting-2000.md
-- Mars (CDS) seeks an energy partner → memory/domains/work/mars-cds-weather.md
-- Nesbitt in Houston 5-7 Jul → memory/domains/work/vendor-offers-2000.md
+- Turkish options: illiquidity discount on top is double counting; price a short option like insurance → memory/domains/work/turkish-ipo-options.md
+- EBS V@R policy: volumetric control now, Research's V@R later → memory/domains/work/ebs-var-policy.md
+- Mars (CDS) video conference 30 Jun with Whalley → memory/domains/work/mars-cds-weather.md
+- Nesbitt Fri 7 Jul 9:00, put to Whalley's B2B unit → memory/domains/work/vendor-offers-2000.md
+- Lacima chapter 3 revisions; EPRM series under authors' names → memory/domains/work/lacima-book-2000.md
 
 ## Files
 
 - memory/domains/work/2000-02-20-london-trip.md
+- memory/domains/work/aga-storage-forecast.md — AGA forecasts
 - memory/domains/work/argentina-modelling.md
 - memory/domains/work/basis-report.md
 - memory/domains/work/broadband-services.md
@@ -32,6 +33,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/desk-analysis-requests.md
 - memory/domains/work/ebs-network-planning.md
 - memory/domains/work/ebs-storage-market.md
+- memory/domains/work/ebs-var-policy.md — EBS V@R
 - memory/domains/work/emission-trading-poland.md
 - memory/domains/work/ene-stock-drivers.md
 - memory/domains/work/enron-media-advertising.md
@@ -44,6 +46,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/internal-meetings.md
 - memory/domains/work/japan-merchant-business.md
 - memory/domains/work/kmi-database-license.md
+- memory/domains/work/lacima-book-2000.md — Lacima book, EPRM series
 - memory/domains/work/ljm-put-valuation.md
 - memory/domains/work/lng-book-2000.md
 - memory/domains/work/mars-cds-weather.md

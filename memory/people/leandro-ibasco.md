@@ -5,7 +5,7 @@ entity: person
 name: "Leandro Ibasco"
 aliases: ["Roy Ibasco", "Roy"]
 domains: [organization]
-updated: 2000-06-11
+updated: 2000-06-30
 ---
 # Leandro Ibasco
 
@@ -15,3 +15,4 @@ Research Group staff member, known as Roy (EB1948). ←[[m00410]] ←[[m00452]] 
 
 - [2000-01-27] Announced the group's foreign language lessons; the owner approved his Spanish classes. ←[[m00410]] ←[[m00452]]
 - [2000-06-09] Rotates out of Research into Henry Arora's group → memory/domains/organization/staff-and-recruiting.md ←[[m01951]] ←[[m01952]]
+- [2000-06-29] Leaves Enron 5 Jul for investment banking in Hong Kong → memory/domains/organization/staff-and-recruiting.md ←[[m02174]]
