@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-01-15
+updated: 2000-01-30
 ---
 # Personal — index
 
@@ -9,11 +9,11 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Stanford Parents Weekend Fri 25 Feb with Ludmila; AOL billing dispute → memory/domains/personal/household.md
-- Owner to London in February; Perlman dinner club; lunch with Tony Mends → memory/domains/personal/correspondence.md
-- Owner had a bad flu with complications late Dec 1999, missed Shannon Burchett's class → memory/domains/personal/correspondence.md
+- Stanford Parents Weekend Fri 25 Feb with Ludmila; AOL billing dispute; cell 713 410 5396 → memory/domains/personal/household.md
+- Lunch with Maruti More (week of 31 Jan); owner to London in February; Perlman dinner club → memory/domains/personal/correspondence.md
+- Adam T. (Gdansk) asks about summer work in Houston for Michal → memory/domains/personal/correspondence.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts and views (Stiglitz/IMF, Maruti More, Burchett, Tony Mends, Beth Perlman, Darlene Norris)
-- memory/domains/personal/household.md — owner's AOL account, home address and phone, Ludmila's check lists, Stanford Parents Weekend
+- memory/domains/personal/correspondence.md — private contacts and views (Stiglitz/IMF, Maruti More, Mends, Perlman, Norris, Marek, Adam T.)
+- memory/domains/personal/household.md — owner's AOL account, home address and phones, Ludmila's check lists, Stanford Parents Weekend

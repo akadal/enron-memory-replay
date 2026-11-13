@@ -5,7 +5,7 @@ entity: person
 name: "Robert Lee"
 aliases: ["Bob Lee"]
 domains: [organization, work]
-updated: 2000-01-23
+updated: 2000-01-30
 ---
 # Robert Lee
 
@@ -17,4 +17,4 @@ Outside candidate (rrlee@bizserve.com); the mail calls him "Robert (Bob) Lee". �
 
 ## Context: organization
 
-- [2000-01-10] Formal interview Mon 24 Jan, manager level → memory/domains/organization/recruiting-candidates.md ←[[m00206]] ←[[m00207]] ←[[m00215]] ←[[m00355]] ←[[m00357]]
+- [2000-01-10] Interviewed Mon 24 Jan, manager level; sees retail as his best fit → memory/domains/organization/recruiting-candidates.md ←[[m00206]] ←[[m00207]] ←[[m00215]] ←[[m00355]] ←[[m00357]] ←[[m00471]]
