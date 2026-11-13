@@ -1,27 +1,43 @@
 cff-version: 1.2.0
-message: "If you use eleman, please cite it as below."
-type: software
-title: "eleman: a personal memory core for AI assistants"
+message: "If you use this dataset, please cite it as below. A DOI will be added at the first frozen release."
+type: dataset
+title: "enron-memory-replay: a personal memory core replayed through the Enron kaminski-v mailbox"
 authors:
   - family-names: Akadal
     given-names: Emre
     orcid: "https://orcid.org/0000-0001-6817-0127"
     affiliation: "Istanbul University"
 abstract: >-
-  eleman is a repository that an AI assistant reads and writes as its long-term
-  memory: plain markdown files, a directory convention, a few standard-library
-  scripts and git underneath. New information enters through an append-only
-  inbox and is distilled into small, budgeted domain files by a periodic
-  consolidation run. It needs no service, database or API key, and works with
-  any agent that can read files.
-doi: 10.5281/zenodo.23975338
-repository-code: "https://github.com/akadal/eleman"
-url: "https://eleman.akadal.tr"
-license: MIT
+  An eleman memory core (an AI assistant's long-term memory kept as markdown in git) that lived
+  through one real mailbox: the kaminski-v mailbox of the CMU Enron corpus, 11,523 messages,
+  replayed in arrival order. Each message is kept verbatim, captured into short notes by a model,
+  and distilled by a weekly unattended consolidation; every distilled fact links to its source
+  message and a ledger accounts for every message.
+repository-code: "https://github.com/akadal/enron-memory-replay"
+license: CC-BY-4.0
 keywords:
   - agent memory
-  - AI assistants
+  - long-term memory
+  - memory consolidation
+  - Enron email corpus
   - large language models
-  - context window
-  - personal knowledge management
-  - markdown
+  - dataset
+references:
+  - type: conference-paper
+    title: "The Enron Corpus: A New Dataset for Email Classification Research"
+    authors:
+      - family-names: Klimt
+        given-names: Bryan
+      - family-names: Yang
+        given-names: Yiming
+    year: 2004
+    collection-title: "Machine Learning: ECML 2004"
+    start: 217
+    end: 226
+    doi: 10.1007/978-3-540-30115-8_22
+  - type: software
+    title: "eleman: a personal memory core for AI assistants"
+    authors:
+      - family-names: Akadal
+        given-names: Emre
+    doi: 10.5281/zenodo.23975338
