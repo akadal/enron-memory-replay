@@ -5,11 +5,11 @@ domain: industry
 title: "Owner's conference roles, 2000"
 summary: "CERAWeek 8-10 Feb; LSU seminar 3-4 Feb; Real Options NY Mar (confirmed); TFF San Antonio 7-8 Apr; Amsterdam 3-4 Apr; POWER 2000 chair 9 May; Risk 2000 Boston 13-14 Jun."
 status: active
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Owner's conference roles, 2000
 
-Events the owner only attends: memory/domains/industry/events-attending-2000.md
+Events the owner only attends: memory/domains/industry/events-attending-2000.md; declined: memory/domains/industry/declined-invitations-2000.md
 
 - [1999-12-21] CERAWeek 2000, Houston, 8-10 Feb: registered. ←[[m00078]]
 - [2000-01-04] LSU seminar visit (Jim Garven): owner chose Feb 3-4; Shirley Crenshaw tells Garven. ←[[m00134]]
