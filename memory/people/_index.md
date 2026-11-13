@@ -1,17 +1,17 @@
 ---
 type: index
-updated: 2000-04-14
+updated: 2000-04-21
 ---
 # People and organisations — index
 
-The alias table, read in full on every run (namesakes are caught here). One line each:
-`name — aliases — id`; the file is memory/people/<id>.md (its domains are in its frontmatter). Bare ids, not full paths: (?) status quo of 2000-03-31.
+Alias table, read whole each run: `name — aliases — id` (memory/people/<id>.md). Bare ids, no domains: (?) status quo 2000-03-31, 2000-04-21.
 
 ## Files
 
 - Adam Brulinski — — adam-brulinski
 - Alex Huang — — alex-huang
 - Amitava Dhar — — amitava-dhar
+- Andrew Fastow — Andy Fastow — andrew-fastow
 - Andrzej Wodnicki — — andrzej-wodnicki
 - Anjam Ahmad — — anjam-ahmad
 - Anthony Mends — Tony Mends — anthony-mends
@@ -40,7 +40,9 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Ehud Ronn — Ehud I. Ronn — ehud-ronn
 - Elizabeth Grant — — elizabeth-grant
 - Emma Wolfin — — emma-wolfin
+- Eugenio Perez — — eugenio-perez
 - Farouk Lalji — — farouk-lalji
+- Fred Lagrasta — — fred-lagrasta
 - Gary Hickerson — — gary-hickerson
 - Ginger Gamble — Ginger B Gamble — ginger-gamble
 - Giuseppe Paleologo — Gappy, Giuseppe Andrea Paleologo — giuseppe-paleologo
@@ -84,6 +86,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Les Clewlow — — les-clewlow
 - Li Xiao — — li-xiao
 - Linda Vargo — — linda-vargo
+- Lou Pai — Lou L Pai — lou-pai
 - Louise Kitchen — — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
 - Lyn Malina — — lyn-malina
@@ -118,6 +121,8 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Rodney Greene — — rodney-greene
 - Roman Zadorozhny — — roman-zadorozhny
 - Ronnie Chahal — — ronnie-chahal
+- Rudi Zipter — — rudi-zipter
+- Sally Beck — — sally-beck
 - Samer Takriti — — samer-takriti
 - Sandeep Kohli — — sandeep-kohli
 - Scott Yeager — — scott-yeager
@@ -131,6 +136,7 @@ The alias table, read in full on every run (namesakes are caught here). One line
 - Stinson Gibner — — stinson-gibner
 - Tanya Tamarchenko — — tanya-tamarchenko
 - Ted Murphy — — ted-murphy
+- Thomas Knudsen — — thomas-knudsen
 - Tom Gros — Thomas Gros — tom-gros
 - Trena McFarland — — trena-mcfarland
 - Trisha Tlapek — — trisha-tlapek

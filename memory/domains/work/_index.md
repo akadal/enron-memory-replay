@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-04-14
+updated: 2000-04-21
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Breckenridge offsite cancelled 11 Apr; Broadband tutorial in the works → memory/domains/work/broadband-services.md
+- Direct reports present to Delainey Mon 24 Apr 3 pm; Becky Pham 26 Apr, Corp vs ENA → memory/domains/work/internal-meetings.md
+- Nebraska 20 Apr; Navigant declined; CBOT manual; E&P model → memory/domains/work/outside-requests.md
+- EPRM article series proposed (Strickland, Clewlow); chapter owed → memory/domains/work/owner-publications.md
 - Talon/Raptor: PwC draft, Issler's MC model → memory/domains/work/talon-raptor.md
-- Abacus for Resco 25 Apr; Keane Spiderman; Stratus; D-G licence → memory/domains/work/vendor-offers-2000.md
-- IT/Credit lunch Wed 19 Apr; Delainey budget Fridays → memory/domains/work/internal-meetings.md
-- NY gas price data for Carson; Navigant study → memory/domains/work/outside-requests.md
+- Abacus for Resco 25 Apr; IDEAglobal wants contacts → memory/domains/work/vendor-offers-2000.md
 
 ## Files
 
@@ -47,7 +47,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/outside-requests.md — small asks (Nebraska, Dyer, JA)
 - memory/domains/work/owner-publications.md — book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
-- memory/domains/work/pse-swap-warsaw.md — PSE swap reserve
+- memory/domains/work/pse-swap-warsaw.md — PSE swap, Nowa Sarzyna
 - memory/domains/work/research-presentations.md — talks, BBLOP, training
 - memory/domains/work/rofr-valuation.md
 - memory/domains/work/south-america-curves.md
