@@ -1,10 +1,8 @@
 ---
 type: index
-updated: 2000-05-14
+updated: 2000-05-21
 ---
-# People and organisations — index
-
-Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
+# People — index
 
 ## Files
 
@@ -21,6 +19,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Aram Sogomonian — aram-sogomonian
 - Benjamin Parsons — Ben Parsons — benjamin-parsons
 - Beth Perlman — beth-perlman
+- Bjorn Hagelmann — bjorn-hagelmann
 - Brad McSherry — brad-mcsherry
 - Brad Romine — Bradley Romine — brad-romine
 - Bryan Seyfried — bryan-seyfried
@@ -36,11 +35,13 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Cliff Baxter — cliff-baxter
 - Dale Surbey — dale-surbey
 - Damian Goodburn — damian-goodburn
-- Dave Delainey — dave-delainey
 - Darrell Duffie — darrell-duffie
+- Dave Delainey — dave-delainey
 - David Cox — david-cox
+- David Gorte — Dave Gorte — david-gorte
 - David Walkup — David C. Walkup — david-walkup
 - Dawn Scovill — dawn-scovill
+- Debbie Brackett — Debbie R Brackett — debbie-brackett
 - Dorn Hetzel — dorn-hetzel
 - Doug Leach — doug-leach
 - Ed Krapels — ed-krapels
@@ -97,6 +98,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Li Xiao — li-xiao
 - Linda Vargo — linda-vargo
 - Lisa Ford — lisa-ford
+- Liz Taylor — Liz M Taylor — liz-taylor
 - Lou Pai — Lou L Pai — lou-pai
 - Louise Kitchen — louise-kitchen
 - Ludmila Kaminski — Ludmila — ludmila-kaminski
@@ -119,8 +121,8 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Nurit Krausz — nurit-krausz
 - Oliver Bennett — oliver-bennett
 - Osman Sezgen — osman-sezgen
-- Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
 - Paige Grumulaitis — paige-grumulaitis
+- Patrycja Dalecka — Patricia Dalecka — patrycja-dalecka
 - Paula Corey — paula-corey
 - Paulo Issler — paulo-issler
 - Paulo Rocha e Oliveira — Paulo Oliveira, Paulo Rocha — paulo-rocha-e-oliveira
@@ -140,6 +142,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Sally Beck — sally-beck
 - Samer Takriti — samer-takriti
 - Sandeep Kohli — sandeep-kohli
+- Scott Tholan — scott-tholan
 - Scott Yeager — scott-yeager
 - Sevil Yaman — sevil-yaman
 - Shalesh Ganjoo — shalesh-ganjoo
@@ -155,6 +158,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Ted Murphy — ted-murphy
 - Thomas Knudsen — thomas-knudsen
 - Tom Gros — Thomas Gros — tom-gros
+- Tom Halliburton — tom-halliburton
 - Trena McFarland — trena-mcfarland
 - Trisha Tlapek — trisha-tlapek
 - Vadim Pokhlebkin — vadim-pokhlebkin

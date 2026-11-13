@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-05-14
+updated: 2000-05-21
 ---
 # Work — index
 
@@ -9,18 +9,18 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Transwestern option sales vs revenue management, Tue 16 May → memory/domains/work/internal-meetings.md
-- Leppard's processing-power and bandwidth swing ideas to Bloomer; Hannon 11 May → memory/domains/work/broadband-services.md
-- Storage model (now SAM) sent to Duffie for audit 8 May → memory/domains/work/storage-model.md
-- Bambos visits Fri 26 May, dinner Thu with Hannon → memory/domains/work/stanford-research-ties.md
-- Keeter's network/QoS study Tue 23 May → memory/domains/work/ebs-network-planning.md
+- LNG: Elba Island book and hedge view; second tanker decision 19 May; EXMAR → memory/domains/work/lng-book-2000.md
+- Titman call Mon 22 May (Internet courses, Nabergall) → memory/domains/work/outside-requests.md
+- Keeter QoS study and "Gary Hickerson Trading", Tue 23 May → memory/domains/work/ebs-network-planning.md, memory/domains/work/internal-meetings.md
+- Bambos 25-26 May, no talk; letter of understanding → memory/domains/work/stanford-research-ties.md
+- SKG: owner to visit in Boston mid June → memory/domains/work/vendor-offers-2000.md
 
 ## Files
 
-- memory/domains/work/2000-02-20-london-trip.md — London trip, Feb 2000
+- memory/domains/work/2000-02-20-london-trip.md
 - memory/domains/work/argentina-modelling.md
 - memory/domains/work/basis-report.md
-- memory/domains/work/broadband-services.md — EBS support, offsite
+- memory/domains/work/broadband-services.md — EBS support
 - memory/domains/work/chicago-office-support.md
 - memory/domains/work/china-pipeline-real-options.md — China pipeline options
 - memory/domains/work/church-giving-forecast.md — Vernon's church regression
@@ -43,9 +43,10 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/japan-merchant-business.md — Japan business
 - memory/domains/work/kmi-database-license.md — KMI database licence
 - memory/domains/work/ljm-put-valuation.md — LJM puts
+- memory/domains/work/lng-book-2000.md — LNG book, Elba Island, tankers
 - memory/domains/work/model-risk-audit.md — 1999 model review
 - memory/domains/work/naphtha-caps-india.md — naphtha caps, India
-- memory/domains/work/outside-requests.md — small asks (Dyer, Carson, PGN)
+- memory/domains/work/outside-requests.md — small asks (Dyer, Titman)
 - memory/domains/work/owner-publications.md — book, column
 - memory/domains/work/promigas-tvcable-option.md — Promigas TVCable calls
 - memory/domains/work/pse-swap-warsaw.md — PSE swap, Nowa Sarzyna
