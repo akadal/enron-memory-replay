@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Work — index
 
@@ -9,18 +9,19 @@ Scope: the owner's own projects, models, deals and research.
 
 ## Hot
 
-- EIPL India MTM: plant-tied flows can't be marked → memory/domains/work/eipl-india-deal-mark-to-market.md
-- Promigas call: guarantee quotes 01-31 → memory/domains/work/promigas-tvcable-call-option.md
-- Sycamore Chelmsford 01-31; Amit 02-16 → memory/domains/work/bandwidth-pricing-research.md
-- EWRM implementation; NPPD visit → memory/domains/work/enterprise-wide-risk-management.md
+- Promigas guarantee model gets default probs → memory/domains/work/promigas-tvcable-call-option.md
+- Strickland book: credits, chapter; Houston 02-15 → memory/domains/work/clewlow-strickland-energy-book.md
+- Seyfried 02-11 9:00; London in Feb → memory/domains/work/standing-and-scheduled-meetings.md
+- Geman software, Chicago Partners, Cranfield student → memory/domains/work/outside-inquiries.md
 
 ## Files
 
 - memory/domains/work/enterprise-wide-risk-management.md — EWRM
-- memory/domains/work/eipl-india-deal-mark-to-market.md — India MTM
+- memory/domains/work/eipl-india-deal-mark-to-market.md — India MTM (open)
 - memory/domains/work/promigas-tvcable-call-option.md — Promigas
 - memory/domains/work/clewlow-strickland-energy-book.md — Strickland book
 - memory/domains/work/research-credit-model-convergence.md — credit model
+- memory/domains/work/correlation-matrix-stress-tool.md — correlation stress
 - memory/domains/work/bandwidth-pricing-research.md — bandwidth
 - memory/domains/work/outside-inquiries.md — outside asks
 - memory/domains/work/internal-advisory-requests.md — internal asks

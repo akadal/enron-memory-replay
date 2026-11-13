@@ -5,7 +5,7 @@ entity: person
 name: "Vince Kaminski"
 aliases: ["Vince J Kaminski"]
 domains: [industry, organization]
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Vince Kaminski
 
@@ -14,7 +14,7 @@ The owner of this memory. Title (his own words, for the POWER 2000 brochure): "V
 ## Context: industry
 
 - [1999-12-16] 2000 conference engagements → memory/domains/industry/conferences-2000.md ←[[m00039]]
-- [2000-01-28] AIESEC Houston invitations → memory/domains/industry/aiesec-houston.md ←[[m00461]]
+- [2000-01-28] AIESEC Houston invitations; worked for AIESEC Poland in the 1970s → memory/domains/industry/aiesec-houston.md ←[[m00461]] ←[[m00500]]
 
 ## Context: organization
 

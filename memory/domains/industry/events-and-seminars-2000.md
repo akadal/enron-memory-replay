@@ -3,15 +3,16 @@ id: events-and-seminars-2000
 type: topic
 domain: industry
 title: "Workshops the owner attends and seminar visits, early 2000"
-summary: "Jan 2000: UH power workshop Jan 12-13 and NYU Stern risk conference Jan 13-14 (registered); LSU visit Feb 3-4 (student talk Thu, faculty seminar Fri; reprints to Joan Payne, decks to Garven); Real Options E&P course Houston 2/22-4/4 (Ruane's group sends Jonalan Page)."
+summary: "Feb 2000: LSU visit Feb 3-4 done; UH talk for Ed Kao Mon Feb 7 evening; CERA E-Business workshop Feb 7 morning; MathWorks seminar Feb 10 (registered); Real Options E&P course skipped, Ruane referred. Jan workshops (UH, NYU) archived."
 status: active
-updated: 2000-01-30
+updated: 2000-02-06
 ---
 # Workshops and seminar visits, early 2000
 
-Speaking engagements → memory/domains/industry/conferences-2000.md
+Speaking engagements → memory/domains/industry/conferences-2000.md · January events (UH power workshop, NYU Stern) and fuller LSU detail ←[[events-and-seminars-2000-detail-2000-02-06]]
 
-- [2000-01-03] UH Energy Institute workshop "New Era in Electric Power Value Creation", 12–13 Jan 2000 (Texas SB 7, ERCOT, RTOs): owner asked [[shirley-crenshaw]] "Please, register me for this." ←[[m00130]]
-- [2000-01-05] NYU Stern "Risk Management: The State of the Art", New York, 13–14 Jan 2000: owner registered; Marriott Financial Center. ←[[m00152]]
-- [2000-01-04] LSU seminar visit (Jim Garven), 3–4 Feb 2000 ←[[m00134]]: students Thu 3 Feb (his group and its work, to draw resumes), faculty seminar Fri 4 Feb (energy markets' challenges to financial modelling); Shirley sent his bio. ←[[m00365]] ←[[m00366]] ←[[m00367]] [2000-01-26] Garven: send reprints to Joan Payne (Dept. of Finance, LSU), marked by session; email the PowerPoint files to him, to post for download if the owner agrees. ←[[m00449]]
-- [2000-01-25] Real Options E&P course (Larry Chorn), Houston, 2/22–4/4: owner asked Mark Ruane "Do u want to send anybody"; Ruane: "At least Jonalan Page, and me if I can swing it", and asked who goes from the owner's group. ←[[m00436]] ←[[m00448]]
+- [2000-01-04] LSU visit (Jim Garven), 3–4 Feb: students Thu, faculty seminar Fri. ←[[m00134]] ←[[m00365]] [2000-02-01] Garven wanted the papers in advance; reprints to Joan Payne, slides to Garven for posting. ←[[m00449]] ←[[m00517]] ←[[m00524]]
+- [2000-02-03] Ed Kao (UH): owner talks in his Risk Management in the Energy Sector course, Mon 7 Feb, 7:00–8:20 pm, 117 Melcher Hall; title "Commodity Trading in the Energy Sector", transparencies. ←[[m00536]] ←[[m00544]]
+- [2000-02-02] CERA workshop "Energy and E-Business" (E-Squared service launch), Mon 7 Feb 9–11, Westin Galleria: "Please register me and remind me abou it." ←[[m00531]]
+- [2000-01-31] MathWorks Aerospace/Defense seminar, Houston, 10 Feb: "Please, register me." ←[[m00489]]
+- [2000-01-31] Real Options E&P course (Larry Chorn), Houston, 2/22–4/4: "We are too busy. We shall skip it." Owner referred Mark Ruane to Chorn, "the best customer at Enron for real options applications". ←[[m00436]] ←[[m00501]] ←[[m00502]]
