@@ -4,8 +4,8 @@ type: topic
 domain: work
 title: "Robert Lee visit, 29 Dec 1999"
 summary: "Bob Lee (rrlee@bizserve.com) visits the owner's office 1999-12-29 09:00; confirmed."
-status: active
-updated: 1999-12-12
+status: closed
+updated: 2000-01-23
 ---
 # Robert Lee visit, 29 Dec 1999
 

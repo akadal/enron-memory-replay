@@ -5,7 +5,7 @@ entity: person
 name: "Shirley Crenshaw"
 aliases: []
 domains: [organization, work, industry]
-updated: 2000-01-15
+updated: 2000-01-23
 ---
 # Shirley Crenshaw
 
@@ -21,6 +21,7 @@ The owner's assistant; Research Group administrator, EB 1961, ext. 3-5290. ←[[
 ## Context: work
 
 - [1999-12-10] Keeps the owner's meeting schedule → memory/domains/work/internal-meetings.md ←[[m00008]] ←[[m00121]] ←[[m00124]] ←[[m00198]]
+- [2000-01-18] Sent the EWRM notes → memory/domains/work/enterprise-risk-management.md ←[[m00374]]
 
 ## Context: industry
 

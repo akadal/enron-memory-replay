@@ -5,7 +5,7 @@ domain: organization
 title: "The owner's Research Group"
 summary: "Members, 19th-floor offices (renumbered Jan 2000), extensions, admin routines, lunches, Research Projects Tracking database."
 status: active
-updated: 2000-01-15
+updated: 2000-01-23
 ---
 # The owner's Research Group
 
@@ -13,7 +13,7 @@ updated: 2000-01-15
 
 - [1999-12-10→] Members: Stinson Gibner, Joseph Hrgovcic, Paulo Issler, Krishna Krishnarao, Martin Lin, Grant Masson, Kevin Moore, Maureen Raymond, Mike Roberts, Vasant Shanbhogue, Vincent Tang, Ravi Thuraisingham, Zimin Lu. ←[[m00004]]
 - [1999-12-13→] Wider list adds Takriti (Azurix), Dhar, Huang, Kindall, Sezgen (EES), Tamarchenko, Prevatt, Sergeev, Tlapek, R. Zadorozhny, Angelova, Sokolov; the Jan party list also Kollaros, Chahal (EES), Lalji. ←[[m00010]] ←[[m00138]]
-- [2000-01-10→] 19th floor, rooms 1938-1973, renumbered on move day: owner EB 1962 (ext. 3-3848), Crenshaw EB 1961 (3-5290); team room 1938, conference room 19C2 (roster in source). ←[[m00201]] ←[[m00121]]
+- [2000-01-10→] 19th floor, rooms 1938-1973, renumbered on move day: owner EB 1962 (ext. 3-3848), Crenshaw EB 1961 (3-5290); team room 1938, conference room 19C2 (roster in source). ←[[m00201]] ←[[m00121]] ←[[m00352]] ←[[m00392]] ←[[m00395]]
 - [1999-12-10→] Crenshaw ran the move; Gibner (3-4748) is the owner's associate. ←[[m00004]] ←[[m00008]] ←[[m00003]]
 
 ## Admin
