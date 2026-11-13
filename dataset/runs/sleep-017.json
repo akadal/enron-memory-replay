@@ -1,0 +1,185 @@
+{
+ "slice": 17,
+ "simulated_today": "2000-03-26",
+ "feed": {
+  "slice": 17,
+  "iso_week": "2000-W12",
+  "first_seq": 1046,
+  "last_seq": 1073,
+  "messages": 28,
+  "durable": 23,
+  "first_date": "2000-03-20 03:00",
+  "last_date": "2000-03-26 23:57",
+  "today": "2000-03-26",
+  "inbox_files": [
+   "2000-03-20--mail.md",
+   "2000-03-21--mail.md",
+   "2000-03-22--mail.md",
+   "2000-03-23--mail.md",
+   "2000-03-24--mail.md",
+   "2000-03-25--mail.md",
+   "2000-03-26--mail.md"
+  ],
+  "inbox_chars": 18329,
+  "l2_chars": 73872
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 496,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 29.0,
+  "seven_day": 20.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 17,
+  "messages": 28,
+  "durable": 23,
+  "kept": 22,
+  "kept_rate_excluding_redundant": 0.957,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 779,
+  "fact_lines_with_source": 648,
+  "dated": 648,
+  "date_matches_source": 640,
+  "date_mismatch_ids_this_slice": [
+   "m01068"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 549
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2612
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 71,
+   "chars": 117523
+  },
+  "people": {
+   "files": 109,
+   "chars": 88152
+  },
+  "archive_inbox": {
+   "files": 100,
+   "chars": 626756
+  },
+  "archive_mail": {
+   "files": 1099,
+   "chars": 2717004
+  },
+  "archive_other": {
+   "files": 131,
+   "chars": 204261
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 42,
+   "duration_ms": 495098,
+   "duration_api_ms": 427555,
+   "total_cost_usd": 2.989458000000001,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 140194,
+    "cache_read_input_tokens": 4538590,
+    "output_tokens": 47993,
+    "output_tokens_details": {
+     "thinking_tokens": 23309
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 140194,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 925,
+      "cache_read_input_tokens": 170839,
+      "cache_creation_input_tokens": 1146,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1146
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 47993,
+     "cacheReadInputTokens": 4538590,
+     "cacheCreationInputTokens": 140194,
+     "webSearchRequests": 0,
+     "costUSD": 2.989458000000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23309,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 140194,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 41,
+   "result_summary": "I ran the 2000-03-26 consolidation and made one commit (`897586c`). I did not push: your instructions say both \"do not push\" and \"git push origin main\", so I followed \"do not push\" and left the push to the runner. Lint and sleep-audit both came back green. The audit was red twice before that: three topic files grew past the RATCHET limit, so I compressed them; and I had appended this run's log to an inbox file being archived, which L2 forbids, so the log went into a new `archive/inbox/2000-03-26--mail-2.md` instead. Of the 23 noted messages this week, 22 are cited in L1 and one, m01070 (a phone number and a donation-form reminder), is listed in `dataset/drops/sleep-017.tsv`. The main new facts:\n- **Helyette Geman:** the owner will push Enron's lawyers on her software licence, with two sites, Houston and probably London. He agreed to repeat the Frankfurt talk in Paris on 4-5 Oct and to chair a session at the Bachelier World Congress.\n- **Talks:** Risk 2000 in Boston (12-15 Jun) confirmed him as a speaker, and he gives the first talk in the group's new Friday lunch series on 31 Mar.\n- **Models:** Anjam Ahmad's short-term UK price-index models are ready for checking in Houston; Prof. Duffie is auditing Zimin Lu's storage model.\n- **Company news:** Moody's upgraded Enron to Baa1, and SAP HR time keeping goes live by 1 Jul.\n- **People:** Jason Sokolov was recommended to Ted Murphy for the summer. Li Xiao and Robert Rudy each reached five noted messages and got their own person files.\n\nOne conflict is still open. The Breckenridge offsite was set for 21-23 Apr, but a hotel contract email dated 23 Mar uses 27-30 Apr. I kept both dates, marked the newer one as disputed, and added a question to `questions.md`. I closed the \"Paulo Oleira\" alias question without an answer because its due date had passed, keeping the two names apart. I moved older detail from fourteen topic files into `-2000-03-w12` archive files. No file was above 90% of its size limit, so the rule to compress "
+  },
+  "repair": null
+ }
+}
