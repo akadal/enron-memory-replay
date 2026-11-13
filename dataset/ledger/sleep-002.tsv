@@ -1,0 +1,9 @@
+id	durable	status	detail
+m00002	yes	kept	domains/industry/eprm-monte-carlo-course.md
+m00003	yes	kept	domains/industry/eprm-monte-carlo-course.md people/stinson-gibner.md
+m00004	yes	kept	domains/organization/research-group-19th-floor-move.md people/pinnamaneni-krishnarao.md people/shirley-crenshaw.md people/stinson-gibner.md
+m00005	yes	kept	domains/organization/1999-12-10-rankings.md
+m00006	no	not_durable	pleasantry
+m00007	yes	kept	domains/work/maharashtra-naphtha-caps.md people/pinnamaneni-krishnarao.md
+m00008	yes	kept	domains/work/1999-12-29-robert-lee-visit.md people/shirley-crenshaw.md people/stinson-gibner.md
+m00009	no	not_durable	logistics
