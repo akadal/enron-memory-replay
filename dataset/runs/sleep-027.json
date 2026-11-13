@@ -1,0 +1,188 @@
+{
+ "slice": 27,
+ "simulated_today": "2000-06-04",
+ "feed": {
+  "slice": 27,
+  "iso_week": "2000-W22",
+  "first_seq": 1846,
+  "last_seq": 1909,
+  "messages": 64,
+  "durable": 47,
+  "first_date": "2000-05-29 04:42",
+  "last_date": "2000-06-04 18:42",
+  "today": "2000-06-04",
+  "inbox_files": [
+   "2000-05-29--mail.md",
+   "2000-05-30--mail.md",
+   "2000-05-31--mail.md",
+   "2000-06-01--mail.md",
+   "2000-06-02--mail.md",
+   "2000-06-03--mail.md",
+   "2000-06-04--mail.md"
+  ],
+  "inbox_chars": 36532,
+  "l2_chars": 136619
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 751,
+ "quota_before": {
+  "five_hour": 81.0,
+  "seven_day": 28.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 83.0,
+  "seven_day": 29.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 27,
+  "messages": 64,
+  "durable": 47,
+  "kept": 45,
+  "kept_rate_excluding_redundant": 0.978,
+  "drop_classes": {
+   "other": 1,
+   "redundant": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1098,
+  "fact_lines_with_source": 856,
+  "dated": 856,
+  "date_matches_source": 843,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 720
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2095
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 87,
+   "chars": 144195
+  },
+  "people": {
+   "files": 183,
+   "chars": 139811
+  },
+  "archive_inbox": {
+   "files": 164,
+   "chars": 1120800
+  },
+  "archive_mail": {
+   "files": 1935,
+   "chars": 4854946
+  },
+  "archive_other": {
+   "files": 320,
+   "chars": 396324
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 61,
+   "duration_ms": 750180,
+   "duration_api_ms": 682843,
+   "total_cost_usd": 4.5831296,
+   "usage": {
+    "input_tokens": 110,
+    "cache_creation_input_tokens": 190265,
+    "cache_read_input_tokens": 7794648,
+    "output_tokens": 75082,
+    "output_tokens_details": {
+     "thinking_tokens": 33653
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 190265,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 878,
+      "cache_read_input_tokens": 221744,
+      "cache_creation_input_tokens": 312,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 312
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 110,
+     "outputTokens": 75082,
+     "cacheReadInputTokens": 7794648,
+     "cacheCreationInputTokens": 190265,
+     "webSearchRequests": 0,
+     "costUSD": 4.5831296,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 33653,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 190265,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 60,
+   "result_summary": "The 2000-06-04 consolidation for week 2000-W22 is committed as one commit (`1207750`). Lint and sleep-audit both passed on the first try, and the audit passes again on the commit itself; I did not push, since the brief says the runner pushes after its own checks.\n\n- **Coverage:** of 64 messages, 47 had notes. 45 are cited in memory, and 2 are listed in `dataset/drops/sleep-027.tsv` (m01898 and m01902, the same link the owner sent to himself twice).\n- **Two new files:** `storage-book-var.md`, the owner tracing wrong VaR numbers on the gas storage book to forward-forward vols, and `university-relations.md`, his memo to Skilling proposing a VP/MD role to coordinate university ties. About 20 other topic files and the four indexes were updated, along with `state.md`.\n- **Toronto date:** settled from the source. Boyle thanked the owner on 30 May for coming, so the talk was on 29 May, and that question is closed.\n- **Unanswered question closed:** the 2000-04-28 question on the alias-table format passed its due date, so the short form stays.\n- **New people files:** nine people reached five messages: James Steffes, Sanjeev Khanna, Teresa Bien, Ding Yuan, Tom Piazze, Stephen Bramlett, Traci Warner, Lucy Ortiz and Joseph Hirl. Hirl should have had a file in April; that run missed his fifth message.\n- **Alias table:** to fit the nine new rows under the audit's size limit, I moved 11 aliases out of the people index into the entity files. They are spelled-out first names, initials-only forms or misspellings (for example \"Jeffrey A Shankman\" and \"April Hodges\"). The index is now at 6166 characters, 9 short of the limit, so next week will need the budget question in `questions.md` answered or more trimming.\n- **Two new questions:** whether \"Peyton S. Gibner\" is Stinson Gibner, and whether \"Richard L Carson\" is Rick Carson. If he is, Rick Carson also reaches five messages and gets a file.\n- **Other checks:** older lines in the updated files moved to week-22 archive files. The five o"
+  },
+  "repair": null
+ }
+}
