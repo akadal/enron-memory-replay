@@ -1,0 +1,184 @@
+{
+ "slice": 12,
+ "simulated_today": "2000-02-19",
+ "feed": {
+  "slice": 12,
+  "iso_week": "2000-W07",
+  "first_seq": 608,
+  "last_seq": 714,
+  "messages": 107,
+  "durable": 97,
+  "first_date": "2000-02-14 00:19",
+  "last_date": "2000-02-19 17:13",
+  "today": "2000-02-19",
+  "inbox_files": [
+   "2000-02-14--mail.md",
+   "2000-02-15--mail.md",
+   "2000-02-16--mail.md",
+   "2000-02-17--mail.md",
+   "2000-02-18--mail.md",
+   "2000-02-19--mail.md"
+  ],
+  "inbox_chars": 68619,
+  "l2_chars": 246178
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 1003,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 77.0,
+  "seven_day": 12.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 12,
+  "messages": 107,
+  "durable": 97,
+  "kept": 96,
+  "kept_rate_excluding_redundant": 0.99,
+  "drop_classes": {
+   "social": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 488,
+  "fact_lines_with_source": 467,
+  "dated": 467,
+  "date_matches_source": 463,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 597
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2104
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 63,
+   "chars": 95345
+  },
+  "people": {
+   "files": 70,
+   "chars": 59615
+  },
+  "archive_inbox": {
+   "files": 63,
+   "chars": 399556
+  },
+  "archive_mail": {
+   "files": 740,
+   "chars": 1663177
+  },
+  "archive_other": {
+   "files": 52,
+   "chars": 71003
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 77,
+   "duration_ms": 1000947,
+   "duration_api_ms": 742889,
+   "total_cost_usd": 5.353707000000001,
+   "usage": {
+    "input_tokens": 122,
+    "cache_creation_input_tokens": 212106,
+    "cache_read_input_tokens": 9705255,
+    "output_tokens": 85766,
+    "output_tokens_details": {
+     "thinking_tokens": 31270
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 212106,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 997,
+      "cache_read_input_tokens": 243529,
+      "cache_creation_input_tokens": 368,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 368
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 122,
+     "outputTokens": 85766,
+     "cacheReadInputTokens": 9705255,
+     "cacheCreationInputTokens": 212106,
+     "webSearchRequests": 0,
+     "costUSD": 5.353707000000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 31270,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 212106,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 76,
+   "result_summary": "I ran the 2000-02-19 consolidation for week 2000-W07 and committed it as one commit (`sleep: 2000-02-19 consolidation…`). Lint and sleep-audit were both green before the commit. I did not push: your replay instructions say the runner pushes after its own checks, which overrides the generic \"git push\" line.\n\n**Messages.** The week had 107 messages, 97 with notes. 96 are cited in memory; one is listed in `dataset/drops/sleep-012.tsv`: m00674, the owner thanking Tom Arnold for his paper.\n\n**What went in:**\n- **The owner's London trip, 20–23 Feb:** dinner with the London team, five candidate interviews, his IIR real-options talk, RiskCare joint-venture talks and a meeting with John Sherriff, then San Francisco; back 28 Feb.\n- **Stanford:** a follow-up with Prof. Nick Bambos, with Tom Gros willing to fund sponsored research.\n- **Summer interns** join the regular A/A summer class (Charlene Jackson's rules).\n- **Work items:** the KMI database licence, Issler's LJM pricing (about 100 MM year-end credit loss), the owner's doubts about the credit model's default probabilities, FAS 133.\n- **Other news:** EBS management changes, Geman's Berlin workshop accepted, AIESEC Polska's funding request, and the owner's wife's name spelling (Kaminski, not Kaminsky).\n\n**New files:**\n- Five topic files: London trip, Stanford ties, KMI licence, FAS 133, summer interns.\n- Ten entity files for people who reached five noted messages: Sezgen, Gros, Celeste Roberts, Charlene Jackson, Griebling, Bambos, Carson, Rensink, Supatgiat and Rocha e Oliveira.\n\n**Compression.** I moved older detail from 14 topic files into `memory/archive/<domain>/2000/*-w07.md`, so no file over its target grew past the allowed amount. No file was above 90% of its ceiling, so the three-file compression quota did not apply. The five oldest ongoing lines are still valid.\n\n**Questions:**\n- **Closed:** the Tlapek alias question was past its due date and closed unanswered; the two spellings stay unattached and are marked `(?)`"
+  },
+  "repair": null
+ },
+ "inbox_files_left_first_check": 1,
+ "note": "The runner stopped here although the slice was clean: the run logged a status-quo close to memory/inbox/2000-02-19--mail.md, as the preamble asks, and that is also the name of the day's fed file, which the run had archived. The runner counted the name; it now counts fed files that still hold mail blocks. All other gates were green."
+}

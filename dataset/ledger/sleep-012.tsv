@@ -1,0 +1,108 @@
+id	durable	status	detail
+m00608	yes	kept	domains/work/broadband-services.md people/stinson-gibner.md
+m00609	yes	kept	domains/industry/speaking-engagements-2000.md people/helyette-geman.md
+m00610	yes	kept	domains/industry/speaking-engagements-2000.md people/helyette-geman.md
+m00611	yes	kept	domains/organization/staff-and-recruiting.md people/alex-huang.md
+m00612	yes	kept	domains/organization/recruiting-candidates.md people/grant-masson.md
+m00613	yes	kept	domains/organization/software-licenses.md
+m00614	yes	kept	domains/work/2000-02-20-london-trip.md people/anjam-ahmad.md people/benjamin-parsons.md people/steven-leppard.md
+m00615	yes	kept	domains/organization/software-licenses.md domains/organization/staff-and-recruiting.md people/chonawee-supatgiat.md
+m00616	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/london-research.md domains/work/2000-02-20-london-trip.md people/benjamin-parsons.md
+m00617	yes	kept	domains/work/fas133-implementation.md people/zimin-lu.md
+m00618	yes	kept	domains/work/ljm-put-valuation.md people/paulo-issler.md
+m00619	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00620	yes	kept	domains/work/broadband-services.md people/tom-gros.md
+m00621	no	not_durable	pleasantry
+m00622	no	not_durable	automated
+m00623	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/household.md
+m00624	yes	kept	domains/organization/recruiting-candidates.md
+m00625	yes	kept	domains/work/internal-meetings.md people/pinnamaneni-krishnarao.md
+m00626	no	not_durable	automated
+m00627	yes	kept	domains/organization/staff-and-recruiting.md
+m00628	yes	kept	domains/work/internal-meetings.md
+m00629	yes	kept	domains/work/owner-publications.md people/chris-strickland.md
+m00630	yes	kept	domains/work/ljm-put-valuation.md people/paulo-issler.md
+m00631	yes	kept	domains/organization/recruiting-candidates.md people/celeste-roberts.md
+m00632	yes	kept	domains/work/broadband-services.md people/john-griebling.md people/martin-lin.md people/ravi-thuraisingham.md
+m00633	yes	kept	domains/organization/staff-and-recruiting.md people/alex-huang.md
+m00634	yes	kept	domains/work/kmi-database-license.md people/ravi-thuraisingham.md
+m00635	yes	kept	domains/industry/speaking-engagements-2000.md
+m00636	yes	kept	domains/organization/recruiting-candidates.md
+m00637	yes	kept	domains/organization/london-research.md people/anjam-ahmad.md people/zimin-lu.md
+m00638	yes	kept	domains/work/storage-model.md people/zimin-lu.md
+m00639	yes	kept	domains/work/internal-meetings.md
+m00640	no	not_durable	logistics
+m00641	yes	kept	domains/work/internal-meetings.md
+m00642	yes	kept	domains/work/day-rate-hedge.md domains/work/fas133-implementation.md
+m00643	no	not_durable	logistics
+m00644	yes	kept	domains/organization/leave-and-training.md people/brad-mcsherry.md people/tanya-tamarchenko.md
+m00645	yes	kept	domains/industry/speaking-engagements-2000.md people/helyette-geman.md
+m00646	yes	kept	domains/industry/speaking-engagements-2000.md
+m00647	yes	kept	domains/organization/london-research.md people/benjamin-parsons.md
+m00648	yes	kept	domains/work/ljm-put-valuation.md people/paulo-issler.md people/william-bradford.md
+m00649	yes	kept	domains/work/owner-publications.md people/grant-masson.md people/ronnie-chahal.md
+m00650	yes	kept	domains/organization/london-research.md people/anjam-ahmad.md people/benjamin-parsons.md people/steven-leppard.md
+m00651	yes	kept	domains/work/outside-requests.md people/osman-sezgen.md
+m00652	yes	kept	domains/industry/speaking-engagements-2000.md people/lenos-trigeorgis.md
+m00653	yes	kept	domains/work/outside-requests.md people/osman-sezgen.md
+m00654	no	not_durable	quote_only
+m00655	yes	kept	domains/work/outside-requests.md people/margaret-carson.md people/maureen-raymond.md
+m00656	yes	kept	domains/work/outside-requests.md people/margaret-carson.md people/maureen-raymond.md
+m00657	yes	kept	domains/industry/speaking-engagements-2000.md people/zimin-lu.md
+m00658	yes	kept	domains/organization/corporate-announcements-2000.md people/greg-whalley.md people/kevin-hannon.md
+m00659	yes	kept	domains/organization/recruiting-candidates.md
+m00660	yes	kept	domains/organization/leave-and-training.md people/brad-mcsherry.md people/tanya-tamarchenko.md
+m00661	no	not_durable	logistics
+m00662	yes	kept	domains/organization/summer-interns-2000.md people/celeste-roberts.md people/charlene-jackson.md
+m00663	yes	kept	domains/work/outside-requests.md people/osman-sezgen.md
+m00664	yes	kept	domains/work/outside-requests.md people/osman-sezgen.md
+m00665	yes	kept	domains/organization/recruiting-candidates.md
+m00666	yes	kept	domains/work/internal-meetings.md
+m00667	yes	kept	domains/industry/aiesec-houston.md
+m00668	yes	kept	domains/work/vendor-offers-2000.md people/anjam-ahmad.md people/manuel-rensink.md
+m00669	yes	kept	domains/organization/summer-interns-2000.md people/ravi-thuraisingham.md people/tom-gros.md
+m00670	yes	kept	domains/work/vega-var.md people/william-bradford.md
+m00671	yes	kept	domains/organization/summer-interns-2000.md
+m00672	yes	kept	domains/organization/staff-and-recruiting.md
+m00673	yes	kept	domains/work/outside-requests.md
+m00674	yes	dropped	social: owner thanks Tom Arnold (LSU) for his paper, will read it on the plane
+m00675	yes	kept	domains/work/2000-02-20-london-trip.md
+m00676	yes	kept	domains/work/vendor-offers-2000.md people/manuel-rensink.md
+m00677	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md people/ravi-thuraisingham.md people/tom-gros.md
+m00678	yes	kept	domains/organization/summer-interns-2000.md
+m00679	yes	kept	domains/organization/summer-interns-2000.md people/paulo-rocha-e-oliveira.md people/tom-gros.md
+m00680	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00681	yes	kept	domains/work/2000-02-20-london-trip.md people/anjam-ahmad.md people/dale-surbey.md people/john-sherriff.md people/steven-leppard.md
+m00682	yes	kept	domains/organization/staff-and-recruiting.md people/alex-huang.md
+m00683	yes	kept	domains/work/fas133-implementation.md
+m00684	yes	kept	domains/organization/summer-interns-2000.md people/ravi-thuraisingham.md
+m00685	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md people/tom-gros.md
+m00686	yes	kept	domains/organization/recruiting-candidates.md
+m00687	yes	kept	domains/work/2000-02-20-london-trip.md domains/work/vendor-offers-2000.md people/dale-surbey.md people/manuel-rensink.md
+m00688	yes	kept	domains/organization/london-research.md
+m00689	yes	kept	domains/organization/london-research.md
+m00690	yes	kept	domains/work/kmi-database-license.md
+m00691	yes	kept	domains/organization/recruiting-candidates.md people/elizabeth-grant.md people/osman-sezgen.md people/pinnamaneni-krishnarao.md
+m00692	yes	kept	domains/organization/summer-interns-2000.md people/tom-gros.md
+m00693	no	not_durable	logistics
+m00694	no	not_durable	quote_only
+m00695	yes	kept	domains/work/vega-var.md people/william-bradford.md
+m00696	no	not_durable	bulk
+m00697	yes	kept	domains/organization/office-equipment.md
+m00698	yes	kept	domains/organization/summer-interns-2000.md
+m00699	yes	kept	domains/industry/aiesec-houston.md
+m00700	yes	kept	domains/work/outside-requests.md people/pinnamaneni-krishnarao.md
+m00701	yes	kept	domains/organization/summer-interns-2000.md people/celeste-roberts.md people/charlene-jackson.md people/paulo-rocha-e-oliveira.md
+m00702	yes	kept	domains/organization/recruiting-candidates.md people/osman-sezgen.md
+m00703	yes	kept	domains/organization/recruiting-candidates.md people/osman-sezgen.md
+m00704	yes	kept	domains/industry/speaking-engagements-2000.md
+m00705	yes	kept	domains/organization/london-research.md
+m00706	yes	kept	domains/work/broadband-services.md people/john-griebling.md people/stinson-gibner.md
+m00707	yes	kept	domains/organization/london-research.md
+m00708	yes	kept	domains/organization/london-research.md
+m00709	yes	kept	domains/organization/summer-interns-2000.md
+m00710	yes	kept	domains/personal/household.md domains/work/2000-02-20-london-trip.md
+m00711	yes	kept	domains/organization/summer-interns-2000.md people/john-griebling.md people/paulo-rocha-e-oliveira.md
+m00712	yes	kept	domains/organization/summer-interns-2000.md people/ravi-thuraisingham.md
+m00713	yes	kept	domains/work/broadband-services.md people/ravi-thuraisingham.md
+m00714	yes	kept	domains/work/kmi-database-license.md
