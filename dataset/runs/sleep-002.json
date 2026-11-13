@@ -1,0 +1,170 @@
+{
+ "slice": 2,
+ "simulated_today": "1999-12-12",
+ "feed": {
+  "slice": 2,
+  "iso_week": "1999-W49",
+  "first_seq": 2,
+  "last_seq": 9,
+  "messages": 8,
+  "durable": 6,
+  "first_date": "1999-12-10 05:12",
+  "last_date": "1999-12-12 07:22",
+  "today": "1999-12-12",
+  "inbox_files": [
+   "1999-12-10--mail.md",
+   "1999-12-12--mail.md"
+  ],
+  "inbox_chars": 4386,
+  "l2_chars": 14111
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 150,
+ "quota_before": {
+  "five_hour": 28.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 2,
+  "messages": 8,
+  "durable": 6,
+  "kept": 6,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 7,
+  "fact_lines_with_source": 16,
+  "dated": 16,
+  "date_matches_source": 15,
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   null,
+   1.0,
+   1.0,
+   null,
+   null
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 500
+  },
+  "questions": {
+   "files": 1,
+   "chars": 590
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 10,
+   "chars": 7794
+  },
+  "people": {
+   "files": 9,
+   "chars": 3998
+  },
+  "archive_inbox": {
+   "files": 3,
+   "chars": 4992
+  },
+  "archive_mail": {
+   "files": 35,
+   "chars": 87030
+  },
+  "archive_other": {
+   "files": 0,
+   "chars": 0
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 40,
+   "duration_ms": 148576,
+   "duration_api_ms": 137832,
+   "total_cost_usd": 1.67556,
+   "usage": {
+    "input_tokens": 26,
+    "cache_creation_input_tokens": 60089,
+    "cache_read_input_tokens": 1103530,
+    "output_tokens": 20911,
+    "output_tokens_details": {
+     "thinking_tokens": 6101
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 60089,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 559,
+      "cache_read_input_tokens": 107037,
+      "cache_creation_input_tokens": 583,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 583
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 26,
+     "outputTokens": 20911,
+     "cacheReadInputTokens": 1103530,
+     "cacheCreationInputTokens": 60089,
+     "webSearchRequests": 0,
+     "costUSD": 1.67556,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 6101,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 39,
+   "result_summary": "Consolidation for 1999-12-12 is committed as `9424d0a`. I did not push, because the runner pushes after its own checks. Lint and the sleep audit were both green before the commit, so no repair or reset was needed.\n\nAll six messages that had notes (m00002, m00003, m00004, m00005, m00007, m00008) are kept and cited. `dataset/drops/sleep-002.tsv` is therefore committed empty. m00006 and m00009 had no notes, so neither needed a drop line.\n\n**New topic files (5):**\n- **EPRM speaker request:** the owner recommended Stinson Gibner.\n- **19th-floor move:** the office list for the research group.\n- **Naphtha cap pricing:** Krishnarao's cap premiums for the Maharashtra power deal.\n- **Robert Lee visit:** a confirmed visit to the owner's office on 1999-12-29.\n- **Rankings sent to Brad McSherry:** only the fact that they were sent; the message body has no ranking content.\n\nI also added six entity files and updated the indexes, `state.md` and the alias table.\n\n**One question queued:** `questions.md` asks whether \"Krishna Krishnarao\" in the office list is Pinnamaneni Krishnarao. Adding an alias is an approval gate, so I did not apply it.\n\nI archived both processed inbox logs. There was no sleep-task block, and there was nothing to compress or rotate. The only ongoing line that qualified for rotation is the vega-capture line, which is still valid. The commit left two unrelated files outside it: `dataset/runs/stderr.log` and the untracked `dataset/runs/sleep-002.transcript.jsonl`."
+  },
+  "repair": null
+ }
+}

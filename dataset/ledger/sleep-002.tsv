@@ -1,0 +1,9 @@
+id	durable	status	detail
+m00002	yes	kept	domains/industry/eprm-monte-carlo-speaker.md people/helen-evans.md
+m00003	yes	kept	domains/industry/eprm-monte-carlo-speaker.md people/stinson-gibner.md
+m00004	yes	kept	domains/organization/research-group-19th-floor-move.md people/shirley-crenshaw.md people/stinson-gibner.md
+m00005	yes	kept	domains/organization/rankings-for-brad-mcsherry.md people/brad-mcsherry.md
+m00006	no	not_durable	pleasantry
+m00007	yes	kept	domains/work/naphtha-cap-pricing.md people/pinnamaneni-krishnarao.md
+m00008	yes	kept	domains/work/1999-12-29-robert-lee-visit.md people/robert-lee.md people/shirley-crenshaw.md
+m00009	no	not_durable	logistics
