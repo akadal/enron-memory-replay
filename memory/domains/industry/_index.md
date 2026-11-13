@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Industry — index
 
@@ -9,8 +9,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- UH power workshop 2000-01-12/13 and NYU Stern risk conference 2000-01-13/14; LSU visit Feb 3-4 → memory/domains/industry/events-and-seminars-2000.md
-- 2000 talks: CERAWeek Feb, Real Options NY March (confirmed), Amsterdam Apr, TFF Apr 7-8, POWER May 9, Risk 2000 Jun → memory/domains/industry/conferences-2000.md
+- LSU visit Feb 3-4 → memory/domains/industry/events-and-seminars-2000.md
+- 2000 talks: CERAWeek Feb, Real Options NY March (confirmed), Amsterdam Apr, TFF Apr 7-8, POWER May 9, Risk 2000 Jun; declined Infocast, IIR → memory/domains/industry/conferences-2000.md
 - Benjamin Parsons asks: both EPRM events or prioritise? (1999-12-20) → memory/domains/industry/eprm-monte-carlo-course.md
 
 ## Files

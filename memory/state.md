@@ -1,9 +1,9 @@
 # State — right now
 
-As of 2000-01-07 (replay clock).
+As of 2000-01-15 (replay clock).
 
-- Day rate hedge analysis for Peyton/Hilgert due Tue 01-11 → memory/domains/work/amerada-hess-day-rate-hedge.md
-- UH workshop 01-12/13 and NYU Stern conference 01-13/14 → memory/domains/industry/events-and-seminars-2000.md
-- EWRM meeting Fri 01-21; Enron NA Mondays 9:30 → memory/domains/work/standing-and-scheduled-meetings.md
-- Phone Ray Spudeck next week → memory/domains/organization/recruiting.md
-- Tufts reprint due 01-22; Argentina meeting unscheduled → memory/domains/work/managing-energy-price-risk-book.md
+- Owner now Managing Director; Roberts celebration Thu 01-20 → memory/domains/organization/2000-01-year-end-promotions.md
+- Bob Lee interview Mon 01-24; Marquez starts 01-17 → memory/domains/organization/recruiting.md
+- EWRM Fri 01-21; London trip in Feb → memory/domains/work/standing-and-scheduled-meetings.md
+- Klein real-options meeting to set → memory/domains/work/internal-advisory-requests.md
+- Tufts reprint due 01-22 → memory/domains/work/managing-energy-price-risk-book.md

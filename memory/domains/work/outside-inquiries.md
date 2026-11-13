@@ -3,9 +3,9 @@ id: outside-inquiries
 type: topic
 domain: work
 title: "Requests to the owner from outside contacts"
-summary: "Dec 1999-Jan 2000: Jermakyan paper (EPRM March issue), Van Belle GARCH references, Carson UK pool prices (→ Richard Lewis), Maruti More lunch, Eckao financial engineering program sketch. Book matters → managing-energy-price-risk-book."
+summary: "Dec 1999-Jan 2000: Jermakyan paper (EPRM March issue), Van Belle GARCH references, Carson UK pool prices (→ Richard Lewis), Maruti More lunch, Eckao financial engineering program sketch, RiskCare Willow (Feb 1), Commodities Now sponsorship. Book matters → managing-energy-price-risk-book."
 status: active
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Requests to the owner from outside contacts
 
@@ -16,3 +16,5 @@ Risk Books and reprint requests → memory/domains/work/managing-energy-price-ri
 - [1999-12-17] Magali Van Belle (PHB Hagler Bailly) asked for references on GARCH-based correlations; forwarded to AOL, no reply seen. ←[[m00062]]
 - [1999-12-17] Maruti More wants another lunch; the owner "shall call you at the end of December". ←[[m00069]]
 - [2000-01-07] Ed Eckao (11 Dec) sketched a master's-level financial engineering program with math faculty (FIN_ENGR.PDF) and asked for comments; owner forwarded it to AOL. ←[[m00197]]
+- [2000-01-10] Manuel Rensink (RiskCare, London; product Willow) phoned the owner; will contact him 1 Feb 2000 to arrange a meeting (+44 207 562 3414). ←[[m00216]]
+- [2000-01-11] Owner to Joe Gold: "I shall call you Wed regarding a request to sponsor a publication" (Commodities Now). ←[[m00271]]

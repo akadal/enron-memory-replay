@@ -5,7 +5,7 @@ entity: person
 name: "Shirley Crenshaw"
 aliases: []
 domains: [organization, industry, work]
-updated: 2000-01-07
+updated: 2000-01-15
 ---
 # Shirley Crenshaw
 
@@ -13,9 +13,9 @@ Research group administrator: move, equipment, visitors, software requests, the 
 
 ## Context: organization
 
-- [1999-12-10] Floor move, copier → memory/domains/organization/research-group-19th-floor-move.md ←[[m00004]] ←[[m00046]]
+- [2000-01-10] Floor move, copier, renumbered roster (EB 1961) → memory/domains/organization/research-group-19th-floor-move.md ←[[m00004]] ←[[m00046]] ←[[m00201]]
 - [1999-12-13] Van Ngo request → memory/domains/organization/recruiting.md ←[[m00013]]
-- [2000-01-07] Own leave; Huang's PC → memory/domains/organization/staff-administration.md ←[[m00195]] ←[[m00188]]
+- [2000-01-12] Own leave; chasing Huang's PC → memory/domains/organization/staff-administration.md ←[[m00195]] ←[[m00188]] ←[[m00325]]
 
 ## Context: industry
 
