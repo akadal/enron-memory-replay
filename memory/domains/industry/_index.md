@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-08-06
+updated: 2000-08-11
 ---
 # Industry — index
 
@@ -9,10 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
+- EPRM enterprise risk conference, Houston 16-17 Nov: session topic open (Kindall) → memory/domains/industry/speaking-engagements-2000.md
 - SDDP manual to O'Brien (Halliburton); Fin Math course Houston 31 Aug-1 Sep → memory/domains/industry/eprm-risk.md
-- EPRM enterprise risk conference: operational-risk session 16 Nov proposed → memory/domains/industry/speaking-engagements-2000.md
 - Wharton Partnership at $100K-150K a year recommended to Skilling → memory/domains/industry/research-memberships-2000.md
-- Energycast trial 31 Jul-3 Aug; Krapels' EOL access → memory/domains/industry/esai-energycast-review.md
+- PDO: no credible forecast (Mantua); ENSO near normal → memory/domains/industry/weather-insurance-markets.md
 - PoweRisk Paris 3-6 Oct; EFA panel Apr 2001 → memory/domains/industry/speaking-engagements-2000.md
 
 ## Files
@@ -32,4 +32,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-engagements-2000.md — owner's 2000 conference roles: PoweRisk Paris (Oct), EFA panel (Apr 2001); done ones archived
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Shijie Deng 28 Jul, Ecopetrol early Aug
-- memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: Corney & Barrow hedge (Jun 2000), solar flare derivatives (Jul)
+- memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: Corney & Barrow hedge, solar flares, PDO outlook (Aug)

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-08-06
+updated: 2000-08-11
 ---
 # People — index
 
@@ -10,6 +10,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 
 - Adam Brulinski
 - Ainsley Gaddis
+- Al Arfsten
 - Alan Aronowitz
 - Alex Huang
 - Alexios Kollaros (Alex Kollaros)
@@ -28,6 +29,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - April Hodgson (April Hodgeson, April Hodges)
 - Aram Sogomonian
 - Arshak Sarkissian
+- Ashley Baxter
 - Avi Hauser (Avi I. Hauser)
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
@@ -36,7 +38,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Beth Perlman
 - Bill Petty
 - Bjorn Hagelmann
+- Blake Johnson
 - Bob Shults
+- Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
 - Bruce James
@@ -50,9 +54,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Chris Hilgert
 - Chris Kenyon
 - Chris Strickland
+- Chris Williams
+- Christian Werner
 - Clayton Vernon
 - Cliff Baxter
+- Colleen Sullivan
 - Conrad Gardner
+- Craig Breslau
 - Dale Nesbitt
 - Dale Surbey
 - Damian Goodburn
@@ -64,6 +72,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Gorte (Dave Gorte)
 - David Oxley
 - David Walkup (David C. Walkup)
+- Dawn Derr
 - Dawn Scovill
 - Debbie Brackett (Debbie R Brackett)
 - Dennis Benevides
@@ -95,7 +104,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Greg Whalley
 - Gwyn Koepke
 - Harry Arora
+- Hector Campos
 - Helyette Geman
+- Hunter Shively (Hunter S Shively)
 - Iain Russell
 - Iris Mack
 - James Steffes (James D Steffes, Jim Steffes)
@@ -122,6 +133,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John D. Martin
 - John Echols
 - John Griebling
+- John Herbert (John H Herbert)
 - John Lavorato
 - John O'Brien
 - John Peyton
@@ -161,6 +173,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lyn Malina
 - Manuel Rensink
 - Margaret Carson
+- Marie Hejka
 - Mark Koenig
 - Mark Lay
 - Mark Palmer (Mark S Palmer)
@@ -169,6 +182,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Martin Lin
 - Martina Angelova
 - Maruti More (Maruti D. More)
+- Mary Alison Bailey (Mary Bailey)
 - Masayuki Fujita
 - Matthew Williams (Matt Williams)
 - Maureen Raymond
@@ -180,6 +194,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Molly Magee
 - Nick Bambos
 - Norberto Valdes
+- Norma Villarreal
 - Nurit Krausz
 - Oliver Bennett
 - Osman Sezgen
@@ -192,13 +207,16 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Peter Tufano
 - Phelim Boyle (P.P. Boyle)
 - Philippe Bibi (Philippe A Bibi)
+- Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
+- Quentin Kerr
 - Rabi De
 - Ravi Thuraisingham
 - Raymond Yeow
 - Richard Causey (Rick Causey)
 - Richard Lewis
 - Richard Weeks
+- Rick Bryant
 - Rick Buy
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
 - Robert Lee (Bob Lee)
@@ -233,6 +251,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Soussan Faiz
 - Stathis Tompaidis
 - Stephen Bramlett (Steven Bramlet)
+- Stephen Stock
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Stinson Gibner

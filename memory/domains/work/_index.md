@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-08-06
+updated: 2000-08-11
 ---
 # Work — index
 
@@ -10,10 +10,10 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - MG V@R: copper option lifts total to $5.99M (2 Aug); owner: check units → memory/domains/work/mg-metals-var.md
-- EES Regulatory/Tariff V@R: model in 4-8 weeks, kick-off 3 Aug → memory/domains/work/ees-regulatory-var.md
-- UT's collateralized-debt licence offer: answer within 90 days → memory/domains/work/ut-austin-ties-2000.md
-- Value Research Lab Thu 10 Aug; Bitran at EBS Wed 9 Aug → memory/domains/work/value-research-lab.md
-- Bambos visits Mon 21 or 28 Aug → memory/domains/work/stanford-research-ties.md
+- Transport model greeks sign-off; Lu's P/L buckets; meeting Wed 16 Aug → memory/domains/work/transport-model.md
+- NEVRL meeting postponed; Causey to see Victor Burk → memory/domains/work/value-research-lab.md
+- Sydney: Werner to Houston, or Mike Roberts to Sydney → memory/domains/work/enron-australia-2000.md
+- Bambos visits Mon 21 Aug; UT licence answer due → memory/domains/work/stanford-research-ties.md, memory/domains/work/ut-austin-ties-2000.md
 
 ## Files
 
@@ -38,6 +38,7 @@ Scope: the owner's own projects, models, deals and research output.
 - memory/domains/work/ees-structuring-models.md
 - memory/domains/work/emission-trading-poland.md
 - memory/domains/work/ene-stock-drivers.md
+- memory/domains/work/enron-australia-2000.md
 - memory/domains/work/enron-media-advertising.md
 - memory/domains/work/enterprise-risk-management.md
 - memory/domains/work/eol-content-2000.md
@@ -71,6 +72,7 @@ Scope: the owner's own projects, models, deals and research output.
 - memory/domains/work/storage-model.md
 - memory/domains/work/talon-raptor.md
 - memory/domains/work/tips-inflation-model.md
+- memory/domains/work/transport-model.md
 - memory/domains/work/turkish-ipo-options.md
 - memory/domains/work/tw-capacity-options.md
 - memory/domains/work/uk-inflation-book-ppi.md
