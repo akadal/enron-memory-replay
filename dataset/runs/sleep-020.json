@@ -1,0 +1,184 @@
+{
+ "slice": 20,
+ "simulated_today": "2000-04-14",
+ "feed": {
+  "slice": 20,
+  "iso_week": "2000-W15",
+  "first_seq": 1269,
+  "last_seq": 1360,
+  "messages": 92,
+  "durable": 77,
+  "first_date": "2000-04-10 02:30",
+  "last_date": "2000-04-14 09:19",
+  "today": "2000-04-14",
+  "inbox_files": [
+   "2000-04-10--mail.md",
+   "2000-04-11--mail.md",
+   "2000-04-12--mail.md",
+   "2000-04-13--mail.md",
+   "2000-04-14--mail.md"
+  ],
+  "inbox_chars": 51793,
+  "l2_chars": 219586
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 830,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 54.0,
+  "seven_day": 24.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 20,
+  "messages": 92,
+  "durable": 77,
+  "kept": 73,
+  "kept_rate_excluding_redundant": 0.948,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1,
+   "other": 1,
+   "social": 1
+  },
+  "dropped": 4,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 874,
+  "fact_lines_with_source": 688,
+  "dated": 688,
+  "date_matches_source": 678,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.88,
+   0.89,
+   0.86,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 602
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1254
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 75,
+   "chars": 122049
+  },
+  "people": {
+   "files": 133,
+   "chars": 104509
+  },
+  "archive_inbox": {
+   "files": 118,
+   "chars": 794152
+  },
+  "archive_mail": {
+   "files": 1386,
+   "chars": 3451438
+  },
+  "archive_other": {
+   "files": 193,
+   "chars": 284419
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 74,
+   "duration_ms": 828727,
+   "duration_api_ms": 738969,
+   "total_cost_usd": 5.3678799999999995,
+   "usage": {
+    "input_tokens": 144,
+    "cache_creation_input_tokens": 193360,
+    "cache_read_input_tokens": 11064020,
+    "output_tokens": 80381,
+    "output_tokens_details": {
+     "thinking_tokens": 19894
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 193360,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1026,
+      "cache_read_input_tokens": 224051,
+      "cache_creation_input_tokens": 1100,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1100
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 144,
+     "outputTokens": 80381,
+     "cacheReadInputTokens": 11064020,
+     "cacheCreationInputTokens": 193360,
+     "webSearchRequests": 0,
+     "costUSD": 5.3678799999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19894,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 193360,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 73,
+   "result_summary": "The consolidation for week 2000-W15 (simulated 2000-04-14) is done and committed as one commit, `7415e94`. Both gates were green before the commit, and I didn't push, as the run instructions say.\n\nThe week had 92 messages and 77 had notes. 73 of those are cited in L1, and 4 are listed in `dataset/drops/sleep-020.tsv`:\n- m01294: logistics\n- m01302: social\n- m01307: no_owner_content\n- m01316: other\n\nA check script confirmed that no message with notes is left uncited and unlisted.\n\nWhat changed this week:\n- **Offsite:** the Breckenridge EBS offsite was cancelled on 11 Apr and moved to History.\n- **Risk maths course:** the owner will give two sessions on Vicky Windsor's course (exotic energy options and weather derivatives), listed under Enron Corp.\n- **Talon/Raptor:** a new topic file, `memory/domains/work/talon-raptor.md`, holds PwC's early draft on the Talon/Raptor deal (LJM2) and Issler's Monte Carlo model.\n- **Diary:** Fujita on 17 Apr, the Darden interview on 18 Apr, Diebold invited at Enron's cost, the IT/credit lunch moved to 19 Apr, and Delainey's Friday budget meetings.\n- **Other files updated:** vendors, candidates, the EES/SAP announcements, the newsletter column, and the owner's private correspondence and household files.\n\n**People and questions**\n- **New people files:** Vicky Windsor, Paula Corey and Beth Perlman each reached five messages with notes, so they now have entity files.\n- **Closed question:** the overdue \"Maureen Raymond-Castaneda\" alias question closed with no answer, and the name stays unattached. The note is logged in `memory/archive/inbox/2000-04-14--mail-2.md`. It couldn't go in the 2000-04-14 log the instructions named, because the audit rejects any change to a log while it is archived.\n- **New question:** I added an alias approval for \"Bill Bradford\" → `william-bradford` to `memory/questions.md`.\n\n**Compression and repair**\n- Only one file, `memory/domains/work/_index.md`, sat above 90% of its ceiling, so the quota of three couldn't be m"
+  },
+  "repair": null
+ }
+}
