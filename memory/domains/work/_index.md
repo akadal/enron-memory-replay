@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-04-28
+updated: 2000-05-05
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Delainey talk done 24 Apr; allocations sheet to Becky Pham 26 Apr → memory/domains/work/internal-meetings.md
-- Dyer's UT class Thu 4 May; Rausser reprint; Rochester (Goodburn) → memory/domains/work/outside-requests.md
-- Leppard's Cambridge talk and Risk article; AMC kept quiet → memory/domains/work/real-options-diagrams.md
-- Volumetric risk module for Rick Buy; next A/L or operational → memory/domains/work/enterprise-risk-management.md
-- Storage book meeting on Luken's model 27 Apr → memory/domains/work/storage-model.md
+- Weekly with Maureen Raymond, Fridays 8:00; allocations sheet to Becky Pham 26 Apr → memory/domains/work/internal-meetings.md
+- Dyer's UT class given 4 May, back next year; Rausser reprint → memory/domains/work/outside-requests.md
+- Volumetric risk module for Rick Buy → memory/domains/work/enterprise-risk-management.md
+- ESVM storage model to Duffie for review 5 May → memory/domains/work/storage-model.md
+- Bambos asks to visit 19 or 26 May; new student → memory/domains/work/stanford-research-ties.md
 
 ## Files
 
@@ -27,7 +27,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/correlation-stress.md
 - memory/domains/work/credit-markets.md — Credit Markets, KMV, risk-free rate
 - memory/domains/work/crude-oil-digital-option.md
-- memory/domains/work/dabhol-power-sale.md — Dabhol Rupee curve
+- memory/domains/work/dabhol-power-sale.md — Dabhol, India power trading setup
 - memory/domains/work/day-rate-hedge.md — rig day-rate hedges (Peyton)
 - memory/domains/work/ebs-network-planning.md — EBS network modelling, Lucent, Orillion
 - memory/domains/work/ebs-storage-market.md — EBS storage trading
@@ -53,7 +53,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/rofr-valuation.md
 - memory/domains/work/south-america-curves.md
 - memory/domains/work/stanford-research-ties.md — Stanford, Nick Bambos
-- memory/domains/work/storage-model.md
+- memory/domains/work/storage-model.md — ESVM, Duffie review
 - memory/domains/work/talon-raptor.md — Talon/Raptor, PwC, LJM2
 - memory/domains/work/tips-inflation-model.md — TIPS, US inflation
 - memory/domains/work/uk-inflation-book-ppi.md — UK Inflation Book PPI

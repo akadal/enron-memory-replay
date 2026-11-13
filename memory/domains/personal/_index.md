@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-04-28
+updated: 2000-05-05
 ---
 # Personal — index
 
@@ -9,7 +9,7 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Tony Mends hosted the owner 22 Apr; Larrissa Sharma's letter → memory/domains/personal/correspondence.md
+- Tony Mends hosted the owner 22 Apr; Larrissa Sharma's letter (Joe Pokalsky's address) → memory/domains/personal/correspondence.md
 - Walkup's Ginnie Mae; Haviland's munis for $50,000 → memory/domains/personal/household.md
 - Work e-mail is vkamins@enron.com; son a junior at Stanford → memory/domains/personal/household.md
 

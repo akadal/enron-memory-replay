@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-04-28
+updated: 2000-05-05
 ---
 # People and organisations — index
 
@@ -9,6 +9,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 ## Files
 
 - Adam Brulinski — adam-brulinski
+- Alan Aronowitz — alan-aronowitz
 - Alex Huang — alex-huang
 - Amitava Dhar — amitava-dhar
 - Amy Aldous — amy-aldous
@@ -34,6 +35,7 @@ Alias table: `name — aliases — id` or `name — id` (memory/people/<id>.md).
 - Cliff Baxter — cliff-baxter
 - Dale Surbey — dale-surbey
 - Dave Delainey — dave-delainey
+- Darrell Duffie — darrell-duffie
 - David Cox — david-cox
 - David Walkup — David C. Walkup — david-walkup
 - Dawn Scovill — dawn-scovill

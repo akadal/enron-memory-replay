@@ -5,7 +5,7 @@ entity: person
 name: "Ehud Ronn"
 aliases: ["Ehud I. Ronn"]
 domains: [industry, organization, work]
-updated: 2000-03-31
+updated: 2000-05-05
 ---
 # Ehud Ronn
 
@@ -22,3 +22,4 @@ UT Austin finance professor who teaches energy finance; with Titman he proposed 
 ## Context: work
 
 - [2000-03-31] Titman recommends him to Jim Dyer's real-options class → memory/domains/work/outside-requests.md ←[[m01181]]
+- [2000-05-02] Presents at POWER 2000 on 9 May; asks for EOL access → memory/domains/industry/speaking-engagements-2000.md, memory/domains/organization/software-licenses.md ←[[m01582]] ←[[m01588]]
