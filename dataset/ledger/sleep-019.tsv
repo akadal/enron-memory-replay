@@ -1,0 +1,77 @@
+id	durable	status	detail
+m01193	yes	kept	domains/organization/candidate-referrals-2000.md
+m01194	no	not_durable	bulk
+m01195	yes	kept	domains/organization/leave-and-training.md
+m01196	yes	kept	domains/work/outside-requests.md people/kevin-moore.md
+m01197	yes	kept	domains/work/vendor-offers-2000.md
+m01198	yes	kept	domains/work/broadband-services.md
+m01199	yes	kept	domains/industry/visitors-2000.md people/masayuki-fujita.md
+m01200	yes	kept	domains/industry/visitors-2000.md people/masayuki-fujita.md
+m01201	yes	kept	domains/organization/candidate-referrals-2000.md people/carla-di-castro.md people/jens-gobel.md
+m01202	yes	kept	domains/organization/candidate-referrals-2000.md people/carla-di-castro.md people/jens-gobel.md
+m01203	yes	kept	domains/industry/events-attending-2000.md
+m01204	yes	kept	domains/industry/visitors-2000.md people/masayuki-fujita.md
+m01205	yes	kept	domains/industry/visitors-2000.md people/masayuki-fujita.md
+m01206	yes	kept	domains/organization/recruiting-candidates.md
+m01207	yes	kept	domains/work/vendor-offers-2000.md
+m01208	yes	kept	domains/work/vendor-offers-2000.md people/helyette-geman.md people/karla-feldman.md
+m01209	yes	kept	domains/work/internal-meetings.md
+m01210	yes	kept	domains/industry/speaking-engagements-2000.md people/helyette-geman.md
+m01211	no	not_durable	logistics
+m01212	yes	kept	domains/work/internal-meetings.md
+m01213	no	not_durable	logistics
+m01214	yes	kept	domains/industry/speaking-engagements-2000.md
+m01215	yes	kept	domains/industry/speaking-engagements-2000.md
+m01216	yes	kept	domains/work/owner-publications.md
+m01217	yes	kept	domains/personal/household.md
+m01218	yes	kept	domains/industry/speaking-engagements-2000.md
+m01219	yes	kept	domains/industry/speaking-engagements-2000.md people/oliver-bennett.md
+m01220	yes	kept	domains/work/gas-flow-price-model.md
+m01221	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/correspondence.md
+m01222	yes	kept	domains/work/outside-requests.md
+m01223	no	not_durable	pleasantry
+m01224	no	not_durable	logistics
+m01225	yes	kept	domains/industry/events-attending-2000.md
+m01226	yes	kept	domains/organization/candidate-referrals-2000.md people/jens-gobel.md
+m01227	no	not_durable	logistics
+m01228	yes	kept	domains/work/outside-requests.md
+m01229	yes	kept	domains/work/ebs-network-planning.md people/dorn-hetzel.md people/sheryl-lara.md
+m01230	yes	kept	domains/industry/visitors-2000.md people/masayuki-fujita.md
+m01231	no	not_durable	automated
+m01232	no	not_durable	automated
+m01233	yes	kept	domains/work/outside-requests.md
+m01234	no	not_durable	pleasantry
+m01235	yes	kept	domains/work/uk-inflation-book-ppi.md
+m01236	yes	kept	domains/work/owner-publications.md
+m01237	yes	kept	domains/industry/speaking-engagements-2000.md
+m01238	no	not_durable	bulk
+m01239	yes	kept	domains/work/broadband-services.md
+m01240	yes	kept	domains/organization/summer-interns-2000.md people/jason-sokolov.md
+m01241	yes	dropped	other: owner e-mailed himself a bare Harvard KSG URL with no context
+m01242	yes	kept	domains/industry/events-attending-2000.md
+m01243	yes	kept	domains/work/ethanol-hedging.md
+m01244	yes	kept	domains/work/ethanol-hedging.md
+m01245	yes	kept	domains/work/broadband-services.md
+m01246	no	not_durable	logistics
+m01247	yes	kept	domains/industry/events-attending-2000.md
+m01248	no	not_durable	logistics
+m01249	yes	kept	domains/work/internal-meetings.md
+m01250	yes	kept	domains/work/internal-meetings.md
+m01251	yes	kept	domains/personal/household.md
+m01252	yes	kept	domains/organization/software-licenses.md people/jason-sokolov.md
+m01253	yes	kept	domains/industry/weather-insurance-markets.md people/joseph-hrgovcic.md
+m01254	yes	kept	domains/work/ethanol-hedging.md
+m01255	yes	kept	domains/industry/weather-insurance-markets.md people/joseph-hrgovcic.md
+m01256	yes	kept	domains/industry/weather-insurance-markets.md
+m01257	yes	kept	domains/industry/weather-insurance-markets.md people/joseph-hrgovcic.md
+m01258	yes	kept	domains/organization/software-licenses.md people/jason-sokolov.md
+m01259	yes	kept	domains/organization/software-licenses.md
+m01260	yes	kept	people/sheridan-titman.md
+m01261	yes	kept	domains/work/vendor-offers-2000.md
+m01262	yes	kept	domains/organization/office-equipment.md people/kevin-moore.md
+m01263	yes	kept	domains/industry/speaking-engagements-2000.md
+m01264	yes	kept	domains/organization/candidate-referrals-2000.md people/carla-di-castro.md
+m01265	no	not_durable	bulk
+m01266	yes	kept	domains/industry/eprm-risk.md
+m01267	yes	kept	domains/organization/corporate-announcements-2000.md people/dave-delainey.md people/greg-whalley.md people/harry-arora.md people/louise-kitchen.md people/mike-mcconnell.md people/philippe-bibi.md
+m01268	no	not_durable	bulk

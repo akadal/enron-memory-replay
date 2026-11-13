@@ -1,0 +1,181 @@
+{
+ "slice": 19,
+ "simulated_today": "2000-04-07",
+ "feed": {
+  "slice": 19,
+  "iso_week": "2000-W14",
+  "first_seq": 1193,
+  "last_seq": 1268,
+  "messages": 76,
+  "durable": 62,
+  "first_date": "2000-04-03 03:16",
+  "last_date": "2000-04-07 12:35",
+  "today": "2000-04-07",
+  "inbox_files": [
+   "2000-04-03--mail.md",
+   "2000-04-04--mail.md",
+   "2000-04-05--mail.md",
+   "2000-04-06--mail.md",
+   "2000-04-07--mail.md"
+  ],
+  "inbox_chars": 43217,
+  "l2_chars": 182978
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 837,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 45.0,
+  "seven_day": 22.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 19,
+  "messages": 76,
+  "durable": 62,
+  "kept": 61,
+  "kept_rate_excluding_redundant": 0.984,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 856,
+  "fact_lines_with_source": 682,
+  "dated": 682,
+  "date_matches_source": 670,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 565
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1193
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 74,
+   "chars": 120853
+  },
+  "people": {
+   "files": 130,
+   "chars": 102375
+  },
+  "archive_inbox": {
+   "files": 112,
+   "chars": 741895
+  },
+  "archive_mail": {
+   "files": 1294,
+   "chars": 3231852
+  },
+  "archive_other": {
+   "files": 172,
+   "chars": 249138
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 96,
+   "duration_ms": 835256,
+   "duration_api_ms": 776271,
+   "total_cost_usd": 4.9902142000000005,
+   "usage": {
+    "input_tokens": 94,
+    "cache_creation_input_tokens": 205812,
+    "cache_read_input_tokens": 6989511,
+    "output_tokens": 97272,
+    "output_tokens_details": {
+     "thinking_tokens": 24735
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 205812,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 647,
+      "cache_read_input_tokens": 235979,
+      "cache_creation_input_tokens": 1624,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1624
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 94,
+     "outputTokens": 97272,
+     "cacheReadInputTokens": 6989511,
+     "cacheCreationInputTokens": 205812,
+     "webSearchRequests": 0,
+     "costUSD": 4.9902142000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24735,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 205812,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 95,
+   "result_summary": "The 2000-04-07 consolidation is committed on `main` as one atomic commit, not pushed (the runner pushes after its own checks). Lint and `sleep-audit.py` were both green before the commit. The audit was red on the first run: two RATCHET findings, in `corporate-announcements-2000.md` and `recruiting-candidates.md`. I moved older lines from both into the archive and the one allowed re-run came back green.\n\nThe week had 76 messages, 62 with notes; 61 are cited in L1 and one is in `dataset/drops/sleep-019.tsv` (m01241, a bare URL the owner mailed himself). I added two new topic files, `ethanol-hedging` and `weather-insurance-markets`. Eight people crossed five noted messages and got entity files: Fujita, Gobel, Carla Di Castro, Sheryl Lara, Delainey, McConnell, Harry Arora and Dorn Hetzel. They were added to the alias table without changing any existing line. Enron Net Works was formed this week, so Whalley's ENA role went to History.\n\nThe \"Kim Watson\" alias question passed its 2000-04-02 due date unanswered and was closed on status quo. Its note sits on the ICF line in `internal-meetings.md`, and the close is logged in `memory/archive/inbox/2000-04-07--mail-2.md`. I wrote the log there instead of the 2000-04-07 inbox file because the audit fails if an archived inbox file changes; last week's run did the same. No file was above 90% of its ceiling, so the compression quota had nothing to act on. I still moved older detail from 20 of the files I touched into `memory/archive/*/2000/*-2000-04-w14.md`. The five ongoing lines checked in rotation are all still valid. There was no sleep task, and the runner's untracked transcript was left out of the commit."
+  },
+  "repair": null
+ }
+}
