@@ -1,0 +1,178 @@
+{
+ "slice": 4,
+ "simulated_today": "1999-12-26",
+ "feed": {
+  "slice": 4,
+  "iso_week": "1999-W51",
+  "first_seq": 74,
+  "last_seq": 101,
+  "messages": 28,
+  "durable": 12,
+  "first_date": "1999-12-20 02:41",
+  "last_date": "1999-12-26 15:59",
+  "today": "1999-12-26",
+  "inbox_files": [
+   "1999-12-20--mail.md",
+   "1999-12-21--mail.md",
+   "1999-12-22--mail.md",
+   "1999-12-23--mail.md",
+   "1999-12-25--mail.md",
+   "1999-12-26--mail.md"
+  ],
+  "inbox_chars": 13412,
+  "l2_chars": 55046
+ },
+ "harness_cli": "2.1.263 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 135,
+ "quota_before": {
+  "five_hour": 30.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 31.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 4,
+  "messages": 28,
+  "durable": 12,
+  "kept": 12,
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 51,
+  "fact_lines_with_source": 89,
+  "dated": 89,
+  "date_matches_source": 87,
+  "kept_rate_by_decile": [
+   1.0,
+   null,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 790
+  },
+  "questions": {
+   "files": 1,
+   "chars": 590
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 31,
+   "chars": 38130
+  },
+  "people": {
+   "files": 16,
+   "chars": 9267
+  },
+  "archive_inbox": {
+   "files": 15,
+   "chars": 48768
+  },
+  "archive_mail": {
+   "files": 127,
+   "chars": 369888
+  },
+  "archive_other": {
+   "files": 1,
+   "chars": 699
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 22,
+   "duration_ms": 132902,
+   "duration_api_ms": 115763,
+   "total_cost_usd": 1.6961255000000004,
+   "usage": {
+    "input_tokens": 28,
+    "cache_creation_input_tokens": 64139,
+    "cache_read_input_tokens": 1214291,
+    "output_tokens": 17898,
+    "output_tokens_details": {
+     "thinking_tokens": 5040
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 64139,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 707,
+      "cache_read_input_tokens": 110726,
+      "cache_creation_input_tokens": 944,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 944
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard"
+   },
+   "modelUsage": {
+    "claude-sonnet-5-5": {
+     "inputTokens": 28,
+     "outputTokens": 17898,
+     "cacheReadInputTokens": 1214291,
+     "cacheCreationInputTokens": 64139,
+     "webSearchRequests": 0,
+     "costUSD": 1.6961255000000004,
+     "contextWindow": 200000,
+     "maxOutputTokens": 32000,
+     "thinkingTokens": 5040,
+     "canonicalModel": "claude-sonnet-5-5",
+     "provider": "firstParty",
+     "costBasis": "unknown"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 21,
+   "result_summary": "Consolidation 004 (simulated clock 1999-12-26) is committed as b99ca2c. Lint and the sleep audit were both green, and I did not push, as instructed.\n\nAll 12 messages with notes (m00076 through m00101) are kept, so `dataset/drops/sleep-004.tsv` is empty. The other messages in the week had no notes.\n\n- **New topic files:**\n  - `risk-2000-boston`\n  - `gpcm-rbac-summary-1999`\n  - `simplified-gas-price-model`\n  - `dabhol-firm-power-sale`\n  - `uk-power-volatility-curve-generator`\n  - `research-intelligence-newsletter`\n- **Updated files:**\n  - Topics: the EPRM speaker, speaking-engagements, Japan candidate, 19th-floor equipment, pending-replies and gas-transmission topic files.\n  - Entities: Clayton Vernon, Stinson Gibner, Joseph Hirl, Vasant Shanbhogue and Shirley Crenshaw.\n  - Indexes and `state.md`: refreshed for these changes.\n- **Rotated ongoing lines:** two old \"not in the mail so far\" lines were closed into `## History`: the EPRM one (now answered by Parsons's message, m00076) and the gas-model reply. The other three oldest ongoing lines still hold and were left alone.\n- **Compression:** I moved the Chris Germany pipeline-capacity detail into `memory/archive/work/1999/vernon-pipeline-capacity-notes.md`, because the gas-transmission file had grown past the audit's ratchet tolerance. No file was above 90% of its ceiling, so the three-file quota did not apply.\n- **Inbox, questions, tasks:** the six inbox logs were moved to `memory/archive/inbox/`. No new questions were added, no `(sleep-task)` blocks were present, and the Krishnarao alias question is not yet due.\n\n`dataset/runs/stderr.log` is modified and `sleep-004.transcript.jsonl` is untracked. I left both out of the commit for the runner."
+  },
+  "repair": null
+ }
+}
