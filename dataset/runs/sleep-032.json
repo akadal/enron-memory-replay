@@ -1,0 +1,187 @@
+{
+ "slice": 32,
+ "simulated_today": "2000-07-09",
+ "feed": {
+  "slice": 32,
+  "iso_week": "2000-W27",
+  "first_seq": 2233,
+  "last_seq": 2300,
+  "messages": 68,
+  "durable": 56,
+  "first_date": "2000-07-03 05:40",
+  "last_date": "2000-07-09 19:55",
+  "today": "2000-07-09",
+  "inbox_files": [
+   "2000-07-03--mail.md",
+   "2000-07-04--mail.md",
+   "2000-07-05--mail.md",
+   "2000-07-06--mail.md",
+   "2000-07-07--mail.md",
+   "2000-07-08--mail.md",
+   "2000-07-09--mail.md"
+  ],
+  "inbox_chars": 39170,
+  "l2_chars": 155434
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 554,
+ "quota_before": {
+  "five_hour": 0.0,
+  "seven_day": 30.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 2.0,
+  "seven_day": 30.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 32,
+  "messages": 68,
+  "durable": 56,
+  "kept": 54,
+  "kept_rate_excluding_redundant": 0.964,
+  "drop_classes": {
+   "other": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1267,
+  "fact_lines_with_source": 947,
+  "dated": 947,
+  "date_matches_source": 936,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 6,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 715
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2855
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 101,
+   "chars": 172343
+  },
+  "people": {
+   "files": 218,
+   "chars": 158662
+  },
+  "archive_inbox": {
+   "files": 201,
+   "chars": 1374083
+  },
+  "archive_mail": {
+   "files": 2326,
+   "chars": 5802533
+  },
+  "archive_other": {
+   "files": 411,
+   "chars": 464000
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 552955,
+   "duration_api_ms": 502308,
+   "total_cost_usd": 3.3161838000000006,
+   "usage": {
+    "input_tokens": 84,
+    "cache_creation_input_tokens": 153084,
+    "cache_read_input_tokens": 4968679,
+    "output_tokens": 54872,
+    "output_tokens_details": {
+     "thinking_tokens": 23264
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 153084,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1006,
+      "cache_read_input_tokens": 182164,
+      "cache_creation_input_tokens": 951,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 951
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 84,
+     "outputTokens": 54872,
+     "cacheReadInputTokens": 4968679,
+     "cacheCreationInputTokens": 153084,
+     "webSearchRequests": 0,
+     "costUSD": 3.3161838000000006,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23264,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 153084,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I ran the 2000-07-09 consolidation (week 2000-W27) and committed it as one commit, `dbf3011`; lint and sleep-audit were both green before the commit. Of 68 messages, 56 had notes: 54 are now cited in L1, and m02251 and m02277 (the owner e-mailing himself a library link and a phone number) are listed in `dataset/drops/sleep-032.tsv`. The main new facts are:\n- **Sydney trip:** the owner arrives Sunday 16 Jul, attends the conference Monday and Tuesday, gives the value-at-risk workshop talk on Wednesday, and spends Thursday and Friday with Enron Sydney (Raymond Yeow, Paul Quilkey).\n- **MG Metals:** no official business with MG until 15 Jul.\n- **London hire:** the owner suggests offering Sharad Agnihotri £50,000.\n- **Interviews:** Shane Green on 10 Jul, and a formal interview for Rabi De.\n- **Also recorded:** Bambos' draft Enron/Stanford letter ($100,000 a year for three years), the Exotica option formulas for the EOL Phase 2 calculator, the Baylor lunch on 12 Jul, the UT talk on 11 Oct, a network-management pitch to EBS, and Jana's dinner on 28 Jul.\n\nSix people reached five noted messages and got entity files and alias-table entries: Fleming, Shelly Jones, Miertschin, Haviland, Yeow and Quilkey. Two questions passed their 4 Jul due date and were closed by status quo (no \"Peyton\" alias for Stinson Gibner; Richard L Carson kept separate from Rick Carson). I added new evidence to the Giuseppe and Krapels questions, and opened a new approval question on whether \"Tim Luehrman\" and \"Timothy Luehrman\" are one person. Only owner-publications was above 90% of its ceiling, so the three-file compression quota could not be met; it went from 2554 to 1879 bytes. To keep the other files from growing, older lines from 22 files moved to `memory/archive/*/2000/*-2000-07-w27.md`. The audit was red once (research-group grew by 163 characters, over the 150 limit) and went green after I shortened the new line. The five oldest ongoing lines are all still valid. There was no sleep task or feed"
+  },
+  "repair": null
+ }
+}
