@@ -1,0 +1,179 @@
+{
+ "slice": 18,
+ "simulated_today": "2000-03-31",
+ "feed": {
+  "slice": 18,
+  "iso_week": "2000-W13",
+  "first_seq": 1074,
+  "last_seq": 1192,
+  "messages": 119,
+  "durable": 95,
+  "first_date": "2000-03-27 00:09",
+  "last_date": "2000-03-31 15:36",
+  "today": "2000-03-31",
+  "inbox_files": [
+   "2000-03-27--mail.md",
+   "2000-03-28--mail.md",
+   "2000-03-29--mail.md",
+   "2000-03-30--mail.md",
+   "2000-03-31--mail.md"
+  ],
+  "inbox_chars": 70580,
+  "l2_chars": 331870
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 756,
+ "quota_before": {},
+ "quota_after": {},
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 18,
+  "messages": 119,
+  "durable": 95,
+  "kept": 94,
+  "kept_rate_excluding_redundant": 0.989,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 830,
+  "fact_lines_with_source": 677,
+  "dated": 677,
+  "date_matches_source": 663,
+  "date_mismatch_ids_this_slice": [
+   "m01115"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 510
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1575
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 72,
+   "chars": 118367
+  },
+  "people": {
+   "files": 122,
+   "chars": 96081
+  },
+  "archive_inbox": {
+   "files": 106,
+   "chars": 698102
+  },
+  "archive_mail": {
+   "files": 1218,
+   "chars": 3048874
+  },
+  "archive_other": {
+   "files": 151,
+   "chars": 223771
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 45,
+   "duration_ms": 754268,
+   "duration_api_ms": 692759,
+   "total_cost_usd": 4.365311600000001,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 195646,
+    "cache_read_input_tokens": 5748678,
+    "output_tokens": 82504,
+    "output_tokens_details": {
+     "thinking_tokens": 28737
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 195646,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 899,
+      "cache_read_input_tokens": 226268,
+      "cache_creation_input_tokens": 1169,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1169
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 82504,
+     "cacheReadInputTokens": 5748678,
+     "cacheCreationInputTokens": 195646,
+     "webSearchRequests": 0,
+     "costUSD": 4.365311600000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 28737,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 195646,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 44,
+   "result_summary": "I ran the 2000-03-31 consolidation for week 2000-W13 (119 messages, 95 with notes) and committed it as `5ec0390`; both gates passed. The audit was red once, because I had written this run's log into an inbox file that was then archived, and archived files must not change. I put that file back as it was, moved the log to `memory/archive/inbox/2000-03-31--mail-2.md`, and both lint and the audit then came back green. Your brief said both \"commit, but do not push\" and \"git push origin main\"; I followed the first, so nothing is pushed and the runner's push is still to do.\n\n- **Offsite dates:** the open conflict is settled by the owner's own 27 Mar invitations to Skilling, Rice, Hannon and Hirko for the Research/EBS offsite at Breckenridge on 27-29 Apr; Skilling comes Fri 28 Apr. The earlier 21-23 Apr plan moved to History and the conflict question is closed.\n- **Overdue question:** the 2000-02-27 approval question about bare ids in the alias table was past its 28 Mar due date, so I closed it on status quo: the id form stays.\n- **Where the week's notes went:**\n  - The UK inflation curves and their Houston model review.\n  - Zimin Lu's synthetic storage valuation for Peoples Energy.\n  - Vernon telling Presto the gas model is untested.\n  - New talks: Toronto on 29 May, the Texas Finance Festival, and Berlin, where his slides are due 26 May.\n  - The other items went into staff, intern and candidate updates.\n- **New topic file:** `memory/domains/industry/visitors-2000.md` holds the Darden case interviews (18 Apr), Texaco's Soussan Faiz (19 Apr) and Mitsubishi Research's Fujita, who wants to visit and translate the owner's book.\n- **New people files:** 13 people reached five messages with notes, including Jeff Skilling, Joe Hirko, Sherri Sera and Vadim Pokhlebkin; all are in the alias table.\n- **Compression:** the only two files above 90% of their size limit went down: speaking-engagements from 2559 to 2277 characters and summer-interns from 2588 to 1903. Older detail from 20 f"
+  },
+  "repair": null
+ }
+}
