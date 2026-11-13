@@ -3,9 +3,9 @@ id: research-presentations
 type: topic
 domain: work
 title: "Research group outreach: talks and Technical Corner"
-summary: "Group and owner talks (Imperial Capital, Seoul, IIR real options, INFOCAST panel), Technical Corner binders for business-unit heads (Dec 1999); the owner's latest options presentation; a fortnightly Friday brown-bag seminar proposed by Zimin Lu and Alex Huang (Mar 2000)."
+summary: "Group and owner talks (Imperial Capital, Seoul, IIR real options, INFOCAST panel), Technical Corner binders (Dec 1999); the owner's options deck; BBLOP Friday brown bag on derivative pricing, owner opens 31 Mar 2000."
 status: active
-updated: 2000-03-12
+updated: 2000-03-26
 ---
 # Research group outreach: talks and Technical Corner
 
@@ -14,7 +14,7 @@ updated: 2000-03-12
 - [1999-12-22] Owner spoke on real options for valuation at IIR, New York, 13 Dec; Erik Wernevi asked for the slides. ←[[m00091]]
 - [1999-12-30] Owner was on an INFOCAST volatility-conference panel in Houston (~10 Dec) on US electricity markets, invited by Todd Strauss (PHB Hagler Bailly), who praised his analysis. ←[[m00122]]
 - [2000-03-06] Owner sent Gibner his options deck (options2fin.ppt): "Most recent version of my presentation." ←[[m00870]]
-- [2000-03-07] Zimin Lu and Alex Huang propose a Research brown-bag lunch on derivative pricing, every other Friday, ~50 minutes, members presenting in turn (options, processes, insurance, Monte Carlo, papers, Risk dry-runs); start in 2-3 weeks. ←[[m00895]]
+- [2000-03-24] BBLOP, Zimin Lu and Alex Huang's Friday brown bag on derivative pricing (proposed 7 Mar: members in turn; options, Monte Carlo, papers, Risk dry-runs), 12:00, 45-50 min: the owner opens Fri 31 Mar (new option-pricing methodology); Grant, Amitava, Kevin, Clayton, Chonawee to follow; Crenshaw tells assistants Enron-wide; detail ←[[research-presentations-2000-03-w12]] ←[[m00895]] ←[[m01062]]
 
 ## Research Intelligence / Technical Corner
 
