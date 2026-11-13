@@ -3,9 +3,9 @@ id: research-presentations
 type: topic
 domain: work
 title: "Research group outreach: talks and Technical Corner"
-summary: "Group and owner talks (Dec 1999 archived), Technical Corner; BBLOP Friday brown bag (owner opened 31 Mar; Masson on Marginal VaR 28 Apr); Tzamouranis' data visualization proposal 13 Apr; Real Options Seminar with Chicago guests 27 Apr, the owner's 'Peoples' slides (Apr 2000)."
+summary: "Group and owner talks (Dec 1999 archived), Technical Corner; BBLOP Friday brown bag; Tzamouranis' data visualization proposal; Real Options Seminar 27 Apr (Apr 2000); the owner's eSpeak, marketed to traders (Jun 2000)."
 status: active
-updated: 2000-05-26
+updated: 2000-06-25
 ---
 # Research group outreach: talks and Technical Corner
 
@@ -17,6 +17,7 @@ Detail ←[[research-presentations-2000-04-w15]] ←[[research-presentations-200
 - [2000-04-26] Real Options Seminar for ENA Chicago guests (Peoples), Thu 27 Apr, EB46C1; owner's slides. ←[[m01486]] ←[[m01502]] ←[[m01511]]
 - [2000-04-28] BBLOP: Grant Masson on "Marginal Value at Risk", Friday 12 noon, 19C2. ←[[m01552]]
 - [2000-05-24] BBLOP ("a success", Zimin Lu): Paulo Issler, "Implied Trees and Edgworth Binomial Trees", Fri 26 May noon, 19C2. ←[[m01794]]
+- [2000-06-21] The owner's eSpeak session: Erin Rice (with Sarah) markets it to the trader community, with a bulleted ad on the eTV elevator screens; she asks what to post. ←[[m02058]]
 
 ## Research Intelligence / Technical Corner
 

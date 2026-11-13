@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-06-18
+updated: 2000-06-25
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 
 ## Hot
 
-- Marg's LNG Project NPV model; Eric Groves wants to meet, then Shankman → memory/domains/work/lng-book-2000.md
-- London's swing option models rebuilt on Zimin Lu's model from 16 Jun → memory/domains/work/storage-model.md
-- Seneca Lake Storage ($39.2 MM over 20 years); AGA forecast 82 → memory/domains/work/desk-analysis-requests.md
-- Akamai-savvy hire for Hannon: which EBS unit sponsors? → memory/domains/work/broadband-services.md
-- Storage VaR: fwd-fwd vols tested ($3.14M), sum sub-book VaRs → memory/domains/work/storage-book-var.md
+- Turkish IPO options: risk-free rate "not appropriate" → memory/domains/work/turkish-ipo-options.md
+- London credit: Dhar or Shanbhogue for 8-12 weeks? → memory/domains/work/credit-markets.md
+- NG VaR backtest: historical vols fit → memory/domains/work/var-backtesting-2000.md
+- Mars (CDS) seeks an energy partner → memory/domains/work/mars-cds-weather.md
+- Nesbitt in Houston 5-7 Jul → memory/domains/work/vendor-offers-2000.md
 
 ## Files
 
@@ -29,7 +29,7 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/crude-oil-digital-option.md
 - memory/domains/work/dabhol-power-sale.md
 - memory/domains/work/day-rate-hedge.md
-- memory/domains/work/desk-analysis-requests.md — desk analyses
+- memory/domains/work/desk-analysis-requests.md
 - memory/domains/work/ebs-network-planning.md
 - memory/domains/work/ebs-storage-market.md
 - memory/domains/work/emission-trading-poland.md
@@ -46,15 +46,16 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/kmi-database-license.md
 - memory/domains/work/ljm-put-valuation.md
 - memory/domains/work/lng-book-2000.md
+- memory/domains/work/mars-cds-weather.md
 - memory/domains/work/model-risk-audit.md
 - memory/domains/work/naphtha-caps-india.md
-- memory/domains/work/outside-requests.md — small asks
+- memory/domains/work/outside-requests.md
 - memory/domains/work/owner-publications.md — book, column
 - memory/domains/work/promigas-tvcable-option.md
 - memory/domains/work/pse-swap-warsaw.md
 - memory/domains/work/real-options-diagrams.md
 - memory/domains/work/research-presentations.md — talks, BBLOP, training
-- memory/domains/work/research-web-content-2000.md — intranet, web channel
+- memory/domains/work/research-web-content-2000.md
 - memory/domains/work/rofr-valuation.md
 - memory/domains/work/south-america-curves.md
 - memory/domains/work/stanford-research-ties.md — Stanford, Bambos
@@ -62,10 +63,12 @@ Scope: the owner's own projects, models, deals, decisions and research output; n
 - memory/domains/work/storage-model.md
 - memory/domains/work/talon-raptor.md — LJM2, PwC
 - memory/domains/work/tips-inflation-model.md
+- memory/domains/work/turkish-ipo-options.md
 - memory/domains/work/uk-inflation-book-ppi.md
 - memory/domains/work/uk-power-vol-curve.md
 - memory/domains/work/university-relations.md
 - memory/domains/work/ut-austin-ties-2000.md
+- memory/domains/work/var-backtesting-2000.md
 - memory/domains/work/vega-var.md
 - memory/domains/work/vendor-offers-2000.md — vendors, SKG
 
