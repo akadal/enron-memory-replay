@@ -1,0 +1,181 @@
+{
+ "slice": 5,
+ "simulated_today": "2000-01-01",
+ "feed": {
+  "slice": 5,
+  "iso_week": "1999-W52",
+  "first_seq": 102,
+  "last_seq": 128,
+  "messages": 27,
+  "durable": 21,
+  "first_date": "1999-12-27 00:27",
+  "last_date": "2000-01-01 11:17",
+  "today": "2000-01-01",
+  "inbox_files": [
+   "1999-12-27--mail.md",
+   "1999-12-28--mail.md",
+   "1999-12-29--mail.md",
+   "1999-12-30--mail.md",
+   "2000-01-01--mail.md"
+  ],
+  "inbox_chars": 18394,
+  "l2_chars": 73480
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 377,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 16.0,
+  "seven_day": 3.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 5,
+  "messages": 27,
+  "durable": 21,
+  "kept": 20,
+  "kept_rate_excluding_redundant": 0.952,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 86,
+  "fact_lines_with_source": 120,
+  "dated": 120,
+  "date_matches_source": 120,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.67,
+   1.0,
+   null,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 541
+  },
+  "questions": {
+   "files": 1,
+   "chars": 270
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 30,
+   "chars": 34940
+  },
+  "people": {
+   "files": 13,
+   "chars": 9637
+  },
+  "archive_inbox": {
+   "files": 20,
+   "chars": 79454
+  },
+  "archive_mail": {
+   "files": 154,
+   "chars": 442237
+  },
+  "archive_other": {
+   "files": 1,
+   "chars": 753
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 375601,
+   "duration_api_ms": 321579,
+   "total_cost_usd": 2.4703186000000006,
+   "usage": {
+    "input_tokens": 88,
+    "cache_creation_input_tokens": 105088,
+    "cache_read_input_tokens": 4550413,
+    "output_tokens": 35959,
+    "output_tokens_details": {
+     "thinking_tokens": 10427
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 105088,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 829,
+      "cache_read_input_tokens": 135958,
+      "cache_creation_input_tokens": 921,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 921
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 88,
+     "outputTokens": 35959,
+     "cacheReadInputTokens": 4550413,
+     "cacheCreationInputTokens": 105088,
+     "webSearchRequests": 0,
+     "costUSD": 2.4703186000000006,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 10427,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 105088,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I ran the consolidation for 1999-W52 and committed it as `d25e0d8`. I did not push, because the run instructions say the runner pushes after its own checks (even though the last line said to push). Lint and sleep-audit both passed on the first try, and the audit passed again on the commit itself. All 21 messages with notes are accounted for: 20 are now cited in memory, and one (m00106, a list of expense-check amounts) is listed in `dataset/drops/sleep-005.tsv` as logistics.\n\n- **New topics:**\n  - The 1999 Arthur Andersen model-risk audit, including the owner's own words that nobody is in charge of approving models and that the Research Group does not control the models it builds.\n  - Stinson Gibner's LJM put valuation for Wes Colwell.\n  - An Argentina modelling meeting with Michael Guerriero in early January.\n- **Updates:**\n  - The 2000 conference list now has the Texas Finance Festival registration and two deadlines due in the first week of January: the talk title for the New York real options conference, and the title and bullet points for the Risk 2000 talk.\n  - The Risk Books offer, the INFOCAST panel, the revised paper from Martin Jermakyan, the attempt to hire Sam away from ProStaff, the lunch policy, the EIA's view on gas production, and the owner's flu.\n  - `state.md` and all four domain indexes are refreshed. The Bob Lee visit is off the Hot list because its date has passed.\n- **New people files:** Trisha Tlapek, Pinnamaneni Krishnarao (with \"Krishna Krishnarao\" as an alias, since one message uses both names), Cliff Baxter and Kevin Hannon, who each reached five messages with notes this week.\n- **Compression:** six files got smaller, and a few December 1999 one-off events moved to `memory/archive/organization/1999/`. Gibner's and Crenshaw's people files are still just over their targets (warnings only).\n\nNo sleep tasks, feedback blocks or open questions came up. I added nothing to `questions.md`, and none of the five oldest ongoing claims had gone out of da"
+  },
+  "repair": null
+ }
+}

@@ -1,0 +1,28 @@
+id	durable	status	detail
+m00102	yes	kept	domains/work/gas-flow-price-model.md people/clayton-vernon.md
+m00103	yes	kept	domains/work/ljm-put-valuation.md people/stinson-gibner.md
+m00104	yes	kept	domains/industry/speaking-engagements-2000.md
+m00105	yes	kept	domains/work/outside-requests.md
+m00106	yes	dropped	logistics: expense-check amounts sent to Shirley Crenshaw for processing
+m00107	yes	kept	domains/industry/speaking-engagements-2000.md people/shirley-crenshaw.md
+m00108	yes	kept	domains/personal/correspondence.md
+m00109	no	not_durable	quote_only
+m00110	no	not_durable	automated
+m00111	no	not_durable	pleasantry
+m00112	no	not_durable	pleasantry
+m00113	yes	kept	domains/industry/speaking-engagements-2000.md
+m00114	yes	kept	domains/organization/ena-reorganization.md people/cliff-baxter.md people/kevin-hannon.md
+m00115	no	not_durable	bulk
+m00116	yes	kept	domains/organization/research-group.md people/kevin-moore.md people/trisha-tlapek.md
+m00117	yes	kept	domains/work/credit-markets.md people/vasant-shanbhogue.md
+m00118	yes	kept	domains/work/credit-markets.md people/pinnamaneni-krishnarao.md people/vasant-shanbhogue.md
+m00119	no	not_durable	logistics
+m00120	yes	kept	domains/organization/staff-and-recruiting.md people/mike-roberts.md
+m00121	yes	kept	domains/organization/research-group.md domains/work/argentina-modelling.md people/shirley-crenshaw.md
+m00122	yes	kept	domains/work/research-presentations.md
+m00123	yes	kept	domains/industry/eprm-risk.md
+m00124	yes	kept	domains/work/credit-markets.md people/shirley-crenshaw.md people/vasant-shanbhogue.md
+m00125	yes	kept	domains/work/model-risk-audit.md
+m00126	yes	kept	domains/work/model-risk-audit.md
+m00127	yes	kept	domains/work/model-risk-audit.md people/stinson-gibner.md
+m00128	yes	kept	domains/industry/speaking-engagements-2000.md
