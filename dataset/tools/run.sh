@@ -14,7 +14,8 @@
 # citation of future mail. A ledger failure gets one recorded repair turn. Anything else stops
 # the run and leaves the repository as the harness left it.
 #
-# Environment: MODEL (claude-sonnet-5-5), CLAUDE (claude), PY (python3), QUOTA_STOP (80).
+# Environment: MODEL (claude-sonnet-5-5), CLAUDE (claude), PY (python3), QUOTA_STOP (80),
+# TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-).
 
 ROOT=$(cd "$(dirname "$0")/../.." && pwd) || exit 2
 cd "$ROOT" || exit 2
@@ -25,6 +26,8 @@ MODEL=${MODEL:-claude-sonnet-5-5}
 CLAUDE=${CLAUDE:-claude}
 PY=${PY:-python3}
 QUOTA_STOP=${QUOTA_STOP:-80}
+TAG_PREFIX=${TAG_PREFIX:-sleep-}
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
 RUNS=dataset/runs
 mkdir -p "$RUNS" dataset/drops
 FIRST_DAY=$($PY -c "import csv; print(next(csv.DictReader(open('dataset/manifest.csv', encoding='utf-8')))['local'][:10])")
@@ -61,7 +64,7 @@ while [ "$k" -le "$LAST" ]; do
   fi
   git add memory/inbox memory/archive/mail dataset/capture
   git commit -q -m "feed $kkk: $(echo "$FEED" | json_get "f\"{d['iso_week']}, messages {d['first_seq']}-{d['last_seq']} ({d['messages']}, {d['durable']} durable)\"")"
-  git push -q origin main || { echo "push failed after feed $k"; exit 2; }
+  git push -q origin "$BRANCH" || { echo "push failed after feed $k"; exit 2; }
   FEED_SHA=$(git rev-parse HEAD)
   git tag -f pre-sleep >/dev/null
 
@@ -86,8 +89,6 @@ block has notes but which you decide not to keep anywhere in L1: the id, a tab, 
 (m00042<TAB>no lasting value). A message you cite needs no line. Commit the file with the
 consolidation. A check after the run fails it if a message with notes is neither cited nor
 listed.
-
-Privacy: health, family and personal contact details are not distilled into L1.
 
 This repository is public on purpose: every message in it comes from the public CMU Enron
 release. Commit, but do not push; the runner pushes after its own checks. The pre-sleep
@@ -155,7 +156,7 @@ then make one commit 'sleep $kkk: coverage repair'. Do not push."
   fi
   git add "$RUNS" dataset/ledger
   git commit -q -m "run $kkk: consolidation record ($STATUS)"
-  git tag -f "sleep-$kkk" >/dev/null
-  git push -q origin main && git push -q -f origin "sleep-$kkk"
+  git tag -f "$TAG_PREFIX$kkk" >/dev/null
+  git push -q origin "$BRANCH" && git push -q -f origin "$TAG_PREFIX$kkk"
   k=$((k + 1))
 done

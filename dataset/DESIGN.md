@@ -26,7 +26,7 @@ Real eleman inboxes hold short notes written as things happen; long raw material
 archive. The capture step reproduces that: one call per message, seeing the message's new text,
 its headers, and up to three of the earlier messages it quotes as context, and nothing else (no
 memory, no later mail), so capturing the whole mailbox upfront cannot leak the future into any
-snapshot. Health, family and personal contact details are excluded at this step. Requests are
+snapshot. Requests are
 reproducible from `capture.py`, its `PROMPT_VERSION` and the manifest (their SHA-256 is stored);
 responses are stored verbatim with token usage and cost.
 
@@ -36,7 +36,7 @@ The prompt is `memory/tools/sleep-run.sh`'s, read at run time, with a preamble (
 is in `run.sh`) that adds: the simulated date; that notes are model inference and quoted owner
 words are the owner's own statement; that every fact line ends with `←[[m<seq>]]` and is dated by
 its source message; that the run lists in `dataset/drops/sleep-<kkk>.tsv` every message with notes
-it chose not to keep; that health, family and contact details are not distilled; and that it
+it chose not to keep; and that it
 commits but does not push.
 
 ## Gates (S6), checked from outside after every slice
@@ -66,6 +66,39 @@ eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing 
   `sleep-run.sh` is skipped (one machine); the runner, not the model, pushes.
 - Nobody answers `questions.md`: approval items pile up and close by status quo when due.
 - `python3` is a shim to `python` on the Windows machine that runs it.
+
+## The data is not altered
+
+Nothing in the mail is anonymised, redacted, corrected or filtered: the corpus has been public
+for two decades and is used as the CMU release holds it. Concretely:
+
+- L2 stores each source file whole, headers and body, decoded from Windows-1252 (zero bytes
+  needed a replacement character) with line endings normalised; `raw_sha256` is the checksum of
+  the original bytes.
+- No body is capped. Long messages are split into parts for the capture call only.
+- Quote pointers and the "new text" view exist only as input to the capture step; L2 keeps the
+  quoted text where it was.
+- Duplicate copies of one message across folders are replayed once; every copy's path is listed
+  in the manifest (`alias_paths`).
+- 26 messages carry no placeable date (25 with the 1979 placeholder, one dated 2005). They are not
+  replayed, because there is no week in which the owner could have received them, and are kept
+  verbatim in `memory/archive/mail/unplaced/`.
+- Neither the capture prompt nor the consolidation preamble asks the models to leave anything
+  out on grounds of privacy.
+
+## Model controls
+
+Each role uses one model throughout (README, "Models"). Whether the smaller models cost quality
+against Claude Opus 5.5, the model the reference deployment of eleman runs on, is measured on the
+pilot and kept in `dataset/validation/`:
+
+- **Capture:** a stratified sample of 96 pilot messages (half sent, half received, spread over
+  length quartiles) is captured again by Claude Opus 5.5 with the same prompt. A judge model
+  (Claude Sonnet 5.5, blind to which set is which) lists, per message, the facts in the Opus
+  notes missing from the dataset's notes, the dataset notes the message does not support, and
+  whether the durable verdicts agree (`control_capture.py`).
+- **Consolidation:** the first pilot slices are consolidated again on a branch `control-opus`
+  with Claude Opus 5.5 on the identical feed, and the two ledgers and memories are compared.
 
 ## Pilot and go/no-go
 

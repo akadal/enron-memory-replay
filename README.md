@@ -44,13 +44,35 @@ reviews the design went through before it ran.
 Branch `pilot-raw` keeps an earlier variant that fed raw mail straight into the inbox (three
 consolidations over messages 1-300); it is the baseline for the capture step.
 
-## Licence, ethics, citation
+## Models
+
+One model per role, fixed for the whole run, so every result can be read against a known setup.
+
+| Role | Model | How it is called |
+|---|---|---|
+| Capture (one call per message) | Claude Haiku 5.5 (`anthropic/claude-haiku-5.5`) | OpenRouter chat completions, prompt `capture-v2`, default sampling |
+| Consolidation, weekly | Claude Sonnet 5.5 (`claude-sonnet-5-5`) | Claude Code CLI, `claude -p`, eleman's sleep prompt plus the replay preamble |
+| Coverage repair turn (when needed) | Claude Sonnet 5.5 | same as consolidation |
+| Everything else (stream, description, slicing, gates, ledger) | none | deterministic Python |
+
+The CLI version, token counts and cost of every call are in `dataset/capture/` and
+`dataset/runs/`. Whether the smaller models lose anything against Claude Opus 5.5 is measured,
+not assumed: `dataset/DESIGN.md` describes the control runs and `dataset/validation/` holds them.
+
+## The data is used as it is
+
+The Enron mail has been public since 2003-2004 and is used here exactly as the CMU release
+holds it: nothing is anonymised, redacted, corrected or filtered out. Each message is kept
+byte-for-byte in content (only line endings are normalised; the checksum of the original bytes
+sits beside it). The only messages not replayed are 26 whose Date header cannot be placed on a
+timeline (a 1979 placeholder date, and one dated 2005); they are kept verbatim in
+`memory/archive/mail/unplaced/`. Duplicate copies of a message across folders are replayed once
+and listed in the manifest.
+
+## Licence and citation
 
 Code: MIT (`LICENSE`). Our own data (capture notes, distilled memory, ledger, run records):
-CC BY 4.0. Message text comes from the CMU release, public since 2004; no further rights are
-claimed over it. The people in it are real: health, family and personal contact details are
-kept out of the distilled memory, and anyone who appears in the data can ask for a removal by
-opening an issue.
+CC BY 4.0. Message text comes from the CMU release; no further rights are claimed over it.
 
 Until the frozen release has its own DOI, cite the source corpus and the mechanism:
 Klimt & Yang (2004), https://doi.org/10.1007/978-3-540-30115-8_22, and eleman,
