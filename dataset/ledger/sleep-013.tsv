@@ -1,0 +1,76 @@
+id	durable	status	detail
+m00715	yes	kept	domains/organization/recruiting-candidates.md
+m00716	yes	kept	domains/organization/software-licenses.md
+m00717	yes	kept	domains/personal/household.md people/ludmila-kaminski.md
+m00718	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
+m00719	yes	kept	domains/organization/recruiting-candidates.md domains/work/2000-02-20-london-trip.md
+m00720	yes	kept	domains/work/2000-02-20-london-trip.md people/peter-tufano.md
+m00721	yes	kept	domains/work/kmi-database-license.md
+m00722	yes	kept	domains/organization/summer-interns-2000.md people/april-hodgson.md
+m00723	yes	kept	domains/industry/aiesec-houston.md people/andrzej-wodnicki.md people/jarek-astramowicz.md
+m00724	no	not_durable	bulk
+m00725	yes	kept	domains/organization/summer-interns-2000.md
+m00726	yes	kept	domains/work/2000-02-20-london-trip.md
+m00727	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
+m00728	yes	kept	domains/organization/staff-and-recruiting.md people/chonawee-supatgiat.md
+m00729	yes	kept	domains/industry/eprm-risk.md people/katja-schilling.md
+m00730	yes	kept	domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00731	yes	kept	domains/organization/london-research.md
+m00732	yes	kept	domains/personal/household.md domains/work/stanford-research-ties.md people/nick-bambos.md
+m00733	yes	kept	domains/work/stanford-research-ties.md
+m00734	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
+m00735	yes	kept	domains/industry/aiesec-houston.md people/andrzej-wodnicki.md
+m00736	yes	kept	domains/industry/events-attending-2000.md
+m00737	yes	kept	domains/work/outside-requests.md
+m00738	yes	kept	domains/work/dabhol-power-sale.md
+m00739	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
+m00740	yes	kept	domains/organization/research-group.md
+m00741	yes	kept	domains/organization/summer-interns-2000.md people/sevil-yaman.md
+m00742	yes	dropped	logistics: Options training course books and memo schedule, group mailing
+m00743	yes	kept	domains/organization/summer-interns-2000.md people/sevil-yaman.md
+m00744	yes	kept	domains/work/broadband-services.md
+m00745	yes	kept	domains/organization/staff-and-recruiting.md people/jeff-shankman.md
+m00746	yes	kept	domains/work/broadband-services.md people/chonawee-supatgiat.md
+m00747	yes	kept	domains/work/kmi-database-license.md
+m00748	no	not_durable	bulk
+m00749	yes	kept	domains/organization/corporate-announcements-2000.md people/ginger-gamble.md
+m00750	yes	kept	domains/work/owner-publications.md people/les-clewlow.md
+m00751	yes	kept	domains/organization/research-group.md
+m00752	yes	kept	domains/work/outside-requests.md
+m00753	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00754	yes	kept	domains/work/ljm-put-valuation.md
+m00755	yes	kept	domains/industry/events-attending-2000.md
+m00756	yes	kept	domains/industry/market-outlooks-2000.md
+m00757	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00758	yes	kept	domains/personal/correspondence.md people/maruti-more.md
+m00759	no	not_durable	logistics
+m00760	no	not_durable	logistics
+m00761	yes	kept	domains/organization/summer-interns-2000.md
+m00762	yes	kept	domains/organization/recruiting-candidates.md people/jarek-astramowicz.md
+m00763	yes	kept	domains/organization/summer-interns-2000.md people/sevil-yaman.md
+m00764	no	not_durable	logistics
+m00765	no	not_durable	pleasantry
+m00766	yes	kept	domains/work/stanford-research-ties.md people/nick-bambos.md
+m00767	no	not_durable	logistics
+m00768	no	not_durable	quote_only
+m00769	yes	kept	domains/work/south-america-curves.md
+m00770	yes	kept	domains/industry/speaking-engagements-2000.md people/les-clewlow.md
+m00771	yes	kept	domains/work/south-america-curves.md
+m00772	no	not_durable	quote_only
+m00773	yes	kept	domains/organization/summer-interns-2000.md people/ginger-gamble.md people/paulo-rocha-e-oliveira.md people/sevil-yaman.md
+m00774	yes	kept	domains/work/dabhol-power-sale.md people/pinnamaneni-krishnarao.md
+m00775	yes	kept	people/peter-tufano.md
+m00776	no	not_durable	bulk
+m00777	yes	kept	domains/industry/eprm-risk.md
+m00778	yes	kept	domains/work/storage-model.md
+m00779	yes	kept	domains/organization/summer-interns-2000.md people/paulo-rocha-e-oliveira.md
+m00780	no	not_durable	bulk
+m00781	yes	kept	domains/work/broadband-services.md
+m00782	yes	kept	domains/organization/corporate-announcements-2000.md
+m00783	yes	dropped	no_owner_content: GARP mass mail seeking March panelists and a host; no owner action
+m00784	yes	kept	domains/work/outside-requests.md
+m00785	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
+m00786	yes	kept	domains/industry/aiesec-houston.md people/andrzej-wodnicki.md people/jarek-astramowicz.md
+m00787	yes	kept	domains/organization/summer-interns-2000.md people/april-hodgson.md people/paulo-rocha-e-oliveira.md
+m00788	no	not_durable	logistics
+m00789	yes	kept	domains/industry/speaking-engagements-2000.md people/peter-tufano.md
