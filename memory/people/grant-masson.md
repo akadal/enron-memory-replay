@@ -5,11 +5,11 @@ entity: person
 name: "Grant Masson"
 aliases: []
 domains: [organization, work]
-updated: 2000-02-19
+updated: 2000-10-01
 ---
 # Grant Masson
 
-V.P. Research in the owner's group; EB 1966, x34768. ←[[m00004]] ←[[m00157]] ←[[m00201]]
+V.P. Research in the owner's group (EB 1966, x34768) until he left Enron for a new venture on 29 Sep 2000 (memory/domains/organization/research-group.md). ←[[m00004]] ←[[m00157]] ←[[m00201]] ←[[m03387]]
 
 ## Context: organization
 

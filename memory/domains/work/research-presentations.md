@@ -3,18 +3,19 @@ id: research-presentations
 type: topic
 domain: work
 title: "Research group outreach: talks and Technical Corner"
-summary: "Group and owner talks (older archived), BBLOP, eThink follow-ups; EES Derivatives & Risk Management seminar, Session A 13 Sep, B-E to 2 Nov; Research Intelligence newsletter (editor Sam Smith): Technical Corner, Maureen Raymond's article needs edits, Paleologo's puzzle solution as fallback, Koepke's pound-sterling piece (Sep 2000)."
+summary: "Group and owner talks (older archived), EES Derivatives & Risk Management seminar (Krishnarao, to 2 Nov; spread-options file trimmed); Ken Lay used Gibner's and Campos's gas graphs (Sep 2000); Research Intelligence newsletter (editor Sam Smith): Zimin Lu's FX Technical Corner, Maureen Raymond's article needs edits, profile of Kirstee Hewitt."
 status: active
-updated: 2000-09-22
+updated: 2000-10-01
 ---
 # Research group outreach: talks and Technical Corner
 
-Detail ←[[research-presentations-2000-04-w15]] ←[[research-presentations-2000-04-w17]] ←[[research-presentations-2000-05-w21]] ←[[research-presentations-2000-07-w28]] ←[[research-presentations-2000-08-w31]] ←[[research-presentations-2000-08-w32]] ←[[research-presentations-2000-08-w34]] ←[[research-presentations-2000-09-w35]] ←[[research-presentations-2000-09-w36]] ←[[research-presentations-2000-09-w37]] ←[[research-presentations-2000-09-w38]]
+Detail ←[[research-presentations-2000-04-w15]] ←[[research-presentations-2000-04-w17]] ←[[research-presentations-2000-05-w21]] ←[[research-presentations-2000-07-w28]] ←[[research-presentations-2000-08-w31]] ←[[research-presentations-2000-08-w32]] ←[[research-presentations-2000-08-w34]] ←[[research-presentations-2000-09-w35]] ←[[research-presentations-2000-09-w36]] ←[[research-presentations-2000-09-w37]] ←[[research-presentations-2000-09-w38]] ←[[research-presentations-2000-10-w39]]
+- [2000-09-27] Krishnarao's presentation series (EES seminar to 2 Nov; Masson covered slides 4-9, option premium, of the GBM-BS deck): owner sends him and Anita Dupont the spread-options file: "I have eliminated some very technical, detailed pages about NYMEX spreads. This information is obsolete." ←[[m03323]] ←[[m03343]]
+- [2000-09-28] Rob Bradley (Public Policy Analysis): Ken Lay's gas supply and price talk at the Interstate Oil and Gas Compact Commission used Gibner's and Hector Campos's graphs (slides 11, 12, 14, 15); he wants them again for the Office of the Chairman. ←[[m03364]]
 
-- [2000-09-06] Research's 5-session Derivatives & Risk Management seminar for EES (Krishnarao forwards; Pat Twomey, EES): Session A, Forwards, Swaps and Options, Wed 13 Sep 1-5 pm, Forum 2AC, 12th floor (sign-up Esmeralda Hinojosa, x-57390; Crenshaw: Masson runs an Options Seminar that day); B-E 28 Sep, 9 Oct, 25 Oct, 2 Nov. ←[[m03122]] ←[[m03142]]
-- [2000-09-18] Owner returns Maureen Raymond's Technical Corner article: "The article for Technical Corner requires some editorial work.", "My comments are in magenta."; Sam Smith cannot split it (charts referenced at the end), holds the release until it is ready, final text via the owner; fallback: Giuseppe Paleologo's page-and-a-half solution to the probability problem (sent 15 Sep). ←[[m03228]] ←[[m03232]] ←[[m03234]]
 
 ## Research Intelligence / Technical Corner
 
 - [1999-12-26→] The weekly Intranet newsletter "Research Intelligence" carries a Technical Corner on quantitative techniques for business units. ←[[m00101]]
-- [2000-09-15] Sam Smith asks whether Gwyn Koepke's pound-sterling Tech Corner piece (Country Risk Case Study, 31 Aug; contacts Maureen Raymond, Yana Kristal) is usable; owner keeps it on AOL. ←[[m03210]]
+- [2000-09-28] Zimin Lu splits his Technical Corner paper at the owner's suggestion (FX market, then gas); the owner wants the FX part in next Monday's issue (Sam Smith). Maureen Raymond's article still needs edits (Sep). ←[[m03362]] ←[[m03228]]
+- [2000-09-29] Owner to Sam Smith: "We should profile Kirstee who is on rotation from London Office." ←[[m03400]]

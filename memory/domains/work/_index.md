@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-09-22
+updated: 2000-10-01
 ---
 # Work — index
 
@@ -9,13 +9,13 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Berkeley 16-17 Oct, Oren's IEOR seminar Mon 23 Oct (bullet points owed; Dasovich for California); CMU MSCF Fri 3 Nov, trip to book → memory/domains/work/campus-recruiting-fall-2000.md
-- CEFER Spring 2001 (22 Feb): owner and Causey recommend Skilling as keynote; Sera checks his calendar → memory/domains/work/ut-austin-ties-2000.md
-- John D. Martin's joint Enron paper due by Christmas; call Tuesday → memory/domains/work/university-relations.md
-- Racicot (EBS) funds the Enron/Stanford program, $100,000 → memory/domains/work/stanford-research-ties.md
-- Value Research Lab dropped (Causey, Kean); London AA meetings cancelled → memory/domains/work/value-research-lab.md
-- Factor loadings missing for most primary curves (London expiration dates) → memory/domains/work/var-backtesting-2000.md
-- Maureen's Technical Corner article needs edits; steel co-integration hedge (Andrea Reed) → memory/domains/work/research-presentations.md, memory/domains/work/desk-analysis-requests.md
+- INFORMS talk: memory/domains/industry/informs-san-antonio-2000.md; Oren's 23 Oct abstract sent; Berkeley 16-17 Oct; CMU MSCF 3 Nov → memory/domains/work/campus-recruiting-fall-2000.md
+- Stanford 14-15 Oct: dinner with Bambos Sun 15 Oct; Racicot's $100,000 check chased → memory/domains/work/stanford-research-ties.md
+- John D. Martin: joint paper (Enron Gas Services case), call Thu 28 Sep; UNO chair → memory/domains/work/university-relations.md
+- FFVols VaR kept out of production, hybrid vols tested → memory/domains/work/var-backtesting-2000.md
+- Owner joins MEC's advisory board → memory/domains/work/mec-molecular-electronics.md
+- NYMEX volumes for Chris Long; Oxley's HR value index (Dhar); Elsa's forward curves; Hickerson KM plan → memory/domains/work/desk-analysis-requests.md
+- MathWorks 18 Oct, EB1938, EBS joins → memory/domains/work/vendor-offers-2000.md; Lacima ch. 3 to print → memory/domains/work/lacima-book-2000.md
 
 ## Files
 
