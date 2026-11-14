@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-12-31
+updated: 2001-01-07
 ---
 # Industry — index
 
@@ -9,17 +9,17 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Wharton Tiger Team in Houston 18-19 Jan, Retail team wants EES material → memory/domains/industry/wharton-tiger-trip-jan-2001.md; Kunreuther's proposal → memory/domains/industry/wharton-visit-oct-2000.md
-- GARP 2001 slides by 5 Jan; GARP at Enron 30 Jan → memory/domains/industry/garp-2001.md; EPRM 2001 talk 14 May → memory/domains/industry/eprm-risk.md
-- Carmona 13 Feb, Oren (PSERC), Kholodnyi, Sheble in Q1 → memory/domains/industry/visitors-2001.md; Henwood ERCOT 23 Jan → memory/domains/industry/events-attending-2000.md
-- Baylor think tank and dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
-- California class action, NBER market-power paper → memory/domains/industry/california-power-2000.md
+- Petronas visit Thu 8 Feb, 10 am, RAC presentation → memory/domains/industry/petronas-visit-feb-2001.md
+- Wharton Tiger Team in Houston 18-19 Jan, one project in three sections → memory/domains/industry/wharton-tiger-trip-jan-2001.md
+- GARP 2001 slides due 5 Jan; GARP at Enron 30 Jan → memory/domains/industry/garp-2001.md; EPRM 2001 talk 14 May → memory/domains/industry/eprm-risk.md
+- Carmona 13 Feb, Oren, Kholodnyi (Dallas, a Friday), Sheble in Q1 → memory/domains/industry/visitors-2001.md; Henwood ERCOT 23 Jan, Tff2001 April → memory/domains/industry/events-attending-2000.md
+- EEI benchmarking declined → memory/domains/industry/declined-invitations-2000.md; Baylor dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis: CAISO caps, FERC remedies, class action (Dec 2000)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland: trainees (Dalecka), events, EuroLDS 2000; owner was in AIESEC Poland in the 1970s
-- memory/domains/industry/declined-invitations-2000.md — declined or passed invitations (PSERC, PGS, Risk Waters, Infocast)
+- memory/domains/industry/declined-invitations-2000.md — declined or passed invitations (EEI benchmarking, PSERC, PGS, Risk Waters)
 - memory/domains/industry/el-paso-capacity.md — El Paso firm capacity won by ENA (Dec 1999), deal terminated 31 Jan 2000
 - memory/domains/industry/eprm-risk.md — RISK's EPRM events, EPRM 2001 (Bristow), Hanley to the magazine
 - memory/domains/industry/esai-energycast-review.md — ESAI/WSI Energycast review (Ed Krapels, Jul 2000)
@@ -39,3 +39,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
 - memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project
+- memory/domains/industry/petronas-visit-feb-2001.md — Petronas risk management visit, 8 Feb 2001

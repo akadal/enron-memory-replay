@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-12-31
+updated: 2001-01-07
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- WTI simulation: Whalley's round-trip correction lowers profit; Ted Murphy's 24x7 EOL WTI controls → memory/domains/work/wti-eol-simulation-2000.md
-- India price and dispatch study with Henwood by end-Jan → memory/domains/work/india-power-study-henwood.md; DPC, LNG hedge → memory/domains/work/dabhol-power-sale.md
-- Combinatorial bandwidth auction, meeting 11 Jan → memory/domains/work/bandwidth-combinatorial-auction.md; Braveheart TRS → memory/domains/work/total-return-swaps-dec-2000.md
-- Non-normal VaR proposal resent, vatrfacs releases → memory/domains/work/var-backtesting-2000.md; EnergyDesk: no full VaR model → memory/domains/work/model-risk-audit.md
-- Martin wants the risk management section → memory/domains/work/enron-transformation-paper.md; Bambos: Cope and Giuseppe as interns → memory/domains/work/stanford-research-ties.md
+- India study signed 5 Jan, results end-Jan → memory/domains/work/india-power-study-henwood.md; Dabhol vs gensets → memory/domains/work/dabhol-energy-cost-jan-2001.md
+- Raptor cross-guarantees → memory/domains/work/talon-raptor.md; Genco model → memory/domains/work/genco-plant-model-2001.md
+- Auction meeting 11 Jan → memory/domains/work/bandwidth-combinatorial-auction.md; Credit.com call 12 Jan → memory/domains/work/enroncredit-support-2000.md
+- WTI smaller trades, crude early warning → memory/domains/work/wti-eol-simulation-2000.md
+- Paper: phone call on the 12_17 draft → memory/domains/work/enron-transformation-paper.md
 
 ## Files
 
@@ -34,5 +34,6 @@ Path: memory/domains/work/<name>.md
 - value-research-lab · var-backtesting-2000 · vega-var · vendor-offers-2000
 - ag-trading-report-2000 · jcc-brent-hedge · total-return-swaps-dec-2000 · wti-eol-simulation-2000
 - bandwidth-combinatorial-auction · india-power-study-henwood · seasonal-curve-fitting
+- dabhol-energy-cost-jan-2001 · genco-plant-model-2001 · ken-lay-speech-tax-cut · risktrac-europe-var
 
 Closed: 1
