@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-08-11
+updated: 2000-08-20
 ---
 # People — index
 
@@ -40,6 +40,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Bjorn Hagelmann
 - Blake Johnson
 - Bob Shults
+- Bobby Farris
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
@@ -80,6 +81,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ding Yuan
 - Dorn Hetzel
 - Doug Leach
+- Douglas Parsons (Douglas S Parsons, Doug Parsons)
 - Ed Krapels
 - Edward Kao
 - Ehud Ronn (Ehud I. Ronn)
@@ -187,6 +189,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Matthew Williams (Matt Williams)
 - Maureen Raymond
 - Michael Moscoso (Michael E Moscoso)
+- Michael Schilmoeller
 - Michael Sergeev
 - Mike McConnell
 - Mike Roberts (Mike A Roberts)
@@ -273,6 +276,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vadim Pokhlebkin
 - Van Ngo
 - Vasant Shanbhogue
+- Vera Apodaca
 - Vicky Windsor
 - Vincent Tang
 - Vladimir Gorny
