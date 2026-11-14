@@ -1,0 +1,199 @@
+{
+ "slice": 89,
+ "simulated_today": "2001-07-15",
+ "feed": {
+  "slice": 89,
+  "iso_week": "2001-W28",
+  "first_seq": 8682,
+  "last_seq": 8701,
+  "messages": 20,
+  "durable": 17,
+  "first_date": "2001-07-10 09:54",
+  "last_date": "2001-07-15 22:08",
+  "today": "2001-07-15",
+  "inbox_files": [
+   "2001-07-10--mail.md",
+   "2001-07-11--mail.md",
+   "2001-07-12--mail.md",
+   "2001-07-13--mail.md",
+   "2001-07-15--mail.md"
+  ],
+  "inbox_chars": 13143,
+  "l2_chars": 67185
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 455,
+ "quota_before": {
+  "five_hour": 22.0,
+  "seven_day": 52.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 24.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 89,
+  "messages": 20,
+  "durable": 17,
+  "kept": 17,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3410,
+  "fact_lines_with_source": 2140,
+  "dated": 2140,
+  "date_matches_source": 2088,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 745
+  },
+  "questions": {
+   "files": 1,
+   "chars": 898
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 215,
+   "chars": 383357
+  },
+  "people": {
+   "files": 684,
+   "chars": 440021
+  },
+  "archive_inbox": {
+   "files": 554,
+   "chars": 5092964
+  },
+  "archive_mail": {
+   "files": 8727,
+   "chars": 22196109
+  },
+  "archive_other": {
+   "files": 1657,
+   "chars": 1339644
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 39,
+   "duration_ms": 453141,
+   "duration_api_ms": 363531,
+   "total_cost_usd": 2.2108563999999995,
+   "usage": {
+    "input_tokens": 70,
+    "cache_creation_input_tokens": 104811,
+    "cache_read_input_tokens": 2854615,
+    "output_tokens": 40045,
+    "output_tokens_details": {
+     "thinking_tokens": 15316
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 104811,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 850,
+      "cache_read_input_tokens": 123058,
+      "cache_creation_input_tokens": 692,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 692
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002654,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 70,
+     "outputTokens": 40045,
+     "cacheReadInputTokens": 2854615,
+     "cacheCreationInputTokens": 104811,
+     "webSearchRequests": 0,
+     "costUSD": 2.2105909999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 15316,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 104811,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 38,
+   "result_summary": "I re-ran the 2001-07-15 consolidation for slice 089 and it finished: lint and sleep-audit are both green and it is one atomic commit on `main`. I did not push, because the task says the runner pushes after its own checks. That overrides the generic \"git push\" step.\n\n- **Messages:** all 17 messages with notes are cited in memory, so `dataset/drops/sleep-089.tsv` is committed empty.\n- **Where they went:** almost everything went into existing files: Dabhol press clips, the Bobby Demissie phone interview, Henwood's Market Stack, EPRM article 12 and Les's 23 Jul meeting at Enron, the NARG meeting, the Zone EF video conference, the owner's professional associations and his 13 Jul note, and the Reliability Var paper. The rest went to the people files for Garven, Krapels, Andrews, Lemmons, Warner, Toolson, Nesbitt and Rabi De. The only new file is `personal/california-trip-jul-2001.md`, for the 19 Jul San Francisco flight.\n- **People:** no one reached five messages, so no new entity files. \"Les\" and \"John Martin\" don't exactly match anyone in the alias table, so they stay unlinked and I added two alias questions to `questions.md`.\n- **Krapels question:** it was due 2001-07-13, so I closed it by status quo and noted that next to the `(?)` lines.\n- **Audit:** the first run was red on three files that had grown 159–183 characters, over the 150 tolerance (`recruiting-candidates`, `dabhol-power-sale`, `var-credit-system-2001`). I used the one allowed repair: moved one more old line from each to the archive and shortened Dabhol's list of links to its archive files. The second run was green.\n- **Also done:** nine over-target files moved their oldest lines verbatim to `memory/archive/<domain>/2001/`; no file was above 90% of its ceiling. `state.md` and all four indexes are updated. The five oldest still-open lines were checked and stay open.\n- **Logs:** the processed inbox logs are in `memory/archive/inbox/`. This run's own log stays in the inbox for the next run to archive.\n\nThe r"
+  },
+  "repair": null
+ }
+}
