@@ -5,7 +5,7 @@ entity: person
 name: "Joana Ryan Bekerman"
 aliases: ["Joana Bekerman"]
 domains: [work, organization]
-updated: 2001-01-07
+updated: 2001-02-10
 ---
 # Joana Ryan Bekerman
 
@@ -19,3 +19,4 @@ Enron staffer working with Jere Overdyke (ext. 54426). ←[[m04721]]
 ## Context: organization
 
 - [2000-11-29] On the interview panel for Alex Tartakouski ←[[m04482]]
+- [2000-11-29] (?) "Joana Ryan", Associate/Analyst co-host at the owner's Super Saturday table (1 Dec), may be her; the alias question lapsed unanswered (closed 2001-02-10), status quo: no alias, mention unassigned ←[[m04515]]

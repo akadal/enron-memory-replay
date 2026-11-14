@@ -3,9 +3,9 @@ id: ena-reorganization
 type: topic
 domain: organization
 title: "ENA and EGM organizational changes, 1999-2001"
-summary: "ENA reorganisations: Enron Global Markets formed 31 Jul 2000 (McConnell, Shankman); Enron Wholesale Services 8 Nov 2000 (Frevert, Whalley) and EWS Legal (archived); EGM crude and products by product line under Nowlan, Overdyke out, Sekse risk (30 Jan 2001); EIM Europe under Bruce Garner."
+summary: "ENA reorganisations: EGM formed 31 Jul 2000; EWS 8 Nov 2000 (archived); EGM product lines under Nowlan, Sekse risk (30 Jan 2001); 7 Feb 2001: Xcelerator under Lou Pai, Delainey to EES, Lavorato CEO and Kitchen COO of Enron Americas, Bibi CEO of Enron NetWorks."
 status: active
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # ENA organizational changes, Dec 1999 and Jul 2000
 
@@ -16,3 +16,4 @@ Announced by Cliff Baxter and Kevin Hannon (ENA Office of the Chairman). ←[[m0
 
 - [2001-01-30] EGM puts crude and products into product lines under John Nowlan (Schroeder physical, Bill White financial crude; Mahoney distillates; Niamh Clarke fuel oil; Goughary gasoline; Hansen, Gross LPG; Bland, Friedman petchems; Doug Leach); Randy Maffett leads origination; Enron Freight under Dan Reck; Overdyke leaves, Per Sekse runs Global Risk Management. Bruce Garner CEO of EIM Europe. ←[[m05676]] ←[[m05675]]
 - [2001-02-02] Cathy Phillips's revised EGM presentation (use only this one) to EGM leaders incl. the owner. ←[[m05763]]
+- [2001-02-07] Lay and Skilling: Enron Xcelerator for new businesses under Lou Pai; Dave Delainey chairs EES (Office of the Chairman: Dan Leff, Marty Sunde, Janet Dietrich COO; Tom White vice chairman); John Lavorato CEO of Enron Americas, Louise Kitchen COO; Philippe Bibi CEO of Enron NetWorks, Greg Piper COO. ←[[m05823]]

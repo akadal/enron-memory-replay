@@ -5,7 +5,7 @@ entity: person
 name: "Rakesh Bharati"
 aliases: []
 domains: [organization, work]
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # Rakesh Bharati
 
@@ -18,3 +18,4 @@ Joined the Research group in late Dec 2000. ←[[m04922]]
 ## Context: work
 
 - [2001-02-02] Credit and VaR work; passes Raptor position reports to Gibner → memory/domains/work/talon-raptor.md ←[[m05158]] ←[[m05257]] ←[[m05753]]
+- [2001-02-07] Raptors spreadsheet (6, 8 Feb); NDA and IP agreement for Titman's consulting → memory/domains/work/talon-raptor.md, memory/domains/work/ut-austin-ties-2000.md ←[[m05804]] ←[[m05824]] ←[[m05817]]

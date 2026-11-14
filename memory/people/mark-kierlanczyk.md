@@ -5,7 +5,7 @@ entity: person
 name: "Mark Kierlanczyk"
 aliases: []
 domains: [personal, organization]
-updated: 2001-01-27
+updated: 2001-02-10
 ---
 # Mark Kierlanczyk
 
@@ -18,3 +18,4 @@ The owner's friend Marek (Godel Partners LLC, New York; fmginy.com); writes in P
 ## Context: organization
 
 - [2001-01-18] Resume to Lavorato and Shankman (archived in candidate-interviews-feb-2001) ←[[m05405]] ←[[m05406]]
+- [2001-02-05] Owner organising a Houston interview programme for him (3-4 interviewers) → memory/domains/personal/correspondence.md ←[[m05791]]

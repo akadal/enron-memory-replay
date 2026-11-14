@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # People — index
 
@@ -104,6 +104,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Davies
 - David Dupre
 - David Gorte (Dave Gorte)
+- David Ikenberry
 - David Oxley
 - David Port
 - David Walkup (David C. Walkup)

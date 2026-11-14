@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- California: bankruptcy threat fading, rate order stayed to 14 Feb, standstill to 13 Feb → memory/domains/industry/california-power-jan-2001.md
-- Petronas Thu 8 Feb, EB3321, projector asked → memory/domains/industry/petronas-visit-feb-2001.md; Harvard 'Modern Giants' visit → memory/domains/industry/visitors-2001.md
-- GARP Convention Tue 13 Feb, owner chairs Track 4 → memory/domains/industry/garp-2001.md; UT conference 22-23 Feb → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Baylor dinner 23 Feb, Martin's workshop missed → memory/domains/industry/speaking-engagements-2000.md
-- Wharton: Team 3's NewPower plan, 32C2 on Thursdays; Mid-Project Review Tue 20 Feb → memory/domains/industry/wharton-tiger-trip-jan-2001.md
-- Rice: ALP scope meeting 31 Jan, MGMT 656 roster → memory/domains/industry/rice-university.md; Kholodnyi lunch in Dallas, early Feb → memory/domains/industry/visitors-2001.md
+- GARP Tue 13 Feb, owner chairs Track 4 → memory/domains/industry/garp-2001.md; UT conference 22-23 Feb → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Baylor panel and dinner 23 Feb, bio due → memory/domains/industry/speaking-engagements-2000.md
+- Rice: Ikenberry's corporate finance forum sent to Fastow; Karolyi 11-12 Mar, Jorion dinner 18 Mar → memory/domains/industry/rice-university.md
+- Wharton: MacMillan wants the real options binder (NDA first); Mid-Project Review 20 Feb → memory/domains/industry/wharton-tiger-trip-jan-2001.md
+- EPRM VaR course with Strickland and Clewlow proposed → memory/domains/industry/eprm-risk.md
+- California: rate order stayed to 14 Feb, standstill to 13 Feb → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
@@ -33,7 +33,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/market-outlooks-2000.md — outside market views, 2000
 - memory/domains/industry/real-options-debate-2000.md — real options debate (Apr 2000)
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
-- memory/domains/industry/rice-university.md — Rice: seminars, ALP team, MGMT 656, Ikenberry
+- memory/domains/industry/rice-university.md — Rice: seminars, ALP team, MGMT 656, Ikenberry's forum
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Baylor dinner 23 Feb 2001, SMS Oct 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
