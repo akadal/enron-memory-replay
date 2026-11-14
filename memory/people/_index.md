@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-08-03
+updated: 2001-08-10
 ---
 # People — index
 
@@ -191,6 +191,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Eric Groves
 - Eric Hilton
 - Eric Kirkpatrick
+- Eric Thode
 - Eric Toolson
 - Eric van Stone (Eric Van Stone)
 - Erik Simpson
@@ -459,6 +460,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ning Zhang
 - Norberto Valdes
 - Norma Villarreal
+- Norman Packard
 - Nur Azmin Abu Bakar
 - Nurit Krausz
 - Oliver Bennett
@@ -506,6 +508,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Piotr Karasinski
 - Pravas Sud
 - Praveen Mellacheruvu
+- Presly Schoenemann
 - Punit Rawal
 - Pushkar Shahi
 - Qing Chen
@@ -514,6 +517,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rachel Quirke
 - Radu Tutos
 - Rafal Weron
+- Raffi Amit
 - Raj Srivastava
 - Rajesh Sivaraman
 - Rajnish Kamat

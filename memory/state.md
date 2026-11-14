@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-08-03 (week 2001-W31). Owner in Houston; Prediction Company deal summary sent to Whalley; Toshiba proposes a Boltzmann prototype.
+As of 2001-08-10 (week 2001-W32). Owner in Houston; Prediction Company NDA drafted, Santa Fe trip with Whalley 17 or 24 Aug to be fixed Mon 13 Aug; Teesside explosion holds Greg in London.
 
-- Coming: Associates' happy hour 6 Aug; East Power transmission talks 7 and 21 Aug; Garvin (HBS) and Gas Rent Options 8 Aug; Cal campus team and EGM intern party 9 Aug; EPIS 12-14 Sep; UT class Sep-Oct; INFOCAST 10 Oct; SMS, IQPC Oct; ICBI Paris 6-9 Nov; CEFER 21-22 Feb 2002 → memory/domains/industry/_index.md
-- Owed: Risk Magazine referee report by 14 Aug; EPRM article 12 comments; K. Gill's feedback; Titman call (duplicate check); Prediction/UBS digging; Toshiba reply; risk-policy comments → memory/domains/work/_index.md
+- Coming: Wolak at Stanford 16 Aug; WeBI luncheon and Associates' dinner 15 Aug; East Power primer 21 Aug; UT class and reception 10 Sep; EPIS 12-14 Sep; INFOCAST 10 Oct; SMS, IQPC Oct; ICBI Paris 6-9 Nov → memory/domains/industry/_index.md
+- Owed: Risk Magazine referee report by 14 Aug; spark spread article comments; Oz crude basket model; Toshiba reply; Titman's valuation program → memory/domains/work/_index.md

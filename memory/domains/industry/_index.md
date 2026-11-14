@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-08-03
+updated: 2001-08-10
 ---
 # Industry — index
 
@@ -9,11 +9,12 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: SMS SFO 21-24 Oct; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
-- RISK: owner referees a swing option paper for Risk Magazine, report due 14 Aug; Zimin Lu's Risk Training Class; Glen Dixon at Risk 2001 Sydney 20-22 Aug → memory/domains/industry/eprm-risk.md
-- Visit: Toshiba (Uenohara) proposes a joint Boltzmann prototype; HBS's Garvin 8 Aug → memory/domains/industry/visitors-2001.md; UH's Kumar and Warga 3 Aug, Kumar's trading room → memory/domains/industry/uh-econophysics.md; UT CEFER 2002: Skilling keynotes → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Steffes's California paper → memory/domains/industry/california-power-jan-2001.md
-- Events: EPIS 12-14 Sep, owner plans to attend; PSERC advisory board 5-7 Dec → memory/domains/industry/events-attending-2001.md
-- Rice: energy derivatives course, Lacima's book the text → memory/domains/industry/rice-energy-derivatives-course.md; Darden weather case → memory/domains/industry/weather-insurance-markets.md; Garven: Baylor seminar fall 2001 → memory/people/jim-garven.md; Wharton Tiger Team 2001-02 → memory/domains/industry/wharton-projects-feb-2001.md
+- Speaking: SMS SFO 21-24 Oct, affiliation check by 27 Aug; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
+- RISK: owner referees a swing option paper for Risk Magazine, report due 14 Aug → memory/domains/industry/eprm-risk.md
+- Wharton: WeBI luncheon at Enron 15 Aug, owner attends → memory/domains/industry/wharton-projects-feb-2001.md; UH: Varga and Kumar's energy program, Ph.D. places for staff → memory/domains/industry/uh-econophysics.md
+- Visits: Toshiba's Boltzmann prototype; Michigan's Jussi Keppo wants to visit → memory/domains/industry/visitors-2001.md; UT CEFER 2002: Skilling keynotes, e-business and on-line trading topics → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Events: Bob Lee to Energy Exchanges Online II, New Orleans 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
+- Rice: energy derivatives course → memory/domains/industry/rice-energy-derivatives-course.md; Garven: Baylor seminar fall 2001 → memory/people/jim-garven.md
 
 ## Files
 
@@ -38,7 +39,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Baylor EMBA 27 Jul 2001, SMS and IQPC Oct 2001, ICBI Paris Nov 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga visit Aug 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
-- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba
+- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
 - memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project
