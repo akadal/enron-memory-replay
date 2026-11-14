@@ -1,0 +1,188 @@
+{
+ "slice": 54,
+ "simulated_today": "2000-12-10",
+ "feed": {
+  "slice": 54,
+  "iso_week": "2000-W49",
+  "first_seq": 4597,
+  "last_seq": 4708,
+  "messages": 112,
+  "durable": 84,
+  "first_date": "2000-12-04 00:04",
+  "last_date": "2000-12-10 22:07",
+  "today": "2000-12-10",
+  "inbox_files": [
+   "2000-12-04--mail.md",
+   "2000-12-05--mail.md",
+   "2000-12-06--mail.md",
+   "2000-12-07--mail.md",
+   "2000-12-08--mail.md",
+   "2000-12-09--mail.md",
+   "2000-12-10--mail.md"
+  ],
+  "inbox_chars": 60587,
+  "l2_chars": 242142
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 717,
+ "quota_before": {
+  "five_hour": 40.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 41.0,
+  "seven_day": 37.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 54,
+  "messages": 112,
+  "durable": 84,
+  "kept": 82,
+  "kept_rate_excluding_redundant": 0.976,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2146,
+  "fact_lines_with_source": 1416,
+  "dated": 1416,
+  "date_matches_source": 1379,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.91,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 651
+  },
+  "questions": {
+   "files": 1,
+   "chars": 830
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 146,
+   "chars": 246832
+  },
+  "people": {
+   "files": 397,
+   "chars": 270789
+  },
+  "archive_inbox": {
+   "files": 353,
+   "chars": 2805369
+  },
+  "archive_mail": {
+   "files": 4734,
+   "chars": 11460270
+  },
+  "archive_other": {
+   "files": 921,
+   "chars": 826434
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 715265,
+   "duration_api_ms": 616078,
+   "total_cost_usd": 4.6035238,
+   "usage": {
+    "input_tokens": 120,
+    "cache_creation_input_tokens": 195176,
+    "cache_read_input_tokens": 8701179,
+    "output_tokens": 65070,
+    "output_tokens_details": {
+     "thinking_tokens": 25899
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 195176,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1006,
+      "cache_read_input_tokens": 225723,
+      "cache_creation_input_tokens": 1244,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1244
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 120,
+     "outputTokens": 65070,
+     "cacheReadInputTokens": 8701179,
+     "cacheCreationInputTokens": 195176,
+     "webSearchRequests": 0,
+     "costUSD": 4.6035238,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 25899,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 195176,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "I ran the consolidation for week 2000-W49 and committed it as `75a5e1c`. I did not push, because your instructions say the runner pushes after its checks. Lint and sleep-audit were both green before the commit.\n\n- **Messages:** 112 arrived, 84 with notes. 82 are cited in L1. Two are in `dataset/drops/sleep-054.tsv`: m04604 (website login details, deliberately not kept) and m04687 (a thank-you with nothing lasting for the owner).\n- **What changed:** new facts went into 34 topic files. Older lines from 26 of them were moved word-for-word to `archive/*/2000/*-2000-12-w49.md`. The four domain indexes, `state.md` and the people alias table are updated.\n- **People:** seven people reached their fifth message this week and now have entity files: Kenneth Parkhill, Erin Rice, Julia Murray, Aziz Lookman, Cathy Phillips, Ron Tapscott and Frank Hayden. For Frank Hayden I assumed the GARP Houston director (KPMG address) and the later Enron address are the same person; that is marked `(?)`, not confirmed. I also updated the entity files for Jim Garven (now at Baylor), Yana Kristal and Stephen Bennett.\n- **Questions:** the \"Hunter Shiveley\" and \"Marc Roche\" alias questions passed their 5 Dec due date. I closed them by status quo: no aliases attached, with a `(?)` note in each entity file. No new questions were raised.\n- **Compression:** no file was above 90% of its ceiling. I still cut the largest touched files (for example, recruiting-candidates 2401→2022 and candidate-interviews-dec-2000 2329→1852). The two biggest hardly moved: the organization index went 3518→3505 and internal-meetings 2442→2445.\n- **Line rotation:** I checked the five oldest \"still true\" lines against this week's mail. Nothing contradicts them, so all stay open.\n- **One repair:** the first audit run failed because I had appended this run's log to the 2000-12-10 inbox file, which was already committed, before archiving it. I restored that file unchanged and put the log in `archive/inbox/2000-12-10--mail-2.md`. "
+  },
+  "repair": null
+ }
+}
