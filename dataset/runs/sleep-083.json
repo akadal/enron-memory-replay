@@ -1,0 +1,201 @@
+{
+ "slice": 83,
+ "simulated_today": "2001-06-06",
+ "feed": {
+  "slice": 83,
+  "iso_week": "2001-W23",
+  "first_seq": 8212,
+  "last_seq": 8372,
+  "messages": 161,
+  "durable": 81,
+  "first_date": "2001-06-04 00:00",
+  "last_date": "2001-06-06 06:12",
+  "today": "2001-06-06",
+  "inbox_files": [
+   "2001-06-04--mail.md",
+   "2001-06-05--mail.md",
+   "2001-06-06--mail.md"
+  ],
+  "inbox_chars": 65910,
+  "l2_chars": 624202
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 861,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 8.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 83,
+  "messages": 161,
+  "durable": 81,
+  "kept": 80,
+  "kept_rate_excluding_redundant": 0.988,
+  "drop_classes": {
+   "no_owner_content": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3406,
+  "fact_lines_with_source": 2119,
+  "dated": 2119,
+  "date_matches_source": 2068,
+  "date_mismatch_ids_this_slice": [
+   "m08287"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 622
+  },
+  "questions": {
+   "files": 1,
+   "chars": 525
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 213,
+   "chars": 378597
+  },
+  "people": {
+   "files": 673,
+   "chars": 431700
+  },
+  "archive_inbox": {
+   "files": 524,
+   "chars": 4901288
+  },
+  "archive_mail": {
+   "files": 8398,
+   "chars": 21205187
+  },
+  "archive_other": {
+   "files": 1568,
+   "chars": 1275322
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 64,
+   "duration_ms": 859538,
+   "duration_api_ms": 598540,
+   "total_cost_usd": 4.2943455,
+   "usage": {
+    "input_tokens": 108,
+    "cache_creation_input_tokens": 183563,
+    "cache_read_input_tokens": 7304413,
+    "output_tokens": 68213,
+    "output_tokens_details": {
+     "thinking_tokens": 25721
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 183563,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 995,
+      "cache_read_input_tokens": 201508,
+      "cache_creation_input_tokens": 994,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 994
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 29,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026690000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 108,
+     "outputTokens": 68213,
+     "cacheReadInputTokens": 7304413,
+     "cacheCreationInputTokens": 183563,
+     "webSearchRequests": 0,
+     "costUSD": 4.294078600000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 25721,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 183563,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 63,
+   "result_summary": "The 2001-06-06 consolidation (week 2001-W23) is committed as `05febd71`; I did not push it. Both checks passed before the commit (lint green, sleep-audit green). The instructions said both \"do not push, the runner pushes\" and \"git push origin main\", so I followed the first.\n\n- **What went in:** 161 messages arrived, 81 with notes; 80 are filed and one, m08298 (a forwarded newspaper opinion piece the owner only thanked for), is listed in `dataset/drops/sleep-083.tsv`. A check confirmed every noted message is either cited or listed there.\n- **Main items this week:** the owner suspended hiring for a few months because there is no office space. The Research mid-year performance review ran on 6 Jun. David Port set out who runs the VaR factor-loading process. The week also brought the Neptune transmission project, a call with Paul Quilkey about weather modelling, the Sparks meeting still waiting on Gary's OK, a Frontline programme on the California crisis, and the 14 Jun Wharton trip. Bill Balson sent Opt4 job openings for the owner's son, and Kate Lucas left on 6 Jun.\n- **Where it went:** everything went into existing topic files, with no new ones. To stay within the size limits, the oldest lines of each touched file were moved word for word to `memory/archive/<domain>/2001/*-2001-06-06.md`.\n- **New people files:** seven people reached five messages with notes: William Balson, Jeannie Mandelker, Rob Bradley, Joseph Pokalsky, Peter Veruki, Chris Pernoud and Ted Noble. Their aliases are in the new files themselves. Norman Packard only looked like he qualified (the other hits were \"Hewlett-Packard\" and an office called \"Packard 238\"), so he has no file.\n- **Compression:** only one file was above 90% of its size limit, `people/stinson-gibner.md`, so the rule asking for three such files could only be met once; it went from about 1,460 to 1,147 characters.\n- **Other housekeeping:** I refreshed `state.md` and the domain indexes, and checked the five oldest \"still true\" lines; a"
+  },
+  "repair": null
+ }
+}

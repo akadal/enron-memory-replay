@@ -1,0 +1,162 @@
+id	durable	status	detail
+m08212	no	not_durable	automated
+m08213	no	not_durable	automated
+m08214	no	not_durable	bulk
+m08215	no	not_durable	bulk
+m08216	no	not_durable	automated
+m08217	no	not_durable	bulk
+m08218	no	not_durable	pleasantry
+m08219	no	not_durable	pleasantry
+m08220	yes	kept	domains/work/weather-research-2001.md
+m08221	yes	kept	domains/industry/sponsorship-requests-2001.md
+m08222	yes	kept	domains/organization/officer-performance-review.md
+m08223	no	not_durable	bulk
+m08224	yes	kept	domains/work/research-presentations.md
+m08225	no	not_durable	pleasantry
+m08226	yes	kept	domains/organization/recruiting-candidates.md
+m08227	no	not_durable	logistics
+m08228	no	not_durable	bulk
+m08229	no	not_durable	automated
+m08230	no	not_durable	logistics
+m08231	yes	kept	domains/organization/staff-and-recruiting.md
+m08232	no	not_durable	other
+m08233	no	not_durable	automated
+m08234	yes	kept	domains/work/internal-meetings-2001.md
+m08235	no	not_durable	quote_only
+m08236	yes	kept	people/ford-cooper.md
+m08237	yes	kept	people/ford-cooper.md
+m08238	yes	kept	domains/work/vendor-offers-2001.md
+m08239	no	not_durable	automated
+m08240	yes	kept	domains/organization/summer-interns-2001.md people/peter-veruki.md
+m08241	yes	kept	domains/organization/summer-interns-2001.md people/peter-veruki.md
+m08242	yes	kept	domains/work/vendor-offers-2001.md
+m08243	yes	kept	domains/work/vendor-offers-2001.md people/ted-noble.md
+m08244	yes	kept	domains/organization/recruiting-candidates.md
+m08245	yes	kept	domains/work/transmission-modelling-2001.md
+m08246	yes	kept	domains/work/transmission-modelling-2001.md
+m08247	no	not_durable	bulk
+m08248	no	not_durable	bulk
+m08249	yes	kept	domains/work/vendor-offers-2001.md people/ted-noble.md
+m08250	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/household.md people/william-balson.md
+m08251	yes	kept	domains/industry/speaking-engagements-2000.md domains/personal/household.md people/william-balson.md
+m08252	yes	kept	domains/industry/speaking-engagements-2000.md
+m08253	yes	kept	domains/personal/household.md people/william-balson.md
+m08254	no	not_durable	bulk
+m08255	yes	kept	domains/personal/household.md
+m08256	yes	kept	domains/personal/household.md people/william-balson.md
+m08257	yes	kept	domains/organization/officer-performance-review.md
+m08258	yes	kept	domains/work/private-firm-credit-model-2001.md
+m08259	no	not_durable	bulk
+m08260	yes	kept	domains/personal/household.md
+m08261	yes	kept	domains/personal/household.md
+m08262	no	not_durable	bulk
+m08263	yes	kept	domains/industry/speaking-engagements-2000.md
+m08264	no	not_durable	bulk
+m08265	no	not_durable	bulk
+m08266	yes	kept	domains/organization/officer-performance-review.md people/chris-pernoud.md
+m08267	no	not_durable	bulk
+m08268	yes	kept	domains/organization/officer-performance-review.md
+m08269	no	not_durable	pleasantry
+m08270	no	not_durable	bulk
+m08271	no	not_durable	pleasantry
+m08272	no	not_durable	bulk
+m08273	yes	kept	domains/organization/officer-performance-review.md people/chris-pernoud.md
+m08274	no	not_durable	bulk
+m08275	yes	kept	domains/organization/officer-performance-review.md
+m08276	no	not_durable	automated
+m08277	no	not_durable	automated
+m08278	no	not_durable	automated
+m08279	no	not_durable	bulk
+m08280	no	not_durable	bulk
+m08281	no	not_durable	bulk
+m08282	yes	kept	domains/work/weather-research-2001.md
+m08283	no	not_durable	automated
+m08284	no	not_durable	bulk
+m08285	yes	kept	domains/industry/speaking-engagements-2000.md
+m08286	yes	kept	domains/industry/california-power-jan-2001.md
+m08287	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08288	yes	kept	domains/organization/officer-performance-review.md people/chris-pernoud.md
+m08289	yes	kept	domains/work/weather-research-2001.md
+m08290	yes	kept	domains/work/weather-research-2001.md
+m08291	yes	kept	domains/work/weather-research-2001.md
+m08292	yes	kept	domains/industry/speaking-engagements-2000.md domains/industry/wharton-risk-center-2001.md
+m08293	no	not_durable	automated
+m08294	no	not_durable	automated
+m08295	yes	kept	domains/industry/wharton-risk-center-2001.md
+m08296	yes	kept	domains/industry/wharton-risk-center-2001.md
+m08297	yes	kept	domains/industry/speaking-engagements-2000.md domains/industry/wharton-risk-center-2001.md
+m08298	yes	dropped	no_owner_content: forwarded NYT op-ed on energy supply; owner only thanked
+m08299	no	not_durable	pleasantry
+m08300	yes	kept	domains/industry/wharton-risk-center-2001.md
+m08301	no	not_durable	bulk
+m08302	no	not_durable	logistics
+m08303	yes	kept	domains/work/project-x-var-2001.md
+m08304	yes	kept	domains/industry/speaking-engagements-2000.md domains/industry/wharton-risk-center-2001.md
+m08305	yes	kept	domains/work/project-x-var-2001.md
+m08306	no	not_durable	bulk
+m08307	yes	kept	domains/work/project-x-var-2001.md
+m08308	yes	kept	domains/work/project-x-var-2001.md
+m08309	no	not_durable	automated
+m08310	yes	kept	domains/organization/recruiting-candidates.md
+m08311	no	not_durable	bulk
+m08312	yes	kept	domains/work/research-presentations.md
+m08313	no	not_durable	bulk
+m08314	no	not_durable	automated
+m08315	yes	kept	domains/work/country-risk-curves.md
+m08316	no	not_durable	bulk
+m08317	yes	kept	domains/industry/visitors-2001.md
+m08318	no	not_durable	automated
+m08319	yes	kept	domains/work/outside-requests-2001.md
+m08320	yes	kept	domains/organization/software-licenses.md
+m08321	no	not_durable	automated
+m08322	yes	kept	domains/work/research-presentations.md
+m08323	no	not_durable	logistics
+m08324	no	not_durable	bulk
+m08325	yes	kept	domains/organization/staff-and-recruiting.md people/kate-lucas.md
+m08326	yes	kept	domains/industry/california-power-jan-2001.md
+m08327	no	not_durable	bulk
+m08328	yes	kept	domains/work/outside-requests-2001.md
+m08329	no	not_durable	bulk
+m08330	no	not_durable	automated
+m08331	no	not_durable	bulk
+m08332	yes	kept	domains/industry/california-power-jan-2001.md domains/work/internal-meetings-2001.md people/jeannie-mandelker.md people/rob-bradley.md
+m08333	no	not_durable	automated
+m08334	yes	kept	domains/organization/recruiting-candidates.md
+m08335	yes	kept	domains/industry/california-power-jan-2001.md
+m08336	yes	kept	domains/industry/speaking-engagements-2000.md people/william-balson.md
+m08337	yes	kept	domains/industry/california-power-jan-2001.md
+m08338	yes	kept	domains/industry/california-power-jan-2001.md
+m08339	yes	kept	domains/organization/office-equipment.md
+m08340	no	not_durable	bulk
+m08341	yes	kept	domains/organization/recruiting-candidates.md
+m08342	no	not_durable	bulk
+m08343	yes	kept	domains/work/weather-research-2001.md
+m08344	yes	kept	domains/work/vendor-offers-2001.md
+m08345	yes	kept	domains/organization/corporate-announcements-2001.md
+m08346	no	not_durable	bulk
+m08347	no	not_durable	bulk
+m08348	yes	kept	domains/organization/recruiting-candidates.md
+m08349	yes	kept	domains/organization/software-licenses.md
+m08350	no	not_durable	automated
+m08351	no	not_durable	automated
+m08352	no	not_durable	automated
+m08353	no	not_durable	bulk
+m08354	no	not_durable	bulk
+m08355	no	not_durable	bulk
+m08356	no	not_durable	bulk
+m08357	no	not_durable	bulk
+m08358	no	not_durable	other
+m08359	no	not_durable	bulk
+m08360	no	not_durable	bulk
+m08361	no	not_durable	bulk
+m08362	no	not_durable	automated
+m08363	no	not_durable	automated
+m08364	no	not_durable	bulk
+m08365	yes	kept	domains/work/transmission-modelling-2001.md
+m08366	no	not_durable	bulk
+m08367	yes	kept	domains/personal/correspondence.md
+m08368	yes	kept	domains/personal/correspondence.md people/joseph-pokalsky.md
+m08369	no	not_durable	bulk
+m08370	yes	kept	domains/work/internal-meetings-2001.md people/jeannie-mandelker.md people/rob-bradley.md
+m08371	yes	kept	domains/industry/california-power-jan-2001.md domains/work/weather-research-2001.md
+m08372	yes	kept	domains/work/weather-research-2001.md
