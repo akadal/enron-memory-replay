@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-11
+updated: 2001-04-14
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Szablya 13 Apr (Neves), Rayfael Roman 19 Apr, Ningxiong Xu, SAIS economists for Maureen, Bhala 28 May → memory/domains/organization/candidate-interviews-apr-2001.md
-- HR: Anne Labbe replaces Norma Villarreal; Sevil's project bonus, check 16 Apr → memory/domains/organization/hr-matters-2001.md
-- London: Tony Hamilton started 9 Apr, Maureen back later in April → memory/domains/organization/tony-hamilton-london-2001.md; Danilov's E-credit, Jagdeo's PhD → memory/domains/organization/london-research.md
-- Group: Campos leaves 13 Apr; Astros 20/27 Apr; volleyball outing (Barkley) → memory/domains/organization/research-group-2001.md
-- Telerate cancelled bar Sokolov, refund likely; Platts → memory/domains/organization/office-equipment.md
+- Candidates: Manoj Gupta 16 Apr; Rayfael Roman and Sriram Vasudevan 19 Apr; Jacob Kang weak on finance; McCracken to Shanbhogue → memory/domains/organization/candidate-interviews-apr-2001.md
+- Interns: Jinbaek Kim says yes; Zhendong Xia 14 May-17 Aug, the last (no space) → memory/domains/organization/summer-interns-2001.md
+- HR: Anne Labbe replaces Norma Villarreal; Sevil's project bonus → memory/domains/organization/hr-matters-2001.md
+- London: Tony Hamilton in London from 9 Apr → memory/domains/organization/tony-hamilton-london-2001.md; Danilov's E-credit → memory/domains/organization/london-research.md
+- Group: Astros 20/27 Apr; volleyball (Barkley); Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; Livelink folder, Telerate cancelled → memory/domains/organization/office-equipment.md
 
 ## Files
 

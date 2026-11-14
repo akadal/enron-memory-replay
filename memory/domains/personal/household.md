@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones, work card; wife Ludmila Kaminski and son at Stanford, Escondido Village (Oct 2000); wife stays with the son in California till June, he graduates this spring (2 Apr 2001); Thanksgiving visit, Phoenix illness and sister's estate archived; investments: memory/domains/personal/investments-2000.md."
 status: active
-updated: 2001-04-08
+updated: 2001-04-14
 ---
 # Owner's household and personal admin
 
@@ -17,6 +17,7 @@ Detail ←[[household-2000-02-w06]] … (one archive file per week) ←[[househo
 - [2000-10-13] Wife Ludmila and son live at Stanford (Escondido Village 32B, Stanford, CA 94305; (650) 497 6938, cell (650) 465 9415); sent to Tanya Tamarchenko, who plans to visit them. ←[[m03617]]
 - [2001-01-31] Marysia (Poland; e-mail robertlu@friko6.onet.pl, via Ludmila, ludkam@aol.com) was to buy a book for the owner in Poland; the author now sends it himself. ←[[m05652]] ←[[m05708]] ←[[m05716]] ←[[m05718]]
 - [2001-04-02] Owner to Ikenberry: "my wife will stay with my son in California till June"; "my son graduates this spring from college". ←[[m06469]]
+- [2001-04-12] Owner notes his Time Warner account (number in the source) and Time Warner's line, 1-800-776-9993. ←[[m06812]] ←[[m06828]]
 
 ## History
 

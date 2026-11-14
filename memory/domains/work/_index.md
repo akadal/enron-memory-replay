@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-11
+updated: 2001-04-14
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: curve mapping forced by system limits, top positions as core curves, Research gives one person to police it, Port plans a VaR overhaul → memory/domains/work/var-credit-system-2001.md
-- Weather: internal model to go live, Werner to Houston in May (Quilkey reopens it), Bennett in London → memory/domains/work/weather-research-2001.md
-- CHARM judged a prototype → memory/domains/work/enterprise-risk-management.md; Rick Jones on the EES credit reserve model → memory/domains/work/ees-risk-reviews-jan-2001.md; outage model adds price-outage correlation → memory/domains/work/outage-risk-option-2001.md
-- Vendors: NumeriX docs, AURORA prices, WEFA lunch 1 May → memory/domains/work/vendor-offers-2001.md; MarketPoint to McCarty's Alaskan team → memory/domains/work/marketpoint-gas-model-2001.md
-- Outside: Thorne 4 May; Murphy and McCormack still owed; Geman's banker at Power 2001 → memory/domains/work/outside-requests-2001.md; Raptor valuation for AA → memory/domains/work/talon-raptor.md
+- VaR: top positions as core curves, one Research person polices mapping, Port scopes an overhaul; London VaR doc; hub/satellite correlations → memory/domains/work/var-credit-system-2001.md
+- EES credit model: Bradford wants a Credit/Research job, owner spent an hour with Rick Jones → memory/domains/work/ees-risk-reviews-jan-2001.md; Duffie project meeting Tue 17 Apr → memory/domains/work/model-risk-audit.md
+- Weather: Bennett and Hamilton serve ~40 London traders, NAO index asked, IT support → memory/domains/work/weather-research-2001.md
+- Vendors: WEFA lunch 1 May, AMR login, 3D option visualization demo → memory/domains/work/vendor-offers-2001.md; MarketPoint: Kim Watson takes over → memory/domains/work/marketpoint-gas-model-2001.md
+- Outside: Thorne 4 May; McCormack owed an outline; Geman's numbers to Gibner; Titman's invoice → memory/domains/work/outside-requests-2001.md
 
 ## Files
 

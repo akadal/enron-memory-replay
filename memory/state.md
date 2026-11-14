@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-04-11 (week 2001-W15). VaR curve mapping: Research gives one person, Port scopes a VaR overhaul; Sevil's project bonus via the new HR generalist Anne Labbe.
+As of 2001-04-14 (week 2001-W15). VaR: Port scopes an overhaul, Research polices curve mapping; EES credit model contested (Bradford); two summer interns confirmed (Kim, Xia), no more space.
 
-- Coming: Szablya and Campos's last day 13 Apr; NESA 18 Apr; Rayfael Roman 19 Apr; Texas Finance Festival 21 Apr; SIAM and Fowler dinner 27 Apr; WEFA 1 May; NFCF 4-5 May; Hansen and Thorne 4 May; Rice ALP 7 May → memory/domains/industry/_index.md
-- Owed: Murphy's answer; outline for McCormack; Kunreuther next week; yen paper reaction; Lacima approval (Fiona Grant) → memory/domains/work/outside-requests-2001.md
+- Coming: Manoj Gupta 16 Apr; Duffie project 17 Apr; NESA and Rice Finance Club 18 Apr; Roman and Vasudevan 19 Apr; TFF 21 Apr; SIAM, Fowler dinner, Zingales 27 Apr; WEFA 1 May; Hansen, Thorne 4 May; Kohli party 5 May; Rice ALP 7 May → memory/domains/industry/_index.md
+- Owed: outline for McCormack; Murphy's spark-spread answer; KWI answer Monday; Kunreuther; yen paper reaction; Lacima approval (Fiona Grant) → memory/domains/work/outside-requests-2001.md
