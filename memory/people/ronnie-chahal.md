@@ -5,11 +5,11 @@ entity: person
 name: "Ronnie Chahal"
 aliases: []
 domains: [organization, work, industry]
-updated: 2000-02-19
+updated: 2000-09-10
 ---
 # Ronnie Chahal
 
-Manager on the owner's wider Research list, working at EES. ←[[m00138]] ←[[m00214]]
+Manager on the owner's wider Research list, working at EES; by Sep 2000 at NewPower. ←[[m00138]] ←[[m00214]] ←[[m03145]]
 
 ## Context: organization
 
@@ -24,3 +24,4 @@ Manager on the owner's wider Research list, working at EES. ←[[m00138]] ←[[m
 ## Context: industry
 
 - [2000-01-20] Got CERA's hydro alert from the owner → memory/domains/industry/market-outlooks-2000.md ←[[m00406]]
+- [2000-09-07] Gathers background on WeatherWise (PGE's Weatherproof Bill) → memory/domains/industry/weather-insurance-markets.md ←[[m03145]]

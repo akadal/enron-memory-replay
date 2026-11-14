@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-09-03
+updated: 2000-09-10
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Rabi De: sign-on bonus to Lavorato (RAC VaR); Li Sun reports to Kindall → memory/domains/organization/candidate-interviews-aug-2000.md
-- Martin Lin: base 98,000, no retention bonus, offer 31 Aug → memory/domains/organization/mid-year-prc-2000.md
-- London: Steve's retention package "a fair deal"; Lamas in Houston 12 Sep → memory/domains/organization/london-research.md
-- GPG adjustment promised for August; owner's budget to Becky Pham → memory/domains/organization/research-accounting-2000.md
-- Geman's D-G licence agreed at $90,000, escrow in Amherst → memory/domains/organization/software-licenses.md
+- Rabi De: call Lavorato on the sign-on bonus; Li Sun reports to Kindall → memory/domains/organization/candidate-interviews-aug-2000.md
+- Valeria Stone interviewed Fri 8 Sep (moved from 13 Sep) → memory/domains/organization/candidate-interviews-sep-2000.md
+- London: Steve's package, nomination form then Sherriff; Lamas in Houston 12 Sep → memory/domains/organization/london-research.md
+- ENA allocation: 27.11% to commercial teams, Pham's list outdated → memory/domains/organization/research-accounting-2000.md
+- D-G Energy contract: 2-day support, 50/50 payment, escrow → memory/domains/organization/software-licenses.md
 
 ## Files
 

@@ -3,9 +3,9 @@ id: household
 type: topic
 domain: personal
 title: "Owner's household and personal admin"
-summary: "Owner's AOL account, home address, phones (cell 713 410 5396), work card; wife Ludmila Kaminski; son Vince at Stanford (senior year from Sep 2000), Easter together for three years; sister's estate case archived; investments: memory/domains/personal/investments-2000.md."
+summary: "Owner's AOL account, home address, phones (cell 713 410 5396), work card; wife Ludmila Kaminski; son Vince at Stanford (senior year from Sep 2000); family back to California early Sep; sister's estate case archived; investments: memory/domains/personal/investments-2000.md."
 status: active
-updated: 2000-08-26
+updated: 2000-09-10
 ---
 # Owner's household and personal admin
 
@@ -18,3 +18,4 @@ Detail ←[[household-2000-02-w06]] ←[[household-2000-02-w08]] ←[[household-
 - [2000-06-26] Wife Ludmila Kaminski (not "Kaminsky", Merrill Lynch fixed; ludkam@aol.com, sends him lists of written checks) is back home after a long absence: "I think I need the coming long weekend to clean up all the papers". ←[[m00218]] ←[[m00304]] ←[[m00710]] ←[[m00816]] ←[[m02114]]
 - [2000-08-09] Son Vince starts his senior year in 6 weeks, then wants to work, not do an advanced degree. ←[[m02781]]
 - [2000-08-23] Owner: Easter 2001 likely with his son "who goes to school in California"; "we were spending Easter together for the last three years". ←[[m02972]]
+- [2000-09-07] Owner: "I took a few days off before my family goes back to California." ←[[m03143]]

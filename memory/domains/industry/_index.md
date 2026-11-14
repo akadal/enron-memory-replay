@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-09-03
+updated: 2000-09-10
 ---
 # Industry — index
 
@@ -9,9 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- GARP 2001, New York 13-14 Feb: brochure details due 6 Sep; EPRM ERM 16-17 Nov → memory/domains/industry/speaking-engagements-2000.md
+- Fin Math NYC 11-12 Sep (fly Sun 10 Sep); London 21 Sep, Thursday only → memory/domains/industry/eprm-risk.md
+- USAEE/IAEE Philadelphia 24-27 Sep (VIP speaker); GARP 2001 bio sent → memory/domains/industry/speaking-engagements-2000.md
+- Rice/Enron finance seminars from 22 Sep → memory/domains/industry/rice-university.md
 - Wharton: owner, Christy and Palmer visit Tom Piazze in Oct; Tiger Teams (call Donna Piazze) → memory/domains/industry/research-memberships-2000.md
-- EPRI ancillary services workshop 7 Sep, registered → memory/domains/industry/events-attending-2000.md
 - Lubowski (Visa) in Palo Alto during the Bay Area trip 10-20 Oct → memory/domains/industry/visitors-2000.md
 
 ## Files
