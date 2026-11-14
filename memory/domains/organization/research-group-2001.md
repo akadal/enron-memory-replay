@@ -5,19 +5,18 @@ domain: organization
 title: "Research Group operations, 2001"
 summary: "Group rules and routines for 2001: one project-list template (Plans2001), arrival by 8:30, Mike Roberts and weather consolidation, forward curves not released, the Energy Derivatives seminar (from 19 Jan, mandatory for 2000 joiners) beside the Friday option-pricing brown bags (Jan 2001)."
 status: active
-updated: 2001-01-14
+updated: 2001-02-04
 ---
 # Research Group operations, 2001
 
-Detail ←[[research-group-2001-2001-01-w02]]
+Detail ←[[research-group-2001-2001-01-w02]] ←[[research-group-2001-2001-02-w05]]
 
 Members and staff meeting: memory/domains/organization/research-group.md.
 
 - [2001-01-02] Project lists: one template in Plans2001 (O:\Research\Common\FROM_WJK\PLANS\2001Plans), as "several parallel" copies had circulated: "Please, make sure I have not omitted anybody." ←[[m05082]]
 - [2001-01-02→] Arrival by 8:30 am at the latest, at the owner's request (clients call from 8:00); late arrivals tell the supervisor and Anita or Shirley first (Shanbhogue). The owner drafts the group's 2001 directions. ←[[m05099]]
-- [2001-01-02] To Lavorato (cc Delainey): "Mike deserves to be compensated for his exceptional contribution."; put all weather forecasting under Mike Roberts: "it was a mistake to remove Mike from power support." ←[[m05093]]
-- [2001-01-03] Forward curves are "a closely guarded secret of the trading desks"; to Margaret Carson: "We have no authority to release them without getting the head of the trading desk involved." ←[[m05110]] ←[[m05114]]
 - [2001-01-04] To Supatgiat: "I expect and encourage the members of the group to disagree with me (or anybody else) on any subject.", "In Enron, facts are friendly." ←[[m05153]]
+- [2001-01-31] Livelink as Research's document repository and project tracker (Moyez Lallani); Gibner's project attributes go to the test environment. 1 Feb Crenshaw adds Anita DuPont as backup timekeeper (Cost Center 107043). ←[[m05691]] ←[[m05731]]
 
 ## Energy Derivatives seminar
 

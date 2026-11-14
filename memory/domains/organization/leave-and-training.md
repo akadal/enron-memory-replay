@@ -3,16 +3,16 @@ id: leave-and-training
 type: topic
 domain: organization
 title: "Research Group leave, travel and training"
-summary: "Absences and courses: Crenshaw off 2 Feb; Alex Huang to the Real Option conference 27-28 Mar; Shanbhogue to Infocast 21-23 Feb; Java: Tamarchenko and Rabi De at Productivity Point 12-16 Feb, in-house DuraSoft course approved (Jan 2001); older items archived."
+summary: "Leave and training: Real Option conference for Alex Huang, Infocast for Shanbhogue (archived); Java: Productivity Point for Tamarchenko and Rabi De, in-house DuraSoft course split Feb 20-23 and Apr 9-12, 2001; owner's PJM 101 virtual workshop 27 Feb 2001."
 status: active
-updated: 2001-01-27
+updated: 2001-02-04
 ---
 # Research Group leave, travel and training
 
-Detail ←[[leave-and-training-2001-01-w01]] ←[[leave-and-training-2001-01-w02]] ←[[leave-and-training-2001-01-w03]] ←[[leave-and-training-2001-01-w04]]
+Detail ←[[leave-and-training-2001-01-w01]] ←[[leave-and-training-2001-01-w02]] ←[[leave-and-training-2001-01-w03]] ←[[leave-and-training-2001-01-w04]] ←[[leave-and-training-2001-02-w05]]
 
 Attendance reporting: memory/domains/organization/research-group.md. Detail ←[[leave-and-training-2000-02]] … (one archive file per week) ←[[leave-and-training-2000-10-w41]] ←[[leave-and-training-2000-10-w42]] ←[[leave-and-training-2000-11-w45]] ←[[leave-and-training-2000-11-w46]] ←[[leave-and-training-2000-11-w47]] ←[[leave-and-training-2000-12-w48]] ←[[leave-and-training-2000-12-w50]] ←[[leave-and-training-2000-12-w51]]
 
-- [2001-01-11] Alex Huang asks to attend the Real Option conference, 27-28 Mar; 12 Jan: "No problem." ←[[m05285]] ←[[m05311]]
-- [2001-01-23] Shanbhogue to Infocast's Congestion Pricing & Forecasting, Washington, 21-23 Feb: "No problem." ←[[m05506]]
-- [2001-01-26] Java: Tamarchenko and Rabi De keep Productivity Point's Intro to Java, 12-16 Feb; the owner waits to see who else needs it, then backs Gibner's in-house DuraSoft course (40 hours, up to 15, $15,000): "Makes perfect sense. Per head cost is much lower." ←[[m05572]] ←[[m05582]] ←[[m05584]]
+
+- [2001-01-31] Java: after the in-house DuraSoft plan ("Per head cost is much lower."; Vernon's group and Lloyd Will's analysts share the cost), DuraSoft (Venkat) teaches only full weeks; split option Feb 20-23 and Apr 9-12, noon-5: "Option 2 would be acceptable." ←[[m05584]] ←[[m05618]] ←[[m05630]] ←[[m05667]] ←[[m05714]]
+- [2001-02-01] Owner registered for Virtual Workshops' 'PJM 101: The Basics', 27 Feb, 9 am ET. ←[[m05736]]
