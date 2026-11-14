@@ -1,0 +1,187 @@
+{
+ "slice": 63,
+ "simulated_today": "2001-02-10",
+ "feed": {
+  "slice": 63,
+  "iso_week": "2001-W06",
+  "first_seq": 5771,
+  "last_seq": 5827,
+  "messages": 57,
+  "durable": 49,
+  "first_date": "2001-02-05 00:25",
+  "last_date": "2001-02-10 03:53",
+  "today": "2001-02-10",
+  "inbox_files": [
+   "2001-02-05--mail.md",
+   "2001-02-06--mail.md",
+   "2001-02-07--mail.md",
+   "2001-02-08--mail.md",
+   "2001-02-09--mail.md",
+   "2001-02-10--mail.md"
+  ],
+  "inbox_chars": 33653,
+  "l2_chars": 117753
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 573,
+ "quota_before": {
+  "five_hour": 12.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 14.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 63,
+  "messages": 57,
+  "durable": 49,
+  "kept": 47,
+  "kept_rate_excluding_redundant": 0.959,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2625,
+  "fact_lines_with_source": 1741,
+  "dated": 1741,
+  "date_matches_source": 1699,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 607
+  },
+  "questions": {
+   "files": 1,
+   "chars": 969
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 181,
+   "chars": 317882
+  },
+  "people": {
+   "files": 488,
+   "chars": 324643
+  },
+  "archive_inbox": {
+   "files": 410,
+   "chars": 3456110
+  },
+  "archive_mail": {
+   "files": 5853,
+   "chars": 14296846
+  },
+  "archive_other": {
+   "files": 1130,
+   "chars": 966685
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 571281,
+   "duration_api_ms": 439441,
+   "total_cost_usd": 3.4148072000000003,
+   "usage": {
+    "input_tokens": 116,
+    "cache_creation_input_tokens": 139285,
+    "cache_read_input_tokens": 6806116,
+    "output_tokens": 46942,
+    "output_tokens_details": {
+     "thinking_tokens": 18699
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 139285,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 660,
+      "cache_read_input_tokens": 170623,
+      "cache_creation_input_tokens": 453,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 453
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 116,
+     "outputTokens": 46942,
+     "cacheReadInputTokens": 6806116,
+     "cacheCreationInputTokens": 139285,
+     "webSearchRequests": 0,
+     "costUSD": 3.4148072000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 18699,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 139285,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "The 2001-02-10 consolidation is committed as one commit (e3125de), and both lint and sleep-audit passed; I did not push. Your instructions said both \"do not push\" and \"git push origin main\", and I followed \"do not push\" since the runner pushes after its own checks. Of the 57 messages, 49 had notes: 47 are now cited in memory and 2 are listed in `dataset/drops/sleep-063.tsv` (m05783, a forwarded LA Times link; m05798, a paper the owner forwarded to his own address). There is one new topic, `insurance-portfolio-risk-2001`, and about 20 existing files were updated. The main items are the typeset Martin paper with Christie Patrick's PR edits, India's Cabinet allowing 100% foreign equity in power trading, the 7 Feb Lay/Skilling reshuffle, every Wharton Tiger student being taken as an intern, Haughton's video-conference plan, and the Rice and Baylor dates. To stay inside the size limits, older lines from 17 files were moved to `archive/*/2001/*-2001-02-w06.md`; no file was above 90% of its ceiling. David Ikenberry reached five messages and got an entity file. Vuthy and Alec (Jeff Wesley's London colleagues) also reached five, but only their first names are known, so I left them without files. The Joana Ryan alias question was past its 6 Feb due date and was closed with no alias; the open item is marked in her file. The first audit run failed because I had appended that close note to the day's mail file, which the archive rules don't allow. I moved the note to `memory/archive/inbox/2001-02-10--mail-2.md`, as earlier runs did, so the note is not in the inbox file your instructions named. There were no sleep-task blocks. I checked the five oldest ongoing lines and nothing this week contradicts them, so they stay open. The runner's file `dataset/runs/sleep-063.transcript.jsonl` is still uncommitted."
+  },
+  "repair": null
+ }
+}
