@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-10-29
+updated: 2000-11-05
 ---
 # People — index
 
@@ -114,6 +114,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Erik Simpson
 - Eugenio Perez
 - Farouk Lalji
+- Fiona Grant
 - Frank Diebold
 - Fred Lagrasta
 - Gabriel Bitran
@@ -156,6 +157,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jim Irvine
 - Jim Schwieger
 - Jin Yu
+- Jinbaek Kim
 - Joan Payne
 - Joe Gold
 - Joe Hirko
@@ -221,8 +223,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ludmila Kaminski (Ludmila)
 - Lyn Malina
 - Manuel Rensink
+- Marc De La Roche
 - Margaret Carson
 - Marie Hejka
+- Mark Frevert
 - Mark Giancola
 - Mark Koenig
 - Mark Lay
@@ -273,9 +277,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Quentin Kerr
 - Rabi De
 - Radu Tutos
+- Rajnish Kamat
 - Ravi Thuraisingham
 - Ray Bowen
 - Raymond Yeow
+- Richard Carson
 - Richard Causey (Rick Causey)
 - Richard DiMichele
 - Richard Lewis
@@ -301,6 +307,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Scott Neal
 - Scott Stoness
 - Scott Tholan
 - Scott Wakefield

@@ -5,7 +5,7 @@ entity: person
 name: "Michael Schilmoeller"
 aliases: []
 domains: [organization, work]
-updated: 2000-08-26
+updated: 2000-11-05
 ---
 # Michael Schilmoeller
 
@@ -14,6 +14,7 @@ PGN, Portland (Michael_Schilmoeller@pgn.com); Portland video-conference contact;
 ## Context: organization
 
 - [2000-08-15] Points Niclas Egmar to West Coast data sources (GADS, EIA, WSCC, CEC, BPA) → memory/domains/organization/research-group.md ←[[m02840]] ←[[m02844]]
+- [2000-11-02] At Gibner's request names Tim Heizenrader (503-464-7462), his West Desk colleague, now heading Fundamentals and Research for Tim Belden (unrelated to the owner's group) ←[[m04005]]
 
 ## Context: work
 

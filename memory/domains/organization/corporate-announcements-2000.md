@@ -3,9 +3,9 @@ id: corporate-announcements-2000
 type: topic
 domain: organization
 title: "Enron corporate announcements, 2000"
-summary: "Company-wide news, 2000: Cliff Baxter Vice Chairman (Oct); EECC split among ETS, NEPCO and EES; Jordan Mintz to Enron Global Finance; COOs Bowen (EIM), Lavorato (ENA), Shankman (EGM) (Oct 2000); ClickAtHome, Outlook 2000, University Affairs and older items archived."
+summary: "Company-wide news, 2000: Cliff Baxter Vice Chairman (Oct); EECC split among ETS, NEPCO and EES; COOs Bowen (EIM), Lavorato (ENA), Shankman (EGM); Sutton leaves; XMS expense reports from 30 Oct (Oct 2000); older items archived."
 status: active
-updated: 2000-10-29
+updated: 2000-11-05
 ---
 # Enron corporate announcements, 2000
 
@@ -15,3 +15,4 @@ Detail ←[[corporate-announcements-2000-02-w08]] … (one archive file per week
 - [2000-10-18] Jordan H. Mintz becomes VP & General Counsel, Enron Global Finance; Stephen H. Douglas heads ENA tax (Robert J. Hermann). ←[[m03728]]
 - [2000-10-19] EECC split (Office of the Chairman): pipeline construction (Jerry Martin) to Enron Transportation Services, NEPCO stand-alone, the rest to EES (Larry Izzo). Ameriflash: COOs Ray Bowen (EIM), Lavorato (ENA), Shankman (EGM); Upstream Origination: Julie Gomez, Jean Mrha. ←[[m03739]] ←[[m03741]]
 - [2000-10-24] Vice Chairman Joe Sutton leaves after eight years (Lay and Skilling: he made Enron global), citing Enron's decreased emphasis on international asset development. ←[[m03788]] ←[[m03789]]
+- [2000-10-31] Concur's XMS (intranet expense reports linked to SAP) replaces the Excel form: Corp (company 0011) from 30 Oct, other units through Jan 2001; training at IT Central or online (LEAP). ←[[m03944]]

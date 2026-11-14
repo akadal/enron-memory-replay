@@ -5,7 +5,7 @@ domain: organization
 title: "Research Group leave, travel and training"
 summary: "Absences and courses: Tamarchenko at Stanford's credit risk programme, out 16-23 Oct; Maureen's Washington conference 19 Oct; Sevil Yaman to UCEI's power conference, Berkeley, Mar 2001 (Oct 2000); older items archived."
 status: active
-updated: 2000-10-29
+updated: 2000-11-05
 ---
 # Research Group leave, travel and training
 
@@ -16,3 +16,4 @@ Attendance reporting: memory/domains/organization/research-group.md. Detail ←[
 - [2000-10-18] Sevil Yaman may attend UC Energy Institute's one-day power conference, Berkeley, March 2001: "No problem." ←[[m03703]]
 - [2000-10-24] Gwyn Koepke's French lessons (Melly's, paid by Research; A/A stopped paying 1/99, Ivonne Brown): she moves to a cheaper private tutor; owner: "No problem. Please, continue with your current tutor." ←[[m03767]] ←[[m03803]] ←[[m03808]]
 - [2000-10-24] Sevil Yaman to UC Berkeley's Electricity Summit (Goldman School, 13 Nov; California restructuring): "Yes, please, go ahead. We shall pay for the trip." ←[[m03779]] ←[[m03795]]
+- [2000-11-02] Avistar basics class (Phillip Daigle, at 3240D): owner: "I would like to take the class as well."; Kevin Moore, Mike Roberts, Jose Marquez too. ←[[m03998]]
