@@ -1,0 +1,199 @@
+{
+ "slice": 77,
+ "simulated_today": "2001-05-02",
+ "feed": {
+  "slice": 77,
+  "iso_week": "2001-W18",
+  "first_seq": 7337,
+  "last_seq": 7530,
+  "messages": 194,
+  "durable": 171,
+  "first_date": "2001-04-30 00:36",
+  "last_date": "2001-05-02 08:06",
+  "today": "2001-05-02",
+  "inbox_files": [
+   "2001-04-30--mail.md",
+   "2001-05-01--mail.md",
+   "2001-05-02--mail.md"
+  ],
+  "inbox_chars": 114233,
+  "l2_chars": 413243
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 828,
+ "quota_before": {
+  "five_hour": 58.0,
+  "seven_day": 48.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 63.0,
+  "seven_day": 49.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 77,
+  "messages": 194,
+  "durable": 171,
+  "kept": 170,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {
+   "redundant": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3307,
+  "fact_lines_with_source": 2043,
+  "dated": 2043,
+  "date_matches_source": 1994,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.94
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 694
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1413
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 212,
+   "chars": 385194
+  },
+  "people": {
+   "files": 609,
+   "chars": 395870
+  },
+  "archive_inbox": {
+   "files": 486,
+   "chars": 4462194
+  },
+  "archive_mail": {
+   "files": 7556,
+   "chars": 18804461
+  },
+  "archive_other": {
+   "files": 1416,
+   "chars": 1170441
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 54,
+   "duration_ms": 827170,
+   "duration_api_ms": 700496,
+   "total_cost_usd": 5.2378139,
+   "usage": {
+    "input_tokens": 106,
+    "cache_creation_input_tokens": 237468,
+    "cache_read_input_tokens": 8966310,
+    "output_tokens": 77206,
+    "output_tokens_details": {
+     "thinking_tokens": 37391
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 237468,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 920,
+      "cache_read_input_tokens": 256134,
+      "cache_creation_input_tokens": 273,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 273
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 106,
+     "outputTokens": 77206,
+     "cacheReadInputTokens": 8966310,
+     "cacheCreationInputTokens": 237468,
+     "webSearchRequests": 0,
+     "costUSD": 5.23755,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 37391,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 237468,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 53,
+   "result_summary": "The consolidation for week 2001-W18 (simulated date 2001-05-02) is committed as `3094ac47`, and both lint and sleep-audit passed. I did not push: your replay instructions say the runner pushes after its own checks, which overrides the generic push step at the end of the prompt.\n\n- **Messages:** 194 arrived and 171 had notes. 170 of those are cited in memory. One is listed in `dataset/drops/sleep-077.tsv`: m07516, a repeat request to put the PIRA outlook dates on the calendar, which was already done on 23 Apr.\n- **Topic filing:** every fact went into an existing standing topic, and no file named after a week or month was opened. The only new topic is `industry/rice-energy-derivatives-course.md`, for the Rice MGMT 656 course; its earlier lines were moved verbatim from `rice-university.md` to the archive. Main threads this week:\n  - Rice: term papers, grades and the ALP presentation on 7 May.\n  - Iris Mack's Enron Credit strategy work in London and her plan for Duffie.\n  - Non-firm power curves and the dual trigger option.\n  - MarketPoint, Willow/Pathstar, the Dabhol lenders' deck, Maureen Raymond's position and Gwyn Koepke's promotion.\n  - New candidates and the EPRM and Risk Waters speaking dates.\n- **Making room:** no file was above 90% of its ceiling, so the \"compress three files\" quota didn't apply. The 26 over-target files that took new lines had their oldest lines moved verbatim to `memory/archive/<domain>/2001/*-2001-05-w18.md`.\n- **People:** 20 new entity files. Peter Percell, Danny McCarty, Stanley Horton, Joanna Vidal, Jean Ryall, Christi Nicolay, George Albanis, Nigel Price, Phanish Puranam, Mulong Wang and seven Rice students crossed five noted messages this week. Larry Thorne had crossed last week, and \"Larry\" in the NDA thread is him (same email address).\n- **Questions:** none was due, so none closed. No (sleep-task) or (feedback) blocks were in the inbox.\n- **Index and housekeeping:** the three domain indexes, `state.md` and the people index are refresh"
+  },
+  "repair": null
+ }
+}
