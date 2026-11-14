@@ -1,0 +1,201 @@
+{
+ "slice": 90,
+ "simulated_today": "2001-07-21",
+ "feed": {
+  "slice": 90,
+  "iso_week": "2001-W29",
+  "first_seq": 8702,
+  "last_seq": 8741,
+  "messages": 40,
+  "durable": 31,
+  "first_date": "2001-07-16 06:14",
+  "last_date": "2001-07-21 04:11",
+  "today": "2001-07-21",
+  "inbox_files": [
+   "2001-07-16--mail.md",
+   "2001-07-17--mail.md",
+   "2001-07-18--mail.md",
+   "2001-07-19--mail.md",
+   "2001-07-21--mail.md"
+  ],
+  "inbox_chars": 28513,
+  "l2_chars": 103086
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 423,
+ "quota_before": {
+  "five_hour": 24.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 26.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 90,
+  "messages": 40,
+  "durable": 31,
+  "kept": 30,
+  "kept_rate_excluding_redundant": 0.968,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3408,
+  "fact_lines_with_source": 2139,
+  "dated": 2139,
+  "date_matches_source": 2087,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 691
+  },
+  "questions": {
+   "files": 1,
+   "chars": 898
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 215,
+   "chars": 382891
+  },
+  "people": {
+   "files": 685,
+   "chars": 441089
+  },
+  "archive_inbox": {
+   "files": 561,
+   "chars": 5125791
+  },
+  "archive_mail": {
+   "files": 8767,
+   "chars": 22299195
+  },
+  "archive_other": {
+   "files": 1673,
+   "chars": 1350502
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 39,
+   "duration_ms": 421760,
+   "duration_api_ms": 383968,
+   "total_cost_usd": 2.566945300000001,
+   "usage": {
+    "input_tokens": 74,
+    "cache_creation_input_tokens": 125879,
+    "cache_read_input_tokens": 3529367,
+    "output_tokens": 42674,
+    "output_tokens_details": {
+     "thinking_tokens": 17501
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 125879,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 686,
+      "cache_read_input_tokens": 144297,
+      "cache_creation_input_tokens": 521,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 521
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 74,
+     "outputTokens": 42674,
+     "cacheReadInputTokens": 3529367,
+     "cacheCreationInputTokens": 125879,
+     "webSearchRequests": 0,
+     "costUSD": 2.566681400000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 17501,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 125879,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 38,
+   "result_summary": "The 2001-07-21 consolidation is committed as `a32ea683`. Both gates (`lint.py` and `sleep-audit.py`) passed on the first try. I did not push, because the replay instructions say the runner pushes after its own checks.\n\nAll 31 messages with notes from week 2001-W29 were handled. Thirty went into existing topic files, each line linked to its source message. The main items:\n- the owner agreed to referee a swing-option paper for Risk Magazine, report due 14 Aug\n- he sent Duffie the \"Reliability Var\" paper as the first document for audit\n- Toshiba's Dr. Uenohara may visit Houston 31 Jul–4 Aug\n- Christian Werner wants to move from Sydney to Houston, but Paul Quilkey has not released him\n- the \"Changes at EBS\" memo\n- the owner's family is moving back to Houston from California\n\nThe one dropped message is m08738 (a calendar-delegate request), listed as logistics in `dataset/drops/sleep-090.tsv`. Glen Dixon reached five messages with notes, so he now has `memory/people/glen-dixon.md` and a line in the alias table. \"Debra\" stays unlinked because the bare name also matches a different Debra at Rice from 2000.\n\nMost files I touched were already over their size target. In 16 of them, the oldest lines moved word-for-word to `memory/archive/<domain>/2001/*-2001-07-21.md` so the files would not grow. No file was above 90% of its ceiling, so the rule to shrink three such files had nothing to act on.\n\nThe indexes, `state.md` and the run log are updated, and the processed inbox files are in `memory/archive/inbox/`. No question was due, and the inbox had no sleep-task or feedback blocks. The five oldest ongoing lines are still valid."
+  },
+  "repair": null
+ }
+}
