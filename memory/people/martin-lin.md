@@ -5,7 +5,7 @@ entity: person
 name: "Martin Lin"
 aliases: []
 domains: [organization, work]
-updated: 2000-03-12
+updated: 2001-10-21
 ---
 # Martin Lin
 
@@ -19,3 +19,4 @@ Research Group member. ←[[m00004]]
 
 - [2000-02-15] Rotates to EBS research under Jim Irvine from 1 Mar → memory/domains/work/broadband-services.md ←[[m00632]]
 - [2000-03-07] Harvard Electricity Group panel 16 Mar (FERC transmission resale); OPNET demo → memory/domains/industry/ferc-transmission-resale.md ←[[m00894]] ←[[m00914]]
+- [2001-10-19] On Wolak's PJM critique → memory/domains/work/transmission-modelling-2001.md ←[[m09411]]

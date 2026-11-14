@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-09-23
+updated: 2001-10-21
 ---
 # People — index
 
@@ -297,6 +297,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joan Payne
 - Joana Ryan Bekerman (Joana Bekerman)
 - Joanna Vidal
+- Joannie Williamson
 - Joao Neves
 - Joe Deffner
 - Joe Gold
@@ -397,6 +398,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lucy Ortiz
 - Ludmila Kaminski (Ludmila)
 - Luigi Calabrese
+- Luke Eleftheriou
 - Lyn Malina
 - Lynn Nazareth
 - Maheshram Vittal (Ram Vittal)
@@ -520,6 +522,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
 - Piotr Karasinski
 - Pravas Sud
+- Praveen Kumar
 - Praveen Mellacheruvu
 - Presly Schoenemann
 - Punit Rawal

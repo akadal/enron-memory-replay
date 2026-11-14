@@ -5,7 +5,7 @@ entity: person
 name: "Tom Halliburton"
 aliases: []
 domains: [organization, work]
-updated: 2001-09-28
+updated: 2001-10-21
 ---
 # Tom Halliburton
 
@@ -15,6 +15,7 @@ Power engineer (ex-utilities in the northwestern US and New Zealand: asset plann
 
 - [2000-03-01] Masson proposed taking him into Research; OR experience, little options background → memory/domains/organization/staff-and-recruiting.md ←[[m00834]] ←[[m01052]]
 - [2000-05-11] Asks to buy XPRESS licences for the gas storage model; on the CPLEX thread → memory/domains/organization/software-licenses.md ←[[m01642]] ←[[m01721]] ←[[m01727]]
+- [2001-10-18] Leaves Enron 2 Nov; owner recommends him for Sydney → memory/domains/organization/staff-and-recruiting.md ←[[m09322]] ←[[m09339]]
 
 ## Context: work
 

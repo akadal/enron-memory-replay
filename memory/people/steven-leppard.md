@@ -5,7 +5,7 @@ entity: person
 name: "Steven Leppard"
 aliases: []
 domains: [organization, work]
-updated: 2000-04-28
+updated: 2001-10-21
 ---
 # Steven Leppard
 
@@ -14,6 +14,7 @@ Member of Enron Europe's Research team in London; promoted to Manager in Jan 200
 ## Context: organization
 
 - [2000-04-28] Plans London's summer visits to Houston (Hewitt, Parsons, Williams, himself) → memory/domains/organization/london-research.md ←[[m01559]] ←[[m01565]]
+- [2001-10-17] London Research may be dismantled → memory/domains/organization/london-research.md ←[[m09301]]
 
 ## Context: work
 

@@ -4,8 +4,8 @@ type: entity
 entity: person
 name: "Shawn Cumberland"
 aliases: []
-domains: [organization, work]
-updated: 2001-04-08
+domains: [organization, work, personal]
+updated: 2001-10-21
 ---
 # Shawn Cumberland
 
@@ -18,3 +18,7 @@ Enron business developer who met the owner in Nov 2000 and asked him about Bogda
 ## Context: work
 
 - [2001-04-06] Comdata fleet-card data and trucking supply/demand → memory/domains/work/vendor-offers-2001.md ←[[m06554]]
+
+## Context: personal
+
+- [2001-10-19] Lunch with the owner Tue 23 Oct → memory/domains/personal/correspondence.md ←[[m09381]]

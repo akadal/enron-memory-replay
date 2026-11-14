@@ -5,7 +5,7 @@ entity: person
 name: "Frank Wolak"
 aliases: []
 domains: [organization, industry]
-updated: 2001-09-23
+updated: 2001-10-21
 ---
 # Frank Wolak
 
@@ -20,3 +20,4 @@ Stanford economics professor; teaches three courses and worked on a response to 
 
 - [2000-11-28] The owner gave his name to EPRM for the Power2001 conference (Houston, May 2001) → memory/domains/organization/candidate-referrals-2000.md ←[[m04469]]
 - [2001-09-17] Agrees with the owner that the lesson about markets must be learned again and again; the owner had said academics play "an important role in shaping public opinion and in explaining the logic of deregulation process."; politicians Wolak met in Sacramento and Washington dislike markets. ←[[m09183]]
+- [2001-10-19] Warns against backing PJM's nodal pricing → memory/domains/work/transmission-modelling-2001.md ←[[m09400]]

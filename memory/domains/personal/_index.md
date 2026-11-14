@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-09-28
+updated: 2001-10-21
 ---
 # Personal — index
 
@@ -9,14 +9,14 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Kevin Kindall (FPL) lunch Wed 3 Oct; Craig Chaney's 'Enron Dinner Friends' setting the next dinner; Tricia Tlapek's call → memory/domains/personal/correspondence.md
+- Lunch with Shawn Cumberland (El Paso) Tue 23 Oct; Tom Barkley on the Brazilian consulate trouble; Craig Chaney's 'Enron Dinner Friends' → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
 - Family back to Houston from California (Jul) → memory/domains/personal/california-trip-jul-2001.md; son: Thorne's patent advice, Balson's IBM lead → memory/domains/personal/household.md
 - Bigalow: Devon fine long-term; P, OXY, DVN, PGN, LU, EMC → memory/domains/personal/investments-2000.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (Tlapek, Enron Dinner Friends, Kindall; Kierlanczyk, Dziurzynski, Pokalsky, Mihura, Kohli, Fowler, Eydeland, Paula Corey archived)
+- memory/domains/personal/correspondence.md — private contacts (Enron Dinner Friends, Kindall, Barkley, Cumberland; Tlapek, Kierlanczyk, Dziurzynski, Pokalsky, Mihura, Kohli, Fowler, Eydeland, Paula Corey archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk

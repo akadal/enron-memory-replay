@@ -5,7 +5,7 @@ entity: person
 name: "Jeannie Mandelker"
 aliases: []
 domains: [work, industry]
-updated: 2001-06-06
+updated: 2001-10-21
 ---
 # Jeannie Mandelker
 
@@ -14,6 +14,7 @@ Full-time Enron writer of articles and publications; helped write the natural ga
 ## Context: work
 
 - [2001-06-01] Market-trends talk with the owner Tue 5 Jun, then TVA settlement clips → memory/domains/work/internal-meetings-2001.md ←[[m08153]] ←[[m08370]]
+- [2001-10-16] Asymmetric-information article idea → memory/domains/work/kaminski-column.md ←[[m09284]]
 
 ## Context: industry
 

@@ -5,7 +5,7 @@ entity: person
 name: "Shane Green"
 aliases: []
 domains: [organization]
-updated: 2000-06-30
+updated: 2001-10-21
 ---
 # Shane Green
 
@@ -15,3 +15,4 @@ LSU finance PhD student (M.S. in Finance, LSU; sgreen@finance.lsu.edu); met the 
 
 - [2000-06-22] One-year sabbatical at Enron agreed in principle, interview via HR → memory/domains/organization/recruiting-candidates.md ←[[m02030]] ←[[m02067]] ←[[m02083]]
 - [2000-06-30] Interviews Mon 10 Jul; needs an offer soon → memory/domains/organization/recruiting-candidates.md ←[[m02222]] ←[[m02228]]
+- [2001-10-19] Transfers to Gas Structuring by 1 Nov → memory/domains/organization/staff-and-recruiting.md ←[[m09370]]
