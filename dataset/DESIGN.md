@@ -94,6 +94,14 @@ drops, and the ids whose fact lines carry a bracket date different from their so
 is retired to `memory/archive/<domain>/`, which is eleman's way of forgetting. At slice 30, 1,169
 of the 1,605 messages kept so far were still cited in `memory/domains/` or `memory/people/`.
 
+Reruns. When a run finds its own pass failing a gate and, as eleman's rules require, resets to
+`pre-sleep` and commits nothing, the slice is run once more on the same committed feed (`RERUN` in
+`run.sh`). The first attempt's record, transcript and ledger stay in the repository as
+`sleep-<kkk>.attempt1.*`; `summary.py` does not count them. This happened once, at slice 67: in
+the first attempt the second `sleep-audit.py` pass was red because `work/dabhol-power-sale.md`,
+already over its target, grew by 152 characters where the ratchet check allows 150, so the run
+reset itself (list-price cost about $4.1).
+
 `sleep-audit.py`'s FABRICATION check exempts lines carrying `←[[...]]`, which here is every
 fact; gate 5 and the ledger's date-match metric (bracket date equals the cited message's date)
 take its place.
