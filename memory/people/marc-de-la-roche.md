@@ -5,11 +5,11 @@ entity: person
 name: "Marc De La Roche"
 aliases: []
 domains: [work]
-updated: 2000-11-05
+updated: 2000-12-10
 ---
 # Marc De La Roche
 
-EGM LNG Group; relies on the owner's group (Kindall) for the JCC-Brent hedge ratio; Kindall writes to him as "Marc Roche". ←[[m01938]] ←[[m03635]] ←[[m03918]]
+EGM LNG Group; relies on the owner's group (Kindall) for the JCC-Brent hedge ratio; Kindall writes to him as "Marc Roche". ←[[m01938]] ←[[m03635]] ←[[m03918]] Status quo (alias question closed unanswered 2000-12-10): "Marc Roche" is not attached as an alias (?).
 
 ## Context: work
 

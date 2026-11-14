@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-12-03
+updated: 2000-12-10
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Wharton Wed 6 Dec: Risk Center 9:00 (lunch may go), Tiger Team kick-off 3-5 pm and dinner; WeBI forum Tue 5 Dec → memory/domains/industry/wharton-visit-oct-2000.md
-- Rice: Bollerslev Fri 8 Dec 10:30, Room 113; owner teaches energy risk in spring → memory/domains/industry/rice-university.md
-- GARP NY talk in January, topic open; credit derivatives group 11-12 Dec → memory/domains/industry/speaking-engagements-2000.md
-- Texas Finance Festival registered; CERAWeek → memory/domains/industry/events-attending-2000.md; Diebold Thu 21 Dec → memory/domains/industry/visitors-2000.md
-- Enron named in a proposed California class action → memory/domains/industry/california-power-2000.md
+- Wharton: Tiger Team in Houston 18-19 Jan; meetings with Shankman and Bouillion after the PRCs → memory/domains/industry/wharton-visit-oct-2000.md
+- GARP 2001 slides due 15 Dec; GARP NY topic open; credit group 11-12 Dec; Baylor 22-23 Feb → memory/domains/industry/speaking-engagements-2000.md
+- Rice: offer letter, paperwork by 15 Dec, spring course → memory/domains/industry/rice-university.md
+- PSERC not worth $40K a year → memory/domains/industry/declined-invitations-2000.md; Diebold Thu 21 Dec → memory/domains/industry/visitors-2000.md
+- California class action, NBER market-power paper → memory/domains/industry/california-power-2000.md
 
 ## Files
 
