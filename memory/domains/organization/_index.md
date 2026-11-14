@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-07-03
+updated: 2001-07-15
 ---
 # Organization — index
 
@@ -9,11 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- This week: abroad to 9 Jul, PRC 10 Jul; Uriel Scott interview; Technical Corner → memory/domains/organization/research-staff-jul-02-2001.md
-- Staff: Schoenemann; Toastmasters → memory/domains/organization/research-staff-jun-25-2001.md; hiring postponed to Aug-Sep (new building) → memory/domains/organization/research-staff-jun-18-2001.md
+- This week: Bobby Demissie phone interview (Lemmons); owner's associations for HR → memory/domains/organization/research-staff-jul-09-2001.md
+- Staff: Uriel Scott interview; Technical Corner → memory/domains/organization/research-staff-jul-02-2001.md; Toastmasters → memory/domains/organization/research-staff-jun-25-2001.md; hiring postponed to Aug-Sep (new building) → memory/domains/organization/research-staff-jun-18-2001.md
 - PRC: specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul; Paleologo unsigned → memory/domains/organization/referrals-and-admin-jun-08-2001.md; policy draft → memory/domains/organization/research-staff-jun-15-2001.md
-- Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
-- Admin: HR → memory/domains/organization/hr-matters-2001.md
+- Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md; HR → memory/domains/organization/hr-matters-2001.md
 
 ## Files
 
@@ -56,15 +55,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
 - memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001
 - memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001
-- memory/domains/organization/research-staff-late-may-2001.md — staff and admin from 21 May 2001 (Gibner leaves)
-- memory/domains/organization/referrals-late-may-2001.md — candidates from 21 May 2001
-- memory/domains/organization/research-staff-early-jun-2001.md — staff and admin from 28 May 2001
-- memory/domains/organization/referrals-early-jun-2001.md — candidates from 28 May 2001
-- memory/domains/organization/research-staff-jun-04-2001.md — staff and admin from 4 Jun 2001
-- memory/domains/organization/referrals-jun-04-2001.md — candidates from 4 Jun 2001
-- memory/domains/organization/research-staff-jun-08-2001.md — staff from 6 Jun 2001
-- memory/domains/organization/referrals-and-admin-jun-08-2001.md — referrals and admin from 6 Jun 2001
-- memory/domains/organization/research-staff-jun-15-2001.md — policy and events from 11 Jun 2001
-- memory/domains/organization/research-staff-jun-18-2001.md — hiring pause, Bibi, admin from 18 Jun 2001
-- memory/domains/organization/research-staff-jun-25-2001.md — staff, referrals, admin from 25 Jun 2001
-- memory/domains/organization/research-staff-jul-02-2001.md — staff, candidates, admin from 2 Jul 2001
+- Weekly (from 21 May 2001, each memory/domains/organization/<name>.md): research-staff-late-may-2001 · referrals-late-may-2001 · research-staff-early-jun-2001 · referrals-early-jun-2001 · research-staff-jun-04-2001 · referrals-jun-04-2001 · research-staff-jun-08-2001 · referrals-and-admin-jun-08-2001 · research-staff-jun-15-2001 · research-staff-jun-18-2001 · research-staff-jun-25-2001 · research-staff-jul-02-2001 · research-staff-jul-09-2001

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-07-03
+updated: 2001-07-15
 ---
 # Work — index
 
@@ -11,8 +11,8 @@ Scope: the owner's own projects, models, deals and research output.
 
 - Models: P Plus draft (Gibner); Convolution VAR (Tamarchenko, Bharati); storage model vs Lukens; August Board FX/inflation curves → memory/domains/work/models-jun-08-2001.md; VaR factor loadings, PSIM → memory/domains/work/var-and-models-jun-04-2001.md
 - Bid-ask and credit: EOL bid-ask model, Market Maker sessions (Kim's summary to Whalley); CDS placement-model recalibration; DSM trading model 18 Jun → memory/domains/work/trading-and-credit-jun-08-2001.md; earlier → memory/domains/work/enron-credit-early-jun-2001.md
-- This week: weather-triggered options (Zimin Lu); full requirement hedge (Huang); FEA @GLOBAL 5.0; Reval address → memory/domains/work/models-jul-02-2001.md
-- Last week: Market Maker sessions to 27 Jul; convolution memo; Dhar's plan for Duffie; Transmission Round Table; country curves → memory/domains/work/models-jun-25-2001.md; Kohli's marketing plan; Dabhol 90% to arbitration; Algorithmics moved → memory/domains/work/requests-and-vendors-jun-25-2001.md
+- This week: Reliability VaR paper (Rabi De, Tanya) revised; E-VaR on RaC site; Market Stack (Toolson 20 Jul) missed; NARG meeting pointless; Zone EF 26 Jul; Dabhol clips; to-dos: EES presentations to Rhys, Krishna's letters → memory/domains/work/models-jul-09-2001.md
+- Last weeks: weather-triggered options; full requirement hedge; FEA @GLOBAL 5.0; Reval → memory/domains/work/models-jul-02-2001.md; Market Maker sessions to 27 Jul; Dhar's plan for Duffie → memory/domains/work/models-jun-25-2001.md; Dabhol 90% to arbitration → memory/domains/work/requests-and-vendors-jun-25-2001.md
 - Earlier: Prediction Company 30 Jul → memory/domains/work/models-and-requests-jun-18-2001.md; Raptor → memory/domains/work/talon-raptor.md; Henwood Market Stack early July → memory/domains/work/requests-and-vendors-jun-15-2001.md; Quilkey, CMU team → memory/domains/work/research-requests-jun-08-2001.md
 
 ## Files
@@ -48,6 +48,6 @@ Path: memory/domains/work/<name>.md
 - var-models-early-jun-2001 · research-models-early-jun-2001 · enron-credit-early-jun-2001 · research-requests-early-jun-2001
 - research-requests-jun-04-2001 · var-and-models-jun-04-2001
 - models-jun-08-2001 · trading-and-credit-jun-08-2001 · research-requests-jun-08-2001 · requests-and-vendors-jun-15-2001 · models-and-requests-jun-18-2001
-- models-jun-25-2001 · requests-and-vendors-jun-25-2001 · models-jul-02-2001
+- models-jun-25-2001 · requests-and-vendors-jun-25-2001 · models-jul-02-2001 · models-jul-09-2001
 
 Closed: 1
