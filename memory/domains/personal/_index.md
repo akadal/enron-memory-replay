@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-01-27
+updated: 2001-02-04
 ---
 # Personal — index
 
@@ -9,10 +9,10 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- LifeTrak: owner introduced Arfsten to Mark Lay, declined to take part → memory/domains/personal/lifetrak-venture-2001.md
-- Faiz dinner Wed 31 Jan, 6:30, Westin Oaks; Kierlanczyk in NY 13 Feb; Stock in hospital → memory/domains/personal/correspondence.md
-- Out of Lucent, eyeing MOT, NT, TXN; Walkup's private managers → memory/domains/personal/investments-2000.md
-- Wife Ludmila and son at Stanford → memory/domains/personal/household.md
+- Walkup: a very significant sum to move into ML; Bigalow's Wiley contract, Martin advises → memory/domains/personal/investments-2000.md
+- Stock in hospital, flowers sent; Lubbock at CERA 12-16 Feb; Kierlanczyk in NY 13 Feb → memory/domains/personal/correspondence.md
+- LifeTrak: owner declined, kept in copy → memory/domains/personal/lifetrak-venture-2001.md
+- Wife Ludmila; Marysia's address in Poland → memory/domains/personal/household.md
 
 ## Files
 

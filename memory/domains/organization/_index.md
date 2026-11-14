@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-01-27
+updated: 2001-02-04
 ---
 # Organization — index
 
@@ -9,10 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Anshuman: 1 month (5 Feb-5 Mar asked), L1 anyway, Daffin expects March; Pernoud part-time → memory/domains/organization/staff-moves-jan-2001.md
-- Villevald 31 Jan, Valverde 1 Feb, Rawal 2 Feb; Roberts backs Tony Hamilton → memory/domains/organization/candidate-interviews-feb-2001.md
-- Interns: Whitsel to get an offer, Kao once Maureen is back → memory/domains/organization/summer-interns-2001.md
-- Merit and equity sheet sent → memory/domains/organization/year-end-prc-2000.md; Java courses → memory/domains/organization/leave-and-training.md
+- Haughton wants a senior second round; Qian out (Citadel); Valverde 1 Feb, Rawal 2 Feb → memory/domains/organization/candidate-interviews-feb-2001.md
+- Tom Costantino back from NYMEX, Shankman interviews him → memory/domains/organization/candidate-referrals-2000.md
+- Interns: Whitsel wanted, Mallik and DeGiacinto apply; Wharton interviews 5-6 Feb → memory/domains/organization/summer-interns-2001.md
+- Java (DuraSoft) Feb 20-23 and Apr 9-12; PJM 101 on 27 Feb → memory/domains/organization/leave-and-training.md; @ENERGY 2.0 → memory/domains/organization/software-licenses.md
+- Anshuman's L1, Daffin expects March → memory/domains/organization/staff-moves-jan-2001.md; EGM product lines under Nowlan, Sekse risk → memory/domains/organization/ena-reorganization.md
 
 ## Files
 
@@ -25,7 +26,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-nov-2000.md — Nov 2000
 - memory/domains/organization/candidate-interviews-dec-2000.md — from 27 Nov 2000
 - memory/domains/organization/candidate-interviews-jan-2001.md — from 18 Dec 2000
-- memory/domains/organization/candidate-referrals-2000.md — referrals (Yan, Kitchen)
+- memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Gunning, Szopa)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
