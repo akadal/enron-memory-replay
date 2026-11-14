@@ -1,0 +1,85 @@
+id	durable	status	detail
+m03024	no	not_durable	logistics
+m03025	yes	kept	domains/work/research-presentations.md
+m03026	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03027	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03028	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03029	yes	kept	domains/organization/research-group.md
+m03030	yes	kept	domains/work/campus-recruiting-fall-2000.md people/john-gordon.md
+m03031	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03032	yes	kept	domains/work/lng-book-2000.md people/charlie-weldon.md
+m03033	yes	kept	domains/work/campus-recruiting-fall-2000.md people/john-gordon.md
+m03034	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03035	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03036	yes	kept	domains/organization/candidate-referrals-2000.md
+m03037	yes	kept	domains/personal/investments-2000.md
+m03038	yes	kept	domains/work/research-presentations.md
+m03039	yes	kept	domains/organization/research-accounting-2000.md
+m03040	no	not_durable	pleasantry
+m03041	yes	dropped	other: owner mails himself a RiskLab paper link to read later, no content
+m03042	yes	kept	domains/organization/candidate-referrals-2000.md
+m03043	yes	kept	domains/work/lacima-book-2000.md
+m03044	yes	kept	domains/work/lacima-book-2000.md
+m03045	yes	kept	domains/organization/candidate-referrals-2000.md
+m03046	yes	kept	domains/work/british-pound-analysis.md
+m03047	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03048	no	not_durable	quote_only
+m03049	yes	kept	domains/work/research-presentations.md
+m03050	yes	kept	domains/work/lacima-book-2000.md
+m03051	no	not_durable	logistics
+m03052	yes	kept	domains/organization/research-accounting-2000.md people/becky-pham.md
+m03053	yes	kept	domains/work/university-relations.md
+m03054	yes	kept	domains/organization/recruiting-candidates.md
+m03055	yes	kept	domains/work/pe-load-forecast-2000.md people/laura-luce.md
+m03056	yes	kept	domains/work/lng-book-2000.md
+m03057	no	not_durable	quote_only
+m03058	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03059	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03060	yes	kept	domains/work/university-relations.md
+m03061	no	not_durable	quote_only
+m03062	yes	kept	domains/work/stanford-research-ties.md
+m03063	yes	kept	domains/work/azurix-rab-valuation.md
+m03064	yes	kept	domains/work/campus-recruiting-fall-2000.md people/dolores-muzzy.md
+m03065	no	not_durable	bulk
+m03066	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03067	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03068	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03069	yes	kept	domains/work/campus-recruiting-fall-2000.md people/dolores-muzzy.md
+m03070	yes	kept	domains/work/value-research-lab.md
+m03071	yes	kept	domains/organization/london-research.md
+m03072	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03073	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03074	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03075	yes	kept	domains/work/campus-recruiting-fall-2000.md people/dolores-muzzy.md
+m03076	yes	kept	domains/work/campus-recruiting-fall-2000.md people/dolores-muzzy.md
+m03077	yes	kept	domains/work/lacima-book-2000.md
+m03078	yes	kept	domains/work/azurix-rab-valuation.md
+m03079	yes	kept	domains/work/transport-model.md
+m03080	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03081	yes	kept	domains/work/enterprise-risk-management.md
+m03082	yes	kept	domains/organization/recruiting-candidates.md
+m03083	yes	kept	domains/work/internal-meetings.md
+m03084	yes	kept	domains/organization/london-research.md
+m03085	yes	kept	domains/organization/mid-year-prc-2000.md
+m03086	no	not_durable	bulk
+m03087	yes	kept	domains/organization/mid-year-prc-2000.md
+m03088	yes	kept	domains/work/value-research-lab.md people/allan-roberts.md
+m03089	no	not_durable	logistics
+m03090	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03091	yes	kept	domains/work/value-research-lab.md people/allan-roberts.md
+m03092	yes	kept	domains/organization/mid-year-prc-2000.md
+m03093	no	not_durable	quote_only
+m03094	no	not_durable	bulk
+m03095	no	not_durable	bulk
+m03096	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03097	yes	kept	domains/industry/research-memberships-2000.md
+m03098	no	not_durable	quote_only
+m03099	yes	kept	domains/work/var-backtesting-2000.md people/naveen-andrews.md people/pavel-zadorozhny.md
+m03100	yes	kept	domains/organization/staff-and-recruiting.md
+m03101	yes	kept	domains/organization/software-licenses.md
+m03102	yes	kept	domains/organization/software-licenses.md
+m03103	no	not_durable	quote_only
+m03104	no	not_durable	quote_only
+m03105	yes	dropped	no_owner_content: Frank Diebold's change-of-address notice (back at Penn), mass mailing
+m03106	yes	kept	domains/work/desk-analysis-requests.md
+m03107	no	not_durable	bulk

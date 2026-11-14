@@ -1,0 +1,188 @@
+{
+ "slice": 40,
+ "simulated_today": "2000-09-03",
+ "feed": {
+  "slice": 40,
+  "iso_week": "2000-W35",
+  "first_seq": 3024,
+  "last_seq": 3107,
+  "messages": 84,
+  "durable": 68,
+  "first_date": "2000-08-28 00:55",
+  "last_date": "2000-09-03 10:51",
+  "today": "2000-09-03",
+  "inbox_files": [
+   "2000-08-28--mail.md",
+   "2000-08-29--mail.md",
+   "2000-08-30--mail.md",
+   "2000-08-31--mail.md",
+   "2000-09-01--mail.md",
+   "2000-09-02--mail.md",
+   "2000-09-03--mail.md"
+  ],
+  "inbox_chars": 49229,
+  "l2_chars": 189861
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 662,
+ "quota_before": {
+  "five_hour": 14.0,
+  "seven_day": 32.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 16.0,
+  "seven_day": 32.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 40,
+  "messages": 84,
+  "durable": 68,
+  "kept": 66,
+  "kept_rate_excluding_redundant": 0.971,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1616,
+  "fact_lines_with_source": 1135,
+  "dated": 1135,
+  "date_matches_source": 1107,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 740
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1649
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 123,
+   "chars": 205488
+  },
+  "people": {
+   "files": 293,
+   "chars": 202656
+  },
+  "archive_inbox": {
+   "files": 255,
+   "chars": 1870699
+  },
+  "archive_mail": {
+   "files": 3133,
+   "chars": 7670969
+  },
+  "archive_other": {
+   "files": 591,
+   "chars": 589527
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 66,
+   "duration_ms": 659861,
+   "duration_api_ms": 570462,
+   "total_cost_usd": 4.372732000000001,
+   "usage": {
+    "input_tokens": 124,
+    "cache_creation_input_tokens": 175014,
+    "cache_read_input_tokens": 8714820,
+    "output_tokens": 61458,
+    "output_tokens_details": {
+     "thinking_tokens": 24217
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 175014,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1272,
+      "cache_read_input_tokens": 205721,
+      "cache_creation_input_tokens": 1084,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1084
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 124,
+     "outputTokens": 61458,
+     "cacheReadInputTokens": 8714820,
+     "cacheCreationInputTokens": 175014,
+     "webSearchRequests": 0,
+     "costUSD": 4.372732000000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24217,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 175014,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 65,
+   "result_summary": "I've run the 2000-09-03 consolidation for week 2000-W35. It is committed as one commit (`bde3e1b`), lint and sleep-audit were both green before the commit, and a dry run of the ledger shows 0 missing messages. I did not push, because the replay instructions say the runner pushes after its own checks.\n\n- **Messages:** of 84, 68 had notes. 66 are cited in memory and the other 2 are listed in `dataset/drops/sleep-040.tsv`: m03041 (a RiskLab link the owner mailed to himself) and m03105 (Frank Diebold's change of address).\n- **What came in:**\n  - The Berkeley trip is set for 16-17 Oct. Shmuel Oren's seminar slot that day is taken, so two trips are likely.\n  - The Carnegie Mellon recruiting team and the owner's speaker-series talk there in early November.\n  - The mandatory recruiting workshop, booked for 29 Sep.\n  - Rabi De's sign-on bonus request went to Lavorato.\n  - Martin Lin's offer is now base 98K with no retention bonus.\n  - The owner called Steve's London retention package \"a fair deal\".\n  - The owner opposed the Hyundai LNG deal, and the LNG Book meeting is on 6 Sep.\n  - His views on VaR methods, in comments on Chris Strickland's EPRM article.\n  - Helyette Geman's D-G software licence is agreed at $90K.\n  - Wharton's Tiger Teams proposal.\n  - Valeria Stone interviews on 13 Sep.\n  - Samer Takriti leaves on 8 Sep.\n  - On Fri 8 Sep at 11:30 the owner has accepted both the Maruti More meeting and a lunch with Stephen Stock. I recorded the clash in `state.md`.\n- **New files:**\n  - Two topic files: `work/british-pound-analysis` and `organization/candidate-interviews-sep-2000`.\n  - Nine people reached five noted messages and now have entity files: Eric Groves, Dolores Muzzy, Charlie Weldon, Becky Pham, Allan Roberts, Pavel Zadorozhny, Naveen Andrews, Laura Luce and John Gordon. No aliases were attached.\n- **Questions added (not applied):**\n  - Should Roman Zadorozhny and Pavel Zadorozhny be merged into one person?\n  - Is the John Gordon recommended by a CMU professor in"
+  },
+  "repair": null
+ }
+}
