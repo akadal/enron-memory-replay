@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-06
+updated: 2001-06-09
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Wharton: owner there Thu 14 Jun with Kunreuther, in the evening before → memory/domains/industry/wharton-risk-center-2001.md
-- Speaking: Risk 2001 Boston (Financial Mathematics, dinner with Balson Mon); SMS real options panel SFO 21-24 Oct, registration owed; Baylor 27 Jul; SIAM slides, EPIS topic → memory/domains/industry/speaking-engagements-2000.md
-- Visitors: Norsk Hydro 7 Jun, room 50M → memory/domains/industry/visitors-2001.md
-- Sponsorship: IACC gala 16 Jun; Stanford EMF 21-22 Jun, owner goes with Krishna → memory/domains/industry/sponsorship-requests-2001.md
-- California: Davis-Edison MOU dead, Edison bankruptcy risk; Frontline 'Blackout' → memory/domains/industry/california-power-jan-2001.md
+- Wharton: owner there Thu 14 Jun with Kunreuther; joint project with Hrgovcic, Tawney, Ribeiro → memory/domains/industry/wharton-risk-center-2001.md
+- Speaking: Risk 2001 Boston (Balson dinner Mon); IQPC London 23-24 Oct, answer by 14 Jun; INFOCAST gas volatility, Houston 10 Oct, accepted; SMS SFO 21-24 Oct, fees; Baylor 27 Jul → memory/domains/industry/speaking-engagements-2000.md
+- Sponsorship: IACC gala 16 Jun, $3,500 table, seats to fill; Stanford EMF 21-22 Jun with Krishna → memory/domains/industry/sponsorship-requests-2001.md
+- California: MOU bill SB 78XX lacks votes, CPUC delays the QF 15% payment → memory/domains/industry/california-power-jan-2001.md
+- Visitors: Norsk Hydro (7 Jun) very satisfied → memory/domains/industry/visitors-2001.md
 
 ## Files
 

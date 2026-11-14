@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-06
+updated: 2001-06-09
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: Research mid-year PRC Wed 6 Jun; specialists grouped as technical; post-2000 hires and Iris Mack unrated → memory/domains/organization/officer-performance-review.md
-- Hiring suspended for a few months (no space); McKinley, Mielke, Aguilera-Peon leads → memory/domains/organization/recruiting-candidates.md
-- Departures: Gibner (5 Jun), Kate Lucas (6 Jun), Parkhill's loan → memory/domains/organization/staff-and-recruiting.md
-- Spending: Avistar charge, Restructuring Today offer → memory/domains/organization/office-equipment.md; CPLEX renewal $4,289.15 → memory/domains/organization/software-licenses.md
-- ENA NYMEX position-limit filing: futures accounts to Tana Jones by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
+- Reorganization: the owner's Research reorg meeting Fri 15 Jun after Gibner's exit; Lu's proposal → memory/domains/organization/research-group.md
+- PRC: Research mid-year PRC held 6 Jun (Raymond disputes the owner's comments: memory/domains/work/ken-lay-speech-tax-cut.md); Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md
+- Hiring suspended (no space); Paleologo's offer unsigned, owner calls him; Mielke, Saksena → memory/domains/organization/recruiting-candidates.md; Gibner and Kate Lucas left 6 Jun → memory/domains/organization/staff-and-recruiting.md
+- HR: Labbe's Toastmasters and ESL/communication programme for Research → memory/domains/organization/research-group-2001.md
+- Compliance: PG&E creditors'-committee ethical-wall certification; NYMEX futures accounts to Tana Jones by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
 
 ## Files
 

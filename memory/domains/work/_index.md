@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-06
+updated: 2001-06-09
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Port's factor-loading process (Global Risk Ops runs it, Research takes matrix pathologies) on Ramesh's April document; joint gas-power factors revisited week of 11 Jun → memory/domains/work/project-x-var-2001.md
-- Credit and risk: Iris's 'Enron Credit Strategic Plan' for Duffie awaits comments, Kim-Lee Bayesian paper → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Sekse's hedge sign-off → memory/domains/work/outage-risk-option-2001.md
-- Weather: Quilkey call on Christian's modelling (6 Jun); Werner to Houston late Jun → memory/domains/work/weather-research-2001.md
-- Transmission: Neptune (Krapels) DC-rights auction in Sep; Lin and Cunningham asked for a view → memory/domains/work/transmission-modelling-2001.md
-- Meetings and offers: PSIM Fri 8 Jun → memory/domains/work/internal-meetings-2001.md; Sparks 19 Jun pending Gary, Doane Agricultural → memory/domains/work/vendor-offers-2001.md; Prediction Company call Thu/Fri → memory/domains/work/outside-requests-2001.md
+- Credit and risk: Iris's plan awaits comments → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Parsons's CDS placement-model recalibration wants Research ideas (8 Jun) → memory/domains/work/credit-markets.md; Tamarchenko-Bharati 'Convolution VAR' paper to review → memory/domains/work/var-credit-system-2001.md
+- VaR: Port's factor-loading process, joint gas-power factors week of 11 Jun → memory/domains/work/project-x-var-2001.md; Sekse's hedge sign-off → memory/domains/work/outage-risk-option-2001.md
+- Bid-ask: Bob Lee's market-maker series Fri 15 Jun, intern Kim's notes sent to Whalley, EOL pricing update to Zipper and Webb → memory/domains/work/eol-trading-algorithms-2001.md; Lu proposes one storage product with Halliburton → memory/domains/work/storage-model.md
+- Weather and transmission: Adam starts 25 Jun, Werner in Houston 1-7 Jul → memory/domains/work/weather-research-2001.md; Neptune: Presto likes it, Cunningham's undersea project with Coffer → memory/domains/work/transmission-modelling-2001.md
+- Meetings: DSM trading model Mon 18 Jun → memory/domains/work/internal-meetings-2001.md; Sparks 19 Jun pending Gary → memory/domains/work/vendor-offers-2001.md; Prediction Company call, Berkeley course query → memory/domains/work/outside-requests-2001.md
 
 ## Files
 
