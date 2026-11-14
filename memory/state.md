@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-08-20 (week 2000-W33). The Research offsite in Breckenridge ran 18-20 Aug.
+As of 2000-08-26 (week 2000-W34). Li Sun starts her first rotation in Research Mon 28 Aug.
 
-- Coming: Bambos, Rahul Kumar, Spencer's call 21 Aug; Paleologo Sat 26 Aug; Fin Math course 31 Aug; mid-year forms 1 Sep; EPRI 7 Sep; Wharton ET 8 Sep; London about 20 Sep; Bay Area 10-20 Oct → memory/domains/work/stanford-research-ties.md, memory/domains/work/value-research-lab.md
-- Owed: owner's half of chapter 3; Cairn meeting with Parsons; GPG reversal fix; Ahmad's terms; UT licence answer; GARP confirmation awaited → memory/domains/work/lacima-book-2000.md, memory/domains/work/cairn-gas-bid.md
+- Coming: Berkeley team meeting 29 Aug; Fin Math course 31 Aug; MIT team and mid-year forms 1 Sep; EPRI 7 Sep; Berkeley fair 8 Sep; Lamas 12 Sep; CMU 13 Sep; London 18-21 Sep; Gibner on leave 25 Sep-13 Oct → memory/domains/work/campus-recruiting-fall-2000.md
+- Owed: Azurix RAB results; Rabi De offer; GARP details by 6 Sep; Surbey's vol comparison; chapter 3 → memory/domains/work/azurix-rab-valuation.md, memory/domains/work/lacima-book-2000.md

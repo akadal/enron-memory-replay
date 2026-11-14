@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-08-20
+updated: 2000-08-26
 ---
 # People — index
 
@@ -112,6 +112,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Iain Russell
 - Iris Mack
 - James Steffes (James D Steffes, Jim Steffes)
+- Jana Giovannini
 - Jana Phillips (Jana Laird Phillips)
 - Jarek Astramowicz
 - Jason Sokolov
@@ -157,10 +158,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kevin Presto (Kevin M Presto)
 - Kimberly Watson
 - Kirstee Hewitt
+- Kristin Gandy
 - Kristy Carnes
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Lenos Trigeorgis
 - Les Clewlow
+- Li Sun
 - Li Xiao
 - Linda Vargo
 - Lisa Ford
@@ -188,6 +191,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Masayuki Fujita
 - Matthew Williams (Matt Williams)
 - Maureen Raymond
+- Michael Anderson
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
 - Michael Sergeev
@@ -244,12 +248,14 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shane Green
 - Sharad Agnihotri
 - Sheila Walton
+- Shelly Butler
 - Shelly Jones
 - Sheridan Titman
 - Sherri Sera
 - Sheryl Lara
 - Shijie Deng (Shi-Jie Deng)
 - Shirley Crenshaw
+- Shmuel Oren
 - Soma Ghosh
 - Soussan Faiz
 - Stathis Tompaidis
