@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-10-04
+updated: 2001-10-14
 ---
 # Organization — index
 
@@ -12,8 +12,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - Budget: 2002 allocations sent; Fellers wants the variances explained (headcount +14, travel +38%, 100% allocated) → memory/domains/organization/research-accounting-2000.md
 - Candidates: interviews suspended until the 2002 budget is approved (6 Sep), yet Asta Sendonaris to be invited (18 Sep); Chris Neale (Rice MBA), Geman's ESSEC student, Armando Ugarte via Shmuel Oren (25 Sep) → memory/domains/organization/recruiting-candidates.md; Focus Capital wants more, TAGE's Broomhall declined → memory/domains/organization/outside-recruiters-2001.md; Sean Yang → memory/domains/organization/staff-and-recruiting.md
 - Company: quarterly MD meetings from Mon 1 Oct; iPayit 'hold for review', AP in 3 days (Colwell, 1 Oct) → memory/domains/organization/corporate-announcements-2001.md
-- Equipment: Northern Light password via eSource (Stephanie Taylor) → memory/domains/organization/office-equipment.md
-- Group: Cumberland leaves for El Paso, farewell ~Fri 7 Sep → memory/domains/organization/group-events-2000.md; Candella in admin → memory/domains/organization/research-group-2001.md; Tamarchenko away 24 Sep-5 Oct → memory/domains/organization/leave-and-training.md; reviews to Labbe → memory/domains/organization/hr-matters-2001.md; second London meteorologist back to square one (freeze) → memory/domains/organization/tony-hamilton-london-2001.md
+- Equipment: Northern Light password via eSource (Stephanie Taylor) → memory/domains/organization/office-equipment.md; RATS 5.0 upgrade, Neale recommends 50 users (12 Oct) → memory/domains/organization/software-licenses.md
+- Group: Cumberland leaves for El Paso, farewell ~Fri 7 Sep → memory/domains/organization/group-events-2000.md; Candella in admin → memory/domains/organization/research-group-2001.md; Tamarchenko away 24 Sep-5 Oct → memory/domains/organization/leave-and-training.md; Labbe's EA pay comparables (11 Oct) → memory/domains/organization/hr-matters-2001.md; Werner's replacement started, change-over by mid-Jan (14 Oct) → memory/domains/organization/staff-and-recruiting.md; second London meteorologist back to square one (freeze) → memory/domains/organization/tony-hamilton-london-2001.md
 
 ## Files
 

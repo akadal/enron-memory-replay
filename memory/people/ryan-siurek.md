@@ -5,7 +5,7 @@ entity: person
 name: "Ryan Siurek"
 aliases: []
 domains: [work]
-updated: 2001-04-08
+updated: 2001-10-14
 ---
 # Ryan Siurek
 
@@ -17,3 +17,4 @@ Enron Accounting; the counterpart for Research's structured-deal valuations (LJM
 - [2001-01-11] Adjusts the Hanover collar model → memory/domains/work/hanover-costless-collar-jan-2001.md ←[[m05273]]
 - [2001-03-12] On the Raptor position report cc list → memory/domains/work/talon-raptor.md ←[[m06192]]
 - [2001-04-06] Jedi Shares write-up for banks and Andersen → memory/domains/work/jedi-shares-2001.md ←[[m06559]]
+- [2001-10-08] Gets the owner's 4 Oct memo: Research cannot support its LJM/Raptor valuations without the legal documents → memory/domains/work/talon-raptor.md ←[[m09231]]

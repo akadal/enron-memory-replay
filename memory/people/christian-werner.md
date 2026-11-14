@@ -5,7 +5,7 @@ entity: person
 name: "Christian Werner"
 aliases: []
 domains: [work, industry, organization]
-updated: 2001-07-21
+updated: 2001-10-14
 ---
 # Christian Werner
 
@@ -22,3 +22,4 @@ Weather modeller at Enron Australia, Sydney (the office's only weather person, p
 ## Context: organization
 
 - [2001-07-19] Wants to move to Research in Houston; Paul Quilkey has not released him → memory/domains/organization/staff-and-recruiting.md ←[[m08725]] ←[[m08733]]
+- [2001-10-14] His replacement started; change-over by about mid-January → memory/domains/organization/staff-and-recruiting.md ←[[m09259]]
