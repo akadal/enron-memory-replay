@@ -127,7 +127,7 @@ while [ "$k" -le "$LAST" ]; do
 (dataset/README.md). Simulated clock: today is $TODAY. Wherever the rules need today's date
 (updated: fields, fact dates, state.md, question due dates, status-quo closes, archive and log
 file names), use $TODAY, never the system clock. Anything this run logs to the inbox goes into
-memory/inbox/$TODAY--mail.md.
+memory/inbox/$TODAY--run.md, never into a fed --mail file: those become L2 once archived.
 
 Each inbox block is one email. Its notes were written by an automatic capture step (model
 inference, the lowest rung of the trust ladder); a quote marked \"owner, verbatim\" is the owner's

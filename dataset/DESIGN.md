@@ -75,8 +75,12 @@ questions, not a curated alias table.
    unconsumed while it still holds mail blocks, not merely because a file of that name exists: a
    run may log its own work (a question closed by status quo, say) in the inbox file of the
    simulated day, which has the fed file's name. Slice 12 stopped on that before the rule was
-   changed and carries a note in `sleep-012.json`; since then the runs log to
+   changed and carries a note in `sleep-012.json`; after it the runs mostly logged to
    `<day>--mail-2.md` (17 such files by slice 30), consumed by the next sleep like any inbox file.
+   The cause was the preamble, which named `<today>--mail.md`, the fed file of the slice's last
+   day, as the log file. It struck twice more: at slice 67 the run caught its own L2 change, and at
+   slice 88 it did not and the audit from outside was red. From slice 88 the preamble names
+   `<today>--run.md`, a name the feed never writes.
 3. `lint.py` green; `sleep-audit.py --last <the run's commit>` green.
 4. `date_leaks.py`: no date more than a year outside [first message, simulated today].
 5. `ledger.py`: every message the capture step marked durable is either cited by an L1 fact or
@@ -100,7 +104,9 @@ Reruns. When a run finds its own pass failing a gate and, as eleman's rules requ
 `sleep-<kkk>.attempt1.*`; `summary.py` does not count them. This happened once, at slice 67: in
 the first attempt the second `sleep-audit.py` pass was red because `work/dabhol-power-sale.md`,
 already over its target, grew by 152 characters where the ratchet check allows 150, so the run
-reset itself (list-price cost about $4.1).
+reset itself (list-price cost about $4.1). Slice 88's first attempt committed with an L2 change
+(gate 2); its commit was not pushed and was discarded, and the slice was run again under the
+corrected preamble.
 
 A run cut off from outside is not a result of the method and leaves nothing in L1: its partial
 work is reset to `pre-sleep`, its feed commit is reverted, its partial transcript is kept as
@@ -144,7 +150,7 @@ eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing 
   slice 56; the file and its citations are intact, only its route is missing. Projected to
   slice 122, the largest index needs about 6,500 characters with descriptions
   (`dataset/audit/2026-11-14-7-review-060.md`).
-- The preamble's entity-file sentence (above).
+- The preamble's entity-file sentence (above), and from slice 88 its log-file name (gate 2).
 - Raw mail lives in `memory/archive/mail/YYYY/`, a source segment like `archive/inbox/`, not a
   domain segment.
 - The replay preamble above; the `pre-sleep` checkpoint is set by the runner; the lock commit of
