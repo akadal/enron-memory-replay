@@ -1,0 +1,198 @@
+{
+ "slice": 85,
+ "simulated_today": "2001-06-15",
+ "feed": {
+  "slice": 85,
+  "iso_week": "2001-W24",
+  "first_seq": 8534,
+  "last_seq": 8555,
+  "messages": 22,
+  "durable": 17,
+  "first_date": "2001-06-11 00:05",
+  "last_date": "2001-06-15 15:10",
+  "today": "2001-06-15",
+  "inbox_files": [
+   "2001-06-11--mail.md",
+   "2001-06-12--mail.md",
+   "2001-06-14--mail.md",
+   "2001-06-15--mail.md"
+  ],
+  "inbox_chars": 14317,
+  "l2_chars": 87154
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 307,
+ "quota_before": {
+  "five_hour": 47.0,
+  "seven_day": 47.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 48.0,
+  "seven_day": 47.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 85,
+  "messages": 22,
+  "durable": 17,
+  "kept": 17,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3915,
+  "fact_lines_with_source": 2495,
+  "dated": 2495,
+  "date_matches_source": 2442,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 691
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1667
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 270,
+   "chars": 504950
+  },
+  "people": {
+   "files": 675,
+   "chars": 434086
+  },
+  "archive_inbox": {
+   "files": 531,
+   "chars": 4981844
+  },
+  "archive_mail": {
+   "files": 8581,
+   "chars": 21822272
+  },
+  "archive_other": {
+   "files": 1458,
+   "chars": 1196906
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 30,
+   "duration_ms": 305679,
+   "duration_api_ms": 224046,
+   "total_cost_usd": 1.5065948,
+   "usage": {
+    "input_tokens": 58,
+    "cache_creation_input_tokens": 81289,
+    "cache_read_input_tokens": 2048601,
+    "output_tokens": 22304,
+    "output_tokens_details": {
+     "thinking_tokens": 8586
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 81289,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 844,
+      "cache_read_input_tokens": 99361,
+      "cache_creation_input_tokens": 867,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 867
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002506,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 58,
+     "outputTokens": 22304,
+     "cacheReadInputTokens": 2048601,
+     "cacheCreationInputTokens": 81289,
+     "webSearchRequests": 0,
+     "costUSD": 1.5063441999999998,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 8586,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 81289,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 29,
+   "result_summary": "I consolidated week 2001-W24 (11–15 Jun) and committed it as `954a093`; per the replay instructions, I didn't push. Lint and `sleep-audit.py` both passed on the first run.\n\n- **Kept:** all 17 messages with notes are cited in memory, so `dataset/drops/sleep-085.tsv` is empty.\n- **New weekly files from 11 Jun:**\n  - **Industry talks:** the Gas & PoweRisk Paris talk on 6–9 Nov is confirmed, with the paper due 12 Oct. IQPC London wants an answer by 19 Jun. The owner will attend Stanford on 21–22 Jun but declined to chair a session, and asked to be registered for the ERisk iConference.\n  - **Organization:** Cassandra Schultz's first draft of the new Risk Management Policy, the protest-procedures memo, Lou Casari's farewell on 20 Jun, the COM talk on 19 Jun and the Star Wars event.\n  - **Work:** the private-firm econometrics plan, an Algorithmics meeting in Houston, and Henwood's Market Stack talk moved to early July.\n- **Other updates:** the Alberta MBA recruiting offer went into the existing outside-contacts file. In the household file, the IBM job lead for the son is merged with the earlier Balson line, and two older lines moved word-for-word to a new archive file so the file didn't grow.\n- **People:** Eric Toolson reached five messages with notes this week, so he now has an entity file and an alias-table entry.\n- **Questions:** the \"Lawrence Thorne\" alias question was past its 12 Jun due date, so I closed it without an answer and left the name unlinked. Three alias questions stay open.\n- **Housekeeping:** no file was at 90% of its size limit, so the compression quota had nothing to act on. The five oldest ongoing facts are still valid. There were no sleep tasks or feedback blocks.\n- **Inbox:** processed logs are in `memory/archive/inbox/` (the 9 Jun file as `2001-06-09--mail-2.md` because that name was taken), and this run's log is in `memory/inbox/2001-06-15--mail.md`.\n\nThe runner's `dataset/runs/sleep-085.transcript.jsonl` is still untracked; I left it alone."
+  },
+  "repair": null
+ }
+}
