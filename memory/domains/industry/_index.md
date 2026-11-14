@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: Tamiment 23-24 May; invitations open: Risk 2001 Australia (Sydney, 20-21 Aug), EPRM Europe (Amsterdam, 6-7 Sep); EPIS topic, SIAM slides owed → memory/domains/industry/speaking-engagements-2000.md, memory/domains/industry/eprm-risk.md
-- Wharton: Risk Center 14 Jun, Koenig's deck for the talk → memory/domains/industry/wharton-risk-center-2001.md; WeBI, Kitchen wants project results → memory/domains/industry/wharton-projects-feb-2001.md
-- Sponsorship: Stanford EMF check missing; IACCGH gala table at FRIEND level → memory/domains/industry/sponsorship-requests-2001.md
-- California: Angelides: SoCal bankrupt, $12B bond short → memory/domains/industry/california-power-jan-2001.md; EOL competitors article → memory/domains/industry/energy-exchanges-2001.md
-- Attending: Columbia INFORMS revenue management (Krishna, Youyi?) → memory/domains/industry/events-attending-2001.md
+- Speaking: Risk 2001 Australia declined, Wolak suggested; Baylor EMBA 27 Jul with Martin and McCormack; EPIS topic, SIAM slides owed → memory/domains/industry/speaking-engagements-2000.md
+- Wharton: Advisory Committee 14 Jun; Enron-Wharton project call 1 Jun with Tawney → memory/domains/industry/wharton-risk-center-2001.md
+- Visitors: Norsk Hydro executives 7 Jun ask for the owner → memory/domains/industry/visitors-2001.md
+- Sponsorship: IACC gala 16 Jun, Research's table of 8; Stanford EMF 21-22 Jun agenda → memory/domains/industry/sponsorship-requests-2001.md
+- California: Angelides's 'Plan Z' public power authority, further 45% rate rise → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
