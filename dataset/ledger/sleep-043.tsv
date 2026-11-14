@@ -1,0 +1,84 @@
+id	durable	status	detail
+m03228	yes	kept	domains/work/research-presentations.md
+m03229	yes	kept	domains/personal/poland-trip-sep-2000.md
+m03230	no	not_durable	empty
+m03231	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03232	yes	kept	domains/work/research-presentations.md
+m03233	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03234	yes	kept	domains/work/research-presentations.md
+m03235	yes	kept	domains/industry/eprm-risk.md domains/personal/poland-trip-sep-2000.md people/lane-hughston.md
+m03236	yes	kept	domains/organization/candidate-referrals-2000.md
+m03237	yes	kept	domains/work/fas133-implementation.md
+m03238	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03239	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03240	yes	kept	domains/industry/visitors-2000.md
+m03241	yes	kept	domains/organization/recruiting-candidates.md
+m03242	yes	kept	domains/personal/poland-trip-sep-2000.md domains/work/value-research-lab.md
+m03243	no	not_durable	empty
+m03244	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03245	yes	kept	domains/work/azurix-rab-valuation.md
+m03246	no	not_durable	other
+m03247	yes	kept	domains/work/university-relations.md
+m03248	yes	kept	domains/organization/summer-interns-2000.md
+m03249	yes	kept	domains/industry/events-attending-2000.md
+m03250	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03251	no	not_durable	automated
+m03252	no	not_durable	automated
+m03253	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03254	yes	kept	domains/organization/candidate-interviews-sep-2000.md domains/organization/research-group.md
+m03255	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03256	no	not_durable	logistics
+m03257	yes	kept	domains/organization/summer-interns-2000.md
+m03258	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03259	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03260	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03261	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03262	yes	kept	domains/work/university-relations.md
+m03263	yes	kept	domains/organization/summer-interns-2000.md
+m03264	yes	kept	domains/work/vendor-offers-2000.md
+m03265	no	not_durable	logistics
+m03266	no	not_durable	logistics
+m03267	yes	kept	domains/work/university-relations.md
+m03268	yes	kept	people/kirstee-hewitt.md
+m03269	yes	kept	domains/work/desk-analysis-requests.md
+m03270	yes	dropped	logistics: Juan Padron asks for access to a research O: drive file
+m03271	no	not_durable	logistics
+m03272	yes	dropped	logistics: owner tells IT to grant Padron the file access
+m03273	no	not_durable	logistics
+m03274	no	not_durable	pleasantry
+m03275	yes	kept	domains/industry/speaking-engagements-2000.md
+m03276	yes	kept	domains/industry/weather-insurance-markets.md people/gary-taylor.md
+m03277	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03278	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03279	yes	kept	domains/organization/research-group.md
+m03280	no	not_durable	pleasantry
+m03281	no	not_durable	logistics
+m03282	no	not_durable	automated
+m03283	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03284	yes	kept	domains/organization/london-research.md
+m03285	yes	kept	domains/work/ut-austin-ties-2000.md
+m03286	no	not_durable	logistics
+m03287	yes	dropped	redundant: owner tells Ronn he will write Skilling's secretary; done in m03288 and m03289
+m03288	yes	kept	domains/work/ut-austin-ties-2000.md
+m03289	yes	kept	domains/work/ut-austin-ties-2000.md
+m03290	yes	kept	domains/organization/research-accounting-2000.md
+m03291	yes	kept	domains/work/ut-austin-ties-2000.md
+m03292	yes	kept	domains/work/ut-austin-ties-2000.md
+m03293	yes	kept	domains/work/vendor-offers-2000.md
+m03294	no	not_durable	logistics
+m03295	yes	kept	people/stinson-gibner.md
+m03296	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03297	no	not_durable	logistics
+m03298	yes	kept	domains/work/ut-austin-ties-2000.md
+m03299	no	not_durable	logistics
+m03300	yes	kept	domains/work/desk-analysis-requests.md
+m03301	yes	kept	domains/work/stanford-research-ties.md people/paul-racicot.md
+m03302	yes	kept	domains/organization/summer-interns-2000.md
+m03303	yes	kept	domains/work/var-backtesting-2000.md
+m03304	yes	kept	domains/work/stanford-research-ties.md people/paul-racicot.md
+m03305	yes	kept	domains/work/stanford-research-ties.md people/paul-racicot.md
+m03306	yes	kept	domains/industry/speaking-engagements-2000.md people/rosemary-fitzgerald.md
+m03307	yes	kept	domains/work/value-research-lab.md
+m03308	yes	kept	domains/work/internal-meetings.md
+m03309	yes	kept	domains/industry/speaking-engagements-2000.md people/rosemary-fitzgerald.md
+m03310	yes	kept	domains/work/university-relations.md
