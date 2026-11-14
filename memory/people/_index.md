@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-09-22
+updated: 2000-10-01
 ---
 # People — index
 
@@ -24,6 +24,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andreas Barschkis
 - Andreas Simou
 - Andrew Fastow (Andy Fastow)
+- Andrew Miles
 - Andrzej Wodnicki
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
@@ -39,6 +40,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Benjamin Parsons (Ben Parsons)
 - Beth Miertschin
 - Beth Perlman
+- Biliana Pehlivanova
 - Bill Petty
 - Bjorn Hagelmann
 - Blake Johnson
@@ -115,6 +117,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Grant Masson
 - Greg Whalley
 - Gwyn Koepke
+- Habiba Bayi
 - Harry Arora
 - Hector Campos
 - Helyette Geman
@@ -223,6 +226,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Osman Sezgen
 - Paige Grumulaitis
 - Patrycja Dalecka (Patricia Dalecka)
+- Paul Day
 - Paul Quilkey
 - Paul Racicot
 - Paula Corey
@@ -248,6 +252,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Robert Rudy
 - Rodney Greene
 - Rodney Malcolm
+- Roman Kosecki
 - Roman Zadorozhny
 - Ronnie Chahal
 - Rosemary Fitzgerald
@@ -259,6 +264,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sanjeev Khanna (Sanjeev K Khanna)
 - Scott Stoness
 - Scott Tholan
+- Scott Wakefield
 - Scott Yeager
 - Sean Grady
 - Sevil Yaman
@@ -313,4 +319,5 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Yana Kristal
 - Yannis Tzamouranis
 - Youyi Feng
+- Zeigham Khokher
 - Zimin Lu
