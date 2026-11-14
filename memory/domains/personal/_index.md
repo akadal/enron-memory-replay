@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Personal — index
 
@@ -9,14 +9,14 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Wife stays with the son in California till June; son Vin graduates this spring; Enron e-mail now vince.j.kaminski@enron.com → memory/domains/personal/household.md
-- Pokalsky wants a 1996 Power Risk issue for his litigation; Ste-Marie's new contacts from 1 Jun; Round Table dinner 18 May → memory/domains/personal/correspondence.md
+- Wife stays with the son in California till June; son Vin graduates this spring, sends his resume (29 May); Enron e-mail now vince.j.kaminski@enron.com → memory/domains/personal/household.md
+- Karasinski: owner in London end of June; Pokalsky wants a 1996 Power Risk issue; Ste-Marie's new contacts from 1 Jun → memory/domains/personal/correspondence.md
 - Bigalow: owner long DVN, adds on dips; dinner in a few weeks → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (Paula Corey, Pokalsky, Ste-Marie; Eydeland, Masson, Kohli, Fowler, Kierlanczyk, WNT archived)
+- memory/domains/personal/correspondence.md — private contacts (Karasinski, Pokalsky, Ste-Marie; Paula Corey, Eydeland, Masson, Kohli, Fowler, Kierlanczyk, WNT archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila and son at Stanford (archived); sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/investments-2000.md — brokers list (Dec 2000), Merrill Lynch (Walkup), option exercise, restricted stock deferral, PaineWebber (Haviland)
