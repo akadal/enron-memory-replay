@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # People — index
 
@@ -34,6 +34,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andrew Kalotay (Andy Kalotay)
 - Andrew Karolyi
 - Andrew Miles
+- Andy Zipper
 - Andrzej Lubowski
 - Andrzej Wodnicki
 - Angela Dorsey
