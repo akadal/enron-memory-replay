@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Personal — index
 
@@ -9,7 +9,7 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Wife stays with the son in California till June; son Vin graduates 16 Jun, undecided on a job; Balson's Opt4 openings (4 Jun); Enron e-mail now vince.j.kaminski@enron.com → memory/domains/personal/household.md
+- Wife stays with the son in California till June; son Vin graduates 16 Jun, undecided on a job; Balson's Opt4 and IBM (Hetzler) leads; Enron e-mail now vince.j.kaminski@enron.com → memory/domains/personal/household.md
 - Karasinski: owner in London end of June; Pokalsky's 1996 Power Risk issue (answer by Fri 8 Jun); Ste-Marie's new contacts from 1 Jun → memory/domains/personal/correspondence.md
 - Bigalow: owner long DVN, adds on dips; dinner in a few weeks → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
