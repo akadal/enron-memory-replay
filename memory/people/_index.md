@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-29
+updated: 2001-05-02
 ---
 # People — index
 
@@ -75,6 +75,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
+- Brian Nelson
 - Britta Bothe
 - Bruce James
 - Bryan Seyfried
@@ -82,6 +83,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Cantekin Dincerler
 - Carla Di Castro (Carla diCastro)
 - Carlos Ordonez
+- Carlos Wheelock
 - Carol Coats
 - Carrie Miller
 - Cassandra Schultz
@@ -95,11 +97,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Cheryl Arguijo
 - Cheryl Kuehl
 - Chonawee Supatgiat
+- Chris Harris
 - Chris Hilgert
 - Chris Kenyon
 - Chris Mahoney
 - Chris Strickland
 - Chris Williams
+- Christi Nicolay
 - Christian LeBroc
 - Christian Werner
 - Christie Patrick
@@ -117,6 +121,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dale Surbey
 - Damian Goodburn
 - Dan Diamond
+- Danny McCarty
 - Darrell Duffie
 - Darren Delage
 - Datren Williams (Datren L. Williams)
@@ -184,6 +189,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gary Hickerson
 - Gary Taylor
 - Gene Humphrey (Gene Humphreys)
+- George Albanis
 - George Carrick
 - George Hopley
 - George McClellan
@@ -215,6 +221,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ian MacMillan
 - Iris Mack
 - Jack Rejtman
+- Jacob Kang (Jacob Y. Kang)
 - Jaesoo Lew
 - Jaideep Singh
 - James A Hughes (James Hughes, Jim Hughes)
@@ -226,9 +233,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jane Allen
 - Jarek Astramowicz
 - Jason Sokolov
+- Javier Lamas
 - Jay Webb
 - Jean Eisel
 - Jean Mrha
+- Jean Ryall
+- Jed Howard
 - Jeff Gray
 - Jeff Kinneman
 - Jeff McMahon
@@ -250,6 +260,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jinbaek Kim
 - Joan Payne
 - Joana Ryan Bekerman (Joana Bekerman)
+- Joanna Vidal
 - Joao Neves
 - Joe Gold
 - Joe Hirko
@@ -273,6 +284,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Pavetto
 - John Peyton
 - John Sherriff
+- Jonathan Davis
 - Jonathan Le
 - Jordan Mintz (Jordan H. Mintz)
 - Jose Marquez
@@ -315,6 +327,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lara Berry
 - Larry Lawyer
 - Larry Pinsky
+- Larry Thorne
 - Laura Luce
 - Laura Starks
 - Leandro Ibasco (Roy Ibasco, Roy)
@@ -338,6 +351,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ludmila Kaminski (Ludmila)
 - Luigi Calabrese
 - Lyn Malina
+- Lynn Nazareth
 - Maheshram Vittal (Ram Vittal)
 - Manuel Rensink
 - Marc De La Roche
@@ -397,6 +411,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Niamh Clarke
 - Nicholas Levitt (Nick Levitt)
 - Nick Bambos
+- Nigel Price
 - Nina Knirel
 - Norberto Valdes
 - Norma Villarreal
@@ -427,7 +442,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
 - Pavel Zadorozhny
 - Per Sekse (Per A. Sekse)
+- Peter Nance
+- Peter Percell
 - Peter Tufano
+- Phanish Puranam
 - Phelim Boyle (P.P. Boyle)
 - Philip Merrill
 - Philippe Bibi (Philippe A Bibi)
@@ -489,6 +507,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Sarah Wooddy (Sarah Woody)
 - Sasha Divelbiss
 - Scott Earnest
 - Scott Gerson
@@ -506,6 +525,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shane Green
 - Sharad Agnihotri
 - Sharon Purswell
+- Shauywn Smith
 - Shawn Cumberland
 - Sheila Walton
 - Shelly Butler
@@ -523,6 +543,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Soussan Faiz
 - Spyros Maragos
 - Sriram Vasudevan (Sriram)
+- Stanley Horton (Stan Horton)
 - Stathis Tompaidis
 - Stephanie Miller
 - Stephanie Summers
@@ -538,6 +559,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Steven Shreve
 - Stig Faltinsen
 - Stinson Gibner
+- Stuart Hamel
 - Suresh Raghavan (Surech Raghavan)
 - Susan Hansen (Susan C. Hansen)
 - Tani Nath
@@ -566,6 +588,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tony Hamilton
 - Tony Vasut
 - Traci Warner
+- Tracy Pan
 - Trena McFarland
 - Trisha Tlapek
 - Tulika Bhalla

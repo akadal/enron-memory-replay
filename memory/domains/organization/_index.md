@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-29
+updated: 2001-05-02
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Paleologo's written offer ($110k, $20k bonus) before Italy; Greg Hunt to Roberts; Joao Neves; Bessik Matchavariani → memory/domains/organization/candidate-interviews-apr-end-2001.md; Demianenko to Lee Ferrell, George Moss (LSU) → memory/domains/organization/candidate-interviews-late-apr-2001.md
-- Interns: Jinbaek Kim 4 Jun, plane ticket paid for all → memory/domains/organization/summer-interns-2001.md; Stanford 4 of 6 summer offers taken → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
-- HR: Sevil Yaman's bonus 30 Apr; her H1B deferred to her full-time start, maybe early 2002 → memory/domains/organization/hr-matters-2001.md; EGM allocation by desk (27 Apr) → memory/domains/organization/research-accounting-2000.md
-- Company: EES risk to an EWS group, EGM meeting 7 May, iBuyit 1 May → memory/domains/organization/corporate-announcements-2001.md; Durasoft COM course 14-18 May → memory/domains/organization/leave-and-training.md
-- Group: Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; London: Gibner vs Vasant for Europe/Asia → memory/domains/organization/london-research.md
+- Candidates: Percell to McCarty and Horton; Aysu Bilgin; Jacob Kang's second round; Richard Heo phone interview; SAIS resume book → memory/domains/organization/candidate-interviews-may-2001.md; Paleologo's offer → memory/domains/organization/candidate-interviews-apr-end-2001.md
+- HR: Gwyn Koepke to manager from 1 Mar; Hickerson will not fund Maureen Raymond, now ill in London; mid-year PRC not the week of 11 Jun → memory/domains/organization/hr-matters-2001.md
+- Interns: Jinbaek Kim 4 Jun-4 Aug on DealBench auctions → memory/domains/organization/summer-interns-2001.md; Stanford 4 of 6 summer offers taken → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
+- Company: iBuyit live, paper coding sheets bounced from 8 May; EGM meeting 7 May → memory/domains/organization/corporate-announcements-2001.md; laptop admin rights → memory/domains/organization/office-equipment.md
+- Group: Kohli's party Sat 5 May, office move → memory/domains/organization/research-group-2001.md; London: Roberts wants Tony Hamilton under Slava → memory/domains/organization/tony-hamilton-london-2001.md
 
 ## Files
 
@@ -63,3 +63,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
 - memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
 - memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
+- memory/domains/organization/candidate-interviews-may-2001.md — candidates and referrals from 30 Apr 2001

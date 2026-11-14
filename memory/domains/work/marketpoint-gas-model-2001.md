@@ -3,16 +3,16 @@ id: marketpoint-gas-model-2001
 type: topic
 domain: work
 title: "MarketPoint (Altos) North American Gas Model, 2001"
-summary: "Dale Nesbitt's MarketPoint/Altos North American Gas Model: the owner only facilitator and technical consultant (Feb 2001); Goodpasture reports the owner favours it, a $12,000 test week credited to the subscription (9 Apr 2001); Goodpasture reassigned, Kim Watson takes over, the owner stays in the decision (12 Apr)."
+summary: "Dale Nesbitt's MarketPoint/Altos North American Gas Model: the owner a facilitator; $12,000 test week (Apr 2001); Kim Watson takes over from Goodpasture (12 Apr); owner: commercial groups still interested, Research not the decision maker; meet on Dale's next Houston trip, with Eric Gadd (30 Apr-1 May 2001); earlier detail archived."
 status: active
-updated: 2001-04-14
+updated: 2001-05-02
 ---
 # MarketPoint (Altos) North American Gas Model, 2001
 
-Detail ←[[marketpoint-gas-model-2001-2001-04-w15b]]
+Detail ←[[marketpoint-gas-model-2001-2001-04-w15b]] ←[[marketpoint-gas-model-2001-2001-05-w18]]
 
 The 2000 offer ($12,000 test week, ETS interest): memory/domains/work/vendor-reviews-nov-2000.md. People: memory/people/dale-nesbitt.md, memory/people/john-goodpasture.md.
 
-- [2001-02-16] Owner to Chaim Braun (Altos VP; 650.949.3541): "The project is now in the hands of John and I shall be very happy to assist him when he is ready to move." "My role in this project is one of a facilitator, technical consultant."; Nesbitt is ready for a preliminary/test project. ←[[m05927]]
-- [2001-04-09] Goodpasture to Kim Watson: the owner favours MarketPoint for a long-term North American gas model (ETS Revenue Management, Alaskan gas studies); one-week on-site test for $12,000 plus expenses, credited to the first-year subscription ("approx. $55-60 M/yr"); draft licence not yet reviewed by legal or Shelley Corman (affiliate issues); Goodpasture has moved to Clean Fuels, so Danny McCarty's new Alaskan pipeline team (Eric Gadd) should decide. ←[[m06636]]
 - [2001-04-12] Goodpasture (reassigned within ETS) points Chaim Braun to Kim Watson (713-853-3098) or the owner, who "will remain very much part of the decision process"; Nesbitt: Kim, who reviewed MarketPoint before, takes over; he and Braun call her after Easter. ←[[m06790]] ←[[m06810]]
+- [2001-04-30] Nesbitt (Altos moves 1 May to 95 Main St, Suite 10, Los Altos) wants to restart licensing with the owner and Kim Watson: "Please, call me on Tuesday. My morning schedule is full but I am open in the afternoon."; "The commercial groups are still interested and are moving towards the test of the package."; "we are not the decision makers in this case."; "we should allow simply the process to run its course." ←[[m07369]] ←[[m07370]] ←[[m07401]] ←[[m07408]] ←[[m07412]] ←[[m07456]] ←[[m07462]]
+- [2001-05-01] Owner talked to Dale, "suggested that we meet during his next trip to Houston when we decide on timing of our project"; Kim Watson wants Eric Gadd (ET&S, x54713) there. ←[[m07428]] ←[[m07431]] ←[[m07469]] ←[[m07472]]
