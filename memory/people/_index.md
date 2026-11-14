@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-02-23
+updated: 2001-03-04
 ---
 # People — index
 
@@ -27,6 +27,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andreas Barschkis
 - Andreas Simou
 - Andrew Fastow (Andy Fastow)
+- Andrew Kalotay (Andy Kalotay)
 - Andrew Miles
 - Andrzej Lubowski
 - Andrzej Wodnicki
@@ -43,6 +44,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Aziz Lookman
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
+- Barry Pearce
 - Becky Pham
 - Ben Glisan
 - Benjamin Parsons (Ben Parsons)
@@ -119,6 +121,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Denise Rancour
 - Dennis Benevides
 - Dennis Feerick
+- Dennis Loughridge (Dennis W. Loughridge)
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
 - Dmitri Villevald
@@ -373,6 +376,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Phelim Boyle (P.P. Boyle)
 - Philip Merrill
 - Philippe Bibi (Philippe A Bibi)
+- Philippe Jorion
 - Phillip Allen (Phillip K Allen)
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
@@ -389,6 +393,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ravi Thuraisingham
 - Ray Bowen
 - Raymond Yeow
+- Richard B Jones (Rick Jones)
 - Richard Carson
 - Richard Causey (Rick Causey)
 - Richard DiMichele
@@ -492,6 +497,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Van Ngo
 - Vasant Shanbhogue
 - Vera Apodaca
+- Viacheslav Danilov (Slava Danilov)
 - Vicky Windsor
 - Vincent Chen
 - Vincent Tang

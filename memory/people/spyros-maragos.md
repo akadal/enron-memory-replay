@@ -5,7 +5,7 @@ entity: person
 name: "Spyros Maragos"
 aliases: []
 domains: [industry, organization]
-updated: 2001-02-04
+updated: 2001-03-04
 ---
 # Spyros Maragos
 
@@ -14,6 +14,7 @@ Dynegy; speaks on power price volatility (POWER 2000, GARP 2001); a candidate vi
 ## Context: organization
 
 - [2000-07-06] Resume via recruiter Paul Johnson; dinner with the owner → memory/domains/organization/recruiting-candidates.md ←[[m01854]] ←[[m02268]]
+- [2001-03-02] Sends Hui He's resume → memory/domains/organization/recruiting-candidates.md ←[[m06055]]
 
 ## Context: industry
 

@@ -3,21 +3,21 @@ id: research-group-2001
 type: topic
 domain: organization
 title: "Research Group operations, 2001"
-summary: "Group rules and routines for 2001: one project-list template (Plans2001), arrival by 8:30, Mike Roberts and weather consolidation, forward curves not released, the Energy Derivatives seminar (from 19 Jan, mandatory for 2000 joiners) beside the Friday option-pricing brown bags (Jan 2001)."
+summary: "Group rules and routines for 2001: arrival by 8:30; staff meeting talks (Bigalow moved, Rick Jones); ENSIDE profile interview 1 Mar; LiveLink replaces project tracking (test, production ~Apr 2001); the Energy Derivatives seminar (from 19 Jan, mandatory for 2000 joiners)."
 status: active
-updated: 2001-02-18
+updated: 2001-03-04
 ---
 # Research Group operations, 2001
 
-Detail ←[[research-group-2001-2001-01-w02]] ←[[research-group-2001-2001-02-w05]]
+Detail ←[[research-group-2001-2001-01-w02]] ←[[research-group-2001-2001-02-w05]] ←[[research-group-2001-2001-03-w09]]
 
 Members and staff meeting: memory/domains/organization/research-group.md.
 
-- [2001-01-02] Project lists: one template in Plans2001 (O:\Research\Common\FROM_WJK\PLANS\2001Plans), as "several parallel" copies had circulated: "Please, make sure I have not omitted anybody." ←[[m05082]]
 - [2001-01-02→] Arrival by 8:30 am at the latest, at the owner's request (clients call from 8:00); late arrivals tell the supervisor and Anita or Shirley first (Shanbhogue). The owner drafts the group's 2001 directions. ←[[m05099]]
-- [2001-01-04] To Supatgiat: "I expect and encourage the members of the group to disagree with me (or anybody else) on any subject.", "In Enron, facts are friendly." ←[[m05153]]
 - [2001-01-31] Livelink as Research's document repository and project tracker (Moyez Lallani); Gibner's project attributes go to the test environment. 1 Feb Crenshaw adds Anita DuPont as backup timekeeper (Cost Center 107043). ←[[m05691]] ←[[m05731]]
-- [2001-02-12] Tamarchenko's technical corner article (cc William Smith): "Looks good. We  should break it up in 2 parts." ←[[m05850]]
+- [2001-02-27] Thursday staff meeting (Anita DuPont; a presenter, lunch): Steve Bigalow's talk of 1 Mar moves a week; "Rick Jones will be completing his presentation." ←[[m05993]]
+- [2001-02-27] ENSIDE (EWS newsletter) profiles the group: Kathie Grabstald interviews the owner Thu 1 Mar, 10 am, taped; Molly Magee praised the group. ←[[m05990]]
+- [2001-03-01] LiveLink replaces the projects tracking database: Moyez Lallani presents it Thu 8 Mar, 11:30, 30C1 (weekly lunch 11:30-1:00); a few weeks in test (Gibner, Shanbhogue), production ~first week of April. ←[[m06027]]
 
 ## Energy Derivatives seminar
 

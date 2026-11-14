@@ -3,15 +3,15 @@ id: london-research
 type: topic
 domain: organization
 title: "London Research team"
-summary: "Enron Europe's Research team: Leppard head from 20 Oct; reporting to Tani Nath with a dotted line to the owner; expansion backed: two commercial-quality PhDs a quarter (Michael Brown, 13 Nov 2000); Sharad Agnihotri replaces Anjam; Lamas resigned 7 Nov; Anjam's resignation in its own file; older items archived."
+summary: "Enron Europe's Research team: Leppard head from 20 Oct, reporting to Tani Nath with a dotted line to the owner; Sharad Agnihotri replaces Anjam; Ted Murphy: Leppard moving to Enron Metals leaves a leadership hole, London lags on VaR (2 Mar 2001); expansion plan, Lamas and older items archived."
 status: active
-updated: 2001-02-04
+updated: 2001-03-04
 ---
 # London Research team
 
-Detail ←[[london-research-2001-01-w04]] ←[[london-research-2001-02-w05]]
+Detail ←[[london-research-2001-01-w04]] ←[[london-research-2001-02-w05]] ←[[london-research-2001-03-w09]]
 
 Surbey's weekly update: memory/domains/work/internal-meetings.md; trip: memory/domains/work/2000-02-20-london-trip.md; promotions: memory/domains/organization/promotions-2000.md; PRC: memory/domains/organization/mid-year-prc-2000.md; intranet: memory/domains/work/research-web-content-2000.md; PPI: memory/domains/work/uk-inflation-book-ppi.md; real options: memory/domains/work/real-options-diagrams.md; MG Metals: memory/domains/organization/mg-metals-integration.md. Detail ←[[london-research-2000-03-w13]] … (one archive file per week) ←[[london-research-2000-10-w41]] ←[[london-research-2000-10-w42]] ←[[london-research-2000-10-w43]] ←[[london-research-2000-11-w44]] ←[[london-research-2000-11-w45]] ←[[london-research-2000-11-w46]] ←[[london-research-2000-12-w48]]
-- [2000-11-13] Leppard met Sherriff, Michael Brown, Tani Nath, Joe Gold and Richard Lewis: all back expanding Research if staff work on commercial problems and outflow eventually matches inflow (a training ground for commercial PhDs); Brown agreed to two commercial-quality PhDs a quarter, an effective headcount rise despite curbs on support staff; Nath to brief the owner. ←[[m04215]]
 - [2001-01-25] Leppard passes Sharad Agnihotri's probation (due to end 21 Feb). Sign-off debate: memory/domains/work/valuation-signoff-2001.md ←[[m05566]]
-- [2001-01-30] Shanbhogue and Tamarchenko fly to London Mon 29 Jan, back Fri (Hilton Honors beats Enron's rates); owner copies it to AOL. ←[[m05665]]
+- [2001-02-27] Andreas Lorenz asks Sharad Agnihotri about a VaR model dll supposedly from Research; neither Research nor EnergyDesk knows it; Leppard: treat it as a new project, needing the owner's input as it would send Research models outside. ←[[m05991]]
+- [2001-03-02] Ted Murphy (cc Rick Buy): Leppard moves to Enron Metals, leaving a leadership hole in London Research, which lags on VaR (most commodities on spreadsheets, little calibration or output analysis); he asks the owner's advice. Leppard: Slava Danilov out 5-9 Mar, Leppard 12-23 Mar, both back 26 Mar; Paris Risk 10-11 Apr. ←[[m06028]] ←[[m06047]]
