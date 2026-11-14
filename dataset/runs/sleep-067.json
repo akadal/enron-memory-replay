@@ -1,0 +1,187 @@
+{
+ "slice": 67,
+ "simulated_today": "2001-03-09",
+ "feed": {
+  "slice": 67,
+  "iso_week": "2001-W10",
+  "first_seq": 6057,
+  "last_seq": 6171,
+  "messages": 115,
+  "durable": 95,
+  "first_date": "2001-03-05 00:04",
+  "last_date": "2001-03-09 17:25",
+  "today": "2001-03-09",
+  "inbox_files": [
+   "2001-03-05--mail.md",
+   "2001-03-06--mail.md",
+   "2001-03-07--mail.md",
+   "2001-03-08--mail.md",
+   "2001-03-09--mail.md"
+  ],
+  "inbox_chars": 67112,
+  "l2_chars": 260999
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 710,
+ "quota_before": {
+  "five_hour": 20.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 22.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 67,
+  "messages": 115,
+  "durable": 95,
+  "kept": 94,
+  "kept_rate_excluding_redundant": 0.989,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2783,
+  "fact_lines_with_source": 1843,
+  "dated": 1843,
+  "date_matches_source": 1798,
+  "date_mismatch_ids_this_slice": [
+   "m06084"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 661
+  },
+  "questions": {
+   "files": 1,
+   "chars": 673
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 192,
+   "chars": 340574
+  },
+  "people": {
+   "files": 516,
+   "chars": 343790
+  },
+  "archive_inbox": {
+   "files": 434,
+   "chars": 3663864
+  },
+  "archive_mail": {
+   "files": 6197,
+   "chars": 15096458
+  },
+  "archive_other": {
+   "files": 1200,
+   "chars": 1012956
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 63,
+   "duration_ms": 708024,
+   "duration_api_ms": 625712,
+   "total_cost_usd": 4.5617350000000005,
+   "usage": {
+    "input_tokens": 106,
+    "cache_creation_input_tokens": 194825,
+    "cache_read_input_tokens": 7906355,
+    "output_tokens": 71072,
+    "output_tokens_details": {
+     "thinking_tokens": 29525
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 194825,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 769,
+      "cache_read_input_tokens": 226342,
+      "cache_creation_input_tokens": 274,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 274
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 106,
+     "outputTokens": 71072,
+     "cacheReadInputTokens": 7906355,
+     "cacheCreationInputTokens": 194825,
+     "webSearchRequests": 0,
+     "costUSD": 4.5617350000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 29525,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 194825,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 62,
+   "result_summary": "The 2001-W10 consolidation is committed as `3dd34c4`, and lint and sleep-audit both passed before the commit and again on the commit itself. Of 115 messages, 95 had notes: 94 are cited in L1 and one, m06158 (a notice that the Weather group posted its Summer Outlook), is listed in `dataset/drops/sleep-067.tsv`.\n\n- **Ratchet:** the first attempt failed this check by two characters, so I measured every over-target file against HEAD before running the gates. Older lines from 23 files were moved word for word into `archive/*/2001/*-2001-03-w10.md`. No file is above 90% of its ceiling.\n- **New files:** three topic files in organization: `candidate-interviews-mar-2001`, `hr-matters-2001` (your contract corrections and Sevil Yaman's green card) and `stanford-mba-recruiting-mar-2001`. Seven people reached five messages and now have entity files: Sharon Purswell, Ian MacMillan, Althea Gordon, Rebecca McDonald (also spelled MacDonald), Paul Kleindorfer, Andrew Karolyi and David Kilgore.\n- **Questions:** the overdue Mark S Palmer question was closed unanswered, keeping the current setup. I added one question: whether Matthew Harris is the EBS \"Matt Harris\" from 2000. Only if he is does he reach five messages and need a file.\n- **Close note location:** you asked for run notes in `memory/inbox/2001-03-09--mail.md`, but the note about closing that question is in `memory/archive/inbox/2001-03-09--mail-2.md`. The audit rejects any change to a log while it is being archived, so I followed how earlier runs handled the same case.\n- **Other steps:**\n  - Indexes and `state.md` are updated.\n  - The five oldest \"still true\" lines show no contradiction this week and stay open.\n  - There were no sleep-task or feedback blocks, and no external sources to pull.\n  - All five logs are now in `archive/inbox/`.\n- **Not pushed:** your instructions say both to push and that the runner pushes after its own checks. I followed the second. The only uncommitted file is `dataset/runs/sleep-067.transcript.j"
+  },
+  "repair": null
+ }
+}
