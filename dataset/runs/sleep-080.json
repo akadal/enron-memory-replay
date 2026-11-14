@@ -1,0 +1,204 @@
+{
+ "slice": 80,
+ "simulated_today": "2001-05-18",
+ "feed": {
+  "slice": 80,
+  "iso_week": "2001-W20",
+  "first_seq": 7863,
+  "last_seq": 7940,
+  "messages": 78,
+  "durable": 60,
+  "first_date": "2001-05-14 06:16",
+  "last_date": "2001-05-18 15:18",
+  "today": "2001-05-18",
+  "inbox_files": [
+   "2001-05-14--mail.md",
+   "2001-05-15--mail.md",
+   "2001-05-16--mail.md",
+   "2001-05-17--mail.md",
+   "2001-05-18--mail.md"
+  ],
+  "inbox_chars": 48364,
+  "l2_chars": 211280
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 549,
+ "quota_before": {
+  "five_hour": 33.0,
+  "seven_day": 46.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 36.0,
+  "seven_day": 46.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 80,
+  "messages": 78,
+  "durable": 60,
+  "kept": 59,
+  "kept_rate_excluding_redundant": 0.983,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3593,
+  "fact_lines_with_source": 2274,
+  "dated": 2274,
+  "date_matches_source": 2222,
+  "date_mismatch_ids_this_slice": [
+   "m07923",
+   "m07933"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 589
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1937
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 239,
+   "chars": 440254
+  },
+  "people": {
+   "files": 652,
+   "chars": 417993
+  },
+  "archive_inbox": {
+   "files": 502,
+   "chars": 4691480
+  },
+  "archive_mail": {
+   "files": 7966,
+   "chars": 19854549
+  },
+  "archive_other": {
+   "files": 1435,
+   "chars": 1180187
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 547818,
+   "duration_api_ms": 479656,
+   "total_cost_usd": 3.4001004999999997,
+   "usage": {
+    "input_tokens": 96,
+    "cache_creation_input_tokens": 148947,
+    "cache_read_input_tokens": 5472552,
+    "output_tokens": 55669,
+    "output_tokens_details": {
+     "thinking_tokens": 19145
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 148947,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 751,
+      "cache_read_input_tokens": 167594,
+      "cache_creation_input_tokens": 292,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 292
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002501,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 96,
+     "outputTokens": 55669,
+     "cacheReadInputTokens": 5472552,
+     "cacheCreationInputTokens": 148947,
+     "webSearchRequests": 0,
+     "costUSD": 3.3998503999999996,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19145,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 148947,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "The 2001-05-18 consolidation for week 2001-W20 is committed as `b5750e0` and not pushed, since the replay says the runner pushes after its own checks. Lint and sleep-audit both pass, before the commit and again on the commit itself. Of the week's 78 messages, 60 had notes: 59 are now cited in the memory files and one is listed in `dataset/drops/sleep-080.tsv` (m07921, the owner mailing himself an MIT link).\n\n**New topic files:**\n- the owner's \"Var Issues\" memo, with Tamarchenko's Power VaR comments, Hayden's Project X correlation meeting and the UK Power VaR rising to 25M;\n- Enron Credit tensions (Iris Mack's London report, Albanis's ultimatum, LPC's models);\n- the ICAST proposal and FEA @ENERGY 2.1;\n- speaking invitations (EPIS, Bachelier, Baylor, IQPC declined, Tamiment);\n- Research admin (visa help through Wade Cline, Iris's SFA registration, staff titles, CFA study time);\n- referrals.\n\n**Updated files:** the mid-year PRC, California, country risk, Raptor's note to Arthur Andersen, Dabhol, Enterprise-Wide Risk Management, the Prediction Company contact, and three personal files.\n\n**Compression:** no file was above 90% of its size limit. To keep the week's additions from growing them, I moved older lines of eight files word-for-word into week-20 archive files.\n\n**Other changes:**\n- Andy Zipper reached five messages, so he now has an entity file.\n- \"Sara Woody\" doesn't exactly match any alias, so linking her to Sarah Wooddy went to `questions.md` for approval.\n- No questions were past their due date, and the five oldest ongoing lines are still valid.\n- There were no sleep tasks or feedback blocks.\n\n**Log-file deviation:** the audit's first run failed because I had appended this run's notes to the day's inbox log before archiving it, and archived logs must stay unchanged. I put the log back exactly as it was, and the run's own notes now sit in a fresh `memory/inbox/2001-05-18--mail.md`, which is how the runner script expects it."
+  },
+  "repair": null
+ }
+}
