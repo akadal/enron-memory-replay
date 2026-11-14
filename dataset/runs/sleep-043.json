@@ -1,0 +1,186 @@
+{
+ "slice": 43,
+ "simulated_today": "2000-09-22",
+ "feed": {
+  "slice": 43,
+  "iso_week": "2000-W38",
+  "first_seq": 3228,
+  "last_seq": 3310,
+  "messages": 83,
+  "durable": 65,
+  "first_date": "2000-09-18 00:55",
+  "last_date": "2000-09-22 06:57",
+  "today": "2000-09-22",
+  "inbox_files": [
+   "2000-09-18--mail.md",
+   "2000-09-19--mail.md",
+   "2000-09-20--mail.md",
+   "2000-09-21--mail.md",
+   "2000-09-22--mail.md"
+  ],
+  "inbox_chars": 50949,
+  "l2_chars": 201533
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 641,
+ "quota_before": {
+  "five_hour": 19.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 21.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 43,
+  "messages": 83,
+  "durable": 65,
+  "kept": 62,
+  "kept_rate_excluding_redundant": 0.969,
+  "drop_classes": {
+   "logistics": 2,
+   "redundant": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1695,
+  "fact_lines_with_source": 1183,
+  "dated": 1183,
+  "date_matches_source": 1148,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.6,
+   1.0,
+   0.86,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 651
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1151
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 126,
+   "chars": 213993
+  },
+  "people": {
+   "files": 307,
+   "chars": 213994
+  },
+  "archive_inbox": {
+   "files": 275,
+   "chars": 1991593
+  },
+  "archive_mail": {
+   "files": 3336,
+   "chars": 8181071
+  },
+  "archive_other": {
+   "files": 642,
+   "chars": 626899
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 639383,
+   "duration_api_ms": 554986,
+   "total_cost_usd": 3.7770909999999995,
+   "usage": {
+    "input_tokens": 84,
+    "cache_creation_input_tokens": 166869,
+    "cache_read_input_tokens": 5412515,
+    "output_tokens": 67965,
+    "output_tokens_details": {
+     "thinking_tokens": 23368
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 166869,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 691,
+      "cache_read_input_tokens": 198141,
+      "cache_creation_input_tokens": 519,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 519
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 84,
+     "outputTokens": 67965,
+     "cacheReadInputTokens": 5412515,
+     "cacheCreationInputTokens": 166869,
+     "webSearchRequests": 0,
+     "costUSD": 3.7770909999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23368,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 166869,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I merged week 2000-W38 into memory and both gates passed (lint green, sleep-audit green); it's one local commit on `main`, `4225995` before I amended its message to fix the archived-file count, so check `git log -1` for the final hash. Nothing is pushed; the runner pushes after its checks. Of the 83 messages, 65 had notes: 62 are now cited in L1 and 3 are listed in `dataset/drops/sleep-043.tsv` (m03270 and m03272 as logistics, m03287 as redundant). The main news this week: the owner cancelled his London trip (Leppard presents for him; the Arthur Andersen meetings move to early October) while the Poland trip went ahead. The Berkeley trip (16–17 Oct) and Oren's seminar (23 Oct) took shape, and the owner and Causey recommended Skilling as keynote for the UT energy-finance conference on 22 Feb 2001; his calendar has a conflict that week. Causey and Kean dropped the Value Research Lab, Racicot is funding the Stanford program with $100,000, Ben Zhang declined the offer, and Rabi De gets a lunch before any written offer. The owner will chair a stream at GARP 2001, and his joint Enron paper with John Martin is wanted by Christmas. Four people reached five noted messages and now have entity files: Lane Hughston, Paul Racicot, Rosemary Fitzgerald and Gary Taylor; no aliases or merges were applied. The Poland-trip conflict question was past due and closed unanswered: London is cancelled, and Philadelphia stays marked (?) because nothing confirms or cancels it. I moved older lines from 23 files into `archive/*/2000/*-w38.md`, which kept every touched file inside the audit's growth limit and campus-recruiting under its ceiling. There were no sleep-task or feedback blocks, the five oldest ongoing lines are still valid, and I left the runner's `dataset/runs/sleep-043.transcript.jsonl` uncommitted, as earlier runs did."
+  },
+  "repair": null
+ }
+}
