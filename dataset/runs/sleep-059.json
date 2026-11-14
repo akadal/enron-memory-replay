@@ -1,0 +1,189 @@
+{
+ "slice": 59,
+ "simulated_today": "2001-01-14",
+ "feed": {
+  "slice": 59,
+  "iso_week": "2001-W02",
+  "first_seq": 5186,
+  "last_seq": 5327,
+  "messages": 142,
+  "durable": 119,
+  "first_date": "2001-01-08 00:15",
+  "last_date": "2001-01-14 17:22",
+  "today": "2001-01-14",
+  "inbox_files": [
+   "2001-01-08--mail.md",
+   "2001-01-09--mail.md",
+   "2001-01-10--mail.md",
+   "2001-01-11--mail.md",
+   "2001-01-12--mail.md",
+   "2001-01-13--mail.md",
+   "2001-01-14--mail.md"
+  ],
+  "inbox_chars": 91720,
+  "l2_chars": 356099
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 987,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 38.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 7.0,
+  "seven_day": 38.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 59,
+  "messages": 142,
+  "durable": 119,
+  "kept": 114,
+  "kept_rate_excluding_redundant": 0.958,
+  "drop_classes": {
+   "logistics": 3,
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2390,
+  "fact_lines_with_source": 1636,
+  "dated": 1636,
+  "date_matches_source": 1597,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.85,
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.85,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 697
+  },
+  "questions": {
+   "files": 1,
+   "chars": 835
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 170,
+   "chars": 297400
+  },
+  "people": {
+   "files": 445,
+   "chars": 300340
+  },
+  "archive_inbox": {
+   "files": 384,
+   "chars": 3154523
+  },
+  "archive_mail": {
+   "files": 5353,
+   "chars": 13115650
+  },
+  "archive_other": {
+   "files": 1031,
+   "chars": 902494
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 70,
+   "duration_ms": 985089,
+   "duration_api_ms": 769552,
+   "total_cost_usd": 5.675110600000001,
+   "usage": {
+    "input_tokens": 128,
+    "cache_creation_input_tokens": 225772,
+    "cache_read_input_tokens": 10685013,
+    "output_tokens": 86571,
+    "output_tokens_details": {
+     "thinking_tokens": 40180
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 225772,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 940,
+      "cache_read_input_tokens": 256944,
+      "cache_creation_input_tokens": 619,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 619
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 128,
+     "outputTokens": 86571,
+     "cacheReadInputTokens": 10685013,
+     "cacheCreationInputTokens": 225772,
+     "webSearchRequests": 0,
+     "costUSD": 5.675110600000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 40180,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 225772,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 69,
+   "result_summary": "The consolidation for week 2001-W02 (simulated date 2001-01-14) is committed as `1ed2c92` and not pushed, since the replay rules say the runner pushes. Lint and `sleep-audit.py` were both green on the first run, so no repair or reset was needed.\n\nAll 142 messages were processed. Of the 119 with notes, 114 are cited in memory and 5 are listed in `dataset/drops/sleep-059.tsv`: m05189, m05196 and m05310 as logistics, m05207 as other, m05305 as no_owner_content. A check confirmed no noted message is left uncited or unlisted.\n\nThe week added six new topics:\n- **Hanover collar:** valuation of a costless collar on Hanover stock.\n- **EES risk reviews:** the EES credit off-site, operational risk, and the EAM VaR meeting moved to 17 Jan.\n- **Credit/VaR system:** Tanya needs code access, and the owner says the system \"cannot fail\".\n- **Transmission modelling:** the ERCOT load-flow model and London's interest.\n- **Research re-org:** Gibner's draft, written after Grant Masson declined the offer and stayed at El Paso.\n- **Outside recruiters:** Jeff Wesley signing on with Enron, and Johan Dahl.\n\nAbout 30 existing files were updated, including:\n- the Henwood India study (consulting agreement, database, team in India) and Kohli's Dabhol talking points\n- Kohli's permanent move to Research and Anshuman's six-month trial\n- the Petronas 8 Feb agenda, the Wharton Tiger Team schedule and the Rice project\n- the EPRM and UT conference talks\n- Krishnarao's election as VP and Hrgovcic's bonus\n\n15 people reached five messages and now have entity files, including Jeff Wesley and Kathy Spradling and eight Wharton students. Paul Mead's file was overdue from earlier weeks and was created now.\n\nI applied nothing behind an approval gate. One new question went to `questions.md`: whether to add \"Anshuman Shrivastava\" as an alias of Anshuman Srivastav.\n\nThere were no sleep-task blocks and no questions past their due date. The five oldest ongoing lines were checked and left open.\n\nNo file was above 90% "
+  },
+  "repair": null
+ }
+}
