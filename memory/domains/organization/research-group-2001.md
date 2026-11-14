@@ -5,7 +5,7 @@ domain: organization
 title: "Research Group operations, 2001"
 summary: "Group routines for 2001: arrival by 8:30; Energy Derivatives seminar (from 19 Jan); Sat 5 May: Kohli's party and the piano recital of the owner's friend at Rice; headcount for the office move: 1 MD, 6 VPs, 5 Directors (2 May 2001); Campos, Astros, volleyball and older items archived."
 status: active
-updated: 2001-05-02
+updated: 2001-05-06
 ---
 # Research Group operations, 2001
 
@@ -19,5 +19,5 @@ Members and staff meeting: memory/domains/organization/research-group.md.
 
 - [2001-01-02→] Clewlow and Strickland's "Energy Derivatives", first and third Fridays, brown bag, from 19 Jan (EB30C1, then EB49C1); Gibner coordinates; "mandatory for every member of the group who started after January 1, 2000."; chapter one out 4 Jan. ←[[m05094]] ←[[m05155]] ←[[m05164]]
 - [2001-04-13] Crenshaw: Sandeep Kohli hosts the group at his new house Sat 5 May. ←[[m06849]] ←[[m06858]]
-- [2001-05-02] Sat 5 May: Kohli's get-together (invitation and map 30 Apr; the owner copies it to AOL) and in the evening the piano recital of the owner's friend at Rice's Shepherd School of Music (Crenshaw sends the group a map); Christie Patrick plans to be at the concert. ←[[m07349]] ←[[m07360]] ←[[m07399]] ←[[m07509]] ←[[m07468]] ←[[m07495]]
-- [2001-05-02] Office move: Crenshaw (Administrative Coordinator) gives Deborah (bubenko@enron.com) the group's senior count, 1 Managing Director, 6 Vice Presidents, 5 Directors; she and Anita DuPont will go over the library space with her. ←[[m07499]]
+- [2001-05-02] Sat 5 May: Kohli's get-together (invitation and map 30 Apr; the owner copies it to AOL) and in the evening the piano recital of the owner's friend at Rice's Shepherd School of Music (Crenshaw sends the group a map); Christie Patrick plans to be at the concert. ←[[m07349]] ←[[m07360]] ←[[m07399]] ←[[m07509]] ←[[m07468]] ←[[m07495]] ←[[m07613]]
+- [2001-05-02] Office move: Crenshaw (Administrative Coordinator) gives Deborah (bubenko@enron.com) the group's senior count, 1 Managing Director, 6 Vice Presidents, 5 Directors; she and Anita DuPont will go over the library space with her. ←[[m07499]] ←[[m07553]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-02
+updated: 2001-05-06
 ---
 # Industry — index
 
@@ -9,16 +9,16 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: MGMT 656 papers in, Nazareth's team an A, grades by 4 May → memory/domains/industry/rice-energy-derivatives-course.md; ALP Mon 7 May 4 pm, 49C1, Enron Field dinner → memory/domains/industry/rice-alp-presentation-may-2001.md; NFCF 4-5 May → memory/domains/industry/rice-university.md
-- Owner's roles: EPRM Houston 14-15 May, Tamarchenko co-speaker, slides behind; Financial Mathematics course Jun-Jul → memory/domains/industry/eprm-risk.md; SIAM talk → memory/domains/industry/speaking-engagements-2000.md
-- Attending: PIRA 14 and 16 May; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
-- Wharton: Risk Center advisory 14 Jun, agenda out; Vasant's proposal outline → memory/domains/industry/wharton-risk-center-2001.md; ET slides (e-mail network mapping) → memory/domains/industry/wharton-projects-feb-2001.md
-- Visits: Kulatilaka 17 May on mobile-internet markets → memory/domains/industry/visitors-2001.md; UH tour 22 May → memory/domains/industry/uh-econophysics.md; California → memory/domains/industry/california-power-jan-2001.md
+- Rice: MGMT 656 grades all in by 4 May → memory/domains/industry/rice-energy-derivatives-course.md; ALP Mon 7 May 4 pm, 49C1, Enron Field box, Gillis and Whitaker → memory/domains/industry/rice-alp-presentation-may-2001.md
+- Owner's roles: EPRM Houston 14-15 May with Tamarchenko, dinner 14 May; Financial Mathematics course Jun-Jul → memory/domains/industry/eprm-risk.md; GARP slides posted → memory/domains/industry/garp-2001.md
+- Attending: PIRA 14 and 16 May; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md; Stanford EMF retail conference 21-22 Jun → memory/domains/industry/sponsorship-requests-2001.md
+- Wharton: Risk Center advisory 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Diebold's temperature forecasts, joint research → memory/domains/industry/weather-insurance-markets.md
+- Visits: Kulatilaka 17 May → memory/domains/industry/visitors-2001.md; California: no bond vote by 8 May → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis 2000: caps, FERC, class action
-- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan-Apr 2001
+- memory/domains/industry/california-power-jan-2001.md — California briefings, 2001
 - memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya in the owner's place; trustees' report)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
