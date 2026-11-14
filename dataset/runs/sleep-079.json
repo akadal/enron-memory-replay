@@ -1,0 +1,204 @@
+{
+ "slice": 79,
+ "simulated_today": "2001-05-13",
+ "feed": {
+  "slice": 79,
+  "iso_week": "2001-W19",
+  "first_seq": 7725,
+  "last_seq": 7862,
+  "messages": 138,
+  "durable": 95,
+  "first_date": "2001-05-07 01:32",
+  "last_date": "2001-05-13 15:36",
+  "today": "2001-05-13",
+  "inbox_files": [
+   "2001-05-07--mail.md",
+   "2001-05-08--mail.md",
+   "2001-05-09--mail.md",
+   "2001-05-10--mail.md",
+   "2001-05-11--mail.md",
+   "2001-05-13--mail.md"
+  ],
+  "inbox_chars": 67925,
+  "l2_chars": 349597
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 693,
+ "quota_before": {
+  "five_hour": 67.0,
+  "seven_day": 49.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 70.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 79,
+  "messages": 138,
+  "durable": 95,
+  "kept": 92,
+  "kept_rate_excluding_redundant": 0.968,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3367,
+  "fact_lines_with_source": 2072,
+  "dated": 2072,
+  "date_matches_source": 2023,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.92,
+   1.0,
+   0.75
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 637
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1035
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 212,
+   "chars": 379802
+  },
+  "people": {
+   "files": 650,
+   "chars": 417028
+  },
+  "archive_inbox": {
+   "files": 499,
+   "chars": 4645847
+  },
+  "archive_mail": {
+   "files": 7888,
+   "chars": 19643269
+  },
+  "archive_other": {
+   "files": 1468,
+   "chars": 1207020
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 55,
+   "duration_ms": 691940,
+   "duration_api_ms": 571252,
+   "total_cost_usd": 3.9686930000000014,
+   "usage": {
+    "input_tokens": 98,
+    "cache_creation_input_tokens": 179635,
+    "cache_read_input_tokens": 6232578,
+    "output_tokens": 64222,
+    "output_tokens_details": {
+     "thinking_tokens": 22435
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 179635,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 706,
+      "cache_read_input_tokens": 197985,
+      "cache_creation_input_tokens": 589,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 589
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002654,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 98,
+     "outputTokens": 64222,
+     "cacheReadInputTokens": 6232578,
+     "cacheCreationInputTokens": 179635,
+     "webSearchRequests": 0,
+     "costUSD": 3.9684276000000014,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22435,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 179635,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 54,
+   "result_summary": "The consolidation for week 2001-W19 is committed as `6338e5d3`. Both gates passed before the commit: lint had no errors and sleep-audit had no warnings across the 76 files it checked. I did not push, because the replay instructions say the runner pushes after its own checks; that overrides the generic \"git push\" line at the end. There were no sleep tasks in the inbox. Of 138 messages, 95 had notes: 92 are now cited in memory and 3 are listed in `dataset/drops/sleep-079.tsv` (a thank-you for a spreadsheet, a forward to AOL with no content, and a bare e-mail address).\n\nThe week went into existing topic files and no new topic was opened: power VaR (David Port's dinner bet, the jump-calibration code going to IT, Kitchen wanting gas/power correlations in VaR), Arthur Andersen's request for the Raptor valuation method, Dabhol, Larry Thorne and the Limperis group, the calendar items re-entered after the Outlook migration, the mid-year PRC rules, the visa case for Krishna's in-laws, and the EPIS conference and Rice seminar the owner accepted. Anurag Saksena and Rumaldo Lopez reached five messages this week and now have entity files. The Parkhill/Yamin alias question passed its due date unanswered, so I closed it with no alias added and marked a note (?) in both people files; the Tracy Warner and Don Black questions stay open until 25 May. Nothing was applied that needs approval. The five oldest ongoing lines are all still valid. No file was above 90% of its size limit, so the compression quota had nothing to act on. Files that took new lines moved their oldest lines word for word into `memory/archive/*/2001/*-2001-05-13.md`, and memory overall shrank slightly (816,113 → 814,128 characters)."
+  },
+  "repair": null
+ }
+}
