@@ -3,19 +3,20 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Titles, Thursday staff meeting 11:30, 19th floor (owner EB1962); HR Rep Norma Villarreal, Staffing Rep Toni Graham; Chilkina coded Adm Coord and 'Roman Zadarozhny' kept till his rotation (Aug 2000), member lists to Sep 2000 (Takriti left 8 Sep) archived."
+summary: "Titles (Sep 2000), Weather Team roster, Thursday staff meeting 11:30, 19th floor (owner EB1962); HR Rep Norma Villarreal, Staffing Rep Toni Graham; member lists to Sep 2000 archived."
 status: active
-updated: 2000-09-15
+updated: 2000-09-22
 ---
 # The owner's Research Group
 
-Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]] ←[[research-group-2000-08-w31]] ←[[research-group-2000-08-w34]] ←[[research-group-2000-09-w37]]
+Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]] ←[[research-group-2000-08-w31]] ←[[research-group-2000-08-w34]] ←[[research-group-2000-09-w37]] ←[[research-group-2000-09-w38]]
 
-Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]] ←[[research-group-2000-08-w33]] ←[[research-group-2000-09-w35]]
+Equipment: memory/domains/organization/office-equipment.md. Admin history: ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]] ←[[research-group-2000-08-w33]] ←[[research-group-2000-09-w35]]
 
 ## Members and offices
+- [2000-09-19] Titles (Crenshaw): owner Managing Director and Head of Research; Gibner, Masson, Shanbhogue VPs; Lu Director; Issler Manager. Earlier: Krishnarao Director; Tamarchenko, Huang, Sezgen Managers; Crenshaw Adm. Coordinator (713-853-5290). ←[[m03254]] ←[[m01525]] ←[[m02641]]
+- [2000-09-20] Weather Team (Kevin Moore tracks its vacation): Mike Roberts, Jose Marquez, William Smith, Elena Chilkina, Moore, Charlie Weldon, Joe Hrgovcic. ←[[m03279]]
 
-- [2000-04-27] Titles: the owner Managing Director; Gibner, Masson, Shanbhogue Vice Presidents; Krishnarao, Lu Directors; Tamarchenko, Huang, Sezgen Managers; Crenshaw Administrative Coordinator (713-853-5290); repeated 21 Jun and 1 Aug. ←[[m01525]] ←[[m01533]] ←[[m02062]] ←[[m02641]]
 
 ## Admin
 

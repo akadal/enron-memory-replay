@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-09-15
+updated: 2000-09-22
 ---
 # Personal — index
 
@@ -9,7 +9,7 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Warsaw trip 20-26 Sep (Air France via Paris), overlapping London and Philadelphia (?) → memory/domains/personal/poland-trip-sep-2000.md
+- Warsaw trip 20-26 Sep under way (hotel Krolewska 11); London cancelled, Philadelphia unconfirmed (?) → memory/domains/personal/poland-trip-sep-2000.md
 - Shan Millie (FT) plans a magazine for private investors → memory/domains/personal/correspondence.md
 - Son Vince: senior year at Stanford; family back to California early Sep → memory/domains/personal/household.md
 - Recruiter Al Arfsten (BFL, Jim Woods) → memory/domains/personal/recruiter-approaches-2000.md

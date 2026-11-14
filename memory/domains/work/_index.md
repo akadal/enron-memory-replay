@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-09-15
+updated: 2000-09-22
 ---
 # Work — index
 
@@ -9,13 +9,13 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- CMU MSCF talk Fri 3 Nov confirmed (outline promised ~18 Sep); Berkeley 16-17 Oct, Oren's IEOR seminar Mon 23 Oct; workshop 29 Sep → memory/domains/work/campus-recruiting-fall-2000.md
-- London 18-21 Sep: Arthur Andersen UK Mon 18 (Allan Roberts), Day and Leake Tue 19 → memory/domains/work/value-research-lab.md
-- LNG Book meeting skipped; Groves' shipping model, answer due week of 11 Sep → memory/domains/work/lng-book-2000.md
-- Clean Fuels valuation-assumptions meeting Mon 18 Sep 9:30 (owner joins late) → memory/domains/work/desk-analysis-requests.md
-- NSF: the owner must call NSF himself to register Enron (FastLane, before 1 Oct) → memory/domains/work/nsf-grant-feng-2000.md
-- Dragon 2 revived; Rodriguez disputes Maureen's new Thailand curve → memory/domains/work/country-risk-curves.md
-- UT CEFER Spring 2001 conference (Skilling keynote invite), Ronn's course for Enron → memory/domains/work/ut-austin-ties-2000.md
+- Berkeley 16-17 Oct, Oren's IEOR seminar Mon 23 Oct (bullet points owed; Dasovich for California); CMU MSCF Fri 3 Nov, trip to book → memory/domains/work/campus-recruiting-fall-2000.md
+- CEFER Spring 2001 (22 Feb): owner and Causey recommend Skilling as keynote; Sera checks his calendar → memory/domains/work/ut-austin-ties-2000.md
+- John D. Martin's joint Enron paper due by Christmas; call Tuesday → memory/domains/work/university-relations.md
+- Racicot (EBS) funds the Enron/Stanford program, $100,000 → memory/domains/work/stanford-research-ties.md
+- Value Research Lab dropped (Causey, Kean); London AA meetings cancelled → memory/domains/work/value-research-lab.md
+- Factor loadings missing for most primary curves (London expiration dates) → memory/domains/work/var-backtesting-2000.md
+- Maureen's Technical Corner article needs edits; steel co-integration hedge (Andrea Reed) → memory/domains/work/research-presentations.md, memory/domains/work/desk-analysis-requests.md
 
 ## Files
 

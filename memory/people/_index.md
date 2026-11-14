@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-09-15
+updated: 2000-09-22
 ---
 # People — index
 
@@ -105,6 +105,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Fred Lagrasta
 - Gabriel Bitran
 - Gary Hickerson
+- Gary Taylor
 - George Hopley
 - George McClellan
 - Ginger Gamble (Ginger B Gamble)
@@ -172,6 +173,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kirstee Hewitt
 - Kristin Gandy
 - Kristy Carnes
+- Lane Hughston
 - Laura Luce
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Lenos Trigeorgis
@@ -222,6 +224,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paige Grumulaitis
 - Patrycja Dalecka (Patricia Dalecka)
 - Paul Quilkey
+- Paul Racicot
 - Paula Corey
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
@@ -247,6 +250,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rodney Malcolm
 - Roman Zadorozhny
 - Ronnie Chahal
+- Rosemary Fitzgerald
 - Ross Prevatt
 - Rudi Zipter
 - Sally Beck
