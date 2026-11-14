@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Organization — index
 
@@ -9,9 +9,9 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Staff: EGM's Avistar charge ($10,583/3 yrs) under check; Vernon's server saves $21,000; Kevin Moore off 1-10 Jun; weather team move; IACCGH table 16 Jun; Transmission Roundtable 27 Jun → memory/domains/organization/research-staff-early-jun-2001.md; Gibner's last day 5 Jun → memory/domains/organization/research-staff-late-may-2001.md
-- PRC: Research PRC Wed 6 Jun, EB50; owner late with reviews (Grabstald) → memory/domains/organization/mid-year-prc-2001.md
-- Referrals: Rice MBAs via Veruki (Yu, Syed, Qizhi Shen); Giammarino's UBC physicist; Charles Shen to Allegheny → memory/domains/organization/referrals-early-jun-2001.md; earlier → memory/domains/organization/referrals-late-may-2001.md
+- Staff: Kate Lucas leaves 6 Jun; Werner in Houston after 28 Jun; Chilkina's propane talk 7 Jun; CPLEX renewal; futures-account memo (15 Jun) → memory/domains/organization/research-staff-jun-04-2001.md; Avistar charge, IACCGH 16 Jun → memory/domains/organization/research-staff-early-jun-2001.md
+- PRC: Research review Wed 6 Jun, 50th floor; Grigorov, Narongwanich, Pernoud, Walton not rated; specialists as ST → memory/domains/organization/mid-year-prc-2001.md
+- Referrals: hiring paused for space (Qizhi Shen: next Feb; Shriram: Sep); McKinley interview; Mielke → memory/domains/organization/referrals-jun-04-2001.md; earlier → memory/domains/organization/referrals-early-jun-2001.md
 - Company: HPL sold to AEP (Papayoti goes); EnronOnline quotes on Reuters from 4 Jun → memory/domains/organization/corporate-announcements-2001.md
 - Admin: HR → memory/domains/organization/hr-matters-2001.md
 
@@ -71,7 +71,9 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
 - memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001 (visa, SFA, titles, CFA)
 - memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001
-- memory/domains/organization/research-staff-late-may-2001.md — staff and admin from 21 May 2001 (Gibner, Zadorozhny leave; IACCGH table)
-- memory/domains/organization/referrals-late-may-2001.md — candidates, referrals and interns from 21 May 2001
-- memory/domains/organization/research-staff-early-jun-2001.md — staff and admin from 28 May 2001 (Avistar charge, server, weather move, IACCGH table)
-- memory/domains/organization/referrals-early-jun-2001.md — candidates and referrals from 28 May 2001 (Rice MBAs, UBC, Charles Shen)
+- memory/domains/organization/research-staff-late-may-2001.md — staff and admin from 21 May 2001 (Gibner leaves)
+- memory/domains/organization/referrals-late-may-2001.md — candidates from 21 May 2001
+- memory/domains/organization/research-staff-early-jun-2001.md — staff and admin from 28 May 2001
+- memory/domains/organization/referrals-early-jun-2001.md — candidates from 28 May 2001
+- memory/domains/organization/research-staff-jun-04-2001.md — staff and admin from 4 Jun 2001
+- memory/domains/organization/referrals-jun-04-2001.md — candidates from 4 Jun 2001

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Industry — index
 
@@ -9,10 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Talks: Risk 2001 Australia declined, Frank Wolak proposed; Baylor Dallas class 27 Jul (paper with Martin, McCormack); Norsk Hydro visit 7 Jun asks for him; Wharton call 1 Jun with Tawney; Krapels on Neptune → memory/domains/industry/speaking-and-visits-early-jun-2001.md
-- Universities: Stanford EMF 21-22 Jun (agenda revised 1 Jun → memory/domains/industry/speaking-and-visits-early-jun-2001.md); WeBI → memory/domains/industry/university-ties-late-may-2001.md
+- Talks: Wharton 13-14 Jun; Risk 2001 Boston, Balson dinner Mon; SMS real options panel 21-24 Oct (register); Norsk Hydro 7 Jun; Neptune auction Sep → memory/domains/industry/speaking-and-visits-jun-04-2001.md; Baylor 27 Jul, Wolak for Australia → memory/domains/industry/speaking-and-visits-early-jun-2001.md
+- Universities: Stanford EMF 21-22 Jun with Krishna (agenda → memory/domains/industry/speaking-and-visits-early-jun-2001.md); WeBI → memory/domains/industry/university-ties-late-may-2001.md
 - Wharton: Risk Center 14 Jun → memory/domains/industry/wharton-risk-center-2001.md
-- California: Angelides's 'Plan Z', public power authority, +45% rates (1 Jun) → memory/domains/industry/california-power-jun-2001.md
+- California: 'Plan Z' (1 Jun); Edison grid MOU dead, $79M a day, Frontline 'Blackout' (5 Jun) → memory/domains/industry/california-power-jun-2001.md
 - Attending: gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
 
 ## Files
@@ -58,4 +58,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-invitations-late-may-2001.md — invitations and talks from 21 May 2001 (EPRM Europe, Risk Australia, Tamiment, Wharton)
 - memory/domains/industry/university-ties-late-may-2001.md — Wharton WeBI and the Stanford EMF retail conference, late May 2001
 - memory/domains/industry/speaking-and-visits-early-jun-2001.md — talks, calls and visits from 28 May 2001 (Baylor, Wharton call, Risk Australia declined, Norsk Hydro, Stanford EMF, Neptune)
-- memory/domains/industry/california-power-jun-2001.md — California briefings from 30 May 2001 (Plan Z)
+- memory/domains/industry/california-power-jun-2001.md — California briefings from 30 May 2001 (Plan Z, Edison MOU, Frontline)
+- memory/domains/industry/speaking-and-visits-jun-04-2001.md — talks and trips from 4 Jun 2001 (Wharton 14 Jun, Risk 2001 Boston, SMS Oct, Norsk Hydro, Neptune)
