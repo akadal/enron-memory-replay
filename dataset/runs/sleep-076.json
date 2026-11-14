@@ -1,0 +1,204 @@
+{
+ "slice": 76,
+ "simulated_today": "2001-04-29",
+ "feed": {
+  "slice": 76,
+  "iso_week": "2001-W17",
+  "first_seq": 7201,
+  "last_seq": 7336,
+  "messages": 136,
+  "durable": 102,
+  "first_date": "2001-04-25 05:49",
+  "last_date": "2001-04-29 16:32",
+  "today": "2001-04-29",
+  "inbox_files": [
+   "2001-04-25--mail-2.md",
+   "2001-04-26--mail.md",
+   "2001-04-27--mail.md",
+   "2001-04-28--mail.md",
+   "2001-04-29--mail.md"
+  ],
+  "inbox_chars": 81904,
+  "l2_chars": 521868
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 520,
+ "quota_before": {
+  "five_hour": 19.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 21.0,
+  "seven_day": 45.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 76,
+  "messages": 136,
+  "durable": 102,
+  "kept": 95,
+  "kept_rate_excluding_redundant": 0.96,
+  "drop_classes": {
+   "logistics": 2,
+   "other": 1,
+   "redundant": 3,
+   "social": 1
+  },
+  "dropped": 7,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3226,
+  "fact_lines_with_source": 2016,
+  "dated": 2016,
+  "date_matches_source": 1967,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.91,
+   0.89,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   0.64
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 685
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1413
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 211,
+   "chars": 381245
+  },
+  "people": {
+   "files": 589,
+   "chars": 386436
+  },
+  "archive_inbox": {
+   "files": 483,
+   "chars": 4347961
+  },
+  "archive_mail": {
+   "files": 7362,
+   "chars": 18391218
+  },
+  "archive_other": {
+   "files": 1390,
+   "chars": 1149255
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 518616,
+   "duration_api_ms": 439657,
+   "total_cost_usd": 3.0882675000000006,
+   "usage": {
+    "input_tokens": 84,
+    "cache_creation_input_tokens": 148788,
+    "cache_read_input_tokens": 4828687,
+    "output_tokens": 46582,
+    "output_tokens_details": {
+     "thinking_tokens": 19004
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 148788,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 706,
+      "cache_read_input_tokens": 167070,
+      "cache_creation_input_tokens": 657,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 657
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002501,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 84,
+     "outputTokens": 46582,
+     "cacheReadInputTokens": 4828687,
+     "cacheCreationInputTokens": 148788,
+     "webSearchRequests": 0,
+     "costUSD": 3.0880174000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19004,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 148788,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I've consolidated the week ending 2001-04-29 into one local commit (`a23ccc9`), not pushed as the replay instructions say; lint and sleep-audit both passed. Of the 136 messages, 102 had notes. 95 of those are now cited in the memory files. The other 7 are listed in `dataset/drops/sleep-076.tsv`: the MS 150 ride appeal, two copies of the UCLA real-options conference mailing, and four SSRN paper receipts.\n\n- **Facts filed:** the main additions are Dhar's data spec for the private-firm credit model, the credit business plan and Iris Mack's London wish list. Also filed: Barkley's set of 24,000+ WTI crude trades from EnronOnline, and the Dabhol board's 6-1 vote toward a termination notice. Walsh's 27 Apr California update and the Krugman column are in, along with the new split of Research costs across the EGM desks. On the people side: Paleologo's written offer, Sevil Yaman putting off her H1B, the SIAM slide requests and Glenn Darrah's interview for the risk project.\n- **New files:** one topic file, `candidate-interviews-apr-end-2001`, for the newer candidates. Four new people files (Greg Hunt, Jeff Kinneman, Aisha Jamal, John Bottomley), each of whom reached five messages this week. Martin Jermakyan's file now records his move to TXU.\n- **Compression:** to keep files that were already over size from growing, I moved 23 older lines word for word into `-w17b` archive files. Nothing was near its hard limit, so the rule to shrink three such files didn't apply. The indexes and `state.md` are updated, and the five logs are in `archive/inbox/`.\n- **Nothing needed approval or follow-up:** no new questions, no open questions past their due date, no sleep tasks or feedback in the inbox.\n- **Commit message:** I amended it once because it first said 17 lines were archived instead of 23.\n\n`dataset/runs/sleep-076.transcript.jsonl` was untracked before the run and I left it out of the commit."
+  },
+  "repair": null
+ }
+}
