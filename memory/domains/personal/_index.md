@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-08-19
+updated: 2001-08-24
 ---
 # Personal — index
 
@@ -10,13 +10,13 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Family moving back to Houston from California; owner flew to San Francisco Thu 19 Jul (CO 1566), driving back over three days → memory/domains/personal/california-trip-jul-2001.md; Warsaw trip 4-9 Jul → memory/domains/personal/poland-trip-jul-2001.md
-- AIG's Richard Dziurzynski back in touch; Pokalsky on Skilling; Sardinian dinner with Brian Mihura → memory/domains/personal/correspondence.md
+- Dinner with Gina Corteselli and Brian Mihura Tue 28 Aug, Arco d'oro; AIG's Dziurzynski; Tricia Tlapek → memory/domains/personal/correspondence.md
 - Son: Thorne's patent advice, Balson's IBM Almaden lead → memory/domains/personal/household.md
 - Bigalow: Devon fine long-term; P, OXY, DVN, PGN, LU, EMC → memory/domains/personal/investments-2000.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (Dziurzynski, Pokalsky, Mihura; Kohli, Fowler, Eydeland, Paula Corey archived)
+- memory/domains/personal/correspondence.md — private contacts (Dziurzynski, Pokalsky, Mihura, Corteselli, Tlapek; Kohli, Fowler, Eydeland, Paula Corey archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk

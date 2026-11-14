@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-08-19
+updated: 2001-08-24
 ---
 # People — index
 
@@ -223,10 +223,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gerald Sheble (Gerry Sheble)
 - Gil Whitaker (Gilbert R. Whitaker Jr.)
 - Gillian Boyer
+- Gina Corteselli
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Glen Dixon
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
+- Gordon McKillop
 - Gordon Sick
 - Grant Johnson
 - Grant Masson

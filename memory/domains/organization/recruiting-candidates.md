@@ -3,17 +3,17 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Leads for the owner's group: Frank Bogaert to Kitchen and Bowen, Schoenemann still waiting on HR (6 Aug 2001); Sen-Hao Lai deferred, internal candidates first (13 Aug 2001); HR to make Sriram's offer via Focus Capital (15 Aug 2001); Robert Walters' Patrick meets the owner 17 Aug; Y'barbo, Alaniz, Nolen and older leads archived."
+summary: "Leads for the owner's group: Henaff's resume to a friend at AIG (20 Aug 2001); Kiyoshi Niki impresses, resume to Whalley (21-23 Aug 2001); Brian Crone to interview (21 Aug 2001); Jill Schoenemann first in line for HR Analysts, Thea Jokhadze to Raymond (22 Aug 2001); Bogaert, Sen-Hao Lai, Sriram, Robert Walters' Patrick and older leads archived."
 status: active
-updated: 2001-08-19
+updated: 2001-08-24
 ---
 # Candidates for the owner's group
 
-Detail ←[[recruiting-candidates-2001-01-w02]] … (one archive file per week) ←[[recruiting-candidates-2001-07-21]] ←[[recruiting-candidates-2001-07-26]] ←[[recruiting-candidates-2001-08-03]] ←[[recruiting-candidates-2001-08-10]] ←[[recruiting-candidates-2001-08-19]]
+Detail ←[[recruiting-candidates-2001-01-w02]] … (one archive file per week) ←[[recruiting-candidates-2001-07-21]] ←[[recruiting-candidates-2001-07-26]] ←[[recruiting-candidates-2001-08-03]] ←[[recruiting-candidates-2001-08-10]] ←[[recruiting-candidates-2001-08-19]] ←[[recruiting-candidates-2001-08-24]]
 
 Hires: memory/domains/organization/staff-and-recruiting.md. Interview logs by period: memory/domains/organization/_index.md.
-- [2001-08-06] Frank Bogaert (Houston; Carnegie-Mellon MBA, ex-Booz-Allen; claims a gas price model that foresaw oil parity by ~2000): "There is no good fit with my group."; to Louise Kitchen and Raymond Bowen: "I got this resume today from a person I never met. It seems he may have some relevant skills." ←[[m08862]] ←[[m08863]]
-- [2001-08-06] Presly Schoenemann has heard nothing from Enron HR: "I shall check with my PR person about your resume and will give you a call." ←[[m08864]] ←[[m08868]]
-- [2001-08-13] Sen-Hao Lai (swaps and options trading, fixed income risk, model validation; conference-call interview 6 Aug with the owner, Issler, Huang, Bob Lee): "I think that we can resume our discussions in a few months."; internal job-seekers come first: "We are giving them a priority in the hiring decisions." ←[[m08915]]
-- [2001-08-15] Scott (Focus Capital Markets, New York) offers an Ernst & Young risk-management developer who knows energy; on Sriram: "I have talked to HR today and they will be contacting you regarding the offer." ←[[m08946]]
-- [2001-08-17] Marshall Brown (VP, Robert Walters) confirms candidate Patrick for Fri 17 Aug: "My assistant will call him to confirm." ←[[m08963]]
+- [2001-08-20] Patrick Henaff (patrick.henaff@pdq.net; talked to the owner Fri 17 Aug) sends his resume: "I have forwarded the resume to my friend at AIG."; owner copies it to AOL. ←[[m08991]] ←[[m08993]]
+- [2001-08-21] Hirl's candidate Kiyoshi Niki (Optimark Japan, underused; ex-Salomon, Toshiba; systems and derivatives): phone interview with the owner, Lu, Shanbhogue; 23 Aug: "we talked to Kiyoshi today  and were very impressed.", resume to Whalley. ←[[m09012]] ←[[m09013]] ←[[m09014]] ←[[m09063]]
+- [2001-08-21] Johnny Palmer: Brian Crone, strong at the Crude & Products recruiting event: "Please, set up an interview in cooperation with Shirley Crenshaw" ←[[m09021]]
+- [2001-08-22] Jill Schoenemann ("Jill is a daughter of my friend.") wants HR work; owner asks Molly Magee and Labbe; Adrianne Engler: HR hires only Associates now, Jill fits Analyst, first in line later this year. ←[[m09031]] ←[[m09033]] ←[[m09034]] ←[[m09041]]
+- [2001-08-22] Bessik Matchavariani's candidate Thea Jokhadze (saw Maureen Raymond, applied to the Associate program); owner to Raymond: "Any comments on this person?" ←[[m09038]]

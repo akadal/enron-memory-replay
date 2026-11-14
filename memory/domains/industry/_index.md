@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-08-19
+updated: 2001-08-24
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: SMS SFO 21-24 Oct, affiliation check by 27 Aug; INFOCAST 10 Oct; IQPC London 23-24 Oct; ICBI Gas & PoweRisk Paris 6-8 Nov (Kate Bauer helps); Spain deregulation conference 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md
-- California: CPUC stays direct access, ruling by 23 Aug; Keeley's Edison plan, $13.4bn bonds → memory/domains/industry/california-power-jan-2001.md
-- Wharton: WeBI $250,000/yr, EIM invited → memory/domains/industry/wharton-projects-feb-2001.md; UH: Varga and Kumar's energy program → memory/domains/industry/uh-econophysics.md; RISK referee report → memory/domains/industry/eprm-risk.md
-- Visits: Toshiba asks Enron Japan for a meeting, objectives first; Keppo → memory/domains/industry/visitors-2001.md; Rice options class from Feb 2002 → memory/domains/industry/rice-university.md
-- Events: Energy Exchanges Online II 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Garven: Baylor seminar fall 2001 → memory/people/jim-garven.md
+- Speaking: SMS SFO 21-24 Oct, affiliation check by 27 Aug; INFOCAST 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-8 Nov; Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md
+- Wharton: Steve Kean proposed for the Energy Club, weather project interviewing utilities → memory/domains/industry/wharton-risk-center-2001.md; WeBI → memory/domains/industry/wharton-projects-feb-2001.md; RISK referee report promised → memory/domains/industry/eprm-risk.md
+- Universities: UH Econophysics course open to Enron staff → memory/domains/industry/uh-econophysics.md; MacMinn asks about the Rice chair → memory/domains/industry/rice-university.md
+- Outside: EEI benchmarking asks again → memory/domains/industry/research-memberships-2000.md; Brooks (GPCM) in Houston 28-30 Aug → memory/domains/industry/gpcm-rbac.md; California direct access → memory/domains/industry/california-power-jan-2001.md
+- Events: Energy Exchanges Online II 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba via Tokyo → memory/domains/industry/visitors-2001.md
 
 ## Files
 
@@ -32,10 +32,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/informs-san-antonio-2000.md — INFORMS San Antonio, Nov 2000: owner's talk (Deng) cancelled
 - memory/domains/industry/market-outlooks-2000.md — outside market views, 2000
 - memory/domains/industry/real-options-debate-2000.md — real options debate (Apr 2000)
-- memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
+- memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, conference sponsorships; AGA; EEI benchmarking
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris Nov 2001, Spain Dec 2001
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris and HEG Houston Nov 2001, Spain Dec 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga visit Aug 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo
@@ -48,5 +48,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001
 - memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (UT Texas market seminar, PIRA, Ziff storage)
-- memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, Kunreuther, corn-subsidy project idea
+- memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, weather project, Energy Club speaker
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)

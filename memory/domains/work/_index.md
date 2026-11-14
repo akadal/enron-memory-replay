@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-08-19
+updated: 2001-08-24
 ---
 # Work — index
 
@@ -9,12 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Prediction Company: Santa Fe trip slipped after Skilling's resignation, now early in the week of 3 Sep, no firm date; agenda and NDA call with Nusbaum 17 Aug → memory/domains/work/prediction-company.md
-- New: Brazil hydro shortage, reservoir levels with Collonges, Mihura, Lin → memory/domains/work/brazil-hydro-2001.md; Mihura's HVDC tie-flow sensors, East Power primer 21 Aug, Neptune → memory/domains/work/transmission-modelling-2001.md
-- Credit: Duffie wants a cookbook for Reliability VaR; Chaney's Credit Manager → memory/domains/work/var-credit-system-2001.md; RAC rates Enron ~BB, KMV writeup → memory/domains/work/private-firm-credit-model-2001.md
-- Books: Wiley (Samantha Whittaker) wants an energy price risk book → memory/domains/work/owner-publications.md; spark spread article comments → memory/domains/work/lacima-book-2000.md
-- Universities: Georgia Tech QCF seminar in October → memory/domains/work/university-relations.md; UT class Mon 10 Sep, Titman's program → memory/domains/work/ut-austin-ties-2000.md
-- Also: HJM module for Halliburton → memory/domains/work/storage-model.md; Joret's MRHV question → memory/domains/work/outside-requests-2001.md; Oz crude basket → memory/domains/work/oz-crude-basket-2001.md; media pitch → memory/domains/work/media-group-pitch-2001.md
+- Prediction Company: Stanford (Wolak) Tue 4 Sep 4 pm, Santa Fe Wed 5 Sep by company plane from San Jose, both confirmed → memory/domains/work/prediction-company.md
+- Raptor: ENE's fall and AVICI undermine the hedges, owner expects a cash event from the put; 'Raptor's Health' with McKillop, Schultz → memory/domains/work/talon-raptor.md
+- JCC: live swaps for JA Aichi and Seiko Epson Tohoku via Kinoshita, findings to de la Roche 24 Aug → memory/domains/work/jcc-brent-hedge.md; owner against co-seating the weather groups → memory/domains/work/weather-research-2001.md
+- Models: SAM credits and next steps, FEA notes → memory/domains/work/storage-model.md; Credit Reserve Model Design, Duffie's review → memory/domains/work/var-credit-system-2001.md; Brazil hydro → memory/domains/work/brazil-hydro-2001.md
+- Universities: Georgia Tech 4 Oct → memory/domains/work/university-relations.md; UT class Mon 10 Sep → memory/domains/work/ut-austin-ties-2000.md; Lin's Technical Corner → memory/domains/work/research-presentations.md
 
 ## Files
 
