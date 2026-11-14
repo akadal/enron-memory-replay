@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-22
+updated: 2001-04-25
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: curves clustered by region (power, then gas), Winston Jia wants jump-size correlations; Hayden's Reg. VaR meeting Thu 26 Apr → memory/domains/work/var-credit-system-2001.md
-- Credit: RiskCalc test, D&B data, Houston/London videoconference 23 Apr → memory/domains/work/private-firm-credit-model-2001.md; Iris Mack drafts Duffie's comparative study → memory/domains/work/model-risk-audit.md
-- Weather: Bennett in London to the 27th and beyond, a second London meteorologist sought → memory/domains/work/weather-research-2001.md
-- Desks: P+ basket spread model ready → memory/domains/work/p-plus-spread-options-2001.md; petrochem curves, 6-8 weeks → memory/domains/work/petrochem-forward-curves-2001.md; Trading Algorithms: Bob → memory/domains/work/eol-trading-algorithms-2001.md
-- Outside: Thorne 4 May, McCormack owed an outline, Mulong Wang's data → memory/domains/work/outside-requests-2001.md; Jeff Gray's DSM ask → memory/domains/work/ees-structuring-models.md
+- Credit: private-firm RFPs out 25 Apr, model 15 Jul, Iris Mack in London from 30 Apr (one week+) → memory/domains/work/private-firm-credit-model-2001.md; Duffie study: edit into one review, delay fine → memory/domains/work/model-risk-audit.md
+- VaR: Hayden's Reg. VaR meeting Thu 26 Apr, Tamarchenko's clustering and jump agenda → memory/domains/work/var-credit-system-2001.md
+- EOL: Bob Lee's 'George' data request; Vernon hands the owner the EOL data and a Sun server → memory/domains/work/eol-trading-algorithms-2001.md; movie futures bid-ask → memory/domains/work/ebs-research-requests-2001.md
+- Desks: petrochem curves, Kate on it → memory/domains/work/petrochem-forward-curves-2001.md; Dabhol: Enron may exit India → memory/domains/work/dabhol-power-sale.md; London ag weather → memory/domains/work/weather-research-2001.md
+- Outside: Thorne NDA fine, 4 May; McCormack's outline owed → memory/domains/work/outside-requests-2001.md; CHARM call → memory/domains/work/enterprise-risk-management.md; Curran's Willow/Pathstar → memory/domains/work/vendor-offers-2001.md
 
 ## Files
 
