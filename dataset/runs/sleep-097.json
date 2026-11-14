@@ -1,0 +1,198 @@
+{
+ "slice": 97,
+ "simulated_today": "2001-09-09",
+ "feed": {
+  "slice": 97,
+  "iso_week": "2001-W36",
+  "first_seq": 9155,
+  "last_seq": 9178,
+  "messages": 24,
+  "durable": 22,
+  "first_date": "2001-09-04 08:13",
+  "last_date": "2001-09-09 12:55",
+  "today": "2001-09-09",
+  "inbox_files": [
+   "2001-09-04--mail.md",
+   "2001-09-06--mail.md",
+   "2001-09-07--mail.md",
+   "2001-09-09--mail.md"
+  ],
+  "inbox_chars": 17910,
+  "l2_chars": 69643
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 502,
+ "quota_before": {
+  "five_hour": 43.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 45.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 97,
+  "messages": 24,
+  "durable": 22,
+  "kept": 22,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3489,
+  "fact_lines_with_source": 2191,
+  "dated": 2191,
+  "date_matches_source": 2138,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 770
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1422
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 219,
+   "chars": 383424
+  },
+  "people": {
+   "files": 708,
+   "chars": 458323
+  },
+  "archive_inbox": {
+   "files": 603,
+   "chars": 5461856
+  },
+  "archive_mail": {
+   "files": 9204,
+   "chars": 23655311
+  },
+  "archive_other": {
+   "files": 1810,
+   "chars": 1448323
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 43,
+   "duration_ms": 500670,
+   "duration_api_ms": 355789,
+   "total_cost_usd": 2.3830382,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 106885,
+    "cache_read_input_tokens": 3648419,
+    "output_tokens": 39884,
+    "output_tokens_details": {
+     "thinking_tokens": 11243
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 106885,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 945,
+      "cache_read_input_tokens": 125527,
+      "cache_creation_input_tokens": 297,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 297
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 28,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002664,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 39884,
+     "cacheReadInputTokens": 3648419,
+     "cacheCreationInputTokens": 106885,
+     "webSearchRequests": 0,
+     "costUSD": 2.3827718,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 11243,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 106885,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 42,
+   "result_summary": "I finished the 2001-09-09 consolidation and made one commit, `cd4eda26`; I did not push, as the replay instructions say. Lint and `sleep-audit.py` were both green before the commit. All 22 of this week's messages with notes are cited somewhere in memory, so `dataset/drops/sleep-097.tsv` is empty and committed. The two messages without notes (m09158, m09176) need no drop line.\n\n**Where this week's mail went** (no new topics):\n- **Hiring:** the owner has suspended interviews until his 2002 budget is approved. Daniel Bray and Clinton Hurt are the new leads (`organization/recruiting-candidates`).\n- **Raptor:** Paulo Issler added a valuation of the combined Peregrine/Shortfall share restrictions to Ron Baker's discount model (`work/talon-raptor`).\n- **UT visit, Mon 10 Sep:** Ross Baldick at 10:30, lunch with Ehud Ronn's faculty, then the class (`work/ut-austin-ties-2000`).\n- **Nigel Goldenfeld at the University of Houston, 24–25 Sep:** the owner goes to the dinner and the colloquium; Mike Gorman hosts (`industry/uh-econophysics`).\n- **Weather:** Todd Kimberlain's NAO seminar on 26 Sep, the owner's \"move ASAP\" on MIT/IBM, and e-Acumen's pitch (`work/weather-research-2001`).\n- **Smaller items:**\n  - GARP asked the owner to run a workshop at its 2002 convention.\n  - The Wharton Tiger Team topic is due 14 Sep.\n  - Gas & PoweRisk offers a 25% discount to the owner's contacts.\n  - The owner got a Northern Light password.\n  - Stephen Stock was asked for database help on Tanya's project.\n  - The EES Consumption Risk and space-planning meetings.\n\n**Other changes:**\n- **New people files:** Ross Baldick, Stephanie Taylor and Angelika Staude, all added to the alias table. Baldick already had five messages before this week and should have had a file earlier.\n- **Trimming:** every topic I touched that was over its size target had its oldest lines moved word for word to `memory/archive/<domain>/2001/*-2001-09-09.md`. No file was above 90% of its ceiling, so the \"compress three files\" q"
+  },
+  "repair": null
+ }
+}
