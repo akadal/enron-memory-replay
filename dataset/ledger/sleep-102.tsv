@@ -1,0 +1,30 @@
+id	durable	status	detail
+m09231	yes	kept	domains/work/talon-raptor.md people/ryan-siurek.md
+m09232	no	not_durable	automated
+m09233	yes	kept	domains/industry/garp-2001.md
+m09234	yes	dropped	logistics: Refinery Model meeting reschedule while the owner is away
+m09235	yes	dropped	logistics: contact details (phone, email) for Keyur Patel, MIT Sloan
+m09236	yes	dropped	logistics: Rice Jones School all-faculty meeting announcement
+m09237	no	not_durable	bulk
+m09238	yes	dropped	logistics: weekly staff meeting announcement (Neale talk on water quality and swaps)
+m09239	yes	dropped	logistics: note-to-self phone number for Andrew Lawrence
+m09240	yes	kept	domains/work/enterprise-risk-management.md
+m09241	yes	kept	domains/work/country-risk-curves.md
+m09242	yes	kept	domains/work/owner-publications.md
+m09243	yes	kept	domains/organization/hr-matters-2001.md
+m09244	yes	kept	domains/organization/hr-matters-2001.md
+m09245	no	not_durable	bulk
+m09246	no	not_durable	bulk
+m09247	no	not_durable	pleasantry
+m09248	yes	kept	domains/work/desk-analysis-requests.md
+m09249	yes	kept	domains/industry/garp-2001.md
+m09250	yes	dropped	redundant: resend of the 25 Sep Armando Ugarte recommendation already in recruiting-candidates
+m09251	yes	kept	domains/industry/speaking-engagements-2000.md
+m09252	no	not_durable	bulk
+m09253	yes	kept	domains/organization/software-licenses.md
+m09254	no	not_durable	bulk
+m09255	yes	kept	domains/industry/speaking-engagements-2000.md
+m09256	yes	kept	domains/industry/speaking-engagements-2000.md domains/work/vendor-offers-2000.md
+m09257	yes	kept	domains/industry/rice-university.md
+m09258	yes	kept	domains/industry/speaking-engagements-2000.md
+m09259	yes	kept	domains/organization/staff-and-recruiting.md people/christian-werner.md
