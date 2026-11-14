@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-10-29
+updated: 2000-11-05
 ---
 # Organization — index
 
@@ -9,36 +9,37 @@ Scope: Enron's structure, teams, hiring, HR, policies and announcements; not the
 
 ## Hot
 
-- Anjam resigned 25 Oct → memory/domains/organization/anjam-resignation-oct-2000.md; London Research to report to Tani Nath, sizing meeting w/c 6 Nov → memory/domains/organization/london-research.md
-- Shen wants an offer now, start Feb; Jaesoo Lew needs a fast answer; Kenneth Mon 30 Oct → memory/domains/organization/candidate-interviews-oct-2000.md
-- Sheble, Yaron (Oren's son) → memory/domains/organization/candidate-referrals-2000.md; owner's Super Saturdays 10 Nov, 1, 8, 15 Dec → memory/domains/organization/recruiting-candidates.md
-- PEP forms by 17 Nov, rankings 29 Nov, Research PRC Mon 4 Dec → memory/domains/organization/year-end-prc-2000.md
+- Offers out: Jaesoo Lew (to Tamarchenko), Kenneth Parkhill (Gibner); Kin Tso, Jermakyan, Hickerson's Tech candidates 6 Nov → memory/domains/organization/candidate-interviews-nov-2000.md; Shen's offer owed → memory/domains/organization/candidate-interviews-oct-2000.md
+- Research PRC Fri 8 Dec; PEP forms by 17 Nov, rankings 29 Nov → memory/domains/organization/year-end-prc-2000.md
+- London: sizing meeting w/c 6 Nov, Sharad in Houston 5-17 Nov → memory/domains/organization/london-research.md; Super Saturdays 10 Nov, 1, 8, 15 Dec → memory/domains/organization/recruiting-candidates.md
 
 ## Files
 
-- memory/domains/organization/candidate-interviews-aug-2000.md — Aug 2000 (Li Sun, Rabi De's offer)
-- memory/domains/organization/candidate-interviews-jul-2000.md — Jun-Jul 2000 (Rabi De, James, Bennett, Xu)
-- memory/domains/organization/candidate-interviews-may-2000.md — May 2000 (Valdes, Kenyon, Credit.com, Perry)
 - memory/domains/organization/anjam-resignation-oct-2000.md — Anjam Ahmad resigns, 25 Oct 2000
-- memory/domains/organization/candidate-interviews-oct-2000.md — Oct 2000 (Shen, Jaesoo Lew, Jermakyan, Kenneth)
+- memory/domains/organization/candidate-interviews-may-2000.md — May 2000 (Valdes, Kenyon, Perry)
+- memory/domains/organization/candidate-interviews-jul-2000.md — Jun-Jul 2000 (Rabi De, James, Bennett, Xu)
+- memory/domains/organization/candidate-interviews-aug-2000.md — Aug 2000 (Li Sun, Rabi De's offer)
 - memory/domains/organization/candidate-interviews-sep-2000.md — Sep 2000 (Stone, Zhang, Neale, Yaralov)
-- memory/domains/organization/candidate-referrals-2000.md — referrals (Giancola 3 Nov, Sheble, Yaron; Oct 2000)
-- memory/domains/organization/corporate-announcements-2000.md — company-wide news: Baxter, EECC split, Sutton leaves (Oct 2000)
-- memory/domains/organization/ena-reorganization.md — ENA reorganizations, Dec 1999; Enron Global Markets from 31 Jul 2000, Oct additions
-- memory/domains/organization/leave-and-training.md — leave, courses (Tamarchenko out 16-23 Oct; Yaman to UCEI, Mar 2001)
-- memory/domains/organization/legal-matters.md — legal matters (Cuneo case dismissed, Jan 2000)
-- memory/domains/organization/london-research.md — London Research: Leppard head, reporting line, staffing
-- memory/domains/organization/mg-metals-integration.md — MG Metals integration: metals VAR, credit evaluation model
-- memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC: forms, Martin Lin's base, Maureen's review
-- memory/domains/organization/office-equipment.md — equipment, seats, subscriptions, colour printer and copier
-- memory/domains/organization/officer-performance-review.md — officer levels, PRC process; year-end 2000 PEP and PRC from 20 Nov
+- memory/domains/organization/candidate-interviews-oct-2000.md — Oct 2000 (Shen, Jaesoo Lew, Jermakyan, Kenneth)
+- memory/domains/organization/candidate-interviews-nov-2000.md — from 30 Oct (Lew, Parkhill offers; Kin Tso; Gonzalez)
+- memory/domains/organization/candidate-referrals-2000.md — referrals (Sheble; Yaron closed)
+- memory/domains/organization/corporate-announcements-2000.md — company-wide news (Baxter, EECC, Sutton, XMS)
+- memory/domains/organization/ena-reorganization.md — ENA reorganizations; Enron Global Markets (Jul 2000)
+- memory/domains/organization/group-events-2000.md — group lunches, Christmas baskets
+- memory/domains/organization/leave-and-training.md — leave, courses, Avistar class
+- memory/domains/organization/legal-matters.md — legal matters (Cuneo case, Jan 2000)
+- memory/domains/organization/london-research.md — London Research: Leppard, reporting line, staffing
+- memory/domains/organization/mg-metals-integration.md — MG Metals: metals VAR, credit model
+- memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC
+- memory/domains/organization/office-equipment.md — equipment, seats, subscriptions, printers
+- memory/domains/organization/officer-performance-review.md — officer levels, PRC process
 - memory/domains/organization/power-play-response.md — response to Mehta's 'Power Play' (Oct 2000)
-- memory/domains/organization/promotions-2000.md — 2000 promotions: owner to MD, Mike Roberts, London
-- memory/domains/organization/recruiting-candidates.md — pipeline, math majors at A&M, Super Saturdays Oct-Dec
-- memory/domains/organization/research-accounting-2000.md — Research in ENA, allocations, 2001 budget (Becky Pham)
-- memory/domains/organization/research-group.md — members, titles (Sep 2000), Masson's farewell, staff meeting; 19th floor
-- memory/domains/organization/research-offsite-2000.md — Research offsite, Breckenridge, 18-20 Aug 2000
-- memory/domains/organization/software-licenses.md — licences and access (Geman, PROSYM, PSS/E, CPLEX)
+- memory/domains/organization/promotions-2000.md — 2000 promotions (owner to MD)
+- memory/domains/organization/recruiting-candidates.md — pipeline, A&M math majors, Super Saturdays
+- memory/domains/organization/research-accounting-2000.md — budget, allocations (EGM, CALME), cost centre
+- memory/domains/organization/research-group.md — members, titles, staff meeting, 19th floor
+- memory/domains/organization/research-offsite-2000.md — offsite, Breckenridge, Aug 2000
+- memory/domains/organization/software-licenses.md — licences (Geman, PROSYM, PSS/E, CPLEX)
+- memory/domains/organization/staff-and-recruiting.md — moves and hires (Dupre, DuPont, Cunningham)
+- memory/domains/organization/summer-interns-2000.md — 2000 interns, Dincerler, Datren Williams
 - memory/domains/organization/year-end-prc-2000.md — year-end 2000 PEP and Research PRC
-- memory/domains/organization/staff-and-recruiting.md — moves and hires (Dupre, Anita DuPont, Cunningham, Kate Lucas)
-- memory/domains/organization/summer-interns-2000.md — 2000 interns, Dincerler's part-time ask, Datren Williams
