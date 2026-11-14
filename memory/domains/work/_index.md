@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-02
+updated: 2001-05-06
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: Iris Mack in London to 11 May, modelling-strategy meetings, a strategic plan for Duffie (KMV or RiskCalc short term) → memory/domains/work/private-firm-credit-model-2001.md; Duffie study → memory/domains/work/model-risk-audit.md
-- Desks: Hoog wants non-firm curves per region, Vasant per unit; Dhar's dual trigger greeks → memory/domains/work/outage-risk-option-2001.md; PSIM for the full-requirement deal, vol skew conditions → memory/domains/work/desk-analysis-requests.md; wool → memory/domains/work/ag-trading-report-2000.md
-- EOL: Hess bid prices up off-peak (Barkley) → memory/domains/work/eol-trading-algorithms-2001.md; HSX figures, speculators as customers → memory/domains/work/ebs-research-requests-2001.md; CrudeAPO docs dispute → memory/domains/work/monte-carlo-library.md
-- Dabhol: lenders' deck, phase II $700MM, PTN with a 6-month cure → memory/domains/work/dabhol-power-sale.md; power VaR meeting Thu 3 May → memory/domains/work/var-credit-system-2001.md; Roundtable 9 May → memory/domains/work/transmission-modelling-2001.md
-- Outside: Thorne 4 May, NDA stalled; Limperis call for Ken Rice → memory/domains/work/outside-requests-2001.md; MarketPoint on Nesbitt's next trip → memory/domains/work/marketpoint-gas-model-2001.md; Willow/Pathstar in Houston → memory/domains/work/vendor-offers-2001.md
+- Credit: Iris Mack in London to 11 May asks whom she reports to; Vasant puts data first; one Duffie report or two → memory/domains/work/private-firm-credit-model-2001.md; Duffie study → memory/domains/work/model-risk-audit.md
+- Desks: Dhar's dual trigger greeks, non-firm curves → memory/domains/work/outage-risk-option-2001.md; no-jump power VaR, West Power vols too high → memory/domains/work/var-credit-system-2001.md; wool → memory/domains/work/ag-trading-report-2000.md
+- EOL: Lu and Lee's high-frequency 'EOL George' analysis → memory/domains/work/eol-trading-algorithms-2001.md; CrudeAPO docs clash, Lu vs Issler → memory/domains/work/monte-carlo-library.md; HSX → memory/domains/work/ebs-research-requests-2001.md
+- Dabhol: Kohli offered for DPC modelling, Godbole committee 11 May → memory/domains/work/dabhol-power-sale.md; EES liability mitigation product → memory/domains/work/ees-termination-payments-2001.md
+- Outside: Limperis call with Vasant → memory/domains/work/outside-requests-2001.md; Credit Trading limit to sign → memory/domains/work/valuation-signoff-2001.md; Kaminski Column for 7 May → memory/domains/work/owner-publications.md
 
 ## Files
 
