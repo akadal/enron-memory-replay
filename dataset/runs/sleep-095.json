@@ -1,0 +1,202 @@
+{
+ "slice": 95,
+ "simulated_today": "2001-08-24",
+ "feed": {
+  "slice": 95,
+  "iso_week": "2001-W34",
+  "first_seq": 8989,
+  "last_seq": 9081,
+  "messages": 93,
+  "durable": 77,
+  "first_date": "2001-08-20 06:13",
+  "last_date": "2001-08-24 15:08",
+  "today": "2001-08-24",
+  "inbox_files": [
+   "2001-08-20--mail.md",
+   "2001-08-21--mail.md",
+   "2001-08-22--mail.md",
+   "2001-08-23--mail.md",
+   "2001-08-24--mail.md"
+  ],
+  "inbox_chars": 65258,
+  "l2_chars": 273073
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 747,
+ "quota_before": {
+  "five_hour": 37.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 41.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 95,
+  "messages": 93,
+  "durable": 77,
+  "kept": 74,
+  "kept_rate_excluding_redundant": 0.987,
+  "drop_classes": {
+   "redundant": 2,
+   "social": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3487,
+  "fact_lines_with_source": 2199,
+  "dated": 2199,
+  "date_matches_source": 2147,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.88,
+   1.0,
+   0.75,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 631
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1676
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 219,
+   "chars": 386337
+  },
+  "people": {
+   "files": 703,
+   "chars": 453950
+  },
+  "archive_inbox": {
+   "files": 591,
+   "chars": 5391107
+  },
+  "archive_mail": {
+   "files": 9107,
+   "chars": 23289966
+  },
+  "archive_other": {
+   "files": 1777,
+   "chars": 1422109
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 56,
+   "duration_ms": 745735,
+   "duration_api_ms": 647371,
+   "total_cost_usd": 4.5076041,
+   "usage": {
+    "input_tokens": 106,
+    "cache_creation_input_tokens": 190250,
+    "cache_read_input_tokens": 7338681,
+    "output_tokens": 75859,
+    "output_tokens_details": {
+     "thinking_tokens": 24211
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 190250,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 914,
+      "cache_read_input_tokens": 208564,
+      "cache_creation_input_tokens": 625,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 625
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 106,
+     "outputTokens": 75859,
+     "cacheReadInputTokens": 7338681,
+     "cacheCreationInputTokens": 190250,
+     "webSearchRequests": 0,
+     "costUSD": 4.507340200000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24211,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 190250,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 55,
+   "result_summary": "The 2001-08-24 consolidation is committed as `720d980a`, and both gates passed: `lint.py` (green, 190 budget warnings, none blocking) and `sleep-audit.py` (green, 72 files, no findings). I did not push. Your instructions said both \"do not push, the runner pushes\" and \"git push origin main\", so I took the stricter one and left the push to the runner.\n\n- **Messages:** 77 of the week's 93 had notes. 74 are cited in L1. The other 3 are listed in `dataset/drops/sleep-095.tsv`: two copies of emails already on file (m09003, m09023) and a funeral notice (m09036).\n- **Where facts went:** no new topic file was needed; everything went into existing ones. The main items:\n  - The Stanford meeting with Wolak (Tue 4 Sep) and the Prediction Company visit in Santa Fe (Wed 5 Sep) are both confirmed.\n  - The Raptor hedges are losing value. The owner expects a cash event when the put is exercised, and a meeting with McKillop is being set up.\n  - Live JCC swap deals for JA Aichi and Seiko Epson Tohoku.\n  - Notes on the SAM storage model, the Credit Reserve Model Design, and the owner's advice against seating the two weather groups together.\n  - Hiring candidates (Kiyoshi Niki, Brian Crone, Henaff, Jill Schoenemann), Lay's quarterly Executive Committee of managing directors (first meeting 2 Oct), United Way reaching 100%, and the Houston Energy Group talk on 14 Nov.\n- **People:** Gordon McKillop and Gina Corteselli each reached five messages this week, so they got entity files and alias-table entries.\n- **Size control:** every touched topic file that was over its target moved its oldest lines word for word to `memory/archive/<domain>/2001/*-2001-08-24.md`. No file was above 90% of its ceiling, so the compression quota had nothing to act on.\n- **Other steps:**\n  - Refreshed the four domain indexes and `state.md`.\n  - Checked the five oldest \"still true\" lines; all are still valid.\n  - Moved the processed logs to `memory/archive/inbox/`.\n  - Nothing to close in `questions.md` (two items fa"
+  },
+  "repair": null
+ }
+}
