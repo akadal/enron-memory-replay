@@ -1,0 +1,106 @@
+id	durable	status	detail
+m03653	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03654	no	not_durable	pleasantry
+m03655	yes	kept	domains/work/group-projects-oct-2000.md
+m03656	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03657	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03658	yes	kept	domains/work/seismic-data-satellite.md
+m03659	yes	kept	domains/work/seismic-data-satellite.md
+m03660	yes	kept	domains/work/research-presentations.md
+m03661	yes	kept	domains/work/stanford-research-ties.md
+m03662	yes	kept	domains/work/stanford-research-ties.md
+m03663	yes	kept	domains/work/ut-austin-ties-2000.md
+m03664	yes	kept	domains/organization/summer-interns-2000.md
+m03665	yes	kept	domains/work/research-presentations.md
+m03666	yes	kept	domains/work/group-projects-oct-2000.md
+m03667	yes	kept	domains/industry/declined-invitations-2000.md people/britta-bothe.md
+m03668	yes	kept	domains/organization/london-research.md
+m03669	yes	kept	domains/industry/declined-invitations-2000.md people/britta-bothe.md
+m03670	no	not_durable	quote_only
+m03671	yes	kept	domains/work/group-projects-oct-2000.md
+m03672	yes	kept	domains/work/ut-austin-ties-2000.md
+m03673	yes	kept	domains/industry/declined-invitations-2000.md people/britta-bothe.md
+m03674	yes	kept	domains/industry/events-attending-2000.md
+m03675	yes	kept	domains/work/research-presentations.md
+m03676	yes	kept	domains/work/research-presentations.md
+m03677	yes	kept	domains/work/enron-transformation-paper.md
+m03678	yes	kept	domains/work/lacima-book-2000.md
+m03679	yes	kept	domains/work/lng-book-2000.md
+m03680	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03681	no	not_durable	pleasantry
+m03682	yes	kept	domains/work/internal-meetings.md
+m03683	yes	kept	domains/industry/visitors-2000.md
+m03684	yes	kept	domains/organization/staff-and-recruiting.md
+m03685	no	not_durable	pleasantry
+m03686	no	not_durable	pleasantry
+m03687	no	not_durable	logistics
+m03688	yes	kept	domains/work/lacima-book-2000.md
+m03689	yes	kept	domains/organization/summer-interns-2000.md
+m03690	yes	kept	domains/work/group-projects-oct-2000.md
+m03691	no	not_durable	quote_only
+m03692	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03693	no	not_durable	bulk
+m03694	yes	kept	domains/work/research-presentations.md
+m03695	yes	kept	domains/work/lacima-book-2000.md
+m03696	yes	kept	domains/organization/software-licenses.md people/karolina-potter.md
+m03697	yes	kept	domains/organization/london-research.md
+m03698	yes	kept	domains/organization/candidate-referrals-2000.md
+m03699	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03700	no	not_durable	quote_only
+m03701	yes	kept	domains/work/enron-transformation-paper.md
+m03702	yes	kept	domains/work/research-presentations.md
+m03703	yes	kept	domains/organization/leave-and-training.md
+m03704	no	not_durable	quote_only
+m03705	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03706	no	not_durable	quote_only
+m03707	yes	kept	domains/industry/visitors-2000.md
+m03708	no	not_durable	quote_only
+m03709	yes	kept	domains/organization/summer-interns-2000.md
+m03710	yes	kept	domains/industry/esai-energycast-review.md
+m03711	no	not_durable	quote_only
+m03712	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md people/stephanie-summers.md
+m03713	no	not_durable	automated
+m03714	yes	kept	domains/work/ees-structuring-models.md people/george-posey.md people/marty-sunde.md
+m03715	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03716	yes	kept	domains/work/research-presentations.md
+m03717	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md people/stephanie-summers.md
+m03718	no	not_durable	logistics
+m03719	yes	kept	domains/work/research-presentations.md
+m03720	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03721	yes	kept	domains/industry/weather-insurance-markets.md
+m03722	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03723	no	not_durable	empty
+m03724	yes	kept	domains/work/internal-meetings.md
+m03725	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03726	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03727	no	not_durable	pleasantry
+m03728	yes	kept	domains/organization/corporate-announcements-2000.md
+m03729	no	not_durable	logistics
+m03730	yes	kept	domains/work/group-projects-oct-2000.md
+m03731	yes	kept	domains/work/enron-transformation-paper.md
+m03732	yes	kept	domains/work/group-projects-oct-2000.md
+m03733	yes	kept	domains/work/lacima-book-2000.md
+m03734	yes	kept	domains/industry/eprm-risk.md people/paul-bristow.md
+m03735	yes	kept	domains/work/seismic-data-satellite.md
+m03736	yes	kept	domains/work/lacima-book-2000.md
+m03737	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03738	no	not_durable	bulk
+m03739	yes	kept	domains/organization/corporate-announcements-2000.md
+m03740	yes	kept	domains/organization/london-research.md
+m03741	yes	kept	domains/organization/corporate-announcements-2000.md domains/organization/staff-and-recruiting.md people/lance-cunningham.md people/ray-bowen.md
+m03742	no	not_durable	bulk
+m03743	yes	kept	domains/work/group-projects-oct-2000.md
+m03744	yes	kept	domains/work/ees-structuring-models.md people/marty-sunde.md
+m03745	yes	kept	domains/organization/london-research.md
+m03746	no	not_durable	bulk
+m03747	yes	kept	domains/industry/events-attending-2000.md
+m03748	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/stephanie-summers.md
+m03749	yes	kept	domains/organization/software-licenses.md
+m03750	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03751	yes	kept	domains/organization/candidate-referrals-2000.md
+m03752	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03753	yes	kept	domains/organization/london-research.md
+m03754	yes	kept	domains/work/transport-model.md
+m03755	yes	kept	domains/organization/officer-performance-review.md
+m03756	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03757	yes	kept	domains/organization/london-research.md
