@@ -22,7 +22,8 @@
 # run refuses any other harness version), REVIEW_EVERY (30) and HOLD (a file path): after every
 # REVIEW_EVERY-th slice the runner creates HOLD and waits until it is removed, so that an
 # independent review of the run so far can happen before more slices are written,
-# TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-).
+# TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-),
+# RERUN (a slice number: run that slice again on its committed feed, see step 1).
 
 ROOT=$(cd "$(dirname "$0")/../.." && pwd) || exit 2
 cd "$ROOT" || exit 2
@@ -89,22 +90,35 @@ while [ "$k" -le "$LAST" ]; do
   done
 
   # 1. feed: L2 files, inbox notes, capture records; lint before any model sees them
-  waited=0
-  while ! $PY dataset/tools/feed.py --check --enriched "$ENRICHED" --captures "$CAPTURES" \
-          --slices dataset/slices.csv --slice "$k" >/dev/null 2>&1; do
-    [ "$waited" -ge "$CAPTURE_WAIT" ] && { echo "slice $k: capture records still missing after ${CAPTURE_WAIT}s"; exit 2; }
-    sleep 60; waited=$((waited + 60))
-  done
-  FEED=$($PY dataset/tools/feed.py --enriched "$ENRICHED" --captures "$CAPTURES" \
-         --slices dataset/slices.csv --slice "$k") || exit 2
-  TODAY=$(echo "$FEED" | json_get "d['today']")
-  FED_FILES=$(echo "$FEED" | json_get "' '.join(d['inbox_files'])")
-  if ! $PY memory/tools/lint.py >/dev/null 2>&1; then
-    echo "lint red right after feed $k: the input itself breaks the schema"; exit 2
+  if [ "$k" = "${RERUN:-}" ]; then
+    # Rerun of a slice whose feed is already committed: its first attempt ended without a commit
+    # (the model reverted its own pass) and is kept as $RUNS/sleep-<kkk>.attempt1.* (dataset/
+    # DESIGN.md, reruns). The week is not fed twice; the feed is read back from that record.
+    FEED=$($PY -c "import json,sys; print(json.dumps(json.load(open(sys.argv[1], encoding='utf-8'))['feed']))" \
+           "$RUNS/sleep-$kkk.attempt1.json") || exit 2
+    TODAY=$(echo "$FEED" | json_get "d['today']")
+    FED_FILES=$(echo "$FEED" | json_get "' '.join(d['inbox_files'])")
+    for f in $FED_FILES; do
+      grep -q "^(mail · " "memory/inbox/$f" 2>/dev/null || { echo "rerun $k: fed file $f is not in the inbox"; exit 2; }
+    done
+  else
+    waited=0
+    while ! $PY dataset/tools/feed.py --check --enriched "$ENRICHED" --captures "$CAPTURES" \
+            --slices dataset/slices.csv --slice "$k" >/dev/null 2>&1; do
+      [ "$waited" -ge "$CAPTURE_WAIT" ] && { echo "slice $k: capture records still missing after ${CAPTURE_WAIT}s"; exit 2; }
+      sleep 60; waited=$((waited + 60))
+    done
+    FEED=$($PY dataset/tools/feed.py --enriched "$ENRICHED" --captures "$CAPTURES" \
+           --slices dataset/slices.csv --slice "$k") || exit 2
+    TODAY=$(echo "$FEED" | json_get "d['today']")
+    FED_FILES=$(echo "$FEED" | json_get "' '.join(d['inbox_files'])")
+    if ! $PY memory/tools/lint.py >/dev/null 2>&1; then
+      echo "lint red right after feed $k: the input itself breaks the schema"; exit 2
+    fi
+    git add memory/inbox memory/archive/mail dataset/capture
+    git commit -q -m "feed $kkk: $(echo "$FEED" | json_get "f\"{d['iso_week']}, messages {d['first_seq']}-{d['last_seq']} ({d['messages']}, {d['durable']} durable)\"")"
+    git push -q origin "$BRANCH" || { echo "push failed after feed $k"; exit 2; }
   fi
-  git add memory/inbox memory/archive/mail dataset/capture
-  git commit -q -m "feed $kkk: $(echo "$FEED" | json_get "f\"{d['iso_week']}, messages {d['first_seq']}-{d['last_seq']} ({d['messages']}, {d['durable']} durable)\"")"
-  git push -q origin "$BRANCH" || { echo "push failed after feed $k"; exit 2; }
   FEED_SHA=$(git rev-parse HEAD)
   git tag -f pre-sleep >/dev/null
 

@@ -1,0 +1,214 @@
+{
+ "slice": 67,
+ "simulated_today": "2001-03-09",
+ "feed": {
+  "slice": 67,
+  "iso_week": "2001-W10",
+  "first_seq": 6057,
+  "last_seq": 6171,
+  "messages": 115,
+  "durable": 95,
+  "first_date": "2001-03-05 00:04",
+  "last_date": "2001-03-09 17:25",
+  "today": "2001-03-09",
+  "inbox_files": [
+   "2001-03-05--mail.md",
+   "2001-03-06--mail.md",
+   "2001-03-07--mail.md",
+   "2001-03-08--mail.md",
+   "2001-03-09--mail.md"
+  ],
+  "inbox_chars": 67112,
+  "l2_chars": 260999
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 812,
+ "quota_before": {
+  "five_hour": 18.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 20.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "none"
+ },
+ "commits_by_run": 0,
+ "dirty_files_after": 0,
+ "inbox_files_left": 5,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 67,
+  "messages": 115,
+  "durable": 95,
+  "kept": 0,
+  "kept_rate_excluding_redundant": 0.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 95,
+  "missing_ids": [
+   "m06057",
+   "m06058",
+   "m06059",
+   "m06060",
+   "m06061",
+   "m06062",
+   "m06063",
+   "m06064",
+   "m06065",
+   "m06066",
+   "m06068",
+   "m06069",
+   "m06070",
+   "m06074",
+   "m06075",
+   "m06076",
+   "m06077",
+   "m06079",
+   "m06082",
+   "m06084",
+   "m06085",
+   "m06087",
+   "m06088",
+   "m06089",
+   "m06090",
+   "m06091",
+   "m06092",
+   "m06093",
+   "m06094",
+   "m06095"
+  ],
+  "future_citations": [],
+  "cited_ids_total": 2720,
+  "fact_lines_with_source": 1805,
+  "dated": 1805,
+  "date_matches_source": 1761,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 669
+  },
+  "questions": {
+   "files": 1,
+   "chars": 655
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 189,
+   "chars": 332228
+  },
+  "people": {
+   "files": 509,
+   "chars": 339284
+  },
+  "archive_inbox": {
+   "files": 428,
+   "chars": 3596312
+  },
+  "archive_mail": {
+   "files": 6197,
+   "chars": 15096458
+  },
+  "archive_other": {
+   "files": 1179,
+   "chars": 998622
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 48,
+   "duration_ms": 809856,
+   "duration_api_ms": 614319,
+   "total_cost_usd": 4.078973400000001,
+   "usage": {
+    "input_tokens": 86,
+    "cache_creation_input_tokens": 181848,
+    "cache_read_input_tokens": 5889527,
+    "output_tokens": 72297,
+    "output_tokens_details": {
+     "thinking_tokens": 34927
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 181848,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 982,
+      "cache_read_input_tokens": 212137,
+      "cache_creation_input_tokens": 1502,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1502
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 86,
+     "outputTokens": 72297,
+     "cacheReadInputTokens": 5889527,
+     "cacheCreationInputTokens": 181848,
+     "webSearchRequests": 0,
+     "costUSD": 4.078973400000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 34927,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 181848,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 47,
+   "result_summary": "I stopped the run and committed nothing: the second audit came back red, so as the run rules require I ran `git reset --hard pre-sleep`. The repo is back at 658dc54 with all five inbox logs (2001-03-05 to 2001-03-09) still in `memory/inbox/`. Nothing was pushed, `.sleep-lock` was not touched, and the only untracked file is the runner's `dataset/runs/sleep-067.transcript.jsonl`.\n\n**Why it failed:** `memory/domains/work/dabhol-power-sale.md` was already over its 1,600-character target, and with the Mr. Sud / NTPC Dabhol tip added it grew by 152 characters. The ratchet check allows 150. The first audit had four findings. Three were files growing past that tolerance (I measured bytes, but the audit counts characters). The fourth was an L2 error: I had appended this run's own log to `2001-03-09--mail.md` while moving it to the archive. I fixed all four and the dabhol file was still 2 characters over on the one allowed re-run. Lint was green throughout.\n\n**What the reverted pass had done:**\n- All 95 noted messages were cited in L1 or listed in `dataset/drops/sleep-067.tsv` (4 drops).\n- About 25 topic files updated, with older lines moved to `2001-03-w10` archive files.\n- Five new topic files:\n  - Stanford MBA trip\n  - March candidate interviews\n  - Kindall's Treasury talk and the RAC data dispute\n  - the owner's Rice course MGMT 656\n  - California, March\n- Six new people files for those who reached five noted messages: Matt Harris, Sharon Purswell, Rebecca McDonald, Ian MacMillan, Andrew Karolyi, Althea Gordon.\n- Indexes, alias table and `state.md` refreshed.\n- The overdue Mark S Palmer question closed by status quo.\n- The five oldest ongoing lines checked and left open.\n- No sleep-task or feedback blocks in this week's inbox.\n\n**For the re-run:**\n- The run log has to go in a separate `memory/inbox/2001-03-09--mail-2.md`, as earlier runs did. Appending to `2001-03-09--mail.md` as the run brief asks trips the audit's L2 check.\n- The dabhol file needs about 10 more characte"
+  },
+  "repair": null
+ }
+}
