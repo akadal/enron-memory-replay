@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Industry — index
 
@@ -9,10 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: EPRM Europe (Amsterdam 6-7 Sep) and Risk 2001 Australia (Sydney 20-21 Aug) invite; Wharton risk talk with Koenig's slides; Tamiment dinner talk; INFORMS RM at Columbia → memory/domains/industry/speaking-invitations-late-may-2001.md; EPIS topic, Baylor 27 Jul → memory/domains/industry/speaking-invitations-mid-may-2001.md
-- Universities: Kitchen wants Wharton project results first, WeBI at the funded level; Stanford EMF 21-22 Jun, $2,500 check unpaid → memory/domains/industry/university-ties-late-may-2001.md
+- Talks: Risk 2001 Australia declined, Frank Wolak proposed; Baylor Dallas class 27 Jul (paper with Martin, McCormack); Norsk Hydro visit 7 Jun asks for him; Wharton call 1 Jun with Tawney; Krapels on Neptune → memory/domains/industry/speaking-and-visits-early-jun-2001.md
+- Universities: Stanford EMF 21-22 Jun (agenda revised 1 Jun → memory/domains/industry/speaking-and-visits-early-jun-2001.md); WeBI → memory/domains/industry/university-ties-late-may-2001.md
 - Wharton: Risk Center 14 Jun → memory/domains/industry/wharton-risk-center-2001.md
-- California: Angelides says SoCal will go bankrupt, $12B bonds short (22 May) → memory/domains/industry/california-power-may-2001.md
+- California: Angelides's 'Plan Z', public power authority, +45% rates (1 Jun) → memory/domains/industry/california-power-jun-2001.md
 - Attending: gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
 
 ## Files
@@ -57,3 +57,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-invitations-mid-may-2001.md — invitations and logistics from 14 May 2001 (EPIS, Bachelier, Baylor, Tamiment)
 - memory/domains/industry/speaking-invitations-late-may-2001.md — invitations and talks from 21 May 2001 (EPRM Europe, Risk Australia, Tamiment, Wharton)
 - memory/domains/industry/university-ties-late-may-2001.md — Wharton WeBI and the Stanford EMF retail conference, late May 2001
+- memory/domains/industry/speaking-and-visits-early-jun-2001.md — talks, calls and visits from 28 May 2001 (Baylor, Wharton call, Risk Australia declined, Norsk Hydro, Stanford EMF, Neptune)
+- memory/domains/industry/california-power-jun-2001.md — California briefings from 30 May 2001 (Plan Z)

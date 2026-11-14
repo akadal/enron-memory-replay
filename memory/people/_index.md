@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # People — index
 
@@ -153,6 +153,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dennis Feerick
 - Dennis Loughridge (Dennis W. Loughridge)
 - Dennis Ray
+- Diane Fellers
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
 - Dmitri Villevald
@@ -189,6 +190,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Farouk Lalji
 - Felix Feng Lu
 - Fiona Grant
+- Ford Cooper
 - Frank Diebold
 - Frank Hayden
 - Frank Qian (Feng Qian)
@@ -204,6 +206,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - George Hopley
 - George McClellan
 - George Posey
+- George Wasaff
 - Gerald Sheble (Gerry Sheble)
 - Gil Whitaker (Gilbert R. Whitaker Jr.)
 - Gillian Boyer
@@ -327,6 +330,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ken Rice
 - Kenneth Jett
 - Kenneth Parkhill
+- Kent Miller
 - Kevin Garland
 - Kevin Hannon
 - Kevin Kindall
@@ -475,12 +479,14 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Peter Tufano
 - Phanish Puranam
 - Phelim Boyle (P.P. Boyle)
+- Philip Annesley
 - Philip Merrill
 - Philippe Bibi (Philippe A Bibi)
 - Philippe Jorion
 - Phillip Allen (Phillip K Allen)
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
+- Piotr Karasinski
 - Pravas Sud
 - Praveen Mellacheruvu
 - Punit Rawal
@@ -573,6 +579,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shijie Deng (Shi-Jie Deng)
 - Shirley Crenshaw
 - Shmuel Oren
+- Simon Hastings
 - Siva Thiagarajan
 - Sofya Tamarchenko
 - Soma Ghosh
@@ -608,6 +615,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ted Bland
 - Ted Murphy
 - Teresa Bien
+- Theresa Convery
 - Thomas Knudsen
 - Tim Belden
 - Tim Bollerslev

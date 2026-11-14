@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Hayden waits for the owner's remarks on the Project X plan; EVT data sets; Albanese's convolution VaR tested; Exotica alignment 'routine maintenance', call Slava Tue → memory/domains/work/var-models-late-may-2001.md; 'Var Issues' memo (18 May) → memory/domains/work/var-model-review-may-2001.md
-- Credit: Albanis gone (21 May); Salmon's model testing, Duffie report; RiskCalc data; Kinneman, owner and Bryan to repair the public firm models → memory/domains/work/enron-credit-late-may-2001.md
-- Raptor: conditionality in the restricted ENE forwards (22 May), AA note 25 May → memory/domains/work/talon-raptor.md
-- Requests: Sparks Consulting (Memphis, pricing kept back), Rice students' EOL article with Kal Shah, Stern Stewart's Fastow pitch, LIBOR, aluminium → memory/domains/work/research-requests-late-may-2001.md
-- Vendors: Mitnick's EGE 29 May, D-G Energy licence, NumeriX credit toolkit → memory/domains/work/vendor-offers-late-may-2001.md; Dabhol → memory/domains/work/dabhol-renegotiation-may-2001.md
+- VaR: Project X inception document (1 Jun), Casey Evans's zero-vol curves, joint gas-power factors (week of 11 Jun); EWRM memo to Skilling (1 Jun); Sekse's outage-option hedge → memory/domains/work/var-models-early-jun-2001.md; earlier → memory/domains/work/var-models-late-may-2001.md
+- Credit: Salmon wants model-testing ideas; Fiala: Iris's report top priority; 'Enron Credit Strategic Plan' draft for Duffie (2 Jun); McDermott call Mon → memory/domains/work/enron-credit-early-jun-2001.md
+- Models: Zimin's EOL bid/ask as options; one Exotica version for London; strip spread options (Issler); dispatch v0.9; Emmer EVT replicated → memory/domains/work/research-models-early-jun-2001.md
+- Raptor: revised memo for AA, review with Bharati (29 May) → memory/domains/work/talon-raptor.md
+- Requests: UK Power weather briefing; Frolov's simulation course and Ford Cooper's 'Research Productization' (4 Jun); EES-EAM, Mandelker (5 Jun); Sparks Memphis 19 Jun → memory/domains/work/research-requests-early-jun-2001.md; Bigalow's logo → memory/domains/work/technical-analysis-service-2001.md
 
 ## Files
 
@@ -45,5 +45,6 @@ Path: memory/domains/work/<name>.md
 - research-models-may-2001 · owner-meetings-may-2001 · vendor-offers-may-2001
 - var-model-review-may-2001 · enron-credit-tensions-may-2001 · vendor-offers-mid-may-2001
 - var-models-late-may-2001 · enron-credit-late-may-2001 · research-requests-late-may-2001 · vendor-offers-late-may-2001
+- var-models-early-jun-2001 · research-models-early-jun-2001 · enron-credit-early-jun-2001 · research-requests-early-jun-2001
 
 Closed: 1

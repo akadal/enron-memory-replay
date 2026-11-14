@@ -1,0 +1,19 @@
+---
+id: speaking-and-visits-early-jun-2001
+type: topic
+domain: industry
+title: "Talks, calls and visits from 28 May 2001: Baylor, Wharton call, Risk Australia, Norsk Hydro"
+summary: "Owner signed on for Baylor's 27 Jul Dallas class (paper with Martin and McCormack); Wharton Risk Center call Fri 1 Jun with Mark Tawney; Risk 2001 Australia declined, Frank Wolak proposed (30 May-1 Jun 2001); Norsk Hydro executives ask for him 7 Jun; Stanford EMF agenda; Krapels on Neptune merchant transmission."
+status: active
+updated: 2001-06-03
+---
+# Talks, calls and visits from 28 May 2001
+
+Before: memory/domains/industry/speaking-invitations-late-may-2001.md, memory/domains/industry/university-ties-late-may-2001.md. Wharton Risk Center: memory/domains/industry/wharton-risk-center-2001.md.
+
+- [2001-05-28] John D. Martin (Baylor): the owner signed on for the 27 Jul Dallas class with John McCormack (Stern Stewart); Martin hopes the three start a paper; McCormack sends Reuters' "Biz School Grads Rediscover Energy". ←[[m08021]]
+- [2001-05-29] Kunreuther (after the owner's talk with Kleindorfer at the Poconos conference) wants next steps on the Enron-Wharton project: "Conference call on Tuesday at 4:30 EDT works for us." 31 May set for Fri 1 Jun 9:00 Central: "Mark Tawney, the Head of our Weather Desk will participate."; "The call will originate from my office, EB1962, 713 853 3848." (Kate and Theresa Convery arrange). ←[[m08029]] ←[[m08084]] ←[[m08085]] ←[[m08086]]
+- [2001-05-30] Risk 2001 Australia: "I have to decline the invitation with regrets."; "I have too many commitments right now." Philip Annesley asks for other California speakers: "Please, try Frank Wolak from Stanford University."; "He is the best expert on California right now."; 1 Jun he sends wolak@zia.stanford.edu and copies Wolak. ←[[m08043]] ←[[m08061]] ←[[m08075]] ←[[m08127]] ←[[m08139]] ←[[m08140]]
+- [2001-05-30] Experience Enron (with Enron Oslo): Norsk Hydro's Energy Division executives (President Reidar Saether) visit 7 Jun and asked for the owner, a 9-10 or 11-12 slot on risk management (Frevert at 10:00). ←[[m08045]]
+- [2001-06-01] Hill Huntington's revised Stanford EMF agenda, 21-22 Jun: Commissioner Michal Moore opens; Severin Borenstein, Shmuel Oren and Rajnish Kamat added. ←[[m08194]]
+- [2001-06-01] Edward Krapels (ESAI, ekrapels@esaibos.com), a year on the Neptune merchant transmission project (filed with FERC last week), talks with Paul Joskow; asks for good analysis of merchant transmission and the owner's view. ←[[m08136]]
