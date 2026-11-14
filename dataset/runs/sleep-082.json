@@ -1,0 +1,203 @@
+{
+ "slice": 82,
+ "simulated_today": "2001-06-03",
+ "feed": {
+  "slice": 82,
+  "iso_week": "2001-W22",
+  "first_seq": 8021,
+  "last_seq": 8211,
+  "messages": 191,
+  "durable": 105,
+  "first_date": "2001-05-28 14:27",
+  "last_date": "2001-06-03 23:14",
+  "today": "2001-06-03",
+  "inbox_files": [
+   "2001-05-28--mail.md",
+   "2001-05-29--mail.md",
+   "2001-05-30--mail.md",
+   "2001-05-31--mail.md",
+   "2001-06-01--mail.md",
+   "2001-06-02--mail.md",
+   "2001-06-03--mail.md"
+  ],
+  "inbox_chars": 85151,
+  "l2_chars": 525048
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 726,
+ "quota_before": {
+  "five_hour": 0.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 4.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 82,
+  "messages": 191,
+  "durable": 105,
+  "kept": 102,
+  "kept_rate_excluding_redundant": 0.971,
+  "drop_classes": {
+   "logistics": 3
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3379,
+  "fact_lines_with_source": 2116,
+  "dated": 2116,
+  "date_matches_source": 2066,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.93,
+   0.93,
+   1.0,
+   1.0,
+   0.91,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 640
+  },
+  "questions": {
+   "files": 1,
+   "chars": 525
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 213,
+   "chars": 379998
+  },
+  "people": {
+   "files": 666,
+   "chars": 427193
+  },
+  "archive_inbox": {
+   "files": 520,
+   "chars": 4834010
+  },
+  "archive_mail": {
+   "files": 8237,
+   "chars": 20580985
+  },
+  "archive_other": {
+   "files": 1544,
+   "chars": 1259944
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 724875,
+   "duration_api_ms": 552904,
+   "total_cost_usd": 3.763635999999999,
+   "usage": {
+    "input_tokens": 92,
+    "cache_creation_input_tokens": 169089,
+    "cache_read_input_tokens": 5805448,
+    "output_tokens": 62460,
+    "output_tokens_details": {
+     "thinking_tokens": 27070
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 169089,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 735,
+      "cache_read_input_tokens": 187247,
+      "cache_creation_input_tokens": 781,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 781
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 28,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002664,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 92,
+     "outputTokens": 62460,
+     "cacheReadInputTokens": 5805448,
+     "cacheCreationInputTokens": 169089,
+     "webSearchRequests": 0,
+     "costUSD": 3.7633695999999994,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 27070,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 169089,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "The 2001-06-03 consolidation for week 2001-W22 is committed as `ec43dfc7`. Lint and `sleep-audit` both passed on the first run, so no reset was needed. As the replay instructions say, I did not push; the runner does that after its own checks.\n\nOf the 191 messages, 105 had notes. 102 of those are cited in topic or people files. The other three are listed in `dataset/drops/sleep-082.tsv` as logistics: m08037 (a vacation notice), m08044 (a question about where the owner got some handouts) and m08100 (a database login). A coverage check found no noted message left uncited or unlisted.\n\nMost of the week went into existing topics. Project X got its own new topic file, `work/project-x-var-2001`, because the VaR file had no room. Ten people reached five noted messages and now have entity files: Diane Fellers, Philip Annesley, Ford Cooper, Piotr Karasinski, Simon Hastings, Theresa Convery, George Wasaff, Kent Miller, Araceli Romero (alias \"AC Romero\", taken from m05861) and Anguel Grigorov.\n\nTo stay within budget, the files I added to moved their oldest lines word for word into `archive/<domain>/2001/*-2001-06-03.md`. In five files I also shortened the line of archive links to the first and last few. No topic was above 90% of its ceiling, so the three-file compression quota had nothing to act on.\n\nI opened one approval question rather than applying it: whether to add \"Edward Krapels\" as an alias of the existing `ed-krapels` file (due 2001-06-17). The five oldest ongoing lines are still valid and stay open. There was no sleep-task or feedback block. The indexes, `state.md` and the `2001-06-03--run.md` log are updated, the processed inbox logs are in `archive/inbox/`, and `dataset/runs/sleep-082.transcript.jsonl` is left untracked for the runner."
+  },
+  "repair": null
+ }
+}
