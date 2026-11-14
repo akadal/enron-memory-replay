@@ -1,0 +1,110 @@
+id	durable	status	detail
+m05077	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m05078	yes	kept	domains/work/enron-transformation-paper.md
+m05079	yes	kept	domains/personal/household.md
+m05080	yes	kept	domains/work/lacima-book-2000.md
+m05081	no	not_durable	logistics
+m05082	yes	kept	domains/organization/research-group-2001.md
+m05083	yes	kept	domains/personal/investments-2000.md
+m05084	yes	kept	domains/organization/office-equipment.md
+m05085	yes	kept	domains/organization/office-equipment.md
+m05086	no	not_durable	bulk
+m05087	yes	kept	domains/industry/aiesec-houston.md
+m05088	no	not_durable	quote_only
+m05089	no	not_durable	pleasantry
+m05090	yes	kept	domains/work/seasonal-curve-fitting.md
+m05091	yes	kept	domains/work/india-power-study-henwood.md people/robert-schenck.md people/wade-cline.md
+m05092	yes	kept	domains/organization/research-accounting-2000.md
+m05093	yes	kept	domains/organization/research-group-2001.md
+m05094	yes	kept	domains/organization/research-group-2001.md
+m05095	yes	kept	domains/work/ken-lay-speech-tax-cut.md people/alhamd-alkhayat.md
+m05096	yes	kept	domains/work/ken-lay-speech-tax-cut.md
+m05097	yes	kept	domains/work/ken-lay-speech-tax-cut.md people/alhamd-alkhayat.md
+m05098	yes	kept	domains/work/ken-lay-speech-tax-cut.md people/alhamd-alkhayat.md
+m05099	yes	kept	domains/organization/research-group-2001.md
+m05100	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m05101	yes	kept	domains/industry/petronas-visit-feb-2001.md
+m05102	yes	kept	domains/work/desk-analysis-requests.md people/joana-ryan-bekerman.md
+m05103	no	not_durable	logistics
+m05104	yes	kept	domains/work/wti-eol-simulation-2000.md
+m05105	yes	kept	domains/industry/petronas-visit-feb-2001.md
+m05106	yes	kept	domains/work/enterprise-risk-management.md
+m05107	yes	kept	domains/industry/petronas-visit-feb-2001.md
+m05108	yes	kept	domains/organization/research-group-2001.md
+m05109	yes	kept	domains/industry/petronas-visit-feb-2001.md
+m05110	yes	kept	domains/organization/research-group-2001.md
+m05111	yes	kept	domains/work/india-power-study-henwood.md people/robert-schenck.md
+m05112	yes	kept	domains/work/stanford-research-ties.md
+m05113	yes	kept	domains/organization/research-group-2001.md
+m05114	yes	kept	domains/organization/research-group-2001.md
+m05115	yes	kept	domains/personal/investments-2000.md
+m05116	yes	kept	domains/work/wti-eol-simulation-2000.md
+m05117	yes	kept	domains/work/talon-raptor.md
+m05118	yes	kept	domains/work/enroncredit-support-2000.md
+m05119	yes	kept	domains/work/talon-raptor.md people/jordan-mintz.md
+m05120	yes	kept	domains/work/desk-analysis-requests.md
+m05121	yes	dropped	logistics: Sandeep Kohli phone numbers passed to Crenshaw
+m05122	yes	kept	domains/organization/office-equipment.md
+m05123	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m05124	yes	kept	domains/work/research-presentations.md
+m05125	yes	kept	domains/personal/investments-2000.md
+m05126	yes	kept	domains/work/risktrac-europe-var.md
+m05127	yes	kept	domains/work/risktrac-europe-var.md
+m05128	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m05129	yes	kept	domains/work/erms-option-precision.md people/zhiyong-wei.md
+m05130	yes	kept	domains/work/seasonal-curve-fitting.md
+m05131	no	not_durable	logistics
+m05132	no	not_durable	logistics
+m05133	yes	kept	domains/industry/declined-invitations-2000.md
+m05134	yes	kept	domains/work/ut-austin-ties-2000.md
+m05135	yes	kept	domains/industry/events-attending-2000.md
+m05136	yes	kept	domains/industry/garp-2001.md
+m05137	no	not_durable	logistics
+m05138	yes	kept	domains/work/risktrac-europe-var.md
+m05139	yes	kept	domains/work/naphtha-caps-india.md people/wade-cline.md
+m05140	no	not_durable	bulk
+m05141	no	not_durable	logistics
+m05142	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05143	yes	kept	domains/work/india-power-study-henwood.md people/wade-cline.md
+m05144	yes	kept	domains/organization/leave-and-training.md
+m05145	no	not_durable	bulk
+m05146	yes	kept	domains/industry/events-attending-2000.md
+m05147	yes	kept	domains/industry/visitors-2001.md
+m05148	yes	kept	domains/work/internal-meetings.md
+m05149	yes	kept	domains/industry/visitors-2001.md
+m05150	yes	kept	domains/work/dabhol-energy-cost-jan-2001.md
+m05151	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m05152	no	not_durable	logistics
+m05153	yes	kept	domains/organization/research-group-2001.md domains/work/bandwidth-combinatorial-auction.md
+m05154	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m05155	yes	kept	domains/organization/research-group-2001.md
+m05156	yes	kept	domains/work/broadband-services.md
+m05157	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m05158	yes	kept	domains/work/enroncredit-support-2000.md
+m05159	yes	kept	domains/work/india-power-study-henwood.md
+m05160	yes	kept	domains/work/dabhol-energy-cost-jan-2001.md
+m05161	yes	kept	domains/work/bandwidth-combinatorial-auction.md
+m05162	yes	kept	domains/work/erms-option-precision.md
+m05163	yes	kept	domains/work/genco-plant-model-2001.md
+m05164	yes	kept	domains/organization/research-group-2001.md
+m05165	yes	kept	domains/work/broadband-services.md people/kevin-garland.md
+m05166	yes	kept	domains/work/dabhol-energy-cost-jan-2001.md
+m05167	yes	kept	domains/work/broadband-services.md people/kevin-garland.md
+m05168	no	not_durable	logistics
+m05169	yes	kept	domains/industry/events-attending-2000.md
+m05170	no	not_durable	quote_only
+m05171	yes	kept	domains/work/dabhol-energy-cost-jan-2001.md
+m05172	yes	kept	domains/work/genco-plant-model-2001.md
+m05173	yes	kept	domains/industry/declined-invitations-2000.md
+m05174	no	not_durable	logistics
+m05175	no	not_durable	logistics
+m05176	yes	kept	domains/organization/software-licenses.md
+m05177	yes	kept	domains/work/genco-plant-model-2001.md
+m05178	yes	kept	domains/work/india-power-study-henwood.md people/robert-schenck.md
+m05179	no	not_durable	bulk
+m05180	no	not_durable	bulk
+m05181	no	not_durable	logistics
+m05182	no	not_durable	logistics
+m05183	no	not_durable	bulk
+m05184	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m05185	yes	kept	domains/work/broadband-services.md people/kevin-garland.md
