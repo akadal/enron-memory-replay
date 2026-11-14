@@ -1,0 +1,186 @@
+{
+ "slice": 68,
+ "simulated_today": "2001-03-18",
+ "feed": {
+  "slice": 68,
+  "iso_week": "2001-W11",
+  "first_seq": 6172,
+  "last_seq": 6272,
+  "messages": 101,
+  "durable": 76,
+  "first_date": "2001-03-12 00:13",
+  "last_date": "2001-03-18 23:52",
+  "today": "2001-03-18",
+  "inbox_files": [
+   "2001-03-12--mail.md",
+   "2001-03-13--mail.md",
+   "2001-03-14--mail.md",
+   "2001-03-15--mail.md",
+   "2001-03-16--mail.md",
+   "2001-03-18--mail.md"
+  ],
+  "inbox_chars": 57380,
+  "l2_chars": 259003
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 594,
+ "quota_before": {
+  "five_hour": 22.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 24.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 68,
+  "messages": 101,
+  "durable": 76,
+  "kept": 74,
+  "kept_rate_excluding_redundant": 0.974,
+  "drop_classes": {
+   "logistics": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2789,
+  "fact_lines_with_source": 1846,
+  "dated": 1846,
+  "date_matches_source": 1802,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.89,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 641
+  },
+  "questions": {
+   "files": 1,
+   "chars": 673
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 192,
+   "chars": 340416
+  },
+  "people": {
+   "files": 519,
+   "chars": 345870
+  },
+  "archive_inbox": {
+   "files": 440,
+   "chars": 3721244
+  },
+  "archive_mail": {
+   "files": 6298,
+   "chars": 15355461
+  },
+  "archive_other": {
+   "files": 1219,
+   "chars": 1030486
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 53,
+   "duration_ms": 592371,
+   "duration_api_ms": 534986,
+   "total_cost_usd": 3.815053200000001,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 169626,
+    "cache_read_input_tokens": 6667026,
+    "output_tokens": 56212,
+    "output_tokens_details": {
+     "thinking_tokens": 23755
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 169626,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 687,
+      "cache_read_input_tokens": 200252,
+      "cache_creation_input_tokens": 1165,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1165
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 56212,
+     "cacheReadInputTokens": 6667026,
+     "cacheCreationInputTokens": 169626,
+     "webSearchRequests": 0,
+     "costUSD": 3.815053200000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23755,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 169626,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 52,
+   "result_summary": "The 2001-03-18 consolidation (week 2001-W11) is committed as `792f4f7`, and both gates (`lint.py` and `sleep-audit.py`) passed before the commit. The week had 101 messages, 76 of them with notes; 74 are cited in L1 and the other 2 are listed in `dataset/drops/sleep-068.tsv` (m06237, a system login Kindall sent; m06262, an automated IT access request). The new facts went into 23 existing topic files. The main ones are:\n- **Dabhol:** Mr. Sud met Rebecca McDonald, and the owner backs moving Anshuman to Houston for the DPC fuel/LNG strategy.\n- **Group:** Kindall resigned, and three people transferred from EES to Krishna.\n- **Candidates:** Ren Zhang, Bill Koures and Mark Boland.\n- **Owner's talks:** he accepted the Rutgers talk; the EPRM course in Houston moved to 16-17 Jul.\n- **Also:** Walsh's California updates, the Wharton and Rice events, and the London itinerary for 21 Mar.\n\nMost target files were already over their size target. To keep each one within the audit's growth limit, older lines from 20 of them moved word for word into `memory/archive/*/2001/*-2001-03-w11.md`, with a link left in place. The first audit run flagged four files that had grown too much, and I trimmed them until it passed. No file sits above 90% of its size limit. Marshall Brown, Tony Vasut and Anne Stamer each reached their fifth noted message this week, so they now have entity files and are in the alias table. I checked the five oldest ongoing lines against this week's mail and they are still valid. No question was due, and the inbox held no sleep-task or feedback blocks. I refreshed `state.md` and the domain indexes, and moved the processed logs to `memory/archive/inbox/`. As the run preamble says, I did not push; the runner's own `dataset/runs/sleep-068.transcript.jsonl` is left untracked."
+  },
+  "repair": null
+ }
+}
