@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-25
+updated: 2001-04-29
 ---
 # People — index
 
@@ -11,6 +11,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Abhay Mehta
 - Adam Brulinski
 - Ainsley Gaddis
+- Aisha Jamal
 - Al Arfsten
 - Alan Aronowitz
 - Albert Wang
@@ -195,6 +196,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
 - Gordon Sick
 - Grant Masson
+- Greg Hunt
 - Greg Whalley
 - Greg Woulfe
 - Gwyn Koepke
@@ -228,6 +230,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jean Eisel
 - Jean Mrha
 - Jeff Gray
+- Jeff Kinneman
 - Jeff McMahon
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
@@ -255,6 +258,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Johan Dahl
 - John Arnold
 - John Bloomer
+- John Bottomley
 - John D. Martin
 - John Echols
 - John Goodpasture

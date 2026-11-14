@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-25
+updated: 2001-04-29
 ---
 # Industry — index
 
@@ -9,16 +9,16 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: projects due 30 Apr, grades to Pam Castro by e-mail by 4 May, NFCF dinner 4 May → memory/domains/industry/rice-university.md; Zingales Fri 27 Apr, 2001-02 speakers asked → memory/domains/industry/rice-finance-seminar-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
-- Owner's roles: SIAM 27 Apr; KWI declined, Sherriff offered; Energy Power slot to Zimin → memory/domains/industry/speaking-engagements-2000.md; EPRM 14-15 May → memory/domains/industry/eprm-risk.md
-- Attending: UT Texas market seminar/short course 2 May (carpool); PIRA 14 and 16 May; Ziff storage 22 Jun → memory/domains/industry/events-attending-2001.md
-- Wharton: Business Plan final 30 Apr; Nezi Marvin's Tiger Team meeting Fri → memory/domains/industry/wharton-projects-feb-2001.md; Risk Center advisory 14 Jun, corn-subsidy project → memory/domains/industry/wharton-risk-center-2001.md
-- Visits: Kulatilaka 17 May; Harvard-NYU trip → memory/domains/industry/visitors-2001.md; UH Energy Institute tour 22 May → memory/domains/industry/uh-econophysics.md
+- Rice: projects due 30 Apr, grades to Pam Castro by 4 May, NFCF dinner 4 May, Koenig asked onto a panel → memory/domains/industry/rice-university.md; 2001-02 speakers → memory/domains/industry/rice-finance-seminar-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
+- Owner's roles: SIAM talk 27 Apr, slides asked; KWI: Sherriff's PR person to call → memory/domains/industry/speaking-engagements-2000.md; EPRM 14-15 May → memory/domains/industry/eprm-risk.md
+- Attending: UT Austin short course 2 May (carpool 9 am); PIRA 14 and 16 May; gas storage 22 Jun, registered → memory/domains/industry/events-attending-2001.md
+- Wharton: Business Plan final 30 Apr; host evaluation form → memory/domains/industry/wharton-projects-feb-2001.md; Risk Center advisory 14 Jun, corn-subsidy project, contact this week → memory/domains/industry/wharton-risk-center-2001.md
+- Visits: Kulatilaka 17 May → memory/domains/industry/visitors-2001.md; UH Energy Institute tour 22 May → memory/domains/industry/uh-econophysics.md; California: FERC caps' 1 Jun kill clause → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis 2000: caps, FERC, class action
-- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan-Mar 2001
+- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan-Apr 2001
 - memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya in the owner's place; trustees' report)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
