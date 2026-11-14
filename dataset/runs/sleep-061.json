@@ -1,0 +1,187 @@
+{
+ "slice": 61,
+ "simulated_today": "2001-01-27",
+ "feed": {
+  "slice": 61,
+  "iso_week": "2001-W04",
+  "first_seq": 5465,
+  "last_seq": 5612,
+  "messages": 148,
+  "durable": 129,
+  "first_date": "2001-01-22 00:17",
+  "last_date": "2001-01-27 10:11",
+  "today": "2001-01-27",
+  "inbox_files": [
+   "2001-01-22--mail.md",
+   "2001-01-23--mail.md",
+   "2001-01-24--mail.md",
+   "2001-01-25--mail.md",
+   "2001-01-26--mail.md",
+   "2001-01-27--mail.md"
+  ],
+  "inbox_chars": 93611,
+  "l2_chars": 348721
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 775,
+ "quota_before": {
+  "five_hour": 8.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 10.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 61,
+  "messages": 148,
+  "durable": 129,
+  "kept": 127,
+  "kept_rate_excluding_redundant": 0.984,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2555,
+  "fact_lines_with_source": 1713,
+  "dated": 1713,
+  "date_matches_source": 1671,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 676
+  },
+  "questions": {
+   "files": 1,
+   "chars": 835
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 177,
+   "chars": 312181
+  },
+  "people": {
+   "files": 476,
+   "chars": 316679
+  },
+  "archive_inbox": {
+   "files": 397,
+   "chars": 3332431
+  },
+  "archive_mail": {
+   "files": 5638,
+   "chars": 13828992
+  },
+  "archive_other": {
+   "files": 1083,
+   "chars": 935924
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 58,
+   "duration_ms": 773766,
+   "duration_api_ms": 684396,
+   "total_cost_usd": 4.702895999999999,
+   "usage": {
+    "input_tokens": 110,
+    "cache_creation_input_tokens": 204315,
+    "cache_read_input_tokens": 8085280,
+    "output_tokens": 72544,
+    "output_tokens_details": {
+     "thinking_tokens": 33815
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 204315,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 968,
+      "cache_read_input_tokens": 234926,
+      "cache_creation_input_tokens": 1180,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1180
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 110,
+     "outputTokens": 72544,
+     "cacheReadInputTokens": 8085280,
+     "cacheCreationInputTokens": 204315,
+     "webSearchRequests": 0,
+     "costUSD": 4.702895999999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 33815,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 204315,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 57,
+   "result_summary": "I ran the week-04 consolidation (simulated date 2001-01-27) and committed it as `6a58816`. Lint and `sleep-audit.py` both passed on the first run. As the replay preamble asks, I did not push; the runner does that after its own checks.\n\nAll 148 messages are handled: 129 have notes, 127 of those are cited in L1 and 2 are listed in `dataset/drops/sleep-061.tsv` (m05524, a resume passed to Craig Fox with no candidate named; m05595, a forward with no body text).\n\n- **New topics:** `valuation-signoff-2001` (the owner wants formal Research sign-off rules, to be set with Rick Buy and David Port) and `lifetrak-venture-2001` (Al Arfsten's blood-bank marketplace idea: the owner introduced him to Mark Lay, then declined to take part because of workload).\n- **Updated topics:**\n  - Anshuman's L1 visa: Neil McGregor allows only one month; the owner is arranging the visa anyway; the visa specialist (Margaret Daffin) expects March.\n  - Interviews and interns: Valverde 1 Feb, Hamilton, Rawal, Kim Whitsel's offer, Candice Kao.\n  - Industry and outside contacts: Wharton and Rice, the California briefings, EPRM, GARP, Petronas, the Henwood signer, the Winston code review, Martin's paper drafts and Titman's consulting deal.\n  - Smaller items, including personal ones.\n- **People:** 16 people reached five messages, so each now has an entity file and an entry in the alias table. They include Neil McGregor, Valery Kholodnyi, Johan Dahl, James Valverde, Leon Lasdon, Mark Kierlanczyk and Kristin Walsh.\n- **Compression:** no file was above 90% of its ceiling, so the three-file quota didn't apply. I moved older lines from 33 touched files into `archive/*/2001/*-2001-01-w04.md`, and kept every file that was already over target within +150 characters. `candidate-interviews-feb-2001` dropped from 2395 to 2098.\n- **Housekeeping:**\n  - The indexes and `state.md` are refreshed, and the six inbox logs are moved to `archive/inbox/`.\n  - There were no sleep-task blocks, and no questions were added or clo"
+  },
+  "repair": null
+ }
+}

@@ -1,0 +1,149 @@
+id	durable	status	detail
+m05465	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05466	yes	kept	domains/industry/california-power-jan-2001.md
+m05467	yes	kept	domains/work/enron-transformation-paper.md
+m05468	yes	kept	domains/work/india-power-study-henwood.md
+m05469	yes	kept	domains/industry/eprm-risk.md
+m05470	yes	kept	domains/industry/eprm-risk.md
+m05471	yes	kept	domains/organization/office-equipment.md
+m05472	yes	kept	domains/organization/staff-moves-jan-2001.md people/jane-allen.md
+m05473	yes	kept	domains/industry/garp-2001.md
+m05474	yes	kept	domains/organization/staff-moves-jan-2001.md people/jane-allen.md
+m05475	yes	kept	domains/industry/california-power-jan-2001.md people/kristin-walsh.md
+m05476	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05477	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05478	no	not_durable	automated
+m05479	yes	kept	domains/organization/outside-recruiters-2001.md
+m05480	yes	kept	domains/industry/rice-university.md
+m05481	yes	kept	domains/work/credit-markets.md
+m05482	no	not_durable	pleasantry
+m05483	yes	kept	domains/work/lacima-book-2000.md
+m05484	yes	kept	people/stephanie-miller.md
+m05485	yes	kept	domains/personal/investments-2000.md people/steve-bigalow.md
+m05486	yes	kept	domains/work/enron-transformation-paper.md
+m05487	yes	kept	domains/personal/correspondence.md people/mark-kierlanczyk.md
+m05488	yes	kept	domains/industry/petronas-visit-feb-2001.md
+m05489	yes	kept	domains/work/transmission-modelling-2001.md people/bill-rust.md people/tom-dutta.md people/walter-coffer.md
+m05490	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05491	yes	kept	domains/organization/summer-interns-2001.md
+m05492	yes	kept	domains/organization/summer-interns-2001.md
+m05493	yes	kept	domains/industry/rice-university.md
+m05494	yes	kept	domains/organization/staff-moves-jan-2001.md people/jane-allen.md
+m05495	no	not_durable	quote_only
+m05496	yes	kept	domains/industry/rice-university.md
+m05497	yes	kept	domains/organization/year-end-prc-2000.md
+m05498	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05499	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05500	yes	kept	domains/industry/visitors-2001.md people/valery-kholodnyi.md
+m05501	no	not_durable	quote_only
+m05502	yes	kept	domains/industry/petronas-visit-feb-2001.md people/doug-arnell.md
+m05503	yes	kept	domains/organization/summer-interns-2001.md
+m05504	yes	kept	domains/work/aga-storage-forecast.md
+m05505	yes	kept	domains/work/valuation-signoff-2001.md
+m05506	yes	kept	domains/organization/leave-and-training.md
+m05507	yes	kept	domains/industry/rice-university.md
+m05508	yes	kept	domains/organization/summer-interns-2001.md
+m05509	yes	kept	domains/work/lacima-book-2000.md
+m05510	yes	kept	domains/industry/rice-university.md
+m05511	yes	kept	domains/work/internal-meetings.md people/phillip-allen.md
+m05512	yes	kept	domains/industry/rice-university.md
+m05513	yes	kept	domains/work/valuation-signoff-2001.md
+m05514	no	not_durable	logistics
+m05515	yes	kept	domains/work/genco-plant-model-2001.md
+m05516	yes	kept	domains/organization/summer-interns-2001.md
+m05517	yes	kept	domains/industry/visitors-2001.md people/valery-kholodnyi.md
+m05518	yes	kept	domains/work/var-credit-system-2001.md
+m05519	no	not_durable	logistics
+m05520	yes	kept	domains/work/valuation-signoff-2001.md
+m05521	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05522	no	not_durable	logistics
+m05523	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05524	yes	dropped	other: resume passed to Craig Fox as not fitting the group; no candidate named, nothing to track
+m05525	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05526	no	not_durable	logistics
+m05527	yes	kept	domains/personal/correspondence.md
+m05528	yes	kept	domains/organization/summer-interns-2001.md
+m05529	yes	kept	domains/organization/summer-interns-2001.md
+m05530	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05531	yes	kept	domains/industry/rice-university.md
+m05532	yes	kept	domains/industry/rice-university.md
+m05533	yes	kept	domains/organization/staff-moves-jan-2001.md people/neil-mcgregor.md
+m05534	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05535	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05536	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05537	yes	kept	domains/personal/correspondence.md
+m05538	yes	kept	domains/industry/rice-university.md
+m05539	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05540	no	not_durable	logistics
+m05541	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05542	yes	kept	domains/organization/staff-moves-jan-2001.md people/neil-mcgregor.md
+m05543	yes	kept	domains/organization/summer-interns-2001.md
+m05544	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05545	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/james-valverde.md people/johan-dahl.md
+m05546	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05547	yes	kept	domains/industry/rice-university.md
+m05548	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05549	yes	kept	domains/work/model-risk-audit.md
+m05550	yes	kept	domains/work/research-presentations.md people/leon-lasdon.md
+m05551	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05552	yes	kept	domains/work/lacima-book-2000.md domains/work/model-risk-audit.md
+m05553	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05554	yes	kept	domains/work/enterprise-risk-management.md
+m05555	yes	kept	domains/work/ut-austin-ties-2000.md
+m05556	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05557	yes	kept	domains/work/ut-austin-ties-2000.md
+m05558	no	not_durable	bulk
+m05559	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05560	no	not_durable	bulk
+m05561	no	not_durable	logistics
+m05562	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05563	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/tony-hamilton.md
+m05564	yes	kept	domains/organization/staff-moves-jan-2001.md people/neil-mcgregor.md
+m05565	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05566	yes	kept	domains/organization/london-research.md
+m05567	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05568	yes	kept	domains/organization/office-equipment.md
+m05569	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05570	yes	kept	domains/organization/staff-moves-jan-2001.md people/neil-mcgregor.md
+m05571	yes	kept	domains/work/var-backtesting-2000.md
+m05572	yes	kept	domains/organization/leave-and-training.md
+m05573	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05574	no	not_durable	bulk
+m05575	yes	kept	domains/work/research-presentations.md
+m05576	yes	kept	domains/industry/rice-university.md
+m05577	yes	kept	domains/industry/rice-university.md
+m05578	yes	kept	domains/work/research-web-content-2000.md
+m05579	yes	kept	domains/industry/rice-university.md
+m05580	yes	kept	domains/organization/year-end-prc-2000.md
+m05581	yes	kept	domains/organization/software-licenses.md
+m05582	yes	kept	domains/organization/leave-and-training.md
+m05583	yes	kept	domains/industry/rice-university.md
+m05584	yes	kept	domains/organization/leave-and-training.md
+m05585	yes	kept	domains/industry/rice-university.md
+m05586	yes	kept	domains/organization/candidate-interviews-feb-2001.md domains/work/research-web-content-2000.md people/tony-hamilton.md
+m05587	yes	kept	domains/industry/california-power-jan-2001.md
+m05588	yes	kept	domains/industry/california-power-jan-2001.md people/kristin-walsh.md
+m05589	no	not_durable	quote_only
+m05590	no	not_durable	bulk
+m05591	no	not_durable	quote_only
+m05592	yes	kept	domains/organization/office-equipment.md
+m05593	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/james-valverde.md people/johan-dahl.md
+m05594	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/james-valverde.md people/johan-dahl.md
+m05595	yes	dropped	no_owner_content: forward of Weldon's Turnover Document to AOL with no body text
+m05596	no	not_durable	quote_only
+m05597	yes	kept	domains/industry/california-power-jan-2001.md
+m05598	no	not_durable	bulk
+m05599	yes	kept	domains/work/credit-markets.md
+m05600	no	not_durable	bulk
+m05601	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/james-valverde.md people/johan-dahl.md
+m05602	yes	kept	domains/organization/software-licenses.md
+m05603	yes	kept	domains/work/lacima-book-2000.md
+m05604	yes	kept	domains/work/enron-transformation-paper.md
+m05605	yes	kept	domains/work/enron-transformation-paper.md
+m05606	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05607	yes	kept	domains/organization/outside-recruiters-2001.md
+m05608	yes	kept	domains/industry/rice-university.md
+m05609	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05610	yes	kept	domains/work/enron-transformation-paper.md
+m05611	yes	kept	domains/personal/correspondence.md
+m05612	yes	kept	domains/work/south-america-curves.md
