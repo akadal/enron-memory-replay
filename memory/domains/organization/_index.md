@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Departures: Pavel Zadorozhny to HETCO; Stinson Gibner resigns, last day 5 Jun → memory/domains/organization/staff-and-recruiting.md
-- PRC: feedback closed 25 May, PRCs 4-29 Jun; owner reviews Leppard, Naveen, Grabstald → memory/domains/organization/officer-performance-review.md
-- People: Jinbaek Kim starts 30 May → memory/domains/organization/summer-interns-2001.md; Gary Bush's maths PhD (Zimin phones), Molly's resume → memory/domains/organization/recruiting-candidates.md
-- Company: EOL's one-millionth trade → memory/domains/organization/corporate-announcements-2001.md; London on LiveLink → memory/domains/organization/london-research.md; D-G licence revised → memory/domains/organization/software-licenses.md
+- PRC: Research mid-year PRC Wed 6 Jun, EB50; owner behind on reviews (Grabstald) → memory/domains/organization/officer-performance-review.md
+- Departures: Gibner's last day 5 Jun; Parkhill leaving, loan papers → memory/domains/organization/staff-and-recruiting.md; Papayoti to AEP with the HPL sale → memory/domains/organization/corporate-announcements-2001.md
+- Equipment: Avistar charge $10,583 being checked; Weather Team's move; O:\Research access audit → memory/domains/organization/office-equipment.md
+- People: Rice MBA intern asks via Veruki → memory/domains/organization/summer-interns-2001.md; Giammarino's UBC lead → memory/domains/organization/recruiting-candidates.md; Hamilton's UK Power briefing → memory/domains/organization/tony-hamilton-london-2001.md
 
 ## Files
 

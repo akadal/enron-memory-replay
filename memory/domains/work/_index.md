@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-26
+updated: 2001-06-03
 ---
 # Work — index
 
@@ -9,11 +9,12 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Project X action plan awaits the owner's remarks (Hayden, Tamarchenko); EVT VaR data; convolution VaR test → memory/domains/work/var-credit-system-2001.md
-- Raptor: extra conditionality on the ENE forward restriction; Baker: both forward sets valued in March; Bharati's latest AA note 25 May → memory/domains/work/talon-raptor.md
-- Credit: Albanis gone; Salmon's group fires a quant; RiskCalc trial; Kinneman, owner, Bryan to repair public-firm models → memory/domains/work/private-firm-credit-model-2001.md
-- Vendors: Mitnick's EGE meeting 29 May; NumeriX credit toolkit; Sparks Consulting, Memphis, guard the pricing technology → memory/domains/work/vendor-offers-2001.md
-- Other: Exotica versions, call Slava Tue → memory/domains/work/monte-carlo-library.md; McCormack's COV/FGV pitch to Fastow → memory/domains/work/ene-stock-drivers.md; LIBOR, aluminium, housing starts → memory/domains/work/desk-analysis-requests.md
+- VaR: Project X meeting 1 Jun on the inception document; joint gas-power factors instead of Hayden's patch, revisit week of 11 Jun → memory/domains/work/project-x-var-2001.md; owner replicates Emmer's EVT paper → memory/domains/work/var-credit-system-2001.md
+- Raptor: owner's revised memo for AA, to review once more with Bharati (29 May) → memory/domains/work/talon-raptor.md
+- Credit: Iris's 'Enron Credit Strategic Plan' draft for Duffie awaits comments; McDermott call Mon 4 Jun → memory/domains/work/private-firm-credit-model-2001.md
+- Risk: EWRM memo to Skilling (1 Jun) → memory/domains/work/enterprise-risk-management.md; Sekse's outage-option hedge awaits the owner's sign-off → memory/domains/work/outage-risk-option-2001.md
+- Meetings: Productization, Frolov (Mon 4 Jun), EES-EAM, Mandelker (Tue 5 Jun) → memory/domains/work/internal-meetings-2001.md; Sparks in Memphis Tue 19 Jun → memory/domains/work/vendor-offers-2001.md
+- Other: Exotica.xll for London, strip spread options (Issler) → memory/domains/work/monte-carlo-library.md; Lu's option-based EOL bid/ask → memory/domains/work/eol-trading-algorithms-2001.md
 
 ## Files
 
@@ -39,6 +40,6 @@ Path: memory/domains/work/<name>.md
 - p-plus-spread-options-2001 · hsb-reinsurance-model-2001 · warsaw-mba-theses-2001 · insurance-portfolio-risk-2001
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
-- private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001
+- private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001 · project-x-var-2001
 
 Closed: 1
