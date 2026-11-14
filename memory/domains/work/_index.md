@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-07-15
+updated: 2001-07-21
 ---
 # Work — index
 
@@ -10,10 +10,10 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - Risk policy: Schultz's draft one-RAC Risk Management Policy, executive rounds from late June → memory/domains/work/enterprise-risk-management.md
-- Credit: Dhar's report for Duffie, Duffie's expert report, owner looks at CreditDesk.com in London → memory/domains/work/credit-markets.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Andrews's convolution note, Rabi De and Tamarchenko's 'Reliability Var' paper (revised 15 Jul) → memory/domains/work/var-credit-system-2001.md
-- Vendors: Henwood's Market Stack, Toolson asks for 20 Jul → memory/domains/work/vendor-offers-2001.md; Nesbitt's NARG meeting, owner sees no point → memory/domains/work/marketpoint-gas-model-2001.md; Reval wants energy-market information (address awaited), Prediction Company 30 Jul → memory/domains/work/outside-requests-2001.md
-- Bid-ask: Bob Lee's market-maker sessions to 27 Jul, Bharati's liquidity note → memory/domains/work/eol-trading-algorithms-2001.md; June country curves for the August revaluation → memory/domains/work/country-risk-curves.md
-- Transmission Round Table project (Gordon, Coffer), Krapels → memory/domains/work/transmission-modelling-2001.md; Dabhol: Lay in New Delhi, MSEB default → memory/domains/work/dabhol-power-sale.md; Lacima: EPRM article 12, Les Mon 23 Jul 4:00 → memory/domains/work/lacima-book-2000.md; Zone EF video conference 26 Jul → memory/domains/work/tw-capacity-options.md; Lu's weather-triggered option pricing → memory/domains/work/weather-research-2001.md; Huang's full requirement hedging → memory/domains/work/genco-plant-model-2001.md
+- Credit: Duffie audits Rabi De and Tamarchenko's 'Reliability Var' paper (sent 16 Jul), credit paper needs more work → memory/domains/work/var-credit-system-2001.md; Duffie's expert report, Dhar's report → memory/domains/work/credit-markets.md; KMV writeup to Kelly Boots → memory/domains/work/private-firm-credit-model-2001.md; AA asks about the put portfolios, Bharati takes the call → memory/domains/work/talon-raptor.md
+- Vendors: Henwood's Market Stack → memory/domains/work/vendor-offers-2001.md; NARG → memory/domains/work/marketpoint-gas-model-2001.md; Reval: packet not received, owner free next week except Friday; Prediction Company 30 Jul → memory/domains/work/outside-requests-2001.md
+- Bid-ask: Bob Lee's market-maker sessions to 27 Jul → memory/domains/work/eol-trading-algorithms-2001.md; June country curves → memory/domains/work/country-risk-curves.md
+- Lacima: EPRM article 12 comments owed, Les Mon 23 Jul 4:00 and dinner → memory/domains/work/lacima-book-2000.md; Issler's quanto swap → memory/domains/work/weather-research-2001.md; Huang's full requirement hedging memo → memory/domains/work/genco-plant-model-2001.md; Howard ISE center, Hector Campos at CMU → memory/domains/work/university-relations.md; Transmission Round Table → memory/domains/work/transmission-modelling-2001.md; Dabhol → memory/domains/work/dabhol-power-sale.md; Zone EF 26 Jul → memory/domains/work/tw-capacity-options.md
 
 ## Files
 
