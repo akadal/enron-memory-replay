@@ -5,7 +5,7 @@ entity: person
 name: "Joseph Pokalsky"
 aliases: [Joe Pokalsky, Joseph T. Pokalsky]
 domains: [personal]
-updated: 2001-06-06
+updated: 2001-06-21
 ---
 # Joseph Pokalsky
 
@@ -15,3 +15,4 @@ Joseph T. (Joe) Pokalsky, Energy Vertical Analysis, LLC, Atlanta (from 1 Nov 200
 
 - [2000-04-26] Agrees to help Larrissa Sharma at the owner's request → memory/domains/personal/correspondence.md ←[[m01497]]
 - [2001-05-25] Asks for the 1996 Power Risk issue for his litigation; owner to know by Fri 8 Jun → memory/domains/personal/correspondence.md ←[[m07996]] ←[[m08368]]
+- [2001-06-19] Owner has no copy of the 1996 issue left; in London when Pokalsky visits 26-27 Jun → memory/domains/personal/correspondence.md ←[[m08570]] ←[[m08584]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-15
+updated: 2001-06-21
 ---
 # Personal — index
 
@@ -9,8 +9,8 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Son graduates 16 Jun; Balson's IBM Almaden lead (Hetzler) forwarded to the son → memory/domains/personal/household.md
-- Pokalsky's 1996 Power Risk issue; Karasinski, owner in London end of June → memory/domains/personal/correspondence.md
+- Warsaw trip 4-9 Jul via Urszula Sobczyk → memory/domains/personal/poland-trip-jul-2001.md; Balson's IBM Almaden lead for the son → memory/domains/personal/household.md
+- Pokalsky: 1996 issue gone, owner in London next week, Bibi to Putnam; Karasinski → memory/domains/personal/correspondence.md
 - Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
 
 ## Files
@@ -18,6 +18,7 @@ Scope: the owner's private matters that appear in the mail.
 - memory/domains/personal/correspondence.md — private contacts (Kohli, Fowler, Eydeland; Paula Corey, Kierlanczyk, WNT archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
+- memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk
 - memory/domains/personal/investments-2000.md — brokers list (Dec 2000), Merrill Lynch (Walkup), option exercise, restricted stock deferral, PaineWebber (Haviland)
 - memory/domains/personal/lifetrak-venture-2001.md — Al Arfsten's LifeTrak blood marketplace, Mark Lay (Jan-Feb 2001)
 - memory/domains/personal/recruiter-approaches-2000.md — approaches (Al Arfsten, BFL Associates; UNO's Moffett Chair, Nov 2000)
