@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-01-21
+updated: 2001-01-27
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Henwood contract unsigned (Enron India LLC, Tax), DPC to pay → memory/domains/work/india-power-study-henwood.md; DPC idle → memory/domains/work/dabhol-power-sale.md
-- Credit/VaR system must not fail → memory/domains/work/var-credit-system-2001.md; EES credit-model review → memory/domains/work/ees-risk-reviews-jan-2001.md
-- Treasury TRS templates by end-January → memory/domains/work/total-return-swaps-dec-2000.md; Willis CHARM → memory/domains/work/enterprise-risk-management.md
-- Paper: 1_16_01 draft to the editor 22 Jan → memory/domains/work/enron-transformation-paper.md
-- MarketPoint demo meeting Tue 23 Jan → memory/domains/work/vendor-offers-2000.md; Genco recode → memory/domains/work/genco-plant-model-2001.md
+- Henwood agreement: signer (EIPL, ENE Houston or DPC) open → memory/domains/work/india-power-study-henwood.md; DPC idle → memory/domains/work/dabhol-power-sale.md
+- Winston's slow credit code → memory/domains/work/var-credit-system-2001.md; Research sign-off rules (Buy, Port) → memory/domains/work/valuation-signoff-2001.md
+- Paper: 1_27_01 draft; drivers, network section, conclusion to do → memory/domains/work/enron-transformation-paper.md
+- Titman consulting cleared by RAC → memory/domains/work/ut-austin-ties-2000.md; Lacima: 50 more books → memory/domains/work/lacima-book-2000.md
+- Genco engine: VB and Access → memory/domains/work/genco-plant-model-2001.md; TRS templates → memory/domains/work/total-return-swaps-dec-2000.md
 
 ## Files
 
@@ -35,6 +35,6 @@ Path: memory/domains/work/<name>.md
 - ag-trading-report-2000 · jcc-brent-hedge · total-return-swaps-dec-2000 · wti-eol-simulation-2000
 - bandwidth-combinatorial-auction · india-power-study-henwood · seasonal-curve-fitting
 - dabhol-energy-cost-jan-2001 · genco-plant-model-2001 · ken-lay-speech-tax-cut · risktrac-europe-var
-- hanover-costless-collar-jan-2001 · ees-risk-reviews-jan-2001 · var-credit-system-2001 · transmission-modelling-2001
+- hanover-costless-collar-jan-2001 · ees-risk-reviews-jan-2001 · var-credit-system-2001 · transmission-modelling-2001 · valuation-signoff-2001
 
 Closed: 1
