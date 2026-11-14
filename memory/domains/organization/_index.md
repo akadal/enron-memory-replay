@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-02-18
+updated: 2001-02-23
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Haughton: second London round Tue 20 Feb with Enron Credit and RAC, owner away → memory/domains/organization/candidate-interviews-feb-2001.md
-- Interns: Wharton Teams 1 and 3, the Associate Program picks, the owner absorbs the overflow; Villevald declined → memory/domains/organization/summer-interns-2001.md
+- Haughton: 20 Feb London round held without the owner, video interview to follow; a trading candidate for Lavorato fast-tracked (21 Feb) → memory/domains/organization/candidate-interviews-feb-2001.md
+- Interns: Gandy's list of Wharton Tigers (Teams 1, 3) awaits the owner's check; Harvard interviewing declined (22 Feb) → memory/domains/organization/summer-interns-2001.md; Mujica to be interviewed in Raymond's absence → memory/domains/organization/recruiting-candidates.md
 - 7 Feb: Xcelerator under Pai, Delainey to EES, Lavorato and Kitchen run Enron Americas → memory/domains/organization/ena-reorganization.md; Board-approved Risk Management Policy revised (18 Feb) → memory/domains/organization/corporate-announcements-2000.md
-- Java Feb 20-23, PJM 101 27 Feb, NESA expo 20-21 Mar, Gibner off 12-16 and 21-30 Mar → memory/domains/organization/leave-and-training.md; Anshuman's L1 on hold, no US job offer → memory/domains/organization/staff-moves-jan-2001.md
-- IIF kept ($15K), Oxford Analytica dropped; Avistar charges disputed by London → memory/domains/organization/office-equipment.md
+- Java Feb 20-23, PJM 101 27 Feb, NESA expo 20-21 Mar, Gibner off 12-16 and 21-30 Mar → memory/domains/organization/leave-and-training.md; EnTouch: Leann Walton hired into ENA Research → memory/domains/organization/staff-moves-jan-2001.md
+- IIF kept ($15K), Oxford Analytica dropped; Avistar charges disputed; filing units for EB 19C2 → memory/domains/organization/office-equipment.md
 
 ## Files
 

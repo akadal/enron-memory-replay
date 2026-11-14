@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-02-18
+updated: 2001-02-23
 ---
 # People — index
 
@@ -328,6 +328,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Schilmoeller
 - Michael Sergeev
 - Michael Tomczyk
+- Michael Tribolet
 - Michele Nezi Marvin
 - Michelle Cisneros
 - Michelle Mendoza
