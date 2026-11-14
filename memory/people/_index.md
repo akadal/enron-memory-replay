@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-08
+updated: 2001-04-11
 ---
 # People — index
 
@@ -37,6 +37,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Angela Dorsey
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
+- Anne Labbe
 - Anne Stamer
 - Anoush Farhangi
 - Anshuman Srivastav
@@ -116,6 +117,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Davies
 - David Dupre
 - David Gorte (Dave Gorte)
+- David Hoog
 - David Ikenberry
 - David Kilgore
 - David Oxley
@@ -135,6 +137,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dmitri Villevald
 - Dolores Muzzy
 - Don Chew
+- Donna Lawrence
 - Donna Piazze
 - Dorn Hetzel
 - Dorothy Youngblood
@@ -258,6 +261,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joseph Hrgovcic (Joe Hrgovcic)
 - Josh Leventhal (Joshua Leventhal)
 - Julia Murray
+- Julie Gomez (Julie A Gomez)
 - Julie Haviland
 - Karen Marshall
 - Karla Feldman
@@ -293,6 +297,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Larry Lawyer
 - Larry Pinsky
 - Laura Luce
+- Laura Starks
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Leann Walton
 - Lenos Trigeorgis
@@ -311,6 +316,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lucie Deathridge (Lucy Deathridge)
 - Lucy Ortiz
 - Ludmila Kaminski (Ludmila)
+- Luigi Calabrese
 - Lyn Malina
 - Maheshram Vittal (Ram Vittal)
 - Manuel Rensink
@@ -394,6 +400,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
 - Pavel Zadorozhny
+- Per Sekse (Per A. Sekse)
 - Peter Tufano
 - Phelim Boyle (P.P. Boyle)
 - Philip Merrill
@@ -453,6 +460,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Scott Earnest
 - Scott Neal
 - Scott Stoness
 - Scott Tholan
@@ -490,11 +498,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stephen Stock
 - Steve Bigalow
 - Steve Walton
+- Steven Harris
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Steven Shreve
 - Stinson Gibner
 - Suresh Raghavan (Surech Raghavan)
+- Susan Hansen (Susan C. Hansen)
 - Tani Nath
 - Tanya Rohauer
 - Tanya Tamarchenko
@@ -537,6 +547,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Walter Coffer
 - Wes Colwell
 - Wichai Narongwanich
+- Wil Uecker
 - William Bradford (William S Bradford)
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
