@@ -1,0 +1,199 @@
+{
+ "slice": 72,
+ "simulated_today": "2001-04-11",
+ "feed": {
+  "slice": 72,
+  "iso_week": "2001-W15",
+  "first_seq": 6605,
+  "last_seq": 6739,
+  "messages": 135,
+  "durable": 106,
+  "first_date": "2001-04-09 01:11",
+  "last_date": "2001-04-11 08:48",
+  "today": "2001-04-11",
+  "inbox_files": [
+   "2001-04-09--mail.md",
+   "2001-04-10--mail.md",
+   "2001-04-11--mail.md"
+  ],
+  "inbox_chars": 81454,
+  "l2_chars": 320055
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 894,
+ "quota_before": {
+  "five_hour": 5.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 9.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 72,
+  "messages": 135,
+  "durable": 106,
+  "kept": 103,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {
+   "redundant": 3
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2978,
+  "fact_lines_with_source": 1931,
+  "dated": 1931,
+  "date_matches_source": 1884,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.82,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 604
+  },
+  "questions": {
+   "files": 1,
+   "chars": 627
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 201,
+   "chars": 360746
+  },
+  "people": {
+   "files": 551,
+   "chars": 365361
+  },
+  "archive_inbox": {
+   "files": 464,
+   "chars": 3992306
+  },
+  "archive_mail": {
+   "files": 6765,
+   "chars": 16563919
+  },
+  "archive_other": {
+   "files": 1313,
+   "chars": 1095535
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 56,
+   "duration_ms": 892946,
+   "duration_api_ms": 744379,
+   "total_cost_usd": 5.138622099999999,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 224210,
+    "cache_read_input_tokens": 8079865,
+    "output_tokens": 86416,
+    "output_tokens_details": {
+     "thinking_tokens": 32676
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 224210,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 975,
+      "cache_read_input_tokens": 242623,
+      "cache_creation_input_tokens": 526,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 526
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00024910000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 86416,
+     "cacheReadInputTokens": 8079865,
+     "cacheCreationInputTokens": 224210,
+     "webSearchRequests": 0,
+     "costUSD": 5.138372999999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 32676,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 224210,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 55,
+   "result_summary": "The 2001-04-11 consolidation for week 2001-W15 is committed as `2f0571b` and not pushed. Lint and sleep-audit are both green. Your brief said both \"do not push, the runner pushes\" and \"git push origin main\"; I followed the first.\n\n**What went into memory:** of 135 messages, 106 had notes. 103 are now cited in L1 (the distilled topic and people files) and 3 are in `dataset/drops/sleep-072.tsv`, all forwards of material already recorded (m06609, m06610, m06690). The main threads updated:\n- **VaR:** forward curves get mapped because of system limits, the biggest positions become core curves, Research gives one person to check the mapping, and David Port plans a general VaR overhaul.\n- **Models and vendors:** CHARM judged a prototype; Rick Jones's critique of the EES credit reserve model; the revised outage pricing model; the P+ spread option model confirmed; Generation Earnings Model run times; NumeriX, AURORA and WEFA; MarketPoint.\n- **People and HR:** Sevil's project bonus, and Anne Labbe replacing Norma Villarreal as HR generalist; new candidates.\n- **Outside events:** the Rice ALP presentation on 7 May and Rice's NFCF conference (organisers still trying to get Fastow); the Stanford visit on 4 May; SIAM and PoweRisk.\n\n**New files:** two new topics (`weather-research-2001`, `rice-alp-presentation-may-2001`) and 11 people files for those whose fifth noted message has arrived: Hansen, Lawrence, Uecker, Calabrese, Starks, Labbe, Gomez, S. Harris, Hoog, Sekse, Earnest. To keep files over their size target from growing past tolerance, older lines from 23 files were moved word-for-word to `archive/*/2001/*-2001-04-w15.md`. london-research dropped from 2509 to 2071 characters.\n\n**Questions:** the Matthew Harris question was overdue, so it was closed unanswered: he is treated as unconfirmed and gets no people file. One approval item was added for the aliases \"Ken Parkhill\" and \"Sevil Yamin\". The five oldest ongoing lines are still valid. No sleep-task or feedback blocks, no "
+  },
+  "repair": null
+ }
+}
