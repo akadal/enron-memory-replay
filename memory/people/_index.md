@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-08-26
+updated: 2000-09-03
 ---
 # People — index
 
@@ -15,6 +15,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Alex Huang
 - Alexios Kollaros (Alex Kollaros)
 - Alla Gil
+- Allan Roberts
 - Amitava Dhar
 - Amy Aldous
 - Amy Lamonsoff
@@ -33,6 +34,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Avi Hauser (Avi I. Hauser)
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
+- Becky Pham
 - Benjamin Parsons (Ben Parsons)
 - Beth Miertschin
 - Beth Perlman
@@ -50,6 +52,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Carla Di Castro (Carla diCastro)
 - Celeste Roberts
 - Charlene Jackson
+- Charlie Weldon
 - Cheryl Kuehl
 - Chonawee Supatgiat
 - Chris Hilgert
@@ -79,6 +82,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dennis Benevides
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
+- Dolores Muzzy
 - Dorn Hetzel
 - Doug Leach
 - Douglas Parsons (Douglas S Parsons, Doug Parsons)
@@ -89,6 +93,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Elizabeth Grant
 - Emma Wolfin
 - Eric Gadd
+- Eric Groves
 - Eric Hilton
 - Erik Simpson
 - Eugenio Perez
@@ -135,6 +140,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Bloomer
 - John D. Martin
 - John Echols
+- John Gordon
 - John Griebling
 - John Herbert (John H Herbert)
 - John Lavorato
@@ -160,6 +166,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kirstee Hewitt
 - Kristin Gandy
 - Kristy Carnes
+- Laura Luce
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Lenos Trigeorgis
 - Les Clewlow
@@ -199,6 +206,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mike Roberts (Mike A Roberts)
 - Ming Sit
 - Molly Magee
+- Naveen Andrews
 - Nick Bambos
 - Norberto Valdes
 - Norma Villarreal
@@ -211,6 +219,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paula Corey
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
+- Pavel Zadorozhny
 - Peter Tufano
 - Phelim Boyle (P.P. Boyle)
 - Philippe Bibi (Philippe A Bibi)
