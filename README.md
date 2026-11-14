@@ -44,7 +44,9 @@ design went through, before it ran and after its pilots.
 Four pilots are kept as branches and tagged: `pilot-raw` (raw mail straight into the inbox),
 `pilot-v2` (the capture pipeline before the review's fixes, Sonnet 5.5), `control-opus` (the
 same feed consolidated by Opus 5.5) and `pilot-v3` (ten weeks on the corrected pipeline, Haiku
-capture). `dataset/DESIGN.md` says what each one is.
+capture). `dataset/DESIGN.md` says what each one is. A fifth branch, `drift-77-90`, keeps the
+first pass of slices 77-90, which filed facts by week instead of by subject and was run again
+with one more preamble paragraph (`dataset/DESIGN.md`, "Second pass from slice 77").
 
 ## Models
 
