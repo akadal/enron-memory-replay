@@ -1,0 +1,187 @@
+{
+ "slice": 51,
+ "simulated_today": "2000-11-19",
+ "feed": {
+  "slice": 51,
+  "iso_week": "2000-W46",
+  "first_seq": 4191,
+  "last_seq": 4302,
+  "messages": 112,
+  "durable": 82,
+  "first_date": "2000-11-13 00:04",
+  "last_date": "2000-11-19 15:00",
+  "today": "2000-11-19",
+  "inbox_files": [
+   "2000-11-13--mail.md",
+   "2000-11-14--mail.md",
+   "2000-11-15--mail.md",
+   "2000-11-16--mail.md",
+   "2000-11-17--mail.md",
+   "2000-11-19--mail.md"
+  ],
+  "inbox_chars": 63319,
+  "l2_chars": 269424
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 726,
+ "quota_before": {
+  "five_hour": 34.0,
+  "seven_day": 35.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 35.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 51,
+  "messages": 112,
+  "durable": 82,
+  "kept": 77,
+  "kept_rate_excluding_redundant": 0.939,
+  "drop_classes": {
+   "logistics": 3,
+   "no_owner_content": 2
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2057,
+  "fact_lines_with_source": 1368,
+  "dated": 1368,
+  "date_matches_source": 1331,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.89,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   0.83,
+   1.0,
+   0.71,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 663
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1444
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 144,
+   "chars": 244639
+  },
+  "people": {
+   "files": 374,
+   "chars": 255033
+  },
+  "archive_inbox": {
+   "files": 332,
+   "chars": 2585176
+  },
+  "archive_mail": {
+   "files": 4328,
+   "chars": 10553811
+  },
+  "archive_other": {
+   "files": 837,
+   "chars": 764197
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 724460,
+   "duration_api_ms": 620695,
+   "total_cost_usd": 4.5752052,
+   "usage": {
+    "input_tokens": 116,
+    "cache_creation_input_tokens": 187540,
+    "cache_read_input_tokens": 8508406,
+    "output_tokens": 68637,
+    "output_tokens_details": {
+     "thinking_tokens": 32018
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 187540,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 932,
+      "cache_read_input_tokens": 218251,
+      "cache_creation_input_tokens": 1080,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1080
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 116,
+     "outputTokens": 68637,
+     "cacheReadInputTokens": 8508406,
+     "cacheCreationInputTokens": 187540,
+     "webSearchRequests": 0,
+     "costUSD": 4.5752052,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 32018,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 187540,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "I've consolidated week 2000-W46 and committed it as `bb8de9c`; lint and `sleep-audit.py` were both green. I didn't push: the run instructions say the runner pushes after its own checks.\n\n- **Messages:** 112 arrived, 82 had notes. 77 are cited in memory; the other 5 are listed in `dataset/drops/sleep-051.tsv`: three logistics messages, and two election updates from a third party that the owner forwarded to his AOL address.\n- **What was added:**\n  - **VaR:** in the NGI-SOCAL fat-tails thread the owner says to separate the price process from position changes. Also new: the Brent/61NY correlation VaR for Niamh Clarke's portfolio, Gorny's priority list (Tamarchenko puts IR and FX VaR first), and the forward-forward vol smoothing work.\n  - **Budget:** Research's 2001 budget must drop by 83K, with the owner to pick the cuts by 21 Nov.\n  - **London Research:** it may add two commercial PhDs a quarter.\n  - **Vendor offers:** MarketPoint ($55K a year for the gas model), DerivaPrice.com and Pathstar.\n  - **Outside contacts:** Martin's draft \"thought document\" for the joint paper, and the University of New Orleans' invitation to apply for the Moffett Chair.\n  - **Candidates:** Ezequiel Luis as a 2001 summer intern, plus Rowady, Iris Mack and Qing Chen.\n  - **Other:** the PEP review list, the Transmission Roundtable on 8 Dec, and the owner's draft Rice project proposal.\n- **People:** new entity files for Bich Anh Pham, Paul Rowady, Paul Johnson and Michael Curran, who each reached five messages with notes. No aliases were attached.\n- **Questions:** the Charles Shen alias question was due 14 Nov and is closed unanswered. Both names stay as written, marked (?).\n- **Size control:** older lines from 24 topic files moved to week-46 archive files, so each file's growth stayed within the audit's tolerance. No file is above 90% of its size limit.\n- **Archiving and log:** this week's inbox logs moved unchanged into `memory/archive/inbox/`. This run's log notes went into a separate `memor"
+  },
+  "repair": null
+ }
+}
