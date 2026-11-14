@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-29
+updated: 2001-05-02
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: projects due 30 Apr, grades to Pam Castro by 4 May, NFCF dinner 4 May, Koenig asked onto a panel → memory/domains/industry/rice-university.md; 2001-02 speakers → memory/domains/industry/rice-finance-seminar-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
-- Owner's roles: SIAM talk 27 Apr, slides asked; KWI: Sherriff's PR person to call → memory/domains/industry/speaking-engagements-2000.md; EPRM 14-15 May → memory/domains/industry/eprm-risk.md
-- Attending: UT Austin short course 2 May (carpool 9 am); PIRA 14 and 16 May; gas storage 22 Jun, registered → memory/domains/industry/events-attending-2001.md
-- Wharton: Business Plan final 30 Apr; host evaluation form → memory/domains/industry/wharton-projects-feb-2001.md; Risk Center advisory 14 Jun, corn-subsidy project, contact this week → memory/domains/industry/wharton-risk-center-2001.md
-- Visits: Kulatilaka 17 May → memory/domains/industry/visitors-2001.md; UH Energy Institute tour 22 May → memory/domains/industry/uh-econophysics.md; California: FERC caps' 1 Jun kill clause → memory/domains/industry/california-power-jan-2001.md
+- Rice: MGMT 656 papers in, Nazareth's team an A, grades by 4 May → memory/domains/industry/rice-energy-derivatives-course.md; ALP Mon 7 May 4 pm, 49C1, Enron Field dinner → memory/domains/industry/rice-alp-presentation-may-2001.md; NFCF 4-5 May → memory/domains/industry/rice-university.md
+- Owner's roles: EPRM Houston 14-15 May, Tamarchenko co-speaker, slides behind; Financial Mathematics course Jun-Jul → memory/domains/industry/eprm-risk.md; SIAM talk → memory/domains/industry/speaking-engagements-2000.md
+- Attending: PIRA 14 and 16 May; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
+- Wharton: Risk Center advisory 14 Jun, agenda out; Vasant's proposal outline → memory/domains/industry/wharton-risk-center-2001.md; ET slides (e-mail network mapping) → memory/domains/industry/wharton-projects-feb-2001.md
+- Visits: Kulatilaka 17 May on mobile-internet markets → memory/domains/industry/visitors-2001.md; UH tour 22 May → memory/domains/industry/uh-econophysics.md; California → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
@@ -33,7 +33,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/market-outlooks-2000.md — outside market views, 2000
 - memory/domains/industry/real-options-debate-2000.md — real options debate (Apr 2000)
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
-- memory/domains/industry/rice-university.md — Rice: seminars, ALP team, MGMT 656, Ikenberry's forum
+- memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum
+- memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Rutgers dinner talk 23 May 2001, SIAM at UH Apr 2001, SMS Oct 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)

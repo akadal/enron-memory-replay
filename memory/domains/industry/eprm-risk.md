@@ -3,16 +3,15 @@ id: eprm-risk
 type: topic
 domain: industry
 title: "RISK / EPRM conferences, courses and Risk Books"
-summary: "RISK's EPRM events (Paul Bristow): financial mathematics course, owner a course leader with two sessions: London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul 2001; EPRM 2001 Houston (Risk Waters), Houstonian, 14-15 May: owner speaks, bio asked; Zimin Lu, Lance, Martin and Sandeep attend (19 Apr); older items archived."
+summary: "RISK's events: Risk Waters Financial Mathematics course, owner a speaker: London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul 2001 (Joanna Vidal, 1 May); EPRM 2001 Houston (Risk Waters, Houstonian, 14-15 May): owner speaks with Tanya Tamarchenko as co-speaker, reception Sun 13 May, copies from the Enron Copy Center (2 May); Bristow and older items archived."
 status: active
-updated: 2001-04-22
+updated: 2001-05-02
 ---
 # RISK / EPRM conferences, courses and Risk Books
 
-Detail ←[[eprm-risk-2000-02-w08]] … (one archive file per week) ←[[eprm-risk-2000-10-w41]] ←[[eprm-risk-2000-10-w42]] ←[[eprm-risk-2000-12-w51]] ←[[eprm-risk-2001-01-w02]] ←[[eprm-risk-2001-01-w04]] ←[[eprm-risk-2001-02-w06]] ←[[eprm-risk-2001-02-w08]] ←[[eprm-risk-2001-03-w09]] ←[[eprm-risk-2001-03-w11]] ←[[eprm-risk-2001-04-w14]] ←[[eprm-risk-2001-04-w15]] ←[[eprm-risk-2001-04-w16]]
-- [2001-04-09] Owner returns the bullet points of his two Financial Mathematics sessions to Bristow (asked 3 Apr for the brochure, with a closing practical example each), changes in red ('FINANCIAL MATHS DRAFT.doc'): "By the way, Power2001 gets only more and more interesting every day."; Bristow agrees. ←[[m06500]] ←[[m06605]] ←[[m06611]] ←[[m06642]]
-- [2001-04-18] EPRM 2001 Houston (Risk Waters, The Houstonian, 14-15 May): Layla O'Leary wants the owner's bio and speaker checklist, hotel block ends 20 Apr. Research sends Zimin Lu; owner: "Please ask Lance and Martin." (Rita Hennessy's group discount); 19 Apr "OK" to Lance, Martin and Sandeep for conference and seminar days, $2598 less 10% each. ←[[m06969]] ←[[m06959]] ←[[m06977]] ←[[m06993]] ←[[m07023]]
-
+Detail ←[[eprm-risk-2000-02-w08]] … (one archive file per week) ←[[eprm-risk-2000-10-w41]] ←[[eprm-risk-2000-10-w42]] ←[[eprm-risk-2000-12-w51]] ←[[eprm-risk-2001-01-w02]] ←[[eprm-risk-2001-01-w04]] ←[[eprm-risk-2001-02-w06]] ←[[eprm-risk-2001-02-w08]] ←[[eprm-risk-2001-03-w09]] ←[[eprm-risk-2001-03-w11]] ←[[eprm-risk-2001-04-w14]] ←[[eprm-risk-2001-04-w15]] ←[[eprm-risk-2001-04-w16]] ←[[eprm-risk-2001-05-w18]]
+- [2001-05-01] Financial Mathematics course (London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul): Joanna Vidal (Risk Waters) checks speaker addresses (Seppi, Geman, Nance, Chris Harris, Maragos, Ronn); owner listed under Enron Credit; Crenshaw asks if he speaks only in Houston. ←[[m07439]] ←[[m07442]] ←[[m07443]] ←[[m07473]] ←[[m07479]] ←[[m07480]] ←[[m07497]]
+- [2001-05-02] EPRM 2001 Houston (Layla O'Leary): "I am falling behind in getting my presentation ready."; copies from the Enron Copy Center as at Power 1999 and 2000; Tanya Tamarchenko registered as co-speaker ("Is it OK to include her as an additional speaker?"); he attends the 13 May reception; bio via Crenshaw. ←[[m07512]] ←[[m07526]]
 
 ## History
 
