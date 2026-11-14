@@ -3,16 +3,16 @@ id: group-projects-oct-2000
 type: topic
 domain: work
 title: "Group members' project status (Oct 2000)"
-summary: "What the owner's people report working on, Oct 2000: Alex Huang (gas daily swing option, PSIM plant dispatch, parameter estimation); Chonawee Supatgiat's own software for Hickerson; Shanbhogue's credit support model; Zimin Lu's correlation trading memo; Naveen Andrews' Equity Extremes; Elena Chilkina's Swaps Monitor review."
+summary: "What the owner's people report working on, Oct 2000: credit model split into three tasks (Zimin Lu; Issler takes the Asian option); Alex Huang's parameter estimation; Chonawee's cow-counting program; Lu's option pricing puzzle; Vernon's real-time weather system; Elena Chilkina's SwapsMonitor review; earlier items archived."
 status: active
-updated: 2000-10-15
+updated: 2000-10-22
 ---
 # Group members' project status (Oct 2000)
 
-Papers: memory/domains/work/group-papers-2000.md.
+Papers: memory/domains/work/group-papers-2000.md. Detail ←[[group-projects-oct-2000-2000-10-w42]]
 
-- [2000-10-09] Alex Huang: gas daily swing option model done for Sanjeev Khanna (American Monte Carlo, dynamic programming); next PSIM plant operation (the price-above-cost on/off rule fails at very high regional demand; meetings with Tom and Lance); parameter estimation for GBM, mean reversion, jump diffusion with and without mean reversion, discretised differently from Tanya's. ←[[m03480]]
-- [2000-10-09] Chonawee Supatgiat writes the program himself (IT's Doug found no existing software), ready in 1-2 days (Mike Roberts, to Gary Hickerson and the owner: optimistic). ←[[m03482]]
-- [2000-10-10] Shanbhogue forwards Andy West's updated Credit Support Model (for Jodi Coulter; key sheets 'PaperCo Credit' and 'Data') to Gibner and the owner. ←[[m03497]]
-- [2000-10-12] Owner asks Elena Chilkina to review the energy content of Swaps Monitor's OTC derivatives database and write a summary: "I would like to do some research in this area"; nothing urgent. ←[[m03566]]
-- [2000-10-13] Owner takes to AOL Zimin Lu's 'Correlation trading - part 2' (6 Oct) and Naveen Andrews' Equity Extremes: worst-case loss of the Equities portfolio from CrashMetrics and delta-gamma optimisation, comments asked. ←[[m03577]] ←[[m03642]]
+- [2000-10-16] Elena Chilkina (asked 12 Oct for a summary): SwapsMonitor online is a blank commodity template; data by subscription ($200 once, $300 a year) from audited statements and filings. ←[[m03655]] ←[[m03566]]
+- [2000-10-17] Credit model (after Bill Bradford) splits in three: potential exposure calculator (curve simulation, multi-factor HJM; 1 month), Asian option in the XLL engine (2 weeks; EES deals need it), Krishna's EAM option later. 19 Oct: exposure goes to others, Issler takes the Asian option; "everyone is overloaded". ←[[m03666]] ←[[m03732]]
+- [2000-10-17] Alex Huang sends his parameter estimation model (continues Tanya's, more consistent) with a write-up for comments. Chonawee's third cow-counting program for Mike Roberts nears hand counts (244 vs 273); he is busy on a new EBS project. ←[[m03671]] ←[[m03690]]
+- [2000-10-19] Lu's 'Option Pricing Challenge' (mean reversion yet Black-Scholes under delta hedging); Shanbhogue: drift is irrelevant for a hedgeable asset, a non-traded factor brings the market price of risk into the PDE. ←[[m03730]]
+- [2000-10-20] Clayton Vernon (cc owner): Research's real-time weather feed beats NWS pages by 6.5 minutes, so the nonlinear stack model is re-estimated before the hour: hourly power traders gain an hour. ←[[m03743]]

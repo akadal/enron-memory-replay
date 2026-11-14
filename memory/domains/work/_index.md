@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-10-15
+updated: 2000-10-22
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Berkeley presentation Mon 16 Oct, Oren's IEOR seminar Mon 23 Oct, CMU MSCF talk Fri 3 Nov → memory/domains/work/campus-recruiting-fall-2000.md; INFORMS 4-5 Nov → memory/domains/industry/informs-san-antonio-2000.md
-- Stanford: 15 Oct dinner off, Bay area trip a week later (20-22 Oct), $100K unsent → memory/domains/work/stanford-research-ties.md; UT: Skilling 22 Feb or 16 Feb → memory/domains/work/ut-austin-ties-2000.md
-- Baylor paper with John D. Martin, Waco 13 Nov → memory/domains/work/enron-transformation-paper.md; EPRM articles 2-3 commented 14 Oct → memory/domains/work/lacima-book-2000.md
-- UK VaR over limit, NG correlation changes → memory/domains/work/var-backtesting-2000.md; TW switch option 20 c/Dth → memory/domains/work/tw-capacity-options.md
-- Seismic data via satellite (Reichardt, Bob Lee) → memory/domains/work/seismic-data-satellite.md; who works on what → memory/domains/work/group-projects-oct-2000.md
+- Oren's IEOR seminar Mon 23 Oct, CMU MSCF talk Fri 3 Nov → memory/domains/work/campus-recruiting-fall-2000.md; INFORMS Mon 6 Nov afternoon → memory/domains/industry/informs-san-antonio-2000.md
+- Stanford: $100K paperwork promised by 20 Oct, owner in Palo Alto late Nov → memory/domains/work/stanford-research-ties.md; UT: Skilling declined, Whalley or Lou Pai → memory/domains/work/ut-austin-ties-2000.md
+- Baylor paper: Lay/Skilling/Fastow interviews pending, Waco 13 Nov, workshop 23 Feb → memory/domains/work/enron-transformation-paper.md; Lacima book cleared 19 Oct → memory/domains/work/lacima-book-2000.md
+- Blachman wants much more support of EES, meeting 26-27 Oct → memory/domains/work/ees-structuring-models.md; EES risk session 25 Oct → memory/domains/work/research-presentations.md
+- Credit model split in three, real-time weather feed → memory/domains/work/group-projects-oct-2000.md; seismic data via satellite → memory/domains/work/seismic-data-satellite.md
 
 ## Files
 

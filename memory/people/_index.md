@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-10-15
+updated: 2000-10-22
 ---
 # People — index
 
@@ -50,6 +50,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
+- Britta Bothe
 - Bruce James
 - Bryan Seyfried
 - Cantekin Dincerler
@@ -118,6 +119,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gary Taylor
 - George Hopley
 - George McClellan
+- George Posey
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
@@ -132,6 +134,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Hunter Shively (Hunter S Shively)
 - Iain Russell
 - Iris Mack
+- Jaesoo Lew
 - James Steffes (James D Steffes, Jim Steffes)
 - Jana Giovannini
 - Jana Phillips (Jana Laird Phillips)
@@ -173,6 +176,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Julie Haviland
 - Karen Marshall
 - Karla Feldman
+- Karolina Potter
 - Kate Bruges
 - Katja Schilling
 - Kay Chapman
@@ -187,6 +191,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kirstee Hewitt
 - Kristin Gandy
 - Kristy Carnes
+- Lance Cunningham
 - Lane Hughston
 - Lara Berry
 - Laura Luce
@@ -218,6 +223,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Martin Jermakyan
 - Martin Lin
 - Martina Angelova
+- Marty Sunde
 - Maruti More (Maruti D. More)
 - Mary Alison Bailey (Mary Bailey)
 - Masayuki Fujita
@@ -241,6 +247,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Osman Sezgen
 - Paige Grumulaitis
 - Patrycja Dalecka (Patricia Dalecka)
+- Paul Bristow
 - Paul Day
 - Paul Quilkey
 - Paul Racicot
@@ -257,6 +264,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rabi De
 - Radu Tutos
 - Ravi Thuraisingham
+- Ray Bowen
 - Raymond Yeow
 - Richard Causey (Rick Causey)
 - Richard DiMichele
@@ -304,6 +312,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sophie Kingsley
 - Soussan Faiz
 - Stathis Tompaidis
+- Stephanie Summers
 - Stephen Bramlett (Steven Bramlet)
 - Stephen Stock
 - Steven Kean (Steven J Kean, Steve Kean)

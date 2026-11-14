@@ -5,11 +5,11 @@ entity: person
 name: "Karen Marshall"
 aliases: []
 domains: [organization, work]
-updated: 2000-09-15
+updated: 2000-10-22
 ---
 # Karen Marshall
 
-Enron Recruiting Manager (ext. 37632) for the MIT/Sloan team in Feb 2000; by Sep 2000 the newly appointed coordinator of higher-education initiatives in Enron Community Relations. One person is assumed (?) → memory/questions.md. ←[[m00692]] ←[[m03198]]
+Enron Recruiting Manager (ext. 37632) for the MIT/Sloan team in Feb 2000; by Sep 2000 the newly appointed coordinator of higher-education initiatives in Enron Community Relations. One person is assumed (?); the question closed unanswered by status quo on 2000-10-22. ←[[m00692]] ←[[m03198]]
 
 ## Context: organization
 
