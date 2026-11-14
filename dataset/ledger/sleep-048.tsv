@@ -1,0 +1,146 @@
+id	durable	status	detail
+m03758	no	not_durable	automated
+m03759	no	not_durable	automated
+m03760	no	not_durable	automated
+m03761	no	not_durable	automated
+m03762	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03763	yes	kept	domains/organization/recruiting-candidates.md people/larry-lawyer.md
+m03764	yes	kept	domains/work/fas133-implementation.md people/ron-baker.md
+m03765	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03766	yes	kept	domains/organization/london-research.md people/tani-nath.md
+m03767	yes	kept	domains/organization/leave-and-training.md
+m03768	no	not_durable	automated
+m03769	yes	kept	domains/work/var-backtesting-2000.md people/jin-yu.md
+m03770	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03771	yes	kept	domains/industry/speaking-engagements-2000.md
+m03772	yes	kept	domains/work/research-presentations.md
+m03773	yes	kept	domains/organization/office-equipment.md
+m03774	yes	kept	domains/organization/research-accounting-2000.md
+m03775	yes	kept	domains/personal/correspondence.md domains/work/campus-recruiting-fall-2000.md people/andrzej-lubowski.md
+m03776	yes	kept	domains/organization/research-accounting-2000.md
+m03777	yes	kept	domains/work/group-projects-oct-2000.md people/john-nowlan.md
+m03778	yes	kept	domains/work/storage-model.md
+m03779	yes	kept	domains/organization/leave-and-training.md
+m03780	yes	kept	domains/industry/events-attending-2000.md
+m03781	yes	kept	domains/personal/correspondence.md people/andrzej-lubowski.md
+m03782	yes	kept	domains/personal/correspondence.md
+m03783	no	not_durable	bulk
+m03784	no	not_durable	bulk
+m03785	no	not_durable	other
+m03786	yes	kept	domains/work/group-projects-oct-2000.md
+m03787	yes	kept	domains/work/stanford-research-ties.md
+m03788	yes	kept	domains/organization/corporate-announcements-2000.md people/joe-sutton.md
+m03789	yes	kept	domains/organization/corporate-announcements-2000.md people/joe-sutton.md
+m03790	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03791	yes	kept	domains/personal/correspondence.md
+m03792	no	not_durable	quote_only
+m03793	yes	kept	domains/personal/correspondence.md people/andrzej-lubowski.md
+m03794	yes	kept	domains/organization/candidate-referrals-2000.md people/gerald-sheble.md people/lloyd-will.md
+m03795	yes	kept	domains/organization/leave-and-training.md
+m03796	no	not_durable	bulk
+m03797	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03798	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03799	yes	kept	domains/organization/london-research.md
+m03800	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03801	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03802	yes	kept	domains/organization/candidate-referrals-2000.md people/yaron-oren.md
+m03803	yes	kept	domains/organization/leave-and-training.md
+m03804	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03805	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03806	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03807	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03808	yes	kept	domains/organization/leave-and-training.md
+m03809	yes	kept	domains/work/uk-inflation-book-ppi.md people/rodrigo-lamas.md
+m03810	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03811	yes	kept	domains/organization/recruiting-candidates.md
+m03812	yes	kept	domains/organization/recruiting-candidates.md
+m03813	yes	kept	domains/organization/summer-interns-2000.md
+m03814	yes	kept	domains/organization/recruiting-candidates.md
+m03815	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03816	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03817	yes	kept	domains/organization/recruiting-candidates.md
+m03818	no	not_durable	other
+m03819	yes	kept	domains/organization/candidate-referrals-2000.md people/yaron-oren.md
+m03820	yes	kept	domains/work/enron-transformation-paper.md
+m03821	no	not_durable	pleasantry
+m03822	yes	kept	domains/organization/candidate-referrals-2000.md people/gerald-sheble.md people/lloyd-will.md
+m03823	yes	kept	domains/work/storage-model.md
+m03824	yes	kept	domains/work/outside-requests.md
+m03825	yes	kept	domains/work/enron-transformation-paper.md
+m03826	yes	kept	domains/organization/candidate-referrals-2000.md people/yaron-oren.md
+m03827	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m03828	yes	kept	domains/work/enron-transformation-paper.md
+m03829	yes	kept	domains/organization/recruiting-candidates.md
+m03830	yes	kept	domains/organization/candidate-referrals-2000.md people/yaron-oren.md
+m03831	yes	kept	domains/organization/candidate-referrals-2000.md people/yaron-oren.md
+m03832	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03833	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03834	no	not_durable	quote_only
+m03835	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03836	yes	kept	domains/work/enron-transformation-paper.md
+m03837	yes	kept	people/stephen-bennett.md
+m03838	yes	kept	domains/organization/london-research.md
+m03839	yes	kept	domains/organization/anjam-resignation-oct-2000.md people/melanie-doyle.md
+m03840	yes	kept	domains/organization/london-research.md people/tani-nath.md
+m03841	no	not_durable	quote_only
+m03842	yes	kept	domains/industry/market-outlooks-2000.md people/leann-walton.md
+m03843	yes	kept	domains/industry/market-outlooks-2000.md people/larry-lawyer.md people/leann-walton.md
+m03844	yes	kept	domains/industry/market-outlooks-2000.md people/leann-walton.md
+m03845	yes	kept	domains/industry/market-outlooks-2000.md people/leann-walton.md
+m03846	yes	kept	domains/work/british-pound-analysis.md people/leann-walton.md
+m03847	yes	kept	domains/work/british-pound-analysis.md people/leann-walton.md
+m03848	yes	kept	domains/work/group-papers-2000.md
+m03849	yes	kept	domains/work/group-projects-oct-2000.md
+m03850	no	not_durable	quote_only
+m03851	yes	kept	domains/work/enron-transformation-paper.md
+m03852	no	not_durable	bulk
+m03853	no	not_durable	automated
+m03854	yes	kept	domains/organization/anjam-resignation-oct-2000.md people/melanie-doyle.md
+m03855	yes	kept	domains/organization/anjam-resignation-oct-2000.md
+m03856	yes	kept	domains/work/internal-meetings.md
+m03857	yes	kept	domains/organization/candidate-referrals-2000.md people/gerald-sheble.md
+m03858	yes	kept	domains/organization/candidate-referrals-2000.md people/gerald-sheble.md
+m03859	no	not_durable	logistics
+m03860	yes	kept	domains/work/var-backtesting-2000.md
+m03861	yes	kept	domains/organization/candidate-referrals-2000.md people/gerald-sheble.md
+m03862	yes	kept	domains/organization/anjam-resignation-oct-2000.md
+m03863	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03864	yes	kept	domains/organization/anjam-resignation-oct-2000.md
+m03865	yes	kept	domains/organization/candidate-interviews-oct-2000.md people/jaesoo-lew.md
+m03866	no	not_durable	automated
+m03867	yes	kept	domains/organization/software-licenses.md
+m03868	yes	kept	domains/organization/candidate-interviews-oct-2000.md
+m03869	yes	kept	domains/work/copper-curve-review.md people/tani-nath.md
+m03870	yes	kept	domains/organization/year-end-prc-2000.md
+m03871	no	not_durable	quote_only
+m03872	yes	kept	domains/organization/year-end-prc-2000.md
+m03873	yes	kept	domains/personal/correspondence.md
+m03874	yes	dropped	social: Vasant Shanbhogue family dinner invitation for 2 Dec, accepted
+m03875	yes	kept	domains/organization/year-end-prc-2000.md
+m03876	no	not_durable	logistics
+m03877	yes	kept	domains/work/research-presentations.md
+m03878	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03879	no	not_durable	quote_only
+m03880	yes	kept	domains/organization/anjam-resignation-oct-2000.md people/tara-rozen.md
+m03881	yes	kept	domains/work/internal-meetings.md
+m03882	yes	kept	domains/work/copper-curve-review.md people/tani-nath.md
+m03883	no	not_durable	empty
+m03884	yes	kept	domains/work/enterprise-risk-management.md people/david-port.md
+m03885	yes	kept	domains/work/outside-requests.md people/john-nowlan.md
+m03886	no	not_durable	logistics
+m03887	no	not_durable	bulk
+m03888	yes	kept	domains/organization/summer-interns-2000.md
+m03889	yes	kept	domains/work/uk-inflation-book-ppi.md people/david-port.md people/rodrigo-lamas.md
+m03890	yes	kept	domains/industry/eprm-risk.md
+m03891	yes	kept	domains/work/research-presentations.md
+m03892	no	not_durable	bulk
+m03893	yes	kept	domains/work/fas133-implementation.md people/ron-baker.md
+m03894	no	not_durable	quote_only
+m03895	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03896	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03897	yes	kept	domains/work/copper-curve-review.md people/tani-nath.md
+m03898	yes	kept	domains/work/credit-markets.md
+m03899	yes	kept	domains/organization/year-end-prc-2000.md
+m03900	yes	kept	domains/organization/year-end-prc-2000.md
+m03901	yes	kept	domains/work/copper-curve-review.md
+m03902	yes	kept	domains/work/copper-curve-review.md

@@ -1,0 +1,190 @@
+{
+ "slice": 48,
+ "simulated_today": "2000-10-29",
+ "feed": {
+  "slice": 48,
+  "iso_week": "2000-W43",
+  "first_seq": 3758,
+  "last_seq": 3902,
+  "messages": 145,
+  "durable": 118,
+  "first_date": "2000-10-23 01:48",
+  "last_date": "2000-10-29 23:53",
+  "today": "2000-10-29",
+  "inbox_files": [
+   "2000-10-23--mail.md",
+   "2000-10-24--mail.md",
+   "2000-10-25--mail.md",
+   "2000-10-26--mail.md",
+   "2000-10-27--mail.md",
+   "2000-10-29--mail.md"
+  ],
+  "inbox_chars": 83376,
+  "l2_chars": 375410
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 608,
+ "quota_before": {
+  "five_hour": 28.0,
+  "seven_day": 34.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 30.0,
+  "seven_day": 35.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 48,
+  "messages": 145,
+  "durable": 118,
+  "kept": 117,
+  "kept_rate_excluding_redundant": 0.992,
+  "drop_classes": {
+   "social": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1913,
+  "fact_lines_with_source": 1289,
+  "dated": 1289,
+  "date_matches_source": 1251,
+  "date_mismatch_ids_this_slice": [
+   "m03855",
+   "m03864",
+   "m03889"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 541
+  },
+  "questions": {
+   "files": 1,
+   "chars": 610
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 136,
+   "chars": 227848
+  },
+  "people": {
+   "files": 358,
+   "chars": 243180
+  },
+  "archive_inbox": {
+   "files": 311,
+   "chars": 2347807
+  },
+  "archive_mail": {
+   "files": 3928,
+   "chars": 9547952
+  },
+  "archive_other": {
+   "files": 768,
+   "chars": 713457
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 41,
+   "duration_ms": 606806,
+   "duration_api_ms": 530102,
+   "total_cost_usd": 3.762859599999999,
+   "usage": {
+    "input_tokens": 80,
+    "cache_creation_input_tokens": 179174,
+    "cache_read_input_tokens": 5543038,
+    "output_tokens": 61027,
+    "output_tokens_details": {
+     "thinking_tokens": 26859
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 179174,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 881,
+      "cache_read_input_tokens": 210644,
+      "cache_creation_input_tokens": 321,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 321
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 80,
+     "outputTokens": 61027,
+     "cacheReadInputTokens": 5543038,
+     "cacheCreationInputTokens": 179174,
+     "webSearchRequests": 0,
+     "costUSD": 3.762859599999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 26859,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 179174,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 40,
+   "result_summary": "Week 2000-W43 is consolidated in one commit, `a30f63f`, and not pushed. Both gates passed on the first run with nothing to repair: `lint.py` and `sleep-audit.py`, which checked 92 files with no warnings.\n\nThe week had 145 messages, 118 of them with notes. 117 are now cited in L1. One is listed in `dataset/drops/sleep-048.tsv`: m03874, Vasant Shanbhogue's dinner invitation, classed as social.\n\n- **Main news:**\n  - Anjam Ahmad resigned on 25 Oct. The owner recommends keeping him on the payroll and at home, Leppard drew up a security checklist, and Richard Lewis judges the risk low.\n  - Lewis proposes that London Research report to Tani Nath, with a dotted line to the owner.\n  - Ted Murphy says reviewing the MG copper curve belongs to RAC, and the owner will offer Research's help.\n  - Charles Shen wants the offer now and a start in February. Jaesoo Lew is asking for a quick decision because he has another offer.\n  - The year-end review dates are set: feedback forms by 17 Nov, rankings by 29 Nov, and the Research PRC proposed for 4 Dec.\n- **New topic files:** `anjam-resignation-oct-2000`, `year-end-prc-2000` and `copper-curve-review`.\n- **New people files:** 16 people reached five noted messages this week and each now has an entity file. One is Yaron, Shmuel Oren's son. The mail gives only his first name, so the file is `yaron-oren` with the surname marked (?). No aliases were added to existing entities.\n- **Compression:** older lines from 27 topic files moved to `*-2000-10-w43` archive files. No topic file was above 90% of its ceiling, so the compression quota had nothing to act on.\n- **Indexes and logs:** the indexes, `state.md` and the alias table are updated. The processed logs are in `archive/inbox/`, and this run's log is in `archive/inbox/2000-10-29--mail-2.md`. That is a separate file so the archived inbox log stays unchanged.\n- **Nothing else needed action:** there were no sleep-task or feedback blocks, and no question in `questions.md` was due. The five oldest"
+  },
+  "repair": null
+ }
+}
