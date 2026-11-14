@@ -1,0 +1,200 @@
+{
+ "slice": 99,
+ "simulated_today": "2001-09-23",
+ "feed": {
+  "slice": 99,
+  "iso_week": "2001-W38",
+  "first_seq": 9182,
+  "last_seq": 9204,
+  "messages": 23,
+  "durable": 20,
+  "first_date": "2001-09-17 13:34",
+  "last_date": "2001-09-23 20:39",
+  "today": "2001-09-23",
+  "inbox_files": [
+   "2001-09-17--mail.md",
+   "2001-09-18--mail.md",
+   "2001-09-19--mail.md",
+   "2001-09-20--mail.md",
+   "2001-09-21--mail.md",
+   "2001-09-23--mail.md"
+  ],
+  "inbox_chars": 17967,
+  "l2_chars": 60386
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 455,
+ "quota_before": {
+  "five_hour": 46.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 48.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 99,
+  "messages": 23,
+  "durable": 20,
+  "kept": 20,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3502,
+  "fact_lines_with_source": 2200,
+  "dated": 2200,
+  "date_matches_source": 2147,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 683
+  },
+  "questions": {
+   "files": 1,
+   "chars": 686
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 219,
+   "chars": 383724
+  },
+  "people": {
+   "files": 711,
+   "chars": 461169
+  },
+  "archive_inbox": {
+   "files": 614,
+   "chars": 5486290
+  },
+  "archive_mail": {
+   "files": 9230,
+   "chars": 23723506
+  },
+  "archive_other": {
+   "files": 1824,
+   "chars": 1458902
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 454357,
+   "duration_api_ms": 359175,
+   "total_cost_usd": 2.2734204999999994,
+   "usage": {
+    "input_tokens": 86,
+    "cache_creation_input_tokens": 101751,
+    "cache_read_input_tokens": 3605723,
+    "output_tokens": 36883,
+    "output_tokens_details": {
+     "thinking_tokens": 12570
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 101751,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 795,
+      "cache_read_input_tokens": 119647,
+      "cache_creation_input_tokens": 1043,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1043
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 86,
+     "outputTokens": 36883,
+     "cacheReadInputTokens": 3605723,
+     "cacheCreationInputTokens": 101751,
+     "webSearchRequests": 0,
+     "costUSD": 2.2731565999999996,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12570,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 101751,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I ran the 2001-09-23 consolidation (week 2001-W38) end to end and committed it as one commit, `bba24bda`; both gates passed (`lint.py` green, `sleep-audit.py` green) and I did not push, as the replay instructions say the runner does that. All 20 messages with notes are cited in memory, so `dataset/drops/sleep-099.tsv` is empty; the other 3 messages that week had no notes and need no drop line. The mail went into ten existing topic files: GARP 2002 is going ahead after the attacks but needs a new Manhattan venue and the dates may move, and the owner still owes Simou the workshop agenda and 4-5 bullet points; Ronn formally invited Whalley to keynote the UT conference on 21-22 Feb 2002; the Rice Energy Club wants its roundtable topics trimmed; the University of Houston's Kumar sent the Energy Markets Institute curricula; Paris speaker deadlines were added; the EOL data mining work has a Statement of Work in draft, and the Nelken bid-offer study was put aside for now; the PSIM model gained a new dispatch mode; Sendonaris, Neale and Geman's student were added as candidates; the Toshiba Boltzmann model is under review; and Collonges quoted a consultant at $200/hour. Greg Piper reached his fifth message with notes, so he got a new person file and an alias-table entry, and the Wolak and Krishnarao person files were updated. The \"Remy Collonge\" alias question was past its due date, so I closed it with no change and left the name unlinked, marked (?); the MacMinn question is still open, and I added no new questions. Each topic I touched had its oldest or replaced lines moved word for word into `memory/archive/<domain>/2001/*-2001-09-23.md`. No file was above 90% of its size limit, so the compression quota had nothing to act on. I also refreshed the indexes and `state.md`, moved the processed logs and the run log to `memory/archive/inbox/`, and found no sleep-task or feedback blocks."
+  },
+  "repair": null
+ }
+}
