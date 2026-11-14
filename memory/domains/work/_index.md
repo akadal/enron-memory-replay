@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-11-19
+updated: 2000-11-26
 ---
 # Work — index
 
@@ -10,10 +10,10 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - EnronCredit.com VaR: owner will not sign off without reviewing the vendor algorithms → memory/domains/work/enroncredit-support-2000.md; DRAM trading authority awaits his concurrence → memory/domains/work/dram-trading-authority-2000.md
-- VaR: separate the price process from position changes; Gorny's priorities, IR and FX VaR first; ff vols by power-law fits → memory/domains/work/var-backtesting-2000.md
-- Martin's 'thought document' to edit, draft by Christmas; Fastow, Skilling, Lay Mon 4 Dec → memory/domains/work/enron-transformation-paper.md
-- MarketPoint gas model offered at $55,000 a year, DerivaPrice.com, Pathstar → memory/domains/work/vendor-reviews-nov-2000.md; Mike Barry's basis strips (Issler) → memory/domains/work/desk-analysis-requests.md
-- UT conference: Whalley declined, Louise Kitchen still open → memory/domains/work/ut-austin-ties-2000.md; newsletter 20 Nov features Sharad, owner writes a reserve article → memory/domains/work/research-presentations.md
+- VaR: separate the price process from position changes; IR and FX VaR first; R8 ff-vol smoothing ready for testing → memory/domains/work/var-backtesting-2000.md
+- Martin's 'thought document' to edit; paper sent to FMA-European, Paris May 2001; Fastow, Skilling, Lay Mon 4 Dec → memory/domains/work/enron-transformation-paper.md
+- MarketPoint: owner proposes a $12,000-a-week case study, ETS wants the long-term gas model → memory/domains/work/vendor-reviews-nov-2000.md; Bob Lee's backwardation hedge to review → memory/domains/work/desk-analysis-requests.md
+- UT conference: Louise Kitchen still open → memory/domains/work/ut-austin-ties-2000.md; compound option model for an exotic book → memory/domains/work/group-projects-oct-2000.md; MIT Pro-Seminar with the Weather Desk → memory/domains/work/university-relations.md
 
 ## Files
 

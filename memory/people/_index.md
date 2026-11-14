@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-11-19
+updated: 2000-11-26
 ---
 # People — index
 
@@ -57,7 +57,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Bryan Seyfried
 - Cantekin Dincerler
 - Carla Di Castro (Carla diCastro)
+- Carlos Ordonez
 - Carol Coats
+- Carrie Miller
 - Celeste Roberts
 - Charlene Jackson
 - Charles Shen
@@ -72,6 +74,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Christie Patrick
 - Cindy Derecskey
 - Cindy Justice
+- Claudio Ribeiro
 - Clayton Vernon
 - Cliff Baxter
 - Colleen Sullivan
@@ -105,6 +108,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Douglas Parsons (Douglas S Parsons, Doug Parsons)
 - Duane Seppi
 - Ed Krapels
+- Ed McMichael
 - Edward Kao
 - Ehud Ronn (Ehud I. Ronn)
 - Elena Chilkina
@@ -141,17 +145,20 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Iain Russell
 - Iris Mack
 - Jaesoo Lew
+- James Bouillion
 - James Steffes (James D Steffes, Jim Steffes)
 - Jana Giovannini
 - Jana Phillips (Jana Laird Phillips)
 - Jarek Astramowicz
 - Jason Sokolov
 - Jay Webb
+- Jean Eisel
 - Jean Mrha
 - Jeff McMahon
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
 - Jeffrey Shorter
+- Jennifer Burns
 - Jens Gobel
 - Jere Overdyke (Jere C Overdyke)
 - Jim Dyer (James S. Dyer)
@@ -356,6 +363,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Thomas Knudsen
 - Tim Belden
 - Tim Davies (Timothy Davies)
+- Tim Heizenrader
 - Tim Luehrman
 - Tom Arnold
 - Tom Gros (Thomas Gros)
