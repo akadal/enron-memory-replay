@@ -1,0 +1,16 @@
+id	durable	status	detail
+m09205	yes	kept	domains/industry/events-attending-2001.md
+m09206	yes	kept	domains/industry/events-attending-2001.md
+m09207	yes	kept	domains/industry/sponsorship-requests-2001.md
+m09208	yes	kept	domains/organization/recruiting-candidates.md people/shmuel-oren.md
+m09209	yes	kept	domains/personal/correspondence.md people/craig-chaney.md
+m09210	yes	kept	domains/industry/speaking-engagements-2000.md
+m09211	yes	kept	domains/industry/speaking-engagements-2000.md
+m09212	yes	kept	domains/industry/eprm-risk.md
+m09213	yes	kept	domains/work/forest-products-curves-2001.md people/nelson-neale.md
+m09214	yes	kept	domains/personal/correspondence.md people/kevin-kindall.md
+m09215	no	not_durable	bulk
+m09216	no	not_durable	logistics
+m09217	yes	kept	domains/industry/sponsorship-requests-2001.md people/tom-gros.md
+m09218	yes	kept	domains/work/argentina-modelling.md people/tom-halliburton.md
+m09219	yes	kept	domains/work/marketpoint-gas-model-2001.md people/dale-nesbitt.md people/pinnamaneni-krishnarao.md

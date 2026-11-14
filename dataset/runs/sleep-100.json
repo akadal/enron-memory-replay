@@ -1,0 +1,199 @@
+{
+ "slice": 100,
+ "simulated_today": "2001-09-28",
+ "feed": {
+  "slice": 100,
+  "iso_week": "2001-W39",
+  "first_seq": 9205,
+  "last_seq": 9219,
+  "messages": 15,
+  "durable": 13,
+  "first_date": "2001-09-24 13:18",
+  "last_date": "2001-09-28 16:41",
+  "today": "2001-09-28",
+  "inbox_files": [
+   "2001-09-24--mail.md",
+   "2001-09-25--mail.md",
+   "2001-09-26--mail.md",
+   "2001-09-27--mail.md",
+   "2001-09-28--mail.md"
+  ],
+  "inbox_chars": 13807,
+  "l2_chars": 51236
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 429,
+ "quota_before": {
+  "five_hour": 48.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 50.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 100,
+  "messages": 15,
+  "durable": 13,
+  "kept": 13,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3490,
+  "fact_lines_with_source": 2211,
+  "dated": 2211,
+  "date_matches_source": 2158,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 765
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1200
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 220,
+   "chars": 386799
+  },
+  "people": {
+   "files": 711,
+   "chars": 462186
+  },
+  "archive_inbox": {
+   "files": 620,
+   "chars": 5502210
+  },
+  "archive_mail": {
+   "files": 9245,
+   "chars": 23774742
+  },
+  "archive_other": {
+   "files": 1831,
+   "chars": 1464823
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 31,
+   "duration_ms": 427162,
+   "duration_api_ms": 322091,
+   "total_cost_usd": 1.9318326999999995,
+   "usage": {
+    "input_tokens": 62,
+    "cache_creation_input_tokens": 98145,
+    "cache_read_input_tokens": 2318604,
+    "output_tokens": 34122,
+    "output_tokens_details": {
+     "thinking_tokens": 14153
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 98145,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 840,
+      "cache_read_input_tokens": 116420,
+      "cache_creation_input_tokens": 664,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 664
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 62,
+     "outputTokens": 34122,
+     "cacheReadInputTokens": 2318604,
+     "cacheCreationInputTokens": 98145,
+     "webSearchRequests": 0,
+     "costUSD": 1.9315687999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 14153,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 98145,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 30,
+   "result_summary": "The 2001-09-28 consolidation is committed on `main` as one commit, `fce5ce97`. I didn't push, because the replay instructions say the runner pushes after its own checks. Lint and sleep-audit both passed before the commit and again after the logs were moved. The first audit run failed on four RATCHET findings: four topic files that were already over target grew too much. I fixed that in the one allowed repair by shortening the new lines and summaries and moving more old lines verbatim to the archive. All 13 messages with notes are cited in `memory/domains/` or `memory/people/`, so `dataset/drops/sleep-100.tsv` is empty. The two messages without notes (m09215, m09216) need no line. Where things went: the EPIS conference moving to 12-13 Nov and an invitation from the California Energy Commission went to `events-attending-2001`. The INFOCAST speaker requests and the University of Alabama class visit on 15 Oct went to `speaking-engagements-2000`. The third reminder about the RISK referee report went to `eprm-risk`, and the two MIT requests (the Finance Club speaker and the Sloan conference on 27 Oct) went to `sponsorship-requests-2001`. Armando Ugarte's referral is in `recruiting-candidates`, the Enron Dinner Friends group and Kevin Kindall's visit are in `correspondence`, and Halliburton's case for replacing the Argentina model (ModReg) with SDDP is in `argentina-modelling`. The owner's refusal of a MarketPoint licence, and Nesbitt's offer to sell Enron the company, are in `marketpoint-gas-model-2001`. I opened one new topic, `work/forest-products-curves-2001`, and refreshed the indexes and `state.md`. No new person reached five messages, so no new entity file; I added lines to eight existing ones. I added one new question to `questions.md`: the Alabama \"Bob Brooks\" matches an alias on the RBAC `robert-brooks.md`, but he is clearly a different person, so he stays unlinked until the owner answers. No question was due for a status-quo close, the inbox had no sleep-task or"
+  },
+  "repair": null
+ }
+}
