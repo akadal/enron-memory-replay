@@ -3,16 +3,17 @@ id: hr-matters-2001
 type: topic
 domain: organization
 title: "HR matters: owner's contract and visas, 2001"
-summary: "HR in 2001: Gwyn Koepke made manager from 1 Mar; Maureen Raymond must find a sponsor or leave; Country Risk shortlist of 3 from SAIS (2 May); Krishna's in-laws' visas refused, owner asks Wade Cline and writes to Chennai (11 May 2001); Maureen's illness and older items archived."
+summary: "HR in 2001: Krishna's in-laws' visas refused, Wade Cline tries the Mumbai consulate (15 May 2001); Iris Mack's SFA registration on file; Sara Woody (Roberts) and Elena Chilkina titles, Elena stays admin coordinator until she becomes an associate (16 May 2001); Koepke's promotion, Maureen's sponsor and older items archived."
 status: active
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # HR matters: owner's contract and visas, 2001
 
-Detail ←[[hr-matters-2001-2001-04-w14]] ←[[hr-matters-2001-2001-04-w15]] ←[[hr-matters-2001-2001-04-w17]] ←[[hr-matters-2001-2001-04-w17b]] ←[[hr-matters-2001-2001-05-w18]] ←[[hr-matters-2001-2001-05-06]] ←[[hr-matters-2001-2001-05-13]]
+Detail ←[[hr-matters-2001-2001-04-w14]] ←[[hr-matters-2001-2001-04-w15]] ←[[hr-matters-2001-2001-04-w17]] ←[[hr-matters-2001-2001-04-w17b]] ←[[hr-matters-2001-2001-05-w18]] ←[[hr-matters-2001-2001-05-06]] ←[[hr-matters-2001-2001-05-13]] ←[[hr-matters-2001-2001-05-18]]
 
 Staff moves and pay: memory/domains/organization/staff-and-recruiting.md.
 
-- [2001-05-02] Owner to Labbe: "I think we should go ahead and adjust Gwen to manager, effective March 1." (base plus 10K, the standard associate-to-manager step; the delay was his and Maureen's procrastination; Labbe wants her in the right PRC peer group). Gary Hickerson, Maureen's main client, "communicated to me  a few weeks ago that he is unwilling to underwrite Maureen's position" and offers a generous severance from his budget: "This means that Maureen will have to find another sponsor or leave Enron."; the owner thinks her abrasive style makes that hard; Labbe to meet him next week. ←[[m07528]]
-- [2001-05-02] Owner to Gwyn Koepke: "Try to reduce the number of potential candidates to 3, before I shall get involved."; "Also, I contacted HR regarding your promotion. The process has started."; Labbe meets the owner Fri 4 May at 3, later on his PRC expectations. ←[[m07537]] ←[[m07580]] ←[[m07588]] ←[[m07591]] ←[[m07536]] ←[[m07579]]
 - [2001-05-11] Krishna's in-laws, coming for his wife's difficult pregnancy, were refused tourist visas (alleged overstay despite an extension); owner asks Wade Cline to intervene: "I would prefer, however, to try informal channels first to avoid confrontational approach."; letter to the Chennai consulate: "I have already sent the letter." ←[[m07843]] ←[[m07845]]
+- [2001-05-15] Wade Cline will try Krishna's in-laws' case through contacts at the Mumbai consulate (Chennai mostly refuses, reversals are rare); owner: "Thanks for your help. Krishna advised me of the conversation he had with you."; Kohli thanked Cline too. ←[[m07872]] ←[[m07864]]
+- [2001-05-15] Iris Mack is SFA-registered as SFDR (licences moved from BNP Paribas; no commodity derivatives); owner: "Anne, please, include this info in Iris'  file" ←[[m07870]]
+- [2001-05-16] Labbe would move Sara Woody (Rice MBA, Mike Roberts' hire) and Elena Chilkina from admin coordinator to specialist (33-66K); on Elena: "For the time being it's fine. She will soon become an associate." ←[[m07873]] ←[[m07894]]

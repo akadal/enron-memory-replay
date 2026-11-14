@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Work — index
 
@@ -9,12 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Port's dinner bet on power Convolution VaR by summer; jump code to IT; Kitchen wants gas/power correlations in VaR now → memory/domains/work/var-credit-system-2001.md
-- Raptor: AA wants the methodology of the 18-million-share contingent issuance (11 May) → memory/domains/work/talon-raptor.md
-- Credit: Iris's Enron Strategic Plan draft for Duffie; Moody's/FAMAS scoring → memory/domains/work/private-firm-credit-model-2001.md; Kalotay's S&P Credit Indices call with Seyfried, DRI-WEFA ag data → memory/domains/work/vendor-offers-2001.md
-- Dabhol: Lay's veto, arrangers in London mid-May, McDonald may need Kohli → memory/domains/work/dabhol-power-sale.md; Henwood's draft report resent → memory/domains/work/india-power-study-henwood.md
-- Outside: Thorne awaits a proposal, Prediction Company; Limperis to come back → memory/domains/work/outside-requests-2001.md; calendar after the Outlook migration → memory/domains/work/internal-meetings-2001.md
-- Group: Lu's HJM for propane → memory/domains/work/monte-carlo-library.md; bid-offer literature → memory/domains/work/eol-trading-algorithms-2001.md; Osler column (7 May) → memory/domains/work/owner-publications.md
+- VaR: owner's 'Var Issues' memo (market inputs, no one owns calibration); Project X correlations meeting next week; Tamarchenko on Winton's paper → memory/domains/work/var-credit-system-2001.md; London reports RiskTrac UK Power VaR, $25m → memory/domains/work/risktrac-europe-var.md
+- Raptor: AA wants the contingent-issuance methodology; Bharati's Note to AA drafts 16-17 May → memory/domains/work/talon-raptor.md
+- Credit: Iris's London report, Albanis's own public model ('tensions in EC'), LPC's $75K models → memory/domains/work/private-firm-credit-model-2001.md; Brazil curves, RAC E-ratings → memory/domains/work/country-risk-curves.md
+- Dabhol: Lay's veto, arrangers in London → memory/domains/work/dabhol-power-sale.md; Henwood report resent as PDF → memory/domains/work/india-power-study-henwood.md
+- Outside: ICAST proof-of-concept ~$150K per problem, Prediction Company's Finnoff → memory/domains/work/outside-requests-2001.md; EWRM scope to Schultz → memory/domains/work/enterprise-risk-management.md; EGM staff meeting 29 May → memory/domains/work/internal-meetings-2001.md
 
 ## Files
 

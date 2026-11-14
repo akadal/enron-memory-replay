@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-05-13 (end of week 2001-W19). Mail migrated to Outlook, calendar re-entered 8 May; mid-year PRC under way (feedback to 25 May); Krishna's in-laws' visas refused, owner working informal channels; AA wants the Raptor methodology.
+As of 2001-05-18 (end of week 2001-W20). Mid-year PRC: PEP closes 25 May; owner's 'Var Issues' memo and Project X correlation work under way; Iris's London report shows tensions in Enron Credit; Wade Cline tries Mumbai for Krishna's in-laws.
 
-- Coming: EPRM 14-15 May; PIRA 14/16 May; Kulatilaka 17 May; Berkeley e-commerce 22 May; Rutgers 23 May; Jinbaek Kim starts 30 May; PRCs 4-29 Jun; Wharton Risk Center 14 Jun → memory/domains/industry/_index.md
-- Owed: SIAM slides to Ryan, Liao, Kloucek; EPIS topic; proposal to Larry Thorne; Tony Hamilton's PRC call with Roberts; Kalotay call → memory/domains/work/_index.md
+- Coming: Berkeley e-commerce 22 May; CRRI at Tamiment 23-24 May; EGM staff meeting Tue 29 May; Jinbaek Kim starts and Rice breakfast 30 May; PRCs 4-29 Jun; Wharton Risk Center 14 Jun; Baylor EMBA 27 Jul → memory/domains/industry/_index.md
+- Owed: SIAM slides; EPIS topic; Thome's papers; Note to AA comments; Project X meeting; Limperis/ICAST answer → memory/domains/work/_index.md

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # People — index
 
@@ -36,6 +36,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andrew Miles
 - Andrzej Lubowski
 - Andrzej Wodnicki
+- Andy Zipper
 - Angela Dorsey
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
@@ -441,6 +442,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Nurit Krausz
 - Oliver Bennett
 - Oliver Gaylard
+- Olivier Herbelot
 - Omar Bassal (Omar Bassel)
 - Orlando Taylor
 - Osman Sezgen

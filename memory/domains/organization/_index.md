@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: mid-year 2001, PEP feedback to 25 May, PRCs 4-29 Jun, ratings 1-5 → memory/domains/organization/officer-performance-review.md; Tony Hamilton's PRC, Roberts asked → memory/domains/organization/tony-hamilton-london-2001.md
-- HR: Krishna's in-laws' visas refused, Wade Cline asked, letter to Chennai; Maureen Raymond must find a sponsor or leave → memory/domains/organization/hr-matters-2001.md
-- Candidates: London resume to Perlman and Stock, Vikas Saksena, Gukhal declined → memory/domains/organization/recruiting-candidates.md; interns: Jinbaek Kim 30 May, Pravas Sud via Lemmons → memory/domains/organization/summer-interns-2001.md
-- Company: iBuyit set-up, owner sole approver → memory/domains/organization/corporate-announcements-2001.md; mail after the Outlook migration → memory/domains/organization/office-equipment.md; org charts to HR → memory/domains/organization/research-group-2001.md
+- PRC: mid-year, PEP closes 25 May, at least 5 reviewers; owner reviews Leppard and Naveen → memory/domains/organization/officer-performance-review.md; Tony Hamilton's PRC → memory/domains/organization/tony-hamilton-london-2001.md
+- HR: Wade Cline tries Mumbai for Krishna's in-laws; Iris's SFA registration; Elena Chilkina's title → memory/domains/organization/hr-matters-2001.md; Koepke's CFA, 2 Jun → memory/domains/organization/leave-and-training.md
+- Candidates: Torpong Cheevaprawatdomrong, Aysu Bilgin, Gukhal → memory/domains/organization/recruiting-candidates.md; John Cote's EGM move → memory/domains/organization/staff-and-recruiting.md; interns Jinbaek Kim 30 May, Frantzeskakis → memory/domains/organization/summer-interns-2001.md
+- Company: iBuyit → memory/domains/organization/corporate-announcements-2001.md; mail fixed by Lisa Skully → memory/domains/organization/office-equipment.md; FEA @ENERGY 2.1 → memory/domains/organization/software-licenses.md
 
 ## Files
 

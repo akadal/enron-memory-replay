@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Owner's roles: EPIS conference, Skamania Lodge, accepted; Kloucek's Rice seminar; SIAM slides owed to Ryan, Liao, Kloucek → memory/domains/industry/speaking-engagements-2000.md; EPRM Houston 14-15 May → memory/domains/industry/eprm-risk.md
-- Declined: marcus evans course, IIR CFMA conference (Sep) → memory/domains/industry/declined-invitations-2000.md
-- Attending: PIRA 14 and 16 May; Berkeley e-commerce 22 May offered to Whalley and Kitchen → memory/domains/industry/events-attending-2001.md
-- Wharton: Risk Center advisory 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
-- California: bond bill short of two-thirds, SoCal bankruptcy risk → memory/domains/industry/california-power-jan-2001.md; Brooks met Krishna → memory/domains/industry/gpcm-rbac.md
+- Owner's roles: EPIS topic owed to Barney; SIAM slides owed (Padilla too); Tamiment 23-24 May; Baylor EMBA 27 Jul; Bachelier plenary, Crete 2002, unanswered → memory/domains/industry/speaking-engagements-2000.md
+- Declined: IIR CFMA conference (another speaker asked), IQPC real options, Oct → memory/domains/industry/declined-invitations-2000.md
+- Attending: PIRA; Berkeley e-commerce 22 May → memory/domains/industry/events-attending-2001.md; Rice breakfast 30 May → memory/domains/industry/rice-university.md
+- Wharton: Risk Center advisory 14 Jun → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
+- California: Thome's briefing pack, other parties' papers owed → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
