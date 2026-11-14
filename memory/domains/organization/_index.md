@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-12-10
+updated: 2000-12-17
 ---
 # Organization — index
 
@@ -9,11 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: Research PRC Fri 8 Dec; EWS PRC Mon 11 Dec, St. Regis → memory/domains/organization/year-end-prc-2000.md
-- Iris Mack 8 Dec, Knirel owed, Cooper → memory/domains/organization/candidate-interviews-dec-2000.md; Shen's stub → memory/domains/organization/candidate-interviews-nov-2000.md
-- Lookman internship → memory/domains/organization/recruiting-candidates.md; resume to Kitchen → memory/domains/organization/candidate-referrals-2000.md
-- Kristal to EIM, Sokolov from 29 Dec → memory/domains/organization/staff-and-recruiting.md; Bennett's promotion → memory/domains/organization/promotions-2000.md
-- ETS allocation → memory/domains/organization/research-accounting-2000.md; baskets, open house 19 Dec → memory/domains/organization/group-events-2000.md
+- Masson's return, same level and comp; offer letter (Walton) → memory/domains/organization/grant-masson-rehire-dec-2000.md
+- Iris Mack offer answer, Knirel owed → memory/domains/organization/candidate-interviews-dec-2000.md; Delainey wants 2000 accomplishments → memory/domains/organization/year-end-prc-2000.md
+- Skilling CEO from 12 Feb 2001 → memory/domains/organization/corporate-announcements-2000.md
+- Open house and party 19 Dec → memory/domains/organization/group-events-2000.md; Kristal from 2 Jan → memory/domains/organization/staff-and-recruiting.md
 
 ## Files
 
@@ -28,7 +27,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-referrals-2000.md — referrals (Yan, Kitchen)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM (Jul), EWS (Nov 2000)
-- memory/domains/organization/group-events-2000.md — lunches, open house, baskets
+- memory/domains/organization/grant-masson-rehire-dec-2000.md — Grant Masson's return from El Paso, Dec 2000
+- memory/domains/organization/group-events-2000.md — open house, party, baskets
 - memory/domains/organization/leave-and-training.md — leave, courses, December leave
 - memory/domains/organization/legal-matters.md — Cuneo case (Jan 2000)
 - memory/domains/organization/london-research.md — London Research: Leppard, Sharad, expansion
@@ -43,6 +43,6 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/research-group.md — members, titles, staff meeting, re-org idea
 - memory/domains/organization/research-offsite-2000.md — Breckenridge, Aug 2000
 - memory/domains/organization/software-licenses.md — licences (Power World, d-g ENERGY)
-- memory/domains/organization/staff-and-recruiting.md — moves and hires (Sokolov, Kristal)
+- memory/domains/organization/staff-and-recruiting.md — moves (Sokolov, Kristal, Aimone)
 - memory/domains/organization/summer-interns-2000.md — 2000 interns
 - memory/domains/organization/year-end-prc-2000.md — year-end 2000 PEP and PRC

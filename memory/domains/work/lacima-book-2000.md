@@ -3,16 +3,15 @@ id: lacima-book-2000
 type: topic
 domain: work
 title: "Lacima book chapter and EPRM article series (2000)"
-summary: "Lacima book (Strickland, Clewlow) chapter 3 with Masson: owner cleared chapter 3, bios and ads 19 Oct; book out about 21 Nov 2000, Enron's AUS 10,000 share as two AUS 5K invoices; EPRM simulation article to review (Dec 2000); earlier articles archived."
+summary: "Lacima book (Strickland, Clewlow): owner cleared chapter 3 (Oct 2000), Enron's AUS 10,000 share split with Enron Australia; open invoices and the AUD 5,000 check, two staff on the Feb-Mar 2001 courses, 50 copies, Rice textbook; EPRM simulation article reviewed (Dec 2000); earlier items archived."
 status: active
-updated: 2000-12-10
+updated: 2000-12-17
 ---
 # Lacima book chapter and EPRM article series (2000)
 
-Detail ←[[lacima-book-2000-2000-07-w28]] … (one archive file per week) ←[[lacima-book-2000-2000-10-w41]] ←[[lacima-book-2000-2000-10-w42]] ←[[lacima-book-2000-2000-11-w44]] ←[[lacima-book-2000-2000-12-w49]]
+Detail ←[[lacima-book-2000-2000-07-w28]] … (one archive file per week) ←[[lacima-book-2000-2000-10-w41]] ←[[lacima-book-2000-2000-10-w42]] ←[[lacima-book-2000-2000-11-w44]] ←[[lacima-book-2000-2000-12-w49]] ←[[lacima-book-2000-2000-12-w50]]
 
 Other publications: memory/domains/work/owner-publications.md. Sydney dinner at Strickland's: memory/domains/industry/eprm-risk.md. "Julie" of Lacima (signs "Julie Brennan") has no entity file (?): the approval question lapsed unanswered on 2000-09-05, status quo kept. ←[[m02863]]
-
-- [2000-10-19] Printing waits only on Enron's edits (Julie to Fiona Grant, EEL PR: cover, bios, chapter 3, flyer). Owner to Fiona: "We approved Chapter 3 for publication.", "My current affiliation is Enron N.A.", on Grant's bio "I don't think we should update the bio and advertise his new employer.", "Ad material is fine." ←[[m03678]] ←[[m03695]] ←[[m03733]] ←[[m03736]]
-- [2000-10-30] Book about to be released; owner (his home mail bounced, re-sent from Enron): "I would like to start the process to issue the check to Lacima", "We had an agreement with Chris and Les to contribute AUS 10,000 as a part of the cost." Julie: one AUS 5K invoice went to Habiba in Sep (now handled by Fiona Grant, London), a second AUS 5K follows; a free copy to his Houston office about 21 Nov. 1 Nov owner: "Yes, this is how we split this expense internally.", "Please, send it to me." ←[[m03903]] ←[[m03929]] ←[[m03937]] ←[[m03950]] ←[[m03958]]
-- [2000-12-07] Strickland sends the next EPRM article (simulation, EPRM_04_sim_mr.zip) to review; the owner moves it between AOL and Enron (7-10 Dec); on 8 Sep he had told Les: "The revised version of the VaR article looks fine." ←[[m04680]] ←[[m04706]]
+- [2000-12-12] Lacima (Julie) chases two invoices: Mar 2000 No. 000166, USD 4,900 (to accounting 28 Mar; Crenshaw checking) and Sep No. 000202, AUD 5,000 (accounting can't pay foreign currency; sent to Treasury); the remaining AUD 5,000 is billed to Paul Quilkey, Enron Australia (Level 21, 9 Castlereagh St, Sydney; the split was agreed). Owner: "I have started the process to issue a check for 5,000 AUD for Lacima." ←[[m04735]] ←[[m04737]] ←[[m04753]]
+- [2000-12-12] Courses by Clewlow and Strickland (Houston, London; Feb-Mar 2001): "I would like to register 2 members of my group for both courses (in Houston)" (Paulo Issler, Alex Huang; the owner the weather course only); "The book  will be used as textbook for the class I shall be teaching at Rice."; "I would like to order 50 copies for my group." (in US dollars?). ←[[m04753]] ←[[m04765]]
+- [2000-12-12] EPRM simulation article (EPRM_04_sim_mr; Robin chasing): "It probably makes sense to include a note on the standard GBM simulation equation and" its discretisation, and explain CT "(perhaps a footnote)"; Strickland folds the comments in 13 Dec. On 8 Sep: "The revised version  of the VaR article looks fine." ←[[m04771]] ←[[m04793]] ←[[m04795]]

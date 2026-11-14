@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-12-10
+updated: 2000-12-17
 ---
 # People — index
 
@@ -129,8 +129,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Frank Wolak
 - Fred Lagrasta
 - Gabriel Bitran
+- Ganapathy Ramesh
 - Gary Hickerson
 - Gary Taylor
+- George Carrick
 - George Hopley
 - George McClellan
 - George Posey
@@ -146,6 +148,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Harry Arora
 - Hector Campos
 - Helyette Geman
+- Howard Kunreuther
 - Hunter Shively (Hunter S Shively)
 - Iain Russell
 - Iris Mack
@@ -166,6 +169,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jennifer Burns
 - Jens Gobel
 - Jere Overdyke (Jere C Overdyke)
+- Jeremy Blachman
 - Jim Dyer (James S. Dyer)
 - Jim Fallon
 - Jim Garven (James R. Garven)
@@ -206,6 +210,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Katja Schilling
 - Kay Chapman
 - Keith Baggerly
+- Keith Weigelt
 - Ken Lay
 - Ken Rice
 - Kenneth Parkhill
@@ -222,6 +227,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lane Hughston
 - Lara Berry
 - Larry Lawyer
+- Larry Pinsky
 - Laura Luce
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Leann Walton
@@ -280,6 +286,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Norma Villarreal
 - Nurit Krausz
 - Oliver Bennett
+- Oliver Gaylard
 - Osman Sezgen
 - Paige Grumulaitis
 - Patrycja Dalecka (Patricia Dalecka)
@@ -290,6 +297,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paul Racicot
 - Paul Rowady
 - Paula Corey
+- Paulett Smith
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
 - Pavel Zadorozhny
@@ -341,6 +349,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Scott Wakefield
 - Scott Yeager
 - Sean Grady
+- Seksan Kiatsupaibul
 - Sevil Yaman
 - Shalesh Ganjoo
 - Shan Millie
@@ -355,6 +364,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shijie Deng (Shi-Jie Deng)
 - Shirley Crenshaw
 - Shmuel Oren
+- Sofya Tamarchenko
 - Soma Ghosh
 - Sophie Kingsley
 - Soussan Faiz
@@ -380,6 +390,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tim Davies (Timothy Davies)
 - Tim Heizenrader
 - Tim Luehrman
+- Todd Kimberlain
 - Tom Arnold
 - Tom Gros (Thomas Gros)
 - Tom Halliburton

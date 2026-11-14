@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-12-10
+updated: 2000-12-17
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Martin's first-pass interview notes to review (7 Dec); FMA-European, Paris, May 2001 → memory/domains/work/enron-transformation-paper.md
-- Lu's WTI market-maker deck with Lavorato; Reedy Creek compound option → memory/domains/work/group-projects-oct-2000.md
-- UK VaR on three factors, RisktRac stage run; ff vol smoothing; non-normal VaR proposal → memory/domains/work/var-backtesting-2000.md
-- 'Beyond OLS' seminar Tue 19 Dec 3:30, Lasdon brown bag 19 Jan → memory/domains/work/research-presentations.md; Breakthrough Thu 14 Dec → memory/domains/work/internal-meetings.md
-- MarketPoint test project → memory/domains/work/vendor-reviews-nov-2000.md; AA's Koch-deal revaluation → memory/domains/work/model-risk-audit.md
+- Lu's WTI trading simulation finished, Lavorato to present it to Greg (15 Dec) → memory/domains/work/group-projects-oct-2000.md
+- UK VaR into RisktRac, reconciliation with the spreadsheet → memory/domains/work/var-backtesting-2000.md; default rates vs S&P → memory/domains/work/credit-markets.md
+- 'Beyond OLS' Tue 19 Dec 3:30, EB30C1 → memory/domains/work/research-presentations.md; Breakthrough checkpoint Tue 19 Dec 2-4 → memory/domains/work/internal-meetings.md
+- Kohli's DPC workout memo, in the office Mon 18 Dec → memory/domains/work/dabhol-power-sale.md
+- Lacima: AUD 5,000 check, 50 books, courses → memory/domains/work/lacima-book-2000.md; MarketPoint test → memory/domains/work/vendor-reviews-nov-2000.md
 
 ## Files
 
