@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-04-08
+updated: 2001-04-11
 ---
 # Personal — index
 
@@ -10,13 +10,13 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Wife stays with the son in California till June; son graduates this spring → memory/domains/personal/household.md
-- Marek's resume to Eydeland, dinner 14 May; Kohli's dinner invitation → memory/domains/personal/correspondence.md
+- Dinner at Mike Fowler's Fri 27 Apr; Marek's resume to Eydeland, dinner 14 May; Kohli's invitation → memory/domains/personal/correspondence.md
 - Walkup (ML): taxable money in, IRA pending; Bigalow's picks: MOT and LU bought 19 Mar → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (Kierlanczyk, Paula Corey, WNT; older ones archived)
+- memory/domains/personal/correspondence.md — private contacts (Kohli, Fowler, Eydeland; Paula Corey, Kierlanczyk, WNT archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/investments-2000.md — brokers list (Dec 2000), Merrill Lynch (Walkup), option exercise, restricted stock deferral, PaineWebber (Haviland)

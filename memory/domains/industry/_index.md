@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-08
+updated: 2001-04-11
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice NFCF 4-5 May: owner at the dinner and Saturday, alone; Rice students' project meets Dan Diamond → memory/domains/industry/rice-university.md
-- Texas Finance Festival luncheon Sat 21 Apr, NESA 18 Apr, NewPower lunch 11 Apr; PSERC board advised against → memory/domains/industry/events-attending-2000.md; Rutgers dinner talk 23 May → memory/domains/industry/speaking-engagements-2000.md
-- Stanford: retail power conference 21-22 Jun; Engineering's Hansen visits 4 May → memory/domains/industry/sponsorship-requests-2001.md
-- Kulatilaka (BU) to the Thursday lunch, 3/4 May → memory/domains/industry/visitors-2001.md; Risk Waters course bullets → memory/domains/industry/eprm-risk.md
-- Wharton: ET event 20 Apr → memory/domains/industry/research-memberships-2000.md; Phase III judge, Team 3 → memory/domains/industry/wharton-projects-feb-2001.md
+- Rice ALP presentation Mon 7 May, 4 pm, EB49C1; Gillis and Whitaker come → memory/domains/industry/rice-alp-presentation-may-2001.md; NFCF 4-5 May, Fastow still to persuade → memory/domains/industry/rice-university.md
+- Texas Finance Festival 21 Apr, NESA 18 Apr → memory/domains/industry/events-attending-2000.md; SIAM at UH 27 Apr, Rutgers 23 May, PoweRisk Paris 6-9 Nov → memory/domains/industry/speaking-engagements-2000.md
+- Stanford: Hansen visits Fri 4 May, 1:30; EMF retail conference 21-22 Jun; payment via a donation letter → memory/domains/industry/sponsorship-requests-2001.md
+- Risk Waters course bullets sent, Power 2001 → memory/domains/industry/eprm-risk.md; Kulatilaka 3/4 May → memory/domains/industry/visitors-2001.md
+- Wharton: Tiger wrap-up, Kunreuther awaits an answer → memory/domains/industry/wharton-projects-feb-2001.md; ET event 20 Apr declined → memory/domains/industry/research-memberships-2000.md
 
 ## Files
 
@@ -45,3 +45,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/wharton-projects-feb-2001.md — Wharton FAP projects (Teams 1, 3) and the 20 Feb 2001 trip
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
+- memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001

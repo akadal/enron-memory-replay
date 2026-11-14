@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-08
+updated: 2001-04-11
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: owner's Newsletter article blames convertible arbitrage for the CDS-asset swap gap, Duffie finds the 2 notes useful → memory/domains/work/credit-markets.md; Duffie audit docs (Parsons, Iris Mack) → memory/domains/work/model-risk-audit.md; private-firm model software → memory/domains/work/enroncredit-support-2000.md
-- Sydney wind farm option: book as a call swaption → memory/domains/work/wind-farm-real-option-2001.md; Jedi Shares restriction discount (Siurek) → memory/domains/work/jedi-shares-2001.md; Raptor review with Port → memory/domains/work/talon-raptor.md
-- Outside: Darden to go through Palmer for Ken Lay; Larry Thorne 4 May, NDA to a lawyer; Murphy and McCormack still owed → memory/domains/work/outside-requests-2001.md
-- Port's position report (stock vol, Korea and Brazil CTA) → memory/domains/work/enterprise-risk-management.md; GMM defended to Shankman → memory/domains/work/country-risk-curves.md
-- Vendors: Argonne, NumeriX call 9 Apr, Comdata → memory/domains/work/vendor-offers-2001.md; EBS: Amit's bandwidth thesis, StyleLogic to Martin Lin → memory/domains/work/ebs-research-requests-2001.md
+- VaR: curve mapping forced by system limits, top positions as core curves, Research gives one person to police it, Port plans a VaR overhaul → memory/domains/work/var-credit-system-2001.md
+- Weather: internal model to go live, Werner to Houston in May (Quilkey reopens it), Bennett in London → memory/domains/work/weather-research-2001.md
+- CHARM judged a prototype → memory/domains/work/enterprise-risk-management.md; Rick Jones on the EES credit reserve model → memory/domains/work/ees-risk-reviews-jan-2001.md; outage model adds price-outage correlation → memory/domains/work/outage-risk-option-2001.md
+- Vendors: NumeriX docs, AURORA prices, WEFA lunch 1 May → memory/domains/work/vendor-offers-2001.md; MarketPoint to McCarty's Alaskan team → memory/domains/work/marketpoint-gas-model-2001.md
+- Outside: Thorne 4 May; Murphy and McCormack still owed; Geman's banker at Power 2001 → memory/domains/work/outside-requests-2001.md; Raptor valuation for AA → memory/domains/work/talon-raptor.md
 
 ## Files
 
@@ -38,6 +38,6 @@ Path: memory/domains/work/<name>.md
 - hanover-costless-collar-jan-2001 · ees-risk-reviews-jan-2001 · var-credit-system-2001 · transmission-modelling-2001 · valuation-signoff-2001
 - p-plus-spread-options-2001 · hsb-reinsurance-model-2001 · warsaw-mba-theses-2001 · insurance-portfolio-risk-2001
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
-- wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001
+- wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
 
 Closed: 1

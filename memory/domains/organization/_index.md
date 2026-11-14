@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-08
+updated: 2001-04-11
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Neves via Szablya (meets the owner 13 Apr), Focus batch (Ashktorab, Ranjan, Vasudevan), Bhala 28 May → memory/domains/organization/candidate-interviews-apr-2001.md
-- London: Tony Hamilton starts 9 Apr, costs to Global Markets; macroeconomist hire, Maureen back → memory/domains/organization/tony-hamilton-london-2001.md; Jagdeo's PhD, Iris's SFA → memory/domains/organization/london-research.md
-- Group: Campos leaves 13 Apr; Astros 20/27 Apr; Trash Bash → memory/domains/organization/research-group-2001.md
-- Software: SPSS for Iris (reluctantly), free LaTeX → memory/domains/organization/software-licenses.md; Telerate for Sokolov only, Platts → memory/domains/organization/office-equipment.md
-- Expense reports await Whalley; loan documents (Magee) → memory/domains/organization/hr-matters-2001.md
+- Candidates: Szablya 13 Apr (Neves), Rayfael Roman 19 Apr, Ningxiong Xu, SAIS economists for Maureen, Bhala 28 May → memory/domains/organization/candidate-interviews-apr-2001.md
+- HR: Anne Labbe replaces Norma Villarreal; Sevil's project bonus, check 16 Apr → memory/domains/organization/hr-matters-2001.md
+- London: Tony Hamilton started 9 Apr, Maureen back later in April → memory/domains/organization/tony-hamilton-london-2001.md; Danilov's E-credit, Jagdeo's PhD → memory/domains/organization/london-research.md
+- Group: Campos leaves 13 Apr; Astros 20/27 Apr; volleyball outing (Barkley) → memory/domains/organization/research-group-2001.md
+- Telerate cancelled bar Sokolov, refund likely; Platts → memory/domains/organization/office-equipment.md
 
 ## Files
 
