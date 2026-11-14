@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Reorganization: the owner's Research reorg meeting Fri 15 Jun after Gibner's exit; Lu's proposal → memory/domains/organization/research-group.md
-- PRC: Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md; Raymond disputes the owner's comments → memory/domains/work/ken-lay-speech-tax-cut.md
-- Hiring decisions postponed to late Aug-early Sep (new-building space, move date), Joao Neves then; Paleologo's offer unsigned → memory/domains/organization/recruiting-candidates.md; University of Alberta Energy MBA offer recommended to Billy Lemmons → memory/domains/organization/summer-interns-2001.md
-- Compliance: protest procedures sent to the owner's direct reports; PG&E ethical-wall certification; NYMEX accounts by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
-- Farewells and events: Lou Casari's farewell Wed 20 Jun at Ninfa's; Star Wars Event → memory/domains/organization/group-events-2000.md
+- Group: marketing to structuring desks via Kohli, Toastmasters club, Rice professor Debra → memory/domains/organization/research-group-2001.md; O:\Research access review → memory/domains/organization/office-equipment.md
+- Hiring postponed to late Aug-early Sep (space), Schoenemann's resume to Molly Magee → memory/domains/organization/recruiting-candidates.md; interns' dinner Mon 2 Jul, Mattoo → memory/domains/organization/summer-interns-2001.md
+- PRC: Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md; Krishna's in-laws' visas, Cline → memory/domains/organization/hr-matters-2001.md
+- Systems: new expense report system from early July, SAP number; protest procedures → memory/domains/organization/corporate-announcements-2001.md; Raymond away 23-27 Jul → memory/domains/organization/leave-and-training.md
+- Reorganization after Gibner's exit; Lu's proposal → memory/domains/organization/research-group.md
 
 ## Files
 

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Risk policy: Schultz's draft one-RAC Risk Management Policy, comments by end of week, executive rounds from late June → memory/domains/work/enterprise-risk-management.md
-- Credit: Iris's econometric methods for the private firm problem, Frantzeskakis to write them up → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Parsons's CDS placement models → memory/domains/work/credit-markets.md; 'Convolution VAR' paper to review → memory/domains/work/var-credit-system-2001.md
-- Vendors: Henwood's Market Stack talk early July → memory/domains/work/vendor-offers-2001.md; Krishna meets Nesbitt on NARG Fri 22 Jun → memory/domains/work/marketpoint-gas-model-2001.md; Prediction Company (Packard) 30 Jul, 9 am → memory/domains/work/outside-requests-2001.md
-- Bid-ask and storage: Bob Lee's market-maker series → memory/domains/work/eol-trading-algorithms-2001.md; Lu's storage product with Halliburton → memory/domains/work/storage-model.md; Port's factor loadings → memory/domains/work/project-x-var-2001.md
-- Desk work: UBS deal structure with Marilyn Baker → memory/domains/work/desk-analysis-requests.md; P+ hedging meeting Thu 21 Jun (owner away) → memory/domains/work/p-plus-spread-options-2001.md; Parkhill's implied-pdf paper, Lu reviews for Tech Corner → memory/domains/work/research-presentations.md; Adam starts 25 Jun → memory/domains/work/weather-research-2001.md
+- Risk policy: Schultz's draft one-RAC Risk Management Policy, executive rounds from late June → memory/domains/work/enterprise-risk-management.md
+- Credit: Dhar's report for Duffie, Duffie's expert report, owner looks at CreditDesk.com in London → memory/domains/work/credit-markets.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Andrews's convolution note, 'Convolution VAR' paper → memory/domains/work/var-credit-system-2001.md
+- Vendors: Algorithmics meeting rescheduled off 5-6 Jul, Options Technology breakfast Tue 7:00 → memory/domains/work/vendor-offers-2001.md; Reval call Mon 2 Jul, Prediction Company 30 Jul → memory/domains/work/outside-requests-2001.md
+- Bid-ask: Bob Lee's market-maker sessions to 27 Jul, Bharati's liquidity note → memory/domains/work/eol-trading-algorithms-2001.md; June country curves for the August revaluation → memory/domains/work/country-risk-curves.md
+- Transmission Round Table project (Gordon, Coffer), Krapels → memory/domains/work/transmission-modelling-2001.md; Dabhol PPA termination at 90% → memory/domains/work/dabhol-power-sale.md; EES VP on California, Corneiro → memory/domains/work/internal-meetings-2001.md
 
 ## Files
 

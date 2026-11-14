@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Personal — index
 
@@ -9,9 +9,10 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Warsaw trip 4-9 Jul via Urszula Sobczyk → memory/domains/personal/poland-trip-jul-2001.md; Balson's IBM Almaden lead for the son → memory/domains/personal/household.md
-- Pokalsky: 1996 issue gone, owner in London next week, Bibi to Putnam; Karasinski → memory/domains/personal/correspondence.md
-- Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
+- Warsaw trip 4-9 Jul, vacation 5, 6 and 9 Jul → memory/domains/personal/poland-trip-jul-2001.md
+- London dinner with Musiela and Karasinski; Pokalsky, Bibi to Putnam → memory/domains/personal/correspondence.md
+- Son: Thorne's patent advice, Balson's IBM Almaden lead → memory/domains/personal/household.md
+- Bigalow: owner asks about P, TX, DVN → memory/domains/personal/investments-2000.md
 
 ## Files
 

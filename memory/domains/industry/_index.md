@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: IQPC London 23-24 Oct, real options session in the brochure; ICBI Paris 6-9 Nov, paper by 12 Oct; INFOCAST Houston 10 Oct; SMS SFO 21-24 Oct, owner balks at the fee; Baylor 27 Jul → memory/domains/industry/speaking-engagements-2000.md; Risk Waters Financial Mathematics course, London decks due 20 Jun → memory/domains/industry/eprm-risk.md
-- Stanford EMF 21-22 Jun: owner attends, declines chairing a session; IACC gala 16 Jun, $3,500 table → memory/domains/industry/sponsorship-requests-2001.md
-- Events: ERisk iConference, Crenshaw registers him; Ziff gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
-- Rice: Neale may lecture an environmental engineering class in the fall → memory/domains/industry/rice-university.md; Wharton Risk Center project → memory/domains/industry/wharton-risk-center-2001.md
-- California: MOU bill SB 78XX lacks votes, CPUC delays the QF 15% payment → memory/domains/industry/california-power-jan-2001.md
+- Speaking: SMS SFO 21-24 Oct, owner pays only the trip; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
+- Risk Financial Mathematics course: London 28-29 Jun (guest Faltinsen), Houston 16-17 Jul with an Astros game; EPRM Amsterdam 6-7 Sep → memory/domains/industry/eprm-risk.md
+- Events: EPIS Electric Market Forecasting Conference 12-14 Sep, owner plans to attend; ERisk iConference → memory/domains/industry/events-attending-2001.md
+- Rice: another energy derivatives course, Lacima's book the text → memory/domains/industry/rice-energy-derivatives-course.md; Neale's lecture → memory/domains/industry/rice-university.md
+- Darden's Enron weather-derivatives case via John Martin → memory/domains/industry/weather-insurance-markets.md; Stanford EMF → memory/domains/industry/sponsorship-requests-2001.md
 
 ## Files
 
