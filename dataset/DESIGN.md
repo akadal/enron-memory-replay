@@ -116,7 +116,19 @@ eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing 
   reached near slice 43; a linear projection gives about 900 people, about 19,000 characters, by
   slice 122. The new target sits above that so the number changes once. Slices 16-29 therefore
   carry a thinner alias table; that is a record of the old budget, not an error
-  (`dataset/audit/2026-11-14-6-review-030.md`).
+  (`dataset/audit/2026-11-14-6-review-030.md`). After the raise the table kept its one-line form
+  (459 people at slice 60, every name mapping to its file).
+- From slice 61 on, the domain `index` budget raised again, to [6400, 8000]. In 60 slices the runs
+  retired no topic file (no deletion, no rename) and met the ceiling by shortening the index
+  instead: `work` lost its descriptions at slice 36 and its paths at slice 38 and lists 104 topics
+  as bare names; `organization` and `industry` stood at 93% and 91% of the ceiling at slice 60,
+  about to be stripped the same way. No fact was lost: every fact line that left L1 moved verbatim
+  to `memory/archive/<domain>/` or was rewritten in place with its citation, except one citation
+  (m02565) dropped at slice 36 from a line that survives with its other sources. One active topic,
+  `work/vendor-reviews-nov-2000`, was listed only under "Hot" and dropped out of the index at
+  slice 56; the file and its citations are intact, only its route is missing. Projected to
+  slice 122, the largest index needs about 6,500 characters with descriptions
+  (`dataset/audit/2026-11-14-7-review-060.md`).
 - The preamble's entity-file sentence (above).
 - Raw mail lives in `memory/archive/mail/YYYY/`, a source segment like `archive/inbox/`, not a
   domain segment.
@@ -142,7 +154,9 @@ for two decades and is used as the CMU release holds it. Concretely:
   replayed, because there is no week in which the owner could have received them, and are kept
   verbatim in `memory/archive/mail/unplaced/`.
 - Neither the capture prompt nor the consolidation preamble asks the models to leave anything
-  out on grounds of privacy.
+  out on grounds of privacy. On its own, the consolidation model dropped three messages that carry
+  passwords or login details (m04445, m04462, m04604; class `other`, "credentials deliberately not
+  kept"). They are recorded as drops, and the messages are whole in L2.
 
 ## Model choice and controls
 
