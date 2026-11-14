@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-03-04
+updated: 2001-03-09
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Mark Kierlanczyk (trading) interviews Mon 5 Mar with Lavorato, Hickerson, Gibner → memory/domains/organization/candidate-interviews-feb-2001.md; Kodjo Adovor, Hui He → memory/domains/organization/recruiting-candidates.md
-- Interns: only Kim Whitsel of the Tigers still wants in, offer sent; Jinbaek Kim accepts; Bhala's offer not raised (2 Mar) → memory/domains/organization/summer-interns-2001.md
+- Candidates: Garimella phone interview 19 Mar; Bobrowski, Jacob Kang exploratory interviews; Karthik Rajan on-site; Mitra Mujica starts 19 Mar → memory/domains/organization/candidate-interviews-mar-2001.md
+- Interns: Kim Whitsel's offer coming, Jinbaek Kim mid-May to mid-July → memory/domains/organization/summer-interns-2001.md; Stanford trip 14-16 Mar, owner on Round 2 → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
+- HR: owner's contract corrected to Whalley's draft changes; Sevil Yaman's green card (H1B first?) → memory/domains/organization/hr-matters-2001.md
 - London: Leppard to Enron Metals, Ted Murphy asks the owner's advice on leadership and VaR (2 Mar) → memory/domains/organization/london-research.md
-- LiveLink demo Thu 8 Mar, ENSIDE interview 1 Mar, Bigalow's talk moved → memory/domains/organization/research-group-2001.md; IIF: Research asked for $16K → memory/domains/organization/office-equipment.md
-- 7 Feb: Xcelerator under Pai, Delainey to EES, Lavorato and Kitchen run Enron Americas → memory/domains/organization/ena-reorganization.md
+- LiveLink test (owner cannot log in), Kohli's barbecue 5 May → memory/domains/organization/research-group-2001.md; IIF 1/3 share $15,666.67 approved → memory/domains/organization/office-equipment.md
 
 ## Files
 
@@ -54,3 +54,6 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-feb-2001.md — from 15 Jan 2001
 - memory/domains/organization/summer-interns-2001.md — 2001 interns, campus recruiting
 - memory/domains/organization/staff-moves-jan-2001.md — moves and starts, Jan 2001
+- memory/domains/organization/candidate-interviews-mar-2001.md — from 5 Mar 2001
+- memory/domains/organization/hr-matters-2001.md — owner's contract, Sevil Yaman's green card (2001)
+- memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001

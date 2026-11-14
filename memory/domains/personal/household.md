@@ -3,20 +3,20 @@ id: household
 type: topic
 domain: personal
 title: "Owner's household and personal admin"
-summary: "Owner's AOL account, home address, phones, work card; wife Ludmila Kaminski and son at Stanford, Escondido Village (Oct 2000); son Vince in his senior year; Phoenix illness and sister's estate archived; investments: memory/domains/personal/investments-2000.md."
+summary: "Owner's AOL account, home address, phones, work card; wife Ludmila Kaminski and son at Stanford, Escondido Village (Oct 2000); San Jose fares for 24-28 Mar 2001; son Vince in his senior year; Thanksgiving visit, Phoenix illness and sister's estate archived; investments: memory/domains/personal/investments-2000.md."
 status: active
-updated: 2001-02-04
+updated: 2001-03-09
 ---
 # Owner's household and personal admin
 
-Detail ←[[household-2000-02-w06]] … (one archive file per week) ←[[household-2000-10-w41]] ←[[household-2000-12-w48]] ←[[household-2001-02-w05]]
+Detail ←[[household-2000-02-w06]] … (one archive file per week) ←[[household-2000-10-w41]] ←[[household-2000-12-w48]] ←[[household-2001-02-w05]] ←[[household-2001-03-w10]]
 
 - [2000-01-10→] Personal AOL account vkaminski@aol.com, registered as Wincenty Kaminski (given to Michael Sergeev 5 Apr); home: 10 Snowbird, The Woodlands, Texas 77381. ←[[m00229]] ←[[m01251]] ←[[m04172]] ←[[m05007]]
 - [2000-01-15→] Phones: home 281 367 5377, cell 713 410 5396 (again 21 Jun 2000), office 713 853 3848; private cell and fax archived. ←[[m00348]] ←[[m00438]] ←[[m02054]] ←[[m04421]] ←[[m05317]]
 - [2000-06-02→] Work: vkamins@enron.com (not @ect.enron.com; again to Baylor 31 Jul, to FEA 1 Jan 2001 ←[[m05079]]); fax 713 646 2503; card sent to David DeAngelo (papl.com): Managing Director, Enron Corp., 1400 Smith Street, Room 1962, Houston, TX 77251-1188, (713) 853 3848; title Managing Director - Research, Room EB1962 (Dec 2000). ←[[m04912]] ←[[household-2000-03-w13]] ←[[m01077]] ←[[m01893]] ←[[m01895]] ←[[m02616]] ←[[m02621]]
 - [2000-10-13] Wife Ludmila and son live at Stanford (Escondido Village 32B, Stanford, CA 94305; (650) 497 6938, cell (650) 465 9415); sent to Tanya Tamarchenko, who plans to visit them. ←[[m03617]]
-- [2000-11-27] Over Thanksgiving: "I has a very good time visiting my son" (California). Earlier career: seven years at Salomon, lower Manhattan: "I used to work for Salomon". ←[[m04450]] ←[[m04533]]
 - [2001-01-31] Marysia (Poland; e-mail robertlu@friko6.onet.pl, via Ludmila, ludkam@aol.com) was to buy a book for the owner in Poland; the author now sends it himself. ←[[m05652]] ←[[m05708]] ←[[m05716]] ←[[m05718]]
+- [2001-03-06] Ludmila (ludkam@aol.com, in Polish): cheapest web fares to San Jose $450, Continental IAH-SJC Sat 24 Mar, SJC-IAH Wed 28 Mar, or fly to SFO on points; owner copies it to AOL. ←[[m06106]]
 
 ## History
 

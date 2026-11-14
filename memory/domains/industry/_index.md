@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-03-04
+updated: 2001-03-09
 ---
 # Industry — index
 
@@ -9,16 +9,16 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: owner on the Risk Management Chair search, joins Jorion's closed job talk and dinner; MGMT 656 auditors (Kudin, Blanton, Loughridge) → memory/domains/industry/rice-university.md
-- Sponsorship asks: MIT Sloan Eastern European week; Stanford EMF real-time pricing conference, $25,000 → memory/domains/industry/sponsorship-requests-2001.md
-- UT: company day 4 Apr, UT wants the owner to teach MBA classes in the autumn → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
-- Risk Waters financial mathematics course: Houston 21-22 Jun, London 28-29 Jun, NY 9-10 Jul → memory/domains/industry/eprm-risk.md
-- Wharton FAP calls 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md; Real Options UCLA 11-14 Jul → memory/domains/industry/events-attending-2000.md
+- Rice: Karolyi seminar and dinner Mon 12 Mar, Jorion 19 Mar; MGMT 656 Class 1 slides out (7 Mar) → memory/domains/industry/rice-university.md
+- Rutgers regulation conference: after-dinner talk invite, 25 May (Kleindorfer) → memory/domains/industry/speaking-engagements-2000.md; Texas Finance Festival III 21 Apr → memory/domains/industry/events-attending-2000.md
+- California (6 Mar): PG&E grid sale capped at 2.3x book, 9 Apr deadline → memory/domains/industry/california-power-jan-2001.md
+- Carmona's weather class not funded, a research project instead (6 Mar) → memory/domains/industry/visitors-2001.md
+- Wharton FAP calls 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md; UT company day 4 Apr → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis 2000: caps, FERC, class action
-- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan 2001
+- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan-Mar 2001
 - memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya in the owner's place; trustees' report)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
@@ -37,7 +37,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Baylor dinner 23 Feb 2001, SMS Oct 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
-- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'
+- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona (class declined), Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
 - memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project

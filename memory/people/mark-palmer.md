@@ -5,12 +5,12 @@ entity: person
 name: "Mark Palmer"
 aliases: ["Mark S Palmer"]
 domains: [industry, work]
-updated: 2001-02-04
+updated: 2001-03-09
 ---
 # Mark Palmer
 
 Enron PR person (713 853 4738) and contact for conference marketing (Jan 2000); by Mar 2000 drives EBS's storage effort (same address, mark.palmer@enron.com). ←[[m00435]] ←[[m00920]]
-Identity disputed (?): Mark S Palmer is a different person from Mark A. Palmer (PR), question pending. ←[[m05740]]
+Identity disputed (?): Mark S Palmer may be a different person from Mark A. Palmer (PR). Status quo (question closed unanswered, 2001-03-09): one entity, alias kept (?). ←[[m05740]]
 
 ## Context: industry
 
