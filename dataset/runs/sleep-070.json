@@ -1,0 +1,185 @@
+{
+ "slice": 70,
+ "simulated_today": "2001-04-01",
+ "feed": {
+  "slice": 70,
+  "iso_week": "2001-W13",
+  "first_seq": 6405,
+  "last_seq": 6466,
+  "messages": 62,
+  "durable": 51,
+  "first_date": "2001-03-26 01:53",
+  "last_date": "2001-04-01 11:13",
+  "today": "2001-04-01",
+  "inbox_files": [
+   "2001-03-26--mail.md",
+   "2001-03-27--mail.md",
+   "2001-03-28--mail.md",
+   "2001-03-29--mail.md",
+   "2001-03-30--mail.md",
+   "2001-03-31--mail.md",
+   "2001-04-01--mail.md"
+  ],
+  "inbox_chars": 40093,
+  "l2_chars": 175733
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 524,
+ "quota_before": {
+  "five_hour": 26.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 27.0,
+  "seven_day": 42.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 70,
+  "messages": 62,
+  "durable": 51,
+  "kept": 51,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2850,
+  "fact_lines_with_source": 1871,
+  "dated": 1871,
+  "date_matches_source": 1825,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 548
+  },
+  "questions": {
+   "files": 1,
+   "chars": 673
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 192,
+   "chars": 342501
+  },
+  "people": {
+   "files": 533,
+   "chars": 354692
+  },
+  "archive_inbox": {
+   "files": 454,
+   "chars": 3833009
+  },
+  "archive_mail": {
+   "files": 6492,
+   "chars": 15909443
+  },
+  "archive_other": {
+   "files": 1265,
+   "chars": 1062227
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 522311,
+   "duration_api_ms": 466164,
+   "total_cost_usd": 3.220929199999999,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 149220,
+    "cache_read_input_tokens": 4927106,
+    "output_tokens": 52071,
+    "output_tokens_details": {
+     "thinking_tokens": 17087
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 149220,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 813,
+      "cache_read_input_tokens": 180668,
+      "cache_creation_input_tokens": 343,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 343
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 52071,
+     "cacheReadInputTokens": 4927106,
+     "cacheCreationInputTokens": 149220,
+     "webSearchRequests": 0,
+     "costUSD": 3.220929199999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 17087,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 149220,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "I've consolidated week 2001-W13 (simulated date 2001-04-01) and committed it locally as `8ad51b0`; lint and the sleep audit both passed, and the audit passed again on the commit itself. I did not push: your setup says the runner pushes after its own checks, even though the closing instruction also said `git push`.\n\n**What went in.** The week had 62 messages, 51 with notes, and every one of the 51 is now cited somewhere in memory, so `dataset/drops/sleep-070.tsv` is empty. The updates went into 20 topic files and one person file (Vincent Tang). The main items:\n- Darrell Duffie asked why Enron's default swaps trade about 80 bp wider than its asset swaps, and the owner sent him two technical notes.\n- Bryan Seyfried confirmed that Research will build a private-firm model prototype by August.\n- Bill Bradford questioned the Credit Reserve Model's simulated gas prices.\n- Sheridan Titman's risk-capital method drew objections from Rakesh Bharati.\n- Dabhol's power company asked for a crude swap to hedge its LNG costs.\n- Other updates: the corporate finance conference at Rice (4–5 May), Hector Campos leaving on 13 April, the IMSL software purchase, and the owner's 3 April trip to Philadelphia.\n\n**Kept within size limits.** Wherever a file was already over its size target, I moved older lines word for word into new `*-2001-04-w13` archive files (18 files). No file sits above 90% of its ceiling.\n\n**New person files.** Bernard Murphy, Rajesh Sivaraman, Mohan Gurunath and Don Chew each now appear in five or more noted messages, so they got entity files and were added to the people index. Julie at Lacima has been in far more messages but still has no file. That follows an earlier decision (2000-09-05) to leave her without one after the question went unanswered.\n\n**Unchanged.**\n- I checked the five oldest \"still true\" lines against this week and all still hold.\n- No sleep-task or feedback blocks were in the inbox, and no external sources are configured.\n- The question queue is uncha"
+  },
+  "repair": null
+ }
+}
