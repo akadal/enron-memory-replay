@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-02-10
+updated: 2001-02-18
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Haughton: London-Houston video conference and a second London visit → memory/domains/organization/candidate-interviews-feb-2001.md
-- Interns: all Wharton Tigers taken (Vittal, Gershenson, Iker); Mehendale for summer research → memory/domains/organization/summer-interns-2001.md
-- 7 Feb: Xcelerator under Pai, Delainey to EES, Lavorato and Kitchen run Enron Americas → memory/domains/organization/ena-reorganization.md
-- Java Feb 20-23 (laptops?), PJM 101 27 Feb → memory/domains/organization/leave-and-training.md; Anshuman's L-1 needs a job description → memory/domains/organization/staff-moves-jan-2001.md
-- Costantino; Szopa meets Reck's team → memory/domains/organization/candidate-referrals-2000.md
+- Haughton: second London round Tue 20 Feb with Enron Credit and RAC, owner away → memory/domains/organization/candidate-interviews-feb-2001.md
+- Interns: Wharton Teams 1 and 3, the Associate Program picks, the owner absorbs the overflow; Villevald declined → memory/domains/organization/summer-interns-2001.md
+- 7 Feb: Xcelerator under Pai, Delainey to EES, Lavorato and Kitchen run Enron Americas → memory/domains/organization/ena-reorganization.md; Board-approved Risk Management Policy revised (18 Feb) → memory/domains/organization/corporate-announcements-2000.md
+- Java Feb 20-23, PJM 101 27 Feb, NESA expo 20-21 Mar, Gibner off 12-16 and 21-30 Mar → memory/domains/organization/leave-and-training.md; Anshuman's L1 on hold, no US job offer → memory/domains/organization/staff-moves-jan-2001.md
+- IIF kept ($15K), Oxford Analytica dropped; Avistar charges disputed by London → memory/domains/organization/office-equipment.md
 
 ## Files
 
@@ -26,7 +26,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-nov-2000.md — Nov 2000
 - memory/domains/organization/candidate-interviews-dec-2000.md — from 27 Nov 2000
 - memory/domains/organization/candidate-interviews-jan-2001.md — from 18 Dec 2000
-- memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Gunning, Szopa)
+- memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Szopa)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
@@ -36,7 +36,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/london-research.md — London Research (Leppard)
 - memory/domains/organization/mg-metals-integration.md — MG Metals integration
 - memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC
-- memory/domains/organization/office-equipment.md — equipment, subscriptions, disk access
+- memory/domains/organization/office-equipment.md — equipment, subscriptions (IIF), Avistar
 - memory/domains/organization/officer-performance-review.md — officer levels, PRC
 - memory/domains/organization/power-play-response.md — Mehta's 'Power Play' (Oct 2000)
 - memory/domains/organization/promotions-2000.md — promotions

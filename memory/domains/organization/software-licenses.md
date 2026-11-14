@@ -5,7 +5,7 @@ domain: organization
 title: "Research Group software licences and access requests"
 summary: "Software and access: d-g ENERGY licence for London and Power World for NETA (archived); FEA @ENERGY 2.0 downloaded by Zimin Lu, licence update via IT (Jan 2001); owner and Gibner reject read/write requests on the Research directories (Jan 2001)."
 status: active
-updated: 2001-02-04
+updated: 2001-02-18
 ---
 # Research Group software licences and access requests
 
@@ -15,4 +15,4 @@ Hardware and IT purchasing: memory/domains/organization/office-equipment.md. Gem
 
 - [2001-01-26] FEA releases @ENERGY 2.0 (ENA a licensee; @ENERGY/Swing replaces SWING, new keys needed; jump calibration, PATHUTIL, 25-70% faster); owner FYI to Gibner. ←[[m05581]] ←[[m05602]]
 - [2001-01-29] Access: owner rejects read/write on o:\research\power meteorology\weather temperatures ("Granting both read/write access could threaten the integrity of the data."; the requester no longer wants it); Mike Roberts agrees. Gibner (primary approver, Research common directory) got no answers and proposes denying the batch. ←[[m05616]] ←[[m05619]] ←[[m05688]]
-- [2001-01-31] @ENERGY 2.0 (Swing out of beta, Weather 30-35% faster): "Who is handling this software?" (Gibner: Zimin); "I think we should download the update."; Zimin downloads it, IT updates the licence. ←[[m05684]] ←[[m05693]] ←[[m05694]] ←[[m05702]] ←[[m05704]]
+- [2001-01-31] @ENERGY 2.0 (Swing out of beta, Weather 30-35% faster): "Who is handling this software?" (Gibner: Zimin); "I think we should download the update."; Zimin downloads it, IT updates the licence. ←[[m05684]] ←[[m05693]] ←[[m05694]] ←[[m05702]] ←[[m05704]] 15 Feb Chris Jeska nearly done installing; one shared concurrent-user licence. ←[[m05889]]
