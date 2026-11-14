@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-02-18
+updated: 2001-02-23
 ---
 # Work — index
 
@@ -9,10 +9,10 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Paper: typeset version 7 Feb; Christie Patrick's PR edits, Mark Palmer to authorise → memory/domains/work/enron-transformation-paper.md
+- EES credit reserve simulation: pricing discrepancy found, credit's output wish list (Tribolet, 22 Feb) → memory/domains/work/var-credit-system-2001.md; Lacima weather course left to Gary Taylor (22 Feb) → memory/domains/work/lacima-book-2000.md
 - Raptors spreadsheet (Bharati, 8 Feb) → memory/domains/work/talon-raptor.md; P+ re-mark at 98% cuts M-T-M ~$78M → memory/domains/work/p-plus-spread-options-2001.md
 - Synfuel option: reserve for a Section 29 repeal debated (Lu, Hochschild) → memory/domains/work/synfuel-option-2001.md; Merchant Asset VaR goes Monte Carlo (Hanover hedge) → memory/domains/work/hanover-costless-collar-jan-2001.md
-- CHARM call with Willis put off a week (12 Feb) → memory/domains/work/enterprise-risk-management.md; Titman NDA/IP → memory/domains/work/ut-austin-ties-2000.md; Dhar's insurance report → memory/domains/work/insurance-portfolio-risk-2001.md
+- CHARM call with Willis put off a week (12 Feb) → memory/domains/work/enterprise-risk-management.md; Cunningham corrects ERCOT's congestion example (20 Feb) → memory/domains/work/transmission-modelling-2001.md
 - RDI code matches Ken's sheet (15 Feb) → memory/domains/work/genco-plant-model-2001.md; Bambos visits Fri 9 Mar → memory/domains/work/stanford-research-ties.md
 - EES termination payments meeting Fri 16 Feb → memory/domains/work/ees-termination-payments-2001.md; MarketPoint gas model now Goodpasture's call → memory/domains/work/marketpoint-gas-model-2001.md
 

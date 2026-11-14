@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-02-18
+updated: 2001-02-23
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- UT conference 22-23 Feb: Tanya probably goes in the owner's place → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Baylor panel bios circulated, dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
-- Wharton Tue 20 Feb: Inn at Penn 5:30, presentation 6:30, dinner with Patrick and Parkhill; FAP calls 1, 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md
-- Jim Elsner (hurricanes) Thu 22 Feb, 9 am → memory/domains/industry/visitors-2001.md; Texas Finance Festival 21 Apr, Fastow invited → memory/domains/industry/events-attending-2000.md
-- Rice: Ikenberry's corporate finance forum sent to Fastow; Karolyi 11-12 Mar, Jorion dinner 18 Mar → memory/domains/industry/rice-university.md
-- EPRM VaR course with Strickland and Clewlow proposed → memory/domains/industry/eprm-risk.md; TradeSpark volumes → memory/domains/industry/energy-exchanges-2001.md
+- UT conference 22-23 Feb: Tanya probably goes in the owner's place → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Baylor dinner 23 Feb, workshop dinner at Ninfa's → memory/domains/industry/speaking-engagements-2000.md
+- Wharton Team 1: EOL vs ICE, DynegyDirect, HoustonStreet; FAP calls 1, 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md
+- Jim Elsner's hurricane talk Thu 22 Feb, Hyatt → memory/domains/industry/visitors-2001.md; Real Options UCLA 11-14 Jul; Texas Finance Festival 21 Apr → memory/domains/industry/events-attending-2000.md
+- Rice: MGMT 656 rosters (23 Feb), CV for the Jones School site; Karolyi 11-12 Mar, Jorion 18 Mar → memory/domains/industry/rice-university.md
+- EPRM VaR course: Lacima will not commit (22 Feb) → memory/domains/industry/eprm-risk.md; AIESEC SGH 30th-anniversary alumni meeting, May → memory/domains/industry/aiesec-houston.md
 
 ## Files
 
