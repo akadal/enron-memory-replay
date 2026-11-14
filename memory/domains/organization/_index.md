@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: mid-year, PEP closes 25 May, at least 5 reviewers; owner reviews Leppard and Naveen → memory/domains/organization/officer-performance-review.md; Tony Hamilton's PRC → memory/domains/organization/tony-hamilton-london-2001.md
-- HR: Wade Cline tries Mumbai for Krishna's in-laws; Iris's SFA registration; Elena Chilkina's title → memory/domains/organization/hr-matters-2001.md; Koepke's CFA, 2 Jun → memory/domains/organization/leave-and-training.md
-- Candidates: Torpong Cheevaprawatdomrong, Aysu Bilgin, Gukhal → memory/domains/organization/recruiting-candidates.md; John Cote's EGM move → memory/domains/organization/staff-and-recruiting.md; interns Jinbaek Kim 30 May, Frantzeskakis → memory/domains/organization/summer-interns-2001.md
-- Company: iBuyit → memory/domains/organization/corporate-announcements-2001.md; mail fixed by Lisa Skully → memory/domains/organization/office-equipment.md; FEA @ENERGY 2.1 → memory/domains/organization/software-licenses.md
+- Departures: Pavel Zadorozhny to HETCO; Stinson Gibner resigns, last day 5 Jun → memory/domains/organization/staff-and-recruiting.md
+- PRC: feedback closed 25 May, PRCs 4-29 Jun; owner reviews Leppard, Naveen, Grabstald → memory/domains/organization/officer-performance-review.md
+- People: Jinbaek Kim starts 30 May → memory/domains/organization/summer-interns-2001.md; Gary Bush's maths PhD (Zimin phones), Molly's resume → memory/domains/organization/recruiting-candidates.md
+- Company: EOL's one-millionth trade → memory/domains/organization/corporate-announcements-2001.md; London on LiveLink → memory/domains/organization/london-research.md; D-G licence revised → memory/domains/organization/software-licenses.md
 
 ## Files
 

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: owner's 'Var Issues' memo (market inputs, no one owns calibration); Project X correlations meeting next week; Tamarchenko on Winton's paper → memory/domains/work/var-credit-system-2001.md; London reports RiskTrac UK Power VaR, $25m → memory/domains/work/risktrac-europe-var.md
-- Raptor: AA wants the contingent-issuance methodology; Bharati's Note to AA drafts 16-17 May → memory/domains/work/talon-raptor.md
-- Credit: Iris's London report, Albanis's own public model ('tensions in EC'), LPC's $75K models → memory/domains/work/private-firm-credit-model-2001.md; Brazil curves, RAC E-ratings → memory/domains/work/country-risk-curves.md
-- Dabhol: Lay's veto, arrangers in London → memory/domains/work/dabhol-power-sale.md; Henwood report resent as PDF → memory/domains/work/india-power-study-henwood.md
-- Outside: ICAST proof-of-concept ~$150K per problem, Prediction Company's Finnoff → memory/domains/work/outside-requests-2001.md; EWRM scope to Schultz → memory/domains/work/enterprise-risk-management.md; EGM staff meeting 29 May → memory/domains/work/internal-meetings-2001.md
+- VaR: Project X action plan awaits the owner's remarks (Hayden, Tamarchenko); EVT VaR data; convolution VaR test → memory/domains/work/var-credit-system-2001.md
+- Raptor: extra conditionality on the ENE forward restriction; Baker: both forward sets valued in March; Bharati's latest AA note 25 May → memory/domains/work/talon-raptor.md
+- Credit: Albanis gone; Salmon's group fires a quant; RiskCalc trial; Kinneman, owner, Bryan to repair public-firm models → memory/domains/work/private-firm-credit-model-2001.md
+- Vendors: Mitnick's EGE meeting 29 May; NumeriX credit toolkit; Sparks Consulting, Memphis, guard the pricing technology → memory/domains/work/vendor-offers-2001.md
+- Other: Exotica versions, call Slava Tue → memory/domains/work/monte-carlo-library.md; McCormack's COV/FGV pitch to Fastow → memory/domains/work/ene-stock-drivers.md; LIBOR, aluminium, housing starts → memory/domains/work/desk-analysis-requests.md
 
 ## Files
 
