@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-01-14
+updated: 2001-01-21
 ---
 # People — index
 
@@ -18,6 +18,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Alhamd Alkhayat
 - Alla Gil
 - Allan Roberts
+- Alyse Herasimchuk
 - Amitava Dhar
 - Amy Aldous
 - Amy Lamonsoff
@@ -29,6 +30,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andrew Miles
 - Andrzej Lubowski
 - Andrzej Wodnicki
+- Angela Dorsey
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
 - Anshuman Srivastav
@@ -43,6 +45,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Barbara Ostdiek
 - Becky Pham
 - Benjamin Parsons (Ben Parsons)
+- Berney Aucoin (Berney C Aucoin, Bernie Aucoin)
 - Beth Miertschin
 - Beth Perlman
 - Bich Anh Pham
@@ -52,6 +55,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Blake Johnson
 - Bob Shults
 - Bobby Farris
+- Bonnie Nelson
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
@@ -219,6 +223,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jose Marquez
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
+- Josh Leventhal (Joshua Leventhal)
 - Julia Murray
 - Julie Haviland
 - Karen Marshall
@@ -239,6 +244,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kevin Kindall
 - Kevin Moore (Kevin G Moore)
 - Kevin Presto (Kevin M Presto)
+- Khairuddin Jaafar
 - Kim Whitsel
 - Kimberly Watson
 - Kirstee Hewitt
@@ -273,6 +279,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Manuel Rensink
 - Marc De La Roche
 - Margaret Carson
+- Margaret Daffin
 - Marie Hejka
 - Mark Frevert
 - Mark Giancola
@@ -293,6 +300,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Maureen Raymond
 - Mauricio Mora
 - Melanie Doyle
+- Melinda McCarty
 - Michael Anderson
 - Michael Curran
 - Michael Moscoso (Michael E Moscoso)
@@ -312,11 +320,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Nina Knirel
 - Norberto Valdes
 - Norma Villarreal
+- Nur Azmin Abu Bakar
 - Nurit Krausz
 - Oliver Bennett
 - Oliver Gaylard
 - Osman Sezgen
 - Paige Grumulaitis
+- Pamela Vande Krol Castro (Pam Castro)
 - Pat Henahan
 - Patrycja Dalecka (Patricia Dalecka)
 - Paul Bristow
@@ -338,6 +348,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
 - Praveen Mellacheruvu
+- Punit Rawal
 - Qing Chen
 - Quentin Kerr
 - Rabi De
@@ -351,6 +362,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Richard DiMichele
 - Richard Lewis
 - Richard Reichardt
+- Richard Shapiro (Rick Shapiro)
 - Richard Weeks
 - Rick Bryant
 - Rick Buy
@@ -406,6 +418,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stephen Bennett
 - Stephen Bramlett (Steven Bramlet)
 - Stephen Stock
+- Steve Walton
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Steven Shreve
@@ -425,6 +438,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tim Luehrman
 - Todd Kimberlain
 - Tom Arnold
+- Tom Barkley
 - Tom Gros (Thomas Gros)
 - Tom Halliburton
 - Tom Piazze (Thomas Piazze)
@@ -432,6 +446,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Traci Warner
 - Trena McFarland
 - Trisha Tlapek
+- Tulika Bhalla
 - Vadim Pokhlebkin
 - Van Ngo
 - Vasant Shanbhogue
