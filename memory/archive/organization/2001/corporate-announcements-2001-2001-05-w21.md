@@ -1,0 +1,11 @@
+---
+type: archive
+date: 2001-05-26
+domain: organization
+---
+# corporate-announcements-2001, detail moved out of L1 at the 2001-05-26 consolidation
+
+Moved verbatim from memory/domains/organization/corporate-announcements-2001.md.
+
+- [2001-04-23] EGM All Employee Meeting Mon 7 May, 3:30-4:30 pm, cocktails to 6:00, Hyatt Regency, Imperial Ballroom (Cathy Phillips); owner forwards it to Crenshaw (again 2 May). ←[[m07086]] ←[[m07111]] ←[[m07546]] ←[[m07593]]
+- [2001-05-01] iBuyit Payables live (Bob Butts); from 8 May paper coding sheets go back to the coder for iBuyit. ←[[m07423]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: owner's 'Var Issues' memo (18 May: no one owns calibration, 2-year-old inputs, test desks' vols), Tamarchenko's fixes, Project X meeting next week, UK Power VaR 25M → memory/domains/work/var-model-review-may-2001.md; earlier May → memory/domains/work/power-var-may-2001.md
-- Credit: Iris's London report, Albanis's ultimatum ('tensions in EC'), LPC models $75K → memory/domains/work/enron-credit-tensions-may-2001.md; Bharati's note to AA (II draft 17 May) → memory/domains/work/talon-raptor.md
-- Outside: ICAST's $150K proof-of-concept proposal, FEA @ENERGY 2.1 → memory/domains/work/vendor-offers-mid-may-2001.md; Prediction Company's Finnoff will talk, Thorne proposal owed → memory/domains/work/outside-requests-2001.md
-- Desks: Henwood resends the Dabhol Report (17 May) → memory/domains/work/dabhol-renegotiation-may-2001.md; monthly Brazil curves, RAC E-ratings → memory/domains/work/country-risk-curves.md
-- EWRM scope outline to Cassandra Schultz (16 May) → memory/domains/work/enterprise-risk-management.md; Osler column → memory/domains/work/owner-publications.md
+- VaR: Hayden waits for the owner's remarks on the Project X plan; EVT data sets; Albanese's convolution VaR tested; Exotica alignment 'routine maintenance', call Slava Tue → memory/domains/work/var-models-late-may-2001.md; 'Var Issues' memo (18 May) → memory/domains/work/var-model-review-may-2001.md
+- Credit: Albanis gone (21 May); Salmon's model testing, Duffie report; RiskCalc data; Kinneman, owner and Bryan to repair the public firm models → memory/domains/work/enron-credit-late-may-2001.md
+- Raptor: conditionality in the restricted ENE forwards (22 May), AA note 25 May → memory/domains/work/talon-raptor.md
+- Requests: Sparks Consulting (Memphis, pricing kept back), Rice students' EOL article with Kal Shah, Stern Stewart's Fastow pitch, LIBOR, aluminium → memory/domains/work/research-requests-late-may-2001.md
+- Vendors: Mitnick's EGE 29 May, D-G Energy licence, NumeriX credit toolkit → memory/domains/work/vendor-offers-late-may-2001.md; Dabhol → memory/domains/work/dabhol-renegotiation-may-2001.md
 
 ## Files
 
@@ -44,5 +44,6 @@ Path: memory/domains/work/<name>.md
 - enron-credit-london-may-2001 · power-var-may-2001 · ees-liability-mitigation-2001 · technical-analysis-service-2001 · dabhol-renegotiation-may-2001
 - research-models-may-2001 · owner-meetings-may-2001 · vendor-offers-may-2001
 - var-model-review-may-2001 · enron-credit-tensions-may-2001 · vendor-offers-mid-may-2001
+- var-models-late-may-2001 · enron-credit-late-may-2001 · research-requests-late-may-2001 · vendor-offers-late-may-2001
 
 Closed: 1
