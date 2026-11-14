@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-03-09
+updated: 2001-03-18
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Garimella phone interview 19 Mar; Bobrowski, Jacob Kang exploratory interviews; Karthik Rajan on-site; Mitra Mujica starts 19 Mar → memory/domains/organization/candidate-interviews-mar-2001.md
-- Interns: Kim Whitsel's offer coming, Jinbaek Kim mid-May to mid-July → memory/domains/organization/summer-interns-2001.md; Stanford trip 14-16 Mar, owner on Round 2 → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
-- HR: owner's contract corrected to Whalley's draft changes; Sevil Yaman's green card (H1B first?) → memory/domains/organization/hr-matters-2001.md
-- London: Leppard to Enron Metals, Ted Murphy asks the owner's advice on leadership and VaR (2 Mar) → memory/domains/organization/london-research.md
-- LiveLink test (owner cannot log in), Kohli's barbecue 5 May → memory/domains/organization/research-group-2001.md; IIF 1/3 share $15,666.67 approved → memory/domains/organization/office-equipment.md
+- Candidates: Garimella phone interview 19 Mar; Ren Zhang on-site, Bill Koures (pricey), Mark Boland 20-21 Mar → memory/domains/organization/candidate-interviews-mar-2001.md
+- Group: Kevin Kindall resigns (15 Mar); Zimmerman, Deng, Grigorov move from EES to Krishna; Trash Bash Sat 31 Mar → memory/domains/organization/research-group-2001.md
+- Interns: Frantzeskakis (CMU) taken, Jinbaek Kim 4 Jun-4 Aug → memory/domains/organization/summer-interns-2001.md; Sevil Yaman: owner wants H1 and green card together → memory/domains/organization/hr-matters-2001.md
+- London Wed 21 Mar: Hudson, Seyfried, Ted Murphy, Sherriff, Nath; Maureen Raymond's expenses → memory/domains/organization/london-research.md
+- Lay and Skilling's leadership committees, EEOS formed (16 Mar) → memory/domains/organization/corporate-announcements-2000.md
 
 ## Files
 

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-03-09
+updated: 2001-03-18
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: Karolyi seminar and dinner Mon 12 Mar, Jorion 19 Mar; MGMT 656 Class 1 slides out (7 Mar) → memory/domains/industry/rice-university.md
-- Rutgers regulation conference: after-dinner talk invite, 25 May (Kleindorfer) → memory/domains/industry/speaking-engagements-2000.md; Texas Finance Festival III 21 Apr → memory/domains/industry/events-attending-2000.md
-- California (6 Mar): PG&E grid sale capped at 2.3x book, 9 Apr deadline → memory/domains/industry/california-power-jan-2001.md
-- Carmona's weather class not funded, a research project instead (6 Mar) → memory/domains/industry/visitors-2001.md
-- Wharton FAP calls 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md; UT company day 4 Apr → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Rice: Ikenberry and Titman's forum 4-5 May (Fastow panel); Schultz seminar 30 Mar; MGMT 656 project teams; Jorion dinner missed → memory/domains/industry/rice-university.md
+- Rutgers after-dinner talk 25 May accepted; SIAM workshop at UH 27-28 Apr invited → memory/domains/industry/speaking-engagements-2000.md
+- EPRM financial maths course: London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul, details due 22 Mar → memory/domains/industry/eprm-risk.md
+- California (15-16 Mar): DWR essentially bankrupt, Coram to file against SoCal Ed → memory/domains/industry/california-power-jan-2001.md
+- Wharton: Phase III judge due 23 Mar, Tiger final 3 Apr, Risk Center 14 Jun → memory/domains/industry/wharton-projects-feb-2001.md; Stanford RTP conference 21-22 Jun → memory/domains/industry/sponsorship-requests-2001.md
 
 ## Files
 
@@ -34,7 +34,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/real-options-debate-2000.md — real options debate (Apr 2000)
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, MGMT 656, Ikenberry's forum
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Baylor dinner 23 Feb 2001, SMS Oct 2001
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Rutgers 25 May 2001, SIAM at UH Apr 2001, SMS Oct 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona (class declined), Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'

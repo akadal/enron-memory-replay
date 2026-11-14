@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-03-09
+updated: 2001-03-18
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Dabhol: Mr. Sud says NTPC may buy all Dabhol power (unverified, 9 Mar); Rebecca McDonald praised Kohli → memory/domains/work/dabhol-power-sale.md; EBS's $1.44m research allocation → memory/domains/work/broadband-services.md
+- Dabhol: Sud met Rebecca McDonald 10 Mar, no mandate; owner backs Anshuman's move to Houston for the DPC fuel/LNG strategy, expects two more years on Dabhol; LNG by rail idea → memory/domains/work/dabhol-power-sale.md
+- Seppi talks swing terms with Lu; calls from Mitnick, RiskMetrics, NPPD (ERM); owed: Bernard Murphy's spark-spread answer, MacMillan's materials (IP) → memory/domains/work/outside-requests-2001.md
+- Raptors: Port forwards the daily position reports; work kept to Bharati and Naveen (15 Mar) → memory/domains/work/talon-raptor.md; D&B Financial Stress score for small credits (Mark Wilson) → memory/domains/work/credit-markets.md
+- Seyfried wants a status call on Enron Credit modeling support → memory/domains/work/enroncredit-support-2000.md; Lacima invoice 215, Strickland's EPRM vol article to review → memory/domains/work/lacima-book-2000.md
 - VaR: Stock's VaR documentation done, Credit Reserve next; Equity VAR adds Expected Tail Loss (7 Mar) → memory/domains/work/var-credit-system-2001.md
-- Fri 9 Mar: Bambos visit, Paleologo's IP pricing talk → memory/domains/work/stanford-research-ties.md; Kindall's Ben Glisan talk, Shankman briefing; RAC complaint settled → memory/domains/work/internal-meetings-2001.md
-- Owed: Bernard Murphy's spark-spread answer; Seppi's swing case (Lu); MacMillan's materials (IP) → memory/domains/work/outside-requests-2001.md
-- Constellation spread option review (Lu, Meyn) → memory/domains/work/desk-analysis-requests.md; Barkley's EOL data mining → memory/domains/work/eol-content-2000.md
 
 ## Files
 
