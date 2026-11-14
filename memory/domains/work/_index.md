@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: Iris's strategic plan draft for Duffie, whom she reports to → memory/domains/work/enron-credit-london-may-2001.md; Kalotay's S&P Credit Indices call with Seyfried → memory/domains/work/vendor-offers-may-2001.md; AA asks Raptor methodology → memory/domains/work/talon-raptor.md
-- VaR: Port's dinner bet on Convolution VaR by summer, Kitchen wants gas/power correlations now, jump code to IT → memory/domains/work/power-var-may-2001.md; PSIM → memory/domains/work/ees-full-requirements-may-2001.md; HJM propane, bid-offer literature → memory/domains/work/research-models-may-2001.md
-- Desks: Lay's veto saves Dabhol for now, McDonald takes Kohli's help → memory/domains/work/dabhol-renegotiation-may-2001.md; recurring meetings → memory/domains/work/owner-meetings-may-2001.md
-- Outside: Limperis call done, they come back; DRI-WEFA ag data; Mitnick → memory/domains/work/vendor-offers-may-2001.md; Thorne proposal owed, Prediction Company → memory/domains/work/outside-requests-2001.md
-- Writing: column on Osler's technical analysis paper (7 May) → memory/domains/work/owner-publications.md; Lacima still waits on Fiona Grant → memory/domains/work/lacima-book-2000.md
+- VaR: owner's 'Var Issues' memo (18 May: no one owns calibration, 2-year-old inputs, test desks' vols), Tamarchenko's fixes, Project X meeting next week, UK Power VaR 25M → memory/domains/work/var-model-review-may-2001.md; earlier May → memory/domains/work/power-var-may-2001.md
+- Credit: Iris's London report, Albanis's ultimatum ('tensions in EC'), LPC models $75K → memory/domains/work/enron-credit-tensions-may-2001.md; Bharati's note to AA (II draft 17 May) → memory/domains/work/talon-raptor.md
+- Outside: ICAST's $150K proof-of-concept proposal, FEA @ENERGY 2.1 → memory/domains/work/vendor-offers-mid-may-2001.md; Prediction Company's Finnoff will talk, Thorne proposal owed → memory/domains/work/outside-requests-2001.md
+- Desks: Henwood resends the Dabhol Report (17 May) → memory/domains/work/dabhol-renegotiation-may-2001.md; monthly Brazil curves, RAC E-ratings → memory/domains/work/country-risk-curves.md
+- EWRM scope outline to Cassandra Schultz (16 May) → memory/domains/work/enterprise-risk-management.md; Osler column → memory/domains/work/owner-publications.md
 
 ## Files
 
@@ -43,5 +43,6 @@ Path: memory/domains/work/<name>.md
 - enron-credit-strategy-2001 · crudeapo-asian-option-2001 · ees-full-requirements-may-2001
 - enron-credit-london-may-2001 · power-var-may-2001 · ees-liability-mitigation-2001 · technical-analysis-service-2001 · dabhol-renegotiation-may-2001
 - research-models-may-2001 · owner-meetings-may-2001 · vendor-offers-may-2001
+- var-model-review-may-2001 · enron-credit-tensions-may-2001 · vendor-offers-mid-may-2001
 
 Closed: 1

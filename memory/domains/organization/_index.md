@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Organization — index
 
@@ -9,9 +9,9 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: PEP feedback closes 25 May, PRC 4-29 Jun, new 1-5 ratings; Tony Hamilton's PRC open with Mike Roberts → memory/domains/organization/mid-year-prc-2001.md
-- Referrals: Jinbaek Kim 30 May; Pravas Sud via Lemmons; Saksena's brother; Gukhal declined → memory/domains/organization/referrals-and-interns-may-2001.md; Kudin, Heo → memory/domains/organization/candidate-interviews-may-02-2001.md
-- Admin: iBuyit approver, visa help for Krishna's in-laws via Wade Cline → memory/domains/organization/research-admin-may-2001.md
+- PRC: PEP closes 25 May; owner reviews Leppard and Naveen Andrews; Tony Hamilton's PRC open with Mike Roberts → memory/domains/organization/mid-year-prc-2001.md
+- Referrals: Cote's EGM reference, intern Kyriakos (a forgotten commitment), Torpong, Aysu Bilgin, Gukhal → memory/domains/organization/referrals-mid-may-2001.md; Jinbaek Kim 30 May → memory/domains/organization/referrals-and-interns-may-2001.md
+- Admin: Wade Cline tries Mumbai for Krishna's in-laws' visa; Iris's SFA registration; Elena Chilkina and Sara Woody titles; Gwyn's CFA → memory/domains/organization/research-admin-mid-may-2001.md
 - HR: Maureen Raymond must find a sponsor → memory/domains/organization/hr-matters-2001.md
 - Company: EES/EWS risk merged (4 May) → memory/domains/organization/corporate-announcements-2001.md; London: Tony Hamilton → memory/domains/organization/tony-hamilton-london-2001.md
 
@@ -69,3 +69,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
 - memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
 - memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
+- memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001 (visa, SFA, titles, CFA)
+- memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001

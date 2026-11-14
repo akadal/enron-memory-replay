@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Industry — index
 
@@ -9,10 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: EPIS Skamania accepted, Kloucek's Rice seminar, marcus evans and IIR declined, SIAM slides owed → memory/domains/industry/speaking-invitations-may-2001.md; EPRM Houston 14-15 May → memory/domains/industry/risk-waters-speaking-may-2001.md
-- Attending: PIRA 14 and 16 May; Stanford EMF 21-22 Jun; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
+- Speaking: EPIS topic owed (Lee Barney), Bachelier plenary (Crete, Jun 2002), Baylor EMBA 27 Jul, IQPC declined, Tamiment 23-24 May, Rice breakfast 30 May → memory/domains/industry/speaking-invitations-mid-may-2001.md; SIAM slides owed → memory/domains/industry/speaking-invitations-may-2001.md
+- Attending: Stanford EMF 21-22 Jun; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
 - Wharton: Risk Center 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
-- California: bond bill short of two-thirds, SoCal may file (7 May) → memory/domains/industry/california-power-may-2001.md
+- California: Thome's briefing helped the owner present Enron's position (15 May); bond vote short (7 May) → memory/domains/industry/california-power-may-2001.md
 - Rice: MGMT 656 closed → memory/domains/industry/rice-mgmt656-grades-may-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
 
 ## Files
@@ -54,3 +54,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/rice-mgmt656-grades-may-2001.md — Rice MGMT 656 final grades, 2-5 May 2001
 - memory/domains/industry/california-power-may-2001.md — California briefings, May 2001
 - memory/domains/industry/speaking-invitations-may-2001.md — speaking invitations and conference contacts, May 2001
+- memory/domains/industry/speaking-invitations-mid-may-2001.md — invitations and logistics from 14 May 2001 (EPIS, Bachelier, Baylor, Tamiment)

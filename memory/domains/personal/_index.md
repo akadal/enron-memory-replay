@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-04-29
+updated: 2001-05-18
 ---
 # Personal — index
 
@@ -9,9 +9,9 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Wife stays with the son in California till June; son graduates this spring; gardener's number noted → memory/domains/personal/household.md
-- Zofia Grodek in the US 29 Apr-7 May; Masson lunch; Marek's resume to Eydeland, dinner 14 May → memory/domains/personal/correspondence.md
-- Bigalow leaves Enron: dinner next week, a parting candlestick article; NEM assigned at 17.5 → memory/domains/personal/investments-2000.md
+- Wife stays with the son in California till June; son Vin graduates this spring; Enron e-mail now vince.j.kaminski@enron.com → memory/domains/personal/household.md
+- Paula Corey's Round Table dinner 18 May; Marek's resume to Eydeland, dinner 14 May; Masson lunch → memory/domains/personal/correspondence.md
+- Bigalow: owner long DVN, adds on dips; dinner in a few weeks → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
 
 ## Files
