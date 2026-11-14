@@ -1,0 +1,198 @@
+{
+ "slice": 101,
+ "simulated_today": "2001-10-04",
+ "feed": {
+  "slice": 101,
+  "iso_week": "2001-W40",
+  "first_seq": 9220,
+  "last_seq": 9230,
+  "messages": 11,
+  "durable": 11,
+  "first_date": "2001-10-01 17:37",
+  "last_date": "2001-10-04 12:02",
+  "today": "2001-10-04",
+  "inbox_files": [
+   "2001-10-01--mail.md",
+   "2001-10-02--mail.md",
+   "2001-10-03--mail.md",
+   "2001-10-04--mail.md"
+  ],
+  "inbox_chars": 11340,
+  "l2_chars": 43948
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 420,
+ "quota_before": {
+  "five_hour": 50.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 52.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 101,
+  "messages": 11,
+  "durable": 11,
+  "kept": 11,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3481,
+  "fact_lines_with_source": 2211,
+  "dated": 2211,
+  "date_matches_source": 2158,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 693
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1519
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 220,
+   "chars": 387222
+  },
+  "people": {
+   "files": 711,
+   "chars": 462663
+  },
+  "archive_inbox": {
+   "files": 625,
+   "chars": 5515578
+  },
+  "archive_mail": {
+   "files": 9256,
+   "chars": 23818690
+  },
+  "archive_other": {
+   "files": 1840,
+   "chars": 1470294
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 38,
+   "duration_ms": 418894,
+   "duration_api_ms": 329690,
+   "total_cost_usd": 2.1435203,
+   "usage": {
+    "input_tokens": 72,
+    "cache_creation_input_tokens": 102182,
+    "cache_read_input_tokens": 2914962,
+    "output_tokens": 37126,
+    "output_tokens_details": {
+     "thinking_tokens": 12853
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 102182,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 715,
+      "cache_read_input_tokens": 120283,
+      "cache_creation_input_tokens": 838,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 838
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 72,
+     "outputTokens": 37126,
+     "cacheReadInputTokens": 2914962,
+     "cacheCreationInputTokens": 102182,
+     "webSearchRequests": 0,
+     "costUSD": 2.1432564000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12853,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 102182,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 37,
+   "result_summary": "The 2001-10-04 consolidation is done and committed as `ae3f9749`, with lint and sleep-audit both green on the first run. All 11 messages with notes went into existing topics, so `dataset/drops/sleep-101.tsv` is empty. The main updates:\n\n- **Georgia Tech:** the QCF talk moved from 4 Oct to Thu 1 Nov. The owner will present the Analyst/Associate program himself instead of a recruiter visit. Title, abstract and hotel choice are owed to Shijie Deng.\n- **CMU:** the owner is back in the MSCF Speaker Series on 7 Dec, and Rick Bryant asked him onto the MSCF Advisory Board (meeting 12 Dec).\n- **Operational risk:** Rick Buy set up an Operational Risk Committee under Wanda Curry, and Sally Beck says checking that RisktRAC's data is correct already belongs to Project Greenlight.\n- **Risk book:** the owner asked RISK about the book's Japanese edition.\n- **Smaller items:** Amitava Dhar's credit-model review, the 2002 Research Plan Meeting, the Accounts Payable (iPayit) update, the second London meteorologist hire being back to square one, and the Rice Energy Club program.\n\nNobody new reached five messages, so no person file was added. The overdue \"Richard McMinn\" alias question was closed by status quo. Two alias approvals are now in `questions.md`: \"Richard L. Bryant\" and \"Joe Hirl\". In every topic I touched that was over its target size, the oldest lines moved word for word to `memory/archive/<domain>/2001/*-2001-10-04.md`, and five of those files ended smaller than they started. No file was above 90% of its ceiling, so the rule to shrink three such files had nothing to act on. The five oldest ongoing lines were checked and are still valid. There were no sleep-task or feedback blocks. I did not push, because the replay instructions say the runner pushes after its own checks, even though the closing template says `git push origin main`."
+  },
+  "repair": null
+ }
+}
