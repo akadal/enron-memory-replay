@@ -5,11 +5,11 @@ entity: person
 name: "Kenneth Parkhill"
 aliases: []
 domains: [organization]
-updated: 2001-02-18
+updated: 2001-05-13
 ---
 # Kenneth Parkhill
 
-Kenneth L. Parkhill, P.E., Ph.D., from Freese & Nichols (Fort Worth); joined Gibner's group as a senior specialist, Nov 2000; in Leadership Fort Worth to Aug 2001. ←[[m03970]] ←[[m04179]] ←[[m04602]]
+Kenneth L. Parkhill, P.E., Ph.D., from Freese & Nichols (Fort Worth); joined Gibner's group as a senior specialist, Nov 2000; in Leadership Fort Worth to Aug 2001. ←[[m03970]] ←[[m04179]] ←[[m04602]] Alias "Ken Parkhill" (?): asked 2001-04-11, lapsed unanswered 2001-05-13; status quo, no alias.
 
 ## Context: organization
 

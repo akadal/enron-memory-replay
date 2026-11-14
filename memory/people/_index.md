@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # People — index
 
@@ -44,6 +44,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Anoush Farhangi
 - Anshuman Srivastav
 - Anthony Mends (Tony Mends)
+- Anurag Saksena
 - April Hodgson (April Hodgeson, April Hodges)
 - Aram Sogomonian
 - Arshak Sarkissian
@@ -530,6 +531,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ross Mesquita
 - Ross Prevatt
 - Rudi Zipter
+- Rumaldo Lopez
 - Rusty Parks
 - Ryan Siurek
 - Sally Beck

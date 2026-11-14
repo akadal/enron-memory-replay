@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-05-06 (end of week 2001-W18). Rice grades all in; Iris Mack in London to 11 May, unsure whom she reports to on the Enron Credit plan; Maureen Raymond must find a sponsor or leave; EES and EWS risk merged 4 May.
+As of 2001-05-13 (end of week 2001-W19). Mail migrated to Outlook, calendar re-entered 8 May; mid-year PRC under way (feedback to 25 May); Krishna's in-laws' visas refused, owner working informal channels; AA wants the Raptor methodology.
 
-- Coming: Rice ALP, EGM meeting 7 May; Kudin interviews 10 May; Godbole committee 11 May; EPRM 13-15 May; PIRA 14/16 May; Kulatilaka 17 May; Wharton Risk Center 14 Jun → memory/domains/industry/_index.md
-- Owed: EPRM slides; Kaminski Column for 7 May; Limperis call with Vasant; Credit Trading limit signature; Dhar's dual trigger greeks; Lu-Issler clash talk with Gibner → memory/domains/work/_index.md
+- Coming: EPRM 14-15 May; PIRA 14/16 May; Kulatilaka 17 May; Berkeley e-commerce 22 May; Rutgers 23 May; Jinbaek Kim starts 30 May; PRCs 4-29 Jun; Wharton Risk Center 14 Jun → memory/domains/industry/_index.md
+- Owed: SIAM slides to Ryan, Liao, Kloucek; EPIS topic; proposal to Larry Thorne; Tony Hamilton's PRC call with Roberts; Kalotay call → memory/domains/work/_index.md
