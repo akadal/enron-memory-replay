@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-08-11 (week 2000-W32). The owner is in Houston.
+As of 2000-08-20 (week 2000-W33). The Research offsite in Breckenridge ran 18-20 Aug.
 
-- Coming: budgets 14 Aug; MD PRC, EEA talk 15 Aug; Jim Woods breakfast, transport model meeting 16 Aug; Kerr phone interview 16/17 Aug; Li Sun 17 Aug; Roundtable, offsite 18-20 Aug; Bambos 21 Aug; mid-year forms 1 Sep → memory/domains/organization/candidate-interviews-aug-2000.md, memory/domains/organization/research-offsite-2000.md
-- Owed: guidelines on Ahmad's terms (Masson); GPG true-up fix; UT licence answer (90 days); Redpath call; Spencer's letter; Wendy King's package → memory/domains/organization/london-research.md, memory/domains/work/ut-austin-ties-2000.md
+- Coming: Bambos, Rahul Kumar, Spencer's call 21 Aug; Paleologo Sat 26 Aug; Fin Math course 31 Aug; mid-year forms 1 Sep; EPRI 7 Sep; Wharton ET 8 Sep; London about 20 Sep; Bay Area 10-20 Oct → memory/domains/work/stanford-research-ties.md, memory/domains/work/value-research-lab.md
+- Owed: owner's half of chapter 3; Cairn meeting with Parsons; GPG reversal fix; Ahmad's terms; UT licence answer; GARP confirmation awaited → memory/domains/work/lacima-book-2000.md, memory/domains/work/cairn-gas-bid.md

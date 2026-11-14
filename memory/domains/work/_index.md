@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-08-11
+updated: 2000-08-20
 ---
 # Work — index
 
@@ -9,79 +9,27 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- MG V@R: copper option lifts total to $5.99M (2 Aug); owner: check units → memory/domains/work/mg-metals-var.md
-- Transport model greeks sign-off; Lu's P/L buckets; meeting Wed 16 Aug → memory/domains/work/transport-model.md
-- NEVRL meeting postponed; Causey to see Victor Burk → memory/domains/work/value-research-lab.md
-- Sydney: Werner to Houston, or Mike Roberts to Sydney → memory/domains/work/enron-australia-2000.md
-- Bambos visits Mon 21 Aug; UT licence answer due → memory/domains/work/stanford-research-ties.md, memory/domains/work/ut-austin-ties-2000.md
+- Cairn bid: owner to help Parsons → memory/domains/work/cairn-gas-bid.md
+- Lacima ch. 3: Duffie reviewed; owner's half owed → memory/domains/work/lacima-book-2000.md
+- PE Corp load forecast, Phase I to 15 Nov → memory/domains/work/pe-load-forecast-2000.md
+- Bambos Mon 21 Aug → memory/domains/work/stanford-research-ties.md
+- NEVRL: AA UK meeting about 20 Sep → memory/domains/work/value-research-lab.md
 
 ## Files
 
-- memory/domains/work/2000-02-20-london-trip.md
-- memory/domains/work/aga-storage-forecast.md
-- memory/domains/work/argentina-modelling.md
-- memory/domains/work/basis-report.md
-- memory/domains/work/broadband-services.md
-- memory/domains/work/chicago-office-support.md
-- memory/domains/work/china-pipeline-real-options.md
-- memory/domains/work/church-giving-forecast.md
-- memory/domains/work/correlation-stress.md
-- memory/domains/work/credit-markets.md
-- memory/domains/work/crude-oil-digital-option.md
-- memory/domains/work/dabhol-power-sale.md
-- memory/domains/work/day-rate-hedge.md
-- memory/domains/work/desk-analysis-requests.md
-- memory/domains/work/ebs-network-planning.md
-- memory/domains/work/ebs-storage-market.md
-- memory/domains/work/ebs-var-policy.md
-- memory/domains/work/ees-regulatory-var.md
-- memory/domains/work/ees-structuring-models.md
-- memory/domains/work/emission-trading-poland.md
-- memory/domains/work/ene-stock-drivers.md
-- memory/domains/work/enron-australia-2000.md
-- memory/domains/work/enron-media-advertising.md
-- memory/domains/work/enterprise-risk-management.md
-- memory/domains/work/eol-content-2000.md
-- memory/domains/work/ethanol-hedging.md
-- memory/domains/work/fas133-implementation.md
-- memory/domains/work/gas-flow-price-model.md
-- memory/domains/work/grms.md
-- memory/domains/work/internal-meetings.md
-- memory/domains/work/japan-merchant-business.md
-- memory/domains/work/kmi-database-license.md
-- memory/domains/work/lacima-book-2000.md
-- memory/domains/work/ljm-put-valuation.md
-- memory/domains/work/lng-book-2000.md
-- memory/domains/work/mars-cds-weather.md
-- memory/domains/work/mec-molecular-electronics.md
-- memory/domains/work/mg-metals-var.md
-- memory/domains/work/model-risk-audit.md
-- memory/domains/work/monte-carlo-library.md
-- memory/domains/work/naphtha-caps-india.md
-- memory/domains/work/outside-requests.md
-- memory/domains/work/owner-publications.md
-- memory/domains/work/promigas-tvcable-option.md
-- memory/domains/work/pse-swap-warsaw.md
-- memory/domains/work/real-options-diagrams.md
-- memory/domains/work/research-presentations.md
-- memory/domains/work/research-web-content-2000.md
-- memory/domains/work/rofr-valuation.md
-- memory/domains/work/south-america-curves.md
-- memory/domains/work/stanford-research-ties.md
-- memory/domains/work/storage-book-var.md
-- memory/domains/work/storage-model.md
-- memory/domains/work/talon-raptor.md
-- memory/domains/work/tips-inflation-model.md
-- memory/domains/work/transport-model.md
-- memory/domains/work/turkish-ipo-options.md
-- memory/domains/work/tw-capacity-options.md
-- memory/domains/work/uk-inflation-book-ppi.md
-- memory/domains/work/uk-power-vol-curve.md
-- memory/domains/work/university-relations.md
-- memory/domains/work/ut-austin-ties-2000.md
-- memory/domains/work/value-research-lab.md
-- memory/domains/work/var-backtesting-2000.md
-- memory/domains/work/vega-var.md
-- memory/domains/work/vendor-offers-2000.md
+Path: memory/domains/work/<name>.md
+
+- 2000-02-20-london-trip · aga-storage-forecast · argentina-modelling · basis-report · broadband-services · cairn-gas-bid
+- chicago-office-support · china-pipeline-real-options · church-giving-forecast · correlation-stress · cost-of-capital-2000 · credit-markets
+- crude-oil-digital-option · dabhol-power-sale · day-rate-hedge · desk-analysis-requests · ebs-network-planning · ebs-storage-market
+- ebs-var-policy · ees-regulatory-var · ees-structuring-models · emission-trading-poland · ene-stock-drivers · enron-australia-2000
+- enron-media-advertising · enterprise-risk-management · eol-content-2000 · ethanol-hedging · fas133-implementation · gas-flow-price-model
+- grms · group-papers-2000 · internal-meetings · japan-merchant-business · kmi-database-license · lacima-book-2000
+- ljm-put-valuation · lng-book-2000 · mars-cds-weather · mec-molecular-electronics · mg-metals-var · model-risk-audit
+- monte-carlo-library · naphtha-caps-india · outside-requests · owner-publications · pe-load-forecast-2000 · promigas-tvcable-option
+- pse-swap-warsaw · real-options-diagrams · research-presentations · research-web-content-2000 · rofr-valuation · south-america-curves
+- stanford-research-ties · storage-book-var · storage-model · talon-raptor · tips-inflation-model · transport-model
+- turkish-ipo-options · tw-capacity-options · uk-inflation-book-ppi · uk-power-vol-curve · university-relations · ut-austin-ties-2000
+- value-research-lab · var-backtesting-2000 · vega-var · vendor-offers-2000
 
 Closed: 1
