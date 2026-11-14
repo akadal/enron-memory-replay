@@ -5,7 +5,7 @@ entity: person
 name: "Luigi Calabrese"
 aliases: []
 domains: [industry]
-updated: 2001-04-11
+updated: 2001-10-04
 ---
 # Luigi Calabrese
 
@@ -14,3 +14,4 @@ Rice MBA candidate, Class of 2002; on the Enron 2001 Rice ALP project team. ←[
 ## Context: industry
 
 - [2001-04-09] Sets the team's presentation for 7 May and sends the faculty contacts → memory/domains/industry/rice-alp-presentation-may-2001.md ←[[m06557]] ←[[m06640]] ←[[m06657]]
+- [2001-10-04] Rice Energy Club president; sends sponsors the 2001-02 program → memory/domains/industry/rice-university.md ←[[m09229]]

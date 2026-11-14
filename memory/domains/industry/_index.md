@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-09-28
+updated: 2001-10-04
 ---
 # Industry — index
 
@@ -12,7 +12,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - Speaking: INFOCAST 10 Oct: bio, paper and AV needs owed, hotel by 5 Oct; University of Alabama class Mon 15 Oct, UA pays (Brooks asks if the date holds); SMS SFO 21-24 Oct; IQPC London 23-24 Oct; Gas & PoweRisk Paris 6-8 Nov: slides by 12 Oct; Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
 - GARP 2002: owner speaks in the energy risk stream and runs the credit risk workshop with Mark Williams; goes ahead after the attacks, new Manhattan venue, dates may change; agenda and 4-5 bullets owed to Simou → memory/domains/industry/garp-2001.md
 - Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report still owed, Cadoni chased 13 and 26 Sep, the other referee's report is in → memory/domains/industry/eprm-risk.md
-- Universities: Rice Energy Club wants its roundtable topics trimmed (Calabrese, 19 Sep) → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference 21-22 Feb 2002: Ronn invites Whalley to keynote → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Kumar's Energy Markets Institute curricula await the owner's reaction → memory/domains/industry/uh-econophysics.md
+- Universities: Rice Energy Club sends its 2001-02 program, Energy 101 roundtable Fri (Craig Parks) → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference 21-22 Feb 2002: Ronn invites Whalley to keynote → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Kumar's Energy Markets Institute curricula await the owner's reaction → memory/domains/industry/uh-econophysics.md
 - MIT: Ken asks for a speaker for the new Energy and Environmental Finance Club; Gros suggests the owner as senior rep at the Sloan Leadership Conference 27 Oct → memory/domains/industry/sponsorship-requests-2001.md; Events: EPIS moved to 12-13 Nov; CEC invitation (Gopal), content unknown; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba Boltzmann model under review (Kohli) → memory/domains/industry/visitors-2001.md
 
 ## Files
