@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-11-26
+updated: 2000-12-03
 ---
 # People — index
 
@@ -122,6 +122,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Farouk Lalji
 - Fiona Grant
 - Frank Diebold
+- Frank Wolak
 - Fred Lagrasta
 - Gabriel Bitran
 - Gary Hickerson
@@ -196,6 +197,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karla Feldman
 - Karolina Potter
 - Kate Bruges
+- Kate Lucas
 - Katja Schilling
 - Kay Chapman
 - Keith Baggerly
@@ -209,6 +211,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kirstee Hewitt
 - Kristin Gandy
 - Kristy Carnes
+- Laine Borgman
 - Lance Cunningham
 - Lane Hughston
 - Lara Berry
@@ -266,6 +269,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Molly Magee
 - Naveen Andrews
 - Nick Bambos
+- Nina Knirel
 - Norberto Valdes
 - Norma Villarreal
 - Nurit Krausz
@@ -288,6 +292,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Philippe Bibi (Philippe A Bibi)
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
+- Praveen Mellacheruvu
+- Qing Chen
 - Quentin Kerr
 - Rabi De
 - Radu Tutos
@@ -318,6 +324,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ross Prevatt
 - Rudi Zipter
 - Sally Beck
+- Sally Gould
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
@@ -362,6 +369,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Teresa Bien
 - Thomas Knudsen
 - Tim Belden
+- Tim Bollerslev
 - Tim Davies (Timothy Davies)
 - Tim Heizenrader
 - Tim Luehrman

@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-11-26 (week 2000-W47). 2001 budget cut (83K) approved 21 Nov; year-end PRC under way; Thanksgiving week.
+As of 2000-12-03 (week 2000-W48). Year-end PRC: rankings sent 29 Nov; Martin's Enron interviews and owner's PRC review Mon 4 Dec; Gibner to Sydney for Project X.
 
-- Coming: AA symposium 28 Nov; PRC pre-rankings 28 Nov; CTAEE 29 Nov; staff Thanksgiving lunch 30 Nov; PSERC 30 Nov-1 Dec (Cunningham); Rice ALP due 1 Dec; PRC review and Martin-Fastow/Skilling/Lay 4 Dec; Wharton 6 Dec; PRC and Transmission Roundtable 8 Dec; Diebold 21 Dec → memory/domains/organization/year-end-prc-2000.md
-- Owed: EnronCredit.com VaR review; DRAM concurrence; Martin's thought document; reply to Nesbitt (MarketPoint case study); JRI referee report; phone interviews (Knirel, Qing Chen) → memory/domains/work/vendor-reviews-nov-2000.md
+- Coming: Yan phone interview and WeBI forum 5 Dec; Wharton (Risk Center, Tiger Team) 6 Dec; Faiz dinner 7 Dec; Research PRC, Transmission Roundtable, Bollerslev 8 Dec; GARP credit group 11-12 Dec; open house 19 Dec; Diebold 21 Dec; owner off 27-29 Dec → memory/domains/organization/year-end-prc-2000.md
+- Owed: Knirel decision; Iris Mack interview; MarketPoint test project; d-g ENERGY signing; AA Koch-deal revaluation; GARP January topic; JRI referee report → memory/domains/work/vendor-reviews-nov-2000.md

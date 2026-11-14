@@ -2,18 +2,18 @@
 id: group-events-2000
 type: topic
 domain: organization
-title: "Research group lunches and holiday baskets, 2000"
-summary: "Kevin Moore's Thanksgiving group luncheon (staff meeting Thu 30 Nov 2000) and the Christmas basket list (final 10 Nov, deadline 12 Dec; Jeff and John added, donuts for support teams; Copy Center and Graphics trays)."
+title: "Research group lunches, holidays and baskets, 2000"
+summary: "Thanksgiving lunch at the Thu 30 Nov staff meeting; Christmas baskets (additions by 12 Dec, delivered 19 Dec, Floral Events); holiday open house Tue 19 Dec (Anita DuPont on the committee); Shanbhogue's dinner Sat 2 Dec (Nov-Dec 2000)."
 status: active
-updated: 2000-11-26
+updated: 2000-12-03
 ---
 # Research group lunches and holiday baskets, 2000
 
-Detail ←[[group-events-2000-2000-11-w47]]
+Detail ←[[group-events-2000-2000-11-w47]] ←[[group-events-2000-2000-12-w48]]
 
 Group members and meetings: memory/domains/organization/research-group.md.
 
-- [2000-11-01] Thanksgiving group lunch (Kevin Moore: Wyatt's mains and pies, Marriott drinks and fruit, Drexler's Cake Art, Floral Events); owner: "Looks great." ←[[m03967]]
-- [2000-11-07] Christmas baskets: donuts for the Move Team, Help Desk and Facilities ("The donuts are a great idea."); Moore asks about Delainey, Lavorato, Shankman: "I think we should add Jeff and John as well (baskets)."; 9 Nov "Please, call me tomorrow to finalize the list."; 10 Nov final list (Gibner, Shanbhogue not yet on it), deadline 12 Dec. ←[[m04078]] ←[[m04105]] ←[[m04106]] ←[[m04140]] ←[[m04147]] ←[[m04152]]
-- [2000-11-08] Thanksgiving: Enron off Thu 23 and Fri 24 Nov; the group's luncheon is at the Thursday staff meeting, 30 Nov. ←[[m04120]]
 - [2000-11-20] Christmas baskets: Anita DuPont asks for a tray for the Copy Center and Graphics (EES Seminars work); Crenshaw asks Kevin Moore to add them. 21 Nov Moore: Thanksgiving meal at the Thu 30 Nov staff meeting; owner: "Thanks for arranging this." ←[[m04317]] ←[[m04341]]
+- [2000-11-28] Kevin Moore: hot Thanksgiving lunch at the Thu 30 Nov staff meeting, 11:30; Clayton Vernon may attend (owner agreed). ←[[m04477]]
+- [2000-11-29] Holiday open house Tue 19 Dec 8-11 am (Charla Reese; Ken and Jeff free then; jazz duet, breakfast; volunteers decorate 7-8 am); Anita DuPont joins the committee (Chinese New Year team), Crenshaw approves; next planning meeting Wed 6 Dec 9:30. Shanbhogue invites the owner, Krishnarao and Gibner with families to dinner in Sugar Land, Sat 2 Dec, 6 pm. ←[[m04517]] ←[[m04528]] ←[[m04524]]
+- [2000-12-01] Christmas baskets (list approved by the owner): additions to Kevin Moore by 12 Dec, when he confirms with Floral Events; all delivered 19 Dec. ←[[m04552]]
