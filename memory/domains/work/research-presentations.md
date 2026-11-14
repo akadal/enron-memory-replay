@@ -5,7 +5,7 @@ domain: work
 title: "Research group outreach: talks and Technical Corner"
 summary: "Group and owner talks: 'Beyond OLS' seminar for Hopley's traders Tue 19 Dec 3:30-5:30, EB30C1; Tamarchenko's power-price material for Tuesday; Lasdon brown bag Fri 19 Jan (Dec 2000); Research Intelligence newsletter and Technical Corner; CAPA 2000 and older talks archived."
 status: active
-updated: 2000-12-22
+updated: 2001-01-07
 ---
 # Research group outreach: talks and Technical Corner
 
@@ -21,4 +21,4 @@ Detail ←[[research-presentations-2000-04-w15]] … (one archive file per week)
 - [2000-12-07] 'Beyond OLS' seminar for George Hopley's traders (via Clayton Vernon; ~20 from Power plus Gas, a room like 30C1): offered Mon 18 Dec 3:30, but traders meet Mon and Wed at 3:30: "Let's move the meeting to 3:30 on Tuesday, December 19."; Crenshaw books the room. ←[[m04668]] ←[[m04682]] ←[[m04683]]
 - [2000-12-11] Crenshaw books EB30C1, 3:30-5:30 pm, for Vernon's 'Beyond OLS' on Tue 19 Dec. ←[[m04717]]
 - [2000-12-12] Tamarchenko can present power-price material at Tuesday's presentation and asks whether to go over it first (she is out Thu afternoon). ←[[m04766]]
-- [2000-12-21] Ben Rogers (3-7998) asks for a copy of the owner's recent power modeling presentation. ←[[m04984]]
+- [2000-12-21] Ben Rogers (3-7998) asks for a copy of the owner's recent power modeling presentation; 3 Jan via Shanbhogue (the volatility talk to traders): "I shall move it through AOL tonight." ←[[m04984]] ←[[m05124]]

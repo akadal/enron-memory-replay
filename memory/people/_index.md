@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-12-31
+updated: 2001-01-07
 ---
 # People — index
 
@@ -15,6 +15,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Alan Aronowitz
 - Alex Huang
 - Alexios Kollaros (Alex Kollaros)
+- Alhamd Alkhayat
 - Alla Gil
 - Allan Roberts
 - Amitava Dhar
@@ -187,6 +188,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jin Yu
 - Jinbaek Kim
 - Joan Payne
+- Joana Ryan Bekerman (Joana Bekerman)
 - Joe Gold
 - Joe Hirko
 - Joe Sutton
@@ -206,6 +208,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Peyton
 - John Sherriff
 - Jonathan Le
+- Jordan Mintz (Jordan H. Mintz)
 - Jose Marquez
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
@@ -223,6 +226,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ken Lay
 - Ken Rice
 - Kenneth Parkhill
+- Kevin Garland
 - Kevin Hannon
 - Kevin Kindall
 - Kevin Moore (Kevin G Moore)
@@ -287,8 +291,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Sergeev
 - Michael Tomczyk
 - Mike McConnell
-- Mike Rosen
 - Mike Roberts (Mike A Roberts)
+- Mike Rosen
 - Ming Sit
 - Molly Magee
 - Naveen Andrews
@@ -342,6 +346,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Robert Johnston
 - Robert Lee (Bob Lee)
 - Robert Rudy
+- Robert Schenck
 - Rodney Greene
 - Rodney Malcolm
 - Rodrigo Lamas
@@ -421,6 +426,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vicky Windsor
 - Vincent Tang
 - Vladimir Gorny
+- Wade Cline
 - William Bradford (William S Bradford)
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
@@ -429,4 +435,5 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Yaron Oren
 - Youyi Feng
 - Zeigham Khokher
+- Zhiyong Wei
 - Zimin Lu

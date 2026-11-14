@@ -2,15 +2,19 @@
 id: india-power-study-henwood
 type: topic
 domain: work
-title: "India power price and dispatch study with Henwood (Dec 2000)"
-summary: "Enron wants an India power price and dispatch study by end-January 2001; Henwood (David Branchcomb, London; Robert Schenck, Adelaide) can do it and sends a proposal; Schenck's data questions go to Sandeep (Dec 2000)."
+title: "India power price and dispatch study with Henwood (Dec 2000-Jan 2001)"
+summary: "Henwood (Robert Schenck) studies India power prices and Dabhol dispatch (DPC dispatch forecasts for 8-10 years) by end-January 2001, invoiced to DPC; Hughes authorised it, Kohli signed 5 Jan; data due 15 Jan; confidentiality agreement from Enron legal (Lundstrom)."
 status: active
-updated: 2000-12-31
+updated: 2001-01-07
 ---
 # India power price and dispatch study with Henwood
 
+Detail ←[[india-power-study-henwood-2001-01-w01]]
+
 India team and Dabhol: memory/domains/work/dabhol-power-sale.md. Henwood's EMSS in London: memory/domains/work/henwood-emss-query.md.
 
-- [2000-12-26] Owner to Gibner: "Henwood can help us with the project in our time frame (end of January)."; David Branchcomb (Henwood London; 44 207 242 8950, cell 44 787 942 5375) coordinates with Henwood's Asia manager in Australia; Gibner to call him Wednesday morning to set up a call that day; Henwood expects Enron's specs: "It makes sense to involve Sandeep at the conference call: he will be very specific about our needs." ←[[m05056]]
-- [2000-12-27] Gibner and Sandeep spoke with Robert Schenck (Adelaide, schenck@hesinet.com), who will e-mail a proposal; Henwood already guessed the interest is modelling Dabhol. ←[[m05057]] ←[[m05063]]
-- [2000-12-28] Schenck asks what Enron knows of Indian generating units (capacity, fuel, efficiency, O&M and fuel costs, location), inter-regional HV links (MW, losses) and hydro and pumped storage (location, capacity, output history); Gibner passes it to Sandeep to answer. ←[[m05063]]
+- [2000-12-26] Owner: "Henwood can help us with the project in our time frame (end of January)."; David Branchcomb (London) linked Gibner and Sandeep to Robert Schenck (Adelaide), who sent a proposal. ←[[m05056]] ←[[m05057]] ←[[m05063]]
+- [2001-01-02] Kohli wants a quick start, structured so DPC pays; Wade Cline: address and invoice it to DPC ("a key study") and say 'Dabhol Plant Operations', never 'Dabhol viability'. Schenck's proposal (29 Dec, PEnron.doc): data access arranged, database build the next week; meeting with the India team in the first week of January, full data by mid-January (Maharashtra good, other states thinner). ←[[m05091]]
+- [2001-01-03] Schenck sends a marked-up Authorisation Henwood needs from Enron and moves his call with Gibner to Friday. ←[[m05111]]
+- [2001-01-04] James A Hughes authorises it (Cline approves): dispatch forecasts for India (DPC) for the next 8-10 years, results by end-January; he wants the grid and stack data ASAP; Henwood relies on Enron for data (in place by 15 Jan; session in India 10-15 Jan); Research finds the hourly rates reasonable. The CA follows Henwood's Japan one (Heather Mitchell or John Viverito); Bruce Lundstrom promises it for 5 Jan; Gibner: a very tight February deadline. ←[[m05143]] ←[[m05159]]
+- [2001-01-05] Kohli (VP) signs the authorisation: Analysis of the India Electricity System and Evaluation of the Dabhol Plant Despatch, hourly rates per the 29 Dec proposal; results confidential under an Enron CA. ←[[m05178]]
