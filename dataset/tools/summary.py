@@ -18,6 +18,9 @@ import sys
 PRICES = {  # USD per million tokens
     "claude-sonnet-5-5": {"in": 2.00, "out": 10.00, "read": 0.10, "w5m": 2.50, "w1h": 4.00},
     "claude-opus-5-5": {"in": 4.00, "out": 20.00, "read": 0.20, "w5m": 5.00, "w1h": 8.00},
+    # From slice 71 Claude Code 2.1.323 makes one small Haiku call of its own per run (about 2,400
+    # tokens in, 25 out); it is not model work on the memory, but it is billed.
+    "claude-haiku-5-5": {"in": 0.10, "out": 0.50, "read": 0.005, "w5m": 0.125, "w1h": 0.20},
 }
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "runs")
 

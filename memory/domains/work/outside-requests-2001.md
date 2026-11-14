@@ -3,17 +3,17 @@ id: outside-requests-2001
 type: topic
 domain: work
 title: "Outside requests to the owner, 2001"
-summary: "Outside asks of the owner, 2001: McCormack (Stern Stewart) waits for the owner's outline; Larry Thorne visits 4 May, NDA stuck on legal's changes, owner promises a proposal and asks to meet the Prediction Company (7 May); Bill Finnoff of the Prediction Company will talk, no consulting (15 May); older items archived."
+summary: "Outside asks of the owner, 2001: McCormack (Stern Stewart) waits for the owner's outline; Larry Thorne meets the owner 4 May, his NDA approved (24 Apr); Mulong Wang (UT) has Henry Hub prices, power waits on FT's permission; Sezgen's EES newsletter article (27 Apr); Martin, Herbert, Kierlanczyk, Geman, Titman and older items archived."
 status: active
-updated: 2001-05-18
+updated: 2001-04-29
 ---
 # Outside requests to the owner, 2001
 
-Detail ←[[outside-requests-2001-2001-03-w10]] ←[[outside-requests-2001-2001-03-w11]] ←[[outside-requests-2001-2001-03-w12]] ←[[outside-requests-2001-2001-04-w13]] ←[[outside-requests-2001-2001-04-w14]] ←[[outside-requests-2001-2001-04-w15]] ←[[outside-requests-2001-2001-04-w15b]] ←[[outside-requests-2001-2001-04-w16]] ←[[outside-requests-2001-2001-04-w17]] ←[[outside-requests-2001-2001-04-w17b]] ←[[outside-requests-2001-2001-05-w18]] ←[[outside-requests-2001-2001-05-w19]] ←[[outside-requests-2001-2001-05-w20]]
+Detail ←[[outside-requests-2001-2001-03-w10]] ←[[outside-requests-2001-2001-03-w11]] ←[[outside-requests-2001-2001-03-w12]] ←[[outside-requests-2001-2001-04-w13]] ←[[outside-requests-2001-2001-04-w14]] ←[[outside-requests-2001-2001-04-w15]] ←[[outside-requests-2001-2001-04-w15b]] ←[[outside-requests-2001-2001-04-w16]] ←[[outside-requests-2001-2001-04-w17]] ←[[outside-requests-2001-2001-04-w17b]]
 
 The 2000 requests: memory/domains/work/outside-requests.md.
 
-- [2001-03-30] John McCormack (Stern Stewart) awaits the owner's outline on the "economic paradigm" for a talk to senior executives (Koenig, perhaps Skilling). ←[[m06444]] ←[[m06445]] ←[[m06551]]
-- [2001-05-01] Larry Thorne's NDA (Bharati, cc owner): Enron's lawyers insist on changes Thorne has not accepted, company policy; 2 May: no NDA unless it matches legal's version. Crenshaw's agenda for his 4 May talk and meetings; Vasant and Krishna take him to lunch. ←[[m07424]] ←[[m07466]] ←[[m07514]] ←[[m07426]]
-- [2001-05-07] To Larry Thorne after his Friday visit (impressed by the group): "I think I shall have a proposal for you in a few days."; asks an introduction to the Prediction Company, "no commitments". 8 May, Lopez: "Lawrence Thorne" will call with a 15-min power-market model talk and "exciting news". Same as Larry Thorne? (?) Unanswered, closed 2001-06-15: status quo, not linked. ←[[m07745]] ←[[m07810]]
-- [2001-05-15] Larry (LawrenceLRTNMT@aol.com) spoke to Bill Finnoff of the Prediction Company (computerized trading): consulting unlikely, but glad to talk within company rules, (505) 984-3123, finnoff@predict.com; two board members also reachable. ←[[m07880]]
+- [2001-03-30] John McCormack (Stern Stewart; JACF praise and monetization pitch 19-24 Mar archived): Mark Palmer, met last Tuesday, proposes he present to senior executives (Koenig, perhaps Skilling), which the owner wants to attend; he awaits the owner's outline on the "economic paradigm" and offers the Fall 1998 JACF piece "How to use EVA in the oil and gas industry"; 5 Apr a CFO Magazine piece on hedging. ←[[m06444]] ←[[m06445]] ←[[m06551]]
+- [2001-04-24] Larry Thorne NDA: Rakesh Bharati's marked-up copy (18 Apr, cc Angela Davis): "Looks fine." ←[[m07127]] ←[[m07160]]
+- [2001-04-24] Mulong Wang: Elena Chilkina sent daily Henry Hub prices from 1995 (19 Apr); power prices wait on FT's permission; owner copies it to AOL. ←[[m07145]] ←[[m07178]]
+- [2001-04-27] Osman Sezgen (EES; cc Mellacheruvu, Krishnarao) asks feedback on Sam's newsletter article, out Monday; owner: "Thanks.", copies it to AOL. ←[[m07275]] ←[[m07276]] ←[[m07307]] ←[[m07308]]

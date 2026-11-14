@@ -5,13 +5,13 @@ domain: work
 title: "Private-firm credit model: RiskCalc test and data vendors (Apr 2001)"
 summary: "Iris Mack and Amitava Dhar (Research) with Credit (Craig Chaney, Jeff Kinneman) and London (Scott Salmon, Mike Mumford) build a private-firm model: RFPs to D&B, Experian, Amadeus out 25 Apr, model by 15 Jul, CTS by 30 Aug; Dhar's final data spec (26 Apr); a credit business plan drafted; Iris in London from 30 Apr with a wish list (Apr 2001); earlier detail archived."
 status: active
-updated: 2001-05-02
+updated: 2001-04-29
 ---
 # Private-firm credit model: RiskCalc test and data vendors (Apr 2001)
 
 Detail ←[[private-firm-credit-model-2001-2001-04-w17]] ←[[private-firm-credit-model-2001-2001-04-w17b]]
 
-Duffie's audit and comparative study: memory/domains/work/model-risk-audit.md. Strategic plan: memory/domains/work/enron-credit-strategy-2001.md.
+Duffie's audit and comparative study: memory/domains/work/model-risk-audit.md.
 
 - [2001-04-23] Schedule (Eric Kirkpatrick): RFPs out 25 Apr, replies 4 May, vendor 11 May, contract 25 May, data 15 Jun, model 15 Jul (Mack), CTS 30 Aug. ←[[m07079]] ←[[m07106]]
 - [2001-04-25] Iris goes to Enron Credit London Mon 30 Apr (Salmon's idea): "One week, with the possibility of extension if necessary is fine."; "I would leave the final decision to Iris, in coordination with Vasant and Amitava, based on the business need."; back before Kulatilaka's 17 May visit. ←[[m07137]] ←[[m07197]] ←[[m07222]]
