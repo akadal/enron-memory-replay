@@ -1,0 +1,192 @@
+id	durable	status	detail
+m08021	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08022	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08023	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08024	no	not_durable	bulk
+m08025	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08026	yes	kept	domains/personal/household.md
+m08027	no	not_durable	bulk
+m08028	no	not_durable	bulk
+m08029	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08030	yes	kept	domains/work/talon-raptor.md
+m08031	yes	kept	domains/work/research-requests-early-jun-2001.md people/simon-hastings.md
+m08032	yes	kept	domains/work/research-models-early-jun-2001.md
+m08033	no	not_durable	logistics
+m08034	no	not_durable	bulk
+m08035	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08036	yes	kept	domains/organization/mid-year-prc-2001.md
+m08037	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08038	yes	kept	domains/work/var-models-early-jun-2001.md
+m08039	yes	kept	domains/organization/research-staff-early-jun-2001.md people/diane-fellers.md
+m08040	yes	kept	domains/organization/research-staff-early-jun-2001.md people/diane-fellers.md
+m08041	no	not_durable	other
+m08042	yes	kept	domains/work/research-models-early-jun-2001.md
+m08043	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md people/philip-annesley.md
+m08044	yes	kept	domains/industry/california-power-jun-2001.md
+m08045	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08046	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08047	yes	kept	domains/work/var-models-early-jun-2001.md
+m08048	no	not_durable	logistics
+m08049	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08050	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08051	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08052	no	not_durable	automated
+m08053	yes	kept	domains/work/var-models-early-jun-2001.md
+m08054	yes	kept	domains/work/var-models-early-jun-2001.md
+m08055	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08056	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08057	no	not_durable	bulk
+m08058	yes	kept	domains/work/research-models-early-jun-2001.md
+m08059	no	not_durable	bulk
+m08060	no	not_durable	automated
+m08061	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md people/philip-annesley.md
+m08062	no	not_durable	bulk
+m08063	no	not_durable	bulk
+m08064	no	not_durable	bulk
+m08065	no	not_durable	automated
+m08066	no	not_durable	bulk
+m08067	no	not_durable	bulk
+m08068	no	not_durable	bulk
+m08069	yes	kept	domains/personal/correspondence.md people/piotr-karasinski.md
+m08070	no	not_durable	bulk
+m08071	no	not_durable	bulk
+m08072	no	not_durable	automated
+m08073	yes	kept	domains/work/technical-analysis-service-2001.md people/kent-miller.md
+m08074	yes	kept	domains/work/technical-analysis-service-2001.md people/kent-miller.md
+m08075	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08076	no	not_durable	logistics
+m08077	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08078	no	not_durable	bulk
+m08079	yes	kept	domains/work/research-models-early-jun-2001.md
+m08080	no	not_durable	bulk
+m08081	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08082	yes	kept	domains/work/research-models-early-jun-2001.md
+m08083	no	not_durable	other
+m08084	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08085	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08086	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md people/theresa-convery.md
+m08087	yes	kept	domains/personal/correspondence.md people/piotr-karasinski.md
+m08088	no	not_durable	bulk
+m08089	yes	kept	domains/organization/research-staff-early-jun-2001.md people/diane-fellers.md
+m08090	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08091	yes	kept	domains/work/research-models-early-jun-2001.md
+m08092	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08093	yes	kept	domains/organization/research-staff-early-jun-2001.md people/diane-fellers.md
+m08094	yes	kept	domains/work/research-models-early-jun-2001.md
+m08095	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08096	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08097	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08098	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08099	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08100	yes	kept	domains/work/research-models-early-jun-2001.md
+m08101	yes	kept	domains/organization/mid-year-prc-2001.md
+m08102	no	not_durable	bulk
+m08103	no	not_durable	bulk
+m08104	no	not_durable	bulk
+m08105	yes	kept	domains/organization/corporate-announcements-2001.md
+m08106	no	not_durable	automated
+m08107	yes	kept	domains/organization/corporate-announcements-2001.md
+m08108	yes	dropped	logistics: Alex Huang re-submits his C Numerical Library access request
+m08109	no	not_durable	logistics
+m08110	no	not_durable	bulk
+m08111	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08112	no	not_durable	automated
+m08113	yes	kept	domains/work/research-models-early-jun-2001.md
+m08114	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08115	no	not_durable	bulk
+m08116	yes	dropped	logistics: owner approves Alex Huang's library access ("Done.")
+m08117	no	not_durable	logistics
+m08118	yes	kept	domains/organization/mid-year-prc-2001.md
+m08119	yes	kept	domains/organization/mid-year-prc-2001.md
+m08120	no	not_durable	pleasantry
+m08121	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08122	no	not_durable	automated
+m08123	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08124	no	not_durable	bulk
+m08125	no	not_durable	bulk
+m08126	no	not_durable	bulk
+m08127	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md people/philip-annesley.md
+m08128	yes	kept	domains/work/var-models-early-jun-2001.md
+m08129	no	not_durable	bulk
+m08130	no	not_durable	bulk
+m08131	no	not_durable	bulk
+m08132	no	not_durable	bulk
+m08133	no	not_durable	bulk
+m08134	no	not_durable	bulk
+m08135	no	not_durable	automated
+m08136	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08137	no	not_durable	bulk
+m08138	no	not_durable	bulk
+m08139	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08140	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md people/philip-annesley.md
+m08141	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08142	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08143	yes	kept	domains/work/research-models-early-jun-2001.md
+m08144	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08145	no	not_durable	bulk
+m08146	yes	kept	domains/work/research-requests-early-jun-2001.md people/ford-cooper.md
+m08147	yes	kept	domains/work/research-requests-early-jun-2001.md people/ford-cooper.md
+m08148	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08149	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08150	no	not_durable	pleasantry
+m08151	no	not_durable	automated
+m08152	no	not_durable	bulk
+m08153	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08154	no	not_durable	bulk
+m08155	no	not_durable	bulk
+m08156	no	not_durable	bulk
+m08157	no	not_durable	bulk
+m08158	no	not_durable	pleasantry
+m08159	no	not_durable	bulk
+m08160	yes	kept	domains/organization/referrals-early-jun-2001.md
+m08161	no	not_durable	bulk
+m08162	no	not_durable	bulk
+m08163	yes	kept	domains/work/var-models-early-jun-2001.md
+m08164	no	not_durable	automated
+m08165	yes	kept	domains/work/var-models-early-jun-2001.md
+m08166	yes	kept	domains/work/var-models-early-jun-2001.md
+m08167	yes	dropped	logistics: Shirley asks approval of invoices and a replacement computer order
+m08168	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08169	yes	kept	domains/work/research-requests-early-jun-2001.md
+m08170	yes	kept	domains/industry/california-power-jun-2001.md
+m08171	yes	kept	domains/work/research-requests-early-jun-2001.md people/george-wasaff.md
+m08172	yes	kept	domains/work/research-requests-early-jun-2001.md people/ford-cooper.md
+m08173	yes	kept	domains/work/research-requests-early-jun-2001.md people/ford-cooper.md
+m08174	no	not_durable	automated
+m08175	no	not_durable	bulk
+m08176	yes	kept	domains/work/var-models-early-jun-2001.md
+m08177	no	not_durable	bulk
+m08178	yes	kept	domains/organization/corporate-announcements-2001.md
+m08179	no	not_durable	bulk
+m08180	no	not_durable	bulk
+m08181	yes	kept	domains/work/research-models-early-jun-2001.md
+m08182	no	not_durable	quote_only
+m08183	yes	kept	domains/industry/california-power-jun-2001.md
+m08184	yes	kept	domains/work/var-models-early-jun-2001.md
+m08185	yes	kept	domains/work/var-models-early-jun-2001.md
+m08186	yes	kept	domains/work/var-models-early-jun-2001.md
+m08187	no	not_durable	automated
+m08188	yes	kept	domains/organization/research-staff-early-jun-2001.md
+m08189	no	not_durable	bulk
+m08190	no	not_durable	automated
+m08191	no	not_durable	bulk
+m08192	no	not_durable	automated
+m08193	no	not_durable	bulk
+m08194	yes	kept	domains/industry/speaking-and-visits-early-jun-2001.md
+m08195	no	not_durable	logistics
+m08196	no	not_durable	bulk
+m08197	no	not_durable	automated
+m08198	no	not_durable	bulk
+m08199	yes	kept	domains/work/research-models-early-jun-2001.md
+m08200	no	not_durable	bulk
+m08201	no	not_durable	bulk
+m08202	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08203	no	not_durable	automated
+m08204	no	not_durable	bulk
+m08205	no	not_durable	other
+m08206	no	not_durable	bulk
+m08207	yes	kept	domains/work/enron-credit-early-jun-2001.md
+m08208	yes	kept	domains/work/research-models-early-jun-2001.md
+m08209	no	not_durable	bulk
+m08210	no	not_durable	automated
+m08211	yes	kept	domains/organization/research-staff-early-jun-2001.md

@@ -1,0 +1,203 @@
+{
+ "slice": 82,
+ "simulated_today": "2001-06-03",
+ "feed": {
+  "slice": 82,
+  "iso_week": "2001-W22",
+  "first_seq": 8021,
+  "last_seq": 8211,
+  "messages": 191,
+  "durable": 105,
+  "first_date": "2001-05-28 14:27",
+  "last_date": "2001-06-03 23:14",
+  "today": "2001-06-03",
+  "inbox_files": [
+   "2001-05-28--mail.md",
+   "2001-05-29--mail.md",
+   "2001-05-30--mail.md",
+   "2001-05-31--mail.md",
+   "2001-06-01--mail.md",
+   "2001-06-02--mail.md",
+   "2001-06-03--mail.md"
+  ],
+  "inbox_chars": 85151,
+  "l2_chars": 525048
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 665,
+ "quota_before": {
+  "five_hour": 39.0,
+  "seven_day": 46.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 42.0,
+  "seven_day": 47.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 82,
+  "messages": 191,
+  "durable": 105,
+  "kept": 102,
+  "kept_rate_excluding_redundant": 0.971,
+  "drop_classes": {
+   "logistics": 3
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3735,
+  "fact_lines_with_source": 2371,
+  "dated": 2371,
+  "date_matches_source": 2319,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.82,
+   1.0,
+   1.0,
+   0.91,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 641
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1643
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 255,
+   "chars": 474198
+  },
+  "people": {
+   "files": 662,
+   "chars": 424892
+  },
+  "archive_inbox": {
+   "files": 517,
+   "chars": 4829669
+  },
+  "archive_mail": {
+   "files": 8237,
+   "chars": 20580985
+  },
+  "archive_other": {
+   "files": 1449,
+   "chars": 1189386
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 66,
+   "duration_ms": 662970,
+   "duration_api_ms": 505792,
+   "total_cost_usd": 3.7656993,
+   "usage": {
+    "input_tokens": 110,
+    "cache_creation_input_tokens": 166754,
+    "cache_read_input_tokens": 6679291,
+    "output_tokens": 54756,
+    "output_tokens_details": {
+     "thinking_tokens": 19329
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 166754,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 814,
+      "cache_read_input_tokens": 184753,
+      "cache_creation_input_tokens": 940,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 940
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00024910000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 110,
+     "outputTokens": 54756,
+     "cacheReadInputTokens": 6679291,
+     "cacheCreationInputTokens": 166754,
+     "webSearchRequests": 0,
+     "costUSD": 3.7654502,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 19329,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 166754,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 65,
+   "result_summary": "The 2001-06-03 consolidation ran cleanly and is committed as `a2a6a61`. It is not pushed: your dataset instructions say the runner pushes after its own checks, which overrides the \"git push\" line at the end of the brief.\n\n**What went in:** the week had 191 messages, 105 of them with notes. 102 are cited in memory and 3 are logged as drops in `dataset/drops/sleep-082.tsv` (all logistics: two library-access emails and one invoice approval).\n- **New topic files:** eight, covering VaR and Project X plus the risk-management memo to Skilling, research models, Enron Credit, research requests, staff and admin, referrals, talks and visits, and California's \"Plan Z\".\n- **Updated files:** seven existing files got this week's news, including the Raptor memo, the 6 Jun review (PRC) meeting and the sale of Houston Pipe Line to AEP.\n- **People:** eight people reached five messages this week and now have entity files (Diane Fellers, Philip Annesley, Ford Cooper, Theresa Convery, Simon Hastings, Piotr Karasinski, Kent Miller, George Wasaff).\n- **Approval question:** \"Edward Krapels\" uses the same email address as the existing Ed Krapels file. Adding an alias needs approval, so I added a question to `questions.md` (due 2001-07-03) instead of linking them.\n\n**Housekeeping:** `stinson-gibner.md` was the only file at 90% of its size limit and is down from 1,440 to 903 characters. Two other large files were trimmed. Older lines from five files moved word for word into week-22 archive files so this week's additions didn't make them bigger. The five oldest \"still true\" lines were checked and are all still valid. No questions were past due, and there were no sleep-task or feedback blocks.\n\nBoth checks (`lint.py` and `sleep-audit.py`) passed on the first run. The eight processed logs are in `archive/inbox/`; the leftover 2001-05-26 log was archived as `2001-05-26--mail-2.md` because that name was already taken. This run's own log is in a fresh `memory/inbox/2001-06-03--mail.md`. The runner's"
+  },
+  "repair": null
+ }
+}
