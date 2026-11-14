@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-10-22
+updated: 2000-10-29
 ---
 # People — index
 
@@ -26,6 +26,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andreas Simou
 - Andrew Fastow (Andy Fastow)
 - Andrew Miles
+- Andrzej Lubowski
 - Andrzej Wodnicki
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
@@ -86,6 +87,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Dupre
 - David Gorte (Dave Gorte)
 - David Oxley
+- David Port
 - David Walkup (David C. Walkup)
 - Dawn Derr
 - Dawn Scovill
@@ -120,6 +122,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - George Hopley
 - George McClellan
 - George Posey
+- Gerald Sheble (Gerry Sheble)
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
@@ -152,9 +155,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jim Garven (James R. Garven)
 - Jim Irvine
 - Jim Schwieger
+- Jin Yu
 - Joan Payne
 - Joe Gold
 - Joe Hirko
+- Joe Sutton
 - Joel Hanley
 - John Arnold
 - John Bloomer
@@ -165,6 +170,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Griebling
 - John Herbert (John H Herbert)
 - John Lavorato
+- John Nowlan (John L Nowlan)
 - John O'Brien
 - John Pavetto
 - John Peyton
@@ -194,8 +200,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lance Cunningham
 - Lane Hughston
 - Lara Berry
+- Larry Lawyer
 - Laura Luce
 - Leandro Ibasco (Roy Ibasco, Roy)
+- Leann Walton
 - Lenos Trigeorgis
 - Les Clewlow
 - Li Sun
@@ -204,6 +212,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lisa Ford
 - Liz Taylor (Liz M Taylor)
 - Lloyd Fleming
+- Lloyd Will
 - Lou Casari
 - Lou Pai (Lou L Pai)
 - Louise Kitchen
@@ -229,6 +238,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Masayuki Fujita
 - Matthew Williams (Matt Williams)
 - Maureen Raymond
+- Melanie Doyle
 - Michael Anderson
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
@@ -279,8 +289,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Robert Rudy
 - Rodney Greene
 - Rodney Malcolm
+- Rodrigo Lamas
 - Roman Kosecki
 - Roman Zadorozhny
+- Ron Baker
 - Ronnie Chahal
 - Rosemary Fitzgerald
 - Ross Prevatt
@@ -313,13 +325,16 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Soussan Faiz
 - Stathis Tompaidis
 - Stephanie Summers
+- Stephen Bennett
 - Stephen Bramlett (Steven Bramlet)
 - Stephen Stock
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Steven Shreve
 - Stinson Gibner
+- Tani Nath
 - Tanya Tamarchenko
+- Tara Rozen
 - Ted Bland
 - Ted Murphy
 - Teresa Bien
@@ -346,6 +361,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Winston Jia (Wenyao Jia)
 - Yana Kristal
 - Yannis Tzamouranis
+- Yaron Oren
 - Youyi Feng
 - Zeigham Khokher
 - Zimin Lu

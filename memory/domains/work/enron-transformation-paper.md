@@ -3,14 +3,16 @@ id: enron-transformation-paper
 type: topic
 domain: work
 title: "Enron transformation paper with John D. Martin (Baylor)"
-summary: "Joint paper by the owner and Baylor's John D. Martin: 'Enron - Case Study of a Company Reinventing Itself' ('proactive evolution'), HBR-style; interviews with Lay, Skilling, Fastow via Christie Patrick (dates open; leadership visit early Dec); Waco Mon 13 Nov; Baylor spring workshop Fri 23 Feb 2001 (Oct 2000)."
+summary: "Owner's joint paper with John D. Martin (Baylor), 'Transforming Enron Corporation as an Act of Managerial Will', HBR style: Cindy Derecskey books Lay, Skilling, Fastow 4-5 Dec or week of 11 Dec; Waco 13 Nov; workshop Fri 23 Feb 2001; older steps archived."
 status: active
-updated: 2000-10-22
+updated: 2000-10-29
 ---
 # Enron transformation paper with John D. Martin (Baylor)
 
+Detail ←[[enron-transformation-paper-2000-10-w43]]
+
 Earlier rounds (theme, Christmas deadline, UNO chair) ←[[university-relations-2000-10-w41]] ←[[enron-transformation-paper-2000-10-w42]]; Martin's details: memory/people/john-d-martin.md.
 
-- [2000-10-09] Owner to Mark Palmer: Martin wanted to write on EBS; owner: "I have suggested a different topic: Enron - Case Study of a Company Reinventing Itself.", "I came up with a term "proactive evolution", as opposed to "reactive evolution."" (people, risk-taking, empowerment); needs interviews with Ken, Jeff and others; "The paper could become a standard reading at the MBA courses on corporate strategy". ←[[m03467]]
-- [2000-10-10] Waco: "Per our discussion, Nov 13 is fine."; Martin: arrive by 3 pm Mon 13 Nov, faculty seminar 4 pm (owner outlines the paper), his Ex-MBA class 6-7:30 pm, paper work Tue morning; owner forwards it to Crenshaw and AOL. ←[[m03513]] ←[[m03527]] ←[[m03532]] ←[[m03533]]
 - [2000-10-17] Martin to Christie Patrick (arranging their visit to Enron's leadership): free early Dec to Wed 6 Dec (Harvard 7-8 Dec) or the two weeks after; Lay, Skilling, Fastow not yet scheduled. 18 Oct owner: "I shall see Christie tomorrow and I shall talk to her about the project."; the spring workshop 'Business education and the new economy' moves to Fri 23 Feb 2001: "Friday, Feb 23 works for me." ←[[m03677]] ←[[m03701]] ←[[m03731]]
+- [2000-10-25] Cindy Derecskey (University Affairs, with Christie Patrick, Michael B Rosen) liaises for the case study; owner: "Yes, I shall co-author this paper and I have planted  the idea in John Martin's head.", "I am in Wharton on December 6. Other days prior to Dec 6 are OK." ←[[m03820]] ←[[m03825]] ←[[m03828]]
+- [2000-10-26] Title: 'Transforming Enron Corporation as an Act of Managerial Will - The Value of Active Management' (20-40 pages, HBR style); one-hour interviews with Lay, Skilling, Fastow proposed Mon 4 Dec, Tue 5 Dec or the week of 11 Dec (assistants Rosalee Fleming, Sherri Sera, Victoria Martinez); Martin drafts questions with the owner next week. ←[[m03836]] ←[[m03851]]

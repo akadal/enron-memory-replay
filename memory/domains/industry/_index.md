@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-10-22
+updated: 2000-10-29
 ---
 # Industry — index
 
@@ -10,7 +10,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - INFORMS San Antonio: session Mon 6 Nov afternoon, 20 minutes (Deng) → memory/domains/industry/informs-san-antonio-2000.md
-- CERA Roundtable 1 Nov, Arthur Andersen symposium Tue 28 Nov (registered) → memory/domains/industry/events-attending-2000.md; Wharton visit 19-20 Oct → memory/domains/industry/wharton-visit-oct-2000.md
+- CERA Roundtable 1 Nov, Arthur Andersen symposium Tue 28 Nov (registered) → memory/domains/industry/events-attending-2000.md; Wharton finance conference panel 8 Dec (Shankman) → memory/domains/industry/wharton-visit-oct-2000.md
 - Ordonez (UH) offered Wed 8 Nov → memory/domains/industry/visitors-2000.md; EPRM 2001 Houston 14-16 May, Bristow wants ideas → memory/domains/industry/eprm-risk.md
 - Infocast 2001 course passed to Hrgovcic → memory/domains/industry/declined-invitations-2000.md; low-riverflow insurance → memory/domains/industry/weather-insurance-markets.md
 - Bollerslev at Rice Fri 8 Dec, noon → memory/domains/industry/rice-university.md
@@ -34,4 +34,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Lubowski (Visa), Ordonez (UH) 8 Nov
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: Sacramento station, research partners, low-riverflow insurance (Oct)
-- memory/domains/industry/wharton-visit-oct-2000.md — Wharton visit 19 Oct, Tiger Team, Entrepreneurship Conference sponsorship
+- memory/domains/industry/wharton-visit-oct-2000.md — Wharton visit 19 Oct, Strategy meeting, conference sponsorships

@@ -3,17 +3,15 @@ id: campus-recruiting-fall-2000
 type: topic
 domain: work
 title: "Fall 2000 campus recruiting: Berkeley, CMU, MIT"
-summary: "Fall 2000 campus recruiting: Berkeley presentation Mon 16 Oct held (owner, Pavetto; low attendance, 43 Technologist and 46 Analyst resumes); Oren's IEOR seminar Mon 23 Oct, 3:30, 'Volatility of Electricity Prices'; CMU MSCF Speaker Series Fri 3 Nov with Kristin Gandy (Westin William Penn), interviews 11-12 Dec; older detail archived."
+summary: "Fall 2000 campus recruiting: owner's Berkeley IEOR talk 23 Oct brings Rajnish Kamat and Jinbaek Kim (both invited to Houston, outside the analyst route) and Jun Shu (EBS info via Martin Lin); CMU MSCF Speaker Series Fri 3 Nov, 11:30, Fast Lab; older detail archived."
 status: active
-updated: 2000-10-22
+updated: 2000-10-29
 ---
 # Fall 2000 campus recruiting: Berkeley, CMU, MIT
 
-Detail ←[[campus-recruiting-fall-2000-2000-09-w38]] … (one archive file per week) ←[[campus-recruiting-fall-2000-2000-10-w41]] ←[[campus-recruiting-fall-2000-2000-10-w42]]
+Detail ←[[campus-recruiting-fall-2000-2000-09-w38]] … (one archive file per week) ←[[campus-recruiting-fall-2000-2000-10-w41]] ←[[campus-recruiting-fall-2000-2000-10-w42]] ←[[campus-recruiting-fall-2000-2000-10-w43]]
 
 Enron's university ties: memory/domains/work/university-relations.md. Earlier detail (Berkeley fair 8 Sep, CMU 13 Sep, CMU faculty lunch, MSCF date choice) ←[[university-relations-2000-08-w34]] … (one archive file per week) ←[[campus-recruiting-fall-2000-2000-09-w37]]
-- [2000-10-12] CMU speech Fri 3 Nov with Kristin Gandy: Alyse Herasimchuk books the Westin William Penn, (412) 281-7100 (Vince 401221, Kristin 401220). ←[[m03562]] ←[[m03587]]
-- [2000-10-13] Oren's IEOR Monday Seminar Mon 23 Oct, 3:30-5:00, 3108 Etcheverry (Makiko Sato): "Volatility of Electricity Prices - Measurement and Analysis of Underlying Causes" (the INFORMS abstract); Crenshaw sends Oren his bio. ←[[m03630]] ←[[m03640]] ←[[m03465]]
-- [2000-10-16] Berkeley trip (Ashley Baxter's itinerary): Houston-San Francisco 16 Oct, back from Oakland 17 Oct. ←[[m03653]]
-- [2000-10-18] Oren's seminar announced on the IEOR list (abstract: annualized std of log returns may not fit electricity prices); Oren: oren@ieor.berkeley.edu, (510) 642-1836. ←[[m03699]] ←[[m03725]]
-- [2000-10-19] Baxter: low campus attendance at the Cal Berkeley presentation (owner, John Pavetto); 43 resumes for Technologist, 46 for Analyst. ←[[m03737]]
+- [2000-10-24] After the owner's 23 Oct Berkeley IEOR talk ("I came to SF for one day to do recruiting at Berkeley."): Rajnish Kamat (Oren's Ph.D. student, electricity contract design, May 2001): "We shall invite you for  an interview in Houston."; to Ashley Baxter: "He does not qualify as an analyst candidate." Jinbaek Kim (IEOR Ph.D.): "We shall invite you to an interview in Houston."; Baxter: no Global Technology Track fit. ←[[m03775]] ←[[m03797]] ←[[m03798]] ←[[m03800]] ←[[m03801]] ←[[m03807]] ←[[m03810]]
+- [2000-10-25] Jun Shu (IEOR Ph.D., Internet pricing with Oren and Varaiya) asks about Enron's bandwidth market; owner to Martin Lin: "Can you, please, call Shu and provide him with information about EBS?" ←[[m03765]] ←[[m03832]] ←[[m03835]]
+- [2000-10-27] CMU MSCF Speaker Series (Pierre-Philippe Ste-Marie): Fri 3 Nov, 11:30, Fast Lab (GSIA 229), topic TBA; dinner for ten 7 pm, Georges Town Hill; owner has Crenshaw send his itinerary; Ste-Marie asks his title and talk title. ←[[m03863]] ←[[m03878]] ←[[m03895]] ←[[m03896]]
