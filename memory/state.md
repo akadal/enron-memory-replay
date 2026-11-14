@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-02-10 (week 2001-W06). Martin paper typeset, PR edits in; India opens power trading to 100% foreign equity; Lay/Skilling reshuffle (Xcelerator, Delainey to EES, Lavorato runs Enron Americas).
+As of 2001-02-18 (week 2001-W07). Owner at Wharton Tue 20 Feb; Tigers of Teams 1 and 3 to Research as summer associates; Board-approved Risk Management Policy revised; Haughton's second London round 20 Feb.
 
-- Coming: CHARM call 12-13 Feb; GARP chair NY 13 Feb; CERA 12-16 Feb; Rick Jones at lunch 15 Feb; Wharton review 20 Feb; Java 20-23 Feb; UT conference, Baylor panel and dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
-- Owed: Baylor bio; MacMillan NDA; Haughton video call; input on Dhar's insurance report → memory/domains/work/insurance-portfolio-risk-2001.md
+- Coming: Wharton 20 Feb; Java 20-23 Feb; Elsner talk 22 Feb; UT conference 22-23 Feb (Tanya likely); Baylor dinner 23 Feb; PJM 101 27 Feb; Bambos 9 Mar → memory/domains/industry/wharton-projects-feb-2001.md
+- Owed: CHARM call with Willis; view on Zdunkewicz's termination payments; Lacima weather course terms; help with Tanya's UT talk → memory/domains/work/ees-termination-payments-2001.md

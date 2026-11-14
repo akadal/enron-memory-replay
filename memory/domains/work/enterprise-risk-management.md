@@ -5,7 +5,7 @@ domain: work
 title: "Enterprise-Wide Risk Management"
 summary: "Enterprise-Wide Risk Management (Causey's initiative, 2000): owner's ERM write-up (Sep 2000); EWRM outline to David Port, whose SRM fits the volumetric part (Oct 2000); Kindall on operational risk; Willis's CHARM VaR tool (Jan 2001); older items archived."
 status: active
-updated: 2001-02-10
+updated: 2001-02-18
 ---
 # Enterprise-Wide Risk Management
 
@@ -16,4 +16,4 @@ Owner: "It's Enterprise - Wide Risk Management and it's really an effort to meas
 - [2001-01-03] Osman Sezgen (EES) wants a brainstorm on business (non-market) risk in VaR; owner: "Kevin Kindall is working on the methods for operational risk."; meeting with Kindall, Tanya and the owner. ←[[m05106]]
 - [2001-01-17] James Bouillion met Willis: CHARM (Bertil Olsson) puts insurance, financial and weather exposures in VaR form with correlations; owner: "Yes, I would be very interested."; first a call with Carl Groth (Willis NY); 19 Jan FYI to Shanbhogue (Kindall, Overdyke copied). ←[[m05389]] ←[[m05410]] ←[[m05444]]
 - [2001-01-24] Kindall's starting point from United Grain Growers: Mike McAndless's ERM talk (Canadian Risk Managers, Edmonton, fall 2000); owner copies it to AOL. ←[[m05554]]
-- [2001-02-07] CHARM call with Willis (Olsson, Carl Groth) Mon 12 or Tue 13 Feb, a.m.; Bouillion asks the owner, Jonathan Davis, Kate Lucas, Kindall which works. ←[[m05819]]
+- [2001-02-07] CHARM call with Willis (Olsson, Carl Groth) offered for Mon 12 or Tue 13 Feb (Bouillion asks the owner, Jonathan Davis, Kate Lucas, Kindall); 12 Feb owner: not this week, "What about a call next week?" ←[[m05819]] ←[[m05858]]

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-02-10
+updated: 2001-02-18
 ---
 # People — index
 
@@ -57,6 +57,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Blake Johnson
 - Bob Shults
 - Bobby Farris
+- Bogdan Szopa
 - Bonnie Nelson
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
@@ -69,7 +70,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Carlos Ordonez
 - Carol Coats
 - Carrie Miller
+- Cassandra Schultz
 - Cathy Phillips
+- Cecil Stradford
 - Celeste Roberts
 - Charlene Jackson
 - Charles Shen
@@ -106,6 +109,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Gorte (Dave Gorte)
 - David Ikenberry
 - David Oxley
+- David Palumbo
 - David Port
 - David Walkup (David C. Walkup)
 - Dawn Derr
@@ -117,6 +121,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dennis Feerick
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
+- Dmitri Villevald
 - Dolores Muzzy
 - Donna Piazze
 - Dorn Hetzel
@@ -168,6 +173,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Harry Arora
 - Heather Thorne
 - Hector Campos
+- Helen Zhang
 - Helyette Geman
 - Howard Haughton
 - Howard Kunreuther
@@ -316,6 +322,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Melinda McCarty
 - Michael Anderson
 - Michael Curran
+- Michael Danielson
+- Michael Froehls
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
 - Michael Sergeev
@@ -332,6 +340,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Neil McGregor
 - Nelson Neale (C. Nelson Neale)
 - Niamh Clarke
+- Nicholas Levitt (Nick Levitt)
 - Nick Bambos
 - Nina Knirel
 - Norberto Valdes
@@ -340,7 +349,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Nurit Krausz
 - Oliver Bennett
 - Oliver Gaylard
+- Omar Bassal (Omar Bassel)
 - Osman Sezgen
+- Paige Cox
 - Paige Grumulaitis
 - Pamela Vande Krol Castro (Pam Castro)
 - Pat Henahan
@@ -369,7 +380,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Qing Chen
 - Quentin Kerr
 - Rabi De
+- Rachel Quirke
 - Radu Tutos
+- Raj Srivastava
 - Rajnish Kamat
 - Rakesh Bharati
 - Ravi Thuraisingham
@@ -438,6 +451,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stephanie Summers
 - Stephen Bennett
 - Stephen Bramlett (Steven Bramlet)
+- Stephen Lessar (Steve Lessar)
 - Stephen Stock
 - Steve Bigalow
 - Steve Walton

@@ -3,17 +3,16 @@ id: summer-interns-2001
 type: topic
 domain: organization
 title: "Summer interns and campus recruiting, 2001"
-summary: "2001 interns and campus recruiting: Wharton interviews 5-6 Feb; Whitsel wanted; Wharton Tigers Mallik, DeGiacinto, Vittal, Gershenson, Iker all taken (5-6 Feb); Mehendale (Wisconsin) for summer research (9 Feb); Kao, Berkeley presentation archived."
+summary: "2001 interns: Wharton Tigers of Teams 1 and 3 all wanted, the Associate Program takes its picks and the owner absorbs the overflow into Research (Feb 2001); Carnegie Mellon interviews 15-16 Feb; Vanderbilt's Villevald declined (interns maxed out); Mehendale (Wisconsin) and earlier Wharton rounds archived."
 status: active
-updated: 2001-02-10
+updated: 2001-02-18
 ---
 # Summer interns and campus recruiting, 2001
 
-Detail ←[[summer-interns-2001-2001-01-w04]] ←[[summer-interns-2001-2001-02-w05]] ←[[summer-interns-2001-2001-02-w06]]
+Detail ←[[summer-interns-2001-2001-01-w04]] ←[[summer-interns-2001-2001-02-w05]] ←[[summer-interns-2001-2001-02-w06]] ←[[summer-interns-2001-2001-02-w07]]
 
 2000 interns: memory/domains/organization/summer-interns-2000.md. Wharton trip: memory/domains/industry/wharton-tiger-trip-jan-2001.md.
 
-- [2001-01-30] Gandy seeks two interviewers a day for Wharton summer Associate interviews, Rittenhouse Hotel, 5-6 Feb (Kite, Nezi Marvin confirmed). 31 Jan on Kim Whitsel: "Yes, we would like very much to have her as a summer intern." ←[[m05668]] ←[[m05683]]
-- [2001-02-02] Wharton FAP (Donna) adds Tiger members Deepa Mallik and Clayton DeGiacinto to the internship applicants. ←[[m05751]] ←[[m05766]]
-- [2001-02-05] More Tigers: Ram Vittal via Donna (FAP; 8 Tigers want Enron): "One of the tigers"; Reliant team's David Gershenson and James Iker (Vincent Chen: promised in Houston): "Please, let Kristin know we can take all these Wharton students."; 6 Feb to Gandy: "We shall have enough work for all of them." ←[[m05773]] ←[[m05774]] ←[[m05775]] ←[[m05776]] ←[[m05785]] ←[[m05813]]
-- [2001-02-09] Gibner asks Molly Magee to hire Bhalachandra Mehendale (MS Finance, U. Wisconsin, Dec 2001) for research, ~28 May-end Aug. ←[[m05825]]
+- [2001-02-12] Gandy needs one more Carnegie Mellon interviewer, Fri 16 Feb (Kindall, Danielson, Walt, Chettiar, Knop confirmed); owner to Bob Lee: "Can you help Kristin with interviews on Friday?" ←[[m05865]]
+- [2001-02-15] Tigers: Gandy wants the names of Teams 1 and 3 (Team 2 opted out; Patrick sends the lists); Celeste Roberts: the owner takes all of them into Research, unseen ones get offers, those turned down on campus do not, Jana Giovannini staffs them. Owner: "Please, let us know whom you are willing to take based on the campus interviews, and I shall absorb the overflow." "Last year we took 8 summer interns into research and all of them very happy with the program." ←[[m05891]] ←[[m05905]] ←[[m05913]]
+- [2001-02-16] Vanderbilt's Dmitri Villevald (offered to work unpaid) declined: "we maxed out on the number of interns we can gainfully employ and provide adequate supervision" ←[[m05900]]

@@ -5,7 +5,7 @@ domain: organization
 title: "Research Group operations, 2001"
 summary: "Group rules and routines for 2001: one project-list template (Plans2001), arrival by 8:30, Mike Roberts and weather consolidation, forward curves not released, the Energy Derivatives seminar (from 19 Jan, mandatory for 2000 joiners) beside the Friday option-pricing brown bags (Jan 2001)."
 status: active
-updated: 2001-02-04
+updated: 2001-02-18
 ---
 # Research Group operations, 2001
 
@@ -17,6 +17,7 @@ Members and staff meeting: memory/domains/organization/research-group.md.
 - [2001-01-02→] Arrival by 8:30 am at the latest, at the owner's request (clients call from 8:00); late arrivals tell the supervisor and Anita or Shirley first (Shanbhogue). The owner drafts the group's 2001 directions. ←[[m05099]]
 - [2001-01-04] To Supatgiat: "I expect and encourage the members of the group to disagree with me (or anybody else) on any subject.", "In Enron, facts are friendly." ←[[m05153]]
 - [2001-01-31] Livelink as Research's document repository and project tracker (Moyez Lallani); Gibner's project attributes go to the test environment. 1 Feb Crenshaw adds Anita DuPont as backup timekeeper (Cost Center 107043). ←[[m05691]] ←[[m05731]]
+- [2001-02-12] Tamarchenko's technical corner article (cc William Smith): "Looks good. We  should break it up in 2 parts." ←[[m05850]]
 
 ## Energy Derivatives seminar
 
