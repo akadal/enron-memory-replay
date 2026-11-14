@@ -5,7 +5,7 @@ entity: person
 name: "Aram Sogomonian"
 aliases: []
 domains: [industry, organization]
-updated: 2000-09-10
+updated: 2000-10-15
 ---
 # Aram Sogomonian
 
@@ -18,3 +18,4 @@ Former Enron colleague, now at the old PacifiCorp; came to Houston 28 Apr 2000 f
 ## Context: organization
 
 - [2000-04-27] The owner: "I have already got him for mine." → memory/domains/industry/visitors-2000.md ←[[m01519]] ←[[m01524]] ←[[m01538]]
+- [2000-10-12] Owner wants him to interview with Presto and Hopley → memory/domains/organization/candidate-interviews-oct-2000.md ←[[m03563]]

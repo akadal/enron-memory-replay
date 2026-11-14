@@ -5,7 +5,7 @@ entity: person
 name: "Roman Kosecki"
 aliases: []
 domains: [personal, organization]
-updated: 2000-10-01
+updated: 2000-10-15
 ---
 # Roman Kosecki
 
@@ -14,6 +14,7 @@ Former SCEM colleague of the owner; since 2000 at MIECO, a small Marubeni-backed
 ## Context: personal
 
 - [2000-09-27] Owner: "I was trying to locate you for some time after you left SCEM.", "I shall be glad to meet for dinner/coffee and chat."; Kosecki in New York to Friday, then Long Beach for weeks; owner (Paris next week, many October trips): "Please, let me know when you come to Houston." ←[[m03317]] ←[[m03325]]
+- [2000-10-13] In Houston next Mon-Wed; owner: "Drinks after work would be better.", gives his office, cell and home numbers. ←[[m03580]] ←[[m03616]]
 
 ## Context: organization
 

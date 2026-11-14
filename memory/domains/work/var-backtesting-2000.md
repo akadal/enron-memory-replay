@@ -3,16 +3,15 @@ id: var-backtesting-2000
 type: topic
 domain: work
 title: "VaR methodology: backtesting, factor loadings, component VaR (2000)"
-summary: "VaR methodology, 2000: factor loadings for every primary curve, fewer forward prices (Oct 2000); power correlation term structure proposed; Tamarchenko's open VAR and credit issue list (5 Oct); FFVols VaR kept out of production, hybrid vols, backtesting archived."
+summary: "VaR methodology, 2000: factor loadings for every primary curve, Tamarchenko's open VAR list (Oct 2000, archived); UK VaR over limit, gas-power and EFA correlations reworked (9 Oct); NG correlations weighted to recent data, contract prices (13 Oct); FFVols, hybrid vols, backtesting archived."
 status: active
-updated: 2000-10-08
+updated: 2000-10-15
 ---
 # VaR methodology: backtesting, factor loadings, component VaR (2000)
 
-Detail ←[[var-backtesting-2000-2000-06-w26]] ←[[var-backtesting-2000-2000-07-w28]] ←[[var-backtesting-2000-2000-07-w29]] ←[[var-backtesting-2000-2000-08-w34]] ←[[var-backtesting-2000-2000-09-w35]] ←[[var-backtesting-2000-2000-09-w38]] ←[[var-backtesting-2000-2000-10-w39]] ←[[var-backtesting-2000-2000-10-w40]] ←[[var-backtesting-2000-2000-10-w40]]
+Detail ←[[var-backtesting-2000-2000-06-w26]] … (one archive file per week) ←[[var-backtesting-2000-2000-10-w41]]
 
 Storage book VaR: memory/domains/work/storage-book-var.md. Credit Reserve Model: memory/domains/work/vega-var.md.
 
-- [2000-09-28] Tamarchenko asks the owner to review her comparison of 3 vol methodologies; he takes it to AOL. ←[[m03401]]
-- [2000-10-04] Factor loadings: Jin Yu's debugged vatrfacs code covers every primary curve but power; 60 forward prices gave poor factors, 12-48 per commodity much better; Tamarchenko adds a per-commodity count to rms_main_curve_list; Naveen Andrews: Liquids sensible, but Brent and Dubai should be WTI clones. ←[[m03443]]
-- [2000-10-05] Tamarchenko's open list (Research, IT, RAC; to Brackett, Gorny): factor loadings, power VAR (correlation term structure, caps, intramonth jumps), IR and FX VAR into RiskTrack, credit model differing on identical runs, FF vols, MG metals and UK curves into RiskTrack, merchant/equity VAR, fat tails. Power: one correlation matrix per prompt month (R10/R11 yearly periodic, 12 reusable); Andrews: periodicity differs by region. ←[[m03440]] ←[[m03445]]
+- [2000-10-09] UK VaR broke its limit: traders want UK gas-power and EFA-slot correlations reviewed. Oliver Gaylard: power VaR 10.4MM at zero correlation, Cholesky fails from 0.4; Tamarchenko: gas-power correlation moves only aggregate VaR (book gaps are Monte Carlo noise), Andrews' Finger-algorithm matrix gives higher VaR. Richard Lewis: give the books the diversification (about 1MM at 30%), UK power still over its no-correlation limit; Tamarchenko reruns EFA correlations from 2 years of forwards. ←[[m03466]]
+- [2000-10-13] NG VaR correlations (Gorny; Ted agrees): weight 3 months of data toward recent, use each contract's own prices instead of prompt; NA gas first, then all commodities; Cassandra and Veronica document it for desk heads; the owner's view asked. Jin Yu weights factor loadings; Winston: matrix unchanged until cross-commodity prompt issues are solved. ←[[m03648]]

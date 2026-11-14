@@ -3,9 +3,9 @@ id: mec-molecular-electronics
 type: topic
 domain: work
 title: "Molecular Electronics Corp. (MEC): investment and team (2000)"
-summary: "MEC, a molecular computing start-up (founder Jim Tour), seeks an alliance with Enron: Ken Lay's lunch 25 Jul; Mark Lay proposes an Enron team for warrants; the owner offers his physicists to vet the technology (Jul 2000) and joins MEC's advisory board (Sep 2000)."
+summary: "MEC, a molecular computing start-up (founder Jim Tour), seeks an alliance with Enron: Ken Lay's lunch 25 Jul; the owner offers his physicists to vet the technology (Jul 2000) and joins MEC's advisory board (Sep 2000); first advisory meeting week of 5 or 12 Dec (Oct 2000)."
 status: active
-updated: 2000-10-01
+updated: 2000-10-15
 ---
 # Molecular Electronics Corp. (MEC): investment and team (2000)
 
@@ -13,3 +13,4 @@ updated: 2000-10-01
 - [2000-07-26] Mark Lay (Enron Investment Partners) asks the owner, Rex Shelby, Kean, McConnell and Bibi about a small team working with MEC, which mainly wants people; owner: "One option is to talk to a number of physicists in my group who might be interested." ←[[m02485]]
 - [2000-07-27] Kean wants independent proof of MEC's "2-3 years from commercial production"; owner: "I think Stinson Gibner and Grant Masson (physics Ph.D.'s) can help to identify" sources; even if late by 2-3x, "It make sense to stay close to them and  to explore potential investment opportunities." Mark Lay: Berberian meets Tour for due diligence; an Enron team drives MEC's strategy (consolidated in Houston) for warrants and rights in later fundings. ←[[m02530]] ←[[m02531]]
 - [2000-09-29] Owner to Mark Lay: "I shall be glad to serve on the advisory board of MEC." ←[[m03396]]
+- [2000-10-12] Mark Lay: MEC deal talks moving the right way; MEC wants a 2-hour advisory board meeting the week of 5 or 12 Dec (owner, Berberian, Soares, Karbarz, Ciscon, Bibi, Shelby to send times); Plotnick expects his CTO by December. ←[[m03592]]
