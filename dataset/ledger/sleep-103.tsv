@@ -1,0 +1,178 @@
+id	durable	status	detail
+m09260	yes	kept	domains/industry/gpcm-rbac.md
+m09261	no	not_durable	bulk
+m09262	yes	kept	domains/organization/recruiting-candidates.md
+m09263	no	not_durable	automated
+m09264	yes	kept	domains/organization/corporate-announcements-2001.md
+m09265	yes	kept	domains/work/kaminski-column.md
+m09266	yes	kept	domains/work/desk-analysis-requests.md
+m09267	yes	kept	domains/industry/speaking-engagements-2000.md people/luke-eleftheriou.md
+m09268	yes	kept	domains/industry/speaking-engagements-2000.md
+m09269	no	not_durable	logistics
+m09270	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m09271	yes	kept	domains/organization/corporate-announcements-2001.md
+m09272	yes	kept	domains/organization/recruiting-candidates.md
+m09273	yes	kept	domains/organization/recruiting-candidates.md
+m09274	yes	dropped	redundant: second copy of Yvan Go's note on the Andy Lewis screen, kept from m09273
+m09275	no	not_durable	bulk
+m09276	yes	dropped	social: Tom Arnold's birth announcement
+m09277	yes	kept	domains/organization/research-group-2001.md
+m09278	yes	kept	domains/organization/research-group-2001.md
+m09279	no	not_durable	pleasantry
+m09280	no	not_durable	bulk
+m09281	yes	kept	domains/industry/speaking-engagements-2000.md
+m09282	yes	kept	domains/industry/garp-2001.md
+m09283	yes	kept	domains/work/weather-research-2001.md
+m09284	yes	kept	domains/work/kaminski-column.md people/jeannie-mandelker.md
+m09285	no	not_durable	logistics
+m09286	no	not_durable	pleasantry
+m09287	no	not_durable	bulk
+m09288	no	not_durable	logistics
+m09289	yes	kept	domains/work/prediction-company.md
+m09290	no	not_durable	bulk
+m09291	no	not_durable	bulk
+m09292	no	not_durable	bulk
+m09293	no	not_durable	bulk
+m09294	yes	kept	domains/industry/sponsorship-requests-2001.md
+m09295	no	not_durable	bulk
+m09296	no	not_durable	bulk
+m09297	no	not_durable	bulk
+m09298	no	not_durable	bulk
+m09299	no	not_durable	bulk
+m09300	no	not_durable	bulk
+m09301	yes	kept	domains/organization/london-research.md people/steven-leppard.md
+m09302	yes	kept	domains/industry/speaking-engagements-2000.md
+m09303	yes	kept	domains/industry/speaking-engagements-2000.md
+m09304	no	not_durable	automated
+m09305	no	not_durable	bulk
+m09306	no	not_durable	bulk
+m09307	yes	kept	domains/work/internal-meetings-2001.md
+m09308	yes	kept	domains/industry/speaking-engagements-2000.md people/ian-macmillan.md people/zimin-lu.md
+m09309	no	not_durable	bulk
+m09310	no	not_durable	bulk
+m09311	yes	kept	domains/organization/staff-and-recruiting.md
+m09312	yes	kept	domains/personal/correspondence.md
+m09313	no	not_durable	bulk
+m09314	no	not_durable	bulk
+m09315	no	not_durable	bulk
+m09316	no	not_durable	bulk
+m09317	no	not_durable	bulk
+m09318	no	not_durable	bulk
+m09319	no	not_durable	bulk
+m09320	yes	kept	domains/organization/staff-and-recruiting.md
+m09321	no	not_durable	bulk
+m09322	yes	kept	domains/organization/staff-and-recruiting.md people/christian-werner.md people/tom-halliburton.md
+m09323	yes	kept	domains/work/energy-derivatives-book.md
+m09324	yes	kept	domains/organization/recruiting-candidates.md
+m09325	yes	kept	domains/work/private-firm-credit-model-2001.md
+m09326	no	not_durable	bulk
+m09327	no	not_durable	bulk
+m09328	no	not_durable	automated
+m09329	no	not_durable	automated
+m09330	yes	dropped	other: Per Sekse declines Phelim Boyle's book launch, no owner action
+m09331	no	not_durable	bulk
+m09332	yes	kept	domains/work/desk-analysis-requests.md
+m09333	no	not_durable	bulk
+m09334	yes	dropped	no_owner_content: Steve Young to Baylor's John Martin, owner only copied
+m09335	yes	kept	domains/organization/research-group.md
+m09336	yes	kept	domains/organization/corporate-announcements-2001.md people/joannie-williamson.md
+m09337	no	not_durable	bulk
+m09338	yes	dropped	no_owner_content: Robert Johnston's geopolitical briefing #5 to senior staff
+m09339	yes	kept	domains/work/argentina-modelling.md people/tom-halliburton.md
+m09340	yes	kept	domains/work/argentina-modelling.md
+m09341	yes	kept	domains/work/university-relations.md
+m09342	no	not_durable	bulk
+m09343	no	not_durable	automated
+m09344	yes	kept	domains/organization/leave-and-training.md
+m09345	yes	kept	domains/organization/recruiting-candidates.md
+m09346	no	not_durable	bulk
+m09347	yes	kept	domains/work/weather-research-2001.md
+m09348	yes	kept	domains/work/enterprise-risk-management.md
+m09349	yes	kept	domains/organization/corporate-announcements-2001.md
+m09350	no	not_durable	bulk
+m09351	yes	kept	domains/industry/events-attending-2001.md
+m09352	no	not_durable	bulk
+m09353	no	not_durable	bulk
+m09354	no	not_durable	bulk
+m09355	no	not_durable	automated
+m09356	no	not_durable	bulk
+m09357	no	not_durable	bulk
+m09358	no	not_durable	bulk
+m09359	no	not_durable	automated
+m09360	no	not_durable	bulk
+m09361	no	not_durable	automated
+m09362	yes	kept	domains/industry/speaking-engagements-2000.md
+m09363	yes	kept	domains/industry/events-attending-2001.md
+m09364	yes	kept	domains/work/prediction-company.md
+m09365	no	not_durable	bulk
+m09366	no	not_durable	bulk
+m09367	yes	dropped	logistics: owner sends Slava a phone number
+m09368	no	not_durable	bulk
+m09369	no	not_durable	quote_only
+m09370	yes	kept	domains/organization/staff-and-recruiting.md people/shane-green.md
+m09371	no	not_durable	other
+m09372	yes	kept	domains/personal/correspondence.md
+m09373	no	not_durable	bulk
+m09374	no	not_durable	logistics
+m09375	no	not_durable	logistics
+m09376	no	not_durable	pleasantry
+m09377	no	not_durable	quote_only
+m09378	no	not_durable	logistics
+m09379	yes	kept	domains/work/brazil-hydro-2001.md
+m09380	yes	kept	domains/industry/uh-econophysics.md people/praveen-kumar.md
+m09381	yes	kept	domains/personal/correspondence.md people/shawn-cumberland.md
+m09382	no	not_durable	automated
+m09383	no	not_durable	automated
+m09384	yes	kept	domains/industry/speaking-engagements-2000.md people/ian-macmillan.md
+m09385	yes	kept	domains/work/weather-research-2001.md
+m09386	yes	kept	domains/organization/staff-and-recruiting.md
+m09387	no	not_durable	automated
+m09388	yes	kept	domains/work/weather-research-2001.md
+m09389	yes	kept	domains/work/weather-research-2001.md people/frank-diebold.md
+m09390	no	not_durable	quote_only
+m09391	no	not_durable	bulk
+m09392	no	not_durable	bulk
+m09393	no	not_durable	bulk
+m09394	yes	kept	domains/work/brazil-hydro-2001.md
+m09395	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m09396	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m09397	no	not_durable	automated
+m09398	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m09399	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/rick-bryant.md
+m09400	yes	kept	domains/work/transmission-modelling-2001.md people/frank-wolak.md
+m09401	yes	kept	domains/organization/recruiting-candidates.md
+m09402	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m09403	yes	kept	domains/work/transmission-modelling-2001.md
+m09404	no	not_durable	bulk
+m09405	no	not_durable	automated
+m09406	no	not_durable	quote_only
+m09407	no	not_durable	logistics
+m09408	yes	dropped	redundant: owner forwards the Armando Ugarte recommendation to AOL, already filed from m09208
+m09409	yes	kept	domains/industry/speaking-engagements-2000.md
+m09410	no	not_durable	logistics
+m09411	yes	kept	domains/work/transmission-modelling-2001.md people/martin-lin.md
+m09412	yes	kept	domains/work/transmission-modelling-2001.md
+m09413	yes	kept	domains/work/research-presentations.md
+m09414	no	not_durable	bulk
+m09415	no	not_durable	bulk
+m09416	no	not_durable	bulk
+m09417	yes	kept	domains/industry/garp-2001.md
+m09418	yes	kept	domains/work/var-credit-system-2001.md
+m09419	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m09420	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m09421	no	not_durable	bulk
+m09422	no	not_durable	bulk
+m09423	no	not_durable	bulk
+m09424	no	not_durable	bulk
+m09425	no	not_durable	bulk
+m09426	yes	kept	domains/industry/speaking-engagements-2000.md
+m09427	no	not_durable	bulk
+m09428	no	not_durable	bulk
+m09429	no	not_durable	bulk
+m09430	no	not_durable	automated
+m09431	yes	kept	domains/organization/recruiting-candidates.md
+m09432	no	not_durable	bulk
+m09433	yes	kept	domains/work/kaminski-column.md
+m09434	no	not_durable	other
+m09435	no	not_durable	other
+m09436	no	not_durable	bulk
