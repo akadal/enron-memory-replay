@@ -102,6 +102,13 @@ the first attempt the second `sleep-audit.py` pass was red because `work/dabhol-
 already over its target, grew by 152 characters where the ratchet check allows 150, so the run
 reset itself (list-price cost about $4.1).
 
+A run cut off from outside is not a result of the method and leaves nothing in L1: its partial
+work is reset to `pre-sleep`, its feed commit is reverted, its partial transcript is kept as
+`sleep-<kkk>.attempt1.transcript.jsonl.gz`, and the slice is fed again (the feed is
+deterministic, so the second feed commit equals the first). This happened once, at slice 71: the
+operator's Claude Code session, which had started the runner, ended thirteen minutes into the
+consolidation and took the runner with it.
+
 `sleep-audit.py`'s FABRICATION check exempts lines carrying `←[[...]]`, which here is every
 fact; gate 5 and the ledger's date-match metric (bracket date equals the cited message's date)
 take its place.
