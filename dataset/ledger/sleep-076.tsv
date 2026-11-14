@@ -1,0 +1,137 @@
+id	durable	status	detail
+m07201	no	not_durable	logistics
+m07202	no	not_durable	pleasantry
+m07203	no	not_durable	bulk
+m07204	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07205	yes	kept	domains/industry/speaking-engagements-2000.md
+m07206	yes	kept	domains/organization/candidate-interviews-late-apr-2001.md
+m07207	yes	kept	domains/organization/leave-and-training.md
+m07208	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md domains/organization/summer-interns-2001.md
+m07209	yes	kept	domains/work/weather-research-2001.md
+m07210	yes	kept	domains/organization/research-accounting-2000.md
+m07211	no	not_durable	bulk
+m07212	yes	kept	domains/work/ebs-research-requests-2001.md
+m07213	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07214	no	not_durable	quote_only
+m07215	yes	kept	domains/organization/candidate-interviews-late-apr-2001.md
+m07216	yes	kept	domains/industry/uh-econophysics.md people/aisha-jamal.md
+m07217	yes	kept	domains/personal/investments-2000.md
+m07218	yes	kept	domains/organization/candidate-interviews-late-apr-2001.md
+m07219	no	not_durable	quote_only
+m07220	yes	kept	domains/organization/candidate-interviews-late-apr-2001.md
+m07221	yes	kept	domains/industry/wharton-risk-center-2001.md
+m07222	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07223	yes	kept	domains/industry/events-attending-2001.md
+m07224	yes	kept	domains/organization/summer-interns-2001.md
+m07225	yes	kept	domains/organization/hr-matters-2001.md
+m07226	no	not_durable	logistics
+m07227	no	not_durable	pleasantry
+m07228	no	not_durable	bulk
+m07229	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07230	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07231	yes	kept	domains/industry/speaking-engagements-2000.md
+m07232	yes	kept	domains/organization/candidate-interviews-late-apr-2001.md
+m07233	yes	kept	domains/organization/leave-and-training.md
+m07234	yes	kept	domains/industry/uh-econophysics.md people/aisha-jamal.md
+m07235	no	not_durable	bulk
+m07236	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07237	yes	kept	domains/organization/research-accounting-2000.md
+m07238	yes	kept	domains/work/ebs-research-requests-2001.md
+m07239	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07240	yes	kept	domains/industry/events-attending-2001.md
+m07241	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07242	no	not_durable	bulk
+m07243	yes	kept	domains/work/private-firm-credit-model-2001.md people/jeff-kinneman.md people/john-bottomley.md
+m07244	yes	kept	domains/industry/uh-econophysics.md people/aisha-jamal.md
+m07245	yes	kept	domains/work/weather-research-2001.md
+m07246	yes	kept	domains/organization/hr-matters-2001.md
+m07247	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07248	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07249	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07250	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07251	no	not_durable	quote_only
+m07252	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md
+m07253	yes	dropped	social: John Norden MS 150 ride report and donation appeal to friends and family
+m07254	yes	kept	domains/work/private-firm-credit-model-2001.md people/jeff-kinneman.md people/john-bottomley.md
+m07255	no	not_durable	automated
+m07256	yes	kept	domains/organization/hr-matters-2001.md
+m07257	no	not_durable	bulk
+m07258	yes	kept	people/martin-jermakyan.md
+m07259	yes	dropped	other: mass announcement of UCLA real options conferences, no owner action
+m07260	no	not_durable	quote_only
+m07261	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07262	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07263	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07264	no	not_durable	automated
+m07265	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07266	yes	kept	domains/personal/investments-2000.md
+m07267	no	not_durable	bulk
+m07268	yes	kept	domains/personal/investments-2000.md
+m07269	yes	kept	people/martin-jermakyan.md
+m07270	yes	kept	domains/work/dabhol-power-sale.md
+m07271	no	not_durable	quote_only
+m07272	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m07273	yes	kept	domains/organization/research-accounting-2000.md
+m07274	yes	kept	domains/industry/events-attending-2001.md
+m07275	yes	kept	domains/work/outside-requests-2001.md
+m07276	yes	kept	domains/work/outside-requests-2001.md
+m07277	no	not_durable	bulk
+m07278	yes	kept	domains/industry/rice-university.md
+m07279	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07280	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07281	yes	kept	domains/work/enterprise-risk-management.md
+m07282	yes	kept	domains/work/enterprise-risk-management.md
+m07283	yes	dropped	redundant: second copy of the UCLA real options conference announcement
+m07284	yes	kept	domains/industry/rice-university.md
+m07285	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07286	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07287	yes	kept	domains/industry/california-power-jan-2001.md
+m07288	no	not_durable	bulk
+m07289	yes	kept	domains/personal/correspondence.md
+m07290	yes	kept	domains/organization/office-equipment.md
+m07291	no	not_durable	bulk
+m07292	no	not_durable	bulk
+m07293	no	not_durable	quote_only
+m07294	yes	kept	domains/industry/speaking-engagements-2000.md
+m07295	no	not_durable	bulk
+m07296	no	not_durable	bulk
+m07297	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07298	yes	kept	domains/personal/investments-2000.md
+m07299	yes	kept	domains/personal/investments-2000.md
+m07300	no	not_durable	bulk
+m07301	yes	kept	people/martin-jermakyan.md
+m07302	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07303	yes	kept	domains/work/dabhol-power-sale.md
+m07304	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m07305	yes	kept	domains/organization/research-accounting-2000.md
+m07306	yes	kept	domains/industry/events-attending-2001.md
+m07307	yes	kept	domains/work/outside-requests-2001.md
+m07308	yes	kept	domains/work/outside-requests-2001.md
+m07309	no	not_durable	bulk
+m07310	yes	kept	domains/industry/rice-university.md
+m07311	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07312	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07313	yes	kept	domains/work/enterprise-risk-management.md
+m07314	yes	kept	domains/work/enterprise-risk-management.md
+m07315	yes	kept	domains/industry/rice-university.md
+m07316	no	not_durable	bulk
+m07317	no	not_durable	quote_only
+m07318	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07319	yes	kept	domains/industry/california-power-jan-2001.md
+m07320	no	not_durable	bulk
+m07321	yes	kept	domains/organization/office-equipment.md
+m07322	no	not_durable	bulk
+m07323	no	not_durable	bulk
+m07324	no	not_durable	quote_only
+m07325	yes	kept	domains/industry/speaking-engagements-2000.md
+m07326	no	not_durable	quote_only
+m07327	yes	kept	domains/work/private-firm-credit-model-2001.md
+m07328	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07329	yes	kept	domains/organization/candidate-interviews-apr-end-2001.md people/greg-hunt.md
+m07330	yes	dropped	logistics: SSRN purchase receipt for a Bates NBER paper forwarded to the Enron address
+m07331	yes	dropped	logistics: SSRN purchase receipt for a Bates NBER paper forwarded to the Enron address
+m07332	yes	dropped	redundant: duplicate copy of the SSRN receipt m07330
+m07333	yes	dropped	redundant: duplicate copy of the SSRN receipt m07331
+m07334	yes	kept	domains/industry/speaking-engagements-2000.md
+m07335	yes	kept	domains/industry/speaking-engagements-2000.md
+m07336	yes	kept	domains/industry/california-power-jan-2001.md
