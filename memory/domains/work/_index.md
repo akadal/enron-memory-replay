@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-07-21
+updated: 2001-04-29
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Models: P Plus draft (Gibner); Convolution VAR (Tamarchenko, Bharati); storage model vs Lukens; August Board FX/inflation curves → memory/domains/work/models-jun-08-2001.md; VaR factor loadings, PSIM → memory/domains/work/var-and-models-jun-04-2001.md
-- Bid-ask and credit: EOL bid-ask model, Market Maker sessions (Kim's summary to Whalley); CDS placement-model recalibration; DSM trading model 18 Jun → memory/domains/work/trading-and-credit-jun-08-2001.md; earlier → memory/domains/work/enron-credit-early-jun-2001.md
-- This week: Duffie audits the Reliability VaR algorithm; KMV writeup; Issler quanto swap; Andersen puts call (Bharati); full requirement hedging memo; Toshiba Boltzmann visit 31 Jul-4 Aug; Reval → memory/domains/work/models-jul-16-2001.md
-- Last weeks: Reliability VaR revised; Market Stack missed; NARG; Zone EF 26 Jul; Dabhol clips; to-dos for Rhys, Krishna → memory/domains/work/models-jul-09-2001.md; weather-triggered options; FEA @GLOBAL 5.0 → memory/domains/work/models-jul-02-2001.md; Market Maker sessions; Dhar's plan for Duffie → memory/domains/work/models-jun-25-2001.md
-- Earlier: Prediction Company 30 Jul → memory/domains/work/models-and-requests-jun-18-2001.md; Raptor → memory/domains/work/talon-raptor.md; Henwood Market Stack early July → memory/domains/work/requests-and-vendors-jun-15-2001.md; Quilkey, CMU team → memory/domains/work/research-requests-jun-08-2001.md
+- Credit: RFPs out 25 Apr, model 15 Jul; Dhar's data spec; credit business plan; Iris Mack in London from 30 Apr with a wish list → memory/domains/work/private-firm-credit-model-2001.md; Duffie study: edit into one review → memory/domains/work/model-risk-audit.md
+- VaR: Hayden's Reg. VaR meeting 26 Apr, Tamarchenko's clustering and jump agenda → memory/domains/work/var-credit-system-2001.md
+- EOL: Barkley's WTI crude trade set (24,000+ trades), analysis ideas wanted; Vernon hands the owner the EOL data → memory/domains/work/eol-trading-algorithms-2001.md; movie futures: 15+ films, 1-day bidding → memory/domains/work/ebs-research-requests-2001.md
+- Desks: Dabhol board votes for a PPA termination notice, lenders split → memory/domains/work/dabhol-power-sale.md; Bennett leaves London, Hamilton to development → memory/domains/work/weather-research-2001.md; petrochem curves → memory/domains/work/petrochem-forward-curves-2001.md
+- Outside: Thorne 4 May; McCormack's outline owed → memory/domains/work/outside-requests-2001.md; Darrah to interview with Zipter and Port → memory/domains/work/enterprise-risk-management.md; Curran's Willow/Pathstar → memory/domains/work/vendor-offers-2001.md
 
 ## Files
 
@@ -40,14 +40,5 @@ Path: memory/domains/work/<name>.md
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
 - private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001
-- enron-credit-strategy-2001 · crudeapo-asian-option-2001 · ees-full-requirements-may-2001
-- enron-credit-london-may-2001 · power-var-may-2001 · ees-liability-mitigation-2001 · technical-analysis-service-2001 · dabhol-renegotiation-may-2001
-- research-models-may-2001 · owner-meetings-may-2001 · vendor-offers-may-2001
-- var-model-review-may-2001 · enron-credit-tensions-may-2001 · vendor-offers-mid-may-2001
-- var-models-late-may-2001 · enron-credit-late-may-2001 · research-requests-late-may-2001 · vendor-offers-late-may-2001
-- var-models-early-jun-2001 · research-models-early-jun-2001 · enron-credit-early-jun-2001 · research-requests-early-jun-2001
-- research-requests-jun-04-2001 · var-and-models-jun-04-2001
-- models-jun-08-2001 · trading-and-credit-jun-08-2001 · research-requests-jun-08-2001 · requests-and-vendors-jun-15-2001 · models-and-requests-jun-18-2001
-- models-jun-25-2001 · requests-and-vendors-jun-25-2001 · models-jul-02-2001 · models-jul-09-2001 · models-jul-16-2001
 
 Closed: 1

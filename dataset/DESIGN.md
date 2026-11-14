@@ -66,7 +66,9 @@ topic files: after ten weeks 15 people seen in five or more messages had no enti
 
 Unattended, nobody approves an alias, an entity merge or a new domain (eleman's approval gates):
 those proposals stay in `questions.md` and close by status quo. The dataset therefore offers alias
-questions, not a curated alias table.
+questions, not a curated alias table. An identity the run is unsure of stays a question: "Julie"
+of Lacima had eleven messages with notes by slice 60 and no entity file, because the question of
+who that is lapsed unanswered.
 
 ## Gates (S6), checked from outside after every slice
 
@@ -78,9 +80,11 @@ questions, not a curated alias table.
    changed and carries a note in `sleep-012.json`; after it the runs mostly logged to
    `<day>--mail-2.md` (17 such files by slice 30), consumed by the next sleep like any inbox file.
    The cause was the preamble, which named `<today>--mail.md`, the fed file of the slice's last
-   day, as the log file. It struck twice more: at slice 67 the run caught its own L2 change, and at
-   slice 88 it did not and the audit from outside was red. From slice 88 the preamble names
-   `<today>--run.md`, a name the feed never writes.
+   day, as the log file. In six kept slices (34, 35, 45, 46, 49, 57) a run appended its log block
+   to that fed file before archiving it: the archived file is the fed file plus that block, every
+   mail block intact, and `sleep-audit.py` did not flag it. At slice 67 the run caught the change
+   itself, and in the first pass of slice 88 the audit from outside was red. From the second pass
+   of slice 77 on (below) the preamble names `<today>--run.md`, a name the feed never writes.
 3. `lint.py` green; `sleep-audit.py --last <the run's commit>` green.
 4. `date_leaks.py`: no date more than a year outside [first message, simulated today].
 5. `ledger.py`: every message the capture step marked durable is either cited by an L1 fact or
@@ -100,13 +104,11 @@ of the 1,605 messages kept so far were still cited in `memory/domains/` or `memo
 
 Reruns. When a run finds its own pass failing a gate and, as eleman's rules require, resets to
 `pre-sleep` and commits nothing, the slice is run once more on the same committed feed (`RERUN` in
-`run.sh`). The first attempt's record, transcript and ledger stay in the repository as
-`sleep-<kkk>.attempt1.*`; `summary.py` does not count them. This happened once, at slice 67: in
-the first attempt the second `sleep-audit.py` pass was red because `work/dabhol-power-sale.md`,
-already over its target, grew by 152 characters where the ratchet check allows 150, so the run
-reset itself (list-price cost about $4.1). Slice 88's first attempt committed with an L2 change
-(gate 2); its commit was not pushed and was discarded, and the slice was run again under the
-corrected preamble.
+`run.sh`; from the second pass of slice 77 the runner does this by itself, once per slice). The
+first attempt's record, transcript and ledger stay in the repository as `sleep-<kkk>.attempt1.*`;
+`summary.py` does not count them. At slice 67 the first attempt's second `sleep-audit.py` pass was
+red because `work/dabhol-power-sale.md`, already over its target, grew by 152 characters where the
+ratchet check allows 150, so the run reset itself (list-price cost about $4.1).
 
 A run cut off from outside is not a result of the method and leaves nothing in L1: its partial
 work is reset to `pre-sleep`, its feed commit is reverted, its partial transcript is kept as
@@ -118,6 +120,31 @@ consolidation and took the runner with it.
 `sleep-audit.py`'s FABRICATION check exempts lines carrying `←[[...]]`, which here is every
 fact; gate 5 and the ledger's date-match metric (bracket date equals the cited message's date)
 take its place.
+
+## Second pass from slice 77 (review 090)
+
+The first pass of slices 77-90 is kept on branch `drift-77-90`, its tags renamed `drift-077` to
+`drift-090`. On `main` the memory and the run records were rolled back to `sleep-076` in one
+commit, and the slices were run again. The first pass holds no false or lost fact, but from slice
+77 the runs stopped filing facts into standing topics. An over-target topic may grow only 150
+characters per run (the ratchet check), and from slice 78 the runs opened a new file per week
+instead (`research-staff-jun-04-2001`, `speaking-and-visits-jul-09-2001`). New fact lines into
+existing topics fell from 41 per slice (61-76) to 7 (81-90); topic files rose from 208 to 286,
+107 of them named after a month or a week; standing topics went stale (`work/storage-model` stops
+at 2001-05-13 while a June storage fact sits in a weekly file). That is a memory filed by date,
+not by subject, which eleman's format does not describe: time-bound files are `YYYY-MM-DD-slug.md`
+and a fact has one home. The branch stays as a control: the same feed and model without the
+paragraph below.
+
+From the second pass of slice 77 on, the preamble adds one paragraph (`run.sh`): a topic file is a
+standing subject, never a period of time; a fact goes into the topic it belongs to in whatever
+week it arrives; when that file is over its budget its oldest fact lines move verbatim to
+`memory/archive/<domain>/YYYY/`; no topic file is named after a week or a month. The log-file name
+(gate 2) and the automatic rerun (above) apply from the same point. Slice 88's first-pass
+attempt, whose commit changed L2 and was discarded unpushed, is recorded on the branch
+(`sleep-088.attempt1.*`). `summary.py` now prices the small Haiku call that Claude Code makes on
+its own in every run from slice 71 (about 2,400 tokens in, 25 out); before, slices 71-76 showed no
+cost. (`dataset/audit/2026-11-14-8-review-090.md`)
 
 ## Deviations from eleman as shipped
 
@@ -150,7 +177,8 @@ eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing 
   slice 56; the file and its citations are intact, only its route is missing. Projected to
   slice 122, the largest index needs about 6,500 characters with descriptions
   (`dataset/audit/2026-11-14-7-review-060.md`).
-- The preamble's entity-file sentence (above), and from slice 88 its log-file name (gate 2).
+- The preamble's entity-file sentence (above), and from the second pass of slice 77 its topic
+  paragraph and its log-file name (gate 2).
 - Raw mail lives in `memory/archive/mail/YYYY/`, a source segment like `archive/inbox/`, not a
   domain segment.
 - The replay preamble above; the `pre-sleep` checkpoint is set by the runner; the lock commit of

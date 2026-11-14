@@ -23,7 +23,8 @@
 # REVIEW_EVERY-th slice the runner creates HOLD and waits until it is removed, so that an
 # independent review of the run so far can happen before more slices are written,
 # TAG_PREFIX (sleep-; a control run on another branch uses its own, e.g. control-opus-),
-# RERUN (a slice number: run that slice again on its committed feed, see step 1).
+# RERUN (a slice number: run that slice again on its committed feed, see step 1; the runner sets
+# it itself, once per slice, when a run resets its own pass).
 
 ROOT=$(cd "$(dirname "$0")/../.." && pwd) || exit 2
 cd "$ROOT" || exit 2
@@ -142,6 +143,11 @@ People: every person who appears in five or more messages with notes has an enti
 memory/people/, listed in the alias table, from the consolidation in which the fifth message
 arrives.
 
+Topics: a topic file is a standing subject (a project, a model, a deal, a counterparty, an event
+series), never a period of time. A fact goes into the topic it belongs to, in whatever week it
+arrives; when that file is over its budget, move its oldest fact lines verbatim to
+memory/archive/<domain>/YYYY/ to make room. Do not open a topic file named after a week or a month.
+
 Drops: write dataset/drops/sleep-$kkk.tsv with one line per message of this week whose inbox
 block has notes but which you decide not to keep anywhere in L1: the id, a tab, one class out of
 redundant, logistics, social, no_owner_content, other, a tab, a short reason
@@ -171,9 +177,9 @@ $BASE_PROMPT"
     fi
     DIRTY=$(git status --porcelain -- . ':!dataset/runs' ':!dataset/ledger' | wc -l | tr -d ' ')
     LEFT=0
-    # A fed file counts as unconsumed only while it still holds mail blocks: the run may write its
-    # own log lines (status-quo closes) into memory/inbox/<today>--mail.md, the same name as the
-    # day's fed file it has already archived (slice 12 of the first full run stopped on that).
+    # A fed file counts as unconsumed only while it still holds mail blocks: before slice 88 the
+    # preamble named <today>--mail.md, the last day's fed file, as the run's log file, and a run
+    # could leave its log under that name after archiving the fed file (slice 12 stopped on that).
     for f in $FED_FILES; do
       grep -q "^(mail · " "memory/inbox/$f" 2>/dev/null && LEFT=$((LEFT + 1))
     done
@@ -212,6 +218,22 @@ then make one commit 'sleep $kkk: coverage repair'. Do not push."
   done
   STATUS="exit=$CODE commits=$NCOMMITS lint=$LINT audit=$AUDIT dirty=$DIRTY inbox_left=$LEFT leaks=$NLEAKS ledger=$([ "$LEDGER_OK" -eq 0 ] && echo ok || echo fail) repair=$REPAIR"
   echo "slice $kkk ($TODAY): $STATUS $(date '+%T')"
+
+  # A run that finds its own pass failing a gate resets to pre-sleep and commits nothing, as
+  # eleman's rules say (dataset/DESIGN.md, reruns). Keep that attempt as a record and run the
+  # slice once more on the same feed; a second such attempt stops the run like any failure.
+  if [ "$CODE" -eq 0 ] && [ "$NCOMMITS" -eq 0 ] && [ "$DIRTY" -eq 0 ] && [ "$k" != "${RETRIED:-}" ]; then
+    for f in "$RUNS/sleep-$kkk.json" "$RUNS/sleep-$kkk.transcript.jsonl.gz" \
+             "$RUNS/sleep-$kkk.repair.transcript.jsonl.gz" "dataset/ledger/sleep-$kkk.tsv"; do
+      [ -f "$f" ] && mv "$f" "${f%%sleep-$kkk.*}sleep-$kkk.attempt1.${f#*sleep-$kkk.}"
+    done
+    git add "$RUNS" dataset/ledger
+    git commit -q -m "slice $kkk, attempt 1: the run reset itself ($STATUS); rerun on the same feed"
+    git push -q origin "$BRANCH" || { echo "push failed after attempt 1 of slice $k"; exit 2; }
+    echo "slice $kkk: the run reset itself; running it once more $(date '+%T')"
+    RERUN=$k; RETRIED=$k
+    continue
+  fi
 
   if [ "$CODE" -ne 0 ] || [ "$NCOMMITS" -eq 0 ] || [ "$LINT" != green ] || [ "$AUDIT" != green ] \
      || [ "$DIRTY" -ne 0 ] || [ "$LEFT" -ne 0 ] || [ "$NLEAKS" -ne 0 ] || [ "$LEDGER_OK" -ne 0 ]; then

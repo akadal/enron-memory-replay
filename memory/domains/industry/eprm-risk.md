@@ -3,9 +3,9 @@ id: eprm-risk
 type: topic
 domain: industry
 title: "RISK / EPRM conferences, courses and Risk Books"
-summary: "RISK's EPRM events (Paul Bristow): financial mathematics course, owner a course leader with two sessions: London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul 2001; EPRM 2001 Houston (Risk Waters), Houstonian, 14-15 May: owner speaks, Lance, Martin and Sandeep attend (19 Apr); May logistics: risk-waters-speaking-may-2001."
+summary: "RISK's EPRM events (Paul Bristow): financial mathematics course, owner a course leader with two sessions: London 28-29 Jun, New York 9-10 Jul, Houston 16-17 Jul 2001; EPRM 2001 Houston (Risk Waters), Houstonian, 14-15 May: owner speaks, bio asked; Zimin Lu, Lance, Martin and Sandeep attend (19 Apr); older items archived."
 status: active
-updated: 2001-05-02
+updated: 2001-04-22
 ---
 # RISK / EPRM conferences, courses and Risk Books
 

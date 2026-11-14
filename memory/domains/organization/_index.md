@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-07-21
+updated: 2001-04-29
 ---
 # Organization — index
 
@@ -9,15 +9,23 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- This week: Demissie rejected; Sen phone interview; Christian Werner vs Quilkey; Maureen to World Bank-IMF; Debra course Oct; ESL/PRC training; EBS into EWS → memory/domains/organization/research-staff-jul-16-2001.md; associations for HR → memory/domains/organization/research-staff-jul-09-2001.md
-- Staff: Uriel Scott interview; Technical Corner → memory/domains/organization/research-staff-jul-02-2001.md; Toastmasters → memory/domains/organization/research-staff-jun-25-2001.md; hiring postponed to Aug-Sep (new building) → memory/domains/organization/research-staff-jun-18-2001.md
-- PRC: specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul; Paleologo unsigned → memory/domains/organization/referrals-and-admin-jun-08-2001.md; policy draft → memory/domains/organization/research-staff-jun-15-2001.md
-- Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md; HR → memory/domains/organization/hr-matters-2001.md
+- Candidates: Paleologo's written offer ($110k, $20k bonus) before Italy; Greg Hunt to Roberts; Joao Neves; Bessik Matchavariani → memory/domains/organization/candidate-interviews-apr-end-2001.md; Demianenko to Lee Ferrell, George Moss (LSU) → memory/domains/organization/candidate-interviews-late-apr-2001.md
+- Interns: Jinbaek Kim 4 Jun, plane ticket paid for all → memory/domains/organization/summer-interns-2001.md; Stanford 4 of 6 summer offers taken → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
+- HR: Sevil Yaman's bonus 30 Apr; her H1B deferred to her full-time start, maybe early 2002 → memory/domains/organization/hr-matters-2001.md; EGM allocation by desk (27 Apr) → memory/domains/organization/research-accounting-2000.md
+- Company: EES risk to an EWS group, EGM meeting 7 May, iBuyit 1 May → memory/domains/organization/corporate-announcements-2001.md; Durasoft COM course 14-18 May → memory/domains/organization/leave-and-training.md
+- Group: Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; London: Gibner vs Vasant for Europe/Asia → memory/domains/organization/london-research.md
 
 ## Files
 
 - memory/domains/organization/anjam-resignation-oct-2000.md — Anjam Ahmad resigns, Oct 2000
-- Interviews: candidate-interviews-may-2000 · candidate-interviews-jul-2000 · candidate-interviews-aug-2000 · candidate-interviews-sep-2000 · candidate-interviews-oct-2000 · candidate-interviews-nov-2000 · candidate-interviews-dec-2000 · candidate-interviews-jan-2001 · candidate-interviews-feb-2001 · candidate-interviews-mar-2001 · candidate-interviews-apr-2001 · candidate-interviews-mid-apr-2001 · candidate-interviews-late-apr-2001 · candidate-interviews-apr-end-2001 · candidate-interviews-may-2001 · candidate-interviews-may-02-2001 (each memory/domains/organization/<name>.md)
+- memory/domains/organization/candidate-interviews-may-2000.md — May 2000
+- memory/domains/organization/candidate-interviews-jul-2000.md — Jun-Jul 2000
+- memory/domains/organization/candidate-interviews-aug-2000.md — Aug 2000
+- memory/domains/organization/candidate-interviews-sep-2000.md — Sep 2000
+- memory/domains/organization/candidate-interviews-oct-2000.md — Oct 2000
+- memory/domains/organization/candidate-interviews-nov-2000.md — Nov 2000
+- memory/domains/organization/candidate-interviews-dec-2000.md — from 27 Nov 2000
+- memory/domains/organization/candidate-interviews-jan-2001.md — from 18 Dec 2000
 - memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Szopa)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
@@ -43,16 +51,15 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/research-group-2001.md — 2001 rules and seminars
 - memory/domains/organization/research-reorg-jan-2001.md — Research re-org draft, Jan 2001
 - memory/domains/organization/outside-recruiters-2001.md — outside recruiters, Jan 2001
+- memory/domains/organization/candidate-interviews-feb-2001.md — from 15 Jan 2001
 - memory/domains/organization/summer-interns-2001.md — 2001 interns, campus recruiting
 - memory/domains/organization/staff-moves-jan-2001.md — moves and starts, Jan 2001
+- memory/domains/organization/candidate-interviews-mar-2001.md — from 5 Mar 2001
 - memory/domains/organization/hr-matters-2001.md — owner's contract, Sevil Yaman's green card (2001)
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
+- memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
 - memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
-- memory/domains/organization/summer-interns-may-2001.md — summer interns, May 2001 (Jinbaek Kim, Youseok Son)
-- memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
-- memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
-- memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
-- memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001
-- memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001
-- Weekly (from 21 May 2001, each memory/domains/organization/<name>.md): research-staff-late-may-2001 · referrals-late-may-2001 · research-staff-early-jun-2001 · referrals-early-jun-2001 · research-staff-jun-04-2001 · referrals-jun-04-2001 · research-staff-jun-08-2001 · referrals-and-admin-jun-08-2001 · research-staff-jun-15-2001 · research-staff-jun-18-2001 · research-staff-jun-25-2001 · research-staff-jul-02-2001 · research-staff-jul-09-2001 · research-staff-jul-16-2001
+- memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
+- memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
+- memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
