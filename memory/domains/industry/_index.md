@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-29
+updated: 2001-07-03
 ---
 # Industry — index
 
@@ -9,16 +9,17 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Talks: Risk Waters London 28-29 Jun; Houston course 16-17 Jul; EPIS 12-14 Sep; Duffie in Crete → memory/domains/industry/speaking-and-visits-jun-25-2001.md; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
-- Neptune (Krapels) → memory/domains/industry/outside-contacts-jun-08-2001.md
+- This week: Zimin Lu speaks for the owner at Risk Waters NY; PSERC board 5-7 Dec; Capp Coal 11th; Rice (Debra) 19th; Wharton Tiger Team by mid-July → memory/domains/industry/speaking-and-visits-jul-02-2001.md
+- Talks: Houston course 16-17 Jul; EPIS 12-14 Sep; Duffie → memory/domains/industry/speaking-and-visits-jun-25-2001.md; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md; Neptune (Krapels) → memory/domains/industry/outside-contacts-jun-08-2001.md
 - Universities: Stanford EMF agenda → memory/domains/industry/speaking-and-visits-early-jun-2001.md; WeBI → memory/domains/industry/university-ties-late-may-2001.md
 - Wharton: Risk Center → memory/domains/industry/wharton-risk-center-2001.md; attending → memory/domains/industry/events-attending-2001.md
 - California: Edison MOU stalled; CPUC delays the QF 15% payment (8 Jun) → memory/domains/industry/california-power-jun-2001.md
 
 ## Files
 
-- memory/domains/industry/california-power-2000.md — California crisis 2000: caps, FERC, class action
-- memory/domains/industry/california-power-jan-2001.md — California briefings, Jan-Apr 2001
+Grouped lines (Label: name · name): memory/domains/industry/<name>.md
+
+- California: california-power-2000 (caps, FERC, class action) · california-power-jan-2001 (Jan-Apr 2001) · california-power-may-2001 (May 2001) · california-power-jun-2001 (from 30 May: Plan Z, Edison MOU, QF payments)
 - memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya in the owner's place; trustees' report)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
@@ -49,19 +50,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (UT Texas market seminar, PIRA, Ziff storage)
 - memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, Kunreuther, corn-subsidy project idea
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)
-- memory/domains/industry/rice-mgmt656-papers-may-2001.md — Rice MGMT 656 final projects, papers and grades, May 2001
+- MGMT656: rice-mgmt656-papers-may-2001 (Rice final projects and papers) · rice-mgmt656-grades-may-2001 (final grades, 2-5 May 2001)
 - memory/domains/industry/risk-waters-speaking-may-2001.md — EPRM 2001 Houston and Financial Mathematics course speaker logistics, May 2001
-- memory/domains/industry/rice-mgmt656-grades-may-2001.md — Rice MGMT 656 final grades, 2-5 May 2001
-- memory/domains/industry/california-power-may-2001.md — California briefings, May 2001
-- memory/domains/industry/speaking-invitations-may-2001.md — speaking invitations and conference contacts, May 2001
-- memory/domains/industry/speaking-invitations-mid-may-2001.md — invitations and logistics from 14 May 2001 (EPIS, Bachelier, Baylor, Tamiment)
-- memory/domains/industry/speaking-invitations-late-may-2001.md — invitations and talks from 21 May 2001 (EPRM Europe, Risk Australia, Tamiment, Wharton)
+- Talks: speaking-invitations-may-2001 (May 2001 contacts) · speaking-invitations-mid-may-2001 (from 14 May: EPIS, Bachelier, Baylor, Tamiment) · speaking-invitations-late-may-2001 (from 21 May: EPRM Europe, Risk Australia, Wharton) · speaking-and-visits-early-jun-2001 (from 28 May: Baylor, Stanford EMF) · speaking-and-visits-jun-04-2001 (from 4 Jun: Wharton, Risk 2001 Boston) · speaking-and-visits-jun-08-2001 (from 6 Jun: SMS, IQPC, INFOCAST, IACCGH) · speaking-and-visits-jun-15-2001 (from 11 Jun: Paris, IQPC, Stanford) · speaking-and-visits-jun-18-2001 (from 18 Jun: SMS fee, Risk Waters) · speaking-and-visits-jun-25-2001 (from 25 Jun: London course, EPIS, Krapels) · speaking-and-visits-jul-02-2001 (from 2 Jul: Risk Waters NY, PSERC, Tiger Team)
 - memory/domains/industry/university-ties-late-may-2001.md — Wharton WeBI and the Stanford EMF retail conference, late May 2001
-- memory/domains/industry/speaking-and-visits-early-jun-2001.md — talks and visits from 28 May 2001 (Baylor, Risk Australia, Stanford EMF)
-- memory/domains/industry/california-power-jun-2001.md — California briefings from 30 May 2001 (Plan Z, Edison MOU, QF payments)
-- memory/domains/industry/speaking-and-visits-jun-04-2001.md — talks and trips from 4 Jun 2001 (Wharton, Risk 2001 Boston)
-- memory/domains/industry/speaking-and-visits-jun-08-2001.md — talks and trips from 6 Jun 2001 (SMS, IQPC, INFOCAST, IACCGH)
 - memory/domains/industry/outside-contacts-jun-08-2001.md — Neptune, Alberta Energy MBA, Norsk Hydro evaluations, Jun 2001
-- memory/domains/industry/speaking-and-visits-jun-15-2001.md — talks from 11 Jun 2001 (Paris, IQPC, Stanford)
-- memory/domains/industry/speaking-and-visits-jun-18-2001.md — talks from 18 Jun 2001 (SMS fee, Risk Waters, IQPC)
-- memory/domains/industry/speaking-and-visits-jun-25-2001.md — talks from 25 Jun 2001 (London course, EPIS, Krapels)
