@@ -1,0 +1,204 @@
+{
+ "slice": 96,
+ "simulated_today": "2001-09-01",
+ "feed": {
+  "slice": 96,
+  "iso_week": "2001-W35",
+  "first_seq": 9082,
+  "last_seq": 9154,
+  "messages": 73,
+  "durable": 55,
+  "first_date": "2001-08-27 06:23",
+  "last_date": "2001-09-01 11:24",
+  "today": "2001-09-01",
+  "inbox_files": [
+   "2001-08-27--mail.md",
+   "2001-08-28--mail.md",
+   "2001-08-29--mail.md",
+   "2001-08-30--mail.md",
+   "2001-08-31--mail.md",
+   "2001-09-01--mail.md"
+  ],
+  "inbox_chars": 48433,
+  "l2_chars": 295702
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 487,
+ "quota_before": {
+  "five_hour": 41.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 43.0,
+  "seven_day": 55.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 96,
+  "messages": 73,
+  "durable": 55,
+  "kept": 54,
+  "kept_rate_excluding_redundant": 0.982,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3471,
+  "fact_lines_with_source": 2181,
+  "dated": 2181,
+  "date_matches_source": 2128,
+  "date_mismatch_ids_this_slice": [
+   "m09142"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   0.86,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 692
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1422
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 219,
+   "chars": 382097
+  },
+  "people": {
+   "files": 705,
+   "chars": 455798
+  },
+  "archive_inbox": {
+   "files": 598,
+   "chars": 5442093
+  },
+  "archive_mail": {
+   "files": 9180,
+   "chars": 23585668
+  },
+  "archive_other": {
+   "files": 1800,
+   "chars": 1442423
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 45,
+   "duration_ms": 485136,
+   "duration_api_ms": 434550,
+   "total_cost_usd": 3.0791455,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 146269,
+    "cache_read_input_tokens": 4376153,
+    "output_tokens": 51654,
+    "output_tokens_details": {
+     "thinking_tokens": 14844
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 146269,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1037,
+      "cache_read_input_tokens": 164323,
+      "cache_creation_input_tokens": 885,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 885
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 205,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0003549,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 183,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 51654,
+     "cacheReadInputTokens": 4376153,
+     "cacheCreationInputTokens": 146269,
+     "webSearchRequests": 0,
+     "costUSD": 3.0787906000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 14844,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 146269,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 44,
+   "result_summary": "The 2001-09-01 consolidation is committed as `81ce0122` on `main`. I didn't push: the replay instructions say the runner pushes after its own checks, so that overrides the general \"git push\" line. Both gates passed: `lint.py` (183 warnings, all pre-existing size warnings) and `sleep-audit.py`. The audit first failed on one finding: `work/prediction-company.md` had grown by 320 characters, over its 150 limit. I shortened that file and the re-run passed.\n\nAll six inbox logs for 27 Aug–1 Sep had 55 messages with notes. I cited 54 of them in 24 existing topic files. The only drop is m09094, a note the owner sent himself saying files were sent for R, listed in `dataset/drops/sleep-096.tsv`.\n\n- **Main facts filed:**\n  - The Stanford and Santa Fe meetings with Wolak and Prediction Company are still on, and Prediction will sign an NDA covering the business talks only.\n  - Whalley made data mining of EOL trade records the top priority.\n  - Ding Yuan reports Raptor's Enron credit capacity at ($237MM) on 20 Aug.\n  - Duffie's review: the documentation is being rewritten, and Enron still owes him money.\n  - The 2002 budget allocations went in, and Fellers asked for the variances to be explained.\n  - Rice turned down MacMinn.\n  - Terraso, not Kean, offered to speak at Wharton.\n  - Whalley was offered in Skilling's place for the UT conference.\n- **One conflict resolved:** the first quarterly meeting of managing directors moved from Tue 2 Oct to Mon 1 Oct, because the later note wins. The old line is in the archive.\n- **People:** I created entity files for Kent Daniel and Michael Guerriero, whose fifth noted message arrived this week, and updated MacMinn's file with his move to Nottingham.\n- **Questions:** two alias questions due 25 Aug (\"Russell W. Parks III\", \"Steve Leppard\") closed without an answer; both names stay unlinked and marked (?). The owner's spelling \"Richard McMinn\" is now an approval question in `questions.md` and was not applied.\n- **Housekeeping:**\n  - There were "
+  },
+  "repair": null
+ }
+}

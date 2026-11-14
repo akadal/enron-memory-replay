@@ -1,0 +1,74 @@
+id	durable	status	detail
+m09082	yes	kept	domains/industry/wharton-risk-center-2001.md
+m09083	yes	kept	domains/organization/corporate-announcements-2001.md
+m09084	yes	kept	domains/personal/correspondence.md
+m09085	yes	kept	domains/work/vendor-offers-2001.md
+m09086	yes	kept	domains/personal/correspondence.md
+m09087	yes	kept	domains/work/talon-raptor.md
+m09088	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m09089	yes	kept	domains/work/storage-model.md
+m09090	yes	kept	domains/industry/rice-finance-seminar-2001.md people/kent-daniel.md
+m09091	yes	kept	domains/industry/rice-finance-seminar-2001.md
+m09092	yes	kept	domains/industry/rice-university.md people/richard-macminn.md
+m09093	yes	kept	domains/personal/correspondence.md
+m09094	yes	dropped	other: note-to-self that 13 files were sent for R, no context to keep
+m09095	yes	kept	domains/industry/declined-invitations-2000.md
+m09096	yes	kept	domains/industry/rice-finance-seminar-2001.md people/kent-daniel.md
+m09097	no	not_durable	logistics
+m09098	no	not_durable	logistics
+m09099	yes	kept	domains/work/prediction-company.md
+m09100	yes	kept	domains/work/dabhol-power-sale.md
+m09101	yes	kept	domains/industry/rice-finance-seminar-2001.md
+m09102	yes	kept	domains/personal/correspondence.md
+m09103	yes	kept	domains/work/university-relations.md
+m09104	yes	kept	domains/work/university-relations.md
+m09105	no	not_durable	bulk
+m09106	no	not_durable	pleasantry
+m09107	no	not_durable	pleasantry
+m09108	no	not_durable	other
+m09109	yes	kept	domains/work/university-relations.md
+m09110	yes	kept	domains/industry/rice-university.md people/richard-macminn.md
+m09111	yes	kept	domains/work/ebs-research-requests-2001.md
+m09112	no	not_durable	bulk
+m09113	yes	kept	domains/organization/outside-recruiters-2001.md
+m09114	yes	kept	domains/work/var-credit-system-2001.md
+m09115	yes	kept	domains/industry/wharton-risk-center-2001.md
+m09116	yes	kept	domains/industry/rice-university.md people/richard-macminn.md
+m09117	yes	kept	domains/work/prediction-company.md
+m09118	yes	kept	domains/work/prediction-company.md
+m09119	no	not_durable	other
+m09120	yes	kept	domains/work/prediction-company.md
+m09121	yes	kept	domains/organization/research-accounting-2000.md
+m09122	yes	kept	domains/organization/research-accounting-2000.md
+m09123	no	not_durable	empty
+m09124	yes	kept	domains/work/var-credit-system-2001.md
+m09125	yes	kept	domains/work/talon-raptor.md
+m09126	yes	kept	domains/work/prediction-company.md
+m09127	yes	kept	domains/work/prediction-company.md
+m09128	yes	kept	domains/personal/correspondence.md
+m09129	yes	kept	domains/personal/correspondence.md
+m09130	yes	kept	domains/work/owner-publications.md
+m09131	no	not_durable	other
+m09132	yes	kept	domains/organization/group-events-2000.md
+m09133	no	not_durable	logistics
+m09134	yes	kept	domains/work/oz-crude-basket-2001.md
+m09135	no	not_durable	logistics
+m09136	no	not_durable	other
+m09137	yes	kept	domains/organization/recruiting-candidates.md
+m09138	no	not_durable	pleasantry
+m09139	yes	kept	domains/organization/research-accounting-2000.md
+m09140	yes	kept	domains/work/internal-meetings-2001.md
+m09141	yes	kept	domains/personal/correspondence.md
+m09142	yes	kept	domains/work/talon-raptor.md
+m09143	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m09144	no	not_durable	logistics
+m09145	yes	kept	domains/industry/declined-invitations-2000.md
+m09146	no	not_durable	other
+m09147	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m09148	yes	kept	domains/work/country-risk-curves.md people/michael-guerriero.md
+m09149	yes	kept	domains/organization/group-events-2000.md
+m09150	yes	kept	domains/organization/group-events-2000.md
+m09151	no	not_durable	other
+m09152	no	not_durable	other
+m09153	yes	kept	domains/organization/outside-recruiters-2001.md
+m09154	yes	kept	domains/work/var-credit-system-2001.md
