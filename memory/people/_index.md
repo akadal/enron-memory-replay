@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-09-10
+updated: 2000-09-15
 ---
 # People — index
 
@@ -61,6 +61,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Chris Strickland
 - Chris Williams
 - Christian Werner
+- Cindy Justice
 - Clayton Vernon
 - Cliff Baxter
 - Colleen Sullivan
@@ -156,6 +157,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
 - Julie Haviland
+- Karen Marshall
 - Karla Feldman
 - Kate Bruges
 - Katja Schilling
@@ -304,6 +306,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - William Bradford (William S Bradford)
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
+- Yana Kristal
 - Yannis Tzamouranis
 - Youyi Feng
 - Zimin Lu
