@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # People — index
 
@@ -44,6 +44,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Anoush Farhangi
 - Anshuman Srivastav
 - Anthony Mends (Tony Mends)
+- Anurag Saksena
 - April Hodgson (April Hodgeson, April Hodges)
 - Aram Sogomonian
 - Arshak Sarkissian
@@ -67,6 +68,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Biliana Pehlivanova
 - Bill Petty
 - Bill Rust
+- Billy Lemmons
 - Bjorn Hagelmann
 - Blake Johnson
 - Bob Shults
@@ -248,6 +250,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jean Mrha
 - Jean Ryall
 - Jed Howard
+- Jeff Andrews
 - Jeff Gray
 - Jeff Kinneman
 - Jeff McMahon
@@ -405,6 +408,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Danielson
 - Michael Froehls
 - Michael Maddox
+- Michael Moore
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
 - Michael Sergeev
@@ -463,6 +467,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
 - Pavel Zadorozhny
 - Per Sekse (Per A. Sekse)
+- Peter McNabb
 - Peter Nance
 - Peter Percell
 - Peter Tufano
@@ -528,6 +533,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ross Mesquita
 - Ross Prevatt
 - Rudi Zipter
+- Rumaldo Lopez
 - Rusty Parks
 - Ryan Siurek
 - Sally Beck

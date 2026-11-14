@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: Iris Mack in London gets conflicting priorities, asks whom she reports to and whether the Duffie report should be candid → memory/domains/work/enron-credit-london-may-2001.md; plan outline → memory/domains/work/enron-credit-strategy-2001.md
-- Models: CrudeAPO clash, owner to talk with Gibner → memory/domains/work/crudeapo-asian-option-2001.md; power VaR with jumps, West Power vols too high → memory/domains/work/power-var-may-2001.md; PSIM → memory/domains/work/ees-full-requirements-may-2001.md
-- EOL: Zimin's EOL George high-frequency study, Lee's vol-skew conditions → memory/domains/work/eol-trading-algorithms-2001.md; movie futures → memory/domains/work/ebs-research-requests-2001.md
-- Desks: Kohli offered for DPC strategy, Godbole meeting 11 May → memory/domains/work/dabhol-renegotiation-may-2001.md; Hamilton's European weather asks, Diebold → memory/domains/work/weather-research-2001.md; ETS wants Roberts' technical analysis kept → memory/domains/work/technical-analysis-service-2001.md; EES liability product → memory/domains/work/ees-liability-mitigation-2001.md
-- Outside: Limperis call with Vasant pending → memory/domains/work/vendor-offers-2001.md; Thorne NDA stuck → memory/domains/work/outside-requests-2001.md
+- Credit: Iris's strategic plan draft for Duffie, whom she reports to → memory/domains/work/enron-credit-london-may-2001.md; Kalotay's S&P Credit Indices call with Seyfried → memory/domains/work/vendor-offers-may-2001.md; AA asks Raptor methodology → memory/domains/work/talon-raptor.md
+- VaR: Port's dinner bet on Convolution VaR by summer, Kitchen wants gas/power correlations now, jump code to IT → memory/domains/work/power-var-may-2001.md; PSIM → memory/domains/work/ees-full-requirements-may-2001.md; HJM propane, bid-offer literature → memory/domains/work/research-models-may-2001.md
+- Desks: Lay's veto saves Dabhol for now, McDonald takes Kohli's help → memory/domains/work/dabhol-renegotiation-may-2001.md; recurring meetings → memory/domains/work/owner-meetings-may-2001.md
+- Outside: Limperis call done, they come back; DRI-WEFA ag data; Mitnick → memory/domains/work/vendor-offers-may-2001.md; Thorne proposal owed, Prediction Company → memory/domains/work/outside-requests-2001.md
+- Writing: column on Osler's technical analysis paper (7 May) → memory/domains/work/owner-publications.md; Lacima still waits on Fiona Grant → memory/domains/work/lacima-book-2000.md
 
 ## Files
 
@@ -42,5 +42,6 @@ Path: memory/domains/work/<name>.md
 - private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001
 - enron-credit-strategy-2001 · crudeapo-asian-option-2001 · ees-full-requirements-may-2001
 - enron-credit-london-may-2001 · power-var-may-2001 · ees-liability-mitigation-2001 · technical-analysis-service-2001 · dabhol-renegotiation-may-2001
+- research-models-may-2001 · owner-meetings-may-2001 · vendor-offers-may-2001
 
 Closed: 1

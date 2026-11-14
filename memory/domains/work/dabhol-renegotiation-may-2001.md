@@ -3,13 +3,16 @@ id: dabhol-renegotiation-may-2001
 type: topic
 domain: work
 title: "Dabhol: Godbole committee renegotiation and Research support, May 2001"
-summary: "Owner offers Sandeep Kohli and the group's modellers to Jim Hughes and Rebecca McDonald for DPC strategy (3 May 2001); DPC meets the Godbole committee 11 May without proposals, calls its terms unacceptable; Godbole wants the LNG facility split off, dollar fixed charges dropped, debt restructured; MSEB cannot pay Rs 500 crore a month from Jan 2002 (4 May 2001)."
+summary: "Owner offers Sandeep Kohli for DPC strategy (3 May 2001), McDonald accepts (11 May); Godbole committee meets DPC 11 May; Ken Lay's veto saved the project for now, NTPC will not buy its power, lenders may approve PPA termination (7 May); Henwood's draft report awaits comments."
 status: active
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Dabhol: Godbole committee renegotiation and Research support, May 2001
 
-Background and earlier press: memory/domains/work/dabhol-power-sale.md.
+Background and earlier press: memory/domains/work/dabhol-power-sale.md. Detail ←[[dabhol-renegotiation-may-2001-2001-05-w19]]
 
-- [2001-05-03] Owner to James Hughes and Rebecca McDonald: Sandeep Kohli "is working currently in my group." "He is available on a very short notice to help you with any quantitative modeling" for DPC strategy decisions, and "he can also rely on the support of other members of my group with skills in different areas". ←[[m07606]] ←[[m07633]]
-- [2001-05-04] Kohli's newsclips (to the owner, Stinson): DPC meets the Godbole committee 11 May only as a courtesy, with lender (GE, Bechtel) and LNG supplier representatives, no proposals; it calls the published terms no acceptable basis. Solicitor General Harish Salve likely the Centre's representative (Enron's condition). Godbole: split the 5 mmtpa LNG facility from the plant (2.1 mmtpa needed, 1.8 take-or-pay), renegotiate LNG and shipping, drop dollar-denominated fixed charges, restructure debt. MSEB pays Rs 95 crore a month for the 740 MW phase I, cannot pay Rs 500 crore a month due from Jan 2002 with the 1,444 MW phase II. ←[[m07661]]
+- [2001-05-03] Owner to James Hughes and Rebecca McDonald: Kohli "is available on a very short notice to help you with any quantitative modeling" for DPC strategy, backed by the group. ←[[m07606]] ←[[m07633]]
+- [2001-05-04] Kohli's newsclips: DPC meets the Godbole committee 11 May as a courtesy, no proposals; Godbole wants the LNG facility split off, dollar fixed charges dropped, debt restructured; MSEB cannot pay Rs 500 crore a month from Jan 2002. ←[[m07661]]
+- [2001-05-07] Henwood's Narottam Aul: the draft Dabhol Report went out 24 Apr; comments via Kohli for a final, closing the job; offers sensitivities for the MSEB talks. Kohli never got it, asks again. ←[[m07725]]
+- [2001-05-07] Kohli's clips: Ken Lay's veto saved the $2.9B project from the board for now; Prabhu: NTPC will not buy DPC power (Rs 7 a unit vs 2.30-2.80); lenders meet in London mid-May, may approve PPA termination. ←[[m07727]]
+- [2001-05-11] McDonald accepts Kohli's help with notice; owner forwards it to him. ←[[m07842]]
