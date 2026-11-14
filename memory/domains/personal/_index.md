@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Personal — index
 
@@ -10,7 +10,7 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Son Vin at Stanford, wife there till June; owner's Fordham degree → memory/domains/personal/household.md
-- Round Table dinner, Sullivan's, 18 May; Cornelli, MS 150 → memory/domains/personal/correspondence.md
+- Pokalsky's 1996 Power Risk request; Ste-Marie's new contacts → memory/domains/personal/correspondence.md
 - Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
 
 ## Files

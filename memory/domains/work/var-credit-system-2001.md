@@ -3,16 +3,16 @@ id: var-credit-system-2001
 type: topic
 domain: work
 title: "Credit reserve and VaR system: Research and IT (Jan 2001)"
-summary: "Credit reserve and VaR work, 2001: owner's 'Var Issues' memo: market-based inputs, a forward-vol check, no one owns calibration (18 May 2001); Project X gas/power correlations, Tamarchenko on Winton's Power VaR paper, analytical VaR fails for non-normal variables (18 May); Kitchen wants correlations in VaR now (10 May); Port's dinner bet and older items archived."
+summary: "Credit reserve and VaR work, 2001: owner's 'Var Issues' memo, no one owns calibration (18 May 2001); Project X: Hayden's gas/power correlations, action plan awaiting the owner's remarks (23-24 May); Mark E. Thomas's EVT VaR data (22 May); Tamarchenko tests Albanese's convolution VaR on non-normal returns (25 May 2001); Kitchen's correlations ask, Winton's paper and older items archived."
 status: active
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Credit reserve and VaR system: Research and IT (Jan 2001)
 
-Detail ←[[var-credit-system-2001-2001-01-w03]] … (one archive file per week) ←[[var-credit-system-2001-2001-05-06]] ←[[var-credit-system-2001-2001-05-13]] ←[[var-credit-system-2001-2001-05-18]]
+Detail ←[[var-credit-system-2001-2001-01-w03]] … (one archive file per week) ←[[var-credit-system-2001-2001-05-06]] ←[[var-credit-system-2001-2001-05-13]] ←[[var-credit-system-2001-2001-05-18]] ←[[var-credit-system-2001-2001-05-26]]
 
 VaR methodology: memory/domains/work/var-backtesting-2000.md. UK books in RisktRac: memory/domains/work/risktrac-europe-var.md.
-- [2001-05-10] Kitchen wants gas/power correlations in VaR now ('project x'); Khanna's 60-day figures: ~50% prompt, 65% further out; Tamarchenko sees low NG-west power correlation and asks the owner whether to push for more factors. ←[[m07823]]
-- [2001-05-18] Project X: Frank Hayden's spreadsheet shows stronger gas/power correlations on price changes, which may cause VaR issues; meeting next week with Presto, Belden, the owner, Tamarchenko, who added two paragraphs to his document. ←[[m07932]] ←[[m07934]]
-- [2001-05-18] Tamarchenko on Winton's Power VaR paper: agrees on re-running and clustering jumps; proposes volatility smoothing, fixed-contract correlations (less noisy; IT's old version may be lost) and 100 factor columns instead of 7; argues analytical VaR fails for non-normal variables (Rakesh reviewed). ←[[m07933]] ←[[m07935]] ←[[m07938]]
 - [2001-05-18] Owner's 'Var Issues' memo (to AOL): strong risk management answers analysts calling Enron a hedge fund; "we should review inputs that are not based on the trading desks"; compare desks' forward vols with later moves; calibration split across IT, RAC, Research: "Some inputs used currently in the system are 2 years old." ←[[m07936]]
+- [2001-05-22] Mark E. Thomas sends the owner and Naveen Andrews the data behind the EVT VaR results discussed 21 May (MTMs times -1, right tail); owner copies it to AOL. ←[[m07971]]
+- [2001-05-23] Project X action plan (Hayden's additions red, Tamarchenko's blue) awaits the owner's remarks; Tanya also sent her counter-example; Hayden asks again 24 May. ←[[m07983]] ←[[m07991]]
+- [2001-05-25] Tamarchenko on Claudio Albanese's convolution VaR: he says it is built for non-normal distributions and backtests well; on real data MC, historical and convolution VaR differ, so she proposes testing on simulated non-normal returns; Alex Huang circulates a stable fat-tail option pricing paper; owner copies both to AOL. ←[[m08010]] ←[[m07997]]

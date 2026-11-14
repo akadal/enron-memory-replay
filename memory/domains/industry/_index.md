@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Owner's roles: EPIS topic owed to Barney; SIAM slides owed (Padilla too); Tamiment 23-24 May; Baylor EMBA 27 Jul; Bachelier plenary, Crete 2002, unanswered → memory/domains/industry/speaking-engagements-2000.md
-- Declined: IIR CFMA conference (another speaker asked), IQPC real options, Oct → memory/domains/industry/declined-invitations-2000.md
-- Attending: PIRA; Berkeley e-commerce 22 May → memory/domains/industry/events-attending-2001.md; Rice breakfast 30 May → memory/domains/industry/rice-university.md
-- Wharton: Risk Center advisory 14 Jun → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
-- California: Thome's briefing pack, other parties' papers owed → memory/domains/industry/california-power-jan-2001.md
+- Speaking: Tamiment 23-24 May; invitations open: Risk 2001 Australia (Sydney, 20-21 Aug), EPRM Europe (Amsterdam, 6-7 Sep); EPIS topic, SIAM slides owed → memory/domains/industry/speaking-engagements-2000.md, memory/domains/industry/eprm-risk.md
+- Wharton: Risk Center 14 Jun, Koenig's deck for the talk → memory/domains/industry/wharton-risk-center-2001.md; WeBI, Kitchen wants project results → memory/domains/industry/wharton-projects-feb-2001.md
+- Sponsorship: Stanford EMF check missing; IACCGH gala table at FRIEND level → memory/domains/industry/sponsorship-requests-2001.md
+- California: Angelides: SoCal bankrupt, $12B bond short → memory/domains/industry/california-power-jan-2001.md; EOL competitors article → memory/domains/industry/energy-exchanges-2001.md
+- Attending: Columbia INFORMS revenue management (Krishna, Youyi?) → memory/domains/industry/events-attending-2001.md
 
 ## Files
 

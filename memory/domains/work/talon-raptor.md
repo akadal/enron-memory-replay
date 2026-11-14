@@ -3,17 +3,16 @@ id: talon-raptor
 type: topic
 domain: work
 title: "Talon / Raptor valuation"
-summary: "Research's custom project Talon (Issler, Gibner, Zimin Lu, Bharati, the owner): Bharati's Raptor valuation for AA (5 Apr 2001); AA asks for the methodology of the 18-million-share contingent issuance (11 May); Bharati's 'Note to Arthur Anderson', drafts 16-17 May for Ron Baker (17 May 2001); older items archived."
+summary: "Research's custom project Talon (Issler, Gibner, Lu, Bharati, the owner): Raptor ENE-forward restriction, extra conditionality, omission conservative (22 May 2001); Baker: 18MM contingent and 12MM restricted forwards, both valued in March; latest 'AA' note (25 May 2001); Note to AA drafts and older items archived."
 status: active
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Talon / Raptor valuation
 
-Detail ←[[talon-raptor-2001-02-w05]] ←[[talon-raptor-2001-02-w06]] ←[[talon-raptor-2001-03-w11]] ←[[talon-raptor-2001-03-w12]] ←[[talon-raptor-2001-04-w15]] ←[[talon-raptor-2001-05-13]] ←[[talon-raptor-2001-05-18]]
+Detail ←[[talon-raptor-2001-02-w05]] ←[[talon-raptor-2001-02-w06]] ←[[talon-raptor-2001-03-w11]] ←[[talon-raptor-2001-03-w12]] ←[[talon-raptor-2001-04-w15]] ←[[talon-raptor-2001-05-13]] ←[[talon-raptor-2001-05-18]] ←[[talon-raptor-2001-05-26]]
 
 Earlier LJM work (RTHM put, LJM options, credit reserve): memory/domains/work/ljm-put-valuation.md
 
-- [2001-04-04] Owner to Bharati: "Can we meet with David Port on Thu  2:30 to review Raptors?" ←[[m06517]]
-- [2001-04-09] Bharati's Raptor valuation spreadsheet (5 Apr, to the owner and Gibner; basis for that day's talk with AA): inputs on sheet "Simulation", templates Case1-3 and Total; owner copies it to AOL. ←[[m06627]]
-- [2001-05-11] Ron Baker: AA's expert (name unclear) wants Research's written valuation methodology for the contingent issuance of 18 million shares in the Raptor deal closed end-March, to finish AA's review, and may then want to talk; owner to Bharati: "FYI" ←[[m07839]] ←[[m07841]]
-- [2001-05-17] Bharati's 'Note to Arthur Anderson' for Ron Baker (due Fri 18 May): owner and Gibner asked to comment on drafts of 16 and 17 May; owner copies both to AOL. ←[[m07902]] ←[[m07915]]
+- [2001-05-22] Owner to Ron Baker: Rakesh found an extra conditionality on the restriction on ENE stock forwards in Raptor, unknown at valuation time: "This omission makes our valuation more conservative"; "We can, however, easily, incorporate it in our valuation model."; "Please, let us know if this is required." ←[[m07978]]
+- [2001-05-22] Baker: confusion over which forwards; Raptor has up to 18MM shares contingent on price (offset to the Whitewing forward shortfall) and a straight restricted forward on 12MM ENE shares; both valued in March, the 18MM with its contingency, the 12MM without; AA managers met on the methodology. ←[[m07982]]
+- [2001-05-25] Bharati sends the latest 'AA' note for comment; owner copies it to AOL. ←[[m08005]]
