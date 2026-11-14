@@ -1,0 +1,187 @@
+{
+ "slice": 52,
+ "simulated_today": "2000-11-26",
+ "feed": {
+  "slice": 52,
+  "iso_week": "2000-W47",
+  "first_seq": 4303,
+  "last_seq": 4419,
+  "messages": 117,
+  "durable": 90,
+  "first_date": "2000-11-20 00:03",
+  "last_date": "2000-11-26 08:10",
+  "today": "2000-11-26",
+  "inbox_files": [
+   "2000-11-20--mail.md",
+   "2000-11-21--mail.md",
+   "2000-11-22--mail.md",
+   "2000-11-23--mail.md",
+   "2000-11-25--mail.md",
+   "2000-11-26--mail.md"
+  ],
+  "inbox_chars": 61137,
+  "l2_chars": 229260
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 659,
+ "quota_before": {
+  "five_hour": 35.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 37.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 52,
+  "messages": 117,
+  "durable": 90,
+  "kept": 88,
+  "kept_rate_excluding_redundant": 0.989,
+  "drop_classes": {
+   "logistics": 1,
+   "redundant": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2093,
+  "fact_lines_with_source": 1378,
+  "dated": 1378,
+  "date_matches_source": 1341,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.9,
+   1.0,
+   0.89,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 693
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1444
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 144,
+   "chars": 246250
+  },
+  "people": {
+   "files": 382,
+   "chars": 259681
+  },
+  "archive_inbox": {
+   "files": 338,
+   "chars": 2646313
+  },
+  "archive_mail": {
+   "files": 4445,
+   "chars": 10783071
+  },
+  "archive_other": {
+   "files": 860,
+   "chars": 781516
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 45,
+   "duration_ms": 656820,
+   "duration_api_ms": 487763,
+   "total_cost_usd": 3.5657080000000003,
+   "usage": {
+    "input_tokens": 86,
+    "cache_creation_input_tokens": 166401,
+    "cache_read_input_tokens": 5644580,
+    "output_tokens": 55262,
+    "output_tokens_details": {
+     "thinking_tokens": 24022
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 166401,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 585,
+      "cache_read_input_tokens": 197015,
+      "cache_creation_input_tokens": 1177,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1177
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 86,
+     "outputTokens": 55262,
+     "cacheReadInputTokens": 5644580,
+     "cacheCreationInputTokens": 166401,
+     "webSearchRequests": 0,
+     "costUSD": 3.5657080000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24022,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 166401,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 44,
+   "result_summary": "The 2000-11-26 consolidation for week 2000-W47 is committed as `256a4db` and not pushed, since the runner pushes after its own checks. Lint and sleep-audit were both green on the first try, so no repair or reset to `pre-sleep` was needed.\n\n- **What went in:** 88 of the week's 90 messages with notes are cited in 27 topic files, with fact lines ending in `←[[m…]]`. The other two are in `dataset/drops/sleep-052.tsv`: m04373 (logistics) and m04385 (redundant). A mechanical check found no message that is neither cited nor dropped.\n- **New people files:** eight people reached five messages: Jean Eisel, Claudio Ribeiro, Carlos Ordonez, Ed McMichael, Jennifer Burns, Carrie Miller, James Bouillion and Tim Heizenrader. All are in the people index with no aliases. Carrie Miller actually reached her fifth message last week and was missed then; her file was added this run.\n- **Compression:** older lines from 23 of those files moved to `archive/*/2000/*-2000-11-w47.md`, so no file over its target grew past the ratchet limit. No file sits above 90% of its ceiling.\n- **Also updated:** the work, organization and industry indexes and `state.md`.\n- **Checks:** the five oldest ongoing lines are still valid and stay open. No question was due, and nothing was added to `questions.md`.\n- **Not done, because there was nothing to do:** the inbox had no sleep-task or feedback blocks. `todo.md` is empty. No source pull is configured.\n- **Left alone:** the runner's untracked transcript, `dataset/runs/sleep-052.transcript.jsonl`."
+  },
+  "repair": null
+ }
+}
