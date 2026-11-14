@@ -5,7 +5,7 @@ domain: work
 title: "Research sign-off on valuation: formal rules (Jan 2001)"
 summary: "UK DOVE vs US portcalc valuation code (Stock asks the owner's help against 'not built here'); Leppard: Research writes technical notes, RAC signs off; James New: sign-off is cross-functional, agrees with Leppard; owner to ask Rick Buy and David Port for formal Research sign-off rules (Jan 2001)."
 status: active
-updated: 2001-02-04
+updated: 2001-04-01
 ---
 # Research sign-off on valuation (Jan 2001)
 
@@ -16,3 +16,4 @@ Earlier sign-off cases (Andersen review, EnergyDesk.com): memory/domains/work/mo
 - [2001-01-23] Stock: UK traders use their own DOVE tool, at odds with US portcalc; he wants the owner's help against "not built here". Owner: divergence comes from "the absence of formal rules for sign-off on the valuation techniques", turf wars and originators wanting control. ←[[m05505]] ←[[m05513]]
 - [2001-01-24] Leppard: Research can state a method's shortfalls and risks, RAC decides; technical notes instead of sign-off. Owner: "I shall talk to Rick Buy and David Port about setting up more formal rules for the Research sign-off." ←[[m05520]]
 - [2001-01-29] James New (London): sign-off is cross-functional, each function signs its own part (Risk Management coordinates); he accepts Leppard's split (Ted agrees). ←[[m05637]]
+- [2001-03-30] John Best sends a contingent Call Options Trading Limit request for the owner's signature on Monday (cc Shanbhogue, Hagelmann, David Hoog); owner copies it to AOL. ←[[m06439]]
