@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-11-26
+updated: 2000-12-03
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- EnronCredit.com VaR: owner will not sign off without reviewing the vendor algorithms → memory/domains/work/enroncredit-support-2000.md; DRAM trading authority awaits his concurrence → memory/domains/work/dram-trading-authority-2000.md
-- VaR: separate the price process from position changes; IR and FX VaR first; R8 ff-vol smoothing ready for testing → memory/domains/work/var-backtesting-2000.md
-- Martin's 'thought document' to edit; paper sent to FMA-European, Paris May 2001; Fastow, Skilling, Lay Mon 4 Dec → memory/domains/work/enron-transformation-paper.md
-- MarketPoint: owner proposes a $12,000-a-week case study, ETS wants the long-term gas model → memory/domains/work/vendor-reviews-nov-2000.md; Bob Lee's backwardation hedge to review → memory/domains/work/desk-analysis-requests.md
-- UT conference: Louise Kitchen still open → memory/domains/work/ut-austin-ties-2000.md; compound option model for an exotic book → memory/domains/work/group-projects-oct-2000.md; MIT Pro-Seminar with the Weather Desk → memory/domains/work/university-relations.md
+- Project X: Gibner in Sydney Mon 4 Dec, two-day diligence of the target's trading system → memory/domains/work/project-x-diligence-2000.md
+- Martin's interviews with Fastow, Skilling, Lay Mon 4 Dec; paper at FMA-European, Paris May 2001 → memory/domains/work/enron-transformation-paper.md
+- MarketPoint test project ($12K cap, early Jan), Nesbitt in Houston from ~4 Dec → memory/domains/work/vendor-reviews-nov-2000.md
+- Arthur Andersen wants two Koch deals revalued on the spread option model → memory/domains/work/model-risk-audit.md; Reedy Creek model, Lu's market-maker V.2 → memory/domains/work/group-projects-oct-2000.md
+- EnronCredit.com VaR review → memory/domains/work/enroncredit-support-2000.md; DRAM concurrence → memory/domains/work/dram-trading-authority-2000.md
 
 ## Files
 
@@ -28,7 +28,7 @@ Path: memory/domains/work/<name>.md
 - group-papers-2000 · henwood-emss-query · internal-meetings · japan-merchant-business · kmi-database-license · lacima-book-2000
 - ljm-put-valuation · lng-book-2000 · margin-collar-bid-nov-2000 · mars-cds-weather · mec-molecular-electronics · mg-metals-var · model-risk-audit
 - monte-carlo-library · naphtha-caps-india · nsf-grant-feng-2000 · outside-requests · owner-publications · pe-load-forecast-2000 · promigas-tvcable-option
-- pse-swap-warsaw · real-options-diagrams · research-presentations · research-web-content-2000 · rofr-valuation · seismic-data-satellite · south-america-curves
+- project-x-diligence-2000 · pse-swap-warsaw · real-options-diagrams · research-presentations · research-web-content-2000 · rofr-valuation · seismic-data-satellite · south-america-curves
 - stanford-research-ties · storage-book-var · storage-model · talon-raptor · tips-inflation-model · transport-model
 - turkish-ipo-options · tw-capacity-options · uk-inflation-book-ppi · uk-power-vol-curve · university-relations · ut-austin-ties-2000
 - value-research-lab · var-backtesting-2000 · vega-var · vendor-offers-2000
