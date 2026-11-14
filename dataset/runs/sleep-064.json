@@ -1,0 +1,191 @@
+{
+ "slice": 64,
+ "simulated_today": "2001-02-18",
+ "feed": {
+  "slice": 64,
+  "iso_week": "2001-W07",
+  "first_seq": 5828,
+  "last_seq": 5929,
+  "messages": 102,
+  "durable": 81,
+  "first_date": "2001-02-12 00:08",
+  "last_date": "2001-02-18 14:59",
+  "today": "2001-02-18",
+  "inbox_files": [
+   "2001-02-12--mail.md",
+   "2001-02-13--mail.md",
+   "2001-02-14--mail.md",
+   "2001-02-15--mail.md",
+   "2001-02-16--mail.md",
+   "2001-02-18--mail.md"
+  ],
+  "inbox_chars": 60577,
+  "l2_chars": 230955
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 784,
+ "quota_before": {
+  "five_hour": 14.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 16.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 64,
+  "messages": 102,
+  "durable": 81,
+  "kept": 79,
+  "kept_rate_excluding_redundant": 0.975,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2670,
+  "fact_lines_with_source": 1780,
+  "dated": 1780,
+  "date_matches_source": 1735,
+  "date_mismatch_ids_this_slice": [
+   "m05842",
+   "m05857",
+   "m05893"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 622
+  },
+  "questions": {
+   "files": 1,
+   "chars": 655
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 187,
+   "chars": 328319
+  },
+  "people": {
+   "files": 502,
+   "chars": 333953
+  },
+  "archive_inbox": {
+   "files": 417,
+   "chars": 3517758
+  },
+  "archive_mail": {
+   "files": 5955,
+   "chars": 14527801
+  },
+  "archive_other": {
+   "files": 1146,
+   "chars": 977004
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 73,
+   "duration_ms": 781973,
+   "duration_api_ms": 697810,
+   "total_cost_usd": 5.3799794,
+   "usage": {
+    "input_tokens": 132,
+    "cache_creation_input_tokens": 202732,
+    "cache_read_input_tokens": 10723477,
+    "output_tokens": 80645,
+    "output_tokens_details": {
+     "thinking_tokens": 30133
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 202732,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 877,
+      "cache_read_input_tokens": 234319,
+      "cache_creation_input_tokens": 204,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 204
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 132,
+     "outputTokens": 80645,
+     "cacheReadInputTokens": 10723477,
+     "cacheCreationInputTokens": 202732,
+     "webSearchRequests": 0,
+     "costUSD": 5.3799794,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 30133,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 202732,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 72,
+   "result_summary": "I've finished the 2001-02-18 consolidation (week 2001-W07). Both gates (lint and sleep-audit) passed, and it went in as one commit, `beeb94b`. I didn't push, as the run instructions said.\n\n**Messages:** all 81 messages with notes are accounted for. 79 are cited in L1 and 2 are listed in `dataset/drops/sleep-064.tsv`: m05876, a self-reminder about hedging papers, and m05928, a phone number.\n\n**New topic files:** the Synfuel option and the argument over a reserve for losing the tax credit, the MarketPoint gas model (now John Goodpasture's decision), Zdunkewicz's EES termination payments, internal meetings for 2001, TradeSpark, and the Wharton team projects plus the 20 Feb trip.\n\n**Main updates to existing files:**\n- Research takes the Wharton students from Teams 1 and 3 that the Associate Program leaves, as summer associates.\n- Howard Haughton's second London interview is 20 Feb; the owner will be in Philadelphia.\n- Tanya will probably go to the UT conference in the owner's place.\n- Lacima's weather course moves to Enron as a one-day course.\n- Revised Board-approved risk policy, the IIF and Avistar costs, and Anshuman's L1 visa, on hold because there is no US job offer.\n\n**People:** I created 14 entity files. Eleven people reached five messages this week. Omar Bassal, Stephen Lessar and Nicholas Levitt should have had files in earlier runs, so I added them now. Their spelling variants (Omar Bassel, Steve Lessar, Nick Levitt) went in as aliases on the new files.\n\n**Questions:** the Anshuman Shrivastava alias question was due 13 Feb and got no answer, so I closed it by status quo with a (?) note on his file.\n\n**Other checks:** no sleep-task blocks this week. The five oldest ongoing lines are still valid. No file was above 90% of its ceiling, so the compression quota didn't apply; I moved older lines from 17 touched files into `archive/*/2001/*-2001-02-w07.md`.\n\n**Inbox log location:** the run log isn't in `memory/inbox/2001-02-18--mail.md` as instructed. Appending to th"
+  },
+  "repair": null
+ }
+}
