@@ -1,0 +1,111 @@
+id	durable	status	detail
+m03311	yes	kept	domains/organization/candidate-referrals-2000.md people/roman-kosecki.md
+m03312	yes	kept	domains/organization/candidate-referrals-2000.md people/roman-kosecki.md
+m03313	yes	kept	domains/organization/corporate-announcements-2000.md
+m03314	yes	kept	domains/organization/office-equipment.md
+m03315	yes	kept	domains/work/stanford-research-ties.md
+m03316	no	not_durable	bulk
+m03317	yes	kept	people/roman-kosecki.md
+m03318	yes	kept	domains/personal/recruiter-approaches-2000.md
+m03319	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03320	yes	kept	domains/work/university-relations.md
+m03321	yes	kept	people/andrew-miles.md
+m03322	no	not_durable	logistics
+m03323	yes	kept	domains/work/research-presentations.md
+m03324	yes	kept	people/roman-kosecki.md
+m03325	yes	kept	domains/industry/speaking-engagements-2000.md people/roman-kosecki.md
+m03326	no	not_durable	quote_only
+m03327	no	not_durable	other
+m03328	yes	kept	domains/work/desk-analysis-requests.md
+m03329	yes	kept	domains/work/lacima-book-2000.md people/habiba-bayi.md
+m03330	yes	kept	domains/work/university-relations.md
+m03331	yes	kept	people/andrew-miles.md
+m03332	yes	kept	domains/work/desk-analysis-requests.md
+m03333	yes	kept	domains/work/var-backtesting-2000.md
+m03334	yes	kept	domains/work/desk-analysis-requests.md
+m03335	yes	dropped	logistics: owner sends Phil Sisneros his two e-mail addresses, already on file
+m03336	yes	kept	domains/work/university-relations.md
+m03337	no	not_durable	automated
+m03338	yes	kept	domains/organization/software-licenses.md
+m03339	no	not_durable	bulk
+m03340	yes	kept	domains/work/desk-analysis-requests.md
+m03341	yes	kept	people/andrew-miles.md
+m03342	yes	kept	domains/work/desk-analysis-requests.md
+m03343	yes	kept	domains/work/research-presentations.md
+m03344	yes	dropped	logistics: bare contact card (Oil & Gas Journal Online) with no context
+m03345	yes	kept	domains/organization/corporate-announcements-2000.md
+m03346	yes	kept	domains/work/lacima-book-2000.md people/habiba-bayi.md
+m03347	no	not_durable	quote_only
+m03348	no	not_durable	logistics
+m03349	yes	kept	domains/industry/informs-san-antonio-2000.md domains/industry/speaking-engagements-2000.md people/shijie-deng.md
+m03350	yes	kept	domains/work/internal-meetings.md
+m03351	yes	kept	domains/work/value-research-lab.md
+m03352	yes	kept	domains/work/value-research-lab.md
+m03353	yes	kept	domains/personal/household.md domains/work/value-research-lab.md
+m03354	yes	kept	domains/industry/eprm-risk.md
+m03355	no	not_durable	pleasantry
+m03356	yes	kept	domains/work/vendor-offers-2000.md people/scott-wakefield.md
+m03357	yes	kept	domains/work/stanford-research-ties.md
+m03358	no	not_durable	logistics
+m03359	no	not_durable	logistics
+m03360	yes	kept	domains/industry/aiesec-houston.md people/biliana-pehlivanova.md
+m03361	yes	kept	domains/industry/eprm-risk.md
+m03362	yes	kept	domains/work/research-presentations.md
+m03363	yes	kept	domains/work/vendor-offers-2000.md people/scott-wakefield.md
+m03364	yes	kept	domains/work/research-presentations.md
+m03365	no	not_durable	automated
+m03366	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03367	yes	kept	domains/industry/speaking-engagements-2000.md
+m03368	yes	dropped	logistics: Chilkina sends an electricity prices file, no content
+m03369	yes	kept	domains/industry/rice-university.md
+m03370	yes	kept	domains/industry/speaking-engagements-2000.md domains/organization/london-research.md domains/organization/software-licenses.md
+m03371	yes	dropped	logistics: owner forwards the electricity prices file to AOL
+m03372	yes	dropped	logistics: bare contact card for Piotr Karasinski
+m03373	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03374	yes	kept	domains/work/stanford-research-ties.md
+m03375	yes	dropped	logistics: owner approves Halliburton's access request by e-mail
+m03376	yes	kept	domains/industry/aiesec-houston.md people/biliana-pehlivanova.md
+m03377	yes	kept	domains/industry/aiesec-houston.md people/biliana-pehlivanova.md
+m03378	no	not_durable	logistics
+m03379	no	not_durable	quote_only
+m03380	no	not_durable	pleasantry
+m03381	no	not_durable	quote_only
+m03382	yes	kept	domains/work/vendor-offers-2000.md people/scott-wakefield.md
+m03383	yes	kept	domains/work/desk-analysis-requests.md
+m03384	yes	kept	domains/organization/london-research.md
+m03385	yes	dropped	logistics: HVAC contractor contact card
+m03386	no	not_durable	logistics
+m03387	yes	kept	domains/organization/research-group.md people/grant-masson.md
+m03388	yes	kept	domains/work/desk-analysis-requests.md
+m03389	no	not_durable	quote_only
+m03390	yes	kept	domains/work/storage-model.md
+m03391	no	not_durable	quote_only
+m03392	no	not_durable	quote_only
+m03393	yes	kept	domains/industry/research-memberships-2000.md
+m03394	yes	kept	domains/work/storage-model.md
+m03395	yes	kept	domains/industry/speaking-engagements-2000.md
+m03396	yes	kept	domains/work/mec-molecular-electronics.md
+m03397	yes	kept	domains/work/fas133-implementation.md
+m03398	yes	kept	domains/work/value-research-lab.md people/paul-day.md
+m03399	yes	dropped	redundant: same access-request approval as m03375
+m03400	yes	kept	domains/work/research-presentations.md
+m03401	yes	kept	domains/work/var-backtesting-2000.md
+m03402	no	not_durable	quote_only
+m03403	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03404	no	not_durable	quote_only
+m03405	yes	dropped	other: FYI forward of a UH Energy Institute invitation, no date or owner role
+m03406	yes	kept	domains/organization/summer-interns-2000.md
+m03407	yes	kept	domains/work/ut-austin-ties-2000.md people/zeigham-khokher.md
+m03408	yes	kept	domains/work/ut-austin-ties-2000.md people/zeigham-khokher.md
+m03409	no	not_durable	pleasantry
+m03410	yes	kept	domains/organization/candidate-interviews-sep-2000.md
+m03411	yes	kept	domains/industry/research-memberships-2000.md
+m03412	yes	kept	domains/work/desk-analysis-requests.md
+m03413	no	not_durable	bulk
+m03414	no	not_durable	quote_only
+m03415	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03416	yes	kept	domains/industry/informs-san-antonio-2000.md
+m03417	yes	kept	domains/industry/informs-san-antonio-2000.md people/shijie-deng.md
+m03418	yes	dropped	logistics: ARSystem rejects the owner's approval of Halliburton's access request
+m03419	yes	kept	domains/work/value-research-lab.md people/paul-day.md
+m03420	yes	kept	domains/work/campus-recruiting-fall-2000.md

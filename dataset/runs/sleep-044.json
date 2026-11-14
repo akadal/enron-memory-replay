@@ -1,0 +1,194 @@
+{
+ "slice": 44,
+ "simulated_today": "2000-10-01",
+ "feed": {
+  "slice": 44,
+  "iso_week": "2000-W39",
+  "first_seq": 3311,
+  "last_seq": 3420,
+  "messages": 110,
+  "durable": 85,
+  "first_date": "2000-09-25 03:12",
+  "last_date": "2000-10-01 22:44",
+  "today": "2000-10-01",
+  "inbox_files": [
+   "2000-09-25--mail.md",
+   "2000-09-26--mail.md",
+   "2000-09-27--mail.md",
+   "2000-09-28--mail.md",
+   "2000-09-29--mail.md",
+   "2000-10-01--mail.md"
+  ],
+  "inbox_chars": 59683,
+  "l2_chars": 218569
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 662,
+ "quota_before": {
+  "five_hour": 21.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 23.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 44,
+  "messages": 110,
+  "durable": 85,
+  "kept": 75,
+  "kept_rate_excluding_redundant": 0.893,
+  "drop_classes": {
+   "logistics": 8,
+   "other": 1,
+   "redundant": 1
+  },
+  "dropped": 10,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1740,
+  "fact_lines_with_source": 1192,
+  "dated": 1192,
+  "date_matches_source": 1154,
+  "date_mismatch_ids_this_slice": [
+   "m03356",
+   "m03363",
+   "m03382",
+   "m03401",
+   "m03419"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.89,
+   0.89,
+   1.0,
+   0.64,
+   0.83,
+   1.0,
+   0.75,
+   0.89
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 660
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1151
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 127,
+   "chars": 217298
+  },
+  "people": {
+   "files": 314,
+   "chars": 218569
+  },
+  "archive_inbox": {
+   "files": 282,
+   "chars": 2052338
+  },
+  "archive_mail": {
+   "files": 3446,
+   "chars": 8399640
+  },
+  "archive_other": {
+   "files": 667,
+   "chars": 641907
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 52,
+   "duration_ms": 660691,
+   "duration_api_ms": 565975,
+   "total_cost_usd": 4.0070296,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 174013,
+    "cache_read_input_tokens": 6993328,
+    "output_tokens": 60793,
+    "output_tokens_details": {
+     "thinking_tokens": 26007
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 174013,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 943,
+      "cache_read_input_tokens": 204620,
+      "cache_creation_input_tokens": 1184,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1184
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 60793,
+     "cacheReadInputTokens": 6993328,
+     "cacheCreationInputTokens": 174013,
+     "webSearchRequests": 0,
+     "costUSD": 4.0070296,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 26007,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 174013,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 51,
+   "result_summary": "I consolidated the week of 25 Sep – 1 Oct 2000 and committed it as one commit (`391becf`). Both checks passed, lint and `sleep-audit.py`. I did not push: your instructions both say the runner pushes and end with `git push`, and I followed the first.\n\n- **Messages:** 110 arrived and 85 had notes. 75 are now cited in memory. The other 10 are listed in `dataset/drops/sleep-044.tsv`: contact cards, Tom Halliburton's access-request approvals, data-file forwards and one UH invitation sent for information only.\n- **Main news:**\n  - Grant Masson left Enron on 29 Sep.\n  - The owner will present \"Current Challenges in Modeling Power Price Volatility\" in Shijie Deng's session at INFORMS, San Antonio, 5–8 Nov. This has a new topic file.\n  - The owner agreed to join MEC's advisory board.\n  - The owner will see Bambos at Stanford on 14–15 Oct, with dinner on Sunday 15 Oct.\n  - Naveen Andrews reported that the historical-volatility VaR is staying out of production while a hybrid method is tested.\n  - Duffie's review of the storage model found it fit for purpose.\n  - The meetings with Arthur Andersen UK were missed again; the owner says he will be in London next in November.\n  - Karla Feldman wants the Geman licence and escrow finished before she leaves on 13 Oct.\n  - Anjam Ahmad proposed that Sharad Agnihotri visit Houston from 21 Oct to 16 Dec.\n  - Dincerler must answer his Associate offer by 16 Oct.\n- **New person files (five noted messages reached):** Roman Kosecki, Andrew Miles, Biliana Pehlivanova, Zeigham Khokher, Paul Day, Habiba Bayi and Scott Wakefield. Wakefield should have been opened in an earlier run. No aliases were attached.\n- **Conflict:** Shirley Crenshaw calls the son's Stanford year \"junior\". That doesn't overwrite the owner's own \"senior\", so I noted her wording next to it.\n- **Housekeeping:** I moved older lines from 21 files into the archive to keep them within their size limits. I closed one outdated ongoing line about the son into History, and the five olde"
+  },
+  "repair": null
+ }
+}
