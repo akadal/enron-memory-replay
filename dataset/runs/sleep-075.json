@@ -1,0 +1,197 @@
+{
+ "slice": 75,
+ "simulated_today": "2001-04-25",
+ "feed": {
+  "slice": 75,
+  "iso_week": "2001-W17",
+  "first_seq": 7064,
+  "last_seq": 7200,
+  "messages": 137,
+  "durable": 116,
+  "first_date": "2001-04-23 01:01",
+  "last_date": "2001-04-25 05:36",
+  "today": "2001-04-25",
+  "inbox_files": [
+   "2001-04-23--mail.md",
+   "2001-04-24--mail.md",
+   "2001-04-25--mail.md"
+  ],
+  "inbox_chars": 90323,
+  "l2_chars": 453867
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 689,
+ "quota_before": {
+  "five_hour": 16.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 19.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 75,
+  "messages": 137,
+  "durable": 116,
+  "kept": 116,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3158,
+  "fact_lines_with_source": 2007,
+  "dated": 2007,
+  "date_matches_source": 1959,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 739
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1413
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 210,
+   "chars": 378206
+  },
+  "people": {
+   "files": 585,
+   "chars": 384081
+  },
+  "archive_inbox": {
+   "files": 478,
+   "chars": 4266057
+  },
+  "archive_mail": {
+   "files": 7226,
+   "chars": 17869350
+  },
+  "archive_other": {
+   "files": 1374,
+   "chars": 1138185
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 55,
+   "duration_ms": 687340,
+   "duration_api_ms": 526261,
+   "total_cost_usd": 3.8951318000000006,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 177997,
+    "cache_read_input_tokens": 6464336,
+    "output_tokens": 58882,
+    "output_tokens_details": {
+     "thinking_tokens": 23265
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 177997,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 850,
+      "cache_read_input_tokens": 196485,
+      "cache_creation_input_tokens": 451,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 451
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 22,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002486,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 58882,
+     "cacheReadInputTokens": 6464336,
+     "cacheCreationInputTokens": 177997,
+     "webSearchRequests": 0,
+     "costUSD": 3.8948832000000007,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 23265,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 177997,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 54,
+   "result_summary": "The 2001-04-25 consolidation (week 2001-W17) is committed as one commit, `857b0f8`, and not pushed. Your instructions said both \"do not push\" and \"git push origin main\"; I followed \"do not push\" because the runner pushes after its own checks.\n\n- **Coverage:** 137 messages were processed. All 116 with notes are cited in L1, so `dataset/drops/sleep-075.tsv` is committed empty.\n- **Main threads:**\n  - Credit: the private-firm credit model schedule (data RFPs out 25 Apr, model by 15 Jul, systems integration by 30 Aug), and Iris Mack's London trip from 30 Apr, which the owner approved as one week, extendable. The owner also said the Duffie study materials can wait.\n  - EOL and VaR: the agenda for the 26 Apr regional VaR meeting, and Clayton Vernon handing the owner all the EOL data work.\n  - Dabhol and EES: press saying Enron may exit Dabhol, and the EES reorganisation.\n  - People: candidate and referral updates (Demianenko, Paleologo, George Moss) and Rice, Wharton and UH contacts.\n- **New files:** four topic files (`events-attending-2001`, `wharton-risk-center-2001`, `rice-finance-seminar-2001`, `candidate-interviews-late-apr-2001`) and seven people files (Albert Wang, Helen Demianenko, David Warwick, Nalin Kulatilaka, Lee Ferrell, Bertil Olsson, Eric Kirkpatrick).\n- **Both gates passed:** lint and `sleep-audit.py` are green. The first audit flagged 12 files that were already over target and grew too much. I fixed that by moving 27 older lines word for word into new archive files and splitting the Rice seminar items into their own file. No file is now above 90% of its ceiling.\n- **Questions added:** two to `questions.md` instead of changing anything behind an approval gate:\n  - Is \"Tracy Warner\" in recruiting the same person as the existing Traci Warner?\n  - Is the Don Black reported as leaving Enron the same one who leads the new EWS group?\n- **Nothing else to act on:** there were no sleep-task or feedback blocks, no external sources or upstream remote to pull from, a"
+  },
+  "repair": null
+ }
+}
