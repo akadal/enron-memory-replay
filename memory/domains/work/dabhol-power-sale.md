@@ -3,16 +3,16 @@ id: dabhol-power-sale
 type: topic
 domain: work
 title: "Enron India: Dabhol power sale and power trading"
-summary: "Sandeep Kohli's India team: Henwood: MSEB can pay for Maharashtra-only dispatch, pitch to Rebecca McDonald (27 Feb 2001), who praised Kohli's London presentation; Mr. Sud: NTPC may buy all Dabhol power (9 Mar, unverified); 100% foreign equity in power trading and Jan 2001 items archived."
+summary: "Sandeep Kohli's India team: Mr. KK Sud (NTPC may buy all Dabhol power, 9 Mar 2001, unverified) met Rebecca McDonald 10 Mar, she gave him no mandate; owner backs moving Anshuman Srivastav to Houston for the DPC fuel/LNG strategy, expects two more years on Dabhol; Henwood runs over, LNG by rail idea (13 Mar); Henwood MSEB run and older items archived."
 status: active
-updated: 2001-03-09
+updated: 2001-03-18
 ---
 # Enron India: Dabhol power sale and power trading
 
-Detail ←[[dabhol-power-sale-2001-01-w02]] ←[[dabhol-power-sale-2001-01-w03]] ←[[dabhol-power-sale-2001-02-w05]] ←[[dabhol-power-sale-2001-02-w06]] ←[[dabhol-power-sale-2001-03-w09]] ←[[dabhol-power-sale-2001-03-w10]]
+Detail ←[[dabhol-power-sale-2001-01-w02]] ←[[dabhol-power-sale-2001-01-w03]] ←[[dabhol-power-sale-2001-02-w05]] ←[[dabhol-power-sale-2001-02-w06]] ←[[dabhol-power-sale-2001-03-w09]] ←[[dabhol-power-sale-2001-03-w10]] ←[[dabhol-power-sale-2001-03-w11]]
 
 Team: Sandeep Kohli with Rajesh Sivaraman, Vivek Kejriwal, Shubh Shrivastava, Anshuman Srivastav (same team as memory/domains/work/naphtha-caps-india.md). ←[[m00100]] Detail (m-t-m, press, Oct 2000 Houston training) ←[[dabhol-power-sale-2000-02-w06]] … ←[[dabhol-power-sale-2000-10-w41]] ←[[dabhol-power-sale-2000-12-w50]] ←[[dabhol-power-sale-2000-12-w51]]
+- [2001-03-12] Mr. KK Sud (9 Mar tip: NTPC may buy all Dabhol power) met Rebecca McDonald on Sat 10 Mar via Kohli: repeated the NTPC point, asked for no contract, will try to help; McDonald to the owner: she did not empower him to act for Enron, said only what she would not mind him repeating. ←[[m06155]] ←[[m06176]] ←[[m06179]]
+- [2001-03-12] Owner to Shankman: "I fully support Sandeep's request to move Anshuman Srivastav to Houston." (DPC fuel and LNG strategy); "I anticipate that we shall be working on Dhabol related issues for the next two years". ←[[m06196]]
+- [2001-03-13] Kohli: Henwood runs over for now; its modeller David Yumigada (California) could demo them, and its start-up, ramp and cycling handling may shape PSIM's next version. For the Shankman talk: LNG by rail, cryogenic containers trucked to the Konkan line at Guhagar and sold at retail against diesel and naphtha, to keep India income up. ←[[m06214]] ←[[m06215]]
 
-- [2001-02-27] Kohli to Jim Hughes: Henwood run of Maharashtra-only dispatch: MSEB needs 410-1200 MW of the 2184 MW by season and can pay (2002 bill ~$41 MM a month vs $38-46 MM) if not liable for the full capacity charge; the rest sold seasonally to other states; pitch to Rebecca Friday. ←[[m05989]]
-- [2001-03-08] Paul Kraske: Rebecca McDonald raved about Kohli's presentation in London (Henwood contract thread). ←[[m06124]]
-- [2001-03-09] Mr. KK Sud (retired Indian government Secretary, adviser to the PM's office; his son studies at Rice) told Kohli in confidence, at the owner's request: Delhi wants Dabhol solved, a decision for NTPC to buy all its power is being made; no background check. Owner to Rebecca McDonald: "I share some of your concerns regarding Mr. Sud.", but the information "seems to be too important not to convey"; Kohli tries for a Saturday meeting. ←[[m06155]] ←[[m06156]]

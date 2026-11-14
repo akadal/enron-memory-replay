@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-03-09
+updated: 2001-03-18
 ---
 # People — index
 
@@ -36,6 +36,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Angela Dorsey
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
+- Anne Stamer
 - Anshuman Srivastav
 - Anthony Mends (Tony Mends)
 - April Hodgson (April Hodgeson, April Hodges)
@@ -315,6 +316,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
 - Mark Tawney
+- Marshall Brown
 - Martin Jermakyan
 - Martin Lin
 - Martina Angelova
@@ -495,6 +497,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tomasz Błach
 - Toni Graham
 - Tony Hamilton
+- Tony Vasut
 - Traci Warner
 - Trena McFarland
 - Trisha Tlapek

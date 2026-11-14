@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-03-09 (week 2001-W10). Stanford MBA recruiting trip 14-16 Mar, owner on Round 2; Mr. Sud's Dabhol tip passed to Rebecca McDonald; RAC's complaint over a weekly report settled; owner's contract corrected.
+As of 2001-03-18 (week 2001-W11). Stanford trip 14-16 Mar (recruiting, Huntington's RTP conference, Bambos); London trip this week; Kindall resigned; Anshuman to Houston for the Dabhol fuel strategy; Rutgers talk accepted.
 
-- Coming: Karolyi 12 Mar; Mid-Markets session 13 Mar; Jorion 18-19 Mar; Garimella phone interview 19 Mar; FAP calls 22, 29 Mar; San Jose 24-28 Mar → memory/domains/industry/rice-university.md
-- Owed: Bernard Murphy's spark-spread answer; Seppi's swing case; MacMillan's materials (IP); reply to Kleindorfer (Rutgers, 25 May); EBS work plan for Pearce; Haughton video interview → memory/domains/work/outside-requests-2001.md
+- Coming: Garimella 19 Mar; Boland 20-21 Mar; London meetings 21 Mar; Wharton 22 Mar; San Jose 24-28 Mar; Schultz 30 Mar; Trash Bash 31 Mar → memory/domains/organization/london-research.md
+- Owed: EPRM course details, Wharton Phase III judge (22-23 Mar); Bernard Murphy's spark-spread answer; MacMillan's materials (IP); Strickland's article review → memory/domains/work/outside-requests-2001.md
