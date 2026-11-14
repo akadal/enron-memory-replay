@@ -1,0 +1,195 @@
+{
+ "slice": 60,
+ "simulated_today": "2001-01-21",
+ "feed": {
+  "slice": 60,
+  "iso_week": "2001-W03",
+  "first_seq": 5328,
+  "last_seq": 5464,
+  "messages": 137,
+  "durable": 112,
+  "first_date": "2001-01-15 00:23",
+  "last_date": "2001-01-21 17:07",
+  "today": "2001-01-21",
+  "inbox_files": [
+   "2001-01-15--mail.md",
+   "2001-01-16--mail.md",
+   "2001-01-17--mail.md",
+   "2001-01-18--mail.md",
+   "2001-01-19--mail.md",
+   "2001-01-20--mail.md",
+   "2001-01-21--mail.md"
+  ],
+  "inbox_chars": 84297,
+  "l2_chars": 364621
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 677,
+ "quota_before": {
+  "five_hour": 7.0,
+  "seven_day": 38.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 8.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 60,
+  "messages": 137,
+  "durable": 112,
+  "kept": 109,
+  "kept_rate_excluding_redundant": 0.973,
+  "drop_classes": {
+   "logistics": 2,
+   "social": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2468,
+  "fact_lines_with_source": 1686,
+  "dated": 1686,
+  "date_matches_source": 1644,
+  "date_mismatch_ids_this_slice": [
+   "m05401",
+   "m05408",
+   "m05420",
+   "m05422",
+   "m05436",
+   "m05445"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   0.9,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 673
+  },
+  "questions": {
+   "files": 1,
+   "chars": 835
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 175,
+   "chars": 307597
+  },
+  "people": {
+   "files": 460,
+   "chars": 309195
+  },
+  "archive_inbox": {
+   "files": 391,
+   "chars": 3238820
+  },
+  "archive_mail": {
+   "files": 5490,
+   "chars": 13480271
+  },
+  "archive_other": {
+   "files": 1052,
+   "chars": 915550
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 51,
+   "duration_ms": 675874,
+   "duration_api_ms": 576909,
+   "total_cost_usd": 4.2281464,
+   "usage": {
+    "input_tokens": 90,
+    "cache_creation_input_tokens": 193351,
+    "cache_read_input_tokens": 6785392,
+    "output_tokens": 66195,
+    "output_tokens_details": {
+     "thinking_tokens": 27205
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 193351,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 733,
+      "cache_read_input_tokens": 223825,
+      "cache_creation_input_tokens": 1317,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1317
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 90,
+     "outputTokens": 66195,
+     "cacheReadInputTokens": 6785392,
+     "cacheCreationInputTokens": 193351,
+     "webSearchRequests": 0,
+     "costUSD": 4.2281464,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 27205,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 193351,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 50,
+   "result_summary": "I ran the 2001-01-21 consolidation for week 2001-W03 and it is committed on `main` as `5b439bc`; I did not push, because the replay instructions say the runner pushes after its own checks. Both gates passed before the commit (lint green, sleep-audit green). The week had 137 messages, 112 of them with notes. 109 of those are now cited in the memory files. The other three, m05343, m05359 and m05362, are logistics or social mail and are listed in `dataset/drops/sleep-060.tsv`.\n\n- **New topic files (five):** the January California power briefings (the owner's comment: \"This is a critical situation.\"), the UT Austin Energy Finance Conference on 22–23 Feb, candidate interviews set from mid-January, 2001 summer interns, and January staff moves (Kohli's transfer is official, Anshuman needs an L1 visa, Iris Mack starts 1 Mar).\n- **Updated topic files:** 22 existing files took this week's facts. In each, older lines moved word for word into the week-3 archive files, so no file grew more than the allowed 150 characters.\n- **New people files (15):** 13 people reached their fifth message this week. Josh Leventhal and Berney Aucoin had passed five in earlier weeks without a file, so they were added now. All 15 are in the alias table.\n- **Indexes and state:** the four domain indexes and `state.md` are refreshed, and this week's inbox logs are in `memory/archive/inbox/`.\n- **Nothing else needed doing:**\n  - There were no sleep-task blocks.\n  - No question was added to `questions.md`.\n  - No question was closed without an answer, since both open ones are due in February.\n  - The five oldest \"still true\" lines are all still valid.\n  - The rule to shrink three files sitting above 90% of their size limit could not apply, because no file was that full.\n\nThe runner's transcript file is still uncommitted, as it was before the run."
+  },
+  "repair": null
+ }
+}
