@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-10-01
+updated: 2000-10-08
 ---
 # People — index
 
@@ -165,6 +165,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karla Feldman
 - Kate Bruges
 - Katja Schilling
+- Kay Chapman
 - Keith Baggerly
 - Ken Lay
 - Ken Rice

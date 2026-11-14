@@ -5,11 +5,13 @@ entity: person
 name: "Pavel Zadorozhny"
 aliases: []
 domains: [work]
-updated: 2000-09-03
+updated: 2000-10-08
 ---
 # Pavel Zadorozhny
 
 Former Research Group member (x34778), transferred out by Jun 2000; the owner sent him articles on IMF policy toward Russia. ←[[m00057]] ←[[m01371]] ←[[m01592]] ←[[m02035]]
+
+(?) Possibly the same person as Roman Zadorozhny (memory/people/roman-zadorozhny.md; an analyst who rotated out of Research). Status quo: the merge question closed unanswered 2000-10-08; two separate entities, the Roman mention stays unlinked. ←[[m03029]]
 
 ## Context: work
 
