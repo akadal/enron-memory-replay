@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Organization — index
 
@@ -9,7 +9,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Staff: Gibner and Kate Lucas left 6 Jun; reorganization meeting 15 Jun; Raymond's PRC dispute; Labbe's Toastmasters/ESL → memory/domains/organization/research-staff-jun-08-2001.md; futures-account memo (15 Jun) → memory/domains/organization/research-staff-jun-04-2001.md
+- Policy and events: one-RAC Risk Management Policy draft; protest procedures; Casari farewell 20 Jun; COM talk 19 Jun → memory/domains/organization/research-staff-jun-15-2001.md
+- Staff: Gibner, Lucas left 6 Jun; reorg meeting 15 Jun; Raymond's PRC dispute → memory/domains/organization/research-staff-jun-08-2001.md
 - PRC: Research review 6 Jun; specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul → memory/domains/organization/referrals-and-admin-jun-08-2001.md
 - Referrals: Paleologo unsigned (in Italy); Saksena, Mielke; SRM accountant; PG&E ethical wall → memory/domains/organization/referrals-and-admin-jun-08-2001.md; hiring paused for space → memory/domains/organization/referrals-jun-04-2001.md
 - Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
@@ -69,7 +70,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
 - memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
 - memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
-- memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001 (visa, SFA, titles, CFA)
+- memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001
 - memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001
 - memory/domains/organization/research-staff-late-may-2001.md — staff and admin from 21 May 2001 (Gibner leaves)
 - memory/domains/organization/referrals-late-may-2001.md — candidates from 21 May 2001
@@ -77,5 +78,6 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-early-jun-2001.md — candidates from 28 May 2001
 - memory/domains/organization/research-staff-jun-04-2001.md — staff and admin from 4 Jun 2001
 - memory/domains/organization/referrals-jun-04-2001.md — candidates from 4 Jun 2001
-- memory/domains/organization/research-staff-jun-08-2001.md — staff and reorg from 6 Jun 2001
+- memory/domains/organization/research-staff-jun-08-2001.md — staff from 6 Jun 2001
 - memory/domains/organization/referrals-and-admin-jun-08-2001.md — referrals and admin from 6 Jun 2001
+- memory/domains/organization/research-staff-jun-15-2001.md — policy and events from 11 Jun 2001
