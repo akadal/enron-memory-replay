@@ -3,18 +3,19 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Titles (Nov 2000: Tamarchenko, Lu Directors); Thursday staff meeting 11:30, 19th floor (owner EB1962); Project Tracking database access for most of the group, Parkhill new (30 Nov); Lu's re-org idea, one valuation group under Gibner (1 Dec); HR Rep Norma Villarreal; older lists archived."
+summary: "Titles (Nov 2000: Tamarchenko, Lu Directors); Thursday staff meeting 11:30, 19th floor (owner EB1962); Project Tracking database access (30 Nov); Lu's re-org idea (1 Dec); Research Directory of 14 Dec (London, EES members; owner's listed cell is private); HR Rep Norma Villarreal; older lists archived."
 status: active
-updated: 2000-12-03
+updated: 2000-12-17
 ---
 # The owner's Research Group
 
-Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]] ←[[research-group-2000-08-w31]] ←[[research-group-2000-08-w34]] ←[[research-group-2000-09-w37]] ←[[research-group-2000-09-w38]] ←[[research-group-2000-10-w39]] ←[[research-group-2000-10-w41]] ←[[research-group-2000-11-w45]] ←[[research-group-2000-11-w46]] ←[[research-group-2000-12-w48]]
+Detail ←[[research-group-2000-04-w16]] … (one archive file per week) ←[[research-group-2000-12-w48]]
 
-Equipment: memory/domains/organization/office-equipment.md. Admin history: ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]] ←[[research-group-2000-08-w33]] ←[[research-group-2000-09-w35]]
+Equipment: memory/domains/organization/office-equipment.md.
 
 ## Members and offices
 - [2000-11-27] Titles (Crenshaw): owner Managing Director and Head of Research; Gibner, Shanbhogue VPs; Tamarchenko, Lu Directors; Cunningham, Huang Managers; Crenshaw Administrative Coordinator (713-853-5290). ←[[m04423]] ←[[m04431]] ←[[m04473]]
+- [2000-12-14] Crenshaw's Research Directory (London: Leppard, Hewitt, Matthew Williams, Sharad; also Sofya Tamarchenko, Cunningham, Walton, Kate Lucas, Neale, Rabi De, Parkhill; Zadorozhny, Kiatsupaibul, Sezgen at EES addresses); owner: "The cell phone listed is my private phone, not the office cell number." ←[[m04849]] ←[[m04850]]
 
 ## Admin
 

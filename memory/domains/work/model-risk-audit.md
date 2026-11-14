@@ -3,9 +3,9 @@ id: model-risk-audit
 type: topic
 domain: work
 title: "Model risk audit (Arthur Andersen Model Development Review, 1999)"
-summary: "Arthur Andersen's 1999 Model Development Review (Claybrook, Schuleman): owner says no unit owns model approval; final report Jan 2000 archived; Nov 2000: Andersen (Gillian Boyer) asks Research to revalue two Koch deals on its spread option model."
+summary: "Arthur Andersen's 1999 Model Development Review: owner says no unit owns model approval; Nov 2000: Andersen asks Research to revalue two Koch deals; Dec 2000: EnergyDesk.com sign-off asked of Leppard, Port says RAC never signs off valuation methods."
 status: active
-updated: 2000-12-03
+updated: 2000-12-17
 ---
 # Model risk audit (Arthur Andersen Model Development Review, 1999)
 
@@ -15,3 +15,4 @@ Auditors: Derek Claybrook (Arthur Andersen), Patty Grutzmacher, Andrew Schuleman
 
 - [1999-12-30] Draft Model Development Report (Schuleman, for the 1 Oct Controller's Meeting). Owner (3-4 Oct): model risk is "really critical to Enron"; its main source is that no unit or person is empowered to approve, audit and monitor models, "The popular perception is that this is done by the Research Group, but this could not be further form the truth"; split misuse into wrong inputs (TVA) and wrong model; cite the Andersen and Duffie audits "initiated at our insistence"; leaving Risk Analytics and IT out makes the findings "highly inaccurate". ←[[m00125]] ←[[m00126]]
 - [2000-11-27] Arthur Andersen (Gillian Boyer) asks Research to recompute two Koch deals from EGM inputs, to check EGM uses its spread option model correctly; owner: "Any recollection?", "I shall lok at it at home as well." ←[[m04425]] ←[[m04426]] ←[[m04427]]
+- [2000-12-11] EnergyDesk.com (Oslo office's system): James New (London Risk Mgt) wants Leppard to sign off its computations; Leppard asks the owner: sign-off is RAC's domain, London does not own Exotica, Research code is sold outside without Research (Jan Lillehammer plans to sell the VaR system). David Port: RAC has never signed off valuation methods; Research writes and endorses SPRDOPT and Exotica.xls; he can assess EnergyDesk given documentation. ←[[m04716]]

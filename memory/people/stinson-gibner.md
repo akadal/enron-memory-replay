@@ -5,17 +5,17 @@ entity: person
 name: "Stinson Gibner"
 aliases: []
 domains: [organization, industry, work]
-updated: 2000-09-22
+updated: 2000-12-17
 ---
 # Stinson Gibner
 
-The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. ←[[m00003]] ←[[m00201]] ←[[m00217]]
+The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. ←[[m00003]] ←[[m00201]] ←[[m00217]] Detail ←[[stinson-gibner-2000-12-w50]]
 
 ## Context: organization
 
 - [1999-12-10] Member; off 22-25 Feb; ECI → memory/domains/organization/research-group.md ←[[m00004]] ←[[m00147]] ←[[m00180]] ←[[m00217]]
 - [2000-01-10] Candidates Supatgiat, Bob Lee, Alberto Jimenez; Takriti's complaint → memory/domains/organization/recruiting-candidates.md ←[[m00313]] ←[[m00206]] ←[[m00428]] ←[[m00474]]
-- [2000-09-20] Spearman TX library gift (Enron-matched): "Stinson Gibner and Enron Day" 17 Oct; asks Cindy Olson to lift the match cap. ←[[m03295]]
+- [2000-11-10] (?) "Peyton S Gibner", PEP requester for Hector Campos and on the mid-year list, may be him. Status quo (alias question lapsed 2000-12-17): no alias. ←[[m02799]] ←[[m04072]] ←[[m04186]]
 
 ## Context: industry
 
