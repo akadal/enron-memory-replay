@@ -1,0 +1,195 @@
+id	durable	status	detail
+m07531	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07532	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07533	no	not_durable	quote_only
+m07534	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07535	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07536	yes	kept	domains/organization/hr-matters-2001.md
+m07537	yes	kept	domains/organization/candidate-interviews-may-02-2001.md domains/organization/hr-matters-2001.md
+m07538	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07539	yes	kept	domains/industry/research-memberships-2000.md
+m07540	yes	kept	domains/organization/summer-interns-may-2001.md
+m07541	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/pravas-sud.md
+m07542	yes	kept	domains/work/enron-credit-strategy-2001.md people/markus-fiala.md
+m07543	no	not_durable	quote_only
+m07544	yes	kept	domains/industry/garp-2001.md
+m07545	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07546	yes	kept	domains/organization/corporate-announcements-2001.md
+m07547	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/joseph-helms.md people/kenneth-jett.md people/mark-westmoreland.md people/robert-guadette.md people/todd-litton.md
+m07548	yes	kept	domains/organization/summer-interns-may-2001.md people/ross-mesquita.md
+m07549	yes	kept	domains/organization/office-equipment.md
+m07550	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07551	yes	kept	domains/work/power-var-may-2001.md
+m07552	yes	dropped	redundant: Joao Neves paper list, already kept from m07498
+m07553	yes	kept	domains/organization/research-group-2001.md
+m07554	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07555	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07556	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07557	yes	kept	domains/organization/summer-interns-may-2001.md
+m07558	yes	dropped	logistics: Cuthbert Roberts meeting slot in the owner office
+m07559	yes	kept	domains/work/eol-trading-algorithms-2001.md people/john-griffith.md
+m07560	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07561	no	not_durable	pleasantry
+m07562	yes	kept	domains/organization/hr-matters-2001.md
+m07563	no	not_durable	logistics
+m07564	yes	kept	domains/work/ag-trading-report-2000.md
+m07565	yes	kept	domains/work/outage-risk-option-2001.md
+m07566	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07567	yes	kept	domains/work/vendor-offers-2001.md people/dorothy-dalton.md
+m07568	yes	kept	domains/work/vendor-offers-2001.md people/tom-limperis.md
+m07569	yes	kept	domains/industry/events-attending-2001.md
+m07570	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m07571	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07572	yes	kept	domains/work/ebs-research-requests-2001.md people/key-kasravi.md
+m07573	yes	kept	domains/work/crudeapo-asian-option-2001.md people/tai-woo.md
+m07574	yes	kept	domains/work/enron-credit-strategy-2001.md
+m07575	no	not_durable	bulk
+m07576	yes	kept	domains/organization/candidate-interviews-may-02-2001.md people/aysu-bilgin.md
+m07577	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07578	yes	kept	domains/industry/risk-waters-speaking-may-2001.md people/layla-oleary.md
+m07579	yes	kept	domains/organization/hr-matters-2001.md
+m07580	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07581	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07582	no	not_durable	quote_only
+m07583	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07584	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07585	yes	kept	domains/work/crudeapo-asian-option-2001.md
+m07586	no	not_durable	logistics
+m07587	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07588	yes	kept	domains/organization/candidate-interviews-may-02-2001.md domains/organization/hr-matters-2001.md
+m07589	yes	kept	domains/industry/research-memberships-2000.md
+m07590	no	not_durable	quote_only
+m07591	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07592	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07593	yes	kept	domains/organization/corporate-announcements-2001.md
+m07594	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/joseph-helms.md people/mark-westmoreland.md people/robert-guadette.md people/todd-litton.md
+m07595	yes	kept	domains/organization/summer-interns-may-2001.md
+m07596	yes	kept	domains/organization/summer-interns-may-2001.md people/ross-mesquita.md
+m07597	no	not_durable	quote_only
+m07598	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/ivy-ghose.md people/pravas-sud.md
+m07599	yes	kept	domains/work/vendor-offers-2001.md people/dorothy-dalton.md people/tom-limperis.md
+m07600	yes	kept	domains/work/vendor-offers-2001.md people/tom-limperis.md
+m07601	no	not_durable	pleasantry
+m07602	yes	dropped	other: owner mails himself a NY Fed staff report link
+m07603	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/joseph-helms.md people/kenneth-jett.md people/robert-guadette.md people/todd-litton.md
+m07604	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07605	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07606	yes	kept	domains/work/dabhol-renegotiation-may-2001.md
+m07607	no	not_durable	logistics
+m07608	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/mark-westmoreland.md
+m07609	no	not_durable	logistics
+m07610	yes	kept	domains/work/ees-liability-mitigation-2001.md people/cheryl-brashier.md
+m07611	yes	kept	domains/organization/candidate-interviews-may-02-2001.md people/aysu-bilgin.md
+m07612	yes	kept	domains/work/power-var-may-2001.md
+m07613	yes	kept	domains/organization/research-group-2001.md
+m07614	no	not_durable	logistics
+m07615	no	not_durable	quote_only
+m07616	yes	kept	domains/work/ees-liability-mitigation-2001.md
+m07617	no	not_durable	pleasantry
+m07618	no	not_durable	bulk
+m07619	no	not_durable	bulk
+m07620	yes	kept	domains/organization/summer-interns-may-2001.md people/ivy-ghose.md
+m07621	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07622	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07623	yes	kept	domains/industry/speaking-engagements-2000.md
+m07624	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/ivy-ghose.md people/pravas-sud.md
+m07625	yes	kept	domains/industry/risk-waters-speaking-may-2001.md people/layla-oleary.md
+m07626	yes	kept	domains/work/vendor-offers-2001.md people/dorothy-dalton.md
+m07627	yes	kept	domains/work/vendor-offers-2001.md
+m07628	no	not_durable	pleasantry
+m07629	yes	dropped	other: owner mails himself a NY Fed staff report link (copy)
+m07630	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07631	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07632	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07633	yes	kept	domains/work/dabhol-renegotiation-may-2001.md
+m07634	no	not_durable	bulk
+m07635	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07636	no	not_durable	logistics
+m07637	yes	kept	domains/work/ees-liability-mitigation-2001.md
+m07638	yes	kept	domains/work/power-var-may-2001.md
+m07639	no	not_durable	logistics
+m07640	no	not_durable	logistics
+m07641	yes	kept	domains/work/ees-liability-mitigation-2001.md people/cheryl-brashier.md
+m07642	no	not_durable	quote_only
+m07643	no	not_durable	pleasantry
+m07644	no	not_durable	quote_only
+m07645	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m07646	no	not_durable	quote_only
+m07647	no	not_durable	quote_only
+m07648	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07649	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/duane-maue.md people/eric-van-stone.md people/grant-johnson.md people/john-ganguzza.md people/neeraj-hingorani.md people/rishad-patel.md
+m07650	yes	kept	domains/organization/corporate-announcements-2001.md people/don-black.md people/rogers-herndon.md
+m07651	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07652	yes	kept	domains/organization/summer-interns-may-2001.md
+m07653	yes	kept	domains/work/owner-publications.md
+m07654	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07655	yes	kept	domains/industry/wharton-risk-center-2001.md
+m07656	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m07657	no	not_durable	bulk
+m07658	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07659	yes	kept	domains/work/technical-analysis-service-2001.md
+m07660	yes	kept	domains/work/vendor-offers-2001.md people/tom-limperis.md
+m07661	yes	kept	domains/work/dabhol-renegotiation-may-2001.md
+m07662	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/duane-maue.md people/eric-van-stone.md people/grant-johnson.md people/john-ganguzza.md people/neeraj-hingorani.md people/rishad-patel.md
+m07663	yes	kept	domains/work/technical-analysis-service-2001.md
+m07664	no	not_durable	automated
+m07665	no	not_durable	automated
+m07666	no	not_durable	automated
+m07667	no	not_durable	automated
+m07668	yes	kept	domains/organization/candidate-interviews-may-02-2001.md
+m07669	yes	kept	domains/work/enron-credit-london-may-2001.md people/markus-fiala.md
+m07670	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m07671	yes	kept	domains/industry/california-power-may-2001.md
+m07672	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/jeffrey-planck.md people/ning-zhang.md people/orlando-taylor.md people/rakhi-israni.md people/sanjay-wankhade.md
+m07673	yes	kept	domains/organization/office-equipment.md
+m07674	no	not_durable	bulk
+m07675	yes	kept	domains/industry/events-attending-2001.md
+m07676	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/felix-feng-lu.md
+m07677	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07678	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07679	yes	kept	domains/work/owner-publications.md
+m07680	yes	kept	domains/work/owner-publications.md
+m07681	yes	kept	domains/work/weather-research-2001.md people/ross-mcintyre.md
+m07682	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07683	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07684	yes	kept	domains/organization/corporate-announcements-2001.md people/don-black.md people/rogers-herndon.md
+m07685	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07686	yes	kept	domains/organization/summer-interns-may-2001.md
+m07687	yes	kept	domains/work/owner-publications.md
+m07688	no	not_durable	bulk
+m07689	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/felix-feng-lu.md people/jeffrey-planck.md people/ning-zhang.md people/orlando-taylor.md people/rakhi-israni.md people/sanjay-wankhade.md people/winny-so.md
+m07690	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07691	yes	kept	domains/work/technical-analysis-service-2001.md
+m07692	yes	kept	domains/work/vendor-offers-2001.md
+m07693	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07694	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/duane-maue.md people/eric-van-stone.md people/grant-johnson.md people/john-ganguzza.md people/neeraj-hingorani.md
+m07695	yes	kept	domains/work/technical-analysis-service-2001.md
+m07696	no	not_durable	automated
+m07697	no	not_durable	automated
+m07698	no	not_durable	automated
+m07699	no	not_durable	bulk
+m07700	yes	dropped	no_owner_content: Martin Jermakyan circular: left TXU after three days
+m07701	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07702	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/winny-so.md
+m07703	no	not_durable	logistics
+m07704	yes	kept	domains/industry/california-power-may-2001.md
+m07705	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07706	yes	kept	domains/organization/office-equipment.md
+m07707	no	not_durable	quote_only
+m07708	no	not_durable	quote_only
+m07709	yes	kept	domains/industry/risk-waters-speaking-may-2001.md
+m07710	yes	kept	domains/work/owner-publications.md
+m07711	yes	kept	domains/work/owner-publications.md
+m07712	no	not_durable	quote_only
+m07713	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/felix-feng-lu.md
+m07714	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md
+m07715	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/jeffrey-planck.md
+m07716	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/ning-zhang.md people/orlando-taylor.md people/rakhi-israni.md people/sanjay-wankhade.md
+m07717	yes	kept	domains/industry/rice-mgmt656-grades-may-2001.md people/winny-so.md
+m07718	yes	dropped	other: owner re-forwards a March Trader Roundtable recessions report to himself
+m07719	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07720	no	not_durable	bulk
+m07721	yes	kept	domains/work/enron-credit-london-may-2001.md
+m07722	yes	kept	domains/work/weather-research-2001.md
+m07723	yes	kept	domains/organization/summer-interns-may-2001.md
+m07724	no	not_durable	quote_only
