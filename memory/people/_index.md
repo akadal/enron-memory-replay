@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-09-09
+updated: 2001-09-14
 ---
 # People — index
 
@@ -418,6 +418,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mark Tawney
 - Mark Taylor
 - Mark Westmoreland
+- Mark Williams
 - Markus Fiala
 - Marshall Brown
 - Martin Jermakyan
@@ -482,6 +483,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paige Cox
 - Paige Grumulaitis
 - Pamela Vande Krol Castro (Pam Castro)
+- Paolo Cadoni
 - Pat Henahan
 - Pat Scarborough
 - Patrycja Dalecka (Patricia Dalecka)

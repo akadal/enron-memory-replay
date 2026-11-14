@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-09-09
+updated: 2001-09-14
 ---
 # Work — index
 
@@ -13,7 +13,7 @@ Scope: the owner's own projects, models, deals and research output.
 - EOL data mining: Whalley's top priority, bi-weekly updates to him, Jay Webb pledges help → memory/domains/work/eol-trading-algorithms-2001.md
 - Raptor: Issler values the Peregrine/Shortfall restrictions in Baker's discount model (6 Sep); credit capacity ($237MM) at 20 Aug; 'Notes On Raptors' → memory/domains/work/talon-raptor.md
 - Models: Duffie's audit, reliability VaR rewrite due, Enron owes him for 18 months → memory/domains/work/var-credit-system-2001.md; FEA @ENERGY v2.2 Storage → memory/domains/work/storage-model.md; Oz Deal → memory/domains/work/oz-crude-basket-2001.md
-- Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; Skunk Works Tue 11 Sep, EES Consumption Risk, Stock's database help for Tanya → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
+- Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; EES Consumption Risk; Zimin Lu's meeting on a standard Research Model for Power Prices → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
 - Weather: Kimberlain's NAO/AO seminar 26 Sep, MIT/IBM collaboration "ASAP"; e-Acumen's WeatherAcumen pitch to Mike Roberts → memory/domains/work/weather-research-2001.md
 - UT Mon 10 Sep: Baldick 10:30, lunch with Ronn's faculty, class 2-5 pm → memory/domains/work/ut-austin-ties-2000.md
 

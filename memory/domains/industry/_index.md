@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-09-09
+updated: 2001-09-14
 ---
 # Industry — index
 
@@ -10,8 +10,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: SMS SFO 21-24 Oct; INFOCAST 10 Oct; IQPC London 23-24 Oct; ICBI Gas & PoweRisk Paris 6-8 Nov (25% off via speakers); Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
-- GARP 2002: Simou wants the owner and Mark (Edison Mission) to run an energy risk workshop → memory/domains/industry/garp-2001.md
-- Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report promised → memory/domains/industry/eprm-risk.md
+- GARP 2002: owner speaks in the energy risk stream and runs the credit risk workshop with Mark Williams; programme owed to Simou, RAROC maybe a 3-way call → memory/domains/industry/garp-2001.md
+- Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report still owed, Cadoni chased 13 Sep → memory/domains/industry/eprm-risk.md
 - Universities: Rice declines MacMinn, wants a star for the Enron Chair → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference: Whalley offered for Skilling → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Goldenfeld's visit, dinner Mon 24 Sep, colloquium Tue 25 Sep 3 pm → memory/domains/industry/uh-econophysics.md
 - Events: Energy Exchanges Online II 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba via Tokyo → memory/domains/industry/visitors-2001.md
 

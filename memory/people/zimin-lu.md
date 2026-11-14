@@ -5,7 +5,7 @@ entity: person
 name: "Zimin Lu"
 aliases: []
 domains: [organization, work]
-updated: 2000-12-31
+updated: 2001-09-14
 ---
 # Zimin Lu
 
@@ -21,3 +21,4 @@ Research Group member at director level; EB 1967 from Jan 2000. ←[[m00004]] �
 
 - [2000-12-18] Built the WTI trading simulation for Lavorato → memory/domains/work/wti-eol-simulation-2000.md ←[[m04914]]
 - [2000-12-28] Wants Gibner's corrected WTI spreadsheet; studying queueing theory for an EBS project → memory/domains/work/wti-eol-simulation-2000.md ←[[m05065]]
+- [2001-09-14] Calls a meeting to set one standard Research Model for Power Prices → memory/domains/work/internal-meetings-2001.md ←[[m09181]]
