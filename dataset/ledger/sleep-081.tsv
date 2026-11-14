@@ -1,0 +1,81 @@
+id	durable	status	detail
+m07941	yes	kept	domains/work/vendor-offers-2001.md people/steve-mitnick.md
+m07942	yes	kept	domains/work/vendor-offers-2001.md people/steve-mitnick.md
+m07943	yes	kept	domains/organization/london-research.md
+m07944	no	not_durable	bulk
+m07945	yes	kept	domains/organization/staff-and-recruiting.md people/pavel-zadorozhny.md
+m07946	yes	kept	domains/organization/staff-and-recruiting.md people/pavel-zadorozhny.md
+m07947	no	not_durable	logistics
+m07948	yes	kept	domains/organization/staff-and-recruiting.md
+m07949	yes	kept	domains/work/private-firm-credit-model-2001.md people/george-albanis.md
+m07950	no	not_durable	logistics
+m07951	no	not_durable	bulk
+m07952	yes	kept	domains/work/vendor-offers-2001.md people/steve-mitnick.md
+m07953	yes	dropped	other: owner self-reminder "Call Grant about Tony"; Grant and Tony ambiguous (namesake rule), nothing else to file
+m07954	yes	kept	domains/organization/officer-performance-review.md people/janet-dietrich.md
+m07955	yes	kept	domains/organization/summer-interns-2001.md
+m07956	yes	kept	domains/organization/summer-interns-2001.md
+m07957	yes	kept	domains/industry/speaking-engagements-2000.md
+m07958	yes	kept	domains/organization/software-licenses.md
+m07959	yes	dropped	redundant: FEA @Energy 2.1 notice re-forwarded to Zimin Lu; release already filed in software-licenses
+m07960	yes	kept	domains/industry/wharton-risk-center-2001.md
+m07961	yes	kept	domains/work/desk-analysis-requests.md
+m07962	yes	kept	domains/work/stanford-research-ties.md
+m07963	yes	kept	domains/work/vendor-offers-2001.md
+m07964	yes	kept	domains/work/weather-research-2001.md
+m07965	yes	kept	domains/industry/eprm-risk.md
+m07966	yes	kept	domains/organization/officer-performance-review.md
+m07967	yes	kept	domains/organization/staff-and-recruiting.md people/stinson-gibner.md
+m07968	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m07969	yes	kept	domains/industry/california-power-jan-2001.md
+m07970	yes	kept	domains/organization/officer-performance-review.md
+m07971	yes	kept	domains/work/var-credit-system-2001.md
+m07972	no	not_durable	automated
+m07973	yes	kept	domains/industry/speaking-engagements-2000.md
+m07974	yes	kept	domains/industry/speaking-engagements-2000.md
+m07975	yes	kept	domains/industry/events-attending-2001.md
+m07976	no	not_durable	other
+m07977	yes	kept	domains/work/outside-requests-2001.md
+m07978	yes	kept	domains/work/talon-raptor.md
+m07979	yes	kept	domains/industry/wharton-risk-center-2001.md
+m07980	yes	kept	domains/industry/wharton-risk-center-2001.md
+m07981	no	not_durable	quote_only
+m07982	yes	kept	domains/work/talon-raptor.md
+m07983	yes	kept	domains/work/var-credit-system-2001.md
+m07984	yes	kept	domains/industry/speaking-engagements-2000.md
+m07985	yes	kept	domains/organization/recruiting-candidates.md
+m07986	yes	kept	domains/industry/sponsorship-requests-2001.md
+m07987	no	not_durable	logistics
+m07988	yes	kept	domains/work/desk-analysis-requests.md
+m07989	yes	kept	domains/industry/sponsorship-requests-2001.md
+m07990	no	not_durable	bulk
+m07991	yes	kept	domains/work/var-credit-system-2001.md
+m07992	no	not_durable	quote_only
+m07993	no	not_durable	automated
+m07994	yes	kept	domains/organization/recruiting-candidates.md
+m07995	yes	kept	domains/work/vendor-offers-2001.md
+m07996	yes	kept	domains/personal/correspondence.md
+m07997	yes	kept	domains/work/var-credit-system-2001.md
+m07998	yes	kept	domains/organization/recruiting-candidates.md
+m07999	yes	kept	domains/organization/recruiting-candidates.md people/billy-lemmons.md
+m08000	yes	kept	domains/industry/energy-exchanges-2001.md
+m08001	yes	kept	domains/work/private-firm-credit-model-2001.md
+m08002	yes	kept	domains/work/monte-carlo-library.md
+m08003	yes	kept	domains/work/private-firm-credit-model-2001.md people/kyriakos-frantzeskakis.md
+m08004	yes	kept	domains/industry/sponsorship-requests-2001.md
+m08005	yes	kept	domains/work/talon-raptor.md
+m08006	yes	kept	domains/work/vendor-offers-2001.md
+m08007	yes	kept	domains/work/desk-analysis-requests.md
+m08008	yes	kept	domains/industry/energy-exchanges-2001.md
+m08009	yes	kept	domains/work/private-firm-credit-model-2001.md people/kyriakos-frantzeskakis.md
+m08010	yes	kept	domains/work/var-credit-system-2001.md
+m08011	yes	kept	domains/industry/sponsorship-requests-2001.md
+m08012	yes	kept	domains/organization/corporate-announcements-2001.md
+m08013	yes	kept	domains/personal/correspondence.md
+m08014	yes	kept	domains/personal/correspondence.md
+m08015	yes	kept	domains/organization/recruiting-candidates.md
+m08016	yes	kept	domains/work/vendor-offers-2001.md
+m08017	no	not_durable	other
+m08018	yes	kept	domains/work/ene-stock-drivers.md
+m08019	no	not_durable	automated
+m08020	yes	kept	domains/work/private-firm-credit-model-2001.md
