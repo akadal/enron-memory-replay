@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-09-23
+updated: 2001-09-28
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: SMS SFO 21-24 Oct; INFOCAST 10 Oct; IQPC London 23-24 Oct; Gas & PoweRisk Paris 6-8 Nov: slides by 12 Oct, hotel by 28 Sep; Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
+- Speaking: INFOCAST 10 Oct: bio, paper and AV needs owed, hotel by 5 Oct; University of Alabama class Mon 15 Oct, UA pays (Brooks asks if the date holds); SMS SFO 21-24 Oct; IQPC London 23-24 Oct; Gas & PoweRisk Paris 6-8 Nov: slides by 12 Oct; Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
 - GARP 2002: owner speaks in the energy risk stream and runs the credit risk workshop with Mark Williams; goes ahead after the attacks, new Manhattan venue, dates may change; agenda and 4-5 bullets owed to Simou → memory/domains/industry/garp-2001.md
-- Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report still owed, Cadoni chased 13 Sep → memory/domains/industry/eprm-risk.md
-- Universities: Rice Energy Club wants its roundtable topics trimmed (Calabrese, 19 Sep) → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference 21-22 Feb 2002: Ronn invites Whalley to keynote → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Goldenfeld dinner Mon 24 Sep, colloquium Tue 25 Sep 3 pm; Kumar's Energy Markets Institute curricula await the owner's reaction → memory/domains/industry/uh-econophysics.md
-- Events: Energy Exchanges Online II 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba Boltzmann model under review (Kohli) → memory/domains/industry/visitors-2001.md
+- Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report still owed, Cadoni chased 13 and 26 Sep, the other referee's report is in → memory/domains/industry/eprm-risk.md
+- Universities: Rice Energy Club wants its roundtable topics trimmed (Calabrese, 19 Sep) → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference 21-22 Feb 2002: Ronn invites Whalley to keynote → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Kumar's Energy Markets Institute curricula await the owner's reaction → memory/domains/industry/uh-econophysics.md
+- MIT: Ken asks for a speaker for the new Energy and Environmental Finance Club; Gros suggests the owner as senior rep at the Sloan Leadership Conference 27 Oct → memory/domains/industry/sponsorship-requests-2001.md; Events: EPIS moved to 12-13 Nov; CEC invitation (Gopal), content unknown; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba Boltzmann model under review (Kohli) → memory/domains/industry/visitors-2001.md
 
 ## Files
 
@@ -35,7 +35,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, conference sponsorships; AGA; EEI benchmarking
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum, Energy Club
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris and HEG Houston Nov 2001, Spain Dec 2001
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, INFOCAST and University of Alabama Oct 2001, ICBI Paris and HEG Houston Nov 2001, Spain Dec 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga, Goldenfeld Sep 2001, Energy Markets Institute)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo
@@ -47,6 +47,6 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001
-- memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (UT Texas market seminar, PIRA, Ziff storage)
+- memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (EPIS Nov 2001, PSERC Dec 2001, CEC invitation)
 - memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, weather project, Energy Club speaker
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)

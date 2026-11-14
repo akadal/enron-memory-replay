@@ -4,12 +4,12 @@ type: entity
 entity: person
 name: "Kevin Kindall"
 aliases: []
-domains: [organization, work]
-updated: 2000-12-31
+domains: [organization, work, personal]
+updated: 2001-09-28
 ---
 # Kevin Kindall
 
-On the Research Group's wider list. ←[[m00010]]
+On the Research Group's wider list; at FPL by Sep 2001. ←[[m00010]] ←[[m09214]]
 
 ## Context: work
 
@@ -19,3 +19,7 @@ On the Research Group's wider list. ←[[m00010]]
 ## Context: organization
 
 - [1999-12-13] Wider group list → memory/domains/organization/research-group.md ←[[m00010]] ←[[m00138]]
+
+## Context: personal
+
+- [2001-09-27] Now at FPL; in Houston to Wed 3 Oct, lunch with the owner that day → memory/domains/personal/correspondence.md ←[[m09214]]

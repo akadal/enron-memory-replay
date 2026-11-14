@@ -5,7 +5,7 @@ entity: person
 name: "Tom Gros"
 aliases: ["Thomas Gros"]
 domains: [work, organization]
-updated: 2000-03-03
+updated: 2001-09-28
 ---
 # Tom Gros
 
@@ -20,3 +20,4 @@ Enron Broadband Services, VP of global trading; invites MIT students and wants t
 ## Context: organization
 
 - [2000-02-17] Backs the EBS intern research; on the MIT/Sloan team → memory/domains/organization/summer-interns-2000.md ←[[m00669]] ←[[m00679]] ←[[m00692]]
+- [2001-09-28] Suggests the owner for MIT Sloan's 27 Oct conference → memory/domains/industry/sponsorship-requests-2001.md ←[[m09217]]

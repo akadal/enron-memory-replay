@@ -5,7 +5,7 @@ entity: person
 name: "Nelson Neale"
 aliases: ["C. Nelson Neale"]
 domains: [organization, work]
-updated: 2000-12-22
+updated: 2001-09-28
 ---
 # Nelson Neale
 
@@ -19,3 +19,4 @@ C. Nelson Neale, Ph.D.; interviewed Sep 2000, then a Research Group member. ←[
 ## Context: work
 
 - [2000-12-22] Grains report; ag trading report for Gary Hickerson → memory/domains/work/ag-trading-report-2000.md ←[[m05017]] ←[[m05019]]
+- [2001-09-27] Reviews Texas A&M's forest products VAR proposal; newsprint curve → memory/domains/work/forest-products-curves-2001.md ←[[m09213]]

@@ -5,7 +5,7 @@ entity: person
 name: "Craig Chaney"
 aliases: []
 domains: [work, personal]
-updated: 2001-04-22
+updated: 2001-09-28
 ---
 # Craig Chaney
 
@@ -18,3 +18,4 @@ Enron Credit (EnronCredit.com) in Houston; with Jeff Kinneman the credit team Re
 ## Context: personal
 
 - [2001-04-11] He and his wife are at Mike Fowler's dinner on 27 Apr → memory/domains/personal/correspondence.md ←[[m06728]]
+- [2001-09-25] Organises 'Enron Dinner Friends', the owner a member → memory/domains/personal/correspondence.md ←[[m09209]]

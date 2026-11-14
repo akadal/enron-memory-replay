@@ -5,7 +5,7 @@ entity: person
 name: "Tom Halliburton"
 aliases: []
 domains: [organization, work]
-updated: 2000-05-21
+updated: 2001-09-28
 ---
 # Tom Halliburton
 
@@ -19,3 +19,4 @@ Power engineer (ex-utilities in the northwestern US and New Zealand: asset plann
 ## Context: work
 
 - [2000-05-16] Masson points Leppard to him for modelling-tool advice → memory/domains/work/real-options-diagrams.md ←[[m01695]]
+- [2001-09-28] Judges ModReg (Argentina) unsatisfactory, proposes SDDP → memory/domains/work/argentina-modelling.md ←[[m09218]]
