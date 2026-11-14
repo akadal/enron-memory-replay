@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-03-25
+updated: 2001-04-01
 ---
 # People — index
 
@@ -52,6 +52,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Becky Pham
 - Ben Glisan
 - Benjamin Parsons (Ben Parsons)
+- Bernard Murphy
 - Berney Aucoin (Berney C Aucoin, Bernie Aucoin)
 - Beth Miertschin
 - Beth Perlman
@@ -131,6 +132,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ding Yuan
 - Dmitri Villevald
 - Dolores Muzzy
+- Don Chew
 - Donna Piazze
 - Dorn Hetzel
 - Dorothy Youngblood
@@ -352,6 +354,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mike Roberts (Mike A Roberts)
 - Mike Rosen
 - Ming Sit
+- Mohan Gurunath
 - Molly Magee
 - Naveen Andrews
 - Neil McGregor
@@ -404,6 +407,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Radu Tutos
 - Rafal Weron
 - Raj Srivastava
+- Rajesh Sivaraman
 - Rajnish Kamat
 - Rakesh Bharati
 - Ravi Thuraisingham

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-03-25
+updated: 2001-04-01
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Dabhol: Sud met Rebecca McDonald 10 Mar, no mandate; Anshuman to Houston for the DPC fuel/LNG strategy, owner e-mailed Jim Hughes (20 Mar) → memory/domains/work/dabhol-power-sale.md
-- Outside: MacMillan refused the Real Options materials (commitment to the co-developer); McCormack (Stern Stewart) pitches monetization, meets the owner week of 26 Mar; calls from Linder (NPPD), Kovelsky (Meridien); owed: Bernard Murphy's answer → memory/domains/work/outside-requests-2001.md
-- Raptor: Port asks how to cope with its ethical issues (23 Mar); owner agrees with Bharati's Talon spreadsheet, calls Monday if not → memory/domains/work/talon-raptor.md
-- VaR: analytical Equity VaR and normal-scaled tail VaR for commodities (21 Mar) → memory/domains/work/var-credit-system-2001.md; FEA's VaR patents to Tamarchenko → memory/domains/work/vendor-offers-2000.md; CHARM with Bouillion 29 Mar → memory/domains/work/enterprise-risk-management.md
-- Desks: Arora's Enpower option-valuation changes, Neale's softs curves → memory/domains/work/desk-analysis-requests.md; Barkley's EOL automated trading study → memory/domains/work/eol-content-2000.md; Korea material for Port → memory/domains/work/country-risk-curves.md
+- Credit: Duffie asks why Enron CDS trade ~80 bp over asset swaps, owner sends 2 notes; McDermott's view → memory/domains/work/credit-markets.md; private-firm model prototype by Aug (Seyfried) → memory/domains/work/enroncredit-support-2000.md
+- VaR: Credit Reserve Model paths questioned (Bradford); clustering and jumps for power VaR to Hayden → memory/domains/work/var-credit-system-2001.md
+- Outside: Murphy's thesis, answer still owed; McCormack to present to executives via Palmer, waits for the owner's outline; Darden wants Ken Lay for a book → memory/domains/work/outside-requests-2001.md; Titman's risk-capital method and invoice → memory/domains/work/ut-austin-ties-2000.md
+- Dabhol: DPC wants a crude swap for its JCC-indexed LNG, 2002-2004 → memory/domains/work/jcc-brent-hedge.md; Anshuman to Houston → memory/domains/work/dabhol-power-sale.md
+- MBA defence: owner joins from Philadelphia 3 Apr → memory/domains/work/warsaw-mba-theses-2001.md; Raptor ethics (Port) → memory/domains/work/talon-raptor.md
 
 ## Files
 

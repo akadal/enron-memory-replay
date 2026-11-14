@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-03-25
+updated: 2001-04-01
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: Schultz's "Who Makes the Market" Fri 30 Mar, Room 201; Ikenberry and Titman's forum 4-5 May → memory/domains/industry/rice-university.md
-- Rutgers dinner talk moved to Wed 23 May → memory/domains/industry/speaking-engagements-2000.md; Texas Finance Festival luncheon comments Sat 21 Apr, NESA brown bag 18 Apr → memory/domains/industry/events-attending-2000.md
+- Rice NFCF 4-5 May: owner registered, wife invited to the Friday dinner; Fastow on the option-dilution panel → memory/domains/industry/rice-university.md
+- Texas Finance Festival luncheon comments Sat 21 Apr (Titman to discuss), NESA brown bag 18 Apr, PSERC advisory board invite 31 May-1 Jun → memory/domains/industry/events-attending-2000.md; Rutgers dinner talk 23 May → memory/domains/industry/speaking-engagements-2000.md
 - Stanford RTP conference 21-22 Jun: EES and New Power attend; owner: Enron sponsorship "can be done" → memory/domains/industry/sponsorship-requests-2001.md
-- Wharton: Phase III judge passed to the owner; Team 1 final 3 Apr; Team 3 survey (Internet bias) → memory/domains/industry/wharton-projects-feb-2001.md
-- California: Lay and Skilling's 13 Mar memo; DWR essentially bankrupt, Coram vs SoCal Ed → memory/domains/industry/california-power-jan-2001.md
+- Wharton: Phase III judge; Team 1 final 3 Apr; Team 3 asks where NewPower markets → memory/domains/industry/wharton-projects-feb-2001.md
+- California: Lay and Skilling's 13 Mar memo; DWR essentially bankrupt → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 

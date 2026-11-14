@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-03-25
+updated: 2001-04-01
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Ren Zhang holds two offers; Boland seen by Gibner; Karthik Rajan on-site 30 Mar → memory/domains/organization/candidate-interviews-mar-2001.md; Joe Carson and Tony Mends to Whalley → memory/domains/organization/recruiting-candidates.md
-- Group: Kindall now at FPL; 21 newcomers on the shirt list; Trash Bash Sat 31 Mar; Crenshaw off 30 Mar and 6 Apr → memory/domains/organization/research-group-2001.md
-- Interns: Jinbaek Kim 4 Jun-4 Aug confirmed, Gillespie (iBuyIt) for Segev's panel → memory/domains/organization/summer-interns-2001.md; Stanford: 6 summer, 1 full-time offers → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
-- London 20-22 Mar: Slava Danilov takes over London research; Maureen Raymond's expenses → memory/domains/organization/london-research.md
+- Group: Hector Campos leaves 13 Apr for CMU; Cunningham's PES panel 18 Jul; Astros seats for the group → memory/domains/organization/research-group-2001.md
+- Interns: Rusty Parks (Baylor, Garven) interviews 19 Apr; Jinbaek Kim 4 Jun-4 Aug → memory/domains/organization/summer-interns-2001.md; Candidates: Ren Zhang, Boland, Rajan → memory/domains/organization/candidate-interviews-mar-2001.md
+- London: Danilov leads research; Kirstee Hewitt's London VaR document for comments (31 Mar) → memory/domains/organization/london-research.md
+- Software: IMSL C/C++ bought for VaR optimisation → memory/domains/organization/software-licenses.md; Telerate billed with no known user → memory/domains/organization/office-equipment.md
 - Forced-ranking lawsuits: owner tells Oxley to adjust processes (19 Mar) → memory/domains/organization/officer-performance-review.md
 
 ## Files
