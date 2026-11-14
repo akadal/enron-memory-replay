@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-29
+updated: 2001-07-03
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: SMS SFO 21-24 Oct, owner pays only the trip; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
-- Risk Financial Mathematics course: London 28-29 Jun (guest Faltinsen), Houston 16-17 Jul with an Astros game; EPRM Amsterdam 6-7 Sep → memory/domains/industry/eprm-risk.md
-- Events: EPIS Electric Market Forecasting Conference 12-14 Sep, owner plans to attend; ERisk iConference → memory/domains/industry/events-attending-2001.md
+- Risk Financial Mathematics course: Zimin Lu speaks for the owner in New York, Houston 16-17 Jul with an Astros game; EPRM Amsterdam 6-7 Sep → memory/domains/industry/eprm-risk.md
+- Events: EPIS Electric Market Forecasting Conference 12-14 Sep, owner plans to attend; Capp Coal Launch the 11th; PSERC advisory board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 - Rice: another energy derivatives course, Lacima's book the text → memory/domains/industry/rice-energy-derivatives-course.md; Neale's lecture → memory/domains/industry/rice-university.md
-- Darden's Enron weather-derivatives case via John Martin → memory/domains/industry/weather-insurance-markets.md; Stanford EMF → memory/domains/industry/sponsorship-requests-2001.md
+- Darden's Enron weather-derivatives case via John Martin → memory/domains/industry/weather-insurance-markets.md; Stanford EMF → memory/domains/industry/sponsorship-requests-2001.md; Wharton Tiger Team 2001-02: commit by mid-July, meeting from 12 Jul → memory/domains/industry/wharton-projects-feb-2001.md
 
 ## Files
 
@@ -43,7 +43,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
 - memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project
 - memory/domains/industry/petronas-visit-feb-2001.md — Petronas risk management visit, 8 Feb 2001
-- memory/domains/industry/wharton-projects-feb-2001.md — Wharton FAP projects (Teams 1, 3) and the 20 Feb 2001 trip
+- memory/domains/industry/wharton-projects-feb-2001.md — Wharton FAP projects (Teams 1, 3), the 20 Feb 2001 trip, Tiger Team 2001-02
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001

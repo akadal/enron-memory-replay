@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-29
+updated: 2001-07-03
 ---
 # People — index
 
@@ -473,6 +473,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paul Johnson
 - Paul Joskow
 - Paul Kleindorfer
+- Paul LeBeau (Paul Lebeau)
 - Paul Mead
 - Paul Quilkey
 - Paul Racicot

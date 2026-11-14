@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-29
+updated: 2001-07-03
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Group: marketing to structuring desks via Kohli, Toastmasters club, Rice professor Debra → memory/domains/organization/research-group-2001.md; O:\Research access review → memory/domains/organization/office-equipment.md
-- Hiring postponed to late Aug-early Sep (space), Schoenemann's resume to Molly Magee → memory/domains/organization/recruiting-candidates.md; interns' dinner Mon 2 Jul, Mattoo → memory/domains/organization/summer-interns-2001.md
+- Group: marketing to structuring desks via Kohli, Toastmasters club, Debra (Rice Communications) at 3:00 on the 19th with Labbe → memory/domains/organization/research-group-2001.md; O:\Research access review → memory/domains/organization/office-equipment.md
+- Hiring postponed to late Aug-early Sep (space), Schoenemann's resume to Molly Magee, Uri Scott to interview (Bob Lee) → memory/domains/organization/recruiting-candidates.md; interns' dinner Mon 2 Jul, Mattoo → memory/domains/organization/summer-interns-2001.md
 - PRC: Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md; Krishna's in-laws' visas, Cline → memory/domains/organization/hr-matters-2001.md
-- Systems: new expense report system from early July, SAP number; protest procedures → memory/domains/organization/corporate-announcements-2001.md; Raymond away 23-27 Jul → memory/domains/organization/leave-and-training.md
+- Systems: new expense report system from early July, SAP number; protest procedures → memory/domains/organization/corporate-announcements-2001.md; Raymond away 23-27 Jul → memory/domains/organization/leave-and-training.md; FEA @GLOBAL 5.0 for Lu → memory/domains/organization/software-licenses.md
 - Reorganization after Gibner's exit; Lu's proposal → memory/domains/organization/research-group.md
 
 ## Files
