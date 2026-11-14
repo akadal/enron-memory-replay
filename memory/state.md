@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-04-01 (week 2001-W13). Owner flies to Philadelphia Tue 3 Apr (Wharton; joins a Warsaw MBA defence from the hotel); Duffie's CDS question answered with 2 notes.
+As of 2001-04-08 (week 2001-W14). Duffie got the owner's CDS notes; his model audit docs are being compiled; Tony Hamilton starts in London 9 Apr.
 
-- Coming: Wharton Team 1 3 Apr; ENSIDE corrections 4 Apr; Campos leaves 13 Apr; NESA 18 Apr; Rusty Parks 19 Apr; Texas Finance Festival 21 Apr; NFCF 4-5 May → memory/domains/industry/events-attending-2000.md
-- Owed: Murphy's answer; outline for McCormack; Darden/Ken Lay reply; Lacima approval (Fiona Grant) → memory/domains/work/outside-requests-2001.md
+- Coming: NumeriX call 9 Apr; EES liability meeting 10 Apr; NewPower lunch 11 Apr; Kate Szablya 13 Apr; Campos leaves 13 Apr; NESA 18 Apr; Texas Finance Festival 21 Apr; NFCF 4-5 May; Thorne and Stanford visits 4 May → memory/domains/industry/events-attending-2000.md
+- Owed: Murphy's answer; outline for McCormack; Lacima approval (Fiona Grant) → memory/domains/work/outside-requests-2001.md

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-01
+updated: 2001-04-08
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice NFCF 4-5 May: owner registered, wife invited to the Friday dinner; Fastow on the option-dilution panel → memory/domains/industry/rice-university.md
-- Texas Finance Festival luncheon comments Sat 21 Apr (Titman to discuss), NESA brown bag 18 Apr, PSERC advisory board invite 31 May-1 Jun → memory/domains/industry/events-attending-2000.md; Rutgers dinner talk 23 May → memory/domains/industry/speaking-engagements-2000.md
-- Stanford RTP conference 21-22 Jun: EES and New Power attend; owner: Enron sponsorship "can be done" → memory/domains/industry/sponsorship-requests-2001.md
-- Wharton: Phase III judge; Team 1 final 3 Apr; Team 3 asks where NewPower markets → memory/domains/industry/wharton-projects-feb-2001.md
-- California: Lay and Skilling's 13 Mar memo; DWR essentially bankrupt → memory/domains/industry/california-power-jan-2001.md
+- Rice NFCF 4-5 May: owner at the dinner and Saturday, alone; Rice students' project meets Dan Diamond → memory/domains/industry/rice-university.md
+- Texas Finance Festival luncheon Sat 21 Apr, NESA 18 Apr, NewPower lunch 11 Apr; PSERC board advised against → memory/domains/industry/events-attending-2000.md; Rutgers dinner talk 23 May → memory/domains/industry/speaking-engagements-2000.md
+- Stanford: retail power conference 21-22 Jun; Engineering's Hansen visits 4 May → memory/domains/industry/sponsorship-requests-2001.md
+- Kulatilaka (BU) to the Thursday lunch, 3/4 May → memory/domains/industry/visitors-2001.md; Risk Waters course bullets → memory/domains/industry/eprm-risk.md
+- Wharton: ET event 20 Apr → memory/domains/industry/research-memberships-2000.md; Phase III judge, Team 3 → memory/domains/industry/wharton-projects-feb-2001.md
 
 ## Files
 
