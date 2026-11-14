@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-29
+updated: 2001-05-02
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: RFPs out 25 Apr, model 15 Jul; Dhar's data spec; credit business plan; Iris Mack in London from 30 Apr with a wish list → memory/domains/work/private-firm-credit-model-2001.md; Duffie study: edit into one review → memory/domains/work/model-risk-audit.md
-- VaR: Hayden's Reg. VaR meeting 26 Apr, Tamarchenko's clustering and jump agenda → memory/domains/work/var-credit-system-2001.md
-- EOL: Barkley's WTI crude trade set (24,000+ trades), analysis ideas wanted; Vernon hands the owner the EOL data → memory/domains/work/eol-trading-algorithms-2001.md; movie futures: 15+ films, 1-day bidding → memory/domains/work/ebs-research-requests-2001.md
-- Desks: Dabhol board votes for a PPA termination notice, lenders split → memory/domains/work/dabhol-power-sale.md; Bennett leaves London, Hamilton to development → memory/domains/work/weather-research-2001.md; petrochem curves → memory/domains/work/petrochem-forward-curves-2001.md
-- Outside: Thorne 4 May; McCormack's outline owed → memory/domains/work/outside-requests-2001.md; Darrah to interview with Zipter and Port → memory/domains/work/enterprise-risk-management.md; Curran's Willow/Pathstar → memory/domains/work/vendor-offers-2001.md
+- Credit: Iris Mack in London to 11 May, modelling-strategy meetings, strategic plan for Duffie → memory/domains/work/enron-credit-strategy-2001.md; RFPs, model 15 Jul → memory/domains/work/private-firm-credit-model-2001.md
+- Models: PSIM for the EES full-requirement deal → memory/domains/work/ees-full-requirements-may-2001.md; CrudeAPO documentation dispute, Zimin vs Issler → memory/domains/work/crudeapo-asian-option-2001.md; non-firm curves, dual trigger → memory/domains/work/outage-risk-option-2001.md
+- EOL: Barkley's WTI set, Hess bidding up off-peak; Lee's vol-skew conditions → memory/domains/work/eol-trading-algorithms-2001.md; movie futures, HSX figures → memory/domains/work/ebs-research-requests-2001.md
+- Desks: Dabhol management seeks a PTN, phase II $700MM → memory/domains/work/dabhol-power-sale.md; weather knock-out option → memory/domains/work/weather-research-2001.md; Transmission Roundtable 9 May → memory/domains/work/transmission-modelling-2001.md
+- Outside: Thorne 4 May, NDA stuck → memory/domains/work/outside-requests-2001.md; MarketPoint on Nesbitt's next trip → memory/domains/work/marketpoint-gas-model-2001.md; Willow/Pathstar in Houston, Limperis call → memory/domains/work/vendor-offers-2001.md
 
 ## Files
 
@@ -40,5 +40,6 @@ Path: memory/domains/work/<name>.md
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
 - private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001
+- enron-credit-strategy-2001 · crudeapo-asian-option-2001 · ees-full-requirements-may-2001
 
 Closed: 1

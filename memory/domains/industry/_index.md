@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-29
+updated: 2001-05-02
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: projects due 30 Apr, grades to Pam Castro by 4 May, NFCF dinner 4 May, Koenig asked onto a panel → memory/domains/industry/rice-university.md; 2001-02 speakers → memory/domains/industry/rice-finance-seminar-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
-- Owner's roles: SIAM talk 27 Apr, slides asked; KWI: Sherriff's PR person to call → memory/domains/industry/speaking-engagements-2000.md; EPRM 14-15 May → memory/domains/industry/eprm-risk.md
-- Attending: UT Austin short course 2 May (carpool 9 am); PIRA 14 and 16 May; gas storage 22 Jun, registered → memory/domains/industry/events-attending-2001.md
-- Wharton: Business Plan final 30 Apr; host evaluation form → memory/domains/industry/wharton-projects-feb-2001.md; Risk Center advisory 14 Jun, corn-subsidy project, contact this week → memory/domains/industry/wharton-risk-center-2001.md
-- Visits: Kulatilaka 17 May → memory/domains/industry/visitors-2001.md; UH Energy Institute tour 22 May → memory/domains/industry/uh-econophysics.md; California: FERC caps' 1 Jun kill clause → memory/domains/industry/california-power-jan-2001.md
+- Rice: papers in, first group graded A, grades due 4 May → memory/domains/industry/rice-mgmt656-papers-may-2001.md; NFCF 4 May, Koenig → memory/domains/industry/rice-university.md; ALP 7 May, dinner and a game at Enron Field → memory/domains/industry/rice-alp-presentation-may-2001.md
+- Owner's roles: EPRM Houston 14-15 May, talk behind, Tamarchenko co-speaker, reception 13 May; Financial Mathematics speaker packs → memory/domains/industry/risk-waters-speaking-may-2001.md; SIAM → memory/domains/industry/speaking-engagements-2000.md
+- Attending: PIRA 14 and 16 May; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
+- Wharton: Risk Center 14 Jun, draft agenda; Vasant's proposal outline → memory/domains/industry/wharton-risk-center-2001.md
+- Visits: Kulatilaka 17 May, 'Using the Mobile Internet to Make New Markets' → memory/domains/industry/visitors-2001.md; California: FERC caps' 1 Jun kill clause → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 
@@ -49,3 +49,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (UT Texas market seminar, PIRA, Ziff storage)
 - memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, Kunreuther, corn-subsidy project idea
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)
+- memory/domains/industry/rice-mgmt656-papers-may-2001.md — Rice MGMT 656 final projects, papers and grades, May 2001
+- memory/domains/industry/risk-waters-speaking-may-2001.md — EPRM 2001 Houston and Financial Mathematics course speaker logistics, May 2001
