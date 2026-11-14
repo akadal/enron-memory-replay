@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-07-03
+updated: 2001-07-15
 ---
 # Industry — index
 
@@ -13,7 +13,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - Risk Financial Mathematics course: Zimin Lu speaks for the owner in New York, Houston 16-17 Jul with an Astros game; EPRM Amsterdam 6-7 Sep → memory/domains/industry/eprm-risk.md
 - Events: EPIS Electric Market Forecasting Conference 12-14 Sep, owner plans to attend; Capp Coal Launch the 11th; PSERC advisory board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 - Rice: another energy derivatives course, Lacima's book the text → memory/domains/industry/rice-energy-derivatives-course.md; Neale's lecture → memory/domains/industry/rice-university.md
-- Darden's Enron weather-derivatives case via John Martin → memory/domains/industry/weather-insurance-markets.md; Stanford EMF → memory/domains/industry/sponsorship-requests-2001.md; Wharton Tiger Team 2001-02: commit by mid-July, meeting from 12 Jul → memory/domains/industry/wharton-projects-feb-2001.md
+- Darden's Enron weather-derivatives case via John Martin → memory/domains/industry/weather-insurance-markets.md; Garven: Baylor faculty seminar in fall 2001 → memory/people/jim-garven.md; Stanford EMF → memory/domains/industry/sponsorship-requests-2001.md; Wharton Tiger Team 2001-02: commit by mid-July, meeting from 12 Jul → memory/domains/industry/wharton-projects-feb-2001.md
 
 ## Files
 

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-29
+updated: 2001-07-15
 ---
 # Personal — index
 
@@ -9,7 +9,7 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Warsaw trip 4-9 Jul, vacation 5, 6 and 9 Jul → memory/domains/personal/poland-trip-jul-2001.md
+- San Francisco Thu 19 Jul (CO 1566), in California at the end of the week → memory/domains/personal/california-trip-jul-2001.md; Warsaw trip 4-9 Jul → memory/domains/personal/poland-trip-jul-2001.md
 - London dinner with Musiela and Karasinski; Pokalsky, Bibi to Putnam → memory/domains/personal/correspondence.md
 - Son: Thorne's patent advice, Balson's IBM Almaden lead → memory/domains/personal/household.md
 - Bigalow: owner asks about P, TX, DVN → memory/domains/personal/investments-2000.md
@@ -20,6 +20,7 @@ Scope: the owner's private matters that appear in the mail.
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk
+- memory/domains/personal/california-trip-jul-2001.md — San Francisco trip from 19 Jul 2001: flights
 - memory/domains/personal/investments-2000.md — brokers list (Dec 2000), Merrill Lynch (Walkup), option exercise, restricted stock deferral, PaineWebber (Haviland)
 - memory/domains/personal/lifetrak-venture-2001.md — Al Arfsten's LifeTrak blood marketplace, Mark Lay (Jan-Feb 2001)
 - memory/domains/personal/recruiter-approaches-2000.md — approaches (Al Arfsten, BFL Associates; UNO's Moffett Chair, Nov 2000)
