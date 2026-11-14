@@ -5,11 +5,11 @@ entity: person
 name: "Aram Sogomonian"
 aliases: []
 domains: [industry, organization]
-updated: 2000-04-28
+updated: 2000-09-10
 ---
 # Aram Sogomonian
 
-Former Enron colleague, now at the old PacifiCorp; came to Houston 28 Apr 2000 for a wedding and to explore returning. ←[[m01427]] ←[[m01471]]
+Former Enron colleague, now at the old PacifiCorp; came to Houston 28 Apr 2000 for a wedding and to explore returning. Phones noted by the owner 8 Sep 2000: work (503) 813 5754 (also 5608), cell (503) 701 6692, home (503) 636 9471. ←[[m01427]] ←[[m01471]] ←[[m03178]]
 
 ## Context: industry
 

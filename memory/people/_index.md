@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-09-03
+updated: 2000-09-10
 ---
 # People — index
 
@@ -22,6 +22,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Amy Oberg
 - Andrea Reed
 - Andreas Barschkis
+- Andreas Simou
 - Andrew Fastow (Andy Fastow)
 - Andrzej Wodnicki
 - Anita Dupont (Anita DuPont)
@@ -86,6 +87,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dorn Hetzel
 - Doug Leach
 - Douglas Parsons (Douglas S Parsons, Doug Parsons)
+- Duane Seppi
 - Ed Krapels
 - Edward Kao
 - Ehud Ronn (Ehud I. Ronn)
@@ -98,6 +100,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Erik Simpson
 - Eugenio Perez
 - Farouk Lalji
+- Frank Diebold
 - Fred Lagrasta
 - Gabriel Bitran
 - Gary Hickerson
@@ -140,6 +143,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Bloomer
 - John D. Martin
 - John Echols
+- John Goodpasture
 - John Gordon
 - John Griebling
 - John Herbert (John H Herbert)
@@ -266,12 +270,14 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shirley Crenshaw
 - Shmuel Oren
 - Soma Ghosh
+- Sophie Kingsley
 - Soussan Faiz
 - Stathis Tompaidis
 - Stephen Bramlett (Steven Bramlet)
 - Stephen Stock
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
+- Steven Shreve
 - Stinson Gibner
 - Tanya Tamarchenko
 - Ted Bland
@@ -299,4 +305,5 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
 - Yannis Tzamouranis
+- Youyi Feng
 - Zimin Lu

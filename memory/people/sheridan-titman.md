@@ -5,11 +5,11 @@ entity: person
 name: "Sheridan Titman"
 aliases: []
 domains: [work, industry]
-updated: 2000-05-21
+updated: 2000-09-10
 ---
 # Sheridan Titman
 
-Finance professor, University of Texas at Austin (titman@mail.utexas.edu, 512-232-2787, fax 512-471-5073). ←[[m00975]] ←[[m01184]] ←[[m01260]]
+Finance professor, University of Texas at Austin (Department of Finance, College of Business Administration, Austin 78712-1179; titman@mail.utexas.edu, 512-232-2787, fax 512-471-5073). ←[[m00975]] ←[[m01184]] ←[[m01260]] ←[[m03134]]
 
 ## Context: work
 
