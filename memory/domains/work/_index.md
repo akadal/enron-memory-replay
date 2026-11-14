@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-08-10
+updated: 2001-08-19
 ---
 # Work — index
 
@@ -9,13 +9,12 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Prediction Company: NDA drafted by Legal; trip with Whalley: Wolak at Stanford 16 Aug, Santa Fe 17 or 24 Aug, decided Mon 13 Aug → memory/domains/work/prediction-company.md
-- New: Oz crude basket option model for EGM (Kohli, Shanbhogue) → memory/domains/work/oz-crude-basket-2001.md; media group's $40 billion pitch, pulp and paper examples → memory/domains/work/media-group-pitch-2001.md
-- Credit: Convolution VaR due end-August, untested; IT and RAC cool on Credit Reserve code → memory/domains/work/var-credit-system-2001.md; CreditStream plan review, Cumberland lunch → memory/domains/work/internal-meetings-2001.md; Duffie's expert report → memory/domains/work/credit-markets.md
-- Neptune: Krapels asks transmission hedges, sent to Presto → memory/domains/work/transmission-modelling-2001.md; East Power primer 21 Aug, same file
-- UT: Ronn's class Mon 10 Sep 2-5 pm, reception, corporate presentation; Titman's executive valuation program, ask Rick Buy → memory/domains/work/ut-austin-ties-2000.md
-- Lacima: spark spread options article opening to review; Energyforum.net republishes EPRM articles → memory/domains/work/lacima-book-2000.md; MetBox, in-house MM5 box → memory/domains/work/weather-research-2001.md
-- Also: Schultz's risk policy → memory/domains/work/enterprise-risk-management.md; Bob Lee's EOL report → memory/domains/work/eol-trading-algorithms-2001.md; Media Services success story → memory/domains/work/enron-media-advertising.md; Dabhol → memory/domains/work/dabhol-power-sale.md; vendors → memory/domains/work/vendor-offers-2001.md
+- Prediction Company: Santa Fe trip slipped after Skilling's resignation, now early in the week of 3 Sep, no firm date; agenda and NDA call with Nusbaum 17 Aug → memory/domains/work/prediction-company.md
+- New: Brazil hydro shortage, reservoir levels with Collonges, Mihura, Lin → memory/domains/work/brazil-hydro-2001.md; Mihura's HVDC tie-flow sensors, East Power primer 21 Aug, Neptune → memory/domains/work/transmission-modelling-2001.md
+- Credit: Duffie wants a cookbook for Reliability VaR; Chaney's Credit Manager → memory/domains/work/var-credit-system-2001.md; RAC rates Enron ~BB, KMV writeup → memory/domains/work/private-firm-credit-model-2001.md
+- Books: Wiley (Samantha Whittaker) wants an energy price risk book → memory/domains/work/owner-publications.md; spark spread article comments → memory/domains/work/lacima-book-2000.md
+- Universities: Georgia Tech QCF seminar in October → memory/domains/work/university-relations.md; UT class Mon 10 Sep, Titman's program → memory/domains/work/ut-austin-ties-2000.md
+- Also: HJM module for Halliburton → memory/domains/work/storage-model.md; Joret's MRHV question → memory/domains/work/outside-requests-2001.md; Oz crude basket → memory/domains/work/oz-crude-basket-2001.md; media pitch → memory/domains/work/media-group-pitch-2001.md
 
 ## Files
 
@@ -42,6 +41,6 @@ Path: memory/domains/work/<name>.md
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
 - private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001 · project-x-var-2001 · prediction-company
-- oz-crude-basket-2001 · media-group-pitch-2001
+- oz-crude-basket-2001 · media-group-pitch-2001 · brazil-hydro-2001
 
 Closed: 1

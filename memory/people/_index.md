@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-08-10
+updated: 2001-08-19
 ---
 # People — index
 
@@ -82,6 +82,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Brad Aimone (James Bradley Aimone)
 - Brad McSherry
 - Brad Romine (Bradley Romine)
+- Brian Mihura
 - Brian Nelson
 - Britta Bothe
 - Bruce James
@@ -285,6 +286,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jim Fallon
 - Jim Garven (James R. Garven)
 - Jim Irvine
+- Jim Nusbaum
 - Jim Schwieger
 - Jin Yu
 - Jinbaek Kim
@@ -397,7 +399,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Marc De La Roche
 - Margaret Carson
 - Margaret Daffin
+- Marge Nadasky
 - Marie Hejka
+- Mark Brady
 - Mark Frevert
 - Mark Garman (Mark B. Garman)
 - Mark Giancola
@@ -408,6 +412,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
 - Mark Tawney
+- Mark Taylor
 - Mark Westmoreland
 - Markus Fiala
 - Marshall Brown
@@ -528,6 +533,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ray Bowen
 - Raymond Yeow
 - Rebecca McDonald (Rebecca MacDonald)
+- Remi Collonges
 - Richard B Jones (Rick Jones)
 - Richard Carson
 - Richard Causey (Rick Causey)

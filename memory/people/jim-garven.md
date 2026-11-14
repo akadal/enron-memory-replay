@@ -5,7 +5,7 @@ entity: person
 name: "Jim Garven"
 aliases: ["James R. Garven"]
 domains: [industry]
-updated: 2001-07-15
+updated: 2001-08-19
 ---
 # Jim Garven
 
@@ -16,4 +16,4 @@ Finance professor at Louisiana State University (jgarven@lsu.edu), where he host
 - [2000-01-04] LSU visit: dates, bio, slides, reprints via Joan Payne, papers for both talks → memory/domains/industry/speaking-engagements-2000.md ←[[m00134]] ←[[m00365]] ←[[m00366]] ←[[m00367]] ←[[m00449]] ←[[m00517]] ←[[m00524]]
 - [2000-02-09] Thanked the owner; receipts to his secretary Joan Payne → memory/domains/industry/speaking-engagements-2000.md ←[[m00575]] ←[[m00578]]
 - [2000-12-05] Invites the owner to stay at Baylor 22-23 Feb 2001 (students, Gamma Iota Sigma dinner) → memory/domains/industry/speaking-engagements-2000.md ←[[m04630]] ←[[m04700]]
-- [2001-07-10] Resends Darden's 'Enron Corporation's Weather Derivatives' case (9 Jul; owner copies it to AOL); with John Martin invites the owner to Baylor in fall 2001 for a faculty seminar and his risk management class; cell 512-751-3709, office (254) 710-6207 ←[[m08683]]
+- [2001-07-10] Resends Darden's 'Enron Corporation's Weather Derivatives' case (9 Jul; owner copies it to AOL); with John Martin invites the owner to Baylor in fall 2001 for a faculty seminar and his risk management class; cell 512-751-3709, office (254) 710-6207 ←[[m08683]]; "John Martin" stays unlinked from memory/people/john-d-martin.md (?): alias question closed by status quo 2001-08-19.
