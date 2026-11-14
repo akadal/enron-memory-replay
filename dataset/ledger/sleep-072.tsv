@@ -1,0 +1,136 @@
+id	durable	status	detail
+m06605	yes	kept	domains/industry/eprm-risk.md
+m06606	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m06607	yes	kept	domains/work/vendor-offers-2001.md
+m06608	no	not_durable	automated
+m06609	yes	dropped	redundant: ENSIDE article draft Rev 2 re-forwarded to AOL, already recorded
+m06610	yes	dropped	redundant: Tamarchenko tail-estimation thread re-forwarded to AOL, recorded in archive
+m06611	yes	kept	domains/industry/eprm-risk.md
+m06612	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06613	no	not_durable	other
+m06614	no	not_durable	automated
+m06615	yes	kept	domains/industry/sponsorship-requests-2001.md people/donna-lawrence.md people/susan-hansen.md
+m06616	yes	kept	domains/organization/research-group-2001.md
+m06617	yes	kept	domains/industry/sponsorship-requests-2001.md people/donna-lawrence.md people/susan-hansen.md
+m06618	yes	kept	domains/industry/sponsorship-requests-2001.md people/donna-lawrence.md people/susan-hansen.md
+m06619	yes	kept	domains/work/weather-research-2001.md
+m06620	no	not_durable	bulk
+m06621	no	not_durable	bulk
+m06622	no	not_durable	bulk
+m06623	yes	kept	domains/work/henwood-emss-query.md
+m06624	yes	kept	domains/work/weather-research-2001.md
+m06625	no	not_durable	logistics
+m06626	yes	kept	domains/work/group-papers-2000.md
+m06627	yes	kept	domains/work/talon-raptor.md
+m06628	no	not_durable	bulk
+m06629	yes	kept	domains/work/outside-requests-2001.md
+m06630	yes	kept	domains/work/country-risk-curves.md
+m06631	yes	kept	domains/industry/events-attending-2000.md
+m06632	yes	kept	domains/industry/sponsorship-requests-2001.md people/susan-hansen.md
+m06633	yes	kept	domains/industry/sponsorship-requests-2001.md people/susan-hansen.md
+m06634	no	not_durable	bulk
+m06635	yes	kept	domains/work/genco-plant-model-2001.md
+m06636	yes	kept	domains/work/marketpoint-gas-model-2001.md
+m06637	yes	kept	domains/industry/events-attending-2000.md
+m06638	yes	kept	domains/work/var-credit-system-2001.md
+m06639	yes	kept	domains/work/var-credit-system-2001.md
+m06640	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/luigi-calabrese.md people/wil-uecker.md
+m06641	yes	kept	domains/industry/research-memberships-2000.md
+m06642	yes	kept	domains/industry/eprm-risk.md
+m06643	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06644	yes	kept	domains/industry/sponsorship-requests-2001.md people/donna-lawrence.md people/susan-hansen.md
+m06645	yes	kept	domains/organization/research-group-2001.md
+m06646	yes	kept	domains/industry/sponsorship-requests-2001.md people/susan-hansen.md
+m06647	no	not_durable	other
+m06648	yes	kept	domains/work/weather-research-2001.md
+m06649	no	not_durable	quote_only
+m06650	yes	kept	domains/work/group-papers-2000.md
+m06651	no	not_durable	quote_only
+m06652	yes	kept	domains/work/country-risk-curves.md
+m06653	yes	kept	domains/industry/sponsorship-requests-2001.md people/susan-hansen.md
+m06654	yes	kept	domains/industry/sponsorship-requests-2001.md people/susan-hansen.md
+m06655	yes	kept	domains/work/genco-plant-model-2001.md
+m06656	yes	kept	domains/work/var-credit-system-2001.md
+m06657	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/luigi-calabrese.md people/wil-uecker.md
+m06658	yes	kept	domains/work/vendor-offers-2001.md
+m06659	yes	kept	domains/personal/correspondence.md
+m06660	yes	kept	domains/work/weather-research-2001.md
+m06661	yes	kept	domains/work/weather-research-2001.md
+m06662	yes	kept	domains/organization/hr-matters-2001.md
+m06663	no	not_durable	automated
+m06664	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06665	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06666	yes	kept	domains/industry/rice-university.md
+m06667	yes	kept	domains/industry/rice-university.md
+m06668	yes	kept	domains/organization/office-equipment.md
+m06669	yes	kept	domains/industry/rice-university.md people/laura-starks.md
+m06670	yes	kept	domains/industry/rice-university.md
+m06671	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06672	yes	kept	domains/work/weather-research-2001.md
+m06673	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/wil-uecker.md
+m06674	yes	kept	domains/work/weather-research-2001.md
+m06675	no	not_durable	logistics
+m06676	yes	kept	domains/work/outage-risk-option-2001.md people/david-hoog.md people/per-sekse.md
+m06677	yes	kept	domains/organization/hr-matters-2001.md
+m06678	no	not_durable	pleasantry
+m06679	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m06680	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06681	yes	kept	domains/industry/rice-alp-presentation-may-2001.md people/wil-uecker.md
+m06682	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06683	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06684	yes	kept	domains/organization/london-research.md
+m06685	yes	kept	domains/organization/hr-matters-2001.md people/anne-labbe.md
+m06686	no	not_durable	quote_only
+m06687	yes	kept	domains/organization/hr-matters-2001.md people/anne-labbe.md
+m06688	yes	kept	domains/work/lacima-book-2000.md
+m06689	yes	kept	domains/work/outside-requests-2001.md people/julie-gomez.md people/steven-harris.md
+m06690	yes	dropped	redundant: same Tamarchenko thread re-forwarded again, recorded in archive
+m06691	yes	kept	domains/organization/hr-matters-2001.md people/anne-labbe.md
+m06692	yes	kept	domains/industry/sponsorship-requests-2001.md
+m06693	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m06694	yes	kept	domains/work/weather-research-2001.md
+m06695	no	not_durable	quote_only
+m06696	no	not_durable	pleasantry
+m06697	no	not_durable	quote_only
+m06698	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06699	yes	kept	domains/industry/rice-university.md
+m06700	yes	kept	domains/organization/office-equipment.md
+m06701	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06702	no	not_durable	quote_only
+m06703	no	not_durable	quote_only
+m06704	yes	kept	domains/industry/research-memberships-2000.md
+m06705	yes	kept	domains/work/outage-risk-option-2001.md people/david-hoog.md people/per-sekse.md
+m06706	yes	kept	domains/organization/hr-matters-2001.md
+m06707	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06708	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06709	yes	kept	domains/organization/hr-matters-2001.md people/anne-labbe.md
+m06710	yes	kept	domains/organization/hr-matters-2001.md people/anne-labbe.md
+m06711	yes	kept	domains/work/vendor-offers-2001.md
+m06712	yes	kept	domains/work/enterprise-risk-management.md
+m06713	no	not_durable	pleasantry
+m06714	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06715	yes	kept	domains/organization/research-group-2001.md
+m06716	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/julie-gomez.md
+m06717	yes	kept	domains/industry/speaking-engagements-2000.md
+m06718	yes	kept	domains/organization/research-group-2001.md
+m06719	yes	kept	domains/work/ees-risk-reviews-jan-2001.md
+m06720	no	not_durable	bulk
+m06721	yes	kept	domains/work/vendor-offers-2001.md
+m06722	no	not_durable	logistics
+m06723	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06724	yes	kept	domains/industry/speaking-engagements-2000.md
+m06725	no	not_durable	empty
+m06726	no	not_durable	quote_only
+m06727	no	not_durable	quote_only
+m06728	yes	kept	domains/personal/correspondence.md
+m06729	yes	kept	domains/personal/correspondence.md
+m06730	yes	kept	domains/industry/garp-2001.md
+m06731	yes	kept	domains/industry/speaking-engagements-2000.md
+m06732	no	not_durable	quote_only
+m06733	no	not_durable	bulk
+m06734	yes	kept	domains/work/p-plus-spread-options-2001.md people/scott-earnest.md
+m06735	yes	kept	domains/work/var-credit-system-2001.md
+m06736	yes	kept	domains/industry/rice-university.md
+m06737	yes	kept	domains/industry/rice-alp-presentation-may-2001.md
+m06738	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06739	yes	kept	domains/work/var-credit-system-2001.md
