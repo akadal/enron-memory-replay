@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-22
+updated: 2001-04-25
 ---
 # People — index
 
@@ -13,6 +13,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ainsley Gaddis
 - Al Arfsten
 - Alan Aronowitz
+- Albert Wang
 - Alex Huang
 - Alexander Eydeland (Alex Eydeland)
 - Alexios Kollaros (Alex Kollaros)
@@ -56,6 +57,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Benjamin Parsons (Ben Parsons)
 - Bernard Murphy
 - Berney Aucoin (Berney C Aucoin, Bernie Aucoin)
+- Bertil Olsson
 - Bessik Matchavariani
 - Beth Miertschin
 - Beth Perlman
@@ -130,6 +132,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Palumbo
 - David Port
 - David Walkup (David C. Walkup)
+- David Warwick
 - Dawn Derr
 - Dawn Scovill
 - Debbie Brackett (Debbie R Brackett)
@@ -163,6 +166,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Eric Gadd
 - Eric Groves
 - Eric Hilton
+- Eric Kirkpatrick
 - Erik Simpson
 - Erin Rice
 - Eugenio Perez
@@ -198,6 +202,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Harry Arora
 - Heather Thorne
 - Hector Campos
+- Helen Demianenko
 - Helen Zhang
 - Helyette Geman
 - Hill Huntington (Hillard G. Huntington)
@@ -310,6 +315,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Laura Starks
 - Leandro Ibasco (Roy Ibasco, Roy)
 - Leann Walton
+- Lee Ferrell
 - Lenos Trigeorgis
 - Leon Lasdon
 - Les Clewlow
@@ -380,6 +386,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mitra Mujica
 - Mohan Gurunath
 - Molly Magee
+- Nalin Kulatilaka
 - Naveen Andrews
 - Neil McGregor
 - Nelson Neale (C. Nelson Neale)

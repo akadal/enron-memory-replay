@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-22
+updated: 2001-04-25
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: ALP outline meeting Tue 24 Apr, presentation Mon 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md; MGMT 656 grades and NFCF dinner Fri 4 May → memory/domains/industry/rice-university.md
-- UT Texas electric market seminar 2 May → memory/domains/industry/events-attending-2000.md; SIAM 27 Apr, SMS panel accepted, KWI undecided → memory/domains/industry/speaking-engagements-2000.md
-- EPRM 2001 Houston 14-15 May: bio due; Lu, Lance, Martin, Sandeep attend → memory/domains/industry/eprm-risk.md; PSERC declined till H2 → memory/domains/industry/declined-invitations-2000.md
-- Stanford: Hansen Fri 4 May, 1:30, Hennessy luncheon? → memory/domains/industry/sponsorship-requests-2001.md
-- Wharton: FAP evaluation due 25 Apr; Business Plan final 30 Apr; Kunreuther waits → memory/domains/industry/wharton-projects-feb-2001.md
+- Rice: projects due 30 Apr, grades to Pam Castro by e-mail by 4 May, NFCF dinner 4 May → memory/domains/industry/rice-university.md; Zingales Fri 27 Apr, 2001-02 speakers asked → memory/domains/industry/rice-finance-seminar-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
+- Owner's roles: SIAM 27 Apr; KWI declined, Sherriff offered; Energy Power slot to Zimin → memory/domains/industry/speaking-engagements-2000.md; EPRM 14-15 May → memory/domains/industry/eprm-risk.md
+- Attending: UT Texas market seminar/short course 2 May (carpool); PIRA 14 and 16 May; Ziff storage 22 Jun → memory/domains/industry/events-attending-2001.md
+- Wharton: Business Plan final 30 Apr; Nezi Marvin's Tiger Team meeting Fri → memory/domains/industry/wharton-projects-feb-2001.md; Risk Center advisory 14 Jun, corn-subsidy project → memory/domains/industry/wharton-risk-center-2001.md
+- Visits: Kulatilaka 17 May; Harvard-NYU trip → memory/domains/industry/visitors-2001.md; UH Energy Institute tour 22 May → memory/domains/industry/uh-econophysics.md
 
 ## Files
 
@@ -46,3 +46,6 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001
+- memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (UT Texas market seminar, PIRA, Ziff storage)
+- memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, Kunreuther, corn-subsidy project idea
+- memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)
