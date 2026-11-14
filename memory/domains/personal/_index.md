@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-01-14
+updated: 2001-01-21
 ---
 # Personal — index
 
@@ -13,7 +13,7 @@ Scope: the owner's private matters that appear in the mail.
 - Walkup: Brown deposit in, private managers suggested (10 Jan); brokers list → memory/domains/personal/investments-2000.md
 - Dentist Jan 25, 7:45; wife Ludmila and son at Stanford → memory/domains/personal/household.md
 - Stock's Woodlands open house; Faiz in NY in January; Zajda drinks → memory/domains/personal/correspondence.md
-- UNO invites him to apply for the Moffett Chair → memory/domains/personal/recruiter-approaches-2000.md
+- Arfsten's blood-system letter to sign; UNO's Moffett Chair → memory/domains/personal/recruiter-approaches-2000.md
 
 ## Files
 

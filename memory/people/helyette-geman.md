@@ -5,7 +5,7 @@ entity: person
 name: "Helyette Geman"
 aliases: []
 domains: [industry, work]
-updated: 2000-04-07
+updated: 2001-01-21
 ---
 # Helyette Geman
 
@@ -21,3 +21,4 @@ Offers energy-option pricing software and workshop teaching (GemanIX@aol.com); t
 
 - [2000-02-14] Owner agreed to co-teach her workshop before ICBI Berlin, 19 Jun; outline approved → memory/domains/industry/speaking-engagements-2000.md ←[[m00607]] ←[[m00609]] ←[[m00610]] ←[[m00645]]
 - [2000-04-03] Asks him to chair a Bachelier session → memory/domains/industry/speaking-engagements-2000.md ←[[m01210]]
+- [2001-01-18] New Year note: how is Enron living through the California events? → memory/domains/industry/california-power-jan-2001.md ←[[m05445]]

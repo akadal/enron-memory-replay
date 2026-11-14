@@ -5,11 +5,11 @@ domain: work
 title: "Research group outreach: talks and Technical Corner"
 summary: "Group and owner talks and Technical Corner: Technical Corner Collection vols I-II and a Kaminski-columns volume for senior management (Jan 2001); Lasdon brown bag Fri 19 Jan; Research Intelligence newsletter; Dec 2000 seminars and older talks archived."
 status: active
-updated: 2001-01-14
+updated: 2001-01-21
 ---
 # Research group outreach: talks and Technical Corner
 
-Detail ←[[research-presentations-2000-04-w15]] … (one archive file per week) ←[[research-presentations-2000-10-w42]] ←[[research-presentations-2000-10-w43]] ←[[research-presentations-2000-11-w45]] ←[[research-presentations-2000-11-w46]] ←[[research-presentations-2000-11-w47]] ←[[research-presentations-2000-12-w49]] ←[[research-presentations-2000-12-w50]] ←[[research-presentations-2001-01-w02]]
+Detail ←[[research-presentations-2000-04-w15]] … (one archive file per week) ←[[research-presentations-2000-10-w42]] ←[[research-presentations-2000-10-w43]] ←[[research-presentations-2000-11-w45]] ←[[research-presentations-2000-11-w46]] ←[[research-presentations-2000-11-w47]] ←[[research-presentations-2000-12-w49]] ←[[research-presentations-2000-12-w50]] ←[[research-presentations-2001-01-w02]] ←[[research-presentations-2001-01-w03]]
 
 ## Research Intelligence / Technical Corner
 
@@ -19,4 +19,4 @@ Detail ←[[research-presentations-2000-04-w15]] … (one archive file per week)
 ## Seminars and brown bags
 
 - [2000-12-05] Brown bag: Tom Halliburton asked Leon Lasdon (UT Austin; nonlinear programming) for Fri 19 Jan; Lu (the brown bags are his and Alex Huang's) says it can be arranged. ←[[m04629]]
-- [2000-12-21] Ben Rogers (3-7998) asks for a copy of the owner's recent power modeling presentation; 3 Jan via Shanbhogue (the volatility talk to traders): "I shall move it through AOL tonight." ←[[m04984]] ←[[m05124]]
+- [2001-01-19] Halliburton's brown bag: Leon Lasdon (UT Austin, author of Excel's nonlinear solver) on nonlinear optimisation, Fri 19 Jan 11:30, 19C2; owner copies it to AOL. ←[[m05441]]

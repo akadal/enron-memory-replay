@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-01-14
+updated: 2001-01-21
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Henwood team in India from 14 Jan, first runs end-Jan → memory/domains/work/india-power-study-henwood.md; Singh talking points → memory/domains/work/dabhol-power-sale.md
-- Credit/VaR system must not fail; Tanya needs code access → memory/domains/work/var-credit-system-2001.md; EAM VaR 17 Jan → memory/domains/work/ees-risk-reviews-jan-2001.md
-- Genco engine recode (Alex, 4 weeks; Berney 16 Jan) → memory/domains/work/genco-plant-model-2001.md; Hanover collar → memory/domains/work/hanover-costless-collar-jan-2001.md
-- Technical Corner volumes to senior management → memory/domains/work/research-presentations.md; TRS overview → memory/domains/work/total-return-swaps-dec-2000.md
-- Paper: 1_11_01 draft, call 13 Jan → memory/domains/work/enron-transformation-paper.md
+- Henwood contract unsigned (Enron India LLC, Tax), DPC to pay → memory/domains/work/india-power-study-henwood.md; DPC idle → memory/domains/work/dabhol-power-sale.md
+- Credit/VaR system must not fail → memory/domains/work/var-credit-system-2001.md; EES credit-model review → memory/domains/work/ees-risk-reviews-jan-2001.md
+- Treasury TRS templates by end-January → memory/domains/work/total-return-swaps-dec-2000.md; Willis CHARM → memory/domains/work/enterprise-risk-management.md
+- Paper: 1_16_01 draft to the editor 22 Jan → memory/domains/work/enron-transformation-paper.md
+- MarketPoint demo meeting Tue 23 Jan → memory/domains/work/vendor-offers-2000.md; Genco recode → memory/domains/work/genco-plant-model-2001.md
 
 ## Files
 
