@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-06
+updated: 2001-06-09
 ---
 # People — index
 
@@ -115,6 +115,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Christian Werner
 - Christie Patrick
 - Cindy Derecskey
+- Cindy Hudler
 - Cindy Justice
 - Claudio Ribeiro
 - Clayton DeGiacinto
@@ -465,6 +466,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paul Bristow
 - Paul Day
 - Paul Johnson
+- Paul Joskow
 - Paul Kleindorfer
 - Paul Mead
 - Paul Quilkey
@@ -525,6 +527,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rick Buy
 - Rishad Patel
 - Rita Hennessy
+- Rita McGrath
 - Rob Bradley
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
 - Robert J. Guadette
@@ -631,6 +634,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tim Luehrman
 - Todd Kimberlain
 - Todd Litton
+- Todd Strauss
 - Tom Arnold
 - Tom Barkley
 - Tom Dutta

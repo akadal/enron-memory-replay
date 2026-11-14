@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-06
+updated: 2001-06-09
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Staff: Kate Lucas leaves 6 Jun; Werner in Houston after 28 Jun; Chilkina's propane talk 7 Jun; CPLEX renewal; futures-account memo (15 Jun) → memory/domains/organization/research-staff-jun-04-2001.md; Avistar charge, IACCGH 16 Jun → memory/domains/organization/research-staff-early-jun-2001.md
-- PRC: Research review Wed 6 Jun, 50th floor; Grigorov, Narongwanich, Pernoud, Walton not rated; specialists as ST → memory/domains/organization/mid-year-prc-2001.md
-- Referrals: hiring paused for space (Qizhi Shen: next Feb; Shriram: Sep); McKinley interview; Mielke → memory/domains/organization/referrals-jun-04-2001.md; earlier → memory/domains/organization/referrals-early-jun-2001.md
-- Company: HPL sold to AEP (Papayoti goes); EnronOnline quotes on Reuters from 4 Jun → memory/domains/organization/corporate-announcements-2001.md
+- Staff: Gibner and Kate Lucas left 6 Jun; reorganization meeting 15 Jun; Raymond's PRC dispute; Labbe's Toastmasters/ESL → memory/domains/organization/research-staff-jun-08-2001.md; futures-account memo (15 Jun) → memory/domains/organization/research-staff-jun-04-2001.md
+- PRC: Research review 6 Jun; specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul → memory/domains/organization/referrals-and-admin-jun-08-2001.md
+- Referrals: Paleologo unsigned (in Italy); Saksena, Mielke; SRM accountant; PG&E ethical wall → memory/domains/organization/referrals-and-admin-jun-08-2001.md; hiring paused for space → memory/domains/organization/referrals-jun-04-2001.md
+- Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
 - Admin: HR → memory/domains/organization/hr-matters-2001.md
 
 ## Files
@@ -61,10 +61,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
 - memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
 - memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
-- memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
-- memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
-- memory/domains/organization/candidate-interviews-may-2001.md — candidates and referrals from 30 Apr 2001
-- memory/domains/organization/candidate-interviews-may-02-2001.md — candidates and referrals from 2 May 2001
+- memory/domains/organization/candidate-interviews-late-apr-2001.md — from 23 Apr 2001
+- memory/domains/organization/candidate-interviews-apr-end-2001.md — from 25 Apr 2001
+- memory/domains/organization/candidate-interviews-may-2001.md — from 30 Apr 2001
+- memory/domains/organization/candidate-interviews-may-02-2001.md — from 2 May 2001
 - memory/domains/organization/summer-interns-may-2001.md — summer interns, May 2001 (Jinbaek Kim, Youseok Son)
 - memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
 - memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
@@ -77,3 +77,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-early-jun-2001.md — candidates from 28 May 2001
 - memory/domains/organization/research-staff-jun-04-2001.md — staff and admin from 4 Jun 2001
 - memory/domains/organization/referrals-jun-04-2001.md — candidates from 4 Jun 2001
+- memory/domains/organization/research-staff-jun-08-2001.md — staff and reorg from 6 Jun 2001
+- memory/domains/organization/referrals-and-admin-jun-08-2001.md — referrals and admin from 6 Jun 2001
