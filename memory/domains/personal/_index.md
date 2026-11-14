@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-04-01
+updated: 2001-04-08
 ---
 # Personal — index
 
@@ -9,10 +9,10 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Datren Williams' wife: owner passes her resume to a principal and a CISD neighbour (31 Mar) → memory/domains/personal/correspondence.md
+- Wife stays with the son in California till June; son graduates this spring → memory/domains/personal/household.md
+- Marek's resume to Eydeland, dinner 14 May; Kohli's dinner invitation → memory/domains/personal/correspondence.md
 - Walkup (ML): taxable money in, IRA pending; Bigalow's picks: MOT and LU bought 19 Mar → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
-- Wife Ludmila; Marysia's address in Poland → memory/domains/personal/household.md
 
 ## Files
 

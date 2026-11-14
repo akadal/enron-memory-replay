@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-01
+updated: 2001-04-08
 ---
 # People — index
 
@@ -14,6 +14,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Al Arfsten
 - Alan Aronowitz
 - Alex Huang
+- Alexander Eydeland (Alex Eydeland)
 - Alexios Kollaros (Alex Kollaros)
 - Alhamd Alkhayat
 - Alla Gil
@@ -105,6 +106,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dale Nesbitt
 - Dale Surbey
 - Damian Goodburn
+- Dan Diamond
 - Darrell Duffie
 - Darren Delage
 - Datren Williams (Datren L. Williams)
@@ -227,6 +229,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jinbaek Kim
 - Joan Payne
 - Joana Ryan Bekerman (Joana Bekerman)
+- Joao Neves
 - Joe Gold
 - Joe Hirko
 - Joe Sutton
@@ -261,6 +264,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karolina Potter
 - Kate Bruges
 - Kate Lucas
+- Kate Szablya
 - Kathie Grabstald
 - Kathy Spradling
 - Katja Schilling
@@ -422,6 +426,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Richard Reichardt
 - Richard Shapiro (Rick Shapiro)
 - Richard Weeks
+- Richard Zdunkewicz (Richard L Zdunkewicz)
 - Rick Bryant
 - Rick Buy
 - Rita Hennessy
@@ -442,6 +447,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rosemary Fitzgerald
 - Ross Prevatt
 - Rudi Zipter
+- Ryan Siurek
 - Sally Beck
 - Sally Gould
 - Samer Takriti
@@ -460,6 +466,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shane Green
 - Sharad Agnihotri
 - Sharon Purswell
+- Shawn Cumberland
 - Sheila Walton
 - Shelly Butler
 - Shelly Jones

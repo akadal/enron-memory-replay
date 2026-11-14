@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-01
+updated: 2001-04-08
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Group: Hector Campos leaves 13 Apr for CMU; Cunningham's PES panel 18 Jul; Astros seats for the group → memory/domains/organization/research-group-2001.md
-- Interns: Rusty Parks (Baylor, Garven) interviews 19 Apr; Jinbaek Kim 4 Jun-4 Aug → memory/domains/organization/summer-interns-2001.md; Candidates: Ren Zhang, Boland, Rajan → memory/domains/organization/candidate-interviews-mar-2001.md
-- London: Danilov leads research; Kirstee Hewitt's London VaR document for comments (31 Mar) → memory/domains/organization/london-research.md
-- Software: IMSL C/C++ bought for VaR optimisation → memory/domains/organization/software-licenses.md; Telerate billed with no known user → memory/domains/organization/office-equipment.md
-- Forced-ranking lawsuits: owner tells Oxley to adjust processes (19 Mar) → memory/domains/organization/officer-performance-review.md
+- Candidates: Neves via Szablya (meets the owner 13 Apr), Focus batch (Ashktorab, Ranjan, Vasudevan), Bhala 28 May → memory/domains/organization/candidate-interviews-apr-2001.md
+- London: Tony Hamilton starts 9 Apr, costs to Global Markets; macroeconomist hire, Maureen back → memory/domains/organization/tony-hamilton-london-2001.md; Jagdeo's PhD, Iris's SFA → memory/domains/organization/london-research.md
+- Group: Campos leaves 13 Apr; Astros 20/27 Apr; Trash Bash → memory/domains/organization/research-group-2001.md
+- Software: SPSS for Iris (reluctantly), free LaTeX → memory/domains/organization/software-licenses.md; Telerate for Sokolov only, Platts → memory/domains/organization/office-equipment.md
+- Expense reports await Whalley; loan documents (Magee) → memory/domains/organization/hr-matters-2001.md
 
 ## Files
 
@@ -57,3 +57,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-mar-2001.md — from 5 Mar 2001
 - memory/domains/organization/hr-matters-2001.md — owner's contract, Sevil Yaman's green card (2001)
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
+- memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
+- memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
