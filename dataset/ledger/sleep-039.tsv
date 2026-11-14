@@ -1,0 +1,107 @@
+id	durable	status	detail
+m02918	yes	kept	domains/organization/office-equipment.md
+m02919	yes	kept	domains/work/research-presentations.md
+m02920	no	not_durable	quote_only
+m02921	yes	kept	domains/work/uk-power-vol-curve.md
+m02922	no	not_durable	logistics
+m02923	yes	kept	domains/work/desk-analysis-requests.md
+m02924	yes	kept	domains/work/university-relations.md
+m02925	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/shelly-butler.md
+m02926	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/jana-giovannini.md
+m02927	no	not_durable	quote_only
+m02928	no	not_durable	automated
+m02929	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/jana-giovannini.md people/li-sun.md
+m02930	yes	kept	domains/work/university-relations.md
+m02931	no	not_durable	pleasantry
+m02932	yes	kept	domains/organization/software-licenses.md
+m02933	yes	kept	domains/industry/eprm-risk.md
+m02934	no	not_durable	bulk
+m02935	no	not_durable	bulk
+m02936	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02937	no	not_durable	logistics
+m02938	no	not_durable	quote_only
+m02939	yes	kept	domains/work/azurix-rab-valuation.md people/michael-anderson.md
+m02940	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/li-sun.md
+m02941	yes	kept	domains/work/azurix-rab-valuation.md people/michael-anderson.md
+m02942	yes	kept	domains/work/eip-distributed-computing.md
+m02943	no	not_durable	logistics
+m02944	yes	kept	domains/work/desk-analysis-requests.md
+m02945	no	not_durable	logistics
+m02946	yes	kept	domains/work/eip-distributed-computing.md
+m02947	yes	kept	domains/work/eip-distributed-computing.md
+m02948	no	not_durable	bulk
+m02949	yes	kept	domains/work/enron-australia-2000.md
+m02950	yes	dropped	other: attachment-only "Recovery Plan" forward to Ted Murphy ("Take a look."), no content
+m02951	yes	kept	domains/industry/research-memberships-2000.md domains/organization/candidate-interviews-aug-2000.md people/jana-giovannini.md people/li-sun.md
+m02952	no	not_durable	pleasantry
+m02953	yes	kept	domains/work/eip-distributed-computing.md
+m02954	yes	kept	domains/organization/mid-year-prc-2000.md
+m02955	yes	kept	domains/industry/research-memberships-2000.md domains/organization/candidate-interviews-aug-2000.md people/li-sun.md
+m02956	no	not_durable	logistics
+m02957	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/jana-giovannini.md people/li-sun.md
+m02958	yes	kept	domains/organization/leave-and-training.md
+m02959	yes	kept	domains/work/erms-option-precision.md
+m02960	yes	kept	domains/organization/candidate-interviews-aug-2000.md people/jana-giovannini.md people/li-sun.md people/shelly-butler.md
+m02961	yes	kept	domains/work/azurix-rab-valuation.md
+m02962	yes	kept	domains/work/erms-option-precision.md
+m02963	yes	kept	domains/organization/mid-year-prc-2000.md
+m02964	yes	kept	domains/work/desk-analysis-requests.md
+m02965	yes	kept	domains/organization/corporate-announcements-2000.md
+m02966	yes	kept	domains/work/campus-recruiting-fall-2000.md people/shmuel-oren.md
+m02967	yes	kept	domains/work/desk-analysis-requests.md
+m02968	yes	kept	domains/organization/research-group.md
+m02969	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m02970	yes	kept	domains/work/campus-recruiting-fall-2000.md people/kristin-gandy.md
+m02971	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m02972	yes	kept	domains/personal/household.md domains/work/university-relations.md
+m02973	yes	kept	domains/work/university-relations.md
+m02974	yes	kept	domains/work/enron-australia-2000.md
+m02975	yes	kept	domains/work/enron-australia-2000.md
+m02976	yes	kept	domains/work/azurix-rab-valuation.md people/michael-anderson.md
+m02977	no	not_durable	logistics
+m02978	yes	kept	domains/work/azurix-rab-valuation.md people/michael-anderson.md
+m02979	yes	kept	domains/work/campus-recruiting-fall-2000.md people/shmuel-oren.md
+m02980	yes	kept	domains/work/azurix-rab-valuation.md people/michael-anderson.md
+m02981	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m02982	yes	kept	domains/work/henwood-emss-query.md people/michael-schilmoeller.md
+m02983	yes	dropped	no_owner_content: Krishnarao forwards EES/IBM risk-management IT workshop notes FYI
+m02984	yes	kept	domains/work/research-web-content-2000.md
+m02985	no	not_durable	quote_only
+m02986	yes	kept	domains/industry/events-attending-2000.md
+m02987	yes	kept	domains/work/henwood-emss-query.md
+m02988	yes	kept	domains/work/campus-recruiting-fall-2000.md people/shmuel-oren.md
+m02989	yes	kept	domains/organization/london-research.md
+m02990	yes	kept	domains/organization/london-research.md
+m02991	yes	kept	domains/work/cost-of-capital-2000.md
+m02992	yes	kept	domains/work/var-backtesting-2000.md
+m02993	yes	kept	domains/personal/correspondence.md
+m02994	yes	dropped	logistics: online order confirmation for a book (Bouchaud), forwarded to AOL
+m02995	yes	kept	domains/work/storage-model.md
+m02996	yes	kept	domains/work/eip-distributed-computing.md
+m02997	yes	kept	domains/work/uk-power-vol-curve.md
+m02998	yes	kept	domains/organization/london-research.md
+m02999	yes	kept	domains/organization/london-research.md
+m03000	yes	dropped	social: John Tollefsen leaves Enron; owner: stay in touch
+m03001	yes	kept	domains/work/campus-recruiting-fall-2000.md people/kristin-gandy.md
+m03002	no	not_durable	quote_only
+m03003	yes	kept	domains/work/ut-austin-ties-2000.md
+m03004	yes	kept	domains/organization/london-research.md
+m03005	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03006	yes	kept	domains/work/ut-austin-ties-2000.md
+m03007	yes	kept	domains/work/henwood-emss-query.md people/michael-schilmoeller.md
+m03008	yes	kept	domains/industry/speaking-engagements-2000.md
+m03009	no	not_durable	pleasantry
+m03010	yes	kept	domains/work/henwood-emss-query.md people/michael-schilmoeller.md
+m03011	yes	kept	domains/work/value-research-lab.md
+m03012	no	not_durable	logistics
+m03013	yes	kept	domains/industry/eprm-risk.md
+m03014	yes	kept	domains/organization/research-group.md
+m03015	no	not_durable	quote_only
+m03016	yes	kept	domains/work/campus-recruiting-fall-2000.md people/kristin-gandy.md
+m03017	yes	kept	domains/organization/research-accounting-2000.md
+m03018	no	not_durable	quote_only
+m03019	no	not_durable	empty
+m03020	yes	kept	domains/work/campus-recruiting-fall-2000.md people/kristin-gandy.md
+m03021	yes	kept	domains/organization/research-group.md
+m03022	yes	kept	domains/organization/candidate-referrals-2000.md
+m03023	yes	kept	domains/work/campus-recruiting-fall-2000.md
