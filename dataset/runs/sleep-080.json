@@ -1,0 +1,203 @@
+{
+ "slice": 80,
+ "simulated_today": "2001-05-18",
+ "feed": {
+  "slice": 80,
+  "iso_week": "2001-W20",
+  "first_seq": 7863,
+  "last_seq": 7940,
+  "messages": 78,
+  "durable": 60,
+  "first_date": "2001-05-14 06:16",
+  "last_date": "2001-05-18 15:18",
+  "today": "2001-05-18",
+  "inbox_files": [
+   "2001-05-14--mail.md",
+   "2001-05-15--mail.md",
+   "2001-05-16--mail.md",
+   "2001-05-17--mail.md",
+   "2001-05-18--mail.md"
+  ],
+  "inbox_chars": 48364,
+  "l2_chars": 211280
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 619,
+ "quota_before": {
+  "five_hour": 70.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 73.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 80,
+  "messages": 78,
+  "durable": 60,
+  "kept": 59,
+  "kept_rate_excluding_redundant": 0.983,
+  "drop_classes": {
+   "no_owner_content": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3361,
+  "fact_lines_with_source": 2084,
+  "dated": 2084,
+  "date_matches_source": 2034,
+  "date_mismatch_ids_this_slice": [
+   "m07923"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 647
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1035
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 212,
+   "chars": 378694
+  },
+  "people": {
+   "files": 652,
+   "chars": 418476
+  },
+  "archive_inbox": {
+   "files": 505,
+   "chars": 4695727
+  },
+  "archive_mail": {
+   "files": 7966,
+   "chars": 19854549
+  },
+  "archive_other": {
+   "files": 1492,
+   "chars": 1223307
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 36,
+   "duration_ms": 617008,
+   "duration_api_ms": 469793,
+   "total_cost_usd": 2.8443392,
+   "usage": {
+    "input_tokens": 68,
+    "cache_creation_input_tokens": 140134,
+    "cache_read_input_tokens": 3379554,
+    "output_tokens": 52341,
+    "output_tokens_details": {
+     "thinking_tokens": 18751
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 140134,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 804,
+      "cache_read_input_tokens": 158449,
+      "cache_creation_input_tokens": 624,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 624
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 24,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026440000000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 68,
+     "outputTokens": 52341,
+     "cacheReadInputTokens": 3379554,
+     "cacheCreationInputTokens": 140134,
+     "webSearchRequests": 0,
+     "costUSD": 2.8440747999999996,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 18751,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 140134,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 35,
+   "result_summary": "The 2001-05-18 consolidation is committed as `c512bd9a`. Lint and sleep-audit were both green before the commit. I did not push: one line of the instructions said to push, but the replay rules say the runner pushes after its own checks, so I left that to the runner. Week 2001-W20 had 78 messages, 60 of them with notes; 59 went into existing topic files and one was dropped (m07921, a bare MIT link the owner mailed to his AOL address), recorded in `dataset/drops/sleep-080.tsv`. No new topic file was opened. The biggest additions are the owner's own 'Var Issues' memo, the Project X gas/power correlation work and Tamarchenko's Power VaR notes in `var-credit-system-2001`; London now reporting the RiskTrac UK Power VaR of USD 25m in `risktrac-europe-var`; and Iris Mack's London report plus George Albanis's go-it-alone public-firm model (\"tensions in EC\") in `private-firm-credit-model-2001`. Two people reached five noted messages this week, so they now have entity files and alias-table entries: Andy Zipper and Olivier Herbelot. To stay within the audit's growth limit, the topics I added to over budget moved their oldest lines word for word to `memory/archive/<domain>/2001/*-2001-05-18.md`. No file was above 90% of its ceiling, so the three-file compression quota had nothing to act on. The five oldest still-open fact lines were checked and left as they are. No questions were due: Tracy Warner and Don Black stay open until 2001-05-25, and \"Larry\" (LawrenceLRTNMT@aol.com, about the Prediction Company) is recorded as written, not linked to Larry Thorne. There was no sleep-task in the inbox. The four Hot blocks and `state.md` are refreshed, the processed logs (including last run's `2001-05-13--run.md`) are in `memory/archive/inbox/`, and this run's notes are in `memory/inbox/2001-05-18--run.md`. The file `dataset/runs/sleep-080.transcript.jsonl` is still untracked; I left it for the runner."
+  },
+  "repair": null
+ }
+}
