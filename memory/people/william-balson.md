@@ -5,7 +5,7 @@ entity: person
 name: "William Balson"
 aliases: [Bill Balson]
 domains: [industry, personal]
-updated: 2001-06-06
+updated: 2001-06-15
 ---
 # William Balson
 
@@ -18,3 +18,4 @@ William (Bill) Balson of Opt4 Derivatives, Inc. (wbalson@opt4.com), a small fina
 ## Context: personal
 
 - [2001-06-04] Opt4 Java openings for the owner's son → memory/domains/personal/household.md ←[[m08253]] ←[[m08256]]
+- [2001-06-15] IBM Almaden lead (Steven Hetzler) for the owner's son → memory/domains/personal/household.md ←[[m08538]]

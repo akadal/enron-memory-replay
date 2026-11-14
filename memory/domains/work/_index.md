@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit and risk: Iris's plan awaits comments → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Parsons's CDS placement-model recalibration wants Research ideas (8 Jun) → memory/domains/work/credit-markets.md; Tamarchenko-Bharati 'Convolution VAR' paper to review → memory/domains/work/var-credit-system-2001.md
-- VaR: Port's factor-loading process, joint gas-power factors week of 11 Jun → memory/domains/work/project-x-var-2001.md; Sekse's hedge sign-off → memory/domains/work/outage-risk-option-2001.md
-- Bid-ask: Bob Lee's market-maker series Fri 15 Jun, intern Kim's notes sent to Whalley, EOL pricing update to Zipper and Webb → memory/domains/work/eol-trading-algorithms-2001.md; Lu proposes one storage product with Halliburton → memory/domains/work/storage-model.md
-- Weather and transmission: Adam starts 25 Jun, Werner in Houston 1-7 Jul → memory/domains/work/weather-research-2001.md; Neptune: Presto likes it, Cunningham's undersea project with Coffer → memory/domains/work/transmission-modelling-2001.md
-- Meetings: DSM trading model Mon 18 Jun → memory/domains/work/internal-meetings-2001.md; Sparks 19 Jun pending Gary → memory/domains/work/vendor-offers-2001.md; Prediction Company call, Berkeley course query → memory/domains/work/outside-requests-2001.md
+- Risk policy: Schultz's draft one-RAC Risk Management Policy, comments by end of week, executive rounds from late June → memory/domains/work/enterprise-risk-management.md
+- Credit: Iris's econometric methods for the private firm problem, Frantzeskakis to write them up → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Parsons's CDS placement models → memory/domains/work/credit-markets.md; 'Convolution VAR' paper to review → memory/domains/work/var-credit-system-2001.md
+- Vendors: Sparks 19 Jun pending Gary; Algorithmics follow-up in Houston; Henwood's Market Stack talk early July → memory/domains/work/vendor-offers-2001.md
+- Bid-ask and storage: Bob Lee's market-maker series → memory/domains/work/eol-trading-algorithms-2001.md; Lu's storage product with Halliburton → memory/domains/work/storage-model.md; Port's factor loadings → memory/domains/work/project-x-var-2001.md
+- Meetings: DSM trading model Mon 18 Jun → memory/domains/work/internal-meetings-2001.md; Zimmerman's COM overview Tue 19 Jun → memory/domains/work/research-presentations.md; Adam starts 25 Jun → memory/domains/work/weather-research-2001.md
 
 ## Files
 

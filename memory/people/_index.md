@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # People — index
 
@@ -187,6 +187,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Eric Groves
 - Eric Hilton
 - Eric Kirkpatrick
+- Eric Toolson
 - Eric van Stone (Eric Van Stone)
 - Erik Simpson
 - Erin Rice

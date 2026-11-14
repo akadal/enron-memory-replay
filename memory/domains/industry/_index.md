@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Wharton: owner there Thu 14 Jun with Kunreuther; joint project with Hrgovcic, Tawney, Ribeiro → memory/domains/industry/wharton-risk-center-2001.md
-- Speaking: Risk 2001 Boston (Balson dinner Mon); IQPC London 23-24 Oct, answer by 14 Jun; INFOCAST gas volatility, Houston 10 Oct, accepted; SMS SFO 21-24 Oct, fees; Baylor 27 Jul → memory/domains/industry/speaking-engagements-2000.md
-- Sponsorship: IACC gala 16 Jun, $3,500 table, seats to fill; Stanford EMF 21-22 Jun with Krishna → memory/domains/industry/sponsorship-requests-2001.md
+- Speaking: IQPC London 23-24 Oct, confirm by Tue 19 Jun; ICBI Gas & PoweRisk Paris 6-9 Nov, confirmed, paper by 12 Oct; INFOCAST Houston 10 Oct; SMS SFO 21-24 Oct; Baylor 27 Jul → memory/domains/industry/speaking-engagements-2000.md
+- Stanford EMF 21-22 Jun: owner attends, declines chairing a session; IACC gala 16 Jun, $3,500 table → memory/domains/industry/sponsorship-requests-2001.md
+- Events: ERisk iConference, Crenshaw registers him; Ziff gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
+- Wharton Risk Center: joint project with Hrgovcic, Tawney, Ribeiro → memory/domains/industry/wharton-risk-center-2001.md
 - California: MOU bill SB 78XX lacks votes, CPUC delays the QF 15% payment → memory/domains/industry/california-power-jan-2001.md
-- Visitors: Norsk Hydro (7 Jun) very satisfied → memory/domains/industry/visitors-2001.md
 
 ## Files
 
@@ -35,7 +35,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Rutgers dinner talk 23 May 2001, SIAM at UH Apr 2001, SMS Oct 2001
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris Nov 2001
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona (class declined), Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'

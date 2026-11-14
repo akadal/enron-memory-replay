@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Personal — index
 
@@ -9,8 +9,8 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Son graduates 16 Jun; Bill Balson's Opt4 Java openings → memory/domains/personal/household.md
-- Pokalsky's 1996 Power Risk issue, answer by Fri 8 Jun; Karasinski, owner in London end of June → memory/domains/personal/correspondence.md
+- Son graduates 16 Jun; Balson's IBM Almaden lead (Hetzler) forwarded to the son → memory/domains/personal/household.md
+- Pokalsky's 1996 Power Risk issue; Karasinski, owner in London end of June → memory/domains/personal/correspondence.md
 - Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
 
 ## Files

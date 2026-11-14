@@ -3,9 +3,9 @@ id: research-presentations
 type: topic
 domain: work
 title: "Research group outreach: talks and Technical Corner"
-summary: "Talks and Technical Corner: Research Intelligence newsletter; Parkhill's next Technical Corner article for approval (8 Jun 2001); Brown Bag on Option Pricing, PJM Bid Profiler demo Fri 8 Jun; Chilkina's 'Propane Fundamentals' Thu 7 Jun; Grigorov's decision-bias proposal and older talks archived."
+summary: "Talks and Technical Corner: Research Intelligence newsletter; Parkhill's next Technical Corner article for approval (8 Jun 2001); Brown Bag on Option Pricing, PJM Bid Profiler demo Fri 8 Jun; Chilkina's 'Propane Fundamentals' Thu 7 Jun; Zimmerman's COM overview Tue 19 Jun (15 Jun 2001); Grigorov's decision-bias proposal and older talks archived."
 status: active
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Research group outreach: talks and Technical Corner
 
@@ -22,3 +22,4 @@ Detail ←[[research-presentations-2000-04-w15]] … (one archive file per week)
 - [2001-06-06] Alex Huang and Zimin's Brown Bag Lunch on Option Pricing, Fri 8 Jun noon, 19C2: Sevil demos the PJM Bid Profiler (Delphi and Perl), which North East traders use for unit-specific bids in the PJM and NePool auctions. ←[[m08402]]
 - [2001-06-05] Anita DuPont: Elena Chilkina presents "Propane Fundamentals" at the Research Group staff meeting, Thu 7 Jun. ←[[m08322]]
 - [2001-06-08] Sam (William Smith) asks the owner to approve Ken Parkhill's next Technical Corner article (Bob Lee reviewed it, suggests it for RI); Parkhill's last for a while; owner copies it to AOL. ←[[m08489]] ←[[m08490]]
+- [2001-06-15] Anita DuPont (for Krishna): Dayne Zimmerman presents "A Brief Overview of COM", Tue 19 Jun 2 pm, EB 19C2; owner to Crenshaw: "Please add to my calendar." ←[[m08552]]

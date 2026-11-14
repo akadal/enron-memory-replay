@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-09
+updated: 2001-06-15
 ---
 # Organization — index
 
@@ -10,10 +10,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 ## Hot
 
 - Reorganization: the owner's Research reorg meeting Fri 15 Jun after Gibner's exit; Lu's proposal → memory/domains/organization/research-group.md
-- PRC: Research mid-year PRC held 6 Jun (Raymond disputes the owner's comments: memory/domains/work/ken-lay-speech-tax-cut.md); Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md
-- Hiring suspended (no space); Paleologo's offer unsigned, owner calls him; Mielke, Saksena → memory/domains/organization/recruiting-candidates.md; Gibner and Kate Lucas left 6 Jun → memory/domains/organization/staff-and-recruiting.md
-- HR: Labbe's Toastmasters and ESL/communication programme for Research → memory/domains/organization/research-group-2001.md
-- Compliance: PG&E creditors'-committee ethical-wall certification; NYMEX futures accounts to Tana Jones by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
+- PRC: Specialized Technical VP PRC Wed 18 Jul → memory/domains/organization/officer-performance-review.md; Raymond disputes the owner's comments → memory/domains/work/ken-lay-speech-tax-cut.md
+- Hiring suspended (no space); Paleologo's offer unsigned → memory/domains/organization/recruiting-candidates.md; University of Alberta Energy MBA offer recommended to Billy Lemmons → memory/domains/organization/summer-interns-2001.md
+- Compliance: protest procedures sent to the owner's direct reports; PG&E ethical-wall certification; NYMEX accounts by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
+- Farewells and events: Lou Casari's farewell Wed 20 Jun at Ninfa's; Star Wars Event → memory/domains/organization/group-events-2000.md
 
 ## Files
 
@@ -30,7 +30,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
-- memory/domains/organization/group-events-2000.md — parties, gatherings
+- memory/domains/organization/group-events-2000.md — parties, gatherings, farewells
 - memory/domains/organization/leave-and-training.md — leave and courses
 - memory/domains/organization/legal-matters.md — Cuneo case (Jan 2000)
 - memory/domains/organization/london-research.md — London Research (Leppard)
