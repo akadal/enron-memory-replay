@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-07-21
+updated: 2001-07-26
 ---
 # Industry — index
 
@@ -9,9 +9,9 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: SMS SFO 21-24 Oct, owner pays only the trip; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
+- Speaking: Baylor EMBA class (John D. Martin) in Dallas Fri 27 Jul; SMS SFO 21-24 Oct; INFOCAST Houston 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-9 Nov, paper by 12 Oct → memory/domains/industry/speaking-engagements-2000.md
 - RISK: owner referees a swing option paper for Risk Magazine, report due 14 Aug; Zimin Lu's Risk Training Class; Glen Dixon at Risk 2001 Sydney 20-22 Aug → memory/domains/industry/eprm-risk.md
-- Visit: Toshiba's Dr. Uenohara (Boltzmann model) in Houston 31 Jul-4 Aug, Kohli organises → memory/domains/industry/visitors-2001.md
+- Visit: Toshiba's Dr. Uenohara (Boltzmann model) meets Kohli, Brady and the owner 31 Jul 10 am, lunch offered → memory/domains/industry/visitors-2001.md; UH's Praveen Kumar and Dean Warga 3 Aug → memory/domains/industry/uh-econophysics.md; McCormack on the Cato California paper → memory/domains/industry/california-power-jan-2001.md
 - Events: EPIS 12-14 Sep, owner plans to attend; PSERC advisory board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 - Rice: energy derivatives course, Lacima's book the text → memory/domains/industry/rice-energy-derivatives-course.md; Darden weather case → memory/domains/industry/weather-insurance-markets.md; Garven: Baylor seminar fall 2001 → memory/people/jim-garven.md; Wharton Tiger Team 2001-02 → memory/domains/industry/wharton-projects-feb-2001.md
 
@@ -35,8 +35,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris Nov 2001
-- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table)
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: Baylor EMBA Jul 2001, SMS and IQPC Oct 2001, ICBI Paris Nov 2001
+- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga visit Aug 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona (class declined), Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings

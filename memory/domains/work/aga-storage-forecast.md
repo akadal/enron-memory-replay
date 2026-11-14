@@ -2,20 +2,18 @@
 id: aga-storage-forecast
 type: topic
 domain: work
-title: "Zimin Lu's AGA storage forecasts (2000)"
-summary: "Zimin Lu's weekly forecast of the AGA gas storage number for Mike Roberts: Seasonal Holt-Winter and ARIMAX; 42 for 21 Jul vs Mike's 61 (Jul 2000); John Herbert's storage article (Aug 2000) and his Alliance Pipeline reprint (Dec 2000)."
+title: "AGA storage and gas demand forecasts"
+summary: "Gas storage and demand forecasting: Zimin Lu's AGA forecasts for Mike Roberts, 42 for 21 Jul vs Mike's 61 (Jul 2000); Herbert's storage article (Aug 2000); Laura Luce's summer associate Jose Molina on supply/demand curves, lunch with Roberts (23 Jul 2001); early refits and the Alliance reprint archived."
 status: active
-updated: 2001-01-27
+updated: 2001-07-26
 ---
-# Zimin Lu's AGA storage forecasts (2000)
+# AGA storage and gas demand forecasts
 
-Detail ←[[aga-storage-forecast-2000-12-w49]]
+Detail ←[[aga-storage-forecast-2000-12-w49]] ←[[aga-storage-forecast-2001-07-26]]
 
 Other desk analyses: memory/domains/work/desk-analysis-requests.md.
 
-- [2000-06-28] Refit with last week's data: 65 for the week of 6/23 (3 lower); it came in at 73. For 30 Jun: 66 from a Seasonal Holt-Winter model; he fits an ARIMAX model (forward curves later) and asks Mike Roberts for weighted temperatures (east, west, production areas): AGA is a market mover (cc owner, Gibner, Vernon). ←[[m02154]] ←[[m02156]]
-- [2000-07-06] 68 for the week ending 7 Jul; for 30 Jun the model said 66, actual 69; Lu asks Mike Roberts where to get temperature data to add as explanatory variables. ←[[m02255]]
 - [2000-07-25] For 21 Jul: 42 from Lu's time-series model vs Mike's 61 (last year 41 and 26: the curve slopes down sharply); the owner forwards it to Mike Roberts. ←[[m02480]] ←[[m02490]]
 - [2000-08-04] John H Herbert's fee article on gas storage numbers (ts.pdf); owner to Mike Roberts: "Very interesting."; 8 Aug to Herbert: "It's very interesting." ←[[m02685]] ←[[m02741]]
-- [2000-12-04] Herbert's 'Alliance Gas Pipeline: Early, Late, or Just in Time?' (Public Utilities Fortnightly, 15 Nov 2000; five figures, market issues beyond Alliance): the owner asks for a reprint to Enron Corp., 1400 Smith, Room EB 1962, Houston, TX 77002. ←[[m04605]] ←[[m04606]]
 - [2001-01-23] Thanks Herbert for his demand price elasticity excerpts: "I shall call you during the next few days." ←[[m05504]]
+- [2001-07-23] Laura Luce (Gas Fundamentals) asks help for summer associate Jose Molina on a gas supply/demand curve: "We can definitely help Jose."; the group's daily gas demand projections (state, customer class) forecast AGA storage with a very good track record; "Getting the supply curve at a specific location is more difficult"; 7-8 summer associates a year, kept off critical information: "My concern is that summer associates are not fully committed to Enron."; Luce wants theory only; Crenshaw sets a sandwich lunch with Mike Roberts, the owner and Molina. ←[[m08745]] ←[[m08751]] ←[[m08752]]

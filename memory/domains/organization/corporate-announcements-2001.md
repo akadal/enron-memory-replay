@@ -3,14 +3,14 @@ id: corporate-announcements-2001
 type: topic
 domain: organization
 title: "Company-wide announcements and systems, 2001"
-summary: "Enron-wide news in 2001: Enron on PG&E's creditors' committee, ethical wall certification (7 Jun 2001); protest procedures for Enron facilities, sent to the owner's direct reports (15 Jun 2001); new expense report system from early July, owner's SAP number (27 Jun 2001); EnTouch seminars, NYMEX position-limit filing, EOL's millionth trade and older items archived."
+summary: "Enron-wide news in 2001: new expense report system, owner's SAP number (27 Jun 2001); United Way Tocqueville breakfast 31 Jul, owner attends (23 Jul 2001); EA approval threshold for employee events cut to $500 (26 Jul 2001); PG&E ethical wall, protest procedures and older items archived."
 status: active
-updated: 2001-06-29
+updated: 2001-07-26
 ---
 # Company-wide announcements and systems, 2001
 
-Detail ←[[corporate-announcements-2001-2001-04-w17]] ←[[corporate-announcements-2001-2001-05-w18]] ←[[corporate-announcements-2001-2001-05-06]] ←[[corporate-announcements-2001-2001-05-13]] ←[[corporate-announcements-2001-2001-06-03]] ←[[corporate-announcements-2001-2001-06-06]] ←[[corporate-announcements-2001-2001-06-09]] ←[[corporate-announcements-2001-2001-06-15]] ←[[corporate-announcements-2001-2001-06-29]]
+Detail ←[[corporate-announcements-2001-2001-04-w17]] … (one archive file per week) ←[[corporate-announcements-2001-2001-06-29]] ←[[corporate-announcements-2001-2001-07-26]]
 
-- [2001-06-07] Compliance (Donna Lowry): Enron sits on PG&E's Official Unsecured Creditors' Committee, represented by Michael Tribolet (RAC) with Lisa Mellencamp (ENA Legal), both restricted; recipients incl. the owner read the PG&E Ethical Wall Procedures and return the signed certification. ←[[m08465]]
-- [2001-06-15] Mark Palmer (VP Corporate Communications), 14 Jun: security and PR procedures for protests at U.S. Enron facilities (protests at various offices in recent months, mainly consumer and advocacy groups); the owner to Crenshaw: "Please, distribute to my direct reports." ←[[m08540]]
 - [2001-06-27] A new expense report system starts the week after 27 Jun (reports not sent by then are redone); owner approves Mitra's report once Crenshaw gives him his SAP number (P00503778). ←[[m08634]] ←[[m08636]]
+- [2001-07-23] United Way leadership campaign 'Building Houston's Future', 23 Jul-3 Aug (Lay and Skilling: $2.8M last year, 21% over goal, 49 Tocqueville members, most in Houston; $10,000+ pledges); owner: "I shall attend the Alexis de Tocqueville Breakfast on Tuesday, July 31 from 7:30 a.m. - 9 a.m." ←[[m08761]] ←[[m08762]]
+- [2001-07-26] EA Office of the Chairman: employee events over $500 (customer events over $5,000) need EA Public Relations review and Chairman approval before any commitment; PR (Dorie Hitchcock) handles sites and hotel contracts. ←[[m08793]]

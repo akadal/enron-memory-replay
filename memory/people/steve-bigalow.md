@@ -4,8 +4,8 @@ type: entity
 entity: person
 name: "Steve Bigalow"
 aliases: []
-domains: [personal, work]
-updated: 2001-06-03
+domains: [personal, work, industry]
+updated: 2001-07-26
 ---
 # Steve Bigalow
 
@@ -19,3 +19,7 @@ On the Research distribution list; QC of the site's Technical Analysis section; 
 
 - [2001-01-09] Technical Analysis QC → memory/domains/work/research-web-content-2000.md ←[[m05229]]
 - [2001-05-31] Still issues his candlestick gas reports as 'ENRON RESEARCH'; owner to Mike Roberts: "Steve is still producing his numbers under the Research Group logo."; Roberts has sent him another notice. ←[[m08073]] ←[[m08074]]
+
+## Context: industry
+
+- [2001-07-26] Owner agrees to endorse his Wiley book; may teach investments at UH → memory/domains/industry/uh-econophysics.md ←[[m08792]]

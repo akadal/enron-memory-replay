@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-07-21
+updated: 2001-07-26
 ---
 # Personal — index
 
@@ -10,7 +10,7 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Family moving back to Houston from California; owner flew to San Francisco Thu 19 Jul (CO 1566), driving back over three days → memory/domains/personal/california-trip-jul-2001.md; Warsaw trip 4-9 Jul → memory/domains/personal/poland-trip-jul-2001.md
-- London dinner with Musiela and Karasinski; Pokalsky, Bibi to Putnam → memory/domains/personal/correspondence.md
+- 'Italian only' lunch with Gina Corteselli 31 Jul; London dinner with Musiela and Karasinski → memory/domains/personal/correspondence.md
 - Son: Thorne's patent advice, Balson's IBM Almaden lead → memory/domains/personal/household.md
 - Bigalow: owner asks about P, TX, DVN → memory/domains/personal/investments-2000.md
 

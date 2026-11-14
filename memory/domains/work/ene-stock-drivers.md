@@ -3,14 +3,14 @@ id: ene-stock-drivers
 type: topic
 domain: work
 title: "Enron (ENE) stock: drivers and employee options"
-summary: "ENE stock: short-selling vs exercising employee options, taxes make it a bad decision (Jul 2000); Fortune's 'Is Enron Overpriced?' (Feb 2001); Stern Stewart's McCormack wants the owner's endorsement to pitch the COV/FGV value framework to Andy Fastow (25 May 2001); Tang's regression study archived."
+summary: "ENE stock: Fortune's 'Is Enron Overpriced?' (Feb 2001); McCormack's COV/FGV framework for Fastow (25 May 2001); SSB's Power Curve 6 cuts long-power names, ENE still a top pick (25 Jul 2001); short-selling vs employee options and Tang's regressions archived."
 status: active
-updated: 2001-05-26
+updated: 2001-07-26
 ---
 # Regressions on the drivers of Enron (ENE) stock
 
-Detail ←[[ene-stock-drivers-2001-05-26]]
+Detail ←[[ene-stock-drivers-2001-05-26]] ←[[ene-stock-drivers-2001-07-26]]
 
-- [2000-07-11] Supatgiat's article (short-selling ENE beats exercising employee options), dropped after the owner's reply: "short-selling the stock may be a bad decision because of tax implications (ignoring the legal aspects).", "You can use only $3,000 of your loss against ordinary income."; option valuation and exercise "is a very interesting and difficult problem."; "There are many interesting papers on executive stock options." ←[[m02327]] ←[[m02341]]
 - [2001-02-26] Li Sun (EBS, recently started working for the owner) sends Bethany McLean's Fortune piece "Is Enron Overpriced?" (5 Mar issue: ~55x trailing earnings, impenetrable financials; Enron tells analysts $126 a share, $40 of it broadband): it reflects what the owner has been worried about; she offers help on the Tiger Team; owner copies it to AOL. ←[[m05968]]
 - [2001-05-25] John McCormack (Stern Stewart; Mark Palmer's idea) wants to present the COV/FGV (current operations vs future growth value) framework to Andy Fastow and asks the owner to tell Fastow investors would find it logical; Melissa Jose would then book it, owner to attend; they still mean to co-write an article. ←[[m08018]]
+- [2001-07-25] Eric Scott forwards SSB's 'Power Curve 6' (Raymond Niles, 24 Jul), one reason for ENE's decline: June power $50.21/MWh vs $83.25, spark spread $23.77 vs $56.93, the first y/y falls; forward $73.44 (2001), $41.72, $36.81 (2003), bottom in 2003 on ~45,000 MW added in 2001; generators ~85/60/40% hedged 2001-03; ENE and DYN top picks, ENE 1H, target $75, EPS $1.80/$2.15. ←[[m08783]]

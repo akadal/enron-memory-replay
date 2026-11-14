@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-07-21
+updated: 2001-07-26
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Group: Debra (Rice) retained for a 20-person course in October; Labbe's ESL and PRC training → memory/domains/organization/research-group-2001.md; O:\Research access review → memory/domains/organization/office-equipment.md
-- Candidates: Thuraisingham's Sen to a phone interview; Bobby Demissie rejected → memory/domains/organization/recruiting-candidates.md; Christian Werner (Sydney) wants Houston, Quilkey's release needed → memory/domains/organization/staff-and-recruiting.md; interns, Mattoo → memory/domains/organization/summer-interns-2001.md
+- Group: Debra (Rice) course in October; Labbe's ESL and PRC training; Houmin Yan talk 30 Jul → memory/domains/organization/research-group-2001.md; O:\Research access review → memory/domains/organization/office-equipment.md
+- Candidates: Sen-Hao Lai phone interview; Alex Yu part-time weather → memory/domains/organization/recruiting-candidates.md; Christian Werner (Sydney) wants Houston, call with Quilkey; Kyle Berryman → memory/domains/organization/staff-and-recruiting.md; intern review 2 Aug, offers for Rusty and Frantzeskakis → memory/domains/organization/summer-interns-2001.md
 - PRC: Specialized Technical VP PRC 18 Jul → memory/domains/organization/officer-performance-review.md; Krishna's in-laws' visas, Matson's MD survey → memory/domains/organization/hr-matters-2001.md
-- Changes at EBS: an EWS unit, Portland closes by 1 Oct → memory/domains/organization/ena-reorganization.md; Raymond away 23-27 Jul, World Bank-IMF 28 Sep-1 Oct → memory/domains/organization/leave-and-training.md; Damslora's SDDP course ask → memory/domains/organization/london-research.md
-- Systems: new expense report system, protest procedures → memory/domains/organization/corporate-announcements-2001.md; FEA @GLOBAL 5.0 → memory/domains/organization/software-licenses.md; reorganization after Gibner's exit → memory/domains/organization/research-group.md
+- Changes at EBS: an EWS unit, Portland closes by 1 Oct → memory/domains/organization/ena-reorganization.md; Raymond away 23-27 Jul, World Bank-IMF 28 Sep-1 Oct → memory/domains/organization/leave-and-training.md; Damslora got the books → memory/domains/organization/london-research.md
+- Systems: United Way Tocqueville breakfast 31 Jul; employee events over $500 need EA approval → memory/domains/organization/corporate-announcements-2001.md; FEA @GLOBAL 5.0 → memory/domains/organization/software-licenses.md; reorganization after Gibner's exit → memory/domains/organization/research-group.md
 
 ## Files
 

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-07-21
+updated: 2001-07-26
 ---
 # People — index
 
@@ -288,6 +288,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joana Ryan Bekerman (Joana Bekerman)
 - Joanna Vidal
 - Joao Neves
+- Joe Deffner
 - Joe Gold
 - Joe Hirko
 - Joe Sutton
