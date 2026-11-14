@@ -1,0 +1,113 @@
+id	durable	status	detail
+m04191	yes	kept	domains/work/outside-requests.md
+m04192	yes	dropped	logistics: FYI forward of a CERA conference-call notice to Mike Roberts
+m04193	no	not_durable	bulk
+m04194	no	not_durable	quote_only
+m04195	yes	kept	domains/organization/leave-and-training.md
+m04196	no	not_durable	bulk
+m04197	yes	kept	domains/organization/candidate-referrals-2000.md
+m04198	yes	kept	domains/organization/research-group.md
+m04199	yes	kept	domains/organization/leave-and-training.md
+m04200	yes	kept	domains/work/var-backtesting-2000.md
+m04201	yes	kept	domains/industry/declined-invitations-2000.md
+m04202	yes	kept	domains/organization/candidate-referrals-2000.md
+m04203	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04204	yes	kept	domains/work/var-backtesting-2000.md
+m04205	yes	kept	domains/work/var-backtesting-2000.md
+m04206	yes	kept	domains/work/research-presentations.md
+m04207	no	not_durable	quote_only
+m04208	yes	kept	domains/work/outside-requests.md
+m04209	yes	kept	domains/work/ut-austin-ties-2000.md
+m04210	no	not_durable	bulk
+m04211	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04212	yes	kept	domains/organization/recruiting-candidates.md
+m04213	yes	kept	domains/work/var-backtesting-2000.md
+m04214	yes	kept	domains/industry/events-attending-2000.md
+m04215	yes	kept	domains/organization/london-research.md
+m04216	yes	kept	domains/organization/year-end-prc-2000.md people/bich-anh-pham.md
+m04217	yes	kept	domains/organization/year-end-prc-2000.md people/bich-anh-pham.md
+m04218	yes	kept	domains/industry/market-outlooks-2000.md
+m04219	yes	kept	domains/industry/declined-invitations-2000.md
+m04220	yes	kept	domains/organization/corporate-announcements-2000.md
+m04221	no	not_durable	logistics
+m04222	yes	kept	domains/organization/research-accounting-2000.md
+m04223	no	not_durable	automated
+m04224	yes	kept	domains/organization/london-research.md
+m04225	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04226	yes	kept	domains/work/group-projects-oct-2000.md
+m04227	yes	kept	domains/organization/candidate-referrals-2000.md people/paul-rowady.md
+m04228	yes	kept	domains/work/ut-austin-ties-2000.md
+m04229	yes	kept	domains/organization/candidate-referrals-2000.md people/paul-rowady.md
+m04230	no	not_durable	logistics
+m04231	yes	kept	domains/organization/candidate-referrals-2000.md people/paul-rowady.md
+m04232	yes	kept	domains/organization/london-research.md
+m04233	yes	kept	domains/organization/candidate-referrals-2000.md people/paul-rowady.md
+m04234	no	not_durable	logistics
+m04235	yes	kept	domains/organization/office-equipment.md
+m04236	yes	kept	domains/organization/candidate-referrals-2000.md people/paul-rowady.md
+m04237	yes	kept	domains/personal/correspondence.md
+m04238	yes	kept	domains/work/group-projects-oct-2000.md
+m04239	no	not_durable	quote_only
+m04240	no	not_durable	bulk
+m04241	yes	kept	domains/organization/year-end-prc-2000.md
+m04242	yes	kept	domains/work/research-presentations.md
+m04243	no	not_durable	pleasantry
+m04244	yes	kept	domains/organization/recruiting-candidates.md
+m04245	yes	kept	domains/organization/recruiting-candidates.md
+m04246	yes	kept	domains/organization/year-end-prc-2000.md people/bich-anh-pham.md
+m04247	no	not_durable	other
+m04248	yes	kept	domains/work/desk-analysis-requests.md
+m04249	yes	kept	domains/work/enron-transformation-paper.md
+m04250	yes	kept	domains/organization/recruiting-candidates.md
+m04251	yes	kept	domains/work/enron-transformation-paper.md
+m04252	yes	dropped	logistics: owner forwards a McCullough speech from Sevil Yaman to AOL, no content
+m04253	yes	kept	domains/work/desk-analysis-requests.md
+m04254	yes	kept	domains/organization/recruiting-candidates.md people/iris-mack.md
+m04255	yes	kept	domains/work/desk-analysis-requests.md
+m04256	yes	kept	domains/work/internal-meetings.md
+m04257	yes	kept	domains/work/group-projects-oct-2000.md
+m04258	no	not_durable	automated
+m04259	yes	dropped	logistics: Crenshaw approved a VPN access request for Maureen Raymond
+m04260	yes	kept	domains/organization/candidate-interviews-nov-2000.md people/paul-johnson.md
+m04261	yes	kept	domains/organization/research-accounting-2000.md
+m04262	no	not_durable	bulk
+m04263	no	not_durable	bulk
+m04264	no	not_durable	bulk
+m04265	no	not_durable	automated
+m04266	yes	kept	domains/industry/events-attending-2000.md
+m04267	yes	kept	domains/organization/year-end-prc-2000.md people/bich-anh-pham.md
+m04268	no	not_durable	automated
+m04269	yes	kept	domains/personal/correspondence.md
+m04270	yes	kept	domains/organization/year-end-prc-2000.md
+m04271	yes	kept	domains/work/vendor-reviews-nov-2000.md people/michael-curran.md
+m04272	yes	kept	domains/work/var-backtesting-2000.md
+m04273	no	not_durable	quote_only
+m04274	no	not_durable	bulk
+m04275	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04276	no	not_durable	automated
+m04277	no	not_durable	bulk
+m04278	yes	kept	domains/work/internal-meetings.md
+m04279	no	not_durable	bulk
+m04280	yes	kept	domains/work/var-backtesting-2000.md
+m04281	no	not_durable	bulk
+m04282	yes	dropped	no_owner_content: third-party 2000 election update forwarded to AOL
+m04283	yes	kept	domains/personal/household.md
+m04284	yes	kept	domains/work/group-projects-oct-2000.md
+m04285	yes	kept	domains/work/var-backtesting-2000.md
+m04286	no	not_durable	other
+m04287	no	not_durable	bulk
+m04288	yes	kept	domains/work/var-backtesting-2000.md
+m04289	yes	dropped	no_owner_content: third-party 2000 election update forwarded to AOL
+m04290	no	not_durable	quote_only
+m04291	yes	kept	domains/personal/recruiter-approaches-2000.md
+m04292	no	not_durable	bulk
+m04293	no	not_durable	pleasantry
+m04294	yes	kept	domains/industry/events-attending-2000.md
+m04295	yes	kept	domains/organization/research-accounting-2000.md
+m04296	yes	kept	domains/work/research-presentations.md
+m04297	yes	kept	domains/personal/recruiter-approaches-2000.md
+m04298	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04299	yes	kept	domains/organization/recruiting-candidates.md
+m04300	yes	kept	domains/organization/year-end-prc-2000.md
+m04301	yes	kept	domains/industry/rice-university.md
+m04302	yes	kept	domains/work/outside-requests.md
