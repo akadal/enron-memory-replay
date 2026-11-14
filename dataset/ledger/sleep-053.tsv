@@ -1,0 +1,178 @@
+id	durable	status	detail
+m04420	no	not_durable	automated
+m04421	yes	kept	domains/organization/candidate-interviews-dec-2000.md domains/personal/household.md
+m04422	yes	kept	domains/work/group-projects-oct-2000.md
+m04423	yes	kept	domains/organization/candidate-interviews-dec-2000.md domains/organization/research-group.md people/nina-knirel.md
+m04424	no	not_durable	automated
+m04425	yes	kept	domains/work/model-risk-audit.md
+m04426	yes	kept	domains/work/model-risk-audit.md
+m04427	yes	kept	domains/work/model-risk-audit.md
+m04428	yes	kept	domains/work/internal-meetings.md
+m04429	yes	kept	domains/organization/candidate-interviews-dec-2000.md
+m04430	yes	kept	domains/organization/london-research.md
+m04431	yes	kept	domains/organization/candidate-interviews-dec-2000.md domains/organization/research-group.md
+m04432	yes	kept	domains/industry/rice-university.md
+m04433	yes	kept	domains/personal/correspondence.md
+m04434	yes	kept	domains/organization/staff-and-recruiting.md
+m04435	no	not_durable	logistics
+m04436	no	not_durable	bulk
+m04437	no	not_durable	bulk
+m04438	no	not_durable	bulk
+m04439	no	not_durable	other
+m04440	no	not_durable	automated
+m04441	yes	kept	domains/organization/recruiting-candidates.md
+m04442	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04443	yes	dropped	redundant: Bankruptcy Swap writeup already recorded 14 Nov; forward to AOL only
+m04444	no	not_durable	logistics
+m04445	yes	dropped	other: Iris Mack sends file passwords; credentials deliberately not kept
+m04446	yes	dropped	redundant: Iris Mack hybrid-derivatives document already recorded 23 Nov; forward to AOL only
+m04447	yes	kept	domains/organization/candidate-interviews-dec-2000.md
+m04448	no	not_durable	logistics
+m04449	yes	kept	domains/organization/candidate-interviews-dec-2000.md
+m04450	yes	kept	domains/personal/household.md
+m04451	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04452	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04453	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04454	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/sally-gould.md
+m04455	yes	dropped	no_owner_content: FT archive link sent to Sandeep Kohli without comment
+m04456	yes	kept	domains/personal/correspondence.md
+m04457	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/sally-gould.md
+m04458	yes	kept	domains/work/internal-meetings.md
+m04459	yes	dropped	social: Shawn Cumberland thank-you note after a meeting
+m04460	yes	kept	domains/organization/candidate-interviews-dec-2000.md
+m04461	no	not_durable	automated
+m04462	yes	dropped	other: passwords for Iris Mack files; credentials deliberately not kept
+m04463	yes	kept	domains/organization/candidate-interviews-dec-2000.md people/qing-chen.md
+m04464	no	not_durable	pleasantry
+m04465	yes	kept	domains/personal/correspondence.md
+m04466	yes	kept	domains/work/university-relations.md
+m04467	yes	kept	domains/industry/speaking-engagements-2000.md
+m04468	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04469	yes	kept	domains/organization/candidate-referrals-2000.md people/frank-wolak.md
+m04470	yes	kept	domains/organization/candidate-referrals-2000.md people/frank-wolak.md
+m04471	no	not_durable	quote_only
+m04472	no	not_durable	logistics
+m04473	yes	kept	domains/organization/candidate-referrals-2000.md domains/organization/research-group.md
+m04474	yes	kept	domains/work/enron-transformation-paper.md
+m04475	yes	kept	domains/work/enron-transformation-paper.md
+m04476	no	not_durable	automated
+m04477	yes	kept	domains/organization/group-events-2000.md
+m04478	yes	kept	domains/work/eol-content-2000.md
+m04479	yes	kept	domains/organization/candidate-referrals-2000.md
+m04480	yes	kept	domains/industry/speaking-engagements-2000.md
+m04481	yes	kept	domains/industry/rice-university.md people/tim-bollerslev.md
+m04482	yes	kept	domains/organization/candidate-interviews-dec-2000.md
+m04483	no	not_durable	bulk
+m04484	yes	kept	domains/work/ut-austin-ties-2000.md
+m04485	yes	kept	domains/work/var-backtesting-2000.md
+m04486	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04487	yes	kept	domains/work/outside-requests.md
+m04488	no	not_durable	bulk
+m04489	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04490	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04491	yes	kept	domains/personal/correspondence.md
+m04492	no	not_durable	other
+m04493	yes	kept	domains/organization/recruiting-candidates.md
+m04494	yes	kept	domains/work/outside-requests.md
+m04495	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04496	yes	kept	domains/organization/year-end-prc-2000.md
+m04497	yes	kept	domains/organization/candidate-interviews-dec-2000.md people/nina-knirel.md
+m04498	yes	kept	domains/organization/software-licenses.md people/laine-borgman.md
+m04499	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04500	no	not_durable	quote_only
+m04501	yes	kept	domains/organization/recruiting-candidates.md
+m04502	yes	kept	domains/organization/software-licenses.md people/laine-borgman.md
+m04503	yes	kept	domains/work/enron-transformation-paper.md
+m04504	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04505	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04506	yes	kept	domains/work/enron-transformation-paper.md
+m04507	yes	kept	domains/organization/candidate-referrals-2000.md
+m04508	yes	kept	domains/organization/office-equipment.md
+m04509	yes	kept	domains/organization/software-licenses.md
+m04510	yes	kept	domains/organization/candidate-referrals-2000.md
+m04511	yes	kept	domains/organization/year-end-prc-2000.md people/kate-lucas.md people/praveen-mellacheruvu.md
+m04512	yes	kept	domains/organization/candidate-interviews-dec-2000.md people/nina-knirel.md
+m04513	yes	kept	domains/organization/year-end-prc-2000.md people/kate-lucas.md people/praveen-mellacheruvu.md
+m04514	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04515	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04516	yes	kept	domains/work/group-projects-oct-2000.md
+m04517	yes	kept	domains/organization/group-events-2000.md
+m04518	yes	kept	domains/industry/events-attending-2000.md
+m04519	no	not_durable	other
+m04520	no	not_durable	quote_only
+m04521	no	not_durable	automated
+m04522	no	not_durable	bulk
+m04523	no	not_durable	automated
+m04524	yes	kept	domains/organization/group-events-2000.md
+m04525	yes	kept	domains/work/project-x-diligence-2000.md
+m04526	yes	kept	domains/work/project-x-diligence-2000.md
+m04527	no	not_durable	logistics
+m04528	yes	kept	domains/organization/group-events-2000.md
+m04529	no	not_durable	logistics
+m04530	no	not_durable	logistics
+m04531	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m04532	yes	kept	domains/organization/london-research.md
+m04533	yes	kept	domains/personal/household.md domains/work/campus-recruiting-fall-2000.md
+m04534	yes	kept	domains/industry/events-attending-2000.md
+m04535	yes	kept	domains/organization/leave-and-training.md
+m04536	yes	kept	domains/work/project-x-diligence-2000.md
+m04537	yes	kept	domains/organization/mg-metals-integration.md
+m04538	yes	kept	domains/work/group-projects-oct-2000.md
+m04539	yes	kept	domains/personal/investments-2000.md
+m04540	yes	kept	domains/organization/staff-and-recruiting.md
+m04541	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04542	yes	kept	domains/organization/research-group.md
+m04543	yes	kept	domains/personal/correspondence.md
+m04544	no	not_durable	automated
+m04545	yes	kept	domains/organization/candidate-interviews-dec-2000.md people/nina-knirel.md
+m04546	yes	kept	domains/work/group-projects-oct-2000.md
+m04547	no	not_durable	empty
+m04548	no	not_durable	empty
+m04549	yes	kept	domains/industry/speaking-engagements-2000.md
+m04550	yes	kept	domains/organization/leave-and-training.md
+m04551	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04552	yes	kept	domains/organization/group-events-2000.md
+m04553	yes	kept	domains/organization/recruiting-candidates.md
+m04554	yes	kept	domains/organization/recruiting-candidates.md
+m04555	yes	kept	domains/organization/recruiting-candidates.md
+m04556	yes	kept	domains/industry/california-power-2000.md domains/industry/gpcm-rbac.md
+m04557	no	not_durable	bulk
+m04558	yes	kept	domains/industry/speaking-engagements-2000.md
+m04559	yes	kept	domains/organization/recruiting-candidates.md
+m04560	yes	kept	domains/work/internal-meetings.md
+m04561	yes	kept	domains/organization/office-equipment.md
+m04562	yes	kept	domains/work/stanford-research-ties.md
+m04563	yes	kept	domains/work/stanford-research-ties.md
+m04564	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04565	yes	kept	domains/organization/office-equipment.md
+m04566	yes	dropped	other: note to self with a book listing, no context
+m04567	no	not_durable	logistics
+m04568	yes	kept	domains/work/internal-meetings.md
+m04569	yes	kept	domains/organization/research-group.md
+m04570	yes	kept	domains/organization/research-group.md people/kate-lucas.md
+m04571	yes	kept	domains/work/group-projects-oct-2000.md
+m04572	no	not_durable	logistics
+m04573	yes	kept	domains/work/group-projects-oct-2000.md
+m04574	yes	kept	domains/work/group-projects-oct-2000.md
+m04575	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04576	yes	kept	domains/work/internal-meetings.md
+m04577	no	not_durable	quote_only
+m04578	yes	kept	domains/work/group-projects-oct-2000.md
+m04579	no	not_durable	other
+m04580	yes	kept	domains/industry/informs-san-antonio-2000.md
+m04581	yes	kept	domains/work/group-projects-oct-2000.md
+m04582	no	not_durable	quote_only
+m04583	no	not_durable	quote_only
+m04584	yes	kept	domains/personal/correspondence.md
+m04585	no	not_durable	bulk
+m04586	no	not_durable	bulk
+m04587	yes	kept	domains/work/project-x-diligence-2000.md
+m04588	no	not_durable	bulk
+m04589	yes	kept	domains/organization/recruiting-candidates.md
+m04590	yes	kept	domains/organization/recruiting-candidates.md
+m04591	yes	kept	domains/organization/recruiting-candidates.md
+m04592	yes	kept	domains/industry/rice-university.md people/tim-bollerslev.md
+m04593	yes	kept	domains/organization/software-licenses.md
+m04594	yes	kept	domains/work/enron-transformation-paper.md
+m04595	yes	kept	domains/work/enron-transformation-paper.md
+m04596	no	not_durable	bulk
