@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-12-17
+updated: 2000-12-22
 ---
 # Personal — index
 
@@ -9,9 +9,9 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Walkup: cash to deposit for equities (4 Dec); brokers list → memory/domains/personal/investments-2000.md
+- PGC bond CUSIP to Walkup; brokers list → memory/domains/personal/investments-2000.md
 - Dentist Jan 25, 7:45; wife Ludmila and son at Stanford → memory/domains/personal/household.md
-- Faiz's confidential resume, NY in January; JRI referee report owed → memory/domains/personal/correspondence.md
+- Stock's Woodlands open house; Faiz in NY in January; Zajda drinks → memory/domains/personal/correspondence.md
 - UNO invites him to apply for the Moffett Chair → memory/domains/personal/recruiter-approaches-2000.md
 
 ## Files
