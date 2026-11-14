@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Haughton wants a senior second round; Qian out (Citadel); Valverde 1 Feb, Rawal 2 Feb → memory/domains/organization/candidate-interviews-feb-2001.md
-- Tom Costantino back from NYMEX, Shankman interviews him → memory/domains/organization/candidate-referrals-2000.md
-- Interns: Whitsel wanted, Mallik and DeGiacinto apply; Wharton interviews 5-6 Feb → memory/domains/organization/summer-interns-2001.md
-- Java (DuraSoft) Feb 20-23 and Apr 9-12; PJM 101 on 27 Feb → memory/domains/organization/leave-and-training.md; @ENERGY 2.0 → memory/domains/organization/software-licenses.md
-- Anshuman's L1, Daffin expects March → memory/domains/organization/staff-moves-jan-2001.md; EGM product lines under Nowlan, Sekse risk → memory/domains/organization/ena-reorganization.md
+- Haughton: London-Houston video conference and a second London visit → memory/domains/organization/candidate-interviews-feb-2001.md
+- Interns: all Wharton Tigers taken (Vittal, Gershenson, Iker); Mehendale for summer research → memory/domains/organization/summer-interns-2001.md
+- 7 Feb: Xcelerator under Pai, Delainey to EES, Lavorato and Kitchen run Enron Americas → memory/domains/organization/ena-reorganization.md
+- Java Feb 20-23 (laptops?), PJM 101 27 Feb → memory/domains/organization/leave-and-training.md; Anshuman's L-1 needs a job description → memory/domains/organization/staff-moves-jan-2001.md
+- Costantino; Szopa meets Reck's team → memory/domains/organization/candidate-referrals-2000.md
 
 ## Files
 

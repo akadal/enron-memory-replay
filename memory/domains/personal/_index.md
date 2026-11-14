@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-02-04
+updated: 2001-02-10
 ---
 # Personal — index
 
@@ -10,7 +10,7 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Walkup: a very significant sum to move into ML; Bigalow's Wiley contract, Martin advises → memory/domains/personal/investments-2000.md
-- Stock in hospital, flowers sent; Lubbock at CERA 12-16 Feb; Kierlanczyk in NY 13 Feb → memory/domains/personal/correspondence.md
+- Berkeley and Palo Alto this week (Napiorkowski Thu evening); Kierlanczyk: Houston interviews, else NY 13 Feb; Lubbock at CERA → memory/domains/personal/correspondence.md
 - LifeTrak: owner declined, kept in copy → memory/domains/personal/lifetrak-venture-2001.md
 - Wife Ludmila; Marysia's address in Poland → memory/domains/personal/household.md
 
