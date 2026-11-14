@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-11
+updated: 2001-04-14
 ---
 # People — index
 
@@ -80,6 +80,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Carol Coats
 - Carrie Miller
 - Cassandra Schultz
+- Cathy Lira
 - Cathy Phillips
 - Cecil Stradford
 - Celeste Roberts
@@ -176,6 +177,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - George McClellan
 - George Posey
 - Gerald Sheble (Gerry Sheble)
+- Gil Whitaker (Gilbert R. Whitaker Jr.)
 - Gillian Boyer
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
@@ -360,6 +362,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michele Nezi Marvin
 - Michelle Cisneros
 - Michelle Mendoza
+- Mike Fowler
 - Mike McConnell
 - Mike Roberts (Mike A Roberts)
 - Mike Rosen
@@ -460,7 +463,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Samer Takriti
 - Sandeep Kohli
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Sasha Divelbiss
 - Scott Earnest
+- Scott Gerson
 - Scott Neal
 - Scott Stoness
 - Scott Tholan
@@ -489,6 +494,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sophie Kingsley
 - Soussan Faiz
 - Spyros Maragos
+- Sriram Vasudevan (Sriram)
 - Stathis Tompaidis
 - Stephanie Miller
 - Stephanie Summers
@@ -549,6 +555,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Wichai Narongwanich
 - Wil Uecker
 - William Bradford (William S Bradford)
+- William Fitzgibbon
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
 - Yana Kristal
@@ -556,5 +563,6 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Yaron Oren
 - Youyi Feng
 - Zeigham Khokher
+- Zhendong Xia
 - Zhiyong Wei
 - Zimin Lu

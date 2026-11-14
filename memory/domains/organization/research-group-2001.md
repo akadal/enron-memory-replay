@@ -3,9 +3,9 @@ id: research-group-2001
 type: topic
 domain: organization
 title: "Research Group operations, 2001"
-summary: "Group routines for 2001: arrival by 8:30; Energy Derivatives seminar (from 19 Jan); Hector Campos leaves 13 Apr for CMU; Astros tickets 20 and 27 Apr; DuPont partly at home (9 Apr); Barkley runs the next volleyball outing (11 Apr); older items archived."
+summary: "Group routines for 2001: arrival by 8:30; Energy Derivatives seminar (from 19 Jan); Hector Campos leaves 13 Apr for CMU; Astros tickets 20 and 27 Apr; Barkley runs the next volleyball outing (11 Apr); Kohli's party Sat 5 May; older items archived."
 status: active
-updated: 2001-04-11
+updated: 2001-04-14
 ---
 # Research Group operations, 2001
 
@@ -21,4 +21,5 @@ Members and staff meeting: memory/domains/organization/research-group.md.
 - [2001-03-27] Hector Campos leaves for Carnegie Mellon's Computational Finance program (from 14 May) after about 10 months in Research; last day Fri 13 Apr. ←[[m06409]]
 - [2001-03-30] EGM Astros seats for the group, 20 and 27 Apr: "I got them.  Thanks." ←[[m06431]] ←[[m06567]]
 - [2001-04-09] Anita DuPont may work from home some days until her mother is settled in rehab (extension forwarded). ←[[m06616]] ←[[m06645]]
-- [2001-04-11] Tom Barkley (EVA Spring Fever tournament, 28 Apr) to lead another group volleyball outing at West U, families and catered lunch: "Wew did it twice and it's a standard routine by now."; Stinson knows the site, Shirley the catering. ←[[m06715]] ←[[m06718]]
+- [2001-04-11] Tom Barkley (EVA Spring Fever tournament, 28 Apr) to lead another group volleyball outing at West U, families and catered lunch: "Wew did it twice and it's a standard routine by now."; Stinson knows the site, Shirley the catering. ←[[m06715]] ←[[m06718]] ←[[m06751]] ←[[m06753]]
+- [2001-04-13] Crenshaw: Sandeep Kohli hosts the group at his new house Sat 5 May. ←[[m06849]] ←[[m06858]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-04-11
+updated: 2001-04-14
 ---
 # Personal — index
 
@@ -9,8 +9,8 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Wife stays with the son in California till June; son graduates this spring → memory/domains/personal/household.md
-- Dinner at Mike Fowler's Fri 27 Apr; Marek's resume to Eydeland, dinner 14 May; Kohli's invitation → memory/domains/personal/correspondence.md
+- Wife stays with the son in California till June; son graduates this spring; Time Warner account noted → memory/domains/personal/household.md
+- Dinner at Mike Fowler's Fri 27 Apr; Marek's resume to Eydeland, dinner 14 May → memory/domains/personal/correspondence.md
 - Walkup (ML): taxable money in, IRA pending; Bigalow's picks: MOT and LU bought 19 Mar → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
 
