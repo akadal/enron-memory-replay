@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Kudin Thu 10 May; Heo phone interview; Country Risk shortlist of 3; Gukhal part-time → memory/domains/organization/candidate-interviews-may-02-2001.md; Percell, Kang → memory/domains/organization/candidate-interviews-may-2001.md
-- HR: Gwen's promotion in process, Labbe Fri 3 pm; Maureen Raymond must find a sponsor, ill in London → memory/domains/organization/hr-matters-2001.md
-- Interns: Jinbaek Kim from 30 May on automated trading platforms; Youseok Son; self-contained projects → memory/domains/organization/summer-interns-may-2001.md
-- Company: EES/EWS risk merged, Herndon East, Black West (4 May); EGM meeting 7 May → memory/domains/organization/corporate-announcements-2001.md; Outlook migration → memory/domains/organization/office-equipment.md
-- Group: office move, 1 MD, 6 VPs, 5 Directors → memory/domains/organization/research-group-2001.md; London: Tony Hamilton → memory/domains/organization/tony-hamilton-london-2001.md
+- PRC: PEP feedback closes 25 May, PRC 4-29 Jun, new 1-5 ratings; Tony Hamilton's PRC open with Mike Roberts → memory/domains/organization/mid-year-prc-2001.md
+- Referrals: Jinbaek Kim 30 May; Pravas Sud via Lemmons; Saksena's brother; Gukhal declined → memory/domains/organization/referrals-and-interns-may-2001.md; Kudin, Heo → memory/domains/organization/candidate-interviews-may-02-2001.md
+- Admin: iBuyit approver, visa help for Krishna's in-laws via Wade Cline → memory/domains/organization/research-admin-may-2001.md
+- HR: Maureen Raymond must find a sponsor → memory/domains/organization/hr-matters-2001.md
+- Company: EES/EWS risk merged (4 May) → memory/domains/organization/corporate-announcements-2001.md; London: Tony Hamilton → memory/domains/organization/tony-hamilton-london-2001.md
 
 ## Files
 
@@ -66,3 +66,6 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-may-2001.md — candidates and referrals from 30 Apr 2001
 - memory/domains/organization/candidate-interviews-may-02-2001.md — candidates and referrals from 2 May 2001
 - memory/domains/organization/summer-interns-may-2001.md — summer interns, May 2001 (Jinbaek Kim, Youseok Son)
+- memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
+- memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
+- memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
