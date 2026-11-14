@@ -1,0 +1,206 @@
+{
+ "slice": 74,
+ "simulated_today": "2001-04-22",
+ "feed": {
+  "slice": 74,
+  "iso_week": "2001-W16",
+  "first_seq": 6874,
+  "last_seq": 7063,
+  "messages": 190,
+  "durable": 151,
+  "first_date": "2001-04-16 02:08",
+  "last_date": "2001-04-22 23:14",
+  "today": "2001-04-22",
+  "inbox_files": [
+   "2001-04-16--mail.md",
+   "2001-04-17--mail.md",
+   "2001-04-18--mail.md",
+   "2001-04-19--mail.md",
+   "2001-04-20--mail.md",
+   "2001-04-21--mail.md",
+   "2001-04-22--mail.md"
+  ],
+  "inbox_chars": 115235,
+  "l2_chars": 468302
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 807,
+ "quota_before": {
+  "five_hour": 12.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 16.0,
+  "seven_day": 44.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 74,
+  "messages": 190,
+  "durable": 151,
+  "kept": 151,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3114,
+  "fact_lines_with_source": 1983,
+  "dated": 1983,
+  "date_matches_source": 1935,
+  "date_mismatch_ids_this_slice": [
+   "m07046",
+   "m07048",
+   "m07051",
+   "m07053"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 731
+  },
+  "questions": {
+   "files": 1,
+   "chars": 627
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 206,
+   "chars": 369432
+  },
+  "people": {
+   "files": 578,
+   "chars": 380035
+  },
+  "archive_inbox": {
+   "files": 475,
+   "chars": 4175734
+  },
+  "archive_mail": {
+   "files": 7089,
+   "chars": 17415483
+  },
+  "archive_other": {
+   "files": 1351,
+   "chars": 1122830
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 63,
+   "duration_ms": 805737,
+   "duration_api_ms": 688242,
+   "total_cost_usd": 4.773921699999999,
+   "usage": {
+    "input_tokens": 102,
+    "cache_creation_input_tokens": 217593,
+    "cache_read_input_tokens": 7380393,
+    "output_tokens": 77822,
+    "output_tokens_details": {
+     "thinking_tokens": 26570
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 217593,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 909,
+      "cache_read_input_tokens": 235054,
+      "cache_creation_input_tokens": 1478,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1478
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 27,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00025110000000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 102,
+     "outputTokens": 77822,
+     "cacheReadInputTokens": 7380393,
+     "cacheCreationInputTokens": 217593,
+     "webSearchRequests": 0,
+     "costUSD": 4.773670599999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 26570,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 217593,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 62,
+   "result_summary": "I've finished the 2001-04-22 consolidation and committed it as `eb098cd`; lint and sleep-audit were both green before and after the commit. I didn't push, because the replay instructions say the runner pushes after its own checks; the general template's last step says to push, and I followed the replay rule.\n\n**What went into memory:** all 190 messages of week 2001-W16 (6874–7063). Every one of the 151 messages with notes is cited in a domain or people file, so `dataset/drops/sleep-074.tsv` is empty. Earlier runs also committed empty drops files.\n\n**New topic files:**\n- Private-firm credit model: the Moody's RiskCalc test, the parent-subsidiary model data, S&P, CreditDimensions and D&B data, and the Houston/London videoconference on 23 Apr.\n- Petrochemical forward curves (Christian LeBroc and Nelson Neale).\n- The EnronOnline Trading Algorithm effort, with Bob as Research's person on it.\n- Company-wide 2001 announcements: the Capital Book, EnronAnywhere, and the owner set up as iBuyit approver.\n- Candidates from mid-April.\n\n**Updated files:** about 24 existing files, including VaR curve clustering, the Duffie study, London weather staffing and the proposal to send Gibner to London, the P+ model, the Godbole report, the Turkey brief, interns, events, Rice, Wharton, and EPRM 2001.\n\n**People:** 19 people reached five noted messages, so each got an entity file and a line in the alias table. One of them, Mitra Mujica, had already passed five in an earlier week without getting a file; that is fixed now.\n\n**Size limits:** no file was above 90% of its ceiling, so the compression quota had nothing to act on. To keep over-target files within the 150-character growth limit, I moved 31 older lines unchanged into `archive/*/2001/*-2001-04-w16.md`.\n\n**Housekeeping:**\n- I refreshed the Hot lists in the three domain indexes and rewrote `state.md` as of 2001-04-22.\n- The five oldest \"still true\" lines are still valid.\n- The one open question (alias approval) isn't due until 2001-05-1"
+  },
+  "repair": null
+ }
+}
