@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: PEP closes 25 May; owner reviews Leppard and Naveen Andrews; Tony Hamilton's PRC open with Mike Roberts → memory/domains/organization/mid-year-prc-2001.md
-- Referrals: Cote's EGM reference, intern Kyriakos (a forgotten commitment), Torpong, Aysu Bilgin, Gukhal → memory/domains/organization/referrals-mid-may-2001.md; Jinbaek Kim 30 May → memory/domains/organization/referrals-and-interns-may-2001.md
-- Admin: Wade Cline tries Mumbai for Krishna's in-laws' visa; Iris's SFA registration; Elena Chilkina and Sara Woody titles; Gwyn's CFA → memory/domains/organization/research-admin-mid-may-2001.md
-- HR: Maureen Raymond must find a sponsor → memory/domains/organization/hr-matters-2001.md
-- Company: EES/EWS risk merged (4 May) → memory/domains/organization/corporate-announcements-2001.md; London: Tony Hamilton → memory/domains/organization/tony-hamilton-london-2001.md
+- Staff: Stinson Gibner resigns, last day 5 Jun; Pavel Zadorozhny to HETCO; London LiveLink; IACCGH gala FRIEND table → memory/domains/organization/research-staff-late-may-2001.md
+- PRC: PEP closed 25 May; owner reviews Leppard, Naveen Andrews, Kathie Grabstald, approves Maureen's reviewers → memory/domains/organization/mid-year-prc-2001.md
+- Referrals: Jinbaek Kim starts 30 May; Gary Bush's math PhD to a phone interview (Zimin); De Miranda; Molly Magee's resume → memory/domains/organization/referrals-late-may-2001.md; Kyriakos, Cote → memory/domains/organization/referrals-mid-may-2001.md
+- Admin: Krishna's in-laws' visa, Iris's SFA registration, titles → memory/domains/organization/research-admin-mid-may-2001.md; HR → memory/domains/organization/hr-matters-2001.md
+- Company: EnronOnline's millionth trade (23 May) → memory/domains/organization/corporate-announcements-2001.md
 
 ## Files
 
@@ -71,3 +71,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-and-interns-may-2001.md — referrals and interns from 7 May 2001
 - memory/domains/organization/research-admin-mid-may-2001.md — Research admin from 14 May 2001 (visa, SFA, titles, CFA)
 - memory/domains/organization/referrals-mid-may-2001.md — referrals and interns from 14 May 2001
+- memory/domains/organization/research-staff-late-may-2001.md — staff and admin from 21 May 2001 (Gibner, Zadorozhny leave; IACCGH table)
+- memory/domains/organization/referrals-late-may-2001.md — candidates, referrals and interns from 21 May 2001

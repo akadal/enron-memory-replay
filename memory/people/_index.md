@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # People — index
 
@@ -340,6 +340,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kristin Gandy
 - Kristin Walsh
 - Kristy Carnes
+- Kyriakos Frantzeskakis
 - Laine Borgman
 - Lance Cunningham
 - Lane Hughston
@@ -588,6 +589,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stephen Lessar (Steve Lessar)
 - Stephen Stock
 - Steve Bigalow
+- Steve Mitnick (Steven A. Mitnick)
 - Steve Walton
 - Steven Harris
 - Steven Kean (Steven J Kean, Steve Kean)

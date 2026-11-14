@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-18
+updated: 2001-05-26
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: EPIS topic owed (Lee Barney), Bachelier plenary (Crete, Jun 2002), Baylor EMBA 27 Jul, IQPC declined, Tamiment 23-24 May, Rice breakfast 30 May → memory/domains/industry/speaking-invitations-mid-may-2001.md; SIAM slides owed → memory/domains/industry/speaking-invitations-may-2001.md
-- Attending: Stanford EMF 21-22 Jun; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
-- Wharton: Risk Center 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
-- California: Thome's briefing helped the owner present Enron's position (15 May); bond vote short (7 May) → memory/domains/industry/california-power-may-2001.md
-- Rice: MGMT 656 closed → memory/domains/industry/rice-mgmt656-grades-may-2001.md; ALP 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md
+- Speaking: EPRM Europe (Amsterdam 6-7 Sep) and Risk 2001 Australia (Sydney 20-21 Aug) invite; Wharton risk talk with Koenig's slides; Tamiment dinner talk; INFORMS RM at Columbia → memory/domains/industry/speaking-invitations-late-may-2001.md; EPIS topic, Baylor 27 Jul → memory/domains/industry/speaking-invitations-mid-may-2001.md
+- Universities: Kitchen wants Wharton project results first, WeBI at the funded level; Stanford EMF 21-22 Jun, $2,500 check unpaid → memory/domains/industry/university-ties-late-may-2001.md
+- Wharton: Risk Center 14 Jun → memory/domains/industry/wharton-risk-center-2001.md
+- California: Angelides says SoCal will go bankrupt, $12B bonds short (22 May) → memory/domains/industry/california-power-may-2001.md
+- Attending: gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -55,3 +55,5 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/california-power-may-2001.md — California briefings, May 2001
 - memory/domains/industry/speaking-invitations-may-2001.md — speaking invitations and conference contacts, May 2001
 - memory/domains/industry/speaking-invitations-mid-may-2001.md — invitations and logistics from 14 May 2001 (EPIS, Bachelier, Baylor, Tamiment)
+- memory/domains/industry/speaking-invitations-late-may-2001.md — invitations and talks from 21 May 2001 (EPRM Europe, Risk Australia, Tamiment, Wharton)
+- memory/domains/industry/university-ties-late-may-2001.md — Wharton WeBI and the Stanford EMF retail conference, late May 2001

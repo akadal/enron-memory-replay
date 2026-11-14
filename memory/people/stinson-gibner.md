@@ -5,7 +5,7 @@ entity: person
 name: "Stinson Gibner"
 aliases: []
 domains: [organization, industry, work]
-updated: 2000-12-22
+updated: 2001-05-26
 ---
 # Stinson Gibner
 
@@ -14,6 +14,7 @@ The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. 
 ## Context: organization
 
 - [1999-12-10] Member; off 22-25 Feb; ECI → memory/domains/organization/research-group.md ←[[m00004]] ←[[m00147]] ←[[m00180]] ←[[m00217]]
+- [2001-05-22] Resigns, last day 5 Jun 2001 → memory/domains/organization/research-staff-late-may-2001.md ←[[m07967]]
 - [2000-11-10] (?) "Peyton S Gibner", PEP requester for Hector Campos and on the mid-year list, may be him. Status quo (alias question lapsed 2000-12-17): no alias. ←[[m02799]] ←[[m04072]] ←[[m04186]]
 
 ## Context: industry
