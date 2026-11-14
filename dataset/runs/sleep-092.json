@@ -1,0 +1,202 @@
+{
+ "slice": 92,
+ "simulated_today": "2001-08-03",
+ "feed": {
+  "slice": 92,
+  "iso_week": "2001-W31",
+  "first_seq": 8794,
+  "last_seq": 8854,
+  "messages": 61,
+  "durable": 52,
+  "first_date": "2001-07-30 06:04",
+  "last_date": "2001-08-03 15:58",
+  "today": "2001-08-03",
+  "inbox_files": [
+   "2001-07-30--mail.md",
+   "2001-07-31--mail.md",
+   "2001-08-01--mail.md",
+   "2001-08-02--mail.md",
+   "2001-08-03--mail.md"
+  ],
+  "inbox_chars": 44215,
+  "l2_chars": 228786
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 471,
+ "quota_before": {
+  "five_hour": 28.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 31.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 92,
+  "messages": 61,
+  "durable": 52,
+  "kept": 47,
+  "kept_rate_excluding_redundant": 0.94,
+  "drop_classes": {
+   "other": 3,
+   "redundant": 2
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3442,
+  "fact_lines_with_source": 2171,
+  "dated": 2171,
+  "date_matches_source": 2119,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   0.6,
+   0.6
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 692
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1588
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 216,
+   "chars": 382071
+  },
+  "people": {
+   "files": 691,
+   "chars": 446086
+  },
+  "archive_inbox": {
+   "files": 572,
+   "chars": 5215330
+  },
+  "archive_mail": {
+   "files": 8880,
+   "chars": 22686527
+  },
+  "archive_other": {
+   "files": 1708,
+   "chars": 1374928
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 42,
+   "duration_ms": 469177,
+   "duration_api_ms": 416163,
+   "total_cost_usd": 2.8329199,
+   "usage": {
+    "input_tokens": 80,
+    "cache_creation_input_tokens": 136691,
+    "cache_read_input_tokens": 4146840,
+    "output_tokens": 45472,
+    "output_tokens_details": {
+     "thinking_tokens": 20091
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 136691,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 759,
+      "cache_read_input_tokens": 154821,
+      "cache_creation_input_tokens": 809,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 809
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 80,
+     "outputTokens": 45472,
+     "cacheReadInputTokens": 4146840,
+     "cacheCreationInputTokens": 136691,
+     "webSearchRequests": 0,
+     "costUSD": 2.832656,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 20091,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 136691,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 41,
+   "result_summary": "The 2001-08-03 consolidation is committed as one commit (`c4718cfe`) and not pushed; the runner pushes after its own checks. Both gates passed: `lint.py` with 187 warnings and no errors, and `sleep-audit.py` with no findings.\n\n- **Messages:** 47 of the 52 messages with notes are now cited in memory. The other 5 (m08826, m08845, m08847, m08851, m08852) are links the owner mailed to himself as bookmarks, listed in `dataset/drops/sleep-092.tsv`.\n- **Where they went:** all into existing topic files. The main ones:\n  - the owner's Prediction Company summary to Whalley (three proposed projects, equity and fees, a Santa Fe visit);\n  - Skilling agreeing to keynote UT's Feb 2002 energy finance conference — that conference file now covers the yearly series, not just 2001;\n  - Toshiba's offer of a joint Boltzmann-model prototype;\n  - the Dabhol pull-out news;\n  - new candidate leads and the owner's place on the UC Berkeley recruiting team.\n- **New people files:** Yuji Uenohara, George Gau, Wanda Curry, Edward Ondarza and Arthur Warga, each now in five or more messages with notes. They are also added to the alias table.\n- **Compression:** no file was above 90% of its ceiling, so the three-file quota had nothing to act on. Topic files already over target had their oldest lines moved word for word to `memory/archive/<domain>/2001/*-2001-08-03.md`, so none grew past the audit's limit.\n- **Also updated:** the four domain indexes and `state.md`. The run log is `memory/archive/inbox/2001-08-03--run.md`, and the five processed inbox logs are now in `memory/archive/inbox/`.\n- **Nothing pending:** no sleep-task or feedback blocks this week, and no questions were due. The four open alias questions are due 2001-08-14 and 2001-08-25, and no new approval items were raised."
+  },
+  "repair": null
+ }
+}

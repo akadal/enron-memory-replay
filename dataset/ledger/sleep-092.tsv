@@ -1,0 +1,62 @@
+id	durable	status	detail
+m08794	no	not_durable	logistics
+m08795	no	not_durable	logistics
+m08796	no	not_durable	automated
+m08797	yes	kept	domains/industry/california-power-jan-2001.md
+m08798	yes	kept	domains/work/dabhol-power-sale.md
+m08799	yes	kept	domains/work/owner-publications.md
+m08800	yes	kept	domains/organization/corporate-announcements-2001.md
+m08801	yes	kept	domains/organization/summer-interns-2001.md
+m08802	no	not_durable	bulk
+m08803	yes	kept	domains/organization/summer-interns-2001.md
+m08804	yes	kept	domains/organization/recruiting-candidates.md
+m08805	yes	kept	domains/organization/recruiting-candidates.md
+m08806	yes	kept	domains/organization/summer-interns-2001.md
+m08807	no	not_durable	bulk
+m08808	no	not_durable	bulk
+m08809	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08810	yes	kept	domains/work/enron-media-advertising.md people/edward-ondarza.md
+m08811	yes	kept	domains/organization/research-group-2001.md
+m08812	no	not_durable	bulk
+m08813	yes	kept	domains/organization/recruiting-candidates.md
+m08814	yes	kept	domains/organization/recruiting-candidates.md
+m08815	yes	kept	domains/organization/recruiting-candidates.md
+m08816	yes	kept	domains/organization/recruiting-candidates.md
+m08817	yes	kept	domains/work/weather-research-2001.md
+m08818	yes	kept	domains/organization/recruiting-candidates.md
+m08819	yes	kept	domains/organization/recruiting-candidates.md
+m08820	yes	kept	domains/organization/recruiting-candidates.md
+m08821	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md people/george-gau.md
+m08822	yes	kept	domains/work/ut-austin-ties-2000.md
+m08823	yes	kept	domains/work/ut-austin-ties-2000.md
+m08824	yes	kept	domains/industry/visitors-2001.md
+m08825	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m08826	yes	dropped	other: default-correlation paper link mailed to his own AOL as a bookmark
+m08827	yes	kept	domains/industry/visitors-2001.md
+m08828	yes	kept	domains/organization/corporate-announcements-2001.md
+m08829	yes	kept	domains/organization/recruiting-candidates.md
+m08830	yes	kept	domains/industry/visitors-2001.md people/yuji-uenohara.md
+m08831	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md people/george-gau.md
+m08832	yes	kept	domains/organization/recruiting-candidates.md
+m08833	yes	kept	domains/industry/california-power-jan-2001.md people/wanda-curry.md
+m08834	yes	kept	domains/work/transmission-modelling-2001.md
+m08835	yes	kept	domains/work/internal-meetings-2001.md
+m08836	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m08837	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m08838	yes	kept	domains/industry/uh-econophysics.md domains/personal/investments-2000.md
+m08839	yes	kept	domains/work/prediction-company.md
+m08840	yes	kept	domains/work/weather-research-2001.md
+m08841	yes	kept	domains/work/prediction-company.md
+m08842	yes	kept	domains/industry/visitors-2001.md people/yuji-uenohara.md
+m08843	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md domains/work/ut-austin-ties-2000.md
+m08844	no	not_durable	logistics
+m08845	yes	dropped	other: Stanford GSB E542 class-materials link mailed to himself as a bookmark
+m08846	yes	kept	domains/work/prediction-company.md
+m08847	yes	dropped	redundant: same Stanford E542 link as m08845, forwarded to AOL
+m08848	yes	kept	domains/work/prediction-company.md
+m08849	yes	kept	domains/work/prediction-company.md
+m08850	yes	kept	domains/organization/recruiting-candidates.md
+m08851	yes	dropped	other: Stanford wolak page link mailed to himself as a bookmark
+m08852	yes	dropped	redundant: same wolak link as m08851
+m08853	yes	kept	domains/industry/visitors-2001.md people/yuji-uenohara.md
+m08854	no	not_durable	other
