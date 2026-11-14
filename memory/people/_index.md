@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # People — index
 
@@ -103,6 +103,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Cheryl Brashier
 - Cheryl Kuehl
 - Chonawee Supatgiat
+- Chris Calger
 - Chris Harris
 - Chris Hilgert
 - Chris Kenyon
@@ -181,6 +182,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Elena Chilkina
 - Elizabeth Grant
 - Emma Wolfin
+- Eric Cope
 - Eric Gadd
 - Eric Groves
 - Eric Hilton
@@ -498,6 +500,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pravas Sud
 - Praveen Mellacheruvu
 - Punit Rawal
+- Pushkar Shahi
 - Qing Chen
 - Quentin Kerr
 - Rabi De
@@ -673,6 +676,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - William Bradford (William S Bradford)
 - William Fitzgibbon
 - William Smith (Sam Smith)
+- William Stuart III
 - Winny So
 - Winston Jia (Wenyao Jia)
 - Yana Kristal
