@@ -1,0 +1,184 @@
+{
+ "slice": 55,
+ "simulated_today": "2000-12-17",
+ "feed": {
+  "slice": 55,
+  "iso_week": "2000-W50",
+  "first_seq": 4709,
+  "last_seq": 4887,
+  "messages": 179,
+  "durable": 106,
+  "first_date": "2000-12-11 00:09",
+  "last_date": "2000-12-17 10:17",
+  "today": "2000-12-17",
+  "inbox_files": [
+   "2000-12-11--mail.md",
+   "2000-12-12--mail.md",
+   "2000-12-13--mail.md",
+   "2000-12-14--mail.md",
+   "2000-12-15--mail.md",
+   "2000-12-17--mail.md"
+  ],
+  "inbox_chars": 87143,
+  "l2_chars": 555065
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 914,
+ "quota_before": {
+  "five_hour": 41.0,
+  "seven_day": 37.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 44.0,
+  "seven_day": 37.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 55,
+  "messages": 179,
+  "durable": 106,
+  "kept": 106,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2207,
+  "fact_lines_with_source": 1467,
+  "dated": 1467,
+  "date_matches_source": 1430,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 669
+  },
+  "questions": {
+   "files": 1,
+   "chars": 250
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 148,
+   "chars": 253587
+  },
+  "people": {
+   "files": 408,
+   "chars": 277849
+  },
+  "archive_inbox": {
+   "files": 360,
+   "chars": 2893424
+  },
+  "archive_mail": {
+   "files": 4913,
+   "chars": 12015335
+  },
+  "archive_other": {
+   "files": 950,
+   "chars": 845404
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 92,
+   "duration_ms": 912003,
+   "duration_api_ms": 798994,
+   "total_cost_usd": 6.782055400000001,
+   "usage": {
+    "input_tokens": 180,
+    "cache_creation_input_tokens": 230005,
+    "cache_read_input_tokens": 16100877,
+    "output_tokens": 86056,
+    "output_tokens_details": {
+     "thinking_tokens": 33303
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 230005,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 692,
+      "cache_read_input_tokens": 261576,
+      "cache_creation_input_tokens": 220,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 220
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 180,
+     "outputTokens": 86056,
+     "cacheReadInputTokens": 16100877,
+     "cacheCreationInputTokens": 230005,
+     "webSearchRequests": 0,
+     "costUSD": 6.782055400000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 33303,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 230005,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 91,
+   "result_summary": "I consolidated week 2000-W50 into memory and committed it as one commit (`126fa47`). Lint and `sleep-audit.py` were both green before the commit, and the audit was green again on the commit itself; the ledger dry-run showed all 106 kept and 0 missing, and there were no date leaks. Of the week's 179 messages, all 106 with notes are cited in memory and none were dropped, so `dataset/drops/sleep-055.tsv` is empty. The main new material: market-implied default rates far above S&P's figures, UK VaR moving into RisktRac and being reconciled with the spreadsheet, Lu's finished WTI simulation for Lavorato, Kohli's DPC memo, the Lacima invoices and courses, the Wharton follow-up and Kunreuther's catastrophic-risk proposal, and Skilling named CEO from 12 Feb 2001. Two new topic files hold Grant Masson's return from El Paso and the GARP items (the 30 Jan meeting at Enron and the 50% Convention discount). Ten people reached their fifth noted message and got entity files; Sofya Tamarchenko, whom earlier runs missed, got one too, and no aliases were attached. The two approval questions due 2000-12-12 (the Peyton S Gibner alias, and whether Neil and David Davies are one person) lapsed unanswered and were closed as they stood, with notes marked `(?)` in the two people files and the closure logged to `archive/inbox/2000-12-17--mail-2.md`; no new questions were raised. The five oldest still-open lines checked this run all still hold. Older lines from about 30 files went to `archive/*/2000/*-2000-12-w50.md` to keep each file within its growth limit; no file was above 90% of its ceiling. There was no sleep-task in the inbox. I did not push, because your note says the runner pushes after its checks, although the closing instruction said `git push origin main`; I followed the first. The runner's `dataset/runs/sleep-055.transcript.jsonl` is still untracked, as it was when the run started."
+  },
+  "repair": null
+ }
+}
