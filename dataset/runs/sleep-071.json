@@ -1,0 +1,200 @@
+{
+ "slice": 71,
+ "simulated_today": "2001-04-08",
+ "feed": {
+  "slice": 71,
+  "iso_week": "2001-W14",
+  "first_seq": 6467,
+  "last_seq": 6604,
+  "messages": 138,
+  "durable": 102,
+  "first_date": "2001-04-02 00:37",
+  "last_date": "2001-04-08 22:15",
+  "today": "2001-04-08",
+  "inbox_files": [
+   "2001-04-02--mail.md",
+   "2001-04-03--mail.md",
+   "2001-04-04--mail.md",
+   "2001-04-05--mail.md",
+   "2001-04-06--mail.md",
+   "2001-04-08--mail.md"
+  ],
+  "inbox_chars": 76966,
+  "l2_chars": 334421
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 838,
+ "quota_before": {},
+ "quota_after": {
+  "five_hour": 5.0,
+  "seven_day": 43.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 71,
+  "messages": 138,
+  "durable": 102,
+  "kept": 98,
+  "kept_rate_excluding_redundant": 0.97,
+  "drop_classes": {
+   "logistics": 2,
+   "no_owner_content": 1,
+   "redundant": 1
+  },
+  "dropped": 4,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2911,
+  "fact_lines_with_source": 1901,
+  "dated": 1901,
+  "date_matches_source": 1854,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.89,
+   1.0,
+   0.82
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 562
+  },
+  "questions": {
+   "files": 1,
+   "chars": 673
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 199,
+   "chars": 354658
+  },
+  "people": {
+   "files": 540,
+   "chars": 359104
+  },
+  "archive_inbox": {
+   "files": 460,
+   "chars": 3909975
+  },
+  "archive_mail": {
+   "files": 6630,
+   "chars": 16243864
+  },
+  "archive_other": {
+   "files": 1290,
+   "chars": 1079204
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 59,
+   "duration_ms": 836737,
+   "duration_api_ms": 758749,
+   "total_cost_usd": 4.935181400000001,
+   "usage": {
+    "input_tokens": 102,
+    "cache_creation_input_tokens": 218944,
+    "cache_read_input_tokens": 7340154,
+    "output_tokens": 85747,
+    "output_tokens_details": {
+     "thinking_tokens": 41699
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 218944,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 722,
+      "cache_read_input_tokens": 235810,
+      "cache_creation_input_tokens": 313,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 313
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2376,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002506,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 102,
+     "outputTokens": 85747,
+     "cacheReadInputTokens": 7340154,
+     "cacheCreationInputTokens": 218944,
+     "webSearchRequests": 0,
+     "costUSD": 4.934930800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 41699,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 218944,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 58,
+   "result_summary": "I consolidated week 2001-W14 (simulated date 2001-04-08) and committed it as one commit, `c167c84` on `main`. I didn't push, as your instructions said the runner does that. Both gates passed: `lint.py` is green with 177 warnings and `sleep-audit.py` is green, both before the commit and when re-run against it. All 102 messages with notes are accounted for:\n\n- **Cited (98):** every one is linked from L1. Most go into existing topic files, with older lines moved word for word to 26 new `archive/*/2001/*-2001-04-w14.md` files so no file grew past the audit's growth limit.\n- **Dropped (4):** listed in `dataset/drops/sleep-071.tsv` (m06498, m06566, m06593, m06596).\n- **New topic files (7):** the Sydney wind farm real option, vendor offers 2001 (Argonne, NumeriX, Comdata), EBS requests, Jedi Shares, the outage risk option presentation, Tony Hamilton's London post, and April candidate interviews. Two of them, `candidate-interviews-apr-2001` and `tony-hamilton-london-2001`, are over the 1,600-character target but under the ceiling, so lint warns but passes.\n- **New people files (7):** these people reached five messages with notes this week: Joao Neves, Kate Szablya, Shawn Cumberland, Ryan Siurek, Dan Diamond, Richard Zdunkewicz and Alexander Eydeland. All seven are in the people index.\n- **Also refreshed:** the four domain indexes and `state.md`; the processed inbox logs moved to `memory/archive/inbox/`.\n\nNothing needed approval, so `questions.md` is unchanged. The Matthew Harris question is due 2001-04-08, which hasn't passed yet, so next week's run will close it. There were no sleep-task or feedback blocks and no source taps. The five oldest still-open lines remain valid. No file was above 90% of its ceiling, so the compression quota didn't apply. The runner's untracked `dataset/runs/sleep-071.transcript.jsonl` was left out of the commit."
+  },
+  "repair": null
+ }
+}

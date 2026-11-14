@@ -1,0 +1,139 @@
+id	durable	status	detail
+m06467	yes	kept	domains/work/credit-markets.md
+m06468	yes	kept	domains/organization/hr-matters-2001.md
+m06469	yes	kept	domains/industry/rice-university.md domains/personal/household.md
+m06470	no	not_durable	bulk
+m06471	yes	kept	domains/work/outside-requests-2001.md
+m06472	yes	kept	domains/industry/visitors-2001.md
+m06473	yes	kept	domains/work/wind-farm-real-option-2001.md
+m06474	yes	kept	domains/work/research-presentations.md
+m06475	no	not_durable	pleasantry
+m06476	no	not_durable	pleasantry
+m06477	yes	kept	domains/organization/research-group-2001.md
+m06478	no	not_durable	logistics
+m06479	yes	kept	domains/industry/visitors-2001.md domains/work/enroncredit-support-2000.md
+m06480	no	not_durable	quote_only
+m06481	yes	kept	domains/work/research-presentations.md
+m06482	no	not_durable	logistics
+m06483	yes	kept	domains/work/ebs-research-requests-2001.md
+m06484	yes	kept	domains/industry/rice-university.md
+m06485	yes	kept	domains/industry/visitors-2001.md domains/work/enroncredit-support-2000.md
+m06486	no	not_durable	bulk
+m06487	yes	kept	domains/work/credit-markets.md
+m06488	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/joao-neves.md people/kate-szablya.md
+m06489	yes	kept	domains/work/model-risk-audit.md
+m06490	no	not_durable	logistics
+m06491	no	not_durable	bulk
+m06492	yes	kept	domains/work/credit-markets.md
+m06493	no	not_durable	bulk
+m06494	no	not_durable	logistics
+m06495	yes	kept	domains/organization/tony-hamilton-london-2001.md
+m06496	yes	kept	domains/work/wind-farm-real-option-2001.md
+m06497	yes	kept	domains/industry/events-attending-2000.md
+m06498	yes	dropped	no_owner_content: Deutsche Bank power fundamentals report forwarded FYI, no owner action
+m06499	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m06500	yes	kept	domains/industry/eprm-risk.md
+m06501	yes	kept	domains/industry/eprm-risk.md
+m06502	yes	kept	domains/work/enroncredit-support-2000.md
+m06503	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06504	yes	kept	domains/organization/tony-hamilton-london-2001.md
+m06505	no	not_durable	logistics
+m06506	yes	kept	domains/organization/tony-hamilton-london-2001.md
+m06507	yes	kept	domains/work/enroncredit-support-2000.md
+m06508	yes	kept	domains/work/ebs-research-requests-2001.md
+m06509	yes	kept	domains/work/ebs-research-requests-2001.md
+m06510	yes	kept	domains/organization/office-equipment.md
+m06511	no	not_durable	empty
+m06512	yes	kept	domains/work/model-risk-audit.md
+m06513	yes	kept	domains/work/model-risk-audit.md
+m06514	yes	kept	domains/industry/events-attending-2000.md
+m06515	no	not_durable	empty
+m06516	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/kate-szablya.md
+m06517	yes	kept	domains/work/talon-raptor.md
+m06518	no	not_durable	logistics
+m06519	yes	kept	domains/personal/correspondence.md
+m06520	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06521	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m06522	yes	kept	domains/work/outside-requests-2001.md
+m06523	yes	kept	domains/work/desk-analysis-requests.md
+m06524	no	not_durable	bulk
+m06525	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/joao-neves.md
+m06526	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/joao-neves.md people/kate-szablya.md
+m06527	yes	kept	domains/work/wind-farm-real-option-2001.md
+m06528	yes	kept	domains/work/country-risk-curves.md
+m06529	no	not_durable	bulk
+m06530	no	not_durable	bulk
+m06531	yes	kept	domains/work/vendor-offers-2001.md
+m06532	yes	kept	domains/industry/events-attending-2000.md
+m06533	no	not_durable	bulk
+m06534	yes	kept	domains/organization/office-equipment.md
+m06535	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06536	no	not_durable	logistics
+m06537	yes	kept	domains/organization/candidate-interviews-apr-2001.md people/kate-szablya.md
+m06538	no	not_durable	bulk
+m06539	yes	kept	domains/organization/tony-hamilton-london-2001.md
+m06540	yes	kept	domains/work/credit-markets.md
+m06541	no	not_durable	quote_only
+m06542	yes	kept	domains/work/wind-farm-real-option-2001.md
+m06543	yes	kept	domains/work/group-papers-2000.md
+m06544	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06545	yes	kept	domains/industry/research-memberships-2000.md
+m06546	yes	kept	domains/organization/tony-hamilton-london-2001.md
+m06547	no	not_durable	quote_only
+m06548	yes	kept	domains/industry/uh-econophysics.md
+m06549	yes	kept	domains/organization/hr-matters-2001.md
+m06550	yes	kept	domains/industry/uh-econophysics.md
+m06551	yes	kept	domains/work/outside-requests-2001.md
+m06552	yes	kept	domains/work/outside-requests-2001.md
+m06553	no	not_durable	bulk
+m06554	yes	kept	domains/work/vendor-offers-2001.md people/shawn-cumberland.md
+m06555	yes	kept	domains/work/lacima-book-2000.md
+m06556	yes	kept	domains/work/research-presentations.md
+m06557	yes	kept	domains/industry/rice-university.md people/dan-diamond.md
+m06558	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06559	yes	kept	domains/work/jedi-shares-2001.md people/ryan-siurek.md
+m06560	no	not_durable	quote_only
+m06561	yes	kept	domains/organization/london-research.md
+m06562	no	not_durable	bulk
+m06563	no	not_durable	bulk
+m06564	no	not_durable	quote_only
+m06565	yes	kept	domains/work/ees-termination-payments-2001.md people/richard-zdunkewicz.md
+m06566	yes	dropped	logistics: Steve Bigalow revised document relayed by William Smith, copied to AOL
+m06567	yes	kept	domains/organization/research-group-2001.md
+m06568	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06569	no	not_durable	bulk
+m06570	no	not_durable	quote_only
+m06571	yes	kept	domains/personal/correspondence.md people/alexander-eydeland.md
+m06572	no	not_durable	bulk
+m06573	yes	kept	domains/personal/correspondence.md people/alexander-eydeland.md
+m06574	yes	kept	domains/work/outside-requests-2001.md
+m06575	yes	kept	domains/industry/sponsorship-requests-2001.md
+m06576	no	not_durable	empty
+m06577	yes	kept	domains/work/outage-risk-option-2001.md
+m06578	yes	kept	domains/organization/software-licenses.md
+m06579	yes	kept	domains/work/outage-risk-option-2001.md
+m06580	yes	kept	domains/organization/software-licenses.md
+m06581	yes	kept	domains/work/enterprise-risk-management.md
+m06582	yes	kept	domains/work/henwood-emss-query.md
+m06583	no	not_durable	quote_only
+m06584	yes	kept	domains/work/ees-structuring-models.md
+m06585	yes	kept	domains/industry/sponsorship-requests-2001.md
+m06586	yes	kept	domains/work/ees-structuring-models.md
+m06587	yes	kept	domains/industry/sponsorship-requests-2001.md
+m06588	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m06589	yes	kept	domains/personal/correspondence.md
+m06590	no	not_durable	bulk
+m06591	yes	kept	domains/work/desk-analysis-requests.md
+m06592	yes	kept	domains/organization/london-research.md people/alexander-eydeland.md
+m06593	yes	dropped	redundant: Titman 28 Mar consulting note re-forwarded to AOL, already recorded
+m06594	yes	kept	domains/organization/candidate-interviews-apr-2001.md
+m06595	yes	kept	domains/industry/events-attending-2000.md
+m06596	yes	dropped	logistics: Shi-Jie Deng contact details mailed to AOL
+m06597	yes	kept	domains/work/var-credit-system-2001.md
+m06598	no	not_durable	quote_only
+m06599	yes	kept	domains/organization/software-licenses.md
+m06600	yes	kept	domains/work/vendor-offers-2001.md
+m06601	yes	kept	domains/work/research-presentations.md
+m06602	yes	kept	domains/work/var-credit-system-2001.md
+m06603	no	not_durable	automated
+m06604	yes	kept	domains/organization/software-licenses.md
