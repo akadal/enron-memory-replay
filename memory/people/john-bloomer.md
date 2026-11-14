@@ -5,7 +5,7 @@ entity: person
 name: "John Bloomer"
 aliases: []
 domains: [work]
-updated: 2000-07-23
+updated: 2000-08-26
 ---
 # John Bloomer
 
@@ -16,3 +16,4 @@ Enron Broadband Services product side (streaming media; storage products). ←[[
 - [2000-03-08] Pointed to the M3i consultants; OPNET sizing for his streaming products → memory/domains/work/ebs-network-planning.md ←[[m00868]] ←[[m00914]]
 - [2000-03-09] His group needed for storage pooling points; Sherron Watkins on his team → memory/domains/work/ebs-storage-market.md ←[[m00920]] ←[[m00923]] ←[[m00933]]
 - [2000-07-18] Voice mail to the owner, passed to Gibner (maybe to Louise Kitchen) → memory/domains/work/broadband-services.md ←[[m02420]]
+- [2000-07-18] (?) The body of m02420 signs "John Blumer (EBS)"; alias "John Blumer" not added. Status quo: the approval question lapsed unanswered (due 2000-08-22), closed at the 2000-08-26 consolidation. ←[[m02420]]

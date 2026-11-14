@@ -3,20 +3,18 @@ id: candidate-interviews-aug-2000
 type: topic
 domain: organization
 title: "Research interviews, August 2000"
-summary: "Candidates for the owner's group, Aug 2000: Quentin Kerr (UQ; Sydney interview, Houston call missed 16 Aug over time zones); Rabi De back for a second round; Ben Zhang 17 Aug; Li Sun 17 Aug; Rahul Kumar wants advice; Naveen's resume to Lavorato; Jeff Andrews archived."
+summary: "Candidates for the owner's group, Aug 2000: Li Sun (Wharton) placed without an interview, then interviewed 22 Aug and starts her first rotation in Research 28 Aug; Rabi De to get an offer; an EI resume (hiring freeze) to Lavorato; Kerr, Ben Zhang, Rahul Kumar and earlier rounds archived."
 status: active
-updated: 2000-08-20
+updated: 2000-08-26
 ---
 # Research interviews, August 2000
 
-Detail ←[[candidate-interviews-aug-2000-2000-08-w33]]
+Detail ←[[candidate-interviews-aug-2000-2000-08-w33]] ←[[candidate-interviews-aug-2000-2000-08-w34]]
 
 July rounds: memory/domains/organization/candidate-interviews-jul-2000.md. Pipeline: memory/domains/organization/recruiting-candidates.md. Quentin Kerr's earlier papers ←[[candidate-referrals-2000-2000-08-w32]]
 
-- [2000-08-11] Kerr: Phil Taylor brings him from Queensland to the Sydney office for a due-diligence interview; Houston phone interview proposed Wed 16 or Thu 17 Aug, 5:00 pm Houston (Crenshaw); he sends a draft paper (Jump1.pdf) for comments. ←[[m02796]] ←[[m02797]] ←[[m02798]] ←[[m02802]] ←[[m02825]]
-- [2000-08-09] An unnamed candidate: "I shall interview this candidate next week" (a very preliminary interview, fit with Enron's culture); to Julia Murray and Mark Haedicke: "Do you see a need for a person with his skills in your area (litigation support)?" ←[[m02779]]
 - [2000-08-11] Li Sun (Associate/Analyst) wants to join Research; to Anita DuPont: "I need 15 minutes to explore if she fits the group. Please, schedule a meeting on Thursday, Aug 17." ←[[m02813]]
-- [2000-08-14] Kerr: Wednesday or Thursday suits him; the 16 Aug 5:00 pm call (owner, Masson, Huang) is missed through a time-zone mix-up, he stays home next day for the call. ←[[m02830]] ←[[m02873]]
-- [2000-08-14] Rabi S. De (ex-Shell Research; interviewed Fri 11 Aug) is invited back next week. ←[[m02831]]
-- [2000-08-15] Ben Zhang interviews Thu 17 Aug with Huang, Masson, Kindall, Gibner, Tamarchenko, Lu (Sean Grady's packet). ←[[m02839]]
-- [2000-08-16] Owner to Lavorato: "Naveen's resume."; 17 Aug, Rahul Kumar (Enron Development; resume via Paula Corey) wants advice on US-focused roles, in Houston the week of 21 Aug: "I shall be glad to meet with you. Please, give me a call when you get here." ←[[m02850]] ←[[m02869]]
+- [2000-08-21] Li Sun: placed in Research on Shankman's note without an interview; owner to Shelly Butler: "I shall not accept anybody for a rotation without a prior interview.", "Please, assume she is not rotating into my group till further notice." (she missed last Thursday's meeting); Jana Giovannini apologises and faxes the resume. Vikas Dwivedi goes to ENA Middle Market. ←[[m02925]] ←[[m02926]] ←[[m02929]]
+- [2000-08-22] Owner to Shankman: "We shall invite her for an interview.", "A/A programs has real problems with logistics."; Shankman wants it settled by week's end (a disgruntled Wharton recruit would look bad). 23 Aug: "I met with Li Sun last night and I shall take her for the first rotation.", "She comes across as a very smart and highly motivated person."; Giovannini: she starts in Research Mon 28 Aug. ←[[m02940]] ←[[m02951]] ←[[m02955]] ←[[m02957]] ←[[m02960]]
+- [2000-08-21] Owner to Lavorato: "Please, take a look at this resume.", "One complicating factor: this person is under freeze (EI employee)." ←[[m02936]]
+- [2000-08-23] Rabi De (second round 21 Aug with Ted Murphy's RAC staff and Dennis Benevides, EES): "We shall extend an offer to you within a day or two." ←[[m02971]]

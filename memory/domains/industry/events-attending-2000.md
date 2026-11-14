@@ -3,9 +3,9 @@ id: events-attending-2000
 type: topic
 domain: industry
 title: "Workshops and conferences the owner attends, 2000"
-summary: "Events the owner attends: Jan-Apr ones archived; Wharton visit before a New York conference of 18-19 May; EPRI ancillary services workshop, Houston 7 Sep, invitation (Aug 2000); CERA summit and IAFE evening archived."
+summary: "Events the owner attends: Jan-Apr ones archived; Wharton visit before a New York conference of 18-19 May; EPRI ancillary services workshop, Houston 7 Sep, registered (Aug 2000); CERA summit and IAFE evening archived."
 status: active
-updated: 2000-08-20
+updated: 2000-08-26
 ---
 # Workshops and conferences the owner attends, 2000
 
@@ -15,3 +15,4 @@ Events where the owner speaks or chairs: memory/domains/industry/speaking-engage
 - [2000-04-11] Wharton (Tom Piazze): the owner visits the campus the day before a New York conference of 18-19 May and owes topic write-ups so faculty can be lined up; "Please, put it on my schedule." ←[[m01242]] ←[[m01247]] ←[[m01285]]
 - [2000-05-11] "I shall be in NYC May the17th through 19th (flying back on Friday)." ←[[m01648]]
 - [2000-08-18] Jeremy Platt (EPRI Power and Fuel Markets) invites the owner or colleagues to a one-day ancillary services workshop, Houston, 7 Sep (Rajat Deb, LCG), to shape EPRI research. ←[[m02905]]
+- [2000-08-24] EPRI workshop, owner to Crenshaw: "Please, register me for this conference." (contacts Jeremy Platt, Dale Gray). ←[[m02986]]

@@ -5,7 +5,7 @@ entity: person
 name: "Michael Schilmoeller"
 aliases: []
 domains: [organization, work]
-updated: 2000-08-20
+updated: 2000-08-26
 ---
 # Michael Schilmoeller
 
@@ -18,3 +18,4 @@ PGN, Portland (Michael_Schilmoeller@pgn.com); Portland video-conference contact;
 ## Context: work
 
 - [2000-05-31] The owner recommends him the Journal of Derivatives and the Journal of Finance ←[[m01856]]
+- [2000-08-24] Helps London's Karolina Potter with Henwood EMSS marginal costs (Leppard's referral) → memory/domains/work/henwood-emss-query.md ←[[m02982]] ←[[m03007]] ←[[m03010]]

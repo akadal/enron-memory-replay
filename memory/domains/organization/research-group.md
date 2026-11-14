@@ -3,13 +3,13 @@ id: research-group
 type: topic
 domain: organization
 title: "The owner's Research Group"
-summary: "Members, titles, Thursday staff meeting, 19th floor (owner EB1962); SAP time site lists leavers, Niclas Egmar's status unclear, Co#/RC# mail (Aug 2000); admin detail archived."
+summary: "Members, titles, Thursday staff meeting at 11:30 (metals talk 24 Aug), 19th floor (owner EB1962); HR Rep Norma Villarreal, Staffing Rep Toni Graham; Dhar passed CFA Level II (Aug 2000); SAP time site and Egmar items archived."
 status: active
-updated: 2000-08-20
+updated: 2000-08-26
 ---
 # The owner's Research Group
 
-Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]] ←[[research-group-2000-08-w31]]
+Detail ←[[research-group-2000-07-w28]] ←[[research-group-2000-07-w30]] ←[[research-group-2000-08-w31]] ←[[research-group-2000-08-w34]]
 
 Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.md. Admin history (parties, software, lunches, expenses, flowers): ←[[research-group-2000-04-w16]] ←[[research-group-2000-04-w17]] ←[[research-group-2000-06-w25]] ←[[research-group-2000-07-w27]] ←[[research-group-2000-08-w33]]
 
@@ -23,6 +23,5 @@ Equipment and the 32nd-floor move: memory/domains/organization/office-equipment.
 
 - [2000-03-16→] Thursdays 11:30-1:00, EB30C1: staff meeting with lunch, and the video conference with London and Portland (30-35 people). ←[[m00994]] ←[[m01052]] ←[[m01964]]
 - [2000-07-27→] Owner: "We are on the 19th floor." (his office EB1962, ext. 3-3848); 32nd-floor seat: memory/domains/organization/office-equipment.md ←[[m02532]] ←[[m02553]]
-- [2000-08-14] Crenshaw: the SAP time site (CC 105896) still lists Kollaros, Mandeep Chahal (new Power Co.), Lalji, Zadorozhny, interns Gaddis and Aimone (left 11 Aug); move them? ←[[m02833]]
-- [2000-08-15] Niclas Egmar sought West Coast data from Michael Schilmoeller (PGN) for Daniel Kang (West Power); owner to Krishnarao: "Niclas introduces himself as an associate in the Research Group. I think we should clarify his status." ←[[m02840]] ←[[m02844]]
-- [2000-08-16] Crenshaw's new Co.#/RC# mail: "No info in this msg." ←[[m02860]]
+- [2000-08-23] Crenshaw: Maureen Raymond and Elena Chilkina present "Introduction to the Metals Industry" at Thursday's staff meeting (slides out 25 Aug); Norma Villarreal is the new HR Rep, Toni Graham the Staffing Rep; owner: "A reminder to the Houston crew. The meeting starts at 11:30. Please, be on time." ←[[m02968]] ←[[m03014]]
+- [2000-08-25] Amitava Dhar passed CFA Level II, thanks the owner and Shanbhogue; owner: "Congratulations." ←[[m03021]]
