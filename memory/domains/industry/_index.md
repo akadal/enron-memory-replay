@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-15
+updated: 2001-06-21
 ---
 # Industry — index
 
@@ -9,7 +9,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Talks: Stanford 21-22 Jun (attending, no chair); IQPC London Oct (reply by 19 Jun); Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; IACCGH 16 Jun; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
+- Talks: SMS fee surprise; Risk Waters slides due 20 Jun; IQPC brochure → memory/domains/industry/speaking-and-visits-jun-18-2001.md; Stanford 21-22 Jun; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
 - Neptune to Cunningham and Presto; Alberta MBA recruiting to Lemmons → memory/domains/industry/outside-contacts-jun-08-2001.md
 - Universities: Stanford EMF agenda → memory/domains/industry/speaking-and-visits-early-jun-2001.md; WeBI → memory/domains/industry/university-ties-late-may-2001.md
 - Wharton: Risk Center 14 Jun → memory/domains/industry/wharton-risk-center-2001.md
@@ -26,11 +26,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/el-paso-capacity.md — El Paso capacity deal, ended 31 Jan 2000
 - memory/domains/industry/eprm-risk.md — RISK's EPRM events, EPRM 2001 (Bristow), Hanley to the magazine
 - memory/domains/industry/esai-energycast-review.md — ESAI/WSI Energycast review (Ed Krapels, Jul 2000)
-- memory/domains/industry/events-attending-2000.md — events attended (CERAWeek, Texas Finance Festival 2001)
+- memory/domains/industry/events-attending-2000.md — events attended (CERAWeek, TFF 2001)
 - memory/domains/industry/ferc-transmission-resale.md — FERC transmission resale cap (Mar 2000)
 - memory/domains/industry/garp-2001.md — GARP 2001 Convention (chair Track 4, 13 Feb 2001) and GARP at Enron 30 Jan 2001
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model (Robert Brooks)
-- memory/domains/industry/informs-san-antonio-2000.md — INFORMS San Antonio, Nov 2000: owner's talk (Deng) cancelled
+- memory/domains/industry/informs-san-antonio-2000.md — INFORMS San Antonio, Nov 2000 (talk cancelled)
 - memory/domains/industry/market-outlooks-2000.md — outside market views, 2000
 - memory/domains/industry/real-options-debate-2000.md — real options debate (Apr 2000)
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, Enron's Wharton deal, conference sponsorships; AGA
@@ -41,7 +41,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona (class declined), Sheble, Oren, Kholodnyi (Dallas), Harvard 'Modern Giants'
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
-- memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project
+- memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001, Retail team
 - memory/domains/industry/petronas-visit-feb-2001.md — Petronas risk management visit, 8 Feb 2001
 - memory/domains/industry/wharton-projects-feb-2001.md — Wharton FAP projects (Teams 1, 3) and the 20 Feb 2001 trip
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
@@ -64,3 +64,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-and-visits-jun-08-2001.md — talks and trips from 6 Jun 2001 (SMS, IQPC, INFOCAST, IACCGH)
 - memory/domains/industry/outside-contacts-jun-08-2001.md — Neptune, Alberta Energy MBA, Norsk Hydro evaluations, Jun 2001
 - memory/domains/industry/speaking-and-visits-jun-15-2001.md — talks from 11 Jun 2001 (Paris, IQPC, Stanford)
+- memory/domains/industry/speaking-and-visits-jun-18-2001.md — talks from 18 Jun 2001 (SMS fee, Risk Waters, IQPC)

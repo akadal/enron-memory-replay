@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-15
+updated: 2001-06-21
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Policy and events: one-RAC Risk Management Policy draft; protest procedures; Casari farewell 20 Jun; COM talk 19 Jun → memory/domains/organization/research-staff-jun-15-2001.md
-- Staff: Gibner, Lucas left 6 Jun; reorg meeting 15 Jun; Raymond's PRC dispute → memory/domains/organization/research-staff-jun-08-2001.md
+- Staff: all hiring postponed to late Aug-early Sep (new building); Bibi resigned (Putnam); Neale's Rice lectures → memory/domains/organization/research-staff-jun-18-2001.md
+- Policy: one-RAC Risk Management Policy draft; protest procedures → memory/domains/organization/research-staff-jun-15-2001.md
 - PRC: Research review 6 Jun; specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul → memory/domains/organization/referrals-and-admin-jun-08-2001.md
-- Referrals: Paleologo unsigned (in Italy); Saksena, Mielke; SRM accountant; PG&E ethical wall → memory/domains/organization/referrals-and-admin-jun-08-2001.md; hiring paused for space → memory/domains/organization/referrals-jun-04-2001.md
+- Referrals: Paleologo unsigned (in Italy); PG&E ethical wall → memory/domains/organization/referrals-and-admin-jun-08-2001.md
 - Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
 - Admin: HR → memory/domains/organization/hr-matters-2001.md
 
@@ -81,3 +81,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/research-staff-jun-08-2001.md — staff from 6 Jun 2001
 - memory/domains/organization/referrals-and-admin-jun-08-2001.md — referrals and admin from 6 Jun 2001
 - memory/domains/organization/research-staff-jun-15-2001.md — policy and events from 11 Jun 2001
+- memory/domains/organization/research-staff-jun-18-2001.md — hiring pause, Bibi, admin from 18 Jun 2001
