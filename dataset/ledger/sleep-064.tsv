@@ -1,0 +1,103 @@
+id	durable	status	detail
+m05828	yes	kept	domains/organization/candidate-referrals-2000.md people/bogdan-szopa.md
+m05829	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m05830	yes	kept	domains/industry/speaking-engagements-2000.md people/david-palumbo.md people/michael-froehls.md people/raj-srivastava.md
+m05831	yes	kept	domains/work/synfuel-option-2001.md
+m05832	yes	kept	domains/organization/recruiting-candidates.md
+m05833	yes	kept	domains/organization/leave-and-training.md
+m05834	no	not_durable	quote_only
+m05835	yes	kept	domains/work/stanford-research-ties.md
+m05836	yes	kept	domains/work/warsaw-mba-theses-2001.md
+m05837	yes	kept	domains/industry/speaking-engagements-2000.md people/david-palumbo.md people/michael-froehls.md people/raj-srivastava.md
+m05838	no	not_durable	logistics
+m05839	no	not_durable	bulk
+m05840	no	not_durable	bulk
+m05841	yes	kept	domains/industry/energy-exchanges-2001.md
+m05842	yes	kept	domains/work/hanover-costless-collar-jan-2001.md
+m05843	yes	kept	domains/work/enron-transformation-paper.md
+m05844	yes	kept	domains/work/enron-transformation-paper.md
+m05845	yes	kept	domains/personal/investments-2000.md domains/work/lacima-book-2000.md
+m05846	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m05847	yes	kept	domains/work/lacima-book-2000.md
+m05848	no	not_durable	bulk
+m05849	yes	kept	domains/organization/candidate-referrals-2000.md people/bogdan-szopa.md
+m05850	yes	kept	domains/organization/research-group-2001.md
+m05851	yes	kept	domains/work/lacima-book-2000.md
+m05852	yes	kept	domains/organization/leave-and-training.md
+m05853	yes	kept	domains/work/lacima-book-2000.md
+m05854	yes	kept	domains/work/talon-raptor.md
+m05855	yes	kept	people/grant-masson.md
+m05856	no	not_durable	quote_only
+m05857	yes	kept	people/lance-cunningham.md
+m05858	yes	kept	domains/work/enterprise-risk-management.md
+m05859	yes	kept	domains/organization/leave-and-training.md
+m05860	yes	kept	people/kenneth-parkhill.md
+m05861	yes	kept	domains/work/internal-meetings-2001.md
+m05862	yes	kept	domains/organization/corporate-announcements-2000.md people/cassandra-schultz.md
+m05863	yes	kept	domains/work/var-credit-system-2001.md
+m05864	yes	kept	domains/work/marketpoint-gas-model-2001.md
+m05865	yes	kept	domains/organization/summer-interns-2001.md people/michael-danielson.md
+m05866	no	not_durable	quote_only
+m05867	no	not_durable	quote_only
+m05868	yes	kept	domains/organization/office-equipment.md
+m05869	yes	kept	domains/organization/office-equipment.md people/paige-cox.md
+m05870	yes	kept	domains/work/stanford-research-ties.md
+m05871	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/rachel-quirke.md
+m05872	yes	kept	domains/organization/outside-recruiters-2001.md
+m05873	yes	kept	domains/work/ees-termination-payments-2001.md
+m05874	no	not_durable	bulk
+m05875	yes	kept	domains/work/ees-termination-payments-2001.md
+m05876	yes	dropped	other: self-reminder to send hedging papers to "Roberts", no context
+m05877	yes	kept	domains/work/lacima-book-2000.md
+m05878	no	not_durable	bulk
+m05879	no	not_durable	bulk
+m05880	no	not_durable	pleasantry
+m05881	yes	kept	domains/industry/events-attending-2000.md
+m05882	yes	kept	domains/industry/events-attending-2000.md
+m05883	yes	kept	domains/industry/visitors-2001.md
+m05884	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05885	no	not_durable	bulk
+m05886	yes	kept	domains/industry/wharton-projects-feb-2001.md people/kenneth-parkhill.md
+m05887	no	not_durable	quote_only
+m05888	yes	kept	domains/work/genco-plant-model-2001.md people/cecil-stradford.md people/helen-zhang.md
+m05889	yes	kept	domains/organization/software-licenses.md
+m05890	no	not_durable	bulk
+m05891	yes	kept	domains/organization/summer-interns-2001.md
+m05892	yes	kept	domains/organization/office-equipment.md people/paige-cox.md
+m05893	yes	kept	domains/organization/staff-moves-jan-2001.md people/anshuman-srivastav.md
+m05894	yes	kept	domains/industry/wharton-projects-feb-2001.md people/omar-bassal.md people/stephen-lessar.md
+m05895	yes	kept	domains/industry/wharton-projects-feb-2001.md people/kenneth-parkhill.md
+m05896	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05897	yes	kept	domains/work/lacima-book-2000.md
+m05898	yes	kept	domains/industry/wharton-projects-feb-2001.md people/nicholas-levitt.md people/omar-bassal.md people/stephen-lessar.md
+m05899	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05900	yes	kept	domains/organization/summer-interns-2001.md people/dmitri-villevald.md
+m05901	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05902	no	not_durable	other
+m05903	yes	kept	domains/organization/leave-and-training.md
+m05904	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05905	yes	kept	domains/organization/summer-interns-2001.md
+m05906	yes	kept	domains/organization/leave-and-training.md
+m05907	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05908	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05909	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05910	no	not_durable	quote_only
+m05911	yes	kept	domains/industry/wharton-projects-feb-2001.md people/kenneth-parkhill.md
+m05912	yes	kept	domains/personal/lifetrak-venture-2001.md
+m05913	yes	kept	domains/organization/summer-interns-2001.md
+m05914	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05915	yes	kept	domains/organization/candidate-interviews-feb-2001.md domains/organization/outside-recruiters-2001.md people/rachel-quirke.md
+m05916	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05917	yes	kept	domains/industry/speaking-engagements-2000.md people/david-palumbo.md people/michael-froehls.md people/raj-srivastava.md
+m05918	no	not_durable	bulk
+m05919	no	not_durable	bulk
+m05920	no	not_durable	bulk
+m05921	no	not_durable	bulk
+m05922	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05923	yes	kept	domains/work/internal-meetings-2001.md
+m05924	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/rachel-quirke.md
+m05925	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/rachel-quirke.md
+m05926	yes	kept	domains/organization/recruiting-candidates.md
+m05927	yes	kept	domains/work/marketpoint-gas-model-2001.md
+m05928	yes	dropped	logistics: Tanya phone number mailed to own AOL
+m05929	yes	kept	domains/organization/corporate-announcements-2000.md people/cassandra-schultz.md
