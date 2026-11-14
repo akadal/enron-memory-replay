@@ -3,9 +3,9 @@ id: enterprise-risk-management
 type: topic
 domain: work
 title: "Enterprise-Wide Risk Management"
-summary: "Enterprise-Wide Risk Management (Causey's initiative, 2000): volumetric risk module, then Asset/Liability or Operational Risk models; Ding Yuan's EWRM work; Asset/Liability Modeling brainstorm (Li Sun, Kindall, Shanbhogue, Masson, Gibner; Aug 2000); Li Sun's OAS reading (Sep 2000); RiskOps news and NPPD visit archived."
+summary: "Enterprise-Wide Risk Management (Causey's initiative, 2000): volumetric risk module, then Asset/Liability or Operational Risk models; Ding Yuan's EWRM work; Asset/Liability Modeling brainstorm (Aug 2000); Li Sun's OAS reading; owner's ERM write-up to Jim Bouillion (Sep 2000); RiskOps news and NPPD visit archived."
 status: active
-updated: 2000-09-10
+updated: 2000-09-15
 ---
 # Enterprise-Wide Risk Management
 
@@ -18,3 +18,4 @@ Owner: "It's Enterprise - Wide Risk Management and it's really an effort to meas
 - [2000-07-07] Ding Yuan's EWRM update to Rick Carson (cc Masson, Kindall, owner); the three work on the project. ←[[m02289]]
 - [2000-08-30] Crenshaw sets an Asset/Liability Modeling brainstorm, EB19C2: Li Sun, Kindall, Shanbhogue, Masson, Gibner. ←[[m03081]]
 - [2000-09-07] Li Sun (EWRM; considers OAS for dynamic balance sheet management) asks for OAS material; owner: "I have tons of papers on OAS. They are buried in many boxes in my garage."; he will dig some out. ←[[m03151]]
+- [2000-09-15] Jim Bouillion asks for ERM information by close; owner sends "my write-up on enetrprise Wide Risk Management." ←[[m03212]]

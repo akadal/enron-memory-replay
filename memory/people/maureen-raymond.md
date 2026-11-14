@@ -5,7 +5,7 @@ entity: person
 name: "Maureen Raymond"
 aliases: []
 domains: [organization, work]
-updated: 2000-03-03
+updated: 2000-09-15
 ---
 # Maureen Raymond
 
@@ -20,3 +20,4 @@ Research Group member at director level; Martina Angelova worked under her. ←[
 ## Context: work
 
 - [2000-02-17] Asked to speak at a CEO meeting with Nebraska's governor → memory/domains/work/outside-requests.md ←[[m00655]] ←[[m00656]]
+- [2000-09-12] Her FX and Country Risk group makes Enron's country curves; Dragon's Thailand curve disputed → memory/domains/work/country-risk-curves.md ←[[m03194]] ←[[m03215]] ←[[m03225]]

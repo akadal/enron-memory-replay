@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-09-10
+updated: 2000-09-15
 ---
 # Industry — index
 
@@ -9,9 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Fin Math NYC 11-12 Sep (fly Sun 10 Sep); London 21 Sep, Thursday only → memory/domains/industry/eprm-risk.md
-- USAEE/IAEE Philadelphia 24-27 Sep (VIP speaker); GARP 2001 bio sent → memory/domains/industry/speaking-engagements-2000.md
-- Rice/Enron finance seminars from 22 Sep → memory/domains/industry/rice-university.md
+- Fin Math London 21 Sep, Thursday only; clashes with the Poland trip (?) → memory/domains/industry/eprm-risk.md
+- USAEE/IAEE Philadelphia 24-27 Sep (VIP speaker); GARP 2001 outline and address sent, bio asked → memory/domains/industry/speaking-engagements-2000.md
+- Rice/Enron finance seminars: Pontiff Fri 22 Sep, 3:30, Room 115 → memory/domains/industry/rice-university.md
+- Japan earthquake cat bonds (Delage): Research offers pricing → memory/domains/industry/weather-insurance-markets.md
 - Wharton: owner, Christy and Palmer visit Tom Piazze in Oct; Tiger Teams (call Donna Piazze) → memory/domains/industry/research-memberships-2000.md
 - Lubowski (Visa) in Palo Alto during the Bay Area trip 10-20 Oct → memory/domains/industry/visitors-2000.md
 
@@ -28,8 +29,8 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/market-outlooks-2000.md — outside views for 2000: owner's California warning, Iraq's output threat, El Paso's hedges, CERA on European gas
 - memory/domains/industry/real-options-debate-2000.md — Economist 'Fading Fads' debate on real options (Faiz's list, Apr 2000)
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership to Skilling, Enron's Wharton deal (Oct), ET events (Aug 2000); AGA (Jul)
-- memory/domains/industry/rice-university.md — Rice: Financial Engineering (Ensor), Enron-sponsored finance seminars (Ostdiek), seminar mug approved (Aug)
+- memory/domains/industry/rice-university.md — Rice: Financial Engineering (Ensor), Enron-sponsored finance seminars (Ostdiek; 2000/01 from 22 Sep), seminar mug approved (Aug)
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: GARP 2001 (Feb 2001), EPRM ERM (Nov), EFA panel (Apr 2001)
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
 - memory/domains/industry/visitors-2000.md — outsiders visiting the owner: Shijie Deng 28 Jul, Ecopetrol, Lubowski (Visa) Oct
-- memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: Corney & Barrow hedge, solar flares, PDO outlook (Aug)
+- memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: solar flares, PDO outlook (Aug), Japan cat bonds (Sep); older archived
