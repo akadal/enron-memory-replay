@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-07-26 (week 2001-W30). Owner back in Houston after the California trip; family moving back from California.
+As of 2001-08-03 (week 2001-W31). Owner in Houston; Prediction Company deal summary sent to Whalley; Toshiba proposes a Boltzmann prototype.
 
-- Coming: Baylor EMBA class, Dallas Fri 27 Jul; Prediction Company Mon 30 Jul 9:00; Houmin Yan talk 30 Jul; Tocqueville breakfast and Toshiba (Uenohara) 31 Jul; intern review 2 Aug; UH's Kumar and Warga 3 Aug; EPIS 12-14 Sep; INFOCAST 10 Oct; SMS, IQPC Oct; ICBI Paris 6-9 Nov → memory/domains/industry/_index.md
-- Owed: EPRM article 12 comments; Risk Magazine referee report by 14 Aug; Christian Werner call with Quilkey; Garberding's cost of funds curve; Bigalow's book endorsement; Pascual's questions; risk-policy comments; Raptor memo → memory/domains/work/_index.md
+- Coming: Associates' happy hour 6 Aug; East Power transmission talks 7 and 21 Aug; Garvin (HBS) and Gas Rent Options 8 Aug; Cal campus team and EGM intern party 9 Aug; EPIS 12-14 Sep; UT class Sep-Oct; INFOCAST 10 Oct; SMS, IQPC Oct; ICBI Paris 6-9 Nov; CEFER 21-22 Feb 2002 → memory/domains/industry/_index.md
+- Owed: Risk Magazine referee report by 14 Aug; EPRM article 12 comments; K. Gill's feedback; Titman call (duplicate check); Prediction/UBS digging; Toshiba reply; risk-policy comments → memory/domains/work/_index.md

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-07-26
+updated: 2001-08-03
 ---
 # People — index
 
@@ -51,6 +51,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Araceli Romero (AC Romero)
 - Aram Sogomonian
 - Arshak Sarkissian
+- Arthur Warga (Art Warga)
 - Ashley Baxter
 - Avi Hauser (Avi I. Hauser)
 - Aysu Bilgin (G. Aysu Bilgin)
@@ -180,6 +181,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ed McMichael
 - Edson Otani
 - Edward Kao
+- Edward Ondarza (Ed Ondarza)
 - Ehud Ronn (Ehud I. Ronn)
 - Elena Chilkina
 - Elizabeth Grant
@@ -211,6 +213,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gene Humphrey (Gene Humphreys)
 - George Albanis
 - George Carrick
+- George Gau
 - George Hopley
 - George McClellan
 - George Posey
@@ -675,6 +678,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vladimir Gorny
 - Wade Cline
 - Walter Coffer
+- Wanda Curry
 - Wes Colwell
 - Wichai Narongwanich
 - Wil Uecker
@@ -689,6 +693,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Yannis Tzamouranis
 - Yaron Oren
 - Youyi Feng
+- Yuji Uenohara
 - Zeigham Khokher
 - Zhendong Xia
 - Zhiyong Wei
