@@ -1,0 +1,190 @@
+{
+ "slice": 53,
+ "simulated_today": "2000-12-03",
+ "feed": {
+  "slice": 53,
+  "iso_week": "2000-W48",
+  "first_seq": 4420,
+  "last_seq": 4596,
+  "messages": 177,
+  "durable": 136,
+  "first_date": "2000-11-27 00:00",
+  "last_date": "2000-12-03 16:37",
+  "today": "2000-12-03",
+  "inbox_files": [
+   "2000-11-27--mail.md",
+   "2000-11-28--mail.md",
+   "2000-11-29--mail.md",
+   "2000-11-30--mail.md",
+   "2000-12-01--mail.md",
+   "2000-12-02--mail.md",
+   "2000-12-03--mail.md"
+  ],
+  "inbox_chars": 97648,
+  "l2_chars": 435057
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 1000,
+ "quota_before": {
+  "five_hour": 37.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 40.0,
+  "seven_day": 36.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 53,
+  "messages": 177,
+  "durable": 136,
+  "kept": 129,
+  "kept_rate_excluding_redundant": 0.963,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 3,
+   "redundant": 2,
+   "social": 1
+  },
+  "dropped": 7,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2132,
+  "fact_lines_with_source": 1399,
+  "dated": 1399,
+  "date_matches_source": 1362,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.69,
+   0.86,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.93,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 694
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1444
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 146,
+   "chars": 248332
+  },
+  "people": {
+   "files": 390,
+   "chars": 265009
+  },
+  "archive_inbox": {
+   "files": 345,
+   "chars": 2743961
+  },
+  "archive_mail": {
+   "files": 4622,
+   "chars": 11218128
+  },
+  "archive_other": {
+   "files": 893,
+   "chars": 805678
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 71,
+   "duration_ms": 998678,
+   "duration_api_ms": 811652,
+   "total_cost_usd": 6.344089200000002,
+   "usage": {
+    "input_tokens": 136,
+    "cache_creation_input_tokens": 248389,
+    "cache_read_input_tokens": 12883666,
+    "output_tokens": 88985,
+    "output_tokens_details": {
+     "thinking_tokens": 39042
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 248389,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 746,
+      "cache_read_input_tokens": 279687,
+      "cache_creation_input_tokens": 493,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 493
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 136,
+     "outputTokens": 88985,
+     "cacheReadInputTokens": 12883666,
+     "cacheCreationInputTokens": 248389,
+     "webSearchRequests": 0,
+     "costUSD": 6.344089200000002,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 39042,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 248389,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 70,
+   "result_summary": "The 2000-12-03 consolidation (week 2000-W48) is done and committed as d10976d. I did not push, because the run instructions say the runner pushes after its own checks. That overrides the \"git push origin main\" in the runbook. Of the week's 177 messages, 136 had notes: 129 are cited in L1, and the other 7 are listed in `dataset/drops/sleep-053.tsv`. Two of those 7 (m04445, m04462) carry Iris Mack's file passwords, which I deliberately kept out of memory. The other five are two duplicates of facts already recorded, a link sent with no comment, a thank-you note and a book listing. The new material covers:\n- **PRC:** the preliminary performance rankings sent on 29 Nov.\n- **New topic files:** Project X, the trading-system diligence trip to Sydney, and the late-November candidate interviews (Knirel, Qing Chen, Iris Mack, Tartakovski).\n- **Week's threads:** the MarketPoint test project, the d-g ENERGY licence, Arthur Andersen's request to recheck two Koch deals, Martin's 4 Dec interviews, the Wharton dates on 5–6 Dec, GARP, December leave, and Enron being named in the proposed California class action.\n\nEight people reached their fifth noted message this week and got entity files: Laine Borgman, Frank Wolak, Nina Knirel, Qing Chen, Sally Gould, Kate Lucas, Tim Bollerslev and Praveen Mellacheruvu. No aliases were attached and no new questions were added; two existing questions fall due on 5 Dec. The five oldest ongoing lines were checked and left open. Older lines from 34 topic files moved to `archive/*/2000/*-2000-12-w48.md`, and the organization index, the only file above 90% of its ceiling, went from 3650 to 3518 characters. Lint passed. The first sleep-audit run came back red with 7 RATCHET findings (files that grew too much). After compressing those files it passed. The repair script failed once on a quoting error before changing anything, so the audit ran once more on the unchanged tree and was red again; it went green only after the repair was applied. There was no sl"
+  },
+  "repair": null
+ }
+}
