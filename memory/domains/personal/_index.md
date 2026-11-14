@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-01-07
+updated: 2001-01-14
 ---
 # Personal — index
 
@@ -10,7 +10,7 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - Keith Hazlewood (Edward Jones): notes "To Keith" $20,709 and $4676.18 → memory/domains/personal/investments-2000.md
-- PGC bond CUSIP to Walkup; brokers list → memory/domains/personal/investments-2000.md
+- Walkup: Brown deposit in, private managers suggested (10 Jan); brokers list → memory/domains/personal/investments-2000.md
 - Dentist Jan 25, 7:45; wife Ludmila and son at Stanford → memory/domains/personal/household.md
 - Stock's Woodlands open house; Faiz in NY in January; Zajda drinks → memory/domains/personal/correspondence.md
 - UNO invites him to apply for the Moffett Chair → memory/domains/personal/recruiter-approaches-2000.md

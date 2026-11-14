@@ -5,9 +5,11 @@ domain: organization
 title: "Research Group operations, 2001"
 summary: "Group rules and routines for 2001: one project-list template (Plans2001), arrival by 8:30, Mike Roberts and weather consolidation, forward curves not released, the Energy Derivatives seminar (from 19 Jan, mandatory for 2000 joiners) beside the Friday option-pricing brown bags (Jan 2001)."
 status: active
-updated: 2001-01-07
+updated: 2001-01-14
 ---
 # Research Group operations, 2001
+
+Detail ←[[research-group-2001-2001-01-w02]]
 
 Members and staff meeting: memory/domains/organization/research-group.md.
 
@@ -20,5 +22,4 @@ Members and staff meeting: memory/domains/organization/research-group.md.
 ## Energy Derivatives seminar
 
 - [2001-01-02→] Clewlow and Strickland's "Energy Derivatives", first and third Fridays, brown bag, from 19 Jan (EB30C1, then EB49C1); Gibner coordinates; "mandatory for every member of the group who started after January 1, 2000."; chapter one out 4 Jan. ←[[m05094]] ←[[m05155]] ←[[m05164]]
-- [2001-01-03] Lu and Alex Huang's Friday option-pricing brown bags go on: "I don't think that the additional seminars will crowd out the brown bag lunches." ←[[m05108]] ←[[m05113]]
-- [2001-01-05] George Hopley may join: "We shall be able to accommodate one or two extra people in the first round."; Research once trained ~150 at EES in options. ←[[m05164]]
+- [2001-01-12] Gibner (to Bob Lee): the first class opens with ~45 minutes of short market talks, Martin on power, Zimin on gas, Paulo on crude; Gibner prepares the lecture; unfinished problems roll to the next class. ←[[m05322]]

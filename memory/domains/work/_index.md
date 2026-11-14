@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-01-07
+updated: 2001-01-14
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- India study signed 5 Jan, results end-Jan → memory/domains/work/india-power-study-henwood.md; Dabhol vs gensets → memory/domains/work/dabhol-energy-cost-jan-2001.md
-- Raptor cross-guarantees → memory/domains/work/talon-raptor.md; Genco model → memory/domains/work/genco-plant-model-2001.md
-- Auction meeting 11 Jan → memory/domains/work/bandwidth-combinatorial-auction.md; Credit.com call 12 Jan → memory/domains/work/enroncredit-support-2000.md
-- WTI smaller trades, crude early warning → memory/domains/work/wti-eol-simulation-2000.md
-- Paper: phone call on the 12_17 draft → memory/domains/work/enron-transformation-paper.md
+- Henwood team in India from 14 Jan, first runs end-Jan → memory/domains/work/india-power-study-henwood.md; Singh talking points → memory/domains/work/dabhol-power-sale.md
+- Credit/VaR system must not fail; Tanya needs code access → memory/domains/work/var-credit-system-2001.md; EAM VaR 17 Jan → memory/domains/work/ees-risk-reviews-jan-2001.md
+- Genco engine recode (Alex, 4 weeks; Berney 16 Jan) → memory/domains/work/genco-plant-model-2001.md; Hanover collar → memory/domains/work/hanover-costless-collar-jan-2001.md
+- Technical Corner volumes to senior management → memory/domains/work/research-presentations.md; TRS overview → memory/domains/work/total-return-swaps-dec-2000.md
+- Paper: 1_11_01 draft, call 13 Jan → memory/domains/work/enron-transformation-paper.md
 
 ## Files
 
@@ -35,5 +35,6 @@ Path: memory/domains/work/<name>.md
 - ag-trading-report-2000 · jcc-brent-hedge · total-return-swaps-dec-2000 · wti-eol-simulation-2000
 - bandwidth-combinatorial-auction · india-power-study-henwood · seasonal-curve-fitting
 - dabhol-energy-cost-jan-2001 · genco-plant-model-2001 · ken-lay-speech-tax-cut · risktrac-europe-var
+- hanover-costless-collar-jan-2001 · ees-risk-reviews-jan-2001 · var-credit-system-2001 · transmission-modelling-2001
 
 Closed: 1

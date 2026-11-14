@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-01-07 (week 2001-W01). Back from the holidays: Henwood India/Dabhol dispatch study signed (results end-January); Dabhol-vs-genset numbers to Skilling; Raptor cross-guarantee valuation; Energy Derivatives seminar and 8:30 arrival rule for the group.
+As of 2001-01-14 (week 2001-W02). Masson declined, Gibner drafts the Research re-org; Kohli joins Research; Henwood team in India (first runs end-January); the credit/VaR system "cannot fail" (Tanya vs Winston); Technical Corner volumes go to senior management.
 
-- Coming: Wichai 8 Jan; VaR v. CaR 9 Jan; auction meeting 11 Jan; Credit.com call 12 Jan; Energy Derivatives seminar 19 Jan; Tiger Team 18-19 Jan; Henwood ERCOT 23 Jan; GARP at Enron 30 Jan; Petronas 8 Feb → memory/domains/industry/petronas-visit-feb-2001.md
-- Owed: phone call with Martin on the paper; Kevin Garland lunch; Kholodnyi in Dallas; Sheble date; Charles Shen decision → memory/domains/organization/candidate-interviews-jan-2001.md
+- Coming: Tiger Team agenda and Trader's Roundtable 16 Jan; EAM VaR 17 Jan; Tiger Team 18-19 Jan; Energy Derivatives seminar 19 Jan; Henwood ERCOT 23 Jan; GARP 30 Jan; Petronas 8 Feb → memory/domains/industry/petronas-visit-feb-2001.md
+- Owed: EPRM title and bullets by 18 Jan; Wharton review slot by 26 Jan; Shen decision; Villevald phone interview → memory/domains/organization/candidate-interviews-jan-2001.md

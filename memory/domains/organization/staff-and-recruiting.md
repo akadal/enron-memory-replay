@@ -3,13 +3,15 @@ id: staff-and-recruiting
 type: topic
 domain: organization
 title: "Research Group staff, hires, moves and visas"
-summary: "Research staff moves: Kristal to Andrea Reed's group from 2 Jan 2001; Rakesh Bharati and Wichai Narongwanich (8 Jan) join; Weather Group praised for its winter forecast (Dec 2000); Sokolov, Aimone, meteorologist search and older moves archived."
+summary: "Research staff moves: Bharati and Wichai Narongwanich (8 Jan) joined (archived); Kohli moves to Research permanently and Anshuman comes from Dabhol on a 6-month trial (11 Jan 2001); Sr. Director salary range (Jan 2001); Kristal, Weather Group praise and older moves archived."
 status: active
-updated: 2000-12-22
+updated: 2001-01-14
 ---
 # Research Group staff, hires, moves and visas
 
+Detail ←[[staff-and-recruiting-2001-01-w02]]
+
 Candidates not yet hired: memory/domains/organization/recruiting-candidates.md. Summer interns: memory/domains/organization/summer-interns-2000.md. London weather hire: memory/domains/organization/candidate-interviews-jan-2001.md. Martin Lin's EBS rotation: memory/domains/work/broadband-services.md. Detail ←[[staff-and-recruiting-1999-12]] … (one archive file per week) ←[[staff-and-recruiting-2000-09-w35]] ←[[staff-and-recruiting-2000-12-w48]] ←[[staff-and-recruiting-2000-12-w49]] ←[[staff-and-recruiting-2000-12-w50]] ←[[staff-and-recruiting-2000-12-w51]]
-- [2000-12-13] Kristal moves to Andrea Reed's EIM Fundamental Analysis officially from 2 Jan 2001, agreed with Maureen (owner, 5 Dec: "THIS IS NOT A ROTATION."); she trains her FX and Country Risk successor from 18 Dec. ←[[m04633]] ←[[m04635]] ←[[m04799]]
-- [2000-12-19] Rakesh Bharati joins next week; Wichai Narongwanich (Michigan OR Ph.D. candidate; Sr. Specialist/Manager for EES risk management; OPT to 7 Jan 2002) starts 8 Jan, Sezgen minds him till Krishnarao returns. ←[[m04922]] ←[[m04952]]
-- [2000-12-21] Jim Schwieger asks Delainey, Whalley, Skilling, Lavorato to praise the Weather Group (Roberts, Marquez, Bennett, Dave Ryan): cold Nov-Dec forecast held, "A+"; owner: "It is difficult to find a better example example of commitment to Enron and to professional excellence than  our weather guys." ←[[m04982]] ←[[m04991]] ←[[m04992]]
+- [2001-01-08] Kohli asks the owner (meeting Shankman Tue 1:30) to speak for Kohli and for Anshuman Shrivastava (Assistant Manager in India, point man on DPC and fuel, recommended for Manager), who could move to Houston at short notice to work for Shankman. ←[[m05201]]
+- [2001-01-11] Owner to Molly Magee: "We decided to transfer Anshuman for the 6-month trial period" (permanent later if needed); "For Sandeep Kohli it's a permanent transfer, effective immediately." "Some local opposition to poaching of good people." ←[[m05267]]
+- [2001-01-11] Sr. Director position: range $83,800-$168,000 (Norma via Molly Magee); the group's lowest VP earns $140,000, directors average $120,000; no equity issue, no other senior director in the group. ←[[m05286]]
