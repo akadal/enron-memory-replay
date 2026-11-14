@@ -1,0 +1,117 @@
+id	durable	status	detail
+m03903	yes	kept	domains/work/lacima-book-2000.md
+m03904	yes	kept	domains/work/outside-requests.md
+m03905	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03906	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03907	yes	kept	domains/work/campus-recruiting-fall-2000.md people/rajnish-kamat.md
+m03908	yes	kept	domains/work/campus-recruiting-fall-2000.md people/jinbaek-kim.md
+m03909	yes	kept	domains/work/campus-recruiting-fall-2000.md people/jinbaek-kim.md
+m03910	no	not_durable	automated
+m03911	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03912	yes	kept	domains/work/campus-recruiting-fall-2000.md people/rajnish-kamat.md
+m03913	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03914	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03915	yes	kept	domains/organization/year-end-prc-2000.md
+m03916	yes	kept	domains/work/enron-transformation-paper.md
+m03917	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03918	yes	kept	domains/work/eol-content-2000.md people/marc-de-la-roche.md
+m03919	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03920	yes	kept	domains/work/eol-content-2000.md people/marc-de-la-roche.md
+m03921	yes	kept	people/dave-delainey.md
+m03922	no	not_durable	quote_only
+m03923	yes	kept	domains/work/enron-transformation-paper.md
+m03924	yes	kept	domains/organization/london-research.md
+m03925	yes	kept	domains/organization/year-end-prc-2000.md
+m03926	yes	kept	domains/organization/london-research.md
+m03927	yes	kept	domains/personal/correspondence.md
+m03928	yes	kept	domains/work/storage-model.md
+m03929	yes	kept	domains/work/lacima-book-2000.md
+m03930	no	not_durable	quote_only
+m03931	yes	kept	domains/work/group-projects-oct-2000.md
+m03932	yes	kept	domains/work/outside-requests.md
+m03933	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03934	yes	kept	domains/work/outside-requests.md
+m03935	yes	kept	domains/work/enterprise-risk-management.md people/david-port.md
+m03936	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03937	yes	kept	domains/work/lacima-book-2000.md people/fiona-grant.md
+m03938	no	not_durable	automated
+m03939	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03940	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03941	no	not_durable	automated
+m03942	yes	kept	domains/work/group-projects-oct-2000.md
+m03943	yes	kept	domains/work/enron-transformation-paper.md
+m03944	yes	kept	domains/organization/corporate-announcements-2000.md
+m03945	no	not_durable	automated
+m03946	yes	kept	domains/organization/year-end-prc-2000.md people/richard-carson.md
+m03947	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03948	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03949	yes	kept	domains/organization/candidate-referrals-2000.md
+m03950	yes	kept	domains/work/lacima-book-2000.md
+m03951	yes	kept	domains/work/group-projects-oct-2000.md
+m03952	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03953	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03954	yes	kept	domains/organization/london-research.md
+m03955	yes	kept	domains/organization/research-accounting-2000.md
+m03956	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03957	yes	kept	domains/industry/california-power-2000.md
+m03958	yes	kept	domains/work/lacima-book-2000.md people/fiona-grant.md
+m03959	yes	kept	domains/organization/candidate-referrals-2000.md
+m03960	yes	kept	domains/organization/candidate-referrals-2000.md
+m03961	yes	kept	domains/industry/california-power-2000.md
+m03962	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03963	yes	kept	domains/industry/california-power-2000.md
+m03964	no	not_durable	quote_only
+m03965	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03966	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03967	yes	kept	domains/organization/group-events-2000.md
+m03968	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03969	yes	kept	domains/work/enron-transformation-paper.md
+m03970	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03971	no	not_durable	automated
+m03972	no	not_durable	automated
+m03973	yes	kept	domains/organization/year-end-prc-2000.md
+m03974	yes	kept	domains/organization/year-end-prc-2000.md
+m03975	yes	kept	domains/work/enron-transformation-paper.md
+m03976	yes	kept	domains/work/outside-requests.md
+m03977	yes	kept	domains/work/vendor-reviews-nov-2000.md people/scott-neal.md
+m03978	yes	kept	domains/work/internal-meetings.md people/mark-frevert.md
+m03979	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m03980	yes	kept	domains/work/group-projects-oct-2000.md
+m03981	no	not_durable	bulk
+m03982	no	not_durable	automated
+m03983	no	not_durable	automated
+m03984	yes	kept	domains/organization/london-research.md
+m03985	yes	kept	domains/industry/eprm-risk.md
+m03986	yes	dropped	logistics: two outstanding expense reports, forwarded to AOL
+m03987	yes	kept	domains/organization/year-end-prc-2000.md
+m03988	no	not_durable	logistics
+m03989	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m03990	yes	kept	domains/industry/rice-university.md
+m03991	yes	kept	domains/personal/correspondence.md
+m03992	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m03993	yes	kept	domains/industry/visitors-2000.md
+m03994	no	not_durable	automated
+m03995	yes	kept	people/david-port.md
+m03996	yes	kept	domains/work/ut-austin-ties-2000.md
+m03997	yes	kept	domains/organization/research-accounting-2000.md
+m03998	yes	kept	domains/organization/leave-and-training.md
+m03999	no	not_durable	pleasantry
+m04000	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04001	yes	kept	domains/industry/weather-insurance-markets.md
+m04002	yes	kept	domains/personal/correspondence.md
+m04003	no	not_durable	quote_only
+m04004	yes	kept	domains/industry/visitors-2000.md
+m04005	yes	kept	people/michael-schilmoeller.md
+m04006	no	not_durable	automated
+m04007	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04008	yes	kept	domains/organization/year-end-prc-2000.md
+m04009	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04010	yes	kept	domains/industry/declined-invitations-2000.md
+m04011	yes	kept	domains/organization/group-events-2000.md
+m04012	yes	kept	domains/organization/group-events-2000.md
+m04013	no	not_durable	automated
+m04014	yes	kept	domains/work/crude-oil-digital-option.md
+m04015	yes	kept	domains/organization/year-end-prc-2000.md people/richard-carson.md
+m04016	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04017	yes	kept	domains/industry/rice-university.md
+m04018	yes	kept	domains/industry/informs-san-antonio-2000.md
