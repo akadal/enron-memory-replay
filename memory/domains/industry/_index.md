@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-04-14
+updated: 2001-04-22
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice ALP presentation Mon 7 May, 4 pm, EB49C1; Gillis and Whitaker come → memory/domains/industry/rice-alp-presentation-may-2001.md; NFCF 4-5 May, Finance Club 18 Apr, Zingales 27 Apr → memory/domains/industry/rice-university.md
-- Texas Finance Festival 21 Apr, NESA at Koch 18 Apr → memory/domains/industry/events-attending-2000.md; SIAM at UH 27 Apr, Rutgers 23 May, PoweRisk Paris 6-9 Nov, KWI Barcelona keynote undecided → memory/domains/industry/speaking-engagements-2000.md
-- Stanford: Hansen visits Fri 4 May; EMF retail conference 21-22 Jun → memory/domains/industry/sponsorship-requests-2001.md
-- Real options: McCormack asks about Rick Buy's ERisk remark → memory/domains/industry/real-options-debate-2000.md; Kulatilaka 3/4 May → memory/domains/industry/visitors-2001.md
-- Wharton: Kunreuther awaits an answer → memory/domains/industry/wharton-projects-feb-2001.md
+- Rice: ALP outline meeting Tue 24 Apr, presentation Mon 7 May → memory/domains/industry/rice-alp-presentation-may-2001.md; MGMT 656 grades and NFCF dinner Fri 4 May → memory/domains/industry/rice-university.md
+- UT Texas electric market seminar 2 May → memory/domains/industry/events-attending-2000.md; SIAM 27 Apr, SMS panel accepted, KWI undecided → memory/domains/industry/speaking-engagements-2000.md
+- EPRM 2001 Houston 14-15 May: bio due; Lu, Lance, Martin, Sandeep attend → memory/domains/industry/eprm-risk.md; PSERC declined till H2 → memory/domains/industry/declined-invitations-2000.md
+- Stanford: Hansen Fri 4 May, 1:30, Hennessy luncheon? → memory/domains/industry/sponsorship-requests-2001.md
+- Wharton: FAP evaluation due 25 Apr; Business Plan final 30 Apr; Kunreuther waits → memory/domains/industry/wharton-projects-feb-2001.md
 
 ## Files
 

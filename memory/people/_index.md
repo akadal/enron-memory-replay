@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-04-14
+updated: 2001-04-22
 ---
 # People — index
 
@@ -56,6 +56,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Benjamin Parsons (Ben Parsons)
 - Bernard Murphy
 - Berney Aucoin (Berney C Aucoin, Bernie Aucoin)
+- Bessik Matchavariani
 - Beth Miertschin
 - Beth Perlman
 - Bich Anh Pham
@@ -74,6 +75,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Britta Bothe
 - Bruce James
 - Bryan Seyfried
+- Candice Kao
 - Cantekin Dincerler
 - Carla Di Castro (Carla diCastro)
 - Carlos Ordonez
@@ -92,8 +94,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Chonawee Supatgiat
 - Chris Hilgert
 - Chris Kenyon
+- Chris Mahoney
 - Chris Strickland
 - Chris Williams
+- Christian LeBroc
 - Christian Werner
 - Christie Patrick
 - Cindy Derecskey
@@ -105,6 +109,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Colleen Sullivan
 - Conrad Gardner
 - Craig Breslau
+- Craig Chaney
 - Dale Nesbitt
 - Dale Surbey
 - Damian Goodburn
@@ -133,6 +138,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dennis Benevides
 - Dennis Feerick
 - Dennis Loughridge (Dennis W. Loughridge)
+- Dennis Ray
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
 - Dmitri Villevald
@@ -160,6 +166,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Erik Simpson
 - Erin Rice
 - Eugenio Perez
+- Eva Tow
 - Farouk Lalji
 - Fiona Grant
 - Frank Diebold
@@ -215,6 +222,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jay Webb
 - Jean Eisel
 - Jean Mrha
+- Jeff Gray
 - Jeff McMahon
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
@@ -354,6 +362,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Curran
 - Michael Danielson
 - Michael Froehls
+- Michael Maddox
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
 - Michael Sergeev
@@ -364,9 +373,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michelle Mendoza
 - Mike Fowler
 - Mike McConnell
+- Mike Mumford
 - Mike Roberts (Mike A Roberts)
 - Mike Rosen
 - Ming Sit
+- Mitra Mujica
 - Mohan Gurunath
 - Molly Magee
 - Naveen Andrews
@@ -388,6 +399,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paige Grumulaitis
 - Pamela Vande Krol Castro (Pam Castro)
 - Pat Henahan
+- Pat Scarborough
 - Patrycja Dalecka (Patricia Dalecka)
 - Paul Bristow
 - Paul Day
@@ -424,6 +436,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rajesh Sivaraman
 - Rajnish Kamat
 - Rakesh Bharati
+- Raul Davila
 - Ravi Thuraisingham
 - Ray Bowen
 - Raymond Yeow
@@ -433,6 +446,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Richard Causey (Rick Causey)
 - Richard DiMichele
 - Richard Lewis
+- Richard MacMinn
 - Richard Reichardt
 - Richard Shapiro (Rick Shapiro)
 - Richard Weeks
@@ -457,6 +471,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rosemary Fitzgerald
 - Ross Prevatt
 - Rudi Zipter
+- Rusty Parks
 - Ryan Siurek
 - Sally Beck
 - Sally Gould
@@ -467,6 +482,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Scott Earnest
 - Scott Gerson
 - Scott Neal
+- Scott Salmon
 - Scott Stoness
 - Scott Tholan
 - Scott Wakefield
@@ -489,6 +505,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shijie Deng (Shi-Jie Deng)
 - Shirley Crenshaw
 - Shmuel Oren
+- Siva Thiagarajan
 - Sofya Tamarchenko
 - Soma Ghosh
 - Sophie Kingsley
@@ -508,6 +525,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Steven Kean (Steven J Kean, Steve Kean)
 - Steven Leppard
 - Steven Shreve
+- Stig Faltinsen
 - Stinson Gibner
 - Suresh Raghavan (Surech Raghavan)
 - Susan Hansen (Susan C. Hansen)
@@ -531,6 +549,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tom Gros (Thomas Gros)
 - Tom Halliburton
 - Tom Piazze (Thomas Piazze)
+- Tomas Valnek
 - Tomasz Błach
 - Toni Graham
 - Tony Hamilton

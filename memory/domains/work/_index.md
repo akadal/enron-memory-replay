@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-14
+updated: 2001-04-22
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: top positions as core curves, one Research person polices mapping, Port scopes an overhaul; London VaR doc; hub/satellite correlations → memory/domains/work/var-credit-system-2001.md
-- EES credit model: Bradford wants a Credit/Research job, owner spent an hour with Rick Jones → memory/domains/work/ees-risk-reviews-jan-2001.md; Duffie project meeting Tue 17 Apr → memory/domains/work/model-risk-audit.md
-- Weather: Bennett and Hamilton serve ~40 London traders, NAO index asked, IT support → memory/domains/work/weather-research-2001.md
-- Vendors: WEFA lunch 1 May, AMR login, 3D option visualization demo → memory/domains/work/vendor-offers-2001.md; MarketPoint: Kim Watson takes over → memory/domains/work/marketpoint-gas-model-2001.md
-- Outside: Thorne 4 May; McCormack owed an outline; Geman's numbers to Gibner; Titman's invoice → memory/domains/work/outside-requests-2001.md
+- VaR: curves clustered by region (power, then gas), Winston Jia wants jump-size correlations; Hayden's Reg. VaR meeting Thu 26 Apr → memory/domains/work/var-credit-system-2001.md
+- Credit: RiskCalc test, D&B data, Houston/London videoconference 23 Apr → memory/domains/work/private-firm-credit-model-2001.md; Iris Mack drafts Duffie's comparative study → memory/domains/work/model-risk-audit.md
+- Weather: Bennett in London to the 27th and beyond, a second London meteorologist sought → memory/domains/work/weather-research-2001.md
+- Desks: P+ basket spread model ready → memory/domains/work/p-plus-spread-options-2001.md; petrochem curves, 6-8 weeks → memory/domains/work/petrochem-forward-curves-2001.md; Trading Algorithms: Bob → memory/domains/work/eol-trading-algorithms-2001.md
+- Outside: Thorne 4 May, McCormack owed an outline, Mulong Wang's data → memory/domains/work/outside-requests-2001.md; Jeff Gray's DSM ask → memory/domains/work/ees-structuring-models.md
 
 ## Files
 
@@ -39,5 +39,6 @@ Path: memory/domains/work/<name>.md
 - p-plus-spread-options-2001 · hsb-reinsurance-model-2001 · warsaw-mba-theses-2001 · insurance-portfolio-risk-2001
 - synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
+- private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001
 
 Closed: 1
