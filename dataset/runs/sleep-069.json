@@ -1,0 +1,187 @@
+{
+ "slice": 69,
+ "simulated_today": "2001-03-25",
+ "feed": {
+  "slice": 69,
+  "iso_week": "2001-W12",
+  "first_seq": 6273,
+  "last_seq": 6404,
+  "messages": 132,
+  "durable": 106,
+  "first_date": "2001-03-19 00:03",
+  "last_date": "2001-03-25 17:55",
+  "today": "2001-03-25",
+  "inbox_files": [
+   "2001-03-19--mail.md",
+   "2001-03-20--mail.md",
+   "2001-03-21--mail.md",
+   "2001-03-22--mail.md",
+   "2001-03-23--mail.md",
+   "2001-03-24--mail.md",
+   "2001-03-25--mail.md"
+  ],
+  "inbox_chars": 71672,
+  "l2_chars": 378249
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 716,
+ "quota_before": {
+  "five_hour": 24.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 26.0,
+  "seven_day": 41.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 69,
+  "messages": 132,
+  "durable": 106,
+  "kept": 105,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {
+   "redundant": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2842,
+  "fact_lines_with_source": 1861,
+  "dated": 1861,
+  "date_matches_source": 1815,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 632
+  },
+  "questions": {
+   "files": 1,
+   "chars": 673
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 192,
+   "chars": 341288
+  },
+  "people": {
+   "files": 529,
+   "chars": 351933
+  },
+  "archive_inbox": {
+   "files": 447,
+   "chars": 3792916
+  },
+  "archive_mail": {
+   "files": 6430,
+   "chars": 15733710
+  },
+  "archive_other": {
+   "files": 1247,
+   "chars": 1050293
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 52,
+   "duration_ms": 715152,
+   "duration_api_ms": 619505,
+   "total_cost_usd": 4.209673400000002,
+   "usage": {
+    "input_tokens": 92,
+    "cache_creation_input_tokens": 187379,
+    "cache_read_input_tokens": 6489567,
+    "output_tokens": 70618,
+    "output_tokens_details": {
+     "thinking_tokens": 26232
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 187379,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 890,
+      "cache_read_input_tokens": 218643,
+      "cache_creation_input_tokens": 527,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 527
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 92,
+     "outputTokens": 70618,
+     "cacheReadInputTokens": 6489567,
+     "cacheCreationInputTokens": 187379,
+     "webSearchRequests": 0,
+     "costUSD": 4.209673400000002,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 26232,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 187379,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 51,
+   "result_summary": "Consolidation 069 is committed locally as one commit (`sleep: 2001-03-25 consolidation`), and both gates passed on the first try: `lint.py` and `sleep-audit.py` are green, and the audit is green again on the commit itself. Of the week's 132 messages, 106 had notes. 105 are now cited in L1 and one is in `dataset/drops/sleep-069.tsv` (m06383, Martin asking whether the journal copies arrived, which m06386 already answers). The main topics this week:\n\n- **Raptor and Talon:** David Port asked how to cope with Raptor's ethical issues, and the owner agreed with Bharati's Talon spreadsheet.\n- **Rutgers:** the dinner talk moved to 23 May.\n- **Stanford RTP conference:** EES and New Power will attend, and the owner said Enron sponsorship \"can be done\".\n- **MacMillan:** the owner refused him the Real Options materials because of the commitment to the professor who co-developed them.\n- **McCormack (Stern Stewart):** a monetization pitch, with a meeting the week of 26 Mar.\n- **Recruiting and interns:** the Stanford offer results, Jinbaek Kim's internship confirmed, and Joe Carson and Tony Mends recommended to Whalley.\n- **Also:** analytical and tail VaR work, the Korea material for Port, and Lay and Skilling's California memo.\n\nTen people passed five noted messages and now have entity files and alias-table rows: Rafal Weron, Hill Huntington, Mark Garman, Michael Crew, Kathie Grabstald, John McCormack, Gene Humphrey, Paul Schultz, Suresh Raghavan and Anoush Farhangi. Several of them, Huntington for one, should have been added in earlier runs. To stay within each file's ratchet tolerance, older lines from 28 topic files were moved word for word to `archive/*/2001/*-2001-03-w12.md`, and no file is above 90% of its ceiling. The four domain indexes and `state.md` are refreshed. The five oldest ongoing lines are still valid. There were no sleep-task or feedback blocks, no questions to close (the Matthew Harris one is due 8 Apr), nothing behind an approval gate, and no source taps. One "
+  },
+  "repair": null
+ }
+}
