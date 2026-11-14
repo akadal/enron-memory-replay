@@ -1,0 +1,188 @@
+{
+ "slice": 50,
+ "simulated_today": "2000-11-12",
+ "feed": {
+  "slice": 50,
+  "iso_week": "2000-W45",
+  "first_seq": 4019,
+  "last_seq": 4190,
+  "messages": 172,
+  "durable": 132,
+  "first_date": "2000-11-06 02:19",
+  "last_date": "2000-11-12 22:44",
+  "today": "2000-11-12",
+  "inbox_files": [
+   "2000-11-06--mail.md",
+   "2000-11-07--mail.md",
+   "2000-11-08--mail.md",
+   "2000-11-09--mail.md",
+   "2000-11-10--mail.md",
+   "2000-11-11--mail.md",
+   "2000-11-12--mail.md"
+  ],
+  "inbox_chars": 95219,
+  "l2_chars": 446123
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 740,
+ "quota_before": {
+  "five_hour": 32.0,
+  "seven_day": 35.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 34.0,
+  "seven_day": 35.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 50,
+  "messages": 172,
+  "durable": 132,
+  "kept": 130,
+  "kept_rate_excluding_redundant": 0.985,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2029,
+  "fact_lines_with_source": 1357,
+  "dated": 1357,
+  "date_matches_source": 1319,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.93,
+   1.0,
+   1.0,
+   0.91
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 506
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1804
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 144,
+   "chars": 243258
+  },
+  "people": {
+   "files": 370,
+   "chars": 252272
+  },
+  "archive_inbox": {
+   "files": 325,
+   "chars": 2520649
+  },
+  "archive_mail": {
+   "files": 4216,
+   "chars": 10284387
+  },
+  "archive_other": {
+   "files": 813,
+   "chars": 747434
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 738396,
+   "duration_api_ms": 645245,
+   "total_cost_usd": 4.826411599999999,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 212132,
+    "cache_read_input_tokens": 8272178,
+    "output_tokens": 73726,
+    "output_tokens_details": {
+     "thinking_tokens": 28937
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 212132,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 794,
+      "cache_read_input_tokens": 243502,
+      "cache_creation_input_tokens": 421,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 421
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 73726,
+     "cacheReadInputTokens": 8272178,
+     "cacheCreationInputTokens": 212132,
+     "webSearchRequests": 0,
+     "costUSD": 4.826411599999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 28937,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 212132,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "The 2000-11-12 consolidation for week 2000-W45 is committed as `86b4219` and not pushed. Lint and sleep-audit both passed before the commit, and sleep-audit `--last` passes on the commit itself. Of the 172 messages, 132 had notes: 130 are now cited in memory, and 2 are listed in `dataset/drops/sleep-050.tsv` (m04133 as logistics, m04185 as other). The week's main items:\n- **New topic files:**\n  - **EnronCredit.com VaR:** the owner won't sign off on the vendor system without reviewing its algorithms (\"foxes building chicken houses\").\n  - **DRAM trading authority request:** still waiting for his agreement.\n  - **Ethylene margin collar bid to BP:** BP would pay just under $5 MM.\n- **People and hiring:** Lew accepted, Parkhill starts around 27 Nov, Shen will report to Tamarchenko, the owner wants to rehire Aram Sogomonian at VP level, and Lamas resigned.\n- **Other updates:** the Enron Wholesale Services reorganisation, Wharton (WeBI corporate partner, Tiger Team kick-off on 6 Dec), Baylor and the case-study interviews (Fastow added on 4 Dec), Diebold moved to 21 Dec, and the Power World licence.\n\nPeople files were created for Mark Haedicke, Tim Belden, David Davies and Tanya Rohauer, who each reached five messages this week, and for Jeff McMahon, who had already passed five without a file. No aliases were attached; two new approval questions are in `questions.md` instead (is \"Peyton S Gibner\" Stinson Gibner, and are \"Neil Davies\" and \"David Davies\" one person). Older lines from 27 topic files went to `archive/*/2000/*-2000-11-w45.md`, and no file is now above 90% of its size limit. The five oldest still-open lines were checked and left as they are.\n\nThere were no sleep tasks, feedback blocks or overdue questions, and no upstream remote is configured, so the upstream-sync step did nothing. I didn't push: your instructions say both \"do not push\" (the runner pushes after its checks) and `git push origin main`, and I followed the first. The runner's untracked `dataset/runs/"
+  },
+  "repair": null
+ }
+}
