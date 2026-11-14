@@ -1,0 +1,200 @@
+{
+ "slice": 41,
+ "simulated_today": "2000-09-10",
+ "feed": {
+  "slice": 41,
+  "iso_week": "2000-W36",
+  "first_seq": 3108,
+  "last_seq": 3182,
+  "messages": 75,
+  "durable": 50,
+  "first_date": "2000-09-04 04:25",
+  "last_date": "2000-09-10 05:25",
+  "today": "2000-09-10",
+  "inbox_files": [
+   "2000-09-04--mail.md",
+   "2000-09-05--mail.md",
+   "2000-09-06--mail.md",
+   "2000-09-07--mail.md",
+   "2000-09-08--mail.md",
+   "2000-09-09--mail.md",
+   "2000-09-10--mail.md"
+  ],
+  "inbox_chars": 36752,
+  "l2_chars": 188348
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 703,
+ "quota_before": {
+  "five_hour": 16.0,
+  "seven_day": 32.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 18.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 41,
+  "messages": 75,
+  "durable": 50,
+  "kept": 46,
+  "kept_rate_excluding_redundant": 0.939,
+  "drop_classes": {
+   "no_owner_content": 2,
+   "redundant": 1,
+   "social": 1
+  },
+  "dropped": 4,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1642,
+  "fact_lines_with_source": 1147,
+  "dated": 1147,
+  "date_matches_source": 1114,
+  "date_mismatch_ids_this_slice": [
+   "m03120",
+   "m03127",
+   "m03128",
+   "m03138",
+   "m03139",
+   "m03141",
+   "m03144",
+   "m03151",
+   "m03161",
+   "m03171"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   0.67,
+   0.8,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 639
+  },
+  "questions": {
+   "files": 1,
+   "chars": 872
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 124,
+   "chars": 208869
+  },
+  "people": {
+   "files": 300,
+   "chars": 207739
+  },
+  "archive_inbox": {
+   "files": 263,
+   "chars": 1908584
+  },
+  "archive_mail": {
+   "files": 3208,
+   "chars": 7859317
+  },
+  "archive_other": {
+   "files": 606,
+   "chars": 599909
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 63,
+   "duration_ms": 700464,
+   "duration_api_ms": 612401,
+   "total_cost_usd": 4.155468800000001,
+   "usage": {
+    "input_tokens": 110,
+    "cache_creation_input_tokens": 165386,
+    "cache_read_input_tokens": 7251104,
+    "output_tokens": 69086,
+    "output_tokens_details": {
+     "thinking_tokens": 27943
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 165386,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1045,
+      "cache_read_input_tokens": 196164,
+      "cache_creation_input_tokens": 1013,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1013
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 110,
+     "outputTokens": 69086,
+     "cacheReadInputTokens": 7251104,
+     "cacheCreationInputTokens": 165386,
+     "webSearchRequests": 0,
+     "costUSD": 4.155468800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 27943,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 165386,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 62,
+   "result_summary": "The consolidation for week 2000-W36 is committed as `7d0f5d8`; lint and sleep-audit are both green, and I did not push because the replay instructions say the runner pushes. All 7 inbox logs (75 messages, 50 with notes) are filed into L1. I kept 46 of the noted messages and listed 4 in `dataset/drops/sleep-041.tsv`: m03132 and m03159, the same happy-hour invitation twice; m03136, a forwarded Dow Jones column; and m03150, a memo forwarded with its body missing. A check confirmed no noted message is left both uncited and unlisted. The main new facts:\n\n- **Talks:** CMU MSCF talk accepted for 3 Nov, or 10 Nov depending on the San Antonio management conference, plus a CMU faculty lunch. The owner speaks at Fin Math NYC on 11–12 Sep and at London on Thursday only. He is a VIP speaker at USAEE/IAEE Philadelphia, 24–27 Sep. His GARP bio has been sent.\n- **Work:** the 6 Sep LNG Book meeting was skipped, and Eric Groves' models went to Stinson Gibner. Steve's retention moves on to the nomination form. Research's cost split to ENA is set (39.61%, 27.11% of it to commercial teams). The D-G Energy contract terms are agreed, the VaR article is approved for the October issue, Valeria Stone's interviews moved to 8 Sep, and the GPG MTBE/methanol request went to Bob Lee. There is one new topic file, `work/nsf-grant-feng-2000` (Youyi Feng's NSF proposal needs Enron to register on FastLane before 1 Oct).\n\nHousekeeping:\n- **People:** seven new entity files, with no aliases attached: Andreas Simou, Steven Shreve, Duane Seppi, Youyi Feng, John Goodpasture, Frank Diebold, and Sophie Kingsley, who reached five noted messages last week but was missed then.\n- **Questions:** the two approval items due 5 Sep (Rick Bryant, Julie of Lacima) lapsed unanswered. I closed them by keeping things as they were, with a (?) note in each file. Two questions remain open, due 3 Oct.\n- **Compression:** older lines from 18 topic files moved to `archive/*/2000/*-2000-09-w36.md`, and `research-group` is back und"
+  },
+  "repair": null
+ }
+}

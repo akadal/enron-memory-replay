@@ -1,0 +1,76 @@
+id	durable	status	detail
+m03108	no	not_durable	bulk
+m03109	no	not_durable	bulk
+m03110	no	not_durable	bulk
+m03111	yes	kept	domains/organization/london-research.md people/sophie-kingsley.md
+m03112	yes	kept	domains/organization/leave-and-training.md
+m03113	yes	kept	domains/organization/candidate-interviews-aug-2000.md
+m03114	no	not_durable	other
+m03115	no	not_durable	bulk
+m03116	no	not_durable	bulk
+m03117	no	not_durable	pleasantry
+m03118	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03119	yes	kept	domains/organization/london-research.md people/sophie-kingsley.md
+m03120	yes	kept	domains/industry/eprm-risk.md
+m03121	yes	kept	domains/industry/rice-university.md
+m03122	yes	kept	domains/work/research-presentations.md
+m03123	yes	kept	domains/organization/research-accounting-2000.md
+m03124	yes	kept	domains/industry/speaking-engagements-2000.md
+m03125	yes	kept	domains/industry/speaking-engagements-2000.md people/andreas-simou.md
+m03126	no	not_durable	bulk
+m03127	yes	kept	domains/work/lacima-book-2000.md
+m03128	yes	kept	domains/industry/eprm-risk.md
+m03129	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03130	yes	kept	domains/organization/research-accounting-2000.md
+m03131	yes	kept	domains/industry/speaking-engagements-2000.md
+m03132	yes	dropped	social: Jana's fall happy hour invitation (15 Sep, Ragin Cajun), forwarded to AOL
+m03133	no	not_durable	logistics
+m03134	yes	kept	people/sheridan-titman.md
+m03135	yes	kept	domains/organization/software-licenses.md
+m03136	yes	dropped	no_owner_content: Dow Jones bandwidth-trading column forwarded to AOL, no owner content
+m03137	yes	kept	domains/work/lng-book-2000.md people/eric-groves.md
+m03138	yes	kept	domains/work/lacima-book-2000.md
+m03139	yes	kept	domains/work/lacima-book-2000.md
+m03140	yes	kept	people/frank-diebold.md
+m03141	yes	kept	domains/work/lacima-book-2000.md
+m03142	yes	kept	domains/organization/candidate-interviews-sep-2000.md domains/work/research-presentations.md
+m03143	yes	kept	domains/industry/eprm-risk.md domains/personal/household.md
+m03144	yes	kept	domains/work/lacima-book-2000.md
+m03145	yes	kept	domains/industry/weather-insurance-markets.md people/ronnie-chahal.md
+m03146	yes	kept	domains/work/campus-recruiting-fall-2000.md people/steven-shreve.md
+m03147	no	not_durable	other
+m03148	no	not_durable	bulk
+m03149	no	not_durable	bulk
+m03150	yes	dropped	no_owner_content: Rick Buy's RAC IT memo forwarded FYI; memo body absent, distribution list only
+m03151	yes	kept	domains/work/enterprise-risk-management.md people/li-sun.md
+m03152	no	not_durable	logistics
+m03153	no	not_durable	logistics
+m03154	no	not_durable	bulk
+m03155	yes	kept	domains/organization/leave-and-training.md
+m03156	no	not_durable	quote_only
+m03157	yes	kept	domains/industry/speaking-engagements-2000.md people/andreas-simou.md
+m03158	yes	kept	domains/organization/candidate-referrals-2000.md people/maruti-more.md
+m03159	yes	dropped	redundant: same happy hour invitation as m03132, forwarded again
+m03160	yes	kept	domains/industry/speaking-engagements-2000.md
+m03161	yes	kept	domains/work/lacima-book-2000.md
+m03162	yes	kept	domains/work/desk-analysis-requests.md people/john-goodpasture.md
+m03163	no	not_durable	logistics
+m03164	yes	kept	domains/work/research-presentations.md
+m03165	yes	kept	domains/work/desk-analysis-requests.md people/john-goodpasture.md
+m03166	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03167	no	not_durable	quote_only
+m03168	no	not_durable	quote_only
+m03169	no	not_durable	bulk
+m03170	no	not_durable	quote_only
+m03171	yes	kept	domains/work/nsf-grant-feng-2000.md people/youyi-feng.md
+m03172	yes	kept	domains/work/nsf-grant-feng-2000.md people/youyi-feng.md
+m03173	yes	kept	domains/work/campus-recruiting-fall-2000.md people/duane-seppi.md people/steven-shreve.md
+m03174	yes	kept	domains/work/campus-recruiting-fall-2000.md
+m03175	no	not_durable	empty
+m03176	no	not_durable	empty
+m03177	no	not_durable	empty
+m03178	yes	kept	people/aram-sogomonian.md
+m03179	no	not_durable	empty
+m03180	yes	kept	domains/work/nsf-grant-feng-2000.md people/youyi-feng.md
+m03181	yes	kept	domains/work/campus-recruiting-fall-2000.md people/steven-shreve.md
+m03182	yes	kept	domains/work/campus-recruiting-fall-2000.md people/steven-shreve.md
