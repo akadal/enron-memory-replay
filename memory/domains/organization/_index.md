@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-02
+updated: 2001-05-06
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Percell to McCarty and Horton; Aysu Bilgin; Jacob Kang's second round; Richard Heo phone interview; SAIS resume book → memory/domains/organization/candidate-interviews-may-2001.md; Paleologo's offer → memory/domains/organization/candidate-interviews-apr-end-2001.md
-- HR: Gwyn Koepke to manager from 1 Mar; Hickerson will not fund Maureen Raymond, now ill in London; mid-year PRC not the week of 11 Jun → memory/domains/organization/hr-matters-2001.md
-- Interns: Jinbaek Kim 4 Jun-4 Aug on DealBench auctions → memory/domains/organization/summer-interns-2001.md; Stanford 4 of 6 summer offers taken → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
-- Company: iBuyit live, paper coding sheets bounced from 8 May; EGM meeting 7 May → memory/domains/organization/corporate-announcements-2001.md; laptop admin rights → memory/domains/organization/office-equipment.md
-- Group: Kohli's party Sat 5 May, office move → memory/domains/organization/research-group-2001.md; London: Roberts wants Tony Hamilton under Slava → memory/domains/organization/tony-hamilton-london-2001.md
+- Candidates: Kudin Thu 10 May; Heo phone interview; Country Risk shortlist of 3; Gukhal part-time → memory/domains/organization/candidate-interviews-may-02-2001.md; Percell, Kang → memory/domains/organization/candidate-interviews-may-2001.md
+- HR: Gwen's promotion in process, Labbe Fri 3 pm; Maureen Raymond must find a sponsor, ill in London → memory/domains/organization/hr-matters-2001.md
+- Interns: Jinbaek Kim from 30 May on automated trading platforms; Youseok Son; self-contained projects → memory/domains/organization/summer-interns-may-2001.md
+- Company: EES/EWS risk merged, Herndon East, Black West (4 May); EGM meeting 7 May → memory/domains/organization/corporate-announcements-2001.md; Outlook migration → memory/domains/organization/office-equipment.md
+- Group: office move, 1 MD, 6 VPs, 5 Directors → memory/domains/organization/research-group-2001.md; London: Tony Hamilton → memory/domains/organization/tony-hamilton-london-2001.md
 
 ## Files
 
@@ -64,3 +64,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
 - memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
 - memory/domains/organization/candidate-interviews-may-2001.md — candidates and referrals from 30 Apr 2001
+- memory/domains/organization/candidate-interviews-may-02-2001.md — candidates and referrals from 2 May 2001
+- memory/domains/organization/summer-interns-may-2001.md — summer interns, May 2001 (Jinbaek Kim, Youseok Son)
