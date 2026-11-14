@@ -1,0 +1,203 @@
+{
+ "slice": 81,
+ "simulated_today": "2001-05-26",
+ "feed": {
+  "slice": 81,
+  "iso_week": "2001-W21",
+  "first_seq": 7941,
+  "last_seq": 8020,
+  "messages": 80,
+  "durable": 67,
+  "first_date": "2001-05-21 07:13",
+  "last_date": "2001-05-26 13:37",
+  "today": "2001-05-26",
+  "inbox_files": [
+   "2001-05-21--mail.md",
+   "2001-05-22--mail.md",
+   "2001-05-23--mail.md",
+   "2001-05-24--mail.md",
+   "2001-05-25--mail.md",
+   "2001-05-26--mail.md"
+  ],
+  "inbox_chars": 50218,
+  "l2_chars": 201388
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 748,
+ "quota_before": {
+  "five_hour": 73.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 0.0,
+  "seven_day": 50.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 81,
+  "messages": 80,
+  "durable": 67,
+  "kept": 65,
+  "kept_rate_excluding_redundant": 0.985,
+  "drop_classes": {
+   "other": 1,
+   "redundant": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3354,
+  "fact_lines_with_source": 2089,
+  "dated": 2089,
+  "date_matches_source": 2039,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.83,
+   0.88,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 0,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 689
+  },
+  "questions": {
+   "files": 1,
+   "chars": 249
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 212,
+   "chars": 379582
+  },
+  "people": {
+   "files": 656,
+   "chars": 421632
+  },
+  "archive_inbox": {
+   "files": 512,
+   "chars": 4747170
+  },
+  "archive_mail": {
+   "files": 8046,
+   "chars": 20055937
+  },
+  "archive_other": {
+   "files": 1516,
+   "chars": 1240594
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 59,
+   "duration_ms": 746931,
+   "duration_api_ms": 623943,
+   "total_cost_usd": 3.9824406999999993,
+   "usage": {
+    "input_tokens": 118,
+    "cache_creation_input_tokens": 161699,
+    "cache_read_input_tokens": 7118149,
+    "output_tokens": 63224,
+    "output_tokens_details": {
+     "thinking_tokens": 24917
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 161699,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 961,
+      "cache_read_input_tokens": 179749,
+      "cache_creation_input_tokens": 889,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 889
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 29,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026690000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 118,
+     "outputTokens": 63224,
+     "cacheReadInputTokens": 7118149,
+     "cacheCreationInputTokens": 161699,
+     "webSearchRequests": 0,
+     "costUSD": 3.9821737999999995,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24917,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 161699,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 58,
+   "result_summary": "I filed week 2001-W21 and committed it as `eb744ac0`. Both gates (`lint.py` and `sleep-audit.py`) passed on the first run. I didn't push, because the replay instructions say the runner pushes after its own checks; that overrides the closing \"git push origin main\" line.\n\n- **Messages:** 80 arrived and 67 had notes. 65 are now cited in topic and people files. The other 2 are listed in `dataset/drops/sleep-081.tsv`:\n  - m07959 is a repeat of the FEA @Energy 2.1 notice, which is already filed.\n  - m07953 is the owner's note to himself, \"Call Grant about Tony\". Several people match \"Grant\" and \"Tony\", so I couldn't safely link it to anyone.\n- **Where things went:** no new topic files. This week's news went into existing ones:\n  - resignations of Stinson Gibner and Pavel Zadorozhny, and George Albanis leaving\n  - the Raptor stock-forward question and Ron Baker's answer\n  - the Project X action plan, extreme-value and convolution VaR work\n  - Enron Credit's model testing and the Moody's RiskCalc trial\n  - outside pitches from Mitnick (EGE), NumeriX and Sparks Consulting\n  - the Exotica version dispute and McCormack's Stern Stewart pitch to Fastow\n  - the Rice students' article on rivals to EnronOnline\n  - the Angelides California update\n  - invitations to speak at EPRM Europe and Risk 2001 Australia\n  - Research's table at the Indo American Chamber gala\n- **People:** four new entity files, now in the alias table: Steve Mitnick, Kyriakos Frantzeskakis, Billy Lemmons and Janet Dietrich. Lemmons and Dietrich had already passed five messages in earlier weeks without getting a file.\n- **Questions:** the two items due 2001-05-25 (Tracy Warner and Don Black) got no answer, so I closed them on the status quo and wrote a note next to each disputed fact. The queue is now empty. One thing bears on the closed Warner question: a \"Traci Warner\", spelled like the existing entity file, screened analyst/associate candidates on 25 May.\n- **Rotation and compression:** this week's mail contra"
+  },
+  "repair": null
+ }
+}
