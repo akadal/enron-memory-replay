@@ -1,0 +1,188 @@
+{
+ "slice": 42,
+ "simulated_today": "2000-09-15",
+ "feed": {
+  "slice": 42,
+  "iso_week": "2000-W37",
+  "first_seq": 3183,
+  "last_seq": 3227,
+  "messages": 45,
+  "durable": 36,
+  "first_date": "2000-09-11 00:14",
+  "last_date": "2000-09-15 21:15",
+  "today": "2000-09-15",
+  "inbox_files": [
+   "2000-09-11--mail.md",
+   "2000-09-12--mail.md",
+   "2000-09-13--mail.md",
+   "2000-09-14--mail.md",
+   "2000-09-15--mail.md"
+  ],
+  "inbox_chars": 30128,
+  "l2_chars": 120221
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 591,
+ "quota_before": {
+  "five_hour": 18.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 19.0,
+  "seven_day": 33.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 42,
+  "messages": 45,
+  "durable": 36,
+  "kept": 36,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 1660,
+  "fact_lines_with_source": 1166,
+  "dated": 1166,
+  "date_matches_source": 1130,
+  "date_mismatch_ids_this_slice": [
+   "m03203",
+   "m03205",
+   "m03214",
+   "m03225"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 652
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1544
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 126,
+   "chars": 212613
+  },
+  "people": {
+   "files": 303,
+   "chars": 210608
+  },
+  "archive_inbox": {
+   "files": 269,
+   "chars": 1939610
+  },
+  "archive_mail": {
+   "files": 3253,
+   "chars": 7979538
+  },
+  "archive_other": {
+   "files": 619,
+   "chars": 612750
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 58,
+   "duration_ms": 588646,
+   "duration_api_ms": 499317,
+   "total_cost_usd": 3.5069518000000004,
+   "usage": {
+    "input_tokens": 96,
+    "cache_creation_input_tokens": 154813,
+    "cache_read_input_tokens": 5607919,
+    "output_tokens": 57324,
+    "output_tokens_details": {
+     "thinking_tokens": 22184
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 154813,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 831,
+      "cache_read_input_tokens": 185478,
+      "cache_creation_input_tokens": 1126,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1126
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 96,
+     "outputTokens": 57324,
+     "cacheReadInputTokens": 5607919,
+     "cacheCreationInputTokens": 154813,
+     "webSearchRequests": 0,
+     "costUSD": 3.5069518000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22184,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 154813,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 57,
+   "result_summary": "I ran the week 2000-W37 consolidation and committed it as `4c3f704` on main. Lint and sleep-audit were both green before the commit. All 36 messages with notes are now cited in memory, so the drops file `dataset/drops/sleep-042.tsv` is empty. The audit was red once: I had appended this run's log to the 15 Sep inbox log, which the audit counts as changing an archived file. I restored that log unchanged and put the run log in `archive/inbox/2000-09-15--mail-2.md`, as last week's run did. This week's news: the CMU MSCF talk is confirmed for Fri 3 Nov and the Berkeley IEOR seminar for Mon 23 Oct; the GARP 2001 outline and address went out, but the ~50-word bio is still owed; the owner made Rabi De a verbal offer ($105k plus a $15k guaranteed bonus and a $15k sign-on), and Rabi hasn't decided; Ben Zhang is bringing his wife to Houston; Anjam Ahmad's term sheet is waiting for the owner's approval. Also new: the UT CEFER conference and course proposal, the owner having to call NSF himself, the Clean Fuels meeting on Mon 18 Sep, and Maureen Raymond's country curves, where Ramon Rodriguez disputes the new Thailand curve. I opened two topic files (`work/country-risk-curves`, `personal/poland-trip-sep-2000`) and entity files for Karen Marshall, Cindy Justice and Yana Kristal. I added two items to `questions.md` without resolving them: the Poland itinerary (20–26 Sep) overlaps London on 21 Sep and Philadelphia on 24–27 Sep, and whether Karen Marshall in recruiting and in Community Relations is one person. To compress, I moved older lines from 13 topic files into `-2000-09-w37` archive files. That brought research-group, the only file near its ceiling, down from 2547 to 1753 characters. The five oldest ongoing lines are still valid, and there was no sleep-task in the inbox. I did not push, as the replay instructions say, and left the runner's transcript untracked and `.sleep-lock` untouched."
+  },
+  "repair": null
+ }
+}
