@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-15
+updated: 2001-06-21
 ---
 # Work — index
 
@@ -12,8 +12,9 @@ Scope: the owner's own projects, models, deals and research output.
 - Models: P Plus draft (Gibner); Convolution VAR (Tamarchenko, Bharati); storage model vs Lukens; August Board FX/inflation curves → memory/domains/work/models-jun-08-2001.md; VaR factor loadings, PSIM → memory/domains/work/var-and-models-jun-04-2001.md
 - Bid-ask and credit: EOL bid-ask model, Market Maker sessions (Kim's summary to Whalley); CDS placement-model recalibration; DSM trading model 18 Jun → memory/domains/work/trading-and-credit-jun-08-2001.md; earlier → memory/domains/work/enron-credit-early-jun-2001.md
 - Raptor: revised memo for AA, review with Bharati (29 May) → memory/domains/work/talon-raptor.md
+- This week: UBS deal review; P+ meeting Thu; Krishna meets Nesbitt on NARG Fri; Parkhill's implied pdf for Tech Corner; Prediction Company 30 Jul → memory/domains/work/models-and-requests-jun-18-2001.md
 - Vendors: Algorithmics Houston meeting; Henwood Market Stack early July; private firm econometrics → memory/domains/work/requests-and-vendors-jun-15-2001.md
-- Requests: Quilkey call held 6 Jun (Adam starts weather 25 Jun); CMU team; Berkeley power course → memory/domains/work/research-requests-jun-08-2001.md; Sparks 19 Jun pending Gary, Prediction Company → memory/domains/work/research-requests-jun-04-2001.md
+- Requests: Quilkey call held 6 Jun (Adam starts weather 25 Jun); CMU team; Berkeley power course → memory/domains/work/research-requests-jun-08-2001.md; Sparks 19 Jun pending Gary → memory/domains/work/research-requests-jun-04-2001.md
 
 ## Files
 
@@ -47,6 +48,6 @@ Path: memory/domains/work/<name>.md
 - var-models-late-may-2001 · enron-credit-late-may-2001 · research-requests-late-may-2001 · vendor-offers-late-may-2001
 - var-models-early-jun-2001 · research-models-early-jun-2001 · enron-credit-early-jun-2001 · research-requests-early-jun-2001
 - research-requests-jun-04-2001 · var-and-models-jun-04-2001
-- models-jun-08-2001 · trading-and-credit-jun-08-2001 · research-requests-jun-08-2001 · requests-and-vendors-jun-15-2001
+- models-jun-08-2001 · trading-and-credit-jun-08-2001 · research-requests-jun-08-2001 · requests-and-vendors-jun-15-2001 · models-and-requests-jun-18-2001
 
 Closed: 1

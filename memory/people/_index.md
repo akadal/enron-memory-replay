@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-15
+updated: 2001-06-21
 ---
 # People — index
 
@@ -653,6 +653,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Trena McFarland
 - Trisha Tlapek
 - Tulika Bhalla
+- Urszula Sobczyk
 - Vadim Pokhlebkin
 - Valery Kholodnyi
 - Van Ngo
