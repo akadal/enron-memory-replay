@@ -5,7 +5,7 @@ entity: person
 name: "Matthew Williams"
 aliases: ["Matt Williams"]
 domains: [organization]
-updated: 2000-04-28
+updated: 2000-10-15
 ---
 # Matthew Williams
 
@@ -15,3 +15,4 @@ Analyst in London Research from 21 Feb 2000 (first rotation with Steven Leppard)
 
 - [2000-02-22] Work and training plan under Leppard → memory/domains/organization/london-research.md ←[[m00731]] ←[[m00833]]
 - [2000-04-28] Houston visit in August, paid by Richard's group → memory/domains/organization/london-research.md ←[[m01559]] ←[[m01565]]
+- [2000-10-11] Moves from A&A to the Specialist track from 1 Nov → memory/domains/organization/london-research.md ←[[m03551]] ←[[m03556]]

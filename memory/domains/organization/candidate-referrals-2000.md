@@ -3,13 +3,13 @@ id: candidate-referrals-2000
 type: topic
 domain: organization
 title: "Referred candidates and outside evaluations, 2000"
-summary: "People referred to the owner, 2000: Tatiana Marinenko (Rice), Charles Shen (Williams), Mark Giancola via DiMichele (Oct 2000); Christa Grey, Maruti More and older ones archived; Quentin Kerr and Rabi De: memory/domains/organization/candidate-interviews-aug-2000.md."
+summary: "People referred to the owner, 2000: Tatiana Marinenko (Rice); Mark Giancola to interview with Maureen, week of 30 Oct or 6 Nov; Vicky Windsor's CV for Enron London (Oct 2000); Charles Shen's interview: memory/domains/organization/candidate-interviews-oct-2000.md; older ones archived."
 status: active
-updated: 2000-10-08
+updated: 2000-10-15
 ---
 # Referred candidates and outside evaluations, 2000
 
-The group's own pipeline: memory/domains/organization/recruiting-candidates.md. Detail ←[[recruiting-candidates-2000-03-w11]] ←[[candidate-referrals-2000-04-w14]] ←[[candidate-referrals-2000-04-w15]] ←[[candidate-referrals-2000-2000-04-w17]] ←[[candidate-referrals-2000-2000-05-w19]] ←[[candidate-referrals-2000-2000-05-w20]] ←[[candidate-referrals-2000-2000-05-w21]] ←[[candidate-referrals-2000-2000-06-w23]] ←[[candidate-referrals-2000-2000-06-w24]] ←[[candidate-referrals-2000-2000-06-w25]] ←[[candidate-referrals-2000-2000-06-w26]] ←[[candidate-referrals-2000-2000-07-w27]] ←[[candidate-referrals-2000-2000-07-w28]] ←[[candidate-referrals-2000-2000-07-w29]] ←[[candidate-referrals-2000-2000-07-w30]] ←[[candidate-referrals-2000-2000-08-w31]] ←[[candidate-referrals-2000-2000-08-w32]] ←[[candidate-referrals-2000-2000-08-w34]] ←[[candidate-referrals-2000-2000-09-w35]] ←[[candidate-referrals-2000-2000-09-w36]] ←[[candidate-referrals-2000-2000-10-w39]] ←[[candidate-referrals-2000-2000-10-w40]] ←[[candidate-referrals-2000-2000-10-w40]]
+The group's own pipeline: memory/domains/organization/recruiting-candidates.md. Detail ←[[recruiting-candidates-2000-03-w11]] … (one archive file per week) ←[[candidate-referrals-2000-2000-10-w41]]
 - [2000-10-02] Tatiana Marinenko (Rice Math Ph.D., top GPA, derivatives courses at Jones) wants a 2001 internship or job; owner: "I am in Europe this week. I shall contact you on my return." ←[[m03424]]
-- [2000-10-04] Charles Shen (Lead Quant, Williams Energy Trading, heads 7; Duke finance Ph.D. 1998) wants a research or structuring job, a call (918-409-4308); owner forwards it to Enron mail 7 Oct. ←[[m03435]] ←[[m03459]]
-- [2000-10-06] Richard DiMichele circulates Mark Giancola's resume (Treasury sovereign-risk economist; husband of Penny Pan, who holds an Enron offer) to the owner and four others. ←[[m03451]]
+- [2000-10-13] Mark Giancola (Treasury; DiMichele's referral): owner to Maureen "Any interest?"; she wants an Associate Economist and to interview him; Crenshaw invites him (Economist or Associate Economist under Maureen); no weekday travel for two weeks (G-20 trip 24-25 Oct, new office), so week of 30 Oct or 6 Nov, the owner being out two weeks. ←[[m03519]] ←[[m03547]] ←[[m03555]] ←[[m03575]] ←[[m03613]]
+- [2000-10-12] Vicky Windsor (ex-Risk Publications, at a charity) wants product marketing or research at Enron London; owner: "Please, send me your resume.", "I shall forward it to a number of employees of  Enron in London with my strongest recommendation."; CV sent 13 Oct. ←[[m03543]] ←[[m03567]] ←[[m03608]]

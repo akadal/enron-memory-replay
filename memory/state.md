@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-10-08 (week 2000-W40). Owner was in Europe the week of 2 Oct (London, Paris PoweRisk).
+As of 2000-10-15 (week 2000-W41). Owner out of the office for about two weeks from 16 Oct.
 
-- Coming: Ronn's UT class 11 Oct; Stanford 14-15 Oct (Bambos dinner Sun 7 pm); Berkeley 16-17 Oct; MathWorks 18 Oct; Wharton 19-20 Oct; Oren seminar 23 Oct; CMU MSCF 3 Nov; INFORMS 4-5 Nov → memory/domains/work/campus-recruiting-fall-2000.md, memory/domains/industry/events-attending-2000.md
-- Owed: Dincerler's answer (16 Oct); Pham's 2001 budget meeting; replies to Marinenko and Charles Shen; Skilling's UT keynote → memory/domains/organization/research-accounting-2000.md, memory/domains/organization/candidate-referrals-2000.md
+- Coming: Berkeley presentation 16 Oct; Wharton visit 19 Oct, ET conference 20 Oct; Bay area 20-22 Oct (Bambos dinner); Oren seminar 23 Oct; CERA Roundtable 1 Nov; CMU MSCF 3 Nov; INFORMS 4-5 Nov; Baylor 13 Nov → memory/domains/work/campus-recruiting-fall-2000.md, memory/domains/industry/wharton-visit-oct-2000.md, memory/domains/work/enron-transformation-paper.md
+- Owed: answer to Charles Shen; Leppard's appointment notice to Sherriff; Anjam's Houston deadline; Maureen's review → memory/domains/organization/candidate-interviews-oct-2000.md, memory/domains/organization/london-research.md
