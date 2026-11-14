@@ -5,7 +5,7 @@ domain: work
 title: "Owner's internal meetings, 2000"
 summary: "Owner's internal meetings: Enron NA Mondays, Maureen Raymond Fridays; V@R, Reporting and Resources (Tuesdays); Wednesday V@R luncheon (19C1); Risk Systems Enhancements Thursdays 9:00, EB50M03; London video conference VC1; EGM staff meeting Mondays 8:30; Trader's Roundtable Tuesdays 4 pm from 16 Jan 2001; older items archived."
 status: active
-updated: 2001-01-14
+updated: 2001-01-27
 ---
 # Owner's internal meetings, 2000
 
@@ -20,4 +20,4 @@ MEC: memory/domains/work/mec-molecular-electronics.md. EWRM offsite: memory/doma
 - [2000-12-13→] Wednesday V@R luncheon, now room 19C1 (Brackett, Benevides, Ramesh, Lew, Kindall, Li Sun, Andrews, Krishnarao, Rabi De, Tamarchenko). ←[[m04790]]
 - [2000-12-13→] Risk Systems Enhancements (Dorothy Youngblood) now Thursdays 9:00 Houston / 3:00 London (Buy, Beck, Port, Bradford, Stock; London: Paskin, Gaylard); weekly in EB50M03 from 28 Dec (also Brackett, Bibi, Ted Murphy, Perlman). ←[[m04806]] ←[[m04828]] ←[[m05058]]
 - [2000-12-13→] Weekly video conference with London (VC1, Mary Ward): Houston room 30C1, 7:30-8:30. ←[[m04807]]
-- [2001-01-12→] Trader's Roundtable (Jennifer Burns, Hickerson; Enron's most experienced traders, cross-commodity ideas) weekly from Tue 16 Jan, 4 pm, EB3321; owner: "Please put it on my calendar." ←[[m05308]]
+- [2001-01-12→] Trader's Roundtable (Jennifer Burns, Hickerson; Enron's most experienced traders, cross-commodity ideas) weekly from Tue 16 Jan, 4 pm, EB3321; owner: "Please put it on my calendar." 23 Jan: "Please, put it on my schedule." ←[[m05308]] ←[[m05511]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-01-21
+updated: 2001-01-27
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Kohli official; Anshuman's L1 waits for Kohli (back 24 Jan); Iris Mack starts 1 Mar → memory/domains/organization/staff-moves-jan-2001.md
-- Kim 19 Jan, Villevald 31 Jan, Rawal 2 Feb, Qian ~1 Feb, Kao → memory/domains/organization/candidate-interviews-feb-2001.md
-- Interns Gershenson, Jason Chen → memory/domains/organization/summer-interns-2001.md
-- Merit-increase bug → memory/domains/organization/year-end-prc-2000.md; re-org draft → memory/domains/organization/research-reorg-jan-2001.md
+- Anshuman: 1 month (5 Feb-5 Mar asked), L1 anyway, Daffin expects March; Pernoud part-time → memory/domains/organization/staff-moves-jan-2001.md
+- Villevald 31 Jan, Valverde 1 Feb, Rawal 2 Feb; Roberts backs Tony Hamilton → memory/domains/organization/candidate-interviews-feb-2001.md
+- Interns: Whitsel to get an offer, Kao once Maureen is back → memory/domains/organization/summer-interns-2001.md
+- Merit and equity sheet sent → memory/domains/organization/year-end-prc-2000.md; Java courses → memory/domains/organization/leave-and-training.md
 
 ## Files
 

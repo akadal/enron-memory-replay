@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-01-21 (week 2001-W03). California crisis deepens (owner on Johnston's daily briefings); Kohli's move is official, Anshuman's L1 visa waits for him; Henwood contract still unsigned; Iris Mack starts 1 Mar; merit increases under way.
+As of 2001-01-27 (week 2001-W04). California deadlines 2, 7, 13 Feb; Anshuman's L1 under way (McGregor allows one month, Daffin expects March); Henwood agreement still unsigned; owner declined Arfsten's LifeTrak after introducing Mark Lay.
 
-- Coming: MarketPoint Tue 23 Jan; Henwood ERCOT 23 Jan; Transmission Roundtable 24 Jan; GARP 30 Jan; Villevald 31 Jan; Rawal 2 Feb; Petronas 8 Feb; UT conference 22-23 Feb → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
-- Owed: allocation schedule to Becky Pham; paper edits for Martin; Iris Mack's lease request; Jason Chen interview → memory/domains/organization/staff-moves-jan-2001.md
+- Coming: GARP 30 Jan; Faiz dinner 31 Jan; Villevald 31 Jan; Valverde 1 Feb; Rawal 2 Feb; Petronas 8 Feb; NY 13 Feb; Demers 16 Feb; Wharton review 20 Feb; UT conference 22-23 Feb → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Owed: Kholodnyi lunch date; Titman call; paper drivers and conclusion for Martin; Technical Corners cover letters → memory/domains/work/enron-transformation-paper.md
