@@ -2,17 +2,17 @@
 id: california-power-jan-2001
 type: topic
 domain: industry
-title: "California power crisis briefings (Jan-Mar 2001)"
-summary: "Kristin Walsh's California briefings: 15 Mar DWR essentially bankrupt ($40-60M a day), PG&E wants 2.9x book, QFs likely involuntary filers; 16 Mar Coram Energy to file against SoCal Ed; Lay and Skilling's 13 Mar memo on Enron's position (regulation caused it; no 'turnback'); January bids, 6 Mar grid-sale cap and CalISO data archived."
+title: "California power crisis briefings (Jan-Apr 2001)"
+summary: "Kristin Walsh's California briefings, 2001: Lay and Skilling's 13 Mar memo on Enron's position (regulation caused it; no 'turnback'); 27 Apr: FERC's caps a Bush holding move with a 1 Jun kill clause, state cash gone in ~90 days, SCE bailout faces a challenge; Krugman's 'The Real Wolf' (29 Apr); January bids, March DWR and QF items archived."
 status: active
-updated: 2001-03-25
+updated: 2001-04-29
 ---
-# California power crisis briefings (Jan 2001)
+# California power crisis briefings (Jan-Apr 2001)
 
-Detail ←[[california-power-jan-2001-2001-01-w04]] ←[[california-power-jan-2001-2001-02-w05]] ←[[california-power-jan-2001-2001-03-w10]] ←[[california-power-jan-2001-2001-03-w11]] ←[[california-power-jan-2001-2001-03-w12]]
+Detail ←[[california-power-jan-2001-2001-01-w04]] ←[[california-power-jan-2001-2001-02-w05]] ←[[california-power-jan-2001-2001-03-w10]] ←[[california-power-jan-2001-2001-03-w11]] ←[[california-power-jan-2001-2001-03-w12]] ←[[california-power-jan-2001-2001-04-w17b]]
 
 2000 background (CAISO caps, FERC remedies, class action): memory/domains/industry/california-power-2000.md.
 
-- [2001-03-15] Walsh: DWR spends $40-60M a day, essentially bankrupt, needs rate rises to securitise the $10B bond; PG&E wants 2.9x book for its grid (SCE took 2.3x) and release as buyer of last resort, may put the utility into bankruptcy; QFs (SB 47X stalled) likeliest involuntary filers; the Bush camp favours Pat Wood over Hebert at FERC (Lott backs Hebert), opposes caps; Burton's committee probes generators. ←[[m06240]]
-- [2001-03-15] Walsh: Coram Energy (small wind QF, West Vancouver) and two other creditors to file an involuntary bankruptcy against SoCal Ed early next week, believing a blackout may be needed to pass Davis's bailout; other QFs take legal advice. ←[[m06249]]
 - [2001-03-21] Owner keeps Lay and Skilling's 13 Mar all-employee memo: regulation, not deregulation, caused the crisis (no new plants, buying forced to spot, frozen retail rates); Enron is a market maker, not a generator, in California; EES let utilities serve its customers, terminated no contracts, no 'turnback'; asks for faster permitting, full retail opening, cost recovery; against caps and a state takeover. Also saves consumerfed.org/calmkt.pdf. ←[[m06348]] ←[[m06340]]
+- [2001-04-27] Walsh (to Lavorato, Kitchen): FERC's emergency-only caps are a Bush holding move leaving the blame on Davis, withdrawn unless the ISO joins a FERC regional grid by 1 Jun; California may pay $20B for power this summer (more than PG&E and SCE are worth), cash gone in ~90 days; QFs' advance-payment plea likely fails, keeping most of 4,000 MW offline; Harvey Rosenfield readies a constitutional challenge to the SCE bailout MOU. ←[[m07287]] ←[[m07319]]
+- [2001-04-29] Owner mails himself Krugman's NYT column 'The Real Wolf': generators withhold capacity by forced outages (Frank Wolak); FERC's 2-1 caps (Massey against) leak through 'megawatt laundering'. ←[[m07336]]

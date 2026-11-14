@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-04-25
+updated: 2001-04-29
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: private-firm RFPs out 25 Apr, model 15 Jul, Iris Mack in London from 30 Apr (one week+) → memory/domains/work/private-firm-credit-model-2001.md; Duffie study: edit into one review, delay fine → memory/domains/work/model-risk-audit.md
-- VaR: Hayden's Reg. VaR meeting Thu 26 Apr, Tamarchenko's clustering and jump agenda → memory/domains/work/var-credit-system-2001.md
-- EOL: Bob Lee's 'George' data request; Vernon hands the owner the EOL data and a Sun server → memory/domains/work/eol-trading-algorithms-2001.md; movie futures bid-ask → memory/domains/work/ebs-research-requests-2001.md
-- Desks: petrochem curves, Kate on it → memory/domains/work/petrochem-forward-curves-2001.md; Dabhol: Enron may exit India → memory/domains/work/dabhol-power-sale.md; London ag weather → memory/domains/work/weather-research-2001.md
-- Outside: Thorne NDA fine, 4 May; McCormack's outline owed → memory/domains/work/outside-requests-2001.md; CHARM call → memory/domains/work/enterprise-risk-management.md; Curran's Willow/Pathstar → memory/domains/work/vendor-offers-2001.md
+- Credit: RFPs out 25 Apr, model 15 Jul; Dhar's data spec; credit business plan; Iris Mack in London from 30 Apr with a wish list → memory/domains/work/private-firm-credit-model-2001.md; Duffie study: edit into one review → memory/domains/work/model-risk-audit.md
+- VaR: Hayden's Reg. VaR meeting 26 Apr, Tamarchenko's clustering and jump agenda → memory/domains/work/var-credit-system-2001.md
+- EOL: Barkley's WTI crude trade set (24,000+ trades), analysis ideas wanted; Vernon hands the owner the EOL data → memory/domains/work/eol-trading-algorithms-2001.md; movie futures: 15+ films, 1-day bidding → memory/domains/work/ebs-research-requests-2001.md
+- Desks: Dabhol board votes for a PPA termination notice, lenders split → memory/domains/work/dabhol-power-sale.md; Bennett leaves London, Hamilton to development → memory/domains/work/weather-research-2001.md; petrochem curves → memory/domains/work/petrochem-forward-curves-2001.md
+- Outside: Thorne 4 May; McCormack's outline owed → memory/domains/work/outside-requests-2001.md; Darrah to interview with Zipter and Port → memory/domains/work/enterprise-risk-management.md; Curran's Willow/Pathstar → memory/domains/work/vendor-offers-2001.md
 
 ## Files
 

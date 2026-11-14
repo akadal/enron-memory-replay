@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-25
+updated: 2001-04-29
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Renshi Zhang cancelled, statistician declines, McCracken call, Demianenko to Lee Ferrell, Paleologo awaits a written offer, George Moss (LSU) → memory/domains/organization/candidate-interviews-late-apr-2001.md; Rajan, Kang, Hsu → memory/domains/organization/candidate-interviews-mid-apr-2001.md
+- Candidates: Paleologo's written offer ($110k, $20k bonus) before Italy; Greg Hunt to Roberts; Joao Neves; Bessik Matchavariani → memory/domains/organization/candidate-interviews-apr-end-2001.md; Demianenko to Lee Ferrell, George Moss (LSU) → memory/domains/organization/candidate-interviews-late-apr-2001.md
 - Interns: Jinbaek Kim 4 Jun, plane ticket paid for all → memory/domains/organization/summer-interns-2001.md; Stanford 4 of 6 summer offers taken → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
-- HR: Sevil Yaman's bonus 30 Apr, H1B papers owed → memory/domains/organization/hr-matters-2001.md
-- Company: EES risk to an EWS group, EGM meeting 7 May, iBuyit 1 May → memory/domains/organization/corporate-announcements-2001.md; London: Gibner vs Vasant for Europe/Asia → memory/domains/organization/london-research.md
-- Group: Astros 27 Apr; Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md
+- HR: Sevil Yaman's bonus 30 Apr; her H1B deferred to her full-time start, maybe early 2002 → memory/domains/organization/hr-matters-2001.md; EGM allocation by desk (27 Apr) → memory/domains/organization/research-accounting-2000.md
+- Company: EES risk to an EWS group, EGM meeting 7 May, iBuyit 1 May → memory/domains/organization/corporate-announcements-2001.md; Durasoft COM course 14-18 May → memory/domains/organization/leave-and-training.md
+- Group: Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; London: Gibner vs Vasant for Europe/Asia → memory/domains/organization/london-research.md
 
 ## Files
 
@@ -41,7 +41,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/power-play-response.md — Mehta's 'Power Play' (Oct 2000)
 - memory/domains/organization/promotions-2000.md — promotions
 - memory/domains/organization/recruiting-candidates.md — candidate leads
-- memory/domains/organization/research-accounting-2000.md — budget, 2001 cut, ETS share
+- memory/domains/organization/research-accounting-2000.md — budget, 2001 cut, ETS share, EGM split by desk (Apr 2001)
 - memory/domains/organization/research-group.md — members, titles, staff meeting
 - memory/domains/organization/research-offsite-2000.md — Breckenridge, Aug 2000
 - memory/domains/organization/software-licenses.md — software licences
@@ -62,3 +62,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
 - memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
 - memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
+- memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
