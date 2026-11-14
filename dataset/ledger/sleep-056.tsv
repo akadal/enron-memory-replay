@@ -1,0 +1,168 @@
+id	durable	status	detail
+m04888	yes	kept	domains/industry/visitors-2000.md
+m04889	yes	kept	domains/industry/visitors-2000.md
+m04890	no	not_durable	logistics
+m04891	no	not_durable	automated
+m04892	yes	kept	domains/work/enron-australia-2000.md
+m04893	yes	kept	domains/work/enron-australia-2000.md
+m04894	yes	kept	domains/industry/visitors-2000.md
+m04895	yes	kept	domains/organization/grant-masson-rehire-dec-2000.md
+m04896	yes	kept	domains/work/dabhol-power-sale.md
+m04897	yes	kept	domains/work/dabhol-power-sale.md people/james-a-hughes.md
+m04898	no	not_durable	bulk
+m04899	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m04900	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04901	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04902	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md people/dennis-feerick.md
+m04903	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md people/dennis-feerick.md
+m04904	yes	kept	domains/organization/leave-and-training.md
+m04905	no	not_durable	pleasantry
+m04906	no	not_durable	logistics
+m04907	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m04908	no	not_durable	automated
+m04909	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/frank-qian.md
+m04910	yes	kept	domains/industry/aiesec-houston.md
+m04911	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04912	yes	kept	domains/personal/household.md
+m04913	no	not_durable	logistics
+m04914	yes	kept	domains/work/wti-eol-simulation-2000.md people/stinson-gibner.md people/zimin-lu.md
+m04915	yes	kept	domains/work/stanford-research-ties.md
+m04916	no	not_durable	quote_only
+m04917	yes	kept	domains/work/model-risk-audit.md people/gillian-boyer.md
+m04918	yes	kept	domains/work/model-risk-audit.md
+m04919	yes	kept	domains/work/model-risk-audit.md people/stinson-gibner.md
+m04920	yes	kept	domains/organization/research-accounting-2000.md
+m04921	yes	kept	domains/work/model-risk-audit.md people/gillian-boyer.md
+m04922	yes	kept	domains/organization/staff-and-recruiting.md
+m04923	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/frank-qian.md
+m04924	no	not_durable	logistics
+m04925	yes	kept	domains/personal/correspondence.md
+m04926	yes	kept	domains/personal/investments-2000.md
+m04927	yes	kept	domains/industry/speaking-engagements-2000.md
+m04928	no	not_durable	pleasantry
+m04929	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04930	yes	kept	domains/work/var-backtesting-2000.md
+m04931	no	not_durable	pleasantry
+m04932	no	not_durable	bulk
+m04933	yes	kept	domains/organization/group-events-2000.md
+m04934	yes	kept	domains/work/var-backtesting-2000.md
+m04935	yes	kept	domains/work/enron-transformation-paper.md
+m04936	no	not_durable	logistics
+m04937	yes	kept	domains/organization/research-accounting-2000.md
+m04938	yes	kept	domains/work/total-return-swaps-dec-2000.md
+m04939	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04940	no	not_durable	bulk
+m04941	yes	kept	domains/work/total-return-swaps-dec-2000.md
+m04942	yes	kept	domains/work/enron-transformation-paper.md
+m04943	no	not_durable	pleasantry
+m04944	no	not_durable	pleasantry
+m04945	no	not_durable	automated
+m04946	yes	kept	domains/work/ut-austin-ties-2000.md
+m04947	yes	kept	domains/organization/candidate-interviews-jan-2001.md
+m04948	no	not_durable	bulk
+m04949	no	not_durable	bulk
+m04950	no	not_durable	logistics
+m04951	yes	kept	domains/work/enron-transformation-paper.md
+m04952	yes	kept	domains/organization/staff-and-recruiting.md
+m04953	no	not_durable	pleasantry
+m04954	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/cheryl-arguijo.md
+m04955	yes	kept	domains/personal/investments-2000.md
+m04956	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md people/dennis-feerick.md
+m04957	yes	kept	domains/work/enron-transformation-paper.md
+m04958	yes	kept	domains/work/wti-eol-simulation-2000.md
+m04959	no	not_durable	quote_only
+m04960	yes	kept	domains/work/dabhol-power-sale.md
+m04961	no	not_durable	quote_only
+m04962	no	not_durable	quote_only
+m04963	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m04964	yes	dropped	logistics: Lance Cunningham phone number passed on
+m04965	yes	kept	domains/work/credit-markets.md
+m04966	yes	kept	domains/organization/leave-and-training.md
+m04967	no	not_durable	pleasantry
+m04968	yes	kept	domains/industry/visitors-2001.md
+m04969	yes	kept	domains/work/jcc-brent-hedge.md
+m04970	yes	kept	domains/work/jcc-brent-hedge.md
+m04971	yes	kept	domains/work/jcc-brent-hedge.md domains/work/total-return-swaps-dec-2000.md
+m04972	no	not_durable	bulk
+m04973	no	not_durable	bulk
+m04974	no	not_durable	bulk
+m04975	no	not_durable	quote_only
+m04976	no	not_durable	bulk
+m04977	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/jennifer-fraser.md
+m04978	yes	kept	domains/organization/group-events-2000.md
+m04979	yes	kept	domains/work/enron-australia-2000.md
+m04980	no	not_durable	logistics
+m04981	yes	kept	domains/organization/candidate-referrals-2000.md
+m04982	yes	kept	domains/organization/staff-and-recruiting.md
+m04983	yes	kept	domains/work/dabhol-power-sale.md
+m04984	yes	kept	domains/work/research-presentations.md
+m04985	yes	kept	domains/organization/corporate-announcements-2000.md
+m04986	yes	kept	domains/work/total-return-swaps-dec-2000.md
+m04987	yes	kept	domains/work/total-return-swaps-dec-2000.md
+m04988	yes	kept	domains/work/research-web-content-2000.md
+m04989	yes	kept	domains/industry/visitors-2001.md
+m04990	yes	kept	domains/organization/candidate-referrals-2000.md
+m04991	yes	kept	domains/organization/staff-and-recruiting.md
+m04992	yes	kept	domains/organization/staff-and-recruiting.md
+m04993	yes	kept	domains/organization/research-group.md
+m04994	yes	kept	domains/work/dabhol-power-sale.md people/anshuman-srivastav.md people/james-a-hughes.md
+m04995	no	not_durable	automated
+m04996	no	not_durable	automated
+m04997	yes	dropped	social: group birthday pairs
+m04998	no	not_durable	automated
+m04999	no	not_durable	automated
+m05000	yes	kept	domains/work/total-return-swaps-dec-2000.md
+m05001	yes	kept	domains/industry/visitors-2001.md
+m05002	yes	kept	domains/work/wti-eol-simulation-2000.md
+m05003	yes	kept	domains/work/enron-australia-2000.md
+m05004	yes	kept	domains/industry/garp-2001.md people/philip-merrill.md
+m05005	no	not_durable	bulk
+m05006	no	not_durable	quote_only
+m05007	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md domains/personal/household.md
+m05008	yes	kept	domains/organization/year-end-prc-2000.md
+m05009	yes	kept	domains/organization/year-end-prc-2000.md
+m05010	no	not_durable	pleasantry
+m05011	yes	kept	domains/organization/year-end-prc-2000.md
+m05012	yes	kept	domains/industry/garp-2001.md
+m05013	yes	kept	domains/industry/eprm-risk.md
+m05014	yes	kept	domains/organization/research-accounting-2000.md
+m05015	yes	kept	domains/work/wti-eol-simulation-2000.md
+m05016	yes	kept	domains/work/wti-eol-simulation-2000.md
+m05017	yes	kept	domains/work/ag-trading-report-2000.md people/mauricio-mora.md people/nelson-neale.md
+m05018	yes	kept	domains/work/ag-trading-report-2000.md people/mauricio-mora.md
+m05019	yes	kept	domains/work/ag-trading-report-2000.md people/nelson-neale.md
+m05020	yes	kept	domains/work/ag-trading-report-2000.md people/mauricio-mora.md
+m05021	yes	kept	domains/work/ag-trading-report-2000.md people/mauricio-mora.md
+m05022	no	not_durable	quote_only
+m05023	no	not_durable	quote_only
+m05024	yes	kept	domains/work/ag-trading-report-2000.md people/mauricio-mora.md
+m05025	no	not_durable	quote_only
+m05026	yes	kept	domains/industry/events-attending-2000.md
+m05027	no	not_durable	bulk
+m05028	no	not_durable	bulk
+m05029	yes	kept	domains/organization/year-end-prc-2000.md
+m05030	no	not_durable	pleasantry
+m05031	no	not_durable	quote_only
+m05032	no	not_durable	pleasantry
+m05033	yes	kept	domains/organization/candidate-referrals-2000.md
+m05034	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/jennifer-fraser.md people/niamh-clarke.md
+m05035	yes	kept	domains/work/dabhol-power-sale.md people/anshuman-srivastav.md
+m05036	yes	kept	domains/industry/visitors-2001.md
+m05037	yes	kept	domains/work/stanford-research-ties.md
+m05038	yes	kept	domains/work/credit-markets.md
+m05039	yes	kept	domains/personal/correspondence.md
+m05040	yes	kept	domains/personal/correspondence.md
+m05041	yes	dropped	redundant: Lance phone number forwarded to AOL
+m05042	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/frank-qian.md
+m05043	no	not_durable	quote_only
+m05044	yes	kept	domains/organization/candidate-interviews-jan-2001.md people/cheryl-arguijo.md people/dorothy-youngblood.md
+m05045	yes	kept	domains/industry/visitors-2001.md
+m05046	yes	kept	domains/work/lacima-book-2000.md
+m05047	no	not_durable	quote_only
+m05048	yes	kept	domains/industry/speaking-engagements-2000.md
+m05049	yes	kept	domains/work/desk-analysis-requests.md
+m05050	no	not_durable	quote_only
+m05051	yes	kept	domains/personal/correspondence.md
+m05052	no	not_durable	quote_only
+m05053	yes	kept	domains/work/var-backtesting-2000.md
+m05054	no	not_durable	bulk
