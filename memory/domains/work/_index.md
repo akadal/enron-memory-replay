@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-09-01
+updated: 2001-09-09
 ---
 # Work — index
 
@@ -9,11 +9,13 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Prediction Company: Stanford (Wolak) Tue 4 Sep 4 pm, dinner 7; Santa Fe Wed 5 Sep 9:30 am (236 Montezuma Ave), still on after the 28 Aug news; NDA on the business talks only → memory/domains/work/prediction-company.md
+- Prediction Company: Stanford (Wolak) 4 Sep, Santa Fe 5 Sep; NDA on the business talks only → memory/domains/work/prediction-company.md
 - EOL data mining: Whalley's top priority, bi-weekly updates to him, Jay Webb pledges help → memory/domains/work/eol-trading-algorithms-2001.md
-- Raptor: credit capacity ($237MM) at 20 Aug, Ding Yuan's 'Notes On Raptors', Bharati's spreadsheet fix → memory/domains/work/talon-raptor.md
+- Raptor: Issler values the Peregrine/Shortfall restrictions in Baker's discount model (6 Sep); credit capacity ($237MM) at 20 Aug; 'Notes On Raptors' → memory/domains/work/talon-raptor.md
 - Models: Duffie's audit, reliability VaR rewrite due, Enron owes him for 18 months → memory/domains/work/var-credit-system-2001.md; FEA @ENERGY v2.2 Storage → memory/domains/work/storage-model.md; Oz Deal → memory/domains/work/oz-crude-basket-2001.md
-- Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; Skunk Works Tue 11 Sep → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
+- Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; Skunk Works Tue 11 Sep, EES Consumption Risk, Stock's database help for Tanya → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
+- Weather: Kimberlain's NAO/AO seminar 26 Sep, MIT/IBM collaboration "ASAP"; e-Acumen's WeatherAcumen pitch to Mike Roberts → memory/domains/work/weather-research-2001.md
+- UT Mon 10 Sep: Baldick 10:30, lunch with Ronn's faculty, class 2-5 pm → memory/domains/work/ut-austin-ties-2000.md
 
 ## Files
 

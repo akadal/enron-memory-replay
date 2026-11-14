@@ -3,15 +3,15 @@ id: weather-research-2001
 type: topic
 domain: work
 title: "Research weather group: models and support, 2001"
-summary: "Research weather work, 2001: owner advises Lavorato against seating the gas and power weather groups together, else merge them under Mike Roberts; Foresight's business case (24 Aug 2001); MetBox and the MM5 box, Syncrasy, Storm Barry, Kelly's El Nino question and older items archived; Hamilton's post: tony-hamilton-london-2001."
+summary: "Research weather work, 2001: Kimberlain's NAO/AO seminar 26 Sep, MIT/IBM collaboration to go ahead ASAP (6 Sep 2001); e-Acumen's WeatherAcumen pitch via Heather Thorne, to Mike Roberts (6 Sep 2001); Foresight, MetBox, Syncrasy and older items archived; Hamilton's post: tony-hamilton-london-2001."
 status: active
-updated: 2001-08-24
+updated: 2001-09-09
 ---
 # Research weather group: models and support, 2001
 
-Detail ←[[weather-research-2001-2001-04-w15b]] … (one archive file per week) ←[[weather-research-2001-2001-06-03]] ←[[weather-research-2001-2001-06-06]] ←[[weather-research-2001-2001-06-09]] ←[[weather-research-2001-2001-07-03]] ←[[weather-research-2001-2001-07-21]] ←[[weather-research-2001-2001-08-03]] ←[[weather-research-2001-2001-08-10]] ←[[weather-research-2001-2001-08-24]]
+Detail ←[[weather-research-2001-2001-04-w15b]] … (one archive file per week) ←[[weather-research-2001-2001-06-03]] ←[[weather-research-2001-2001-06-06]] ←[[weather-research-2001-2001-06-09]] ←[[weather-research-2001-2001-07-03]] ←[[weather-research-2001-2001-07-21]] ←[[weather-research-2001-2001-08-03]] ←[[weather-research-2001-2001-08-10]] ←[[weather-research-2001-2001-08-24]] ←[[weather-research-2001-2001-09-09]]
 
 Tony Hamilton's London post: memory/domains/organization/tony-hamilton-london-2001.md. Weather markets: memory/domains/industry/weather-insurance-markets.md.
-- [2001-08-24] To Lavorato (cc Whalley) on seating the gas and power weather groups together: "My recommendation is against it."; separate groups give checks and balances: "The power weather guys will defer to Mike who has unquestionable authority and experience."; if it goes ahead, "it makes sense to combine the two groups under Mike's leadership." ←[[m09065]]
-- [2001-08-24] Foresight (Sean Ebert, VP Business Development) sends Hrgovcic, copying the owner, a confidential business case (an integrated weather service provider seeking an exclusive partnership with an energy trader) and wants Enron Principal Investments. ←[[m09072]]
+- [2001-09-06] Todd Kimberlain's seminar 26 Sep, 10-11:30 am: Mark (Northwest Research Associates) on NAO/AO and Sudden Stratospheric Warmings, to foresee winter cold outbreaks weeks ahead; lunch on a research collaboration (him/ECWMF and Enron); Mike Roberts asks whether to go ahead with MIT/IBM etc.; owner: "Yes, let's move ASAP." ←[[m09160]]
+- [2001-09-06] Heather Thorne (e-Acumen, interim; to McKinsey this fall): e-Acumen (main investor GE Power Systems) sells Enron consensus weather forecasts; WeatherAcumen demo 14 Sep for Tawney, Ribeiro, Hrgovcic, Michael Nguyen; she proposes linking it to EnronOnline; owner to Mike Roberts: "Please, take a look at this one." ←[[m09163]]
 

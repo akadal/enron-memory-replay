@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-09-01
+updated: 2001-09-09
 ---
 # Industry — index
 
@@ -9,9 +9,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: SMS SFO 21-24 Oct; INFOCAST 10 Oct; IQPC London 23-24 Oct; ICBI Paris 6-8 Nov; Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
-- Wharton: Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report promised → memory/domains/industry/eprm-risk.md
-- Universities: Rice declines MacMinn, wants a star for the Enron Chair → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference: Whalley offered for Skilling → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH → memory/domains/industry/uh-econophysics.md
+- Speaking: SMS SFO 21-24 Oct; INFOCAST 10 Oct; IQPC London 23-24 Oct; ICBI Gas & PoweRisk Paris 6-8 Nov (25% off via speakers); Houston Energy Group 14 Nov; Spain 17-18 Dec, decision pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo 28-30 Nov declined (vacation after Thanksgiving) → memory/domains/industry/declined-invitations-2000.md
+- GARP 2002: Simou wants the owner and Mark (Edison Mission) to run an energy risk workshop → memory/domains/industry/garp-2001.md
+- Wharton: Tiger Team topic due 14 Sep, owner talks to Reck and Romine → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso offers himself for 12 Nov instead of Kean → memory/domains/industry/wharton-risk-center-2001.md; RISK referee report promised → memory/domains/industry/eprm-risk.md
+- Universities: Rice declines MacMinn, wants a star for the Enron Chair → memory/domains/industry/rice-university.md; Kent Daniel seminar 31 Aug → memory/domains/industry/rice-finance-seminar-2001.md; UT conference: Whalley offered for Skilling → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Goldenfeld's visit, dinner Mon 24 Sep, colloquium Tue 25 Sep 3 pm → memory/domains/industry/uh-econophysics.md
 - Events: Energy Exchanges Online II 10-11 Sep; EPIS 12-14 Sep; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Toshiba via Tokyo → memory/domains/industry/visitors-2001.md
 
 ## Files
@@ -26,7 +27,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/esai-energycast-review.md — ESAI/WSI Energycast review (Ed Krapels, Jul 2000)
 - memory/domains/industry/events-attending-2000.md — events attended (CERAWeek, Texas Finance Festival 2001)
 - memory/domains/industry/ferc-transmission-resale.md — FERC transmission resale cap (Mar 2000)
-- memory/domains/industry/garp-2001.md — GARP 2001 Convention (chair Track 4, 13 Feb 2001) and GARP at Enron 30 Jan 2001
+- memory/domains/industry/garp-2001.md — GARP 2001 Convention (chair Track 4, 13 Feb 2001), GARP at Enron 30 Jan 2001, GARP 2002 workshop
 - memory/domains/industry/gpcm-rbac.md — RBAC's GPCM gas model (Robert Brooks)
 - memory/domains/industry/informs-san-antonio-2000.md — INFORMS San Antonio, Nov 2000: owner's talk (Deng) cancelled
 - memory/domains/industry/market-outlooks-2000.md — outside market views, 2000
@@ -35,7 +36,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS and IQPC Oct 2001, ICBI Paris and HEG Houston Nov 2001, Spain Dec 2001
-- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga visit Aug 2001)
+- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga visit Aug 2001, Goldenfeld Sep 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings

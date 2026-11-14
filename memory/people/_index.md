@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-09-01
+updated: 2001-09-09
 ---
 # People — index
 
@@ -38,6 +38,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andrzej Wodnicki
 - Andy Zipper
 - Angela Dorsey
+- Angelika Staude
 - Anguel Grigorov
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
@@ -572,6 +573,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ronnie Chahal
 - Ronnie Ghosh
 - Rosemary Fitzgerald
+- Ross Baldick
 - Ross McIntyre
 - Ross Mesquita
 - Ross Prevatt
@@ -625,6 +627,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stanley Horton
 - Stathis Tompaidis
 - Stephanie Miller
+- Stephanie Taylor (Stephanie E. Taylor)
 - Stephanie Summers
 - Stephen Bennett
 - Stephen Bramlett (Steven Bramlet)
