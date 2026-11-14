@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-01-07
+updated: 2001-01-14
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Petronas visit Thu 8 Feb, 10 am, RAC presentation → memory/domains/industry/petronas-visit-feb-2001.md
-- Wharton Tiger Team in Houston 18-19 Jan, one project in three sections → memory/domains/industry/wharton-tiger-trip-jan-2001.md
-- GARP 2001 slides due 5 Jan; GARP at Enron 30 Jan → memory/domains/industry/garp-2001.md; EPRM 2001 talk 14 May → memory/domains/industry/eprm-risk.md
-- Carmona 13 Feb, Oren, Kholodnyi (Dallas, a Friday), Sheble in Q1 → memory/domains/industry/visitors-2001.md; Henwood ERCOT 23 Jan, Tff2001 April → memory/domains/industry/events-attending-2000.md
-- EEI benchmarking declined → memory/domains/industry/declined-invitations-2000.md; Baylor dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
+- Petronas Thu 8 Feb, EB3321, lunch with the owner → memory/domains/industry/petronas-visit-feb-2001.md
+- Wharton Tiger Team 18-19 Jan, Shankman agenda meeting 16 Jan, Mid-Project Review on campus → memory/domains/industry/wharton-tiger-trip-jan-2001.md
+- Henwood ERCOT 23 Jan → memory/domains/industry/events-attending-2000.md; UT CEFER panel and Baylor dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md; EPRM 14 May, details by 18 Jan → memory/domains/industry/eprm-risk.md
+- Rice ALP and spring course → memory/domains/industry/rice-university.md; GARP at Enron 30 Jan → memory/domains/industry/garp-2001.md
+- Carmona 13 Feb, Sheble Q1, Oren later; PSERC under review → memory/domains/industry/visitors-2001.md
 
 ## Files
 

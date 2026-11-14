@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-01-07
+updated: 2001-01-14
 ---
 # People — index
 
@@ -89,6 +89,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dale Surbey
 - Damian Goodburn
 - Darrell Duffie
+- Darren Delage
 - Datren Williams (Datren L. Williams)
 - Dave Delainey
 - David Berberian
@@ -102,6 +103,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dawn Derr
 - Dawn Scovill
 - Debbie Brackett (Debbie R Brackett)
+- Deepa Mallik
 - Denise Rancour
 - Dennis Benevides
 - Dennis Feerick
@@ -116,6 +118,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Duane Seppi
 - Ed Krapels
 - Ed McMichael
+- Edson Otani
 - Edward Kao
 - Ehud Ronn (Ehud I. Ronn)
 - Elena Chilkina
@@ -154,13 +157,16 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gwyn Koepke
 - Habiba Bayi
 - Harry Arora
+- Heather Thorne
 - Hector Campos
 - Helyette Geman
 - Howard Kunreuther
 - Hunter Shively (Hunter S Shively)
 - Iain Russell
 - Iris Mack
+- Jack Rejtman
 - Jaesoo Lew
+- Jaideep Singh
 - James A Hughes (James Hughes, Jim Hughes)
 - James Bouillion
 - James Steffes (James D Steffes, Jim Steffes)
@@ -174,6 +180,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jeff McMahon
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
+- Jeff Wesley
 - Jeffrey Shorter
 - Jennifer Burns
 - Jennifer Fraser
@@ -219,6 +226,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karolina Potter
 - Kate Bruges
 - Kate Lucas
+- Kathy Spradling
 - Katja Schilling
 - Kay Chapman
 - Keith Baggerly
@@ -231,6 +239,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kevin Kindall
 - Kevin Moore (Kevin G Moore)
 - Kevin Presto (Kevin M Presto)
+- Kim Whitsel
 - Kimberly Watson
 - Kirstee Hewitt
 - Kristin Gandy
@@ -290,6 +299,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Schilmoeller
 - Michael Sergeev
 - Michael Tomczyk
+- Michele Nezi Marvin
 - Mike McConnell
 - Mike Roberts (Mike A Roberts)
 - Mike Rosen
@@ -307,10 +317,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Oliver Gaylard
 - Osman Sezgen
 - Paige Grumulaitis
+- Pat Henahan
 - Patrycja Dalecka (Patricia Dalecka)
 - Paul Bristow
 - Paul Day
 - Paul Johnson
+- Paul Mead
 - Paul Quilkey
 - Paul Racicot
 - Paul Rowady
@@ -342,6 +354,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Richard Weeks
 - Rick Bryant
 - Rick Buy
+- Rita Hennessy
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
 - Robert Johnston
 - Robert Lee (Bob Lee)
@@ -424,9 +437,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vasant Shanbhogue
 - Vera Apodaca
 - Vicky Windsor
+- Vincent Chen
 - Vincent Tang
 - Vladimir Gorny
 - Wade Cline
+- Wes Colwell
 - William Bradford (William S Bradford)
 - William Smith (Sam Smith)
 - Winston Jia (Wenyao Jia)
