@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-12-22
+updated: 2000-12-31
 ---
 # Work — index
 
@@ -9,10 +9,10 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- WTI simulation: 2nd-last-day rolls, EOL max daily loss $12.2MM; Ted Murphy's 24x7 EOL WTI controls → memory/domains/work/wti-eol-simulation-2000.md
-- DPC: Hughes wants fundamentals help, LNG volumetric-option hedge; Kohli to Duran → memory/domains/work/dabhol-power-sale.md
-- Braveheart TRS, Li Sun's SPVs → memory/domains/work/total-return-swaps-dec-2000.md; ag report for Hickerson → memory/domains/work/ag-trading-report-2000.md
-- vatrfacs releases, IR & FX VaR stored → memory/domains/work/var-backtesting-2000.md; EnergyDesk: no full VaR model → memory/domains/work/model-risk-audit.md
+- WTI simulation: Whalley's round-trip correction lowers profit; Ted Murphy's 24x7 EOL WTI controls → memory/domains/work/wti-eol-simulation-2000.md
+- India price and dispatch study with Henwood by end-Jan → memory/domains/work/india-power-study-henwood.md; DPC, LNG hedge → memory/domains/work/dabhol-power-sale.md
+- Combinatorial bandwidth auction, meeting 11 Jan → memory/domains/work/bandwidth-combinatorial-auction.md; Braveheart TRS → memory/domains/work/total-return-swaps-dec-2000.md
+- Non-normal VaR proposal resent, vatrfacs releases → memory/domains/work/var-backtesting-2000.md; EnergyDesk: no full VaR model → memory/domains/work/model-risk-audit.md
 - Martin wants the risk management section → memory/domains/work/enron-transformation-paper.md; Bambos: Cope and Giuseppe as interns → memory/domains/work/stanford-research-ties.md
 
 ## Files
@@ -33,5 +33,6 @@ Path: memory/domains/work/<name>.md
 - turkish-ipo-options · tw-capacity-options · uk-inflation-book-ppi · uk-power-vol-curve · university-relations · ut-austin-ties-2000
 - value-research-lab · var-backtesting-2000 · vega-var · vendor-offers-2000
 - ag-trading-report-2000 · jcc-brent-hedge · total-return-swaps-dec-2000 · wti-eol-simulation-2000
+- bandwidth-combinatorial-auction · india-power-study-henwood · seasonal-curve-fitting
 
 Closed: 1
