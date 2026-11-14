@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2000-12-03
+updated: 2000-12-10
 ---
 # Personal — index
 
@@ -9,9 +9,9 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Soussan Faiz dinner Thu 7 Dec, Westin Oaks 6:30; JRI referee report still owed → memory/domains/personal/correspondence.md
-- Wife Ludmila and son at Stanford (Oct 2000); owner visited his son at Thanksgiving → memory/domains/personal/household.md
-- No interest in JPM's product, manages his own investments; Walkup: option exercise "Possibly." → memory/domains/personal/investments-2000.md
+- Walkup: cash to deposit for equities (4 Dec) → memory/domains/personal/investments-2000.md
+- Dentist Jan 25, 7:45; wife Ludmila and son at Stanford → memory/domains/personal/household.md
+- JRI referee report still owed → memory/domains/personal/correspondence.md
 - UNO invites him to apply for the Moffett Chair → memory/domains/personal/recruiter-approaches-2000.md
 
 ## Files

@@ -5,7 +5,7 @@ domain: work
 title: "Enron India: Dabhol power sale and power trading"
 summary: "Sandeep Kohli's India team: Dabhol firm and infirm power sale (Krishnarao), Rupee curve (Jan 2000); power trading checklist (May 2000, archived); India team's Houston training, Kohli's schedule, Kalotay's Dabhol interest rate cap valuation (Oct 2000); Mehta's 'Power Play': memory/domains/organization/power-play-response.md."
 status: active
-updated: 2000-10-15
+updated: 2000-12-10
 ---
 # Enron India: Dabhol power sale and power trading
 
@@ -16,3 +16,4 @@ Team: Sandeep Kohli with Rajesh Sivaraman, Vivek Kejriwal, Shubh Shrivastava, An
 - [2000-10-05] Kohli (VP; developing India merchant activities ahead of trading) asks Lavorato and the owner to host three India team members in Houston (power trading, RAC, Research, back office) and name agenda contacts; cleared with COO Wade Cline; similar sessions with McConnell, Shankman and Sherriff's team. ←[[m03449]]
 - [2000-10-06] Andrew Kalotay Associates (Leslie Abreo) delivers the valuation of the Dabhol Power Company interest rate caps the owner asked for (cc Roger G. Leworthy). ←[[m03454]]
 - [2000-10-09] Kohli sends the owner a rough schedule for his Houston stint (details on arrival) and thanks him for arranging it. ←[[m03489]]
+- [2000-12-09] Kohli reminds the owner to put in a word with Dave Duran, whom he asked for a meeting in the week of 17 Dec. ←[[m04703]]

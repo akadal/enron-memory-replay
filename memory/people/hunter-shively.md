@@ -5,11 +5,11 @@ entity: person
 name: "Hunter Shively"
 aliases: ["Hunter S Shively"]
 domains: [work, organization]
-updated: 2000-08-11
+updated: 2000-12-10
 ---
 # Hunter Shively
 
-Enron North America gas trader (2000). ←[[m01460]]
+Enron North America gas trader (2000). ←[[m01460]] Status quo (alias question closed unanswered 2000-12-10): the owner's spelling "Hunter Shiveley" (Nesbitt meeting invitation) is not attached as an alias (?). ←[[m03979]]
 
 ## Context: work
 

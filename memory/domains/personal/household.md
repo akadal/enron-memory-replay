@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's household and personal admin"
 summary: "Owner's AOL account, home address, phones, work card; wife Ludmila Kaminski and son at Stanford, Escondido Village (Oct 2000); son Vince in his senior year; Phoenix illness and sister's estate archived; investments: memory/domains/personal/investments-2000.md."
 status: active
-updated: 2000-12-03
+updated: 2000-12-10
 ---
 # Owner's household and personal admin
 
@@ -17,6 +17,7 @@ Detail ←[[household-2000-02-w06]] … (one archive file per week) ←[[househo
 - [2000-10-13] Wife Ludmila and son live at Stanford (Escondido Village 32B, Stanford, CA 94305; (650) 497 6938, cell (650) 465 9415); sent to Tanya Tamarchenko, who plans to visit them. ←[[m03617]]
 - [2000-11-17] Crawford Garage: (281) 363 2132, (281) 363 0085. ←[[m04283]]
 - [2000-11-27] Over Thanksgiving: "I has a very good time visiting my son" (California). Earlier career: seven years at Salomon, lower Manhattan: "I used to work for Salomon". ←[[m04450]] ←[[m04533]]
+- [2000-12-07] Note to self: "Dentist on Jan 25, 7:45.", "Send E-mail to Ed." ←[[m04656]] ←[[m04658]]
 
 ## History
 

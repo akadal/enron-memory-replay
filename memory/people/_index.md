@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-12-03
+updated: 2000-12-10
 ---
 # People — index
 
@@ -36,6 +36,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Arshak Sarkissian
 - Ashley Baxter
 - Avi Hauser (Avi I. Hauser)
+- Aziz Lookman
 - Barbara Dillard (Barbara G Dillard)
 - Barbara Ostdiek
 - Becky Pham
@@ -60,6 +61,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Carlos Ordonez
 - Carol Coats
 - Carrie Miller
+- Cathy Phillips
 - Celeste Roberts
 - Charlene Jackson
 - Charles Shen
@@ -118,10 +120,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Eric Groves
 - Eric Hilton
 - Erik Simpson
+- Erin Rice
 - Eugenio Perez
 - Farouk Lalji
 - Fiona Grant
 - Frank Diebold
+- Frank Hayden
 - Frank Wolak
 - Fred Lagrasta
 - Gabriel Bitran
@@ -192,6 +196,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jose Marquez
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
+- Julia Murray
 - Julie Haviland
 - Karen Marshall
 - Karla Feldman
@@ -203,6 +208,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Keith Baggerly
 - Ken Lay
 - Ken Rice
+- Kenneth Parkhill
 - Kevin Hannon
 - Kevin Kindall
 - Kevin Moore (Kevin G Moore)
@@ -319,6 +325,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Roman Kosecki
 - Roman Zadorozhny
 - Ron Baker
+- Ron Tapscott
 - Ronnie Chahal
 - Rosemary Fitzgerald
 - Ross Prevatt
