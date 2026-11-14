@@ -1,0 +1,198 @@
+{
+ "slice": 85,
+ "simulated_today": "2001-06-15",
+ "feed": {
+  "slice": 85,
+  "iso_week": "2001-W24",
+  "first_seq": 8534,
+  "last_seq": 8555,
+  "messages": 22,
+  "durable": 17,
+  "first_date": "2001-06-11 00:05",
+  "last_date": "2001-06-15 15:10",
+  "today": "2001-06-15",
+  "inbox_files": [
+   "2001-06-11--mail.md",
+   "2001-06-12--mail.md",
+   "2001-06-14--mail.md",
+   "2001-06-15--mail.md"
+  ],
+  "inbox_chars": 14317,
+  "l2_chars": 87154
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 459,
+ "quota_before": {
+  "five_hour": 11.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 13.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 85,
+  "messages": 22,
+  "durable": 17,
+  "kept": 17,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3411,
+  "fact_lines_with_source": 2131,
+  "dated": 2131,
+  "date_matches_source": 2079,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 660
+  },
+  "questions": {
+   "files": 1,
+   "chars": 525
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 213,
+   "chars": 382519
+  },
+  "people": {
+   "files": 678,
+   "chars": 434800
+  },
+  "archive_inbox": {
+   "files": 534,
+   "chars": 4986061
+  },
+  "archive_mail": {
+   "files": 8581,
+   "chars": 21822272
+  },
+  "archive_other": {
+   "files": 1599,
+   "chars": 1296357
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 40,
+   "duration_ms": 457306,
+   "duration_api_ms": 334385,
+   "total_cost_usd": 2.1508447,
+   "usage": {
+    "input_tokens": 74,
+    "cache_creation_input_tokens": 106802,
+    "cache_read_input_tokens": 2957044,
+    "output_tokens": 35223,
+    "output_tokens_details": {
+     "thinking_tokens": 10355
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 106802,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 824,
+      "cache_read_input_tokens": 124853,
+      "cache_creation_input_tokens": 888,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 888
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 74,
+     "outputTokens": 35223,
+     "cacheReadInputTokens": 2957044,
+     "cacheCreationInputTokens": 106802,
+     "webSearchRequests": 0,
+     "costUSD": 2.1505808,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 10355,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 106802,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 39,
+   "result_summary": "I consolidated week 2001-W24 (simulated date 2001-06-15) and committed it as `1cb57cc2`. It is not pushed: your instructions say the runner pushes after its own checks, so I left that step to it. Both gates passed: lint (192 budget warnings, no errors) and sleep-audit. The first audit run failed on five files that had grown too much (RATCHET: `enterprise-risk-management`, `private-firm-credit-model-2001`, `vendor-offers-2001`, `sponsorship-requests-2001`, `corporate-announcements-2001`). I fixed that in one repair pass by moving their oldest lines word for word to `memory/archive/<domain>/2001/*-2001-06-15.md`. All 17 messages with notes this week are cited in memory, so `dataset/drops/sleep-085.tsv` is empty. No new topic files were needed. The main facts filed are:\n\n- **Risk policy:** Cassandra Schultz sent a first draft of the new Risk Management Policy for comment, with executive meetings from late June.\n- **Speaking:** confirmed speaker at ICBI's Gas & PoweRisk in Paris, 6–9 Nov. IQPC London wants an answer by 19 Jun.\n- **Stanford conference 21–22 Jun:** the owner attends but declined to chair a session.\n- **Smaller items:** Iris Mack's econometric methods for the private-firm credit model, an Algorithmics follow-up and Henwood's Market Stack product, protest procedures sent to his direct reports, a University of Alberta MBA recruiting offer passed to Billy Lemmons, Lou Casari's farewell, and Bill Balson's IBM job lead for the owner's son.\n\nEric Toolson (Henwood) reached five messages with notes, so he now has an entity file and an alias-table entry. The only file above 90% of its ceiling, `household`, went from 2526 to 2100 characters. That is one file against the quota of three, because no others were in that range. The five oldest ongoing lines are still valid. The Krapels alias question isn't due until 2001-06-17, so nothing was closed by status quo, and there was no sleep-task in the inbox. I also archived the 2001-06-09 run log that the last run had left "
+  },
+  "repair": null
+ }
+}

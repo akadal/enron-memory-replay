@@ -1,0 +1,23 @@
+id	durable	status	detail
+m08534	no	not_durable	bulk
+m08535	yes	kept	domains/industry/speaking-engagements-2000.md
+m08536	yes	kept	domains/work/enterprise-risk-management.md
+m08537	no	not_durable	pleasantry
+m08538	yes	kept	domains/personal/household.md people/william-balson.md
+m08539	no	not_durable	bulk
+m08540	yes	kept	domains/organization/corporate-announcements-2001.md
+m08541	yes	kept	domains/industry/sponsorship-requests-2001.md
+m08542	no	not_durable	bulk
+m08543	yes	kept	domains/industry/sponsorship-requests-2001.md
+m08544	yes	kept	domains/work/private-firm-credit-model-2001.md
+m08545	yes	kept	domains/industry/speaking-engagements-2000.md
+m08546	yes	kept	domains/industry/events-attending-2001.md
+m08547	yes	kept	domains/organization/group-events-2000.md people/lou-casari.md
+m08548	no	not_durable	bulk
+m08549	yes	kept	domains/work/vendor-offers-2001.md
+m08550	yes	kept	domains/organization/summer-interns-2001.md
+m08551	yes	kept	domains/organization/summer-interns-2001.md
+m08552	yes	kept	domains/work/research-presentations.md
+m08553	yes	kept	domains/work/vendor-offers-2001.md people/eric-toolson.md
+m08554	yes	kept	domains/work/vendor-offers-2001.md people/eric-toolson.md
+m08555	yes	kept	domains/organization/group-events-2000.md
