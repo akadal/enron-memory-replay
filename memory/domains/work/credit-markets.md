@@ -5,7 +5,7 @@ domain: work
 title: "Credit risk and Enron's Credit Markets Group"
 summary: "London Credit Markets Group (Seyfried) formed Dec 1999; Board credit supplement (Dec 2000); Ben Parsons: a Risk article on default probabilities from CDS quotes matches London's method (Jan 2001); Mark Wilson proposes D&B's Financial Stress score for small exposures (Mar 2001); implied default rates, TRS papers and older items archived."
 status: active
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # Credit risk and Enron's Credit Markets Group
 
@@ -15,3 +15,4 @@ Detail ←[[credit-markets-2000-02-w06]] ←[[credit-markets-2000-03-w09]] ←[[
 - [2000-12-20] Stephanie McGinnis (3-9283), for Bradford, sends the Board meeting credit supplement (Credit Risk Update); owner copies it to AOL 22 Dec. Braveheart and SPVs: memory/domains/work/total-return-swaps-dec-2000.md. ←[[m04965]] ←[[m05038]]
 - [2001-01-23] Ben Parsons (London; via Shanbhogue to the owner and Tamarchenko): a Risk article on default probabilities from CDS quotes matches London's method plus one idea, a smoothness-plus-fit error measure instead of linear interpolation. ←[[m05481]] ←[[m05599]]
 - [2001-03-16] Mark Wilson (cc Bradford) proposes Dun & Bradstreet's Financial Stress score for small exposures without financial statements, mapped through implied default rates to E-ratings for credit reserves (talks with Rabi, Amitava); D&B's Dan Barry on the owner's false-positive question: it gives a likelihood of distress, not yes or no. ←[[m06250]]
+- [2001-03-21] Owner sends Wilson's D&B memo (Dan Barry's slides) to Bryan Seyfried: "FYI". ←[[m06335]]

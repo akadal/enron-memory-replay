@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # Personal — index
 
@@ -10,7 +10,7 @@ Scope: the owner's private matters that appear in the mail.
 ## Hot
 
 - San Jose fares for 24-28 Mar (Ludmila) → memory/domains/personal/household.md
-- Walkup (ML): taxable money in, IRA pending; Bigalow's morning notes (3/12 Nasdaq selloff call) and picks → memory/domains/personal/investments-2000.md
+- Walkup (ML): taxable money in, IRA pending; Bigalow's picks: MOT and LU bought 19 Mar → memory/domains/personal/investments-2000.md
 - LifeTrak: Lay sees merit but political risk (16 Feb); owner not taking part → memory/domains/personal/lifetrak-venture-2001.md
 - Wife Ludmila; Marysia's address in Poland → memory/domains/personal/household.md; Kierlanczyk, Doreen (via Paula Corey) → memory/domains/personal/correspondence.md
 

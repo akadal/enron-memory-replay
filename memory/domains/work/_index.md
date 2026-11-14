@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Dabhol: Sud met Rebecca McDonald 10 Mar, no mandate; owner backs Anshuman's move to Houston for the DPC fuel/LNG strategy, expects two more years on Dabhol; LNG by rail idea → memory/domains/work/dabhol-power-sale.md
-- Seppi talks swing terms with Lu; calls from Mitnick, RiskMetrics, NPPD (ERM); owed: Bernard Murphy's spark-spread answer, MacMillan's materials (IP) → memory/domains/work/outside-requests-2001.md
-- Raptors: Port forwards the daily position reports; work kept to Bharati and Naveen (15 Mar) → memory/domains/work/talon-raptor.md; D&B Financial Stress score for small credits (Mark Wilson) → memory/domains/work/credit-markets.md
-- Seyfried wants a status call on Enron Credit modeling support → memory/domains/work/enroncredit-support-2000.md; Lacima invoice 215, Strickland's EPRM vol article to review → memory/domains/work/lacima-book-2000.md
-- VaR: Stock's VaR documentation done, Credit Reserve next; Equity VAR adds Expected Tail Loss (7 Mar) → memory/domains/work/var-credit-system-2001.md
+- Dabhol: Sud met Rebecca McDonald 10 Mar, no mandate; Anshuman to Houston for the DPC fuel/LNG strategy, owner e-mailed Jim Hughes (20 Mar) → memory/domains/work/dabhol-power-sale.md
+- Outside: MacMillan refused the Real Options materials (commitment to the co-developer); McCormack (Stern Stewart) pitches monetization, meets the owner week of 26 Mar; calls from Linder (NPPD), Kovelsky (Meridien); owed: Bernard Murphy's answer → memory/domains/work/outside-requests-2001.md
+- Raptor: Port asks how to cope with its ethical issues (23 Mar); owner agrees with Bharati's Talon spreadsheet, calls Monday if not → memory/domains/work/talon-raptor.md
+- VaR: analytical Equity VaR and normal-scaled tail VaR for commodities (21 Mar) → memory/domains/work/var-credit-system-2001.md; FEA's VaR patents to Tamarchenko → memory/domains/work/vendor-offers-2000.md; CHARM with Bouillion 29 Mar → memory/domains/work/enterprise-risk-management.md
+- Desks: Arora's Enpower option-valuation changes, Neale's softs curves → memory/domains/work/desk-analysis-requests.md; Barkley's EOL automated trading study → memory/domains/work/eol-content-2000.md; Korea material for Port → memory/domains/work/country-risk-curves.md
 
 ## Files
 
