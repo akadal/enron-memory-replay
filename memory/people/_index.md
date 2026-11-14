@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-12-17
+updated: 2000-12-22
 ---
 # People — index
 
@@ -30,6 +30,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andrzej Wodnicki
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
+- Anshuman Srivastav
 - Anthony Mends (Tony Mends)
 - April Hodgson (April Hodgeson, April Hodges)
 - Aram Sogomonian
@@ -66,6 +67,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Charlene Jackson
 - Charles Shen
 - Charlie Weldon
+- Cheryl Arguijo
 - Cheryl Kuehl
 - Chonawee Supatgiat
 - Chris Hilgert
@@ -101,11 +103,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Debbie Brackett (Debbie R Brackett)
 - Denise Rancour
 - Dennis Benevides
+- Dennis Feerick
 - Dick Jefferis (Richard Jefferis)
 - Ding Yuan
 - Dolores Muzzy
 - Donna Piazze
 - Dorn Hetzel
+- Dorothy Youngblood
 - Doug Leach
 - Douglas Parsons (Douglas S Parsons, Doug Parsons)
 - Duane Seppi
@@ -126,6 +130,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Fiona Grant
 - Frank Diebold
 - Frank Hayden
+- Frank Qian (Feng Qian)
 - Frank Wolak
 - Fred Lagrasta
 - Gabriel Bitran
@@ -137,6 +142,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - George McClellan
 - George Posey
 - Gerald Sheble (Gerry Sheble)
+- Gillian Boyer
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
@@ -153,6 +159,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Iain Russell
 - Iris Mack
 - Jaesoo Lew
+- James A Hughes (James Hughes, Jim Hughes)
 - James Bouillion
 - James Steffes (James D Steffes, Jim Steffes)
 - Jana Giovannini
@@ -167,6 +174,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jeff Skilling
 - Jeffrey Shorter
 - Jennifer Burns
+- Jennifer Fraser
 - Jens Gobel
 - Jere Overdyke (Jere C Overdyke)
 - Jeremy Blachman
@@ -268,6 +276,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Masayuki Fujita
 - Matthew Williams (Matt Williams)
 - Maureen Raymond
+- Mauricio Mora
 - Melanie Doyle
 - Michael Anderson
 - Michael Curran
@@ -280,6 +289,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ming Sit
 - Molly Magee
 - Naveen Andrews
+- Nelson Neale (C. Nelson Neale)
+- Niamh Clarke
 - Nick Bambos
 - Nina Knirel
 - Norberto Valdes
@@ -303,6 +314,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pavel Zadorozhny
 - Peter Tufano
 - Phelim Boyle (P.P. Boyle)
+- Philip Merrill
 - Philippe Bibi (Philippe A Bibi)
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)

@@ -3,14 +3,13 @@ id: staff-and-recruiting
 type: topic
 domain: organization
 title: "Research Group staff, hires, moves and visas"
-summary: "Group moves: Jason Sokolov in the office from 29 Dec; Yana Kristal to EIM Fundamental Analysis from 2 Jan 2001; Brad Aimone's last day 14 Dec; London meteorologist search (Hawke, Cusack); Masson's return: grant-masson-rehire-dec-2000; Parkhill, older moves archived."
+summary: "Research staff moves: Kristal to Andrea Reed's group from 2 Jan 2001; Rakesh Bharati and Wichai Narongwanich (8 Jan) join; Weather Group praised for its winter forecast (Dec 2000); Sokolov, Aimone, meteorologist search and older moves archived."
 status: active
-updated: 2000-12-17
+updated: 2000-12-22
 ---
 # Research Group staff, hires, moves and visas
 
-Candidates not yet hired: memory/domains/organization/recruiting-candidates.md. Summer interns: memory/domains/organization/summer-interns-2000.md. Martin Lin's EBS rotation: memory/domains/work/broadband-services.md. Detail ←[[staff-and-recruiting-1999-12]] … (one archive file per week) ←[[staff-and-recruiting-2000-09-w35]] ←[[staff-and-recruiting-2000-12-w48]] ←[[staff-and-recruiting-2000-12-w49]] ←[[staff-and-recruiting-2000-12-w50]]
-- [2000-12-08] Jason Sokolov (sokolov@rice.edu): finals to 18 Dec, in the office 29 Dec, vacation 30 Dec-15 Jan, back 16 Jan. ←[[m04685]]
-- [2000-12-13] Kristal (moving to Andrea Reed's EIM Fundamental Analysis; owner, 5 Dec: "THIS IS NOT A ROTATION.") starts officially 2 Jan 2001, agreed with Maureen; she trains her FX and Country Risk successor and gives it her free time from 18 Dec. ←[[m04633]] ←[[m04635]] ←[[m04799]]
-- [2000-12-14] Brad Aimone (not a full-time employee) leaves 14 Dec; owner: "Please, send a message to Norma to finalize it." ←[[m04842]]
-- [2000-12-14] Meteorologist search (Mike Roberts to Shankman, Jennifer Fraser): Kerryn Hawke and Stephen Cusack can interview in London the week of 18 Dec (Fraser arranges it there); Piero Chessa (ECMWF) not then; US fallbacks. ←[[m04829]] ←[[m04833]]
+Candidates not yet hired: memory/domains/organization/recruiting-candidates.md. Summer interns: memory/domains/organization/summer-interns-2000.md. London weather hire: memory/domains/organization/candidate-interviews-jan-2001.md. Martin Lin's EBS rotation: memory/domains/work/broadband-services.md. Detail ←[[staff-and-recruiting-1999-12]] … (one archive file per week) ←[[staff-and-recruiting-2000-09-w35]] ←[[staff-and-recruiting-2000-12-w48]] ←[[staff-and-recruiting-2000-12-w49]] ←[[staff-and-recruiting-2000-12-w50]] ←[[staff-and-recruiting-2000-12-w51]]
+- [2000-12-13] Kristal moves to Andrea Reed's EIM Fundamental Analysis officially from 2 Jan 2001, agreed with Maureen (owner, 5 Dec: "THIS IS NOT A ROTATION."); she trains her FX and Country Risk successor from 18 Dec. ←[[m04633]] ←[[m04635]] ←[[m04799]]
+- [2000-12-19] Rakesh Bharati joins next week; Wichai Narongwanich (Michigan OR Ph.D. candidate; Sr. Specialist/Manager for EES risk management; OPT to 7 Jan 2002) starts 8 Jan, Sezgen minds him till Krishnarao returns. ←[[m04922]] ←[[m04952]]
+- [2000-12-21] Jim Schwieger asks Delainey, Whalley, Skilling, Lavorato to praise the Weather Group (Roberts, Marquez, Bennett, Dave Ryan): cold Nov-Dec forecast held, "A+"; owner: "It is difficult to find a better example example of commitment to Enron and to professional excellence than  our weather guys." ←[[m04982]] ←[[m04991]] ←[[m04992]]
