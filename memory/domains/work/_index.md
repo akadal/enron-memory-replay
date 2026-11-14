@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Work — index
 
@@ -9,12 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Project X meeting 1 Jun on the inception document; joint gas-power factors instead of Hayden's patch, revisit week of 11 Jun → memory/domains/work/project-x-var-2001.md; owner replicates Emmer's EVT paper → memory/domains/work/var-credit-system-2001.md
-- Raptor: owner's revised memo for AA, to review once more with Bharati (29 May) → memory/domains/work/talon-raptor.md
-- Credit: Iris's 'Enron Credit Strategic Plan' draft for Duffie awaits comments; McDermott call Mon 4 Jun → memory/domains/work/private-firm-credit-model-2001.md
-- Risk: EWRM memo to Skilling (1 Jun) → memory/domains/work/enterprise-risk-management.md; Sekse's outage-option hedge awaits the owner's sign-off → memory/domains/work/outage-risk-option-2001.md
-- Meetings: Productization, Frolov (Mon 4 Jun), EES-EAM, Mandelker (Tue 5 Jun) → memory/domains/work/internal-meetings-2001.md; Sparks in Memphis Tue 19 Jun → memory/domains/work/vendor-offers-2001.md
-- Other: Exotica.xll for London, strip spread options (Issler) → memory/domains/work/monte-carlo-library.md; Lu's option-based EOL bid/ask → memory/domains/work/eol-trading-algorithms-2001.md
+- VaR: Port's factor-loading process (Global Risk Ops runs it, Research takes matrix pathologies) on Ramesh's April document; joint gas-power factors revisited week of 11 Jun → memory/domains/work/project-x-var-2001.md
+- Credit and risk: Iris's 'Enron Credit Strategic Plan' for Duffie awaits comments, Kim-Lee Bayesian paper → memory/domains/work/private-firm-credit-model-2001.md; Raptor memo with Bharati → memory/domains/work/talon-raptor.md; Sekse's hedge sign-off → memory/domains/work/outage-risk-option-2001.md
+- Weather: Quilkey call on Christian's modelling (6 Jun); Werner to Houston late Jun → memory/domains/work/weather-research-2001.md
+- Transmission: Neptune (Krapels) DC-rights auction in Sep; Lin and Cunningham asked for a view → memory/domains/work/transmission-modelling-2001.md
+- Meetings and offers: PSIM Fri 8 Jun → memory/domains/work/internal-meetings-2001.md; Sparks 19 Jun pending Gary, Doane Agricultural → memory/domains/work/vendor-offers-2001.md; Prediction Company call Thu/Fri → memory/domains/work/outside-requests-2001.md
 
 ## Files
 

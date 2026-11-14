@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: Risk 2001 Australia declined, Wolak suggested; Baylor EMBA 27 Jul with Martin and McCormack; EPIS topic, SIAM slides owed → memory/domains/industry/speaking-engagements-2000.md
-- Wharton: Advisory Committee 14 Jun; Enron-Wharton project call 1 Jun with Tawney → memory/domains/industry/wharton-risk-center-2001.md
-- Visitors: Norsk Hydro executives 7 Jun ask for the owner → memory/domains/industry/visitors-2001.md
-- Sponsorship: IACC gala 16 Jun, Research's table of 8; Stanford EMF 21-22 Jun agenda → memory/domains/industry/sponsorship-requests-2001.md
-- California: Angelides's 'Plan Z' public power authority, further 45% rate rise → memory/domains/industry/california-power-jan-2001.md
+- Wharton: owner there Thu 14 Jun with Kunreuther, in the evening before → memory/domains/industry/wharton-risk-center-2001.md
+- Speaking: Risk 2001 Boston (Financial Mathematics, dinner with Balson Mon); SMS real options panel SFO 21-24 Oct, registration owed; Baylor 27 Jul; SIAM slides, EPIS topic → memory/domains/industry/speaking-engagements-2000.md
+- Visitors: Norsk Hydro 7 Jun, room 50M → memory/domains/industry/visitors-2001.md
+- Sponsorship: IACC gala 16 Jun; Stanford EMF 21-22 Jun, owner goes with Krishna → memory/domains/industry/sponsorship-requests-2001.md
+- California: Davis-Edison MOU dead, Edison bankruptcy risk; Frontline 'Blackout' → memory/domains/industry/california-power-jan-2001.md
 
 ## Files
 

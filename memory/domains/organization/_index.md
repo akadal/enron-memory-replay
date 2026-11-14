@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Organization — index
 
@@ -9,10 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- PRC: Research mid-year PRC Wed 6 Jun, EB50; owner behind on reviews (Grabstald) → memory/domains/organization/officer-performance-review.md
-- Departures: Gibner's last day 5 Jun; Parkhill leaving, loan papers → memory/domains/organization/staff-and-recruiting.md; Papayoti to AEP with the HPL sale → memory/domains/organization/corporate-announcements-2001.md
-- Equipment: Avistar charge $10,583 being checked; Weather Team's move; O:\Research access audit → memory/domains/organization/office-equipment.md
-- People: Rice MBA intern asks via Veruki → memory/domains/organization/summer-interns-2001.md; Giammarino's UBC lead → memory/domains/organization/recruiting-candidates.md; Hamilton's UK Power briefing → memory/domains/organization/tony-hamilton-london-2001.md
+- PRC: Research mid-year PRC Wed 6 Jun; specialists grouped as technical; post-2000 hires and Iris Mack unrated → memory/domains/organization/officer-performance-review.md
+- Hiring suspended for a few months (no space); McKinley, Mielke, Aguilera-Peon leads → memory/domains/organization/recruiting-candidates.md
+- Departures: Gibner (5 Jun), Kate Lucas (6 Jun), Parkhill's loan → memory/domains/organization/staff-and-recruiting.md
+- Spending: Avistar charge, Restructuring Today offer → memory/domains/organization/office-equipment.md; CPLEX renewal $4,289.15 → memory/domains/organization/software-licenses.md
+- ENA NYMEX position-limit filing: futures accounts to Tana Jones by 15 Jun → memory/domains/organization/corporate-announcements-2001.md
 
 ## Files
 
