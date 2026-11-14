@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-08-24
+updated: 2001-09-01
 ---
 # Personal — index
 
@@ -9,9 +9,9 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Family moving back to Houston from California; owner flew to San Francisco Thu 19 Jul (CO 1566), driving back over three days → memory/domains/personal/california-trip-jul-2001.md; Warsaw trip 4-9 Jul → memory/domains/personal/poland-trip-jul-2001.md
-- Dinner with Gina Corteselli and Brian Mihura Tue 28 Aug, Arco d'oro; AIG's Dziurzynski; Tricia Tlapek → memory/domains/personal/correspondence.md
-- Son: Thorne's patent advice, Balson's IBM Almaden lead → memory/domains/personal/household.md
+- Marek Kierlanczyk (Aon) in Houston 6-8 Sep, drinks Thu or Fri; Tricia Tlapek's call; Astros 12 or 25 Sep → memory/domains/personal/correspondence.md
+- Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
+- Family back to Houston from California (Jul) → memory/domains/personal/california-trip-jul-2001.md; son: Thorne's patent advice, Balson's IBM lead → memory/domains/personal/household.md
 - Bigalow: Devon fine long-term; P, OXY, DVN, PGN, LU, EMC → memory/domains/personal/investments-2000.md
 
 ## Files

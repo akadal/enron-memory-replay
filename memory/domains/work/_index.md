@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-08-24
+updated: 2001-09-01
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Prediction Company: Stanford (Wolak) Tue 4 Sep 4 pm, Santa Fe Wed 5 Sep by company plane from San Jose, both confirmed → memory/domains/work/prediction-company.md
-- Raptor: ENE's fall and AVICI undermine the hedges, owner expects a cash event from the put; 'Raptor's Health' with McKillop, Schultz → memory/domains/work/talon-raptor.md
-- JCC: live swaps for JA Aichi and Seiko Epson Tohoku via Kinoshita, findings to de la Roche 24 Aug → memory/domains/work/jcc-brent-hedge.md; owner against co-seating the weather groups → memory/domains/work/weather-research-2001.md
-- Models: SAM credits and next steps, FEA notes → memory/domains/work/storage-model.md; Credit Reserve Model Design, Duffie's review → memory/domains/work/var-credit-system-2001.md; Brazil hydro → memory/domains/work/brazil-hydro-2001.md
-- Universities: Georgia Tech 4 Oct → memory/domains/work/university-relations.md; UT class Mon 10 Sep → memory/domains/work/ut-austin-ties-2000.md; Lin's Technical Corner → memory/domains/work/research-presentations.md
+- Prediction Company: Stanford (Wolak) Tue 4 Sep 4 pm, dinner 7; Santa Fe Wed 5 Sep 9:30 am (236 Montezuma Ave), still on after the 28 Aug news; NDA on the business talks only → memory/domains/work/prediction-company.md
+- EOL data mining: Whalley's top priority, bi-weekly updates to him, Jay Webb pledges help → memory/domains/work/eol-trading-algorithms-2001.md
+- Raptor: credit capacity ($237MM) at 20 Aug, Ding Yuan's 'Notes On Raptors', Bharati's spreadsheet fix → memory/domains/work/talon-raptor.md
+- Models: Duffie's audit, reliability VaR rewrite due, Enron owes him for 18 months → memory/domains/work/var-credit-system-2001.md; FEA @ENERGY v2.2 Storage → memory/domains/work/storage-model.md; Oz Deal → memory/domains/work/oz-crude-basket-2001.md
+- Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; Skunk Works Tue 11 Sep → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
 
 ## Files
 

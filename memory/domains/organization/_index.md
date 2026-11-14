@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-08-24
+updated: 2001-09-01
 ---
 # Organization — index
 
@@ -9,11 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Kiyoshi Niki impresses, resume to Whalley; Brian Crone, Henaff, Jill Schoenemann → memory/domains/organization/recruiting-candidates.md; Sean Yang's move waits for Zhiyong → memory/domains/organization/staff-and-recruiting.md
-- HR: reviews to Labbe by Friday, agreements await Greg; Ganjoo → memory/domains/organization/hr-matters-2001.md; 2002 Plan file → memory/domains/organization/research-accounting-2000.md
-- Company: Lay's Executive Committee of MDs, first 2 Oct; United Way, Research 100% → memory/domains/organization/corporate-announcements-2001.md
-- Group: Therese Candella joins admin → memory/domains/organization/research-group-2001.md; Mehendale leaves → memory/domains/organization/summer-interns-2001.md; Tamarchenko away 24 Sep-5 Oct → memory/domains/organization/leave-and-training.md
-- Systems: Lin's iPaq and handheld evaluation, O:Research lock-down → memory/domains/organization/office-equipment.md
+- Budget: 2002 allocations sent; Fellers wants the variances explained (headcount +14, travel +38%, 100% allocated) → memory/domains/organization/research-accounting-2000.md
+- Candidates: Niki, Crone, Jill Schoenemann in Executive Referrals → memory/domains/organization/recruiting-candidates.md; Focus Capital wants more, TAGE's Broomhall declined → memory/domains/organization/outside-recruiters-2001.md; Sean Yang → memory/domains/organization/staff-and-recruiting.md
+- Company: first quarterly MD meeting Mon 1 Oct; United Way, Research 100% → memory/domains/organization/corporate-announcements-2001.md
+- Group: Cumberland leaves for El Paso, farewell ~Fri 7 Sep → memory/domains/organization/group-events-2000.md; Candella in admin → memory/domains/organization/research-group-2001.md; Tamarchenko away 24 Sep-5 Oct → memory/domains/organization/leave-and-training.md; reviews to Labbe → memory/domains/organization/hr-matters-2001.md
 
 ## Files
 

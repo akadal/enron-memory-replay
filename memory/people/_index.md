@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-08-24
+updated: 2001-09-01
 ---
 # People — index
 
@@ -349,6 +349,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ken Rice
 - Kenneth Jett (Ken Jett)
 - Kenneth Parkhill
+- Kent Daniel
 - Kent Miller
 - Kevin Garland
 - Kevin Hannon
@@ -435,6 +436,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Curran
 - Michael Danielson
 - Michael Froehls
+- Michael Guerriero
 - Michael Maddox
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller

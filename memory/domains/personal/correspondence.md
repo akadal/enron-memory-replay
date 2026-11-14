@@ -3,15 +3,13 @@ id: correspondence
 type: topic
 domain: personal
 title: "Owner's private contacts and views"
-summary: "Private contacts: AIG's Dziurzynski back in touch, book tips (14 Aug 2001); Pokalsky on Skilling (15 Aug 2001); Sardinian dinner with Brian Mihura and Gina Corteselli set for 28 Aug (16-23 Aug 2001); Tricia Tlapek's market tip (20 Aug 2001); the 'Italian only' lunch, Musiela and Karasinski and older items archived."
+summary: "Private contacts: Dziurzynski (AIG) back in touch (14 Aug 2001); dinner with Mihura and Corteselli 28 Aug (23 Aug 2001); Tricia Tlapek trades futures in Chicago, owner to call her, her gas commentary to AOL (27-28 Aug 2001); Astros tickets 12 or 25 Sep (27 Aug 2001); Marek Kierlanczyk (Aon) in Houston 6-8 Sep, drinks Thu or Fri (30-31 Aug 2001); Pokalsky and older items archived."
 status: active
-updated: 2001-08-24
+updated: 2001-09-01
 ---
 # Owner's private contacts and views
 
-Detail ←[[correspondence-2000-03-w13]] … (one archive file per week) ←[[correspondence-2001-06-29]] ←[[correspondence-2001-07-26]] ←[[correspondence-2001-08-19]] ←[[correspondence-2001-08-24]]
-- [2001-08-14] Richard (Ryszard) Dziurzynski, head of Market Risk Management at AIG Trading (Greenwich, CT), an old acquaintance back in touch by phone, wants an energy quant referral and book tips; owner sends 'Managing Energy Price Risk' (Risk, 2nd ed.) and Clewlow and Strickland's 'Energy Derivatives' ("Go to the Lacima web site"), his AOL address and phones, signing 'Wicek'; Greenwich stay offered. ←[[m08921]] ←[[m08922]] ←[[m08929]] ←[[m08935]]
-- [2001-08-14] Joe Pokalsky asks about the September Risk conference and has heard of another big Enron reorg; 15 Aug he wants to write to Skilling: "Jeff's address is:  jeff.skilling@enron.com"; "I called you Tuesday and left a message on your voice mail." ←[[m08930]] ←[[m08950]]
-- [2001-08-16] Brian Mihura and Gina invite the owner and his wife to a Sardinian restaurant; accepted: "I spent a summer in Sardinia in 1970."; Mihura asks whether to slip Mr. Lay his resume. ←[[m08956]] ←[[m08961]]
-- [2001-08-20] Tricia Tlapek (ex-colleague) recommends structurallogic.com for market analysis: "What are your coordinates?" ←[[m09011]]
-- [2001-08-23] Dinner with Gina Corteselli and Brian Mihura Tue 28 Aug at Arco d'oro (Sardinian): "Tuesday, August 28 looks good." ←[[m09056]]
+Detail ←[[correspondence-2000-03-w13]] … (one archive file per week) ←[[correspondence-2001-06-29]] ←[[correspondence-2001-07-26]] ←[[correspondence-2001-08-19]] ←[[correspondence-2001-08-24]] ←[[correspondence-2001-09-01]]
+- [2001-08-27] Tricia (Patricia) Tlapek, near Enron's Michigan Avenue office in Chicago, trades futures (soybeans, 30-year bonds, Swiss franc, pound), works on bringing Indian nurses to the US, asks his market view and a call (312-643-1910); owner: "I shall try  to call you later this week to chat about the markets."; "It's quite hectic here as you know."; 28 Aug her forwarded 'Nat Gas - Big Picture' (JB, 24 Aug: support 240-280, anniversary low 27 Aug) goes to AOL. ←[[m09084]] ←[[m09086]] ←[[m09102]]
+- [2001-08-27] Enron's Astros seats (Cathy Phillips; section 116): "I can use the tickets on the 12th or on the 25th." (Sep). ←[[m09093]]
+- [2001-08-30] Marek Kierlanczyk (Aon; writes in Polish, 'Wicek') in Houston 6-8 Sep, prefers Fri 7 Sep; owner: "Friday looks OK for drinks.", back from Santa Fe Wed; 31 Aug: Thu late afternoon too ("I am likely to have a dinner scheduled"). ←[[m09128]] ←[[m09129]] ←[[m09141]]
