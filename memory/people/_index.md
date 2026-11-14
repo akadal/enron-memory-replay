@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-03-04
+updated: 2001-03-09
 ---
 # People — index
 
@@ -18,6 +18,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Alhamd Alkhayat
 - Alla Gil
 - Allan Roberts
+- Althea Gordon
 - Alyse Herasimchuk
 - Amitava Dhar
 - Amy Aldous
@@ -28,6 +29,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Andreas Simou
 - Andrew Fastow (Andy Fastow)
 - Andrew Kalotay (Andy Kalotay)
+- Andrew Karolyi
 - Andrew Miles
 - Andrzej Lubowski
 - Andrzej Wodnicki
@@ -110,6 +112,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Dupre
 - David Gorte (Dave Gorte)
 - David Ikenberry
+- David Kilgore
 - David Oxley
 - David Palumbo
 - David Port
@@ -182,6 +185,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Howard Kunreuther
 - Hunter Shively (Hunter S Shively)
 - Iain Russell
+- Ian MacMillan
 - Iris Mack
 - Jack Rejtman
 - Jaesoo Lew
@@ -363,6 +367,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paul Bristow
 - Paul Day
 - Paul Johnson
+- Paul Kleindorfer
 - Paul Mead
 - Paul Quilkey
 - Paul Racicot
@@ -393,6 +398,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ravi Thuraisingham
 - Ray Bowen
 - Raymond Yeow
+- Rebecca McDonald (Rebecca MacDonald)
 - Richard B Jones (Rick Jones)
 - Richard Carson
 - Richard Causey (Rick Causey)
@@ -438,6 +444,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Shan Millie
 - Shane Green
 - Sharad Agnihotri
+- Sharon Purswell
 - Sheila Walton
 - Shelly Butler
 - Shelly Jones

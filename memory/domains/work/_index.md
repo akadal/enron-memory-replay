@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-03-04
+updated: 2001-03-09
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- EES credit reserve: J.C. Penney option gap traced to inputs (26 Feb); analytical VaR in RisktRAC (1%, Mean Tail Loss) to IT (28 Feb) → memory/domains/work/var-credit-system-2001.md
-- Dabhol: Henwood says MSEB can pay for Maharashtra-only dispatch, pitch to Rebecca (27 Feb) → memory/domains/work/dabhol-power-sale.md; EBS's $1.44m research allocation, Pearce wants a plan → memory/domains/work/broadband-services.md
-- Zdunkewicz's damages limitations memo, meeting Fri 2 Mar → memory/domains/work/ees-termination-payments-2001.md; Delainey slides updated for the re-org → memory/domains/work/internal-meetings-2001.md
-- Bambos visits Fri 9 Mar (IP pricing talk) → memory/domains/work/stanford-research-ties.md; Titman's discount-rate note → memory/domains/work/ut-austin-ties-2000.md
-- Owed: answer to Bernard Murphy on spark-spread models; Seppi's swing terms; Thorne's call → memory/domains/work/outside-requests-2001.md; Cinergy prices for IR → memory/domains/work/desk-analysis-requests.md
+- Dabhol: Mr. Sud says NTPC may buy all Dabhol power (unverified, 9 Mar); Rebecca McDonald praised Kohli → memory/domains/work/dabhol-power-sale.md; EBS's $1.44m research allocation → memory/domains/work/broadband-services.md
+- VaR: Stock's VaR documentation done, Credit Reserve next; Equity VAR adds Expected Tail Loss (7 Mar) → memory/domains/work/var-credit-system-2001.md
+- Fri 9 Mar: Bambos visit, Paleologo's IP pricing talk → memory/domains/work/stanford-research-ties.md; Kindall's Ben Glisan talk, Shankman briefing; RAC complaint settled → memory/domains/work/internal-meetings-2001.md
+- Owed: Bernard Murphy's spark-spread answer; Seppi's swing case (Lu); MacMillan's materials (IP) → memory/domains/work/outside-requests-2001.md
+- Constellation spread option review (Lu, Meyn) → memory/domains/work/desk-analysis-requests.md; Barkley's EOL data mining → memory/domains/work/eol-content-2000.md
 
 ## Files
 

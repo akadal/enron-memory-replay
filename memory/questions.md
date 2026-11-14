@@ -3,5 +3,4 @@
 No cap: the queue shrinks by being drained, not trimmed (memory/rules/format.md). Approval gates
 that land here: merging entities, adding an alias, content disappearing without a source,
 proposing a new domain.
-
-- [2001-02-04] approval · due 2001-03-06 — **Split "Mark S Palmer" off Mark Palmer?** m05740: Mark S Palmer got the owner's paper-review request by mistake, it was meant for Mark A. Palmer (PR). The entity file is the PR person but carries the alias "Mark S Palmer" and also holds the EBS storage lead of Mar 2000, who may be Mark S. Status quo: one entity, alias kept (?). → memory/people/mark-palmer.md
+- [2001-03-09] fact · due 2001-04-08 — **Is Matthew Harris (VP, the owner's fellow Round 2 interviewer at Stanford, Mar 2001, also "Matt Harris" in m06165) the EBS VP of enterprise origination Matt Harris who hosted the MIT intern in Feb 2000?** If yes he passes five messages and gets an entity file. Status quo: treated as unconfirmed, no entity file (?). → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
