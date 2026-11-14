@@ -1,0 +1,118 @@
+id	durable	status	detail
+m04303	yes	kept	domains/organization/year-end-prc-2000.md
+m04304	yes	kept	domains/organization/year-end-prc-2000.md
+m04305	yes	kept	domains/work/var-backtesting-2000.md
+m04306	no	not_durable	pleasantry
+m04307	no	not_durable	bulk
+m04308	no	not_durable	bulk
+m04309	no	not_durable	automated
+m04310	no	not_durable	quote_only
+m04311	yes	kept	domains/work/internal-meetings.md
+m04312	yes	kept	domains/work/var-backtesting-2000.md
+m04313	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04314	no	not_durable	bulk
+m04315	no	not_durable	quote_only
+m04316	yes	kept	domains/work/group-projects-oct-2000.md
+m04317	yes	kept	domains/organization/group-events-2000.md
+m04318	no	not_durable	logistics
+m04319	yes	kept	domains/organization/office-equipment.md
+m04320	yes	kept	domains/work/research-presentations.md
+m04321	yes	kept	domains/organization/office-equipment.md
+m04322	yes	kept	domains/work/group-projects-oct-2000.md
+m04323	no	not_durable	pleasantry
+m04324	yes	kept	domains/industry/declined-invitations-2000.md
+m04325	yes	kept	domains/work/group-projects-oct-2000.md
+m04326	yes	kept	domains/organization/software-licenses.md people/tim-heizenrader.md
+m04327	yes	kept	domains/organization/leave-and-training.md
+m04328	no	not_durable	automated
+m04329	no	not_durable	logistics
+m04330	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04331	yes	kept	domains/organization/office-equipment.md
+m04332	yes	kept	domains/organization/leave-and-training.md
+m04333	no	not_durable	empty
+m04334	yes	kept	domains/organization/software-licenses.md
+m04335	yes	kept	domains/organization/candidate-interviews-nov-2000.md domains/organization/software-licenses.md domains/work/group-projects-oct-2000.md
+m04336	yes	kept	domains/industry/wharton-visit-oct-2000.md people/jennifer-burns.md
+m04337	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04338	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/jean-eisel.md
+m04339	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/jean-eisel.md
+m04340	yes	kept	domains/work/university-relations.md people/claudio-ribeiro.md
+m04341	yes	kept	domains/organization/group-events-2000.md
+m04342	yes	kept	domains/work/desk-analysis-requests.md
+m04343	yes	kept	domains/organization/candidate-referrals-2000.md
+m04344	yes	kept	domains/work/university-relations.md people/claudio-ribeiro.md
+m04345	yes	kept	domains/organization/recruiting-candidates.md
+m04346	yes	kept	domains/organization/recruiting-candidates.md
+m04347	yes	kept	domains/organization/year-end-prc-2000.md
+m04348	yes	kept	domains/organization/recruiting-candidates.md
+m04349	yes	kept	domains/organization/recruiting-candidates.md
+m04350	yes	kept	domains/industry/declined-invitations-2000.md
+m04351	yes	kept	domains/industry/events-attending-2000.md
+m04352	yes	kept	domains/work/outside-requests.md
+m04353	yes	kept	domains/work/outside-requests.md
+m04354	no	not_durable	quote_only
+m04355	no	not_durable	bulk
+m04356	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04357	yes	kept	domains/organization/research-accounting-2000.md
+m04358	yes	kept	domains/industry/visitors-2000.md people/carlos-ordonez.md
+m04359	yes	kept	domains/industry/declined-invitations-2000.md
+m04360	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04361	no	not_durable	pleasantry
+m04362	yes	kept	domains/organization/year-end-prc-2000.md
+m04363	no	not_durable	bulk
+m04364	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04365	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04366	yes	kept	domains/industry/wharton-visit-oct-2000.md people/jennifer-burns.md
+m04367	no	not_durable	automated
+m04368	yes	kept	domains/industry/visitors-2000.md people/carlos-ordonez.md
+m04369	yes	kept	domains/work/crude-oil-digital-option.md
+m04370	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04371	yes	kept	domains/organization/year-end-prc-2000.md
+m04372	yes	kept	domains/work/outside-requests.md
+m04373	yes	dropped	logistics: owner forwards a McCullough speech from Sevil Yaman to AOL, no content
+m04374	yes	kept	domains/industry/wharton-visit-oct-2000.md people/james-bouillion.md
+m04375	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md
+m04376	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04377	yes	kept	domains/organization/candidate-interviews-nov-2000.md
+m04378	yes	kept	domains/work/vendor-reviews-nov-2000.md
+m04379	no	not_durable	quote_only
+m04380	yes	kept	domains/work/enron-transformation-paper.md
+m04381	yes	kept	domains/organization/recruiting-candidates.md
+m04382	yes	kept	domains/organization/year-end-prc-2000.md
+m04383	yes	kept	domains/work/var-backtesting-2000.md
+m04384	yes	kept	domains/organization/year-end-prc-2000.md
+m04385	yes	dropped	redundant: Chonawee accomplishment summary already recorded 14 Nov; forward to AOL only
+m04386	no	not_durable	pleasantry
+m04387	no	not_durable	bulk
+m04388	yes	kept	domains/organization/recruiting-candidates.md
+m04389	yes	kept	domains/organization/recruiting-candidates.md
+m04390	yes	kept	domains/organization/recruiting-candidates.md
+m04391	yes	kept	domains/organization/office-equipment.md
+m04392	yes	kept	domains/organization/recruiting-candidates.md
+m04393	no	not_durable	quote_only
+m04394	yes	kept	domains/organization/recruiting-candidates.md
+m04395	yes	kept	domains/industry/events-attending-2000.md
+m04396	yes	kept	domains/work/credit-markets.md
+m04397	yes	kept	domains/organization/year-end-prc-2000.md
+m04398	yes	kept	domains/work/ees-structuring-models.md
+m04399	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04400	yes	kept	domains/work/ees-structuring-models.md
+m04401	yes	kept	domains/organization/year-end-prc-2000.md
+m04402	yes	kept	domains/organization/year-end-prc-2000.md
+m04403	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04404	yes	kept	domains/industry/wharton-visit-oct-2000.md
+m04405	no	not_durable	quote_only
+m04406	yes	kept	domains/organization/office-equipment.md
+m04407	yes	kept	domains/work/outside-requests.md
+m04408	yes	kept	domains/work/enron-transformation-paper.md
+m04409	yes	kept	domains/work/internal-meetings.md
+m04410	yes	kept	domains/work/desk-analysis-requests.md
+m04411	no	not_durable	bulk
+m04412	no	not_durable	bulk
+m04413	no	not_durable	bulk
+m04414	yes	kept	domains/organization/recruiting-candidates.md
+m04415	yes	kept	domains/organization/recruiting-candidates.md
+m04416	no	not_durable	bulk
+m04417	yes	kept	domains/organization/candidate-interviews-nov-2000.md people/ed-mcmichael.md
+m04418	no	not_durable	bulk
+m04419	yes	kept	domains/industry/rice-university.md people/carrie-miller.md
