@@ -3,17 +3,20 @@ id: candidate-interviews-nov-2000
 type: topic
 domain: organization
 title: "Candidate interviews and offers, Nov 2000"
-summary: "From 30 Oct 2000: offers to Jaesoo Lew (under Tamarchenko) and Kenneth Parkhill (senior specialist under Gibner, $76K + $20K); Kin Tso (UT) prefers the Associate programme; Jermakyan awaits an answer; Hickerson's Tech candidates (Beaty 1 Nov; Shanley, Burford 6 Nov); Susan Gonzalez for the newsletter role."
+summary: "From 30 Oct 2000: Jaesoo Lew accepts (under Tamarchenko); Kenneth Parkhill (Gibner, $76K + $20K) starts about 27 Nov; Charles Shen to report to Tamarchenko; Aram Sogomonian to be rehired at VP level (needs three senior executives); Barkley 9 Nov, Smilenov, Agarwalla; technical writer search stopped; Kin Tso, Hickerson's candidates, Gonzalez archived."
 status: active
-updated: 2000-11-05
+updated: 2000-11-12
 ---
 # Candidate interviews and offers, Nov 2000
 
+Detail ←[[candidate-interviews-nov-2000-2000-11-w45]]
+
 October interviews: memory/domains/organization/candidate-interviews-oct-2000.md. Referrals: memory/domains/organization/candidate-referrals-2000.md.
 
-- [2000-10-31] Kin Tso (UT): the Associate programme will not offer (Jana Giovannini: his quant skills fit Research as a direct hire; Charlene called him). 1 Nov Crenshaw offers Mon 6 or Fri 10 Nov, 8:00-11:30; he prefers the Associate programme with a Research rotation and asks them first. 2 Nov owner to Giovannini: "We have already contacted him." ←[[m03939]] ←[[m03956]] ←[[m03992]]
-- [2000-10-31] Gary Hickerson's Tech position: owner interviews Nancy Beaty Wed 1 Nov 5:00 pm (Mike Roberts 4:30), Cynthia Shanley 8:30 and Christopher Burford 9:00 Mon 6 Nov (Roberts half an hour after each); Crenshaw asks Molly Magee for resumes. ←[[m03940]] ←[[m03952]]
-- [2000-11-01] Jaesoo Lew: Tamarchenko suggests starting the offer; Lew (internship ends this week) can start any time once an official offer comes. 2 Nov Magee: the owner says extend it, Lew to report to Tamarchenko; position form asked, Magee makes the verbal offer. ←[[m03953]] ←[[m04000]]
-- [2000-11-01] Martin Jermakyan (Electra Partners) after a second visit: "You have a good team."; asks whether a decision is made; heard the owner was sick in late October. ←[[m03962]]
 - [2000-11-01] Kenneth Parkhill (interviewed 30 Oct): Gibner asks an offer as specialist or senior specialist under him, an incoming-Associate package ($76K base, $20K signing bonus); Norma Villarreal's equity check fits senior specialist; Magee extends it, asks about relocation. ←[[m03970]]
-- [2000-11-02] Susan V. Gonzalez (interviewed by Mike Roberts, Gibner, the owner) for Research's new communication role, a daily e-mail newsletter (internal and external editions): start with fewer mailings, add trade press, an editorial board (traders, legal, communications), IT support, a budget, a review process, measurable goals; she runs an e-newsletter now. ←[[m04007]]
+- [2000-11-06] Thomas Barkley interviews Thu 9 Nov from 8:00 (Cheryl Arguijo, Staffing, 713-345-4016). ←[[m04048]]
+- [2000-11-07] Jaesoo Lew: the owner allowed Magee $85K base (Lew had asked $90K); Lew accepts the original offer, Enron matters more than salary; Magee finalises. ←[[m04096]]
+- [2000-11-08] Andrei Smilenov's resume (Paul Johnson, The Austin Group, (281) 497-8595) to Gibner and Lu: "Please, take a look." ←[[m04103]]
+- [2000-11-09] Dipak Agarwalla (Ph.D. econ., via Caranti, Issler, Gibner; no programming): owner: "Mechanical application of one technique to power prices, no useful insights.", "We can still invite him." Magee stops the technical writer search (Hickerson) and tells the candidates. ←[[m04127]] ←[[m04135]] ←[[m04131]]
+- [2000-11-09] Aram Sogomonian (PacifiCorp): Norma Villarreal books a phone interview with Lavorato; 10 Nov owner to Rick Buy and Jeff McMahon: "I want to bring  Aram Sogomonian back to Enron at a VP level.", "According to new human resources procedures this decision requires a support of three senior executives." ←[[m04144]] ←[[m04153]] ←[[m04155]]
+- [2000-11-10] Charles Shen will report to Tamarchenko: "It would be Tanya." Parkhill could start Mon 20 Nov; Gibner prefers Mon 27 Nov (he is out 21 Nov). ←[[m04151]] ←[[m04179]]

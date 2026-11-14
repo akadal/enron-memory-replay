@@ -5,7 +5,7 @@ domain: work
 title: "Owner's internal meetings, 2000"
 summary: "Owner's internal meetings: Enron NA Mondays, Maureen Raymond Fridays; weekly V@R, Reporting and Resources (Tuesdays); weekly Risk Systems Enhancements, Fridays 11:30 (Rick Buy); EGM staff meeting Mondays 8:30 from 6 Nov; Research Group Project Meeting Thu 26 Oct; Plan 2001 Review archived."
 status: active
-updated: 2000-11-05
+updated: 2000-11-12
 ---
 # Owner's internal meetings, 2000
 
@@ -18,3 +18,4 @@ MEC: memory/domains/work/mec-molecular-electronics.md. Enterprise Wide Risk Mana
 - [2000-08-08→] "Var, Reporting and Resources II" (Barbara Lewis): Tuesdays 3:00 pm, with Beck, Gorny, Masson, Moscoso, Ted Murphy, Perlman, Stephen Stock; owner: "Please, put it on my schedule." ←[[m02742]] ←[[m02791]]
 - [2000-09-22→] Weekly Risk Systems Enhancements meeting (Rick Buy, from his 7 Sep 'RAC IT Improvement Projects' memo), Fridays 11:30-1:00, EB2868, to year-end: Buy, Bradford, Brackett, Bibi, Ted Murphy, Port, Stock, Perlman, Beck, the owner or a rep (Tamarchenko on 29 Sep). ←[[m03308]] ←[[m03350]]
 - [2000-11-02→] EGM staff meeting weekly, Mondays 8:30-9:30, EB 32C2 (Cathy Phillips, x36898; Frevert, McConnell, Hickerson, Larry Lawyer), from 6 Nov (30 Oct cancelled); owner forwards it to Crenshaw. ←[[m03856]] ←[[m03978]]
+- [2000-11-07] Risk Assessment 2001 with Mechelle Atwood and Shawn Kilchrist, Wed 22 Nov 9:00, EB1962 (Grace Taylor). ←[[m04083]]

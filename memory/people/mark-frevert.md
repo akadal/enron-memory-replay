@@ -5,7 +5,7 @@ entity: person
 name: "Mark Frevert"
 aliases: []
 domains: [organization]
-updated: 2000-11-05
+updated: 2000-11-12
 ---
 # Mark Frevert
 
@@ -16,3 +16,4 @@ Enron executive: Chairman and CEO of ENA from May 2000 (after Cliff Baxter), Cha
 - [2000-07-31] Chairman of Enron Global Markets → memory/domains/organization/ena-reorganization.md ←[[m02625]]
 - [2000-08-29] LNG goes with project Summer, else to Shankman → memory/domains/work/lng-book-2000.md ←[[m03056]]
 - [2000-11-02] On the EGM staff meeting list with the owner → memory/domains/work/internal-meetings.md ←[[m03978]]
+- [2000-11-08] Chairman and CEO of Enron Wholesale Services → memory/domains/organization/ena-reorganization.md ←[[m04112]]
