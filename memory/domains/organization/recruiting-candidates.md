@@ -3,16 +3,19 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Leads for the owner's group and beyond: Joe Carson (senior economist, wants New York) and Tony Mends recommended to Whalley (20 Mar 2001); Denis Suvorov via Matthew Frank (22 Mar); Hui He via Maragos (Mar 2001); Mujica, Adovor, Spaniolo, Michalon and older leads archived; recruiters in outside-recruiters-2001."
+summary: "Leads for the owner's group: Peter Percell (SIAM; gas pipeline flows) sent to McCarty and Horton (30 Apr); Aysu Bilgin, Jacob Kang for Kim Watson (1 May); Richard Heo, Joao Neves (2 May 2001); George Moss; older leads archived; recruiters: outside-recruiters-2001."
 status: active
-updated: 2001-03-25
+updated: 2001-05-02
 ---
 # Candidates for the owner's group
 
-Detail ←[[recruiting-candidates-2001-01-w02]] ←[[recruiting-candidates-2001-02-w06]] ←[[recruiting-candidates-2001-02-w07]] ←[[recruiting-candidates-2001-02-w08]] ←[[recruiting-candidates-2001-03-w09]] ←[[recruiting-candidates-2001-03-w12]]
+Detail ←[[recruiting-candidates-2001-01-w02]] ←[[recruiting-candidates-2001-02-w06]] ←[[recruiting-candidates-2001-02-w07]] ←[[recruiting-candidates-2001-02-w08]] ←[[recruiting-candidates-2001-03-w09]] ←[[recruiting-candidates-2001-03-w12]] ←[[recruiting-candidates-2001-05-w18]]
 
-Hires: memory/domains/organization/staff-and-recruiting.md. Referrals: memory/domains/organization/candidate-referrals-2000.md. May interviews: memory/domains/organization/candidate-interviews-may-2000.md; July: memory/domains/organization/candidate-interviews-jul-2000.md; August: memory/domains/organization/candidate-interviews-aug-2000.md; late Nov-Dec: memory/domains/organization/candidate-interviews-dec-2000.md. HR: Elizabeth Grant (assistant Felicia Solis). ←[[m00357]] Older leads (Polish MBAs, Krausz, Marwaha, Greene, Romine) ←[[m00715]] ←[[m00940]] ←[[m00995]]. Detail ←[[recruiting-candidates-2000-04-w14]] … (one archive file per week) ←[[recruiting-candidates-2000-11-w45]] ←[[recruiting-candidates-2000-11-w46]] ←[[recruiting-candidates-2000-11-w47]] ←[[recruiting-candidates-2000-12-w48]] ←[[recruiting-candidates-2000-12-w49]] ←[[recruiting-candidates-2000-12-w50]]
+Hires: memory/domains/organization/staff-and-recruiting.md. Interview logs by period: memory/domains/organization/_index.md. Older pointers sit in the 2001-05-w18 detail file.
 
-- [2001-03-02] Spyros Maragos (Dynegy) sends Hui He's resume (moving to Houston, wants an energy quant job). ←[[m06055]]
-- [2001-03-20] Owner to Greg Whalley: Joe Carson: "Enron  badly needs a senior economist of his stature and" experience; "One negative is that he wants to work out of New York."; "I think you, or Louise, should explore the possibility of using the skills of Tony Mends." ("Tony and I are good friends so I may be biased."). ←[[m06311]]
-- [2001-03-22] Matthew Frank (via Pavel Zadorozhny) refers Denis Suvorov, a Ph.D. candidate with asset-pricing model work, for research or modelling roles. ←[[m06352]]
+- [2001-04-30] George Moss (MBA, Tom Arnold's real-options class) asks about a job, resume attached. ←[[m07346]]
+- [2001-04-30] Peter Percell (SIAM workshop at UH; gas pipeline flow modelling) goes to Danny McCarty and Stanley Horton: "I shall be glad to make arrangements for an interview."; Horton (1 May): "a very qualified candidate", on to McCarty and Phil Lowry. ←[[m07354]] ←[[m07355]] ←[[m07358]] ←[[m07393]] ←[[m07394]] ←[[m07397]] ←[[m07410]] ←[[m07454]]
+- [2001-05-01] G. Aysu Bilgin (Texas A&M math PhD, Aug; at the SIAM talk) wants a research job: "Please, send the resume to me." ←[[m07381]] ←[[m07407]] ←[[m07411]] ←[[m07455]]
+- [2001-05-01] Jacob Kang (PROS) back for Kim Watson: "We can do it later this week."; Molly Magee schedules. ←[[m07436]] ←[[m07437]] ←[[m07444]] ←[[m07476]] ←[[m07482]]
+- [2001-05-02] Joao Neves sends his working-paper list; eyes credit swaps and a US secondary-mortgage business. ←[[m07498]]
+- [2001-05-02] Richard Heo (PhD; Kristin Gandy's friend): "We shall arrange a phone interview with Richard. This is out standard procedure."; with Gibner and Shanbhogue. ←[[m07500]] ←[[m07501]] ←[[m07502]] ←[[m07518]]
