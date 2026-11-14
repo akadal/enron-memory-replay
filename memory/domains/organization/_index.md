@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Organization — index
 
@@ -9,11 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Kudin interviews Thu 10 May; Richard Heo phone interview; Bilgin, Joao Neves, Gukhal → memory/domains/organization/recruiting-candidates.md; LITT_THO passed → memory/domains/organization/outside-recruiters-2001.md
-- HR: Gwyn Koepke's promotion under way, Country Risk shortlist of 3 from SAIS; Maureen Raymond must find a sponsor or leave, ill in London → memory/domains/organization/hr-matters-2001.md
-- Interns: Jinbaek Kim from 30 May, Segev's joint-research idea; Youseok Son as a stop-gap; Ivy Ghose → memory/domains/organization/summer-interns-2001.md
-- Company: EES and EWS risk merged (Herndon East, Don Black West), 4 May; EGM meeting 7 May → memory/domains/organization/corporate-announcements-2001.md; Outlook migration → memory/domains/organization/office-equipment.md
-- Group: Kohli's party 5 May, move count → memory/domains/organization/research-group-2001.md; London: Hamilton's list of weather asks → memory/domains/organization/tony-hamilton-london-2001.md
+- PRC: mid-year 2001, PEP feedback to 25 May, PRCs 4-29 Jun, ratings 1-5 → memory/domains/organization/officer-performance-review.md; Tony Hamilton's PRC, Roberts asked → memory/domains/organization/tony-hamilton-london-2001.md
+- HR: Krishna's in-laws' visas refused, Wade Cline asked, letter to Chennai; Maureen Raymond must find a sponsor or leave → memory/domains/organization/hr-matters-2001.md
+- Candidates: London resume to Perlman and Stock, Vikas Saksena, Gukhal declined → memory/domains/organization/recruiting-candidates.md; interns: Jinbaek Kim 30 May, Pravas Sud via Lemmons → memory/domains/organization/summer-interns-2001.md
+- Company: iBuyit set-up, owner sole approver → memory/domains/organization/corporate-announcements-2001.md; mail after the Outlook migration → memory/domains/organization/office-equipment.md; org charts to HR → memory/domains/organization/research-group-2001.md
 
 ## Files
 

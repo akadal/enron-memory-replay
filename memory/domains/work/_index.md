@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Work — index
 
@@ -9,11 +9,12 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Credit: Iris Mack in London to 11 May asks whom she reports to; Vasant puts data first; one Duffie report or two → memory/domains/work/private-firm-credit-model-2001.md; Duffie study → memory/domains/work/model-risk-audit.md
-- Desks: Dhar's dual trigger greeks, non-firm curves → memory/domains/work/outage-risk-option-2001.md; no-jump power VaR, West Power vols too high → memory/domains/work/var-credit-system-2001.md; wool → memory/domains/work/ag-trading-report-2000.md
-- EOL: Lu and Lee's high-frequency 'EOL George' analysis → memory/domains/work/eol-trading-algorithms-2001.md; CrudeAPO docs clash, Lu vs Issler → memory/domains/work/monte-carlo-library.md; HSX → memory/domains/work/ebs-research-requests-2001.md
-- Dabhol: Kohli offered for DPC modelling, Godbole committee 11 May → memory/domains/work/dabhol-power-sale.md; EES liability mitigation product → memory/domains/work/ees-termination-payments-2001.md
-- Outside: Limperis call with Vasant → memory/domains/work/outside-requests-2001.md; Credit Trading limit to sign → memory/domains/work/valuation-signoff-2001.md; Kaminski Column for 7 May → memory/domains/work/owner-publications.md
+- VaR: Port's dinner bet on power Convolution VaR by summer; jump code to IT; Kitchen wants gas/power correlations in VaR now → memory/domains/work/var-credit-system-2001.md
+- Raptor: AA wants the methodology of the 18-million-share contingent issuance (11 May) → memory/domains/work/talon-raptor.md
+- Credit: Iris's Enron Strategic Plan draft for Duffie; Moody's/FAMAS scoring → memory/domains/work/private-firm-credit-model-2001.md; Kalotay's S&P Credit Indices call with Seyfried, DRI-WEFA ag data → memory/domains/work/vendor-offers-2001.md
+- Dabhol: Lay's veto, arrangers in London mid-May, McDonald may need Kohli → memory/domains/work/dabhol-power-sale.md; Henwood's draft report resent → memory/domains/work/india-power-study-henwood.md
+- Outside: Thorne awaits a proposal, Prediction Company; Limperis to come back → memory/domains/work/outside-requests-2001.md; calendar after the Outlook migration → memory/domains/work/internal-meetings-2001.md
+- Group: Lu's HJM for propane → memory/domains/work/monte-carlo-library.md; bid-offer literature → memory/domains/work/eol-trading-algorithms-2001.md; Osler column (7 May) → memory/domains/work/owner-publications.md
 
 ## Files
 

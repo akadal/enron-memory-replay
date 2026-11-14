@@ -3,18 +3,15 @@ id: internal-meetings-2001
 type: topic
 domain: work
 title: "Owner's internal meetings, 2001"
-summary: "Meetings in 2001 outside the standing ones: Kindall's Glisan and Treasury presentations, Shankman briefing (9 Mar); RAC's complaint settled (8 Mar); Fraser's recession report at the Trader's Roundtable (20 Mar); Cuthbert Roberts 3 May; Delainey slides and older items archived."
+summary: "Meetings in 2001 outside the standing ones: the owner's calendar as re-entered after the Outlook migration (8 May 2001): Risk Systems Enhancement, Hickerson and Roberts, Asset/Liability, Prepay Structures, EES-Utility hedging, Global Credit Marketing; Kindall, Shankman, RAC and older items archived."
 status: active
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Owner's internal meetings, 2001
 
-Detail ←[[internal-meetings-2001-2001-03-w10]] ←[[internal-meetings-2001-2001-03-w12]] ←[[internal-meetings-2001-2001-05-06]]
+Detail ←[[internal-meetings-2001-2001-03-w10]] ←[[internal-meetings-2001-2001-03-w12]] ←[[internal-meetings-2001-2001-05-06]] ←[[internal-meetings-2001-2001-05-13]]
 
 Standing meetings (Trader's Roundtable from 16 Jan 2001 included): memory/domains/work/internal-meetings.md.
+- [2001-05-08] Outlook migration: Rumaldo Lopez re-enters the owner's standing calendar (undated): weekly Risk Systems Enhancement (Buy, Bill Bradford, Brackett, Bibi, Murphy, Port, Stock, Perlman, Beck; Tanya attends); weekly with Hickerson and Mike Roberts; bi-weekly with Tholan, Grant and Roberts; Risk and Purchasing; Asset/Liability brainstorm (Li Sun, Kindall, Shanbhogue, Masson, Gibner); Prepay Structures (Li Sun, Eric Moon, Deffner, Boyt, Herron); EES-Utility coal and oil hedging (Savage, Cooper, Anderson, Krishna, Mellacheruvu); Global Credit Marketing call (Bradford, Seyfried, Fiala). ←[[m07780]] ←[[m07781]] ←[[m07782]] ←[[m07783]] ←[[m07785]] ←[[m07786]] ←[[m07787]] ←[[m07788]] ←[[m07792]] ←[[m07793]] ←[[m07798]] ←[[m07809]] ←[[m07814]]
+- [2001-05-08] Same batch, one-offs: storage model back-testing results with Zimin and Stinson; Kulatilaka at the staff meeting; Steve Mitnick (ex-Hagler Bailly, now CEO of Energy Leader) to phone on competitive data for power markets (202-997-0924); UT Austin MBA class talk with a pre-interview reception (Cindy Justice; IAH 7:40 am, back 9:10 pm). ←[[m07779]] ←[[m07801]] ←[[m07811]] ←[[m07789]]
 
-- [2001-03-06] Kevin Kindall presents to Ben Glisan's team Fri 9 Mar, 10:00, EB 20C2 (55% done, asks comments); 7 Mar his Treasury presentation, version II, still lacks slides on an economic balance sheet and conclusions; owner copies both to AOL. ←[[m06105]] ←[[m06122]]
-- [2001-03-06] Jeff Shankman briefing Fri 9 Mar, 2:00-2:30 (Gibner, Kohli, Srivastav); owner suggests lunch: "What about inviting Brad Romine: he was instrumental in forming this relationship?"; same day EBS discussion with Paul Racicot 9-10, Paleologo's IP trading talk 1-2. ←[[m06108]]
-- [2001-03-08] RAC: David Port objected to Kindall's weekly-report remark on Naveen's Raptor data request (tied to 'meltdown' scenarios for funding vehicles; Rudi Zipter's stock-option exposure work with Glisan's hedging team); on Shanbhogue's reply (Research asks requesters to clarify for its data donors; open flow): "Yes, it's perfect. Please, indicate that the wording was unfortunate."; Port feels better, settled. ←[[m06143]] ←[[m06150]]
-- [2001-03-21] Trader's Roundtable (Lavorato, Arnold, Presto): Jennifer Fraser's report on demand contraction in the last two recessions, discussed 20 Mar ←[[m06329]] ←[[m07718]]
-- [2001-05-02] Owner books Cuthbert Roberts in his office, EB1962, Thu 3 May 11:00-11:30. ←[[m07558]]

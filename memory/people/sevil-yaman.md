@@ -5,11 +5,11 @@ entity: person
 name: "Sevil Yaman"
 aliases: []
 domains: [organization]
-updated: 2001-03-09
+updated: 2001-05-13
 ---
 # Sevil Yaman
 
-University of Houston economics PhD student (electricity transmission, congestion management); syaman@bayou.uh.edu. ←[[m00598]] ←[[m00741]] ←[[m00763]]
+University of Houston economics PhD student (electricity transmission, congestion management); syaman@bayou.uh.edu. ←[[m00598]] ←[[m00741]] ←[[m00763]] Alias "Sevil Yamin" (?): asked 2001-04-11, lapsed unanswered 2001-05-13; status quo, no alias.
 
 ## Context: organization
 

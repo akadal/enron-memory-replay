@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-05-06
+updated: 2001-05-13
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Rice: MGMT 656 grades all in by 4 May → memory/domains/industry/rice-energy-derivatives-course.md; ALP Mon 7 May 4 pm, 49C1, Enron Field box, Gillis and Whitaker → memory/domains/industry/rice-alp-presentation-may-2001.md
-- Owner's roles: EPRM Houston 14-15 May with Tamarchenko, dinner 14 May; Financial Mathematics course Jun-Jul → memory/domains/industry/eprm-risk.md; GARP slides posted → memory/domains/industry/garp-2001.md
-- Attending: PIRA 14 and 16 May; gas storage 22 Jun → memory/domains/industry/events-attending-2001.md; Stanford EMF retail conference 21-22 Jun → memory/domains/industry/sponsorship-requests-2001.md
-- Wharton: Risk Center advisory 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Diebold's temperature forecasts, joint research → memory/domains/industry/weather-insurance-markets.md
-- Visits: Kulatilaka 17 May → memory/domains/industry/visitors-2001.md; California: no bond vote by 8 May → memory/domains/industry/california-power-jan-2001.md
+- Owner's roles: EPIS conference, Skamania Lodge, accepted; Kloucek's Rice seminar; SIAM slides owed to Ryan, Liao, Kloucek → memory/domains/industry/speaking-engagements-2000.md; EPRM Houston 14-15 May → memory/domains/industry/eprm-risk.md
+- Declined: marcus evans course, IIR CFMA conference (Sep) → memory/domains/industry/declined-invitations-2000.md
+- Attending: PIRA 14 and 16 May; Berkeley e-commerce 22 May offered to Whalley and Kitchen → memory/domains/industry/events-attending-2001.md
+- Wharton: Risk Center advisory 14 Jun, Vasant's updated proposal → memory/domains/industry/wharton-risk-center-2001.md; Kulatilaka 17 May → memory/domains/industry/visitors-2001.md
+- California: bond bill short of two-thirds, SoCal bankruptcy risk → memory/domains/industry/california-power-jan-2001.md; Brooks met Krishna → memory/domains/industry/gpcm-rbac.md
 
 ## Files
 
