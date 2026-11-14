@@ -5,7 +5,7 @@ entity: person
 name: "Iris Mack"
 aliases: []
 domains: [organization]
-updated: 2000-07-23
+updated: 2000-11-19
 ---
 # Iris Mack
 
@@ -15,3 +15,4 @@ BNP Paribas, London; met the owner at the Real Options conference in New York (M
 
 - [2000-06-16] Wants to return to the US; invited to a Houston interview with Research, early July → memory/domains/organization/candidate-referrals-2000.md ←[[m01804]] ←[[m01933]] ←[[m01965]] ←[[m01993]]
 - [2000-07-20] Took another job; the Houston interview is moot → memory/domains/organization/candidate-referrals-2000.md ←[[m02443]]
+- [2000-11-15] Back in the US (California), asks whether Enron still wants to interview her → memory/domains/organization/recruiting-candidates.md ←[[m04254]]

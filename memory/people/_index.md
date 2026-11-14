@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-11-12
+updated: 2000-11-19
 ---
 # People — index
 
@@ -42,6 +42,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Benjamin Parsons (Ben Parsons)
 - Beth Miertschin
 - Beth Perlman
+- Bich Anh Pham
 - Biliana Pehlivanova
 - Bill Petty
 - Bjorn Hagelmann
@@ -247,6 +248,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Maureen Raymond
 - Melanie Doyle
 - Michael Anderson
+- Michael Curran
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
 - Michael Sergeev
@@ -266,8 +268,10 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Patrycja Dalecka (Patricia Dalecka)
 - Paul Bristow
 - Paul Day
+- Paul Johnson
 - Paul Quilkey
 - Paul Racicot
+- Paul Rowady
 - Paula Corey
 - Paulo Issler
 - Paulo Rocha e Oliveira (Paulo Oliveira, Paulo Rocha)
