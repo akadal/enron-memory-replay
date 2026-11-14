@@ -1,0 +1,187 @@
+{
+ "slice": 66,
+ "simulated_today": "2001-03-04",
+ "feed": {
+  "slice": 66,
+  "iso_week": "2001-W09",
+  "first_seq": 5968,
+  "last_seq": 6056,
+  "messages": 89,
+  "durable": 72,
+  "first_date": "2001-02-26 00:12",
+  "last_date": "2001-03-04 13:42",
+  "today": "2001-03-04",
+  "inbox_files": [
+   "2001-02-26--mail.md",
+   "2001-02-27--mail.md",
+   "2001-02-28--mail.md",
+   "2001-03-01--mail.md",
+   "2001-03-02--mail.md",
+   "2001-03-04--mail.md"
+  ],
+  "inbox_chars": 53769,
+  "l2_chars": 218669
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 568,
+ "quota_before": {
+  "five_hour": 17.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 18.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 66,
+  "messages": 89,
+  "durable": 72,
+  "kept": 68,
+  "kept_rate_excluding_redundant": 0.944,
+  "drop_classes": {
+   "logistics": 3,
+   "other": 1
+  },
+  "dropped": 4,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2720,
+  "fact_lines_with_source": 1805,
+  "dated": 1805,
+  "date_matches_source": 1761,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88,
+   1.0,
+   0.75,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 669
+  },
+  "questions": {
+   "files": 1,
+   "chars": 655
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 189,
+   "chars": 332228
+  },
+  "people": {
+   "files": 509,
+   "chars": 339284
+  },
+  "archive_inbox": {
+   "files": 428,
+   "chars": 3596312
+  },
+  "archive_mail": {
+   "files": 6082,
+   "chars": 14835459
+  },
+  "archive_other": {
+   "files": 1179,
+   "chars": 998622
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 49,
+   "duration_ms": 566446,
+   "duration_api_ms": 502775,
+   "total_cost_usd": 3.7351623999999997,
+   "usage": {
+    "input_tokens": 94,
+    "cache_creation_input_tokens": 168552,
+    "cache_read_input_tokens": 6210452,
+    "output_tokens": 57214,
+    "output_tokens_details": {
+     "thinking_tokens": 24160
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 168552,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 786,
+      "cache_read_input_tokens": 200080,
+      "cache_creation_input_tokens": 263,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 263
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 94,
+     "outputTokens": 57214,
+     "cacheReadInputTokens": 6210452,
+     "cacheCreationInputTokens": 168552,
+     "webSearchRequests": 0,
+     "costUSD": 3.7351623999999997,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24160,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 168552,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 48,
+   "result_summary": "I consolidated the 2001-03-04 week (2001-W09) and committed it as one commit, `9d3d6dd`. Lint and sleep-audit were both green before the commit and the audit passed again on the commit itself. I did not push: the replay instructions say the runner pushes after its own checks, which takes priority over the general \"git push\" step.\n\nThe inbox had 89 messages, 72 with notes. 68 are now cited in L1 and 4 are listed in `dataset/drops/sleep-066.tsv`: three as logistics (Lacima weather slides forwarded to AOL, Rick Jones's home address twice) and one as other (a PBS link sent to Mike Roberts). Every message with notes is either cited or dropped.\n\n**What changed in memory:**\n- **Topic files:** 22 existing files updated and two new ones opened: `work/outside-requests-2001` (Bernard Murphy, Seppi, Thorne) and `industry/sponsorship-requests-2001` (MIT Sloan, Stanford EMF).\n- **New people files:** six people had already passed five noted messages without a file, so I created them: Andrew Kalotay, Barry Pearce, Dennis Loughridge, Richard B Jones (Rick Jones), Viacheslav Danilov (Slava Danilov) and Philippe Jorion. All six are in the alias table.\n  - Hill Huntington gets no file, because his other matches were a different person, Tom Huntington.\n  - \"Kathryn\" gets no file because it is only a first name.\n- **Indexes and state:** the four domain indexes and `state.md` are refreshed.\n- **Archive:** older lines from 19 files were moved word for word to `archive/*/2001/*-2001-03-w09.md` to keep each file within its growth limit. No file was above 90% of its ceiling, so the three-file compression quota had nothing to act on.\n- **Checks on existing lines:** I checked the five oldest \"still true\" lines against this week's mail; all still hold and stay open.\n- **Questions:** none added and none closed; the Mark S Palmer question is not due until 6 Mar.\n\nThe inbox held no sleep-task or feedback blocks, and no external source taps are configured. The processed logs are in `memory/archive/i"
+  },
+  "repair": null
+ }
+}
