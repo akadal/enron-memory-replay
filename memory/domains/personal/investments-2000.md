@@ -5,7 +5,7 @@ domain: personal
 title: "Owner's investment account and Enron equity (2000)"
 summary: "Owner's brokers (Dec 2000 list): Bank One, Brown & Co., Smith Barney, Dean Witter, Prudential, PaineWebber; Merrill Lynch (David Walkup): taxable money in, IRA pending (Mar 2001); Steve Bigalow's morning notes and picks; out of EFS; Bigalow's Wiley contract archived."
 status: active
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # Owner's investment account and Enron equity (2000)
 
@@ -18,3 +18,4 @@ Enron-wide option programme: memory/domains/organization/corporate-announcements
 - [2001-02-26] Walkup (ML): transfers in process, first arrivals ~Fri 2 Mar, wants to talk equity ideas; 1 Mar all taxable money is in, IRA money pending (part 2 Mar, rest mid next week); owner: "Coffee early next week would work for me." ←[[m05970]] ←[[m06023]]
 - [2001-03-05] Bigalow's best picks: ZIGO and SMTX (cc Mike Roberts). ←[[m06059]]
 - [2001-03-12] Bigalow's 3/12 note expects a severe Nasdaq selloff and reversal day; owner: "Do you see an intraday bottom?" ←[[m06177]]
+- [2001-03-19] Bigalow's MOT and LU tip: bought, "I hope they will do OK tomorrow." ←[[m06297]]

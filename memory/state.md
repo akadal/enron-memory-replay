@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-03-18 (week 2001-W11). Stanford trip 14-16 Mar (recruiting, Huntington's RTP conference, Bambos); London trip this week; Kindall resigned; Anshuman to Houston for the Dabhol fuel strategy; Rutgers talk accepted.
+As of 2001-03-25 (week 2001-W12). Owner back from London (20-22 Mar: Danilov, Maureen Raymond, Korea material for Port); San Jose 24-28 Mar; Raptor ethics question from Port.
 
-- Coming: Garimella 19 Mar; Boland 20-21 Mar; London meetings 21 Mar; Wharton 22 Mar; San Jose 24-28 Mar; Schultz 30 Mar; Trash Bash 31 Mar → memory/domains/organization/london-research.md
-- Owed: EPRM course details, Wharton Phase III judge (22-23 Mar); Bernard Murphy's spark-spread answer; MacMillan's materials (IP); Strickland's article review → memory/domains/work/outside-requests-2001.md
+- Coming: McCormack week of 26 Mar; CHARM 29 Mar; Rajan, Schultz seminar, ENSIDE photo 30 Mar; Trash Bash 31 Mar; Wharton Team 1 3 Apr; Texas Finance Festival 21 Apr; Rutgers talk 23 May → memory/domains/industry/events-attending-2000.md
+- Owed: Talon spreadsheet check (Bharati); Bernard Murphy's answer; UT trading papers to Barkley; Fiona Grant for Lacima; ENSIDE corrections by 4 Apr → memory/domains/work/outside-requests-2001.md

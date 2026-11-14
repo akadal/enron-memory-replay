@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Garimella phone interview 19 Mar; Ren Zhang on-site, Bill Koures (pricey), Mark Boland 20-21 Mar → memory/domains/organization/candidate-interviews-mar-2001.md
-- Group: Kevin Kindall resigns (15 Mar); Zimmerman, Deng, Grigorov move from EES to Krishna; Trash Bash Sat 31 Mar → memory/domains/organization/research-group-2001.md
-- Interns: Frantzeskakis (CMU) taken, Jinbaek Kim 4 Jun-4 Aug → memory/domains/organization/summer-interns-2001.md; Sevil Yaman: owner wants H1 and green card together → memory/domains/organization/hr-matters-2001.md
-- London Wed 21 Mar: Hudson, Seyfried, Ted Murphy, Sherriff, Nath; Maureen Raymond's expenses → memory/domains/organization/london-research.md
-- Lay and Skilling's leadership committees, EEOS formed (16 Mar) → memory/domains/organization/corporate-announcements-2000.md
+- Candidates: Ren Zhang holds two offers; Boland seen by Gibner; Karthik Rajan on-site 30 Mar → memory/domains/organization/candidate-interviews-mar-2001.md; Joe Carson and Tony Mends to Whalley → memory/domains/organization/recruiting-candidates.md
+- Group: Kindall now at FPL; 21 newcomers on the shirt list; Trash Bash Sat 31 Mar; Crenshaw off 30 Mar and 6 Apr → memory/domains/organization/research-group-2001.md
+- Interns: Jinbaek Kim 4 Jun-4 Aug confirmed, Gillespie (iBuyIt) for Segev's panel → memory/domains/organization/summer-interns-2001.md; Stanford: 6 summer, 1 full-time offers → memory/domains/organization/stanford-mba-recruiting-mar-2001.md
+- London 20-22 Mar: Slava Danilov takes over London research; Maureen Raymond's expenses → memory/domains/organization/london-research.md
+- Forced-ranking lawsuits: owner tells Oxley to adjust processes (19 Mar) → memory/domains/organization/officer-performance-review.md
 
 ## Files
 

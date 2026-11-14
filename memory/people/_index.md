@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-03-18
+updated: 2001-03-25
 ---
 # People — index
 
@@ -37,6 +37,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
 - Anne Stamer
+- Anoush Farhangi
 - Anshuman Srivastav
 - Anthony Mends (Tony Mends)
 - April Hodgson (April Hodgeson, April Hodges)
@@ -162,6 +163,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ganapathy Ramesh
 - Gary Hickerson
 - Gary Taylor
+- Gene Humphrey (Gene Humphreys)
 - George Carrick
 - George Hopley
 - George McClellan
@@ -182,6 +184,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Hector Campos
 - Helen Zhang
 - Helyette Geman
+- Hill Huntington (Hillard G. Huntington)
 - Howard Haughton
 - Howard Kunreuther
 - Hunter Shively (Hunter S Shively)
@@ -237,6 +240,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Henderson
 - John Herbert (John H Herbert)
 - John Lavorato
+- John McCormack
 - John Nowlan (John L Nowlan)
 - John O'Brien
 - John Pavetto
@@ -255,6 +259,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karolina Potter
 - Kate Bruges
 - Kate Lucas
+- Kathie Grabstald
 - Kathy Spradling
 - Katja Schilling
 - Kay Chapman
@@ -308,6 +313,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Margaret Daffin
 - Marie Hejka
 - Mark Frevert
+- Mark Garman (Mark B. Garman)
 - Mark Giancola
 - Mark Haedicke
 - Mark Kierlanczyk
@@ -330,6 +336,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Melanie Doyle
 - Melinda McCarty
 - Michael Anderson
+- Michael Crew (Michael A. Crew)
 - Michael Curran
 - Michael Danielson
 - Michael Froehls
@@ -374,6 +381,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Paul Quilkey
 - Paul Racicot
 - Paul Rowady
+- Paul Schultz
 - Paula Corey
 - Paulett Smith
 - Paulo Issler
@@ -394,6 +402,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rabi De
 - Rachel Quirke
 - Radu Tutos
+- Rafal Weron
 - Raj Srivastava
 - Rajnish Kamat
 - Rakesh Bharati
@@ -474,6 +483,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Steven Leppard
 - Steven Shreve
 - Stinson Gibner
+- Suresh Raghavan (Surech Raghavan)
 - Tani Nath
 - Tanya Rohauer
 - Tanya Tamarchenko
