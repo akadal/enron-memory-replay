@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2000-09-15 (week 2000-W37). Owner back from vacation; travel from 18 Sep.
+As of 2000-09-22 (week 2000-W38). Owner in Poland 20-26 Sep; London trip cancelled (next visit early Oct).
 
-- Coming: Clean Fuels meeting Mon 18 Sep; London 18-21 Sep; Poland 20-26 Sep (overlap, ?); USAEE Philadelphia 24-27 Sep; workshop 29 Sep; Berkeley 16-17 Oct, Oren seminar 23 Oct; CMU MSCF 3 Nov → memory/domains/personal/poland-trip-sep-2000.md, memory/domains/work/campus-recruiting-fall-2000.md
-- Owed: MSCF outline (~18 Sep); GARP bio; call NSF to register Enron; Rabi De and Ben Zhang decisions; Anjam's term sheet; Steve's nomination form → memory/domains/organization/candidate-interviews-aug-2000.md, memory/domains/work/nsf-grant-feng-2000.md
+- Coming: Nelson Neale interviews Fri 29 Sep; A&A workshop 29 Sep; NYMEX class 28 Sep; PoweRisk Paris 3-4 Oct; Berkeley 16-17 Oct, Oren seminar 23 Oct; MathWorks 18 Oct; CMU MSCF 3 Nov → memory/domains/work/campus-recruiting-fall-2000.md, memory/domains/organization/candidate-interviews-sep-2000.md
+- Owed: Berkeley bullet points; GARP bio; Rabi De lunch; John Martin's call Tuesday (Enron paper); Skilling's CEFER keynote pending → memory/domains/work/university-relations.md, memory/domains/work/ut-austin-ties-2000.md
