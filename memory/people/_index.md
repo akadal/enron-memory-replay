@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-07-03
+updated: 2001-07-21
 ---
 # People — index
 
@@ -218,6 +218,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gillian Boyer
 - Ginger Gamble (Ginger B Gamble)
 - Giuseppe Paleologo (Gappy, Giuseppe Andrea Paleologo)
+- Glen Dixon
 - Gopalakrishnan Subramaniam (G. Subramaniam, G.Subbu)
 - Gordon Sick
 - Grant Johnson

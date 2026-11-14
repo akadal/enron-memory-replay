@@ -9,7 +9,7 @@ updated: 2001-07-15
 ---
 # Models, vendors and notes from 9 Jul 2001
 
-Before: memory/domains/work/models-jul-02-2001.md. Market Stack earlier: memory/domains/work/requests-and-vendors-jun-15-2001.md. Dabhol earlier: memory/domains/work/requests-and-vendors-jun-25-2001.md.
+Before: memory/domains/work/models-jul-02-2001.md. After: memory/domains/work/models-jul-16-2001.md. Market Stack earlier: memory/domains/work/requests-and-vendors-jun-15-2001.md. Dabhol earlier: memory/domains/work/requests-and-vendors-jun-25-2001.md.
 
 - [2001-07-13] Rabi De and Tanya Tamarchenko's Reliability VaR paper, latest draft for his review; owner forwards it to AOL. 15 Jul revision, mostly editorial: SORM CPU time grows with n + n*n/2, not n**3; Appendix I rewritten (Hermite coefficients and binormal density fixed to the paper's definition, variance n!; no alpha/beta, reserved in FORM/SORM); on the O drive next day. ←[[m08699]] ←[[m08701]]
 - [2001-07-10] Naveen Andrews is now fully set up on the RaC website (rac.corp.enron.com) to observe E-VaR. ←[[m08682]]

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-07-15
+updated: 2001-07-21
 ---
 # Industry — index
 
@@ -9,7 +9,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- This week: Baylor fall 2001 seminar (Garven); Lacima EPRM article no. 12, Mon 23 Jul 4 pm and dinner; Krapels' 'Continental Divide' → memory/domains/industry/speaking-and-visits-jul-09-2001.md
+- This week: refereeing the swing option paper for Risk (by 14 Aug); Lacima EPRM no. 12, Les in Houston 22-24 Jul; Howard University ISE (Iris Mack); CMU recruiting; Damslora SDDP course; Glen Dixon at Risk 2001 Sydney → memory/domains/industry/speaking-and-visits-jul-16-2001.md; Baylor fall seminar; Krapels → memory/domains/industry/speaking-and-visits-jul-09-2001.md
 - Talks: Zimin Lu at Risk Waters NY; PSERC 5-7 Dec; Rice (Debra) 19th; Tiger Team by mid-July → memory/domains/industry/speaking-and-visits-jul-02-2001.md; Houston course 16-17 Jul; EPIS 12-14 Sep → memory/domains/industry/speaking-and-visits-jun-25-2001.md; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
 - Universities: Stanford EMF agenda → memory/domains/industry/speaking-and-visits-early-jun-2001.md; WeBI → memory/domains/industry/university-ties-late-may-2001.md; Wharton Risk Center → memory/domains/industry/wharton-risk-center-2001.md; attending → memory/domains/industry/events-attending-2001.md
 - California: Edison MOU stalled; CPUC delays the QF 15% payment (8 Jun) → memory/domains/industry/california-power-jun-2001.md
@@ -51,6 +51,6 @@ Grouped lines (Label: name · name): memory/domains/industry/<name>.md
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)
 - MGMT656: rice-mgmt656-papers-may-2001 (Rice final projects and papers) · rice-mgmt656-grades-may-2001 (final grades, 2-5 May 2001)
 - memory/domains/industry/risk-waters-speaking-may-2001.md — EPRM 2001 Houston and Financial Mathematics course speaker logistics, May 2001
-- Talks: speaking-invitations-may-2001 (May 2001 contacts) · speaking-invitations-mid-may-2001 (from 14 May: EPIS, Bachelier, Baylor, Tamiment) · speaking-invitations-late-may-2001 (from 21 May: EPRM Europe, Risk Australia, Wharton) · speaking-and-visits-early-jun-2001 (from 28 May: Baylor, Stanford EMF) · speaking-and-visits-jun-04-2001 (from 4 Jun: Wharton, Risk 2001 Boston) · speaking-and-visits-jun-08-2001 (from 6 Jun: SMS, IQPC, INFOCAST, IACCGH) · speaking-and-visits-jun-15-2001 (from 11 Jun: Paris, IQPC, Stanford) · speaking-and-visits-jun-18-2001 (from 18 Jun: SMS fee, Risk Waters) · speaking-and-visits-jun-25-2001 (from 25 Jun: London course, EPIS, Krapels) · speaking-and-visits-jul-02-2001 (from 2 Jul: Risk Waters NY, PSERC, Tiger Team) · speaking-and-visits-jul-09-2001 (from 9 Jul: Baylor, Lacima, Krapels)
+- Talks: speaking-invitations-may-2001 (May 2001 contacts) · speaking-invitations-mid-may-2001 (from 14 May: EPIS, Bachelier, Baylor, Tamiment) · speaking-invitations-late-may-2001 (from 21 May: EPRM Europe, Risk Australia, Wharton) · speaking-and-visits-early-jun-2001 (from 28 May: Baylor, Stanford EMF) · speaking-and-visits-jun-04-2001 (from 4 Jun: Wharton, Risk 2001 Boston) · speaking-and-visits-jun-08-2001 (from 6 Jun: SMS, IQPC, INFOCAST, IACCGH) · speaking-and-visits-jun-15-2001 (from 11 Jun: Paris, IQPC, Stanford) · speaking-and-visits-jun-18-2001 (from 18 Jun: SMS fee, Risk Waters) · speaking-and-visits-jun-25-2001 (from 25 Jun: London course, EPIS, Krapels) · speaking-and-visits-jul-02-2001 (from 2 Jul: Risk Waters NY, PSERC, Tiger Team) · speaking-and-visits-jul-09-2001 (from 9 Jul: Baylor, Lacima, Krapels) · speaking-and-visits-jul-16-2001 (from 16 Jul: Risk referee, Howard, Glen Dixon)
 - memory/domains/industry/university-ties-late-may-2001.md — Wharton WeBI and the Stanford EMF retail conference, late May 2001
 - memory/domains/industry/outside-contacts-jun-08-2001.md — Neptune, Alberta Energy MBA, Norsk Hydro evaluations, Jun 2001
