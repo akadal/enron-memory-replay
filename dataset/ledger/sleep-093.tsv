@@ -1,0 +1,55 @@
+id	durable	status	detail
+m08855	yes	kept	domains/industry/events-attending-2001.md
+m08856	yes	kept	domains/organization/recruiting-candidates.md
+m08857	yes	kept	domains/organization/recruiting-candidates.md
+m08858	yes	kept	domains/work/prediction-company.md
+m08859	yes	kept	domains/industry/uh-econophysics.md domains/industry/wharton-projects-feb-2001.md people/raffi-amit.md
+m08860	no	not_durable	logistics
+m08861	no	not_durable	other
+m08862	yes	kept	domains/organization/recruiting-candidates.md
+m08863	yes	kept	domains/organization/recruiting-candidates.md
+m08864	yes	kept	domains/organization/recruiting-candidates.md people/presly-schoenemann.md
+m08865	yes	kept	domains/work/lacima-book-2000.md
+m08866	yes	kept	domains/work/ut-austin-ties-2000.md
+m08867	yes	kept	domains/industry/events-attending-2001.md
+m08868	yes	kept	domains/organization/recruiting-candidates.md people/presly-schoenemann.md
+m08869	yes	kept	domains/work/media-group-pitch-2001.md
+m08870	yes	kept	domains/work/prediction-company.md
+m08871	yes	kept	domains/work/lacima-book-2000.md
+m08872	yes	kept	domains/work/prediction-company.md
+m08873	yes	kept	domains/work/transmission-modelling-2001.md
+m08874	yes	kept	domains/work/transmission-modelling-2001.md
+m08875	yes	kept	domains/work/transmission-modelling-2001.md
+m08876	yes	kept	domains/work/transmission-modelling-2001.md
+m08877	yes	kept	domains/work/media-group-pitch-2001.md
+m08878	yes	kept	domains/work/prediction-company.md
+m08879	yes	kept	domains/work/prediction-company.md people/norman-packard.md
+m08880	yes	kept	domains/organization/corporate-announcements-2001.md people/eric-thode.md
+m08881	yes	kept	domains/work/lacima-book-2000.md
+m08882	yes	kept	domains/organization/corporate-announcements-2001.md
+m08883	no	not_durable	quote_only
+m08884	yes	kept	domains/work/internal-meetings-2001.md
+m08885	yes	kept	domains/organization/corporate-announcements-2001.md
+m08886	yes	kept	domains/organization/staff-and-recruiting.md
+m08887	yes	kept	domains/work/var-credit-system-2001.md
+m08888	yes	kept	domains/organization/hr-matters-2001.md
+m08889	yes	kept	domains/organization/leave-and-training.md
+m08890	yes	kept	domains/organization/leave-and-training.md
+m08891	yes	kept	domains/work/internal-meetings-2001.md
+m08892	no	not_durable	automated
+m08893	yes	kept	domains/work/internal-meetings-2001.md
+m08894	yes	kept	domains/organization/corporate-announcements-2001.md people/eric-thode.md
+m08895	yes	kept	domains/organization/leave-and-training.md
+m08896	yes	kept	domains/work/oz-crude-basket-2001.md
+m08897	yes	kept	domains/organization/corporate-announcements-2001.md
+m08898	yes	kept	domains/industry/visitors-2001.md
+m08899	yes	dropped	other: John D. Martin sends a Fed event-risk VaR paper lead; owner has seen such papers already
+m08900	yes	kept	domains/work/prediction-company.md
+m08901	yes	kept	domains/organization/corporate-announcements-2001.md people/eric-thode.md
+m08902	yes	kept	domains/organization/leave-and-training.md
+m08903	yes	kept	domains/organization/summer-interns-2001.md
+m08904	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md domains/work/ut-austin-ties-2000.md
+m08905	yes	kept	domains/work/weather-research-2001.md
+m08906	yes	kept	domains/work/prediction-company.md people/norman-packard.md
+m08907	yes	dropped	other: phone number for an unidentified "Terry" mailed to himself
+m08908	yes	kept	domains/industry/speaking-engagements-2000.md

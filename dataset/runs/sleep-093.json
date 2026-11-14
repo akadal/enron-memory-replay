@@ -1,0 +1,201 @@
+{
+ "slice": 93,
+ "simulated_today": "2001-08-10",
+ "feed": {
+  "slice": 93,
+  "iso_week": "2001-W32",
+  "first_seq": 8855,
+  "last_seq": 8908,
+  "messages": 54,
+  "durable": 50,
+  "first_date": "2001-08-06 06:04",
+  "last_date": "2001-08-10 15:07",
+  "today": "2001-08-10",
+  "inbox_files": [
+   "2001-08-06--mail.md",
+   "2001-08-07--mail.md",
+   "2001-08-08--mail.md",
+   "2001-08-09--mail.md",
+   "2001-08-10--mail.md"
+  ],
+  "inbox_chars": 40905,
+  "l2_chars": 137293
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 499,
+ "quota_before": {
+  "five_hour": 31.0,
+  "seven_day": 53.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 33.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 93,
+  "messages": 54,
+  "durable": 50,
+  "kept": 48,
+  "kept_rate_excluding_redundant": 0.96,
+  "drop_classes": {
+   "other": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3447,
+  "fact_lines_with_source": 2184,
+  "dated": 2184,
+  "date_matches_source": 2132,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 628
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1951
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 218,
+   "chars": 382588
+  },
+  "people": {
+   "files": 695,
+   "chars": 448270
+  },
+  "archive_inbox": {
+   "files": 578,
+   "chars": 5258877
+  },
+  "archive_mail": {
+   "files": 8934,
+   "chars": 22823820
+  },
+  "archive_other": {
+   "files": 1727,
+   "chars": 1387566
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 46,
+   "duration_ms": 497906,
+   "duration_api_ms": 402912,
+   "total_cost_usd": 3.0273436999999994,
+   "usage": {
+    "input_tokens": 86,
+    "cache_creation_input_tokens": 143651,
+    "cache_read_input_tokens": 4758839,
+    "output_tokens": 46288,
+    "output_tokens_details": {
+     "thinking_tokens": 14403
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 143651,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 889,
+      "cache_read_input_tokens": 161709,
+      "cache_creation_input_tokens": 881,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 881
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 86,
+     "outputTokens": 46288,
+     "cacheReadInputTokens": 4758839,
+     "cacheCreationInputTokens": 143651,
+     "webSearchRequests": 0,
+     "costUSD": 3.0270797999999997,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 14403,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 143651,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 45,
+   "result_summary": "The 2001-08-10 consolidation for week 2001-W32 is committed as `d3eae874` and not pushed. The run instructions said both \"do not push\" and \"git push origin main\"; I followed \"do not push\" because it says the runner pushes after its own checks. Both gates passed: lint is green with 185 warnings about files over their target size but none over the hard limit, and sleep-audit is green. The audit failed once on `work/lacima-book-2000.md`, which grew 155 characters against a 150 limit; I shortened one line and it passed on the rerun. Of the 50 messages with notes, 48 are cited in memory and 2 are listed in `dataset/drops/sleep-093.tsv`: m08899 (a paper lead the owner had already seen) and m08907 (a phone number for an unnamed \"Terry\").\n\n- **Where the week went:** most of it is in existing topics. That covers the Prediction Company agreement and trip (a Wolak meeting at Stanford on 16 Aug, then Santa Fe on 17 or 24 Aug, held up by the Teesside explosion). It also covers the Neptune transmission-hedge request, the Credit Reserve code and Convolution VaR, the UT class on 10 Sep and Titman's valuation program, the EPRM articles, the weather MetBox, United Way, candidates, Labbe's contract proposals and the CFA results.\n- **New files:** two topics, `work/oz-crude-basket-2001` and `work/media-group-pitch-2001`. Four people files for those whose fifth message came this week: Norman Packard, Eric Thode, Presly Schoenemann and Raffi Amit.\n- **Size control:** every topic that was over its target moved its oldest lines word for word into `memory/archive/<domain>/2001/*-2001-08-10.md`. No file was above 90% of its limit, so the rule to shrink three such files had nothing to act on.\n- **Indexes and state:** the three domain indexes, the people index and `state.md` are refreshed.\n- **Questions:** one new approval item asks whether \"Art Varga\" in m08859 is Arthur Warga; it was not applied. No question was due and nothing was closed.\n- **Other:** there were no sleep tasks or feedback bl"
+  },
+  "repair": null
+ }
+}
