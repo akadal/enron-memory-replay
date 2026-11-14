@@ -3,17 +3,19 @@ id: recruiting-candidates
 type: topic
 domain: organization
 title: "Candidates for the owner's group"
-summary: "Leads for the owner's group: Gary Bush's Texas A&M maths PhD, Zimin Lu to phone him (25 May); Molly Magee's unnamed resume (24 May); Ron Giammarino's UBC lead (physics PhD at the Bank of Canada, Calgary), owner to reply directly (30 May); Weidong Tian's thanks after interview (31 May 2001); older leads archived."
+summary: "Leads for the owner's group: hiring suspended for a few months for lack of space, Shriram S. to try in September (4 Jun 2001); Aguilera-Peon asks career advice; McKinley (Sokolov's lead) invited to a preliminary interview; Douglas refers Marilyn Mielke; Saksena's brother Vikas (4-5 Jun 2001); Giammarino's UBC lead, Gary Bush's A&M PhD and older leads archived."
 status: active
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Candidates for the owner's group
 
-Detail ←[[recruiting-candidates-2001-01-w02]] ←[[recruiting-candidates-2001-02-w06]] ←[[recruiting-candidates-2001-02-w07]] ←[[recruiting-candidates-2001-02-w08]] ←[[recruiting-candidates-2001-03-w09]] ←[[recruiting-candidates-2001-03-w12]] ←[[recruiting-candidates-2001-05-w18]] ←[[recruiting-candidates-2001-05-06]] ←[[recruiting-candidates-2001-05-13]] ←[[recruiting-candidates-2001-05-18]] ←[[recruiting-candidates-2001-05-26]] ←[[recruiting-candidates-2001-06-03]]
+Detail ←[[recruiting-candidates-2001-01-w02]] … (one archive file per week) ←[[recruiting-candidates-2001-06-03]] ←[[recruiting-candidates-2001-06-06]]
 
 Hires: memory/domains/organization/staff-and-recruiting.md. Interview logs by period: memory/domains/organization/_index.md. Older pointers sit in the 2001-05-w18 detail file.
 
-- [2001-05-24] Molly Magee sends a resume (candidate unnamed), asks if the owner wants to talk; he copies it to AOL. ←[[m07994]] ←[[m08015]]
-- [2001-05-25] Gary Bush ('65) refers a Texas A&M maths PhD; Traci Warner sees no analyst/associate fit. Owner: "Did an individual make an effort and invested his time to learn things directly  useful to Enron?"; "We can interview the candidate over the phone and see if he knows anything beyond math." (a recent candidate complained of energy economics questions); asks Zimin Lu to phone him. ←[[m07998]] ←[[m07999]]
-- [2001-05-30] Ron Giammarino (UBC, met at the Texas Finance Festival) offers a lead: a UBC M.Sc. Finance with a physics Ph.D. at the Bank of Canada in Calgary, plus UBC grads generally; owner to Beth Miertschin: "I shall reply to Ron directly." ←[[m08049]]
-- [2001-05-31] Weidong Tian thanks the owner after his interview. ←[[m08123]]
+- [2001-06-04] Hiring paused: "We have suspended hiring for the next few months till we shall sort our physical space problem" (no room left in the old building); Shriram S. (Computational Finance, Carnegie Mellon and NTU; free 1 Aug, needs a visa) told: "Please, feel free to contact me again in September." ←[[m08244]]
+- [2001-06-04] Maria Teresa Aguilera-Peon (Rice Applied Math; sent Dr. Kloucek's emails earlier) weighs a financial-maths PhD aimed at industry and asks to meet over lunch. ←[[m08226]]
+- [2001-06-05] Jason Sokolov forwards John E. McKinley's resume (maintenance and operations in cogeneration, Houston); owner to McKinley: "Please, get in touch with me so that we can set a preliminary job interview." ←[[m08310]] ←[[m08334]]
+- [2001-06-05] Stephen H. Douglas refers Marilyn Mielke (via Luitgard Fischer, EBS Global Finance: heavy quantitative research; first sole female aboard a US Navy ship); call him at x30938. ←[[m08348]]
+- [2001-06-05] Anurag Saksena (GMAC RFC) asks if the owner spoke to his IT people about his brother Vikas (London, 44 208 343 3298) and whether Vikas may call him directly. ←[[m08341]]
+

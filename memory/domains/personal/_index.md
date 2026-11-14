@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Personal — index
 
@@ -9,8 +9,8 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Son Vince's resume to check; wife at Stanford till June → memory/domains/personal/household.md
-- Karasinski: owner in London end of June; Pokalsky, Ste-Marie → memory/domains/personal/correspondence.md
+- Son's job search: Bill Balson's Opt4 Java openings; wife at Stanford till June → memory/domains/personal/household.md
+- Pokalsky's 1996 Power Risk issue, answer by Fri 8 Jun; Karasinski, owner in London end of June → memory/domains/personal/correspondence.md
 - Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
 
 ## Files

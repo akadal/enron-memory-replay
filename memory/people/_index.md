@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # People — index
 
@@ -109,6 +109,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Chris Hilgert
 - Chris Kenyon
 - Chris Mahoney
+- Chris Pernoud
 - Chris Strickland
 - Chris Williams
 - Christi Nicolay
@@ -256,6 +257,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jean Eisel
 - Jean Mrha
 - Jean Ryall
+- Jeannie Mandelker
 - Jed Howard
 - Jeff Gray
 - Jeff Kinneman
@@ -312,6 +314,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joseph Helms
 - Joseph Hirl (Joseph P Hirl)
 - Joseph Hrgovcic (Joe Hrgovcic)
+- Joseph Pokalsky (Joe Pokalsky, Joseph T. Pokalsky)
 - Josh Leventhal (Joshua Leventhal)
 - Julia Murray
 - Julie Gomez (Julie A Gomez)
@@ -479,6 +482,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Peter Nance
 - Peter Percell
 - Peter Tufano
+- Peter Veruki
 - Phanish Puranam
 - Phelim Boyle (P.P. Boyle)
 - Philip Annesley
@@ -523,6 +527,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rick Buy
 - Rishad Patel
 - Rita Hennessy
+- Rob Bradley
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
 - Robert J. Guadette (Robert Guadette)
 - Robert Johnston
@@ -618,6 +623,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Tara Rozen
 - Ted Bland
 - Ted Murphy
+- Ted Noble
 - Teresa Bien
 - Theresa Convery
 - Thomas Knudsen
@@ -660,6 +666,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Wes Colwell
 - Wichai Narongwanich
 - Wil Uecker
+- William Balson (Bill Balson)
 - William Bradford (William S Bradford)
 - William Fitzgibbon
 - William Smith (Sam Smith)

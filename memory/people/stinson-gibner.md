@@ -5,11 +5,11 @@ entity: person
 name: "Stinson Gibner"
 aliases: []
 domains: [organization, industry, work]
-updated: 2001-05-26
+updated: 2001-06-06
 ---
 # Stinson Gibner
 
-The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. ←[[m00003]] ←[[m00201]] ←[[m00217]] Detail ←[[stinson-gibner-2000-12-w50]] ←[[stinson-gibner-2000-12-w51]]
+The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. ←[[m00003]] ←[[m00201]] ←[[m00217]] Detail ←[[stinson-gibner-2000-12-w50]] ←[[stinson-gibner-2000-12-w51]] ←[[stinson-gibner-2001-06-06]]
 
 ## Context: organization
 
@@ -23,5 +23,4 @@ The owner's associate in Research (EB 1963, 3-4748); also at ECI from Jan 2000. 
 
 ## Context: work
 
-- [1999-12-14] Talks, UK vol audit, RTHM put → memory/domains/work/research-presentations.md, memory/domains/work/uk-power-vol-curve.md, memory/domains/work/ljm-put-valuation.md ←[[m00017]] ←[[m00098]] ←[[m00103]]
-- [2000-12-18] WTI simulation for Lavorato and Ted Murphy; Andersen's spread option check → memory/domains/work/wti-eol-simulation-2000.md, memory/domains/work/model-risk-audit.md ←[[m04914]] ←[[m04919]]
+- Talks, UK vol audit, RTHM put, WTI simulation (1999-2000): lines archived ←[[stinson-gibner-2001-06-06]]
