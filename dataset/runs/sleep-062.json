@@ -1,0 +1,186 @@
+{
+ "slice": 62,
+ "simulated_today": "2001-02-04",
+ "feed": {
+  "slice": 62,
+  "iso_week": "2001-W05",
+  "first_seq": 5613,
+  "last_seq": 5770,
+  "messages": 158,
+  "durable": 127,
+  "first_date": "2001-01-29 00:07",
+  "last_date": "2001-02-04 10:37",
+  "today": "2001-02-04",
+  "inbox_files": [
+   "2001-01-29--mail.md",
+   "2001-01-30--mail.md",
+   "2001-01-31--mail.md",
+   "2001-02-01--mail.md",
+   "2001-02-02--mail.md",
+   "2001-02-04--mail.md"
+  ],
+  "inbox_chars": 89239,
+  "l2_chars": 350101
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 761,
+ "quota_before": {
+  "five_hour": 10.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 12.0,
+  "seven_day": 39.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 62,
+  "messages": 158,
+  "durable": 127,
+  "kept": 126,
+  "kept_rate_excluding_redundant": 0.992,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2606,
+  "fact_lines_with_source": 1730,
+  "dated": 1730,
+  "date_matches_source": 1688,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.91,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 656
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1240
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 180,
+   "chars": 315413
+  },
+  "people": {
+   "files": 487,
+   "chars": 322885
+  },
+  "archive_inbox": {
+   "files": 403,
+   "chars": 3421670
+  },
+  "archive_mail": {
+   "files": 5796,
+   "chars": 14179093
+  },
+  "archive_other": {
+   "files": 1114,
+   "chars": 959129
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 67,
+   "duration_ms": 759635,
+   "duration_api_ms": 667102,
+   "total_cost_usd": 5.101848800000001,
+   "usage": {
+    "input_tokens": 122,
+    "cache_creation_input_tokens": 212183,
+    "cache_read_input_tokens": 9807884,
+    "output_tokens": 72116,
+    "output_tokens_details": {
+     "thinking_tokens": 29093
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 212183,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 902,
+      "cache_read_input_tokens": 242785,
+      "cache_creation_input_tokens": 1189,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1189
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 122,
+     "outputTokens": 72116,
+     "cacheReadInputTokens": 9807884,
+     "cacheCreationInputTokens": 212183,
+     "webSearchRequests": 0,
+     "costUSD": 5.101848800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 29093,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 212183,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 66,
+   "result_summary": "Consolidation for 2001-W05 (simulated date 2001-02-04) is committed as `dac6690`. Lint and sleep-audit were both green on the first try. I did not push, since the runner does that after its own checks. I also left `dataset/runs/sleep-062.transcript.jsonl` uncommitted because the runner commits run transcripts itself.\n\nAll 127 messages with notes are accounted for: 126 are cited in L1, and one (m05723, an invitation accepted for an event the mail never names) is listed in `dataset/drops/sleep-062.tsv`. Three new topic files were opened:\n- **Koch P+ spread options:** Gibner estimates that re-marking the book at 98% correlation would cut its mark-to-market value by about $78M.\n- **Rick Jones's HSB reinsurance model:** he wants the group to rebuild it at Enron; the owner has a meeting set for the week of 5 Feb.\n- **Warsaw MBA theses:** the owner supervises three, with comments promised by Sunday 4 Feb.\n\nAbout 30 existing files were updated. The main changes are the Martin paper (Enron-approved version due to Don around 7 Feb), the Raptor reports, the 31 Jan California update, the GARP follow-ups, the Haughton, Valverde and Qian interviews, Costantino's return from NYMEX, the EGM reorganization, the Wharton and Rice work, and Baylor on 23 Feb, where the owner will miss Martin's workshop. Eleven people reached their fifth noted message this week and now have entity files and alias-table entries; for John Henderson I assumed the 2000 EES contact and the 2001 NewPower contact are the same person, marked (?).\n\nOlder detail was moved verbatim to `memory/archive/*/2001/*-2001-02-w05.md`, and every file over target grew by no more than 150 characters. Only `internal-meetings.md` was above 90% of its ceiling, so the three-file compression quota could not be met; I brought that one file down from 2470 to 2193 characters. The five oldest ongoing lines are still valid and stay open. No question was past its due date, so nothing was closed by status quo. There were no sleep-task or "
+  },
+  "repair": null
+ }
+}
