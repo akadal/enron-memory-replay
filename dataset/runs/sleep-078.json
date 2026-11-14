@@ -1,0 +1,201 @@
+{
+ "slice": 78,
+ "simulated_today": "2001-05-06",
+ "feed": {
+  "slice": 78,
+  "iso_week": "2001-W18",
+  "first_seq": 7531,
+  "last_seq": 7724,
+  "messages": 194,
+  "durable": 150,
+  "first_date": "2001-05-02 08:07",
+  "last_date": "2001-05-06 23:21",
+  "today": "2001-05-06",
+  "inbox_files": [
+   "2001-05-02--mail-2.md",
+   "2001-05-03--mail.md",
+   "2001-05-04--mail.md",
+   "2001-05-05--mail.md",
+   "2001-05-06--mail.md"
+  ],
+  "inbox_chars": 111636,
+  "l2_chars": 489211
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 798,
+ "quota_before": {
+  "five_hour": 63.0,
+  "seven_day": 49.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 67.0,
+  "seven_day": 49.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 78,
+  "messages": 194,
+  "durable": 150,
+  "kept": 148,
+  "kept_rate_excluding_redundant": 0.987,
+  "drop_classes": {
+   "other": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3384,
+  "fact_lines_with_source": 2083,
+  "dated": 2083,
+  "date_matches_source": 2034,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.93,
+   1.0,
+   0.9,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 648
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1413
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 212,
+   "chars": 383435
+  },
+  "people": {
+   "files": 648,
+   "chars": 415537
+  },
+  "archive_inbox": {
+   "files": 492,
+   "chars": 4575621
+  },
+  "archive_mail": {
+   "files": 7750,
+   "chars": 19293672
+  },
+  "archive_other": {
+   "files": 1441,
+   "chars": 1187232
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 54,
+   "duration_ms": 796604,
+   "duration_api_ms": 683477,
+   "total_cost_usd": 5.047606899999999,
+   "usage": {
+    "input_tokens": 100,
+    "cache_creation_input_tokens": 232216,
+    "cache_read_input_tokens": 8172570,
+    "output_tokens": 77735,
+    "output_tokens_details": {
+     "thinking_tokens": 34457
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 232216,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 987,
+      "cache_read_input_tokens": 250424,
+      "cache_creation_input_tokens": 731,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 731
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002649,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 100,
+     "outputTokens": 77735,
+     "cacheReadInputTokens": 8172570,
+     "cacheCreationInputTokens": 232216,
+     "webSearchRequests": 0,
+     "costUSD": 5.0473419999999996,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 34457,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 232216,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 53,
+   "result_summary": "The 2001-05-06 consolidation is committed as `8bfb2399` on `main`. I didn't push it: the run brief says not to, because the runner pushes after its own checks (the general §6 wording says to push, and I followed the replay-specific rule). Both gates passed, lint and `sleep-audit.py`, and the commit message has the cost figure and size summary.\n\n- **Messages:** 194 messages this week, 150 with notes. 148 are now cited in L1. The other 2 (m07602, m07629, both the owner emailing himself a NY Fed report link) are listed in `dataset/drops/sleep-078.tsv`. My own check found no noted message that is neither cited nor dropped.\n- **Topics:** about 30 existing topic files took the new facts: Rice grades and the ALP presentation, Iris Mack's Enron Credit plan, the Limperis call, the VaR tests, Dabhol and the Godbole committee, the CrudeAPO documentation clash, candidates, interns, and the EES/EWS risk merger. No topic was named after a week or month. Two were retitled to cover their wider subject: `ees-termination-payments-2001` and `california-power-jan-2001`.\n- **Size limits:** where a topic was already over its target size, I moved its oldest lines word-for-word to `memory/archive/<domain>/2001/*-2001-05-06.md`, so no file grew past what the audit allows. No topic file was above 90% of its ceiling, so the rule to compress three such files had nothing to act on.\n- **People:** 39 new person files, listed in the people index. Peter Nance and Chris Harris had already crossed five messages last run but had no file, so they were added now. Martin Jermakyan's file notes he left TXU after three days.\n- **Questions:** nothing is past due and I applied no approval-gated change. The Don Black question stays open; his new file carries the \"(?)\" note.\n- **Housekeeping:** `state.md` and the three domain indexes are refreshed. The five oldest ongoing lines are still valid, and the \"Research Intelligence\" newsletter one is confirmed by this week's mail. There was no sleep-task in the inbox"
+  },
+  "repair": null
+ }
+}
