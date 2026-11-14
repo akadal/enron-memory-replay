@@ -108,7 +108,9 @@ Reruns. When a run finds its own pass failing a gate and, as eleman's rules requ
 first attempt's record, transcript and ledger stay in the repository as `sleep-<kkk>.attempt1.*`;
 `summary.py` does not count them. At slice 67 the first attempt's second `sleep-audit.py` pass was
 red because `work/dabhol-power-sale.md`, already over its target, grew by 152 characters where the
-ratchet check allows 150, so the run reset itself (list-price cost about $4.1).
+ratchet check allows 150, so the run reset itself (list-price cost about $4.1). At slice 89 (second
+pass) the same happened after the repair pass (`work/lacima-book-2000.md` +165, `people/ed-krapels.md`
++213), and the runner reran the slice by itself, the first such rerun (about $2.0).
 
 A run cut off from outside is not a result of the method and leaves nothing in L1: its partial
 work is reset to `pre-sleep`, its feed commit is reverted, its partial transcript is kept as
@@ -145,6 +147,17 @@ attempt, whose commit changed L2 and was discarded unpushed, is recorded on the 
 (`sleep-088.attempt1.*`). `summary.py` now prices the small Haiku call that Claude Code makes on
 its own in every run from slice 71 (about 2,400 tokens in, 25 out); before, slices 71-76 showed no
 cost. (`dataset/audit/2026-11-14-8-review-090.md`)
+
+The second pass, reviewed at slice 90, files by subject again: about 37 new fact lines per slice
+go into existing topics and four new topic files open in fourteen slices (212 at `sleep-090`,
+against 286 in the first pass). The price is the budget doing its job: 152 of the 212 topics are
+over their 1,600-character target, so a topic now holds about three fact lines and takes a new one
+by moving its oldest verbatim to the archive (one file per topic and run). Of the messages kept
+so far, the share still cited somewhere in L1 falls from 57% at `sleep-076` (3,186 of 5,628) to
+51% at `sleep-090` (3,367 of 6,582); the first pass, which kept growing files instead, holds 61%
+(4,034 of 6,589). Nothing is lost: the rest is cited from the archive. Peter McNabb, Jeff Andrews
+and Michael Moore are named in five or more noted messages and have no entity file in the second
+pass (the first pass made them at slice 79); left to the runs. (`dataset/audit/2026-11-15-9-review-090-second-pass.md`)
 
 ## Deviations from eleman as shipped
 
