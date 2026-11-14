@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-05-13
+updated: 2001-05-18
 ---
 # Personal — index
 
@@ -9,9 +9,9 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Wife stays with the son in California till June; son graduates this spring → memory/domains/personal/household.md
-- Marek's resume to Eydeland, dinner 14 May; Cornelli, MS 150 pledge, movie picks for Christie Patrick → memory/domains/personal/correspondence.md
-- Bigalow leaves Enron; NEM assigned at 17.5 → memory/domains/personal/investments-2000.md
+- Son Vin at Stanford, wife there till June; owner's Fordham degree → memory/domains/personal/household.md
+- Round Table dinner, Sullivan's, 18 May; Cornelli, MS 150 → memory/domains/personal/correspondence.md
+- Bigalow: DVN on a gas-price dip, dinner in a few weeks → memory/domains/personal/investments-2000.md
 
 ## Files
 
