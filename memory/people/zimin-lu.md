@@ -4,8 +4,8 @@ type: entity
 entity: person
 name: "Zimin Lu"
 aliases: []
-domains: [organization, work]
-updated: 2000-12-31
+domains: [organization, work, industry]
+updated: 2001-07-03
 ---
 # Zimin Lu
 
@@ -20,4 +20,9 @@ Research Group member at director level; EB 1967 from Jan 2000. ←[[m00004]] �
 ## Context: work
 
 - [2000-12-18] Built the WTI trading simulation for Lavorato → memory/domains/work/wti-eol-simulation-2000.md ←[[m04914]]
-- [2000-12-28] Wants Gibner's corrected WTI spreadsheet; studying queueing theory for an EBS project → memory/domains/work/wti-eol-simulation-2000.md ←[[m05065]]
+- [2000-12-28] Gibner's corrected WTI spreadsheet; queueing theory for EBS → memory/domains/work/wti-eol-simulation-2000.md ←[[m05065]]
+- [2001-07-03] Weather-triggered option formulas; installs @GLOBAL 5.0 → memory/domains/work/models-jul-02-2001.md ←[[m08670]] ←[[m08674]]
+
+## Context: industry
+
+- [2001-07-03] Speaks for the owner at Risk Waters NY → memory/domains/industry/speaking-and-visits-jul-02-2001.md ←[[m08675]]

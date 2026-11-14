@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-29
+updated: 2001-07-03
 ---
 # Organization — index
 
@@ -9,8 +9,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- This week: owner off 5, 6, 9 Jul; Schoenemann referral; Toastmasters; intern dinner 2 Jul → memory/domains/organization/research-staff-jun-25-2001.md
-- Staff: hiring postponed to late Aug-early Sep (new building); Bibi to Putnam → memory/domains/organization/research-staff-jun-18-2001.md
+- This week: abroad to 9 Jul, PRC 10 Jul; Uriel Scott interview; Technical Corner → memory/domains/organization/research-staff-jul-02-2001.md
+- Staff: Schoenemann; Toastmasters → memory/domains/organization/research-staff-jun-25-2001.md; hiring postponed to Aug-Sep (new building) → memory/domains/organization/research-staff-jun-18-2001.md
 - PRC: specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul; Paleologo unsigned → memory/domains/organization/referrals-and-admin-jun-08-2001.md; policy draft → memory/domains/organization/research-staff-jun-15-2001.md
 - Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
 - Admin: HR → memory/domains/organization/hr-matters-2001.md
@@ -18,14 +18,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 ## Files
 
 - memory/domains/organization/anjam-resignation-oct-2000.md — Anjam Ahmad resigns, Oct 2000
-- memory/domains/organization/candidate-interviews-may-2000.md — May 2000
-- memory/domains/organization/candidate-interviews-jul-2000.md — Jun-Jul 2000
-- memory/domains/organization/candidate-interviews-aug-2000.md — Aug 2000
-- memory/domains/organization/candidate-interviews-sep-2000.md — Sep 2000
-- memory/domains/organization/candidate-interviews-oct-2000.md — Oct 2000
-- memory/domains/organization/candidate-interviews-nov-2000.md — Nov 2000
-- memory/domains/organization/candidate-interviews-dec-2000.md — from 27 Nov 2000
-- memory/domains/organization/candidate-interviews-jan-2001.md — from 18 Dec 2000
+- Interviews: candidate-interviews-may-2000 · candidate-interviews-jul-2000 · candidate-interviews-aug-2000 · candidate-interviews-sep-2000 · candidate-interviews-oct-2000 · candidate-interviews-nov-2000 · candidate-interviews-dec-2000 · candidate-interviews-jan-2001 · candidate-interviews-feb-2001 · candidate-interviews-mar-2001 · candidate-interviews-apr-2001 · candidate-interviews-mid-apr-2001 · candidate-interviews-late-apr-2001 · candidate-interviews-apr-end-2001 · candidate-interviews-may-2001 · candidate-interviews-may-02-2001 (each memory/domains/organization/<name>.md)
 - memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Szopa)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
 - memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
@@ -51,20 +44,12 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/research-group-2001.md — 2001 rules and seminars
 - memory/domains/organization/research-reorg-jan-2001.md — Research re-org draft, Jan 2001
 - memory/domains/organization/outside-recruiters-2001.md — outside recruiters, Jan 2001
-- memory/domains/organization/candidate-interviews-feb-2001.md — from 15 Jan 2001
 - memory/domains/organization/summer-interns-2001.md — 2001 interns, campus recruiting
 - memory/domains/organization/staff-moves-jan-2001.md — moves and starts, Jan 2001
-- memory/domains/organization/candidate-interviews-mar-2001.md — from 5 Mar 2001
 - memory/domains/organization/hr-matters-2001.md — owner's contract, Sevil Yaman's green card (2001)
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
-- memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
 - memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
-- memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
-- memory/domains/organization/candidate-interviews-late-apr-2001.md — from 23 Apr 2001
-- memory/domains/organization/candidate-interviews-apr-end-2001.md — from 25 Apr 2001
-- memory/domains/organization/candidate-interviews-may-2001.md — from 30 Apr 2001
-- memory/domains/organization/candidate-interviews-may-02-2001.md — from 2 May 2001
 - memory/domains/organization/summer-interns-may-2001.md — summer interns, May 2001 (Jinbaek Kim, Youseok Son)
 - memory/domains/organization/mid-year-prc-2001.md — mid-year PRC 2001: PEP dates, ratings, Tony Hamilton
 - memory/domains/organization/research-admin-may-2001.md — Research admin, May 2001 (iBuyit, visa help, temp)
@@ -82,3 +67,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/research-staff-jun-15-2001.md — policy and events from 11 Jun 2001
 - memory/domains/organization/research-staff-jun-18-2001.md — hiring pause, Bibi, admin from 18 Jun 2001
 - memory/domains/organization/research-staff-jun-25-2001.md — staff, referrals, admin from 25 Jun 2001
+- memory/domains/organization/research-staff-jul-02-2001.md — staff, candidates, admin from 2 Jul 2001
