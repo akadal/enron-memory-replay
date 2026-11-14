@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-04-14
+updated: 2001-04-22
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Candidates: Manoj Gupta 16 Apr; Rayfael Roman and Sriram Vasudevan 19 Apr; Jacob Kang weak on finance; McCracken to Shanbhogue → memory/domains/organization/candidate-interviews-apr-2001.md
-- Interns: Jinbaek Kim says yes; Zhendong Xia 14 May-17 Aug, the last (no space) → memory/domains/organization/summer-interns-2001.md
-- HR: Anne Labbe replaces Norma Villarreal; Sevil's project bonus → memory/domains/organization/hr-matters-2001.md
-- London: Tony Hamilton in London from 9 Apr → memory/domains/organization/tony-hamilton-london-2001.md; Danilov's E-credit → memory/domains/organization/london-research.md
-- Group: Astros 20/27 Apr; volleyball (Barkley); Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; Livelink folder, Telerate cancelled → memory/domains/organization/office-equipment.md
+- Candidates: Rajan accepts; Jacob Kang second round; Renshi Zhang week of 23 Apr; owner negative on Hsu; Matchavariani seeks a move → memory/domains/organization/candidate-interviews-mid-apr-2001.md
+- Interns: Kim, Xia (offer out 16 Apr), Candice Kao signed; Rusty Parks; Seade unreachable → memory/domains/organization/summer-interns-2001.md
+- London: owner proposes Gibner as Head of Research Europe and Asia, Whalley prefers Vasant; Danilov back → memory/domains/organization/london-research.md; Bennett's charges → memory/domains/organization/tony-hamilton-london-2001.md
+- Systems: iBuyit approver from 1 May, Capital Book → memory/domains/organization/corporate-announcements-2001.md; PRC 360 forms with Corteselli → memory/domains/organization/officer-performance-review.md
+- Group: Astros 27 Apr; Kohli's party Sat 5 May → memory/domains/organization/research-group-2001.md; filing units, Derivatives Quarterly → memory/domains/organization/office-equipment.md
 
 ## Files
 
@@ -59,3 +59,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
 - memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
+- memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
+- memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
