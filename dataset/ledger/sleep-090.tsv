@@ -1,0 +1,41 @@
+id	durable	status	detail
+m08702	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08703	no	not_durable	quote_only
+m08704	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08705	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08706	yes	kept	domains/work/models-jul-16-2001.md
+m08707	no	not_durable	other
+m08708	yes	kept	domains/work/models-jul-16-2001.md people/darrell-duffie.md
+m08709	yes	kept	domains/work/models-jul-16-2001.md people/darrell-duffie.md
+m08710	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08711	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08712	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08713	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08714	no	not_durable	automated
+m08715	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08716	no	not_durable	logistics
+m08717	yes	kept	domains/work/models-jul-16-2001.md
+m08718	yes	kept	domains/work/models-jul-16-2001.md
+m08719	yes	kept	domains/work/models-jul-16-2001.md
+m08720	no	not_durable	bulk
+m08721	yes	kept	domains/organization/research-staff-jul-16-2001.md domains/personal/california-trip-jul-2001.md
+m08722	yes	kept	domains/work/models-jul-16-2001.md
+m08723	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08724	yes	dropped	redundant: fax number already in household.md; referee request covered by m08704/m08713
+m08725	yes	kept	domains/organization/research-staff-jul-16-2001.md people/christian-werner.md
+m08726	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08727	yes	kept	domains/organization/research-staff-jul-16-2001.md people/billy-lemmons.md
+m08728	no	not_durable	empty
+m08729	no	not_durable	logistics
+m08730	no	not_durable	other
+m08731	yes	kept	domains/work/models-jul-16-2001.md
+m08732	yes	kept	domains/work/models-jul-16-2001.md
+m08733	yes	kept	domains/organization/research-staff-jul-16-2001.md domains/personal/california-trip-jul-2001.md people/christian-werner.md people/paul-quilkey.md
+m08734	yes	kept	domains/work/models-jul-16-2001.md
+m08735	no	not_durable	pleasantry
+m08736	yes	kept	domains/work/models-jul-16-2001.md
+m08737	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08738	yes	kept	domains/organization/research-staff-jul-16-2001.md
+m08739	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08740	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md
+m08741	yes	kept	domains/industry/speaking-and-visits-jul-16-2001.md people/glen-dixon.md

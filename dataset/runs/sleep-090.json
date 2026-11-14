@@ -1,0 +1,201 @@
+{
+ "slice": 90,
+ "simulated_today": "2001-07-21",
+ "feed": {
+  "slice": 90,
+  "iso_week": "2001-W29",
+  "first_seq": 8702,
+  "last_seq": 8741,
+  "messages": 40,
+  "durable": 31,
+  "first_date": "2001-07-16 06:14",
+  "last_date": "2001-07-21 04:11",
+  "today": "2001-07-21",
+  "inbox_files": [
+   "2001-07-16--mail.md",
+   "2001-07-17--mail.md",
+   "2001-07-18--mail.md",
+   "2001-07-19--mail.md",
+   "2001-07-21--mail.md"
+  ],
+  "inbox_chars": 28513,
+  "l2_chars": 103086
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 363,
+ "quota_before": {
+  "five_hour": 57.0,
+  "seven_day": 48.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 58.0,
+  "seven_day": 48.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 90,
+  "messages": 40,
+  "durable": 31,
+  "kept": 30,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {
+   "redundant": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 4075,
+  "fact_lines_with_source": 2633,
+  "dated": 2633,
+  "date_matches_source": 2580,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 667
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1249
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 289,
+   "chars": 540139
+  },
+  "people": {
+   "files": 682,
+   "chars": 441642
+  },
+  "archive_inbox": {
+   "files": 557,
+   "chars": 5115384
+  },
+  "archive_mail": {
+   "files": 8767,
+   "chars": 22299195
+  },
+  "archive_other": {
+   "files": 1461,
+   "chars": 1201674
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 42,
+   "duration_ms": 361987,
+   "duration_api_ms": 267878,
+   "total_cost_usd": 1.9222110000000001,
+   "usage": {
+    "input_tokens": 76,
+    "cache_creation_input_tokens": 95275,
+    "cache_read_input_tokens": 3035678,
+    "output_tokens": 27616,
+    "output_tokens_details": {
+     "thinking_tokens": 7403
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 95275,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1059,
+      "cache_read_input_tokens": 113282,
+      "cache_creation_input_tokens": 932,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 932
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2394,
+     "outputTokens": 24,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002514,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 76,
+     "outputTokens": 27616,
+     "cacheReadInputTokens": 3035678,
+     "cacheCreationInputTokens": 95275,
+     "webSearchRequests": 0,
+     "costUSD": 1.9219596,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 7403,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 95275,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 41,
+   "result_summary": "The 2001-07-21 consolidation for week 2001-W29 is committed as `df74e99`. Lint and `sleep-audit.py` were both green before the commit, and I did not push.\n\n**What was kept:** all 31 messages with notes were handled: 30 are cited in L1 and one (m08724) is listed as redundant in `dataset/drops/sleep-090.tsv`. The week went into four places:\n- **Work** (`models-jul-16-2001.md`): Duffie's audit of the Rabi De/Tanya Reliability VaR algorithm, the KMV writeup, Issler's quanto swap, the Arthur Andersen puts call left to Bharati, Huang's memo on hedging full-requirement deals, Toshiba's Boltzmann-model visit (31 Jul–4 Aug) and the Reval visitors.\n- **Industry** (`speaking-and-visits-jul-16-2001.md`): refereeing the swing-option paper for Risk Magazine (report due 14 Aug), Lacima's EPRM article no. 12 and Les in Houston 22–24 Jul, Howard University's science and engineering centre, CMU recruiting, Damslora's London follow-up, and Glen Dixon.\n- **Organization** (`research-staff-jul-16-2001.md`): Demissie rejected, a phone interview for Sen, Christian Werner's wish to move to Research (Quilkey objects), Maureen Raymond at the World Bank-IMF meetings, Debra's October course, ESL and PRC training, and EBS folded into EWS.\n- **Personal** (`california-trip-jul-2001.md`): the family is moving back to Houston and the owner is driving back from California.\n\n**Other changes:**\n- Glen Dixon reached five messages with notes, so he now has `memory/people/glen-dixon.md` and is in the alias table. Four other people files were updated.\n- I added one approval question to `questions.md`: should \"Les\" (lacimagroup.com) become an alias of Les Clewlow?\n- The indexes and `state.md` are refreshed.\n- The five oldest ongoing lines were checked and are all still valid.\n\n**Gates and compression:** no existing file was above 90% of its ceiling, so the three-file compression quota had nothing to act on. The first audit run was red (BLOAT) because the new work file was at 98% of its ceiling. I compressed"
+  },
+  "repair": null
+ }
+}
