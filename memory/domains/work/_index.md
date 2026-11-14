@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-06-03
+updated: 2001-06-06
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- VaR: Project X inception document (1 Jun), Casey Evans's zero-vol curves, joint gas-power factors (week of 11 Jun); EWRM memo to Skilling (1 Jun); Sekse's outage-option hedge → memory/domains/work/var-models-early-jun-2001.md; earlier → memory/domains/work/var-models-late-may-2001.md
+- VaR: Port's factor-loadings process (Global Risk Ops runs it, Research takes matrix pathologies, 5 Jun); PSIM 8 Jun; Grigorov's decision biases; August Board revaluation → memory/domains/work/var-and-models-jun-04-2001.md; Project X, EWRM memo → memory/domains/work/var-models-early-jun-2001.md
 - Credit: Salmon wants model-testing ideas; Fiala: Iris's report top priority; 'Enron Credit Strategic Plan' draft for Duffie (2 Jun); McDermott call Mon → memory/domains/work/enron-credit-early-jun-2001.md
 - Models: Zimin's EOL bid/ask as options; one Exotica version for London; strip spread options (Issler); dispatch v0.9; Emmer EVT replicated → memory/domains/work/research-models-early-jun-2001.md
 - Raptor: revised memo for AA, review with Bharati (29 May) → memory/domains/work/talon-raptor.md
-- Requests: UK Power weather briefing; Frolov's simulation course and Ford Cooper's 'Research Productization' (4 Jun); EES-EAM, Mandelker (5 Jun); Sparks Memphis 19 Jun → memory/domains/work/research-requests-early-jun-2001.md; Bigalow's logo → memory/domains/work/technical-analysis-service-2001.md
+- Requests: Quilkey's weather-modelling call (Wed 6 Jun 5:30 pm); Doane Agricultural; Sparks 19 Jun pending Gary; Prediction Company call; Mandelker's TVA clips → memory/domains/work/research-requests-jun-04-2001.md; earlier → memory/domains/work/research-requests-early-jun-2001.md; Bigalow's logo → memory/domains/work/technical-analysis-service-2001.md
 
 ## Files
 
@@ -46,5 +46,6 @@ Path: memory/domains/work/<name>.md
 - var-model-review-may-2001 · enron-credit-tensions-may-2001 · vendor-offers-mid-may-2001
 - var-models-late-may-2001 · enron-credit-late-may-2001 · research-requests-late-may-2001 · vendor-offers-late-may-2001
 - var-models-early-jun-2001 · research-models-early-jun-2001 · enron-credit-early-jun-2001 · research-requests-early-jun-2001
+- research-requests-jun-04-2001 · var-and-models-jun-04-2001
 
 Closed: 1
