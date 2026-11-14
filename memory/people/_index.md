@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-10-21
+updated: 2001-10-24
 ---
 # People — index
 
@@ -273,6 +273,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jean Ryall
 - Jeannie Mandelker
 - Jed Howard
+- Jeff Andrews
 - Jeff Gray
 - Jeff Kinneman
 - Jeff McMahon
@@ -339,6 +340,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karen Marshall
 - Karla Feldman
 - Karolina Potter
+- Karthik Rajan
 - Kate Bruges
 - Kate Lucas
 - Kate Szablya
@@ -483,6 +485,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Omar Bassal (Omar Bassel)
 - Orlando Taylor
 - Osman Sezgen
+- Ozzie Pagan
 - Paige Cox
 - Paige Grumulaitis
 - Pamela Vande Krol Castro (Pam Castro)

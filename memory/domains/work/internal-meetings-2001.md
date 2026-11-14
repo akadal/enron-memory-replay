@@ -3,15 +3,15 @@ id: internal-meetings-2001
 type: topic
 domain: work
 title: "Owner's internal meetings, 2001"
-summary: "Ad-hoc meetings, 2001: Lu's meeting on one standard Research Model for Power Prices (14 Sep 2001); 2002 Research Plan Meeting (3 Oct 2001); Cathy Phillips's Monday 8:30 staff meeting skips 22 Oct, weekly from 29 Oct in ECS 03040 (17 Oct 2001); EES Consumption Risk, Skunk Works and older items archived."
+summary: "Ad-hoc meetings, 2001: 2002 Research Plan Meeting (3 Oct 2001); Cathy Phillips's Monday 8:30 staff meeting weekly from 29 Oct in ECS 03040 (17 Oct 2001); Consumption Risk Analysis meeting Wed 24 Oct (23 Oct 2001); Lu's Research Model for Power Prices, Skunk Works and older items archived."
 status: active
-updated: 2001-10-21
+updated: 2001-10-24
 ---
 # Owner's internal meetings, 2001
 
-Detail ←[[internal-meetings-2001-2001-03-w10]] … (one archive file per week) ←[[internal-meetings-2001-2001-06-03]] ←[[internal-meetings-2001-2001-06-06]] ←[[internal-meetings-2001-2001-06-29]] ←[[internal-meetings-2001-2001-08-03]] ←[[internal-meetings-2001-2001-08-10]] ←[[internal-meetings-2001-2001-09-01]] ←[[internal-meetings-2001-2001-09-09]] ←[[internal-meetings-2001-2001-09-14]] ←[[internal-meetings-2001-2001-10-04]] ←[[internal-meetings-2001-2001-10-21]]
+Detail ←[[internal-meetings-2001-2001-03-w10]] … (one archive file per week) ←[[internal-meetings-2001-2001-06-03]] ←[[internal-meetings-2001-2001-06-06]] ←[[internal-meetings-2001-2001-06-29]] ←[[internal-meetings-2001-2001-08-03]] ←[[internal-meetings-2001-2001-08-10]] ←[[internal-meetings-2001-2001-09-01]] ←[[internal-meetings-2001-2001-09-09]] ←[[internal-meetings-2001-2001-09-14]] ←[[internal-meetings-2001-2001-10-04]] ←[[internal-meetings-2001-2001-10-21]] ←[[internal-meetings-2001-2001-10-24]]
 
 Standing meetings (Trader's Roundtable from 16 Jan 2001 included): memory/domains/work/internal-meetings.md.
-- [2001-09-14] Zimin Lu calls a meeting to recommend one unified "Research Model for Power Prices": power price modelling drives power option pricing, plant valuation and outage insurance premiums; Research has built several approaches over the years, each a balance of robustness and accuracy, and needs a standard. ←[[m09181]]
 - [2001-10-03] Anita Dupont sets a 2002 Research Plan Meeting in ECN 12C1: the owner, Don Black, Rogers Herndon, David Draper, Berney C. Aucoin, Osman Sezgen (Krishna Krishnarao also named in the invitation). ←[[m09226]]
 - [2001-10-17] Cathy Phillips's Monday 8:30 staff meeting (Frevert, McConnell, Shankman, the owner and others) skips 22 Oct; weekly again from 29 Oct in ECS 03040. ←[[m09307]]
+- [2001-10-23] Christy Chapman: Consumption Risk Analysis meeting Wed 24 Oct, 4-5 pm, EB-872: Greg Woulfe, the owner, Mallik Avs, Osman Sezgen, Ozzie Pagan, Tanya Tamarchenko, Vladimir Gorny. ←[[m09489]]

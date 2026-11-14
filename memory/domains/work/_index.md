@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-10-21
+updated: 2001-10-24
 ---
 # Work — index
 
@@ -10,13 +10,13 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - EOL data mining: Whalley's top priority, bi-weekly updates to him; Lu's Executive Summary for the Statement of Work (18 Sep) → memory/domains/work/eol-trading-algorithms-2001.md
-- LJM/Raptor: owner to Siurek (cc Buy, Port), 4 Oct: he cannot support his group's valuations without the legal documents → memory/domains/work/talon-raptor.md
-- Models: Rabi De's revised Rel_VAR paper (19 Oct); Duffie still owed for 18 months → memory/domains/work/var-credit-system-2001.md; weather: Diebold call Tue 23 Oct 10 am → memory/domains/work/weather-research-2001.md; Prediction Company proposal awaits the owner's view (16 Oct) → memory/domains/work/prediction-company.md; PJM nodal pricing: Wolak's warning, Lin's reply (19 Oct) → memory/domains/work/transmission-modelling-2001.md
+- LJM/Raptor: owner to Bharati, Andersen's Scardino copied (22 Oct): past valuations unsupported, restriction and put mutually exclusive; 4 Oct memo to Siurek → memory/domains/work/talon-raptor.md
+- Models: Rabi De's revised Rel_VAR paper (19 Oct); Duffie still owed for 18 months → memory/domains/work/var-credit-system-2001.md; weather: Diebold → memory/domains/work/weather-research-2001.md; Prediction Company proposal: owner to talk to Greg, Leppard wants in (23 Oct) → memory/domains/work/prediction-company.md; PJM nodal pricing: Wolak's warning, Lin's reply (19 Oct) → memory/domains/work/transmission-modelling-2001.md
 - Writing: column, 'The Market for Lemons and the Price of Dishonesty' (21 Oct) → memory/domains/work/kaminski-column.md; Wiley wants the energy book proposal → memory/domains/work/energy-derivatives-book.md; Japanese edition, no date yet → memory/domains/work/owner-publications.md
 - Risk and credit: operational risk: key risk indicators first, Walker's model to Research next week, Curry wants the owner (18 Oct) → memory/domains/work/enterprise-risk-management.md; Dhar's credit review: D&B data awaits Craig, EES private firm model → memory/domains/work/private-firm-credit-model-2001.md
-- Universities: Georgia Tech Thu 1 Nov confirmed, title and abstract owed → memory/domains/work/university-relations.md; CMU: owner joined the MSCF Advisory Board, meeting Wed 12 Dec New York, formal letter and bio owed; Speaker Series 7 Dec → memory/domains/work/cmu-mscf-visit-nov-2000.md
+- Universities: Georgia Tech Thu 1 Nov, title and abstract still owed (23 Oct) → memory/domains/work/university-relations.md; CMU MSCF Advisory Board, meeting Wed 12 Dec New York, bio sent (24 Oct), formal letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md; Bambos asks how to fund Stanford's 2001-02 work → memory/domains/work/stanford-research-ties.md
 - Latin America: Brazil: visit to Rosenberg's group, Sao Paulo briefing for Marquez Mon 22 Oct → memory/domains/work/brazil-hydro-2001.md; Argentina moves to SDDP (Gumucio), Halliburton leaves 2 Nov → memory/domains/work/argentina-modelling.md; Raymond's Argentina/Brazil deck → memory/domains/work/country-risk-curves.md
-- Desks and meetings: Pipelines support from inside Research; Accenture e-learning text for McMichael → memory/domains/work/desk-analysis-requests.md; Phillips's Monday staff meeting from 29 Oct in ECS 03040 → memory/domains/work/internal-meetings-2001.md; MarketPoint → memory/domains/work/marketpoint-gas-model-2001.md; Geman's software purchase in 2001 → memory/domains/work/vendor-offers-2000.md
+- Desks and meetings: JCC go-ahead, small deals first, prices by week's end (22 Oct) → memory/domains/work/jcc-brent-hedge.md; Accenture assignment 1, Asian GDP for the Coal desk → memory/domains/work/desk-analysis-requests.md; PSIM presentation Tue 30 Oct → memory/domains/work/genco-plant-model-2001.md; Consumption Risk meeting 24 Oct, Phillips's Monday staff meeting from 29 Oct → memory/domains/work/internal-meetings-2001.md
 
 ## Files
 

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-10-21
+updated: 2001-10-24
 ---
 # Organization — index
 
@@ -10,10 +10,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 ## Hot
 
 - Budget: 2002 allocations sent; Fellers wants the variances explained (headcount +14, travel +38%, 100% allocated) → memory/domains/organization/research-accounting-2000.md
-- Candidates: owner hires only on attrition, no expansion in his budget (19 Oct); Rajamony, Yvan Go, Ted Barlow, Srini Ramaswamy (interviewed 19 Oct), Sam Zhou → memory/domains/organization/recruiting-candidates.md; Focus Capital, TAGE → memory/domains/organization/outside-recruiters-2001.md
-- Company: HR reports to the Office of the Chairman (Oxley, Olson, Joyce; 15 Oct); quarterly MD meeting Mon 22 Oct, all-employee meeting Tue 23 Oct; old e-mail formats end 14 Jan 2002 → memory/domains/organization/corporate-announcements-2001.md
-- Staff: Werner's cross-over to mid-December, owner recommends Halliburton for Sydney; Raymond wants an Analyst before Leann Walton's leave; Shane Green to Gas Structuring by 1 Nov → memory/domains/organization/staff-and-recruiting.md; Shanbhogue off 19-21 Nov and late Dec → memory/domains/organization/leave-and-training.md; Labbe's EA pay comparables → memory/domains/organization/hr-matters-2001.md
-- Group: Enron Center South tour Tue 6 Nov → memory/domains/organization/research-group-2001.md; Thursday lunches, absences to DuPont by Tue → memory/domains/organization/research-group.md; London: Leppard says Research there may be dismantled for desk quants (17 Oct) → memory/domains/organization/london-research.md; RATS 5.0 upgrade → memory/domains/organization/software-licenses.md
+- Candidates: owner hires only on attrition, no expansion in his budget (19 Oct); Claude Philoche for Andy Zipper (Lavorato keen, Philoche wants Houston); Kholodnyi wants to talk; Calabrese's first rotation accepted; Sam Cho via Brad Brooks → memory/domains/organization/recruiting-candidates.md; Focus Capital, TAGE → memory/domains/organization/outside-recruiters-2001.md
+- Company: SEC asks about related-party (LJM) deals, all-employee meeting 23 Oct (22 Oct); Jeff McMahon CFO, Fastow on leave (24 Oct); old e-mail formats end 14 Jan 2002 → memory/domains/organization/corporate-announcements-2001.md
+- Staff: Werner leaves Sydney 14 Dec, Houston start is Roberts's call; a Research manager on loan to Jeff Andrews's EGM fundamentals, name owed (23 Oct); Shane Green to Gas Structuring by 1 Nov → memory/domains/organization/staff-and-recruiting.md; Koepke's French lessons continue → memory/domains/organization/leave-and-training.md; Labbe's EA pay comparables → memory/domains/organization/hr-matters-2001.md
+- Group: Enron Center South tour Tue 6 Nov → memory/domains/organization/research-group-2001.md; Thursday lunches, absences to DuPont by Tue → memory/domains/organization/research-group.md; owner's aircard, Rand Journal ask → memory/domains/organization/office-equipment.md; London: Leppard says Research there may be dismantled for desk quants (17 Oct) → memory/domains/organization/london-research.md
 
 ## Files
 

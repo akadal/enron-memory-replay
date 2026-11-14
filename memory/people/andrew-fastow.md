@@ -5,7 +5,7 @@ entity: person
 name: "Andrew Fastow"
 aliases: ["Andy Fastow"]
 domains: [industry, organization]
-updated: 2000-04-21
+updated: 2001-10-24
 ---
 # Andrew Fastow
 
@@ -18,3 +18,4 @@ Enron executive; one of the Darden case interviewees. ←[[m01151]] ←[[m01364]
 ## Context: organization
 
 - [2000-01-21] Got Cameron Payne's resume from Robert C Williams → memory/domains/organization/candidate-referrals-2000.md ←[[m00418]]
+- [2001-10-24] Enron CFO until 24 Oct 2001, then on a leave of absence; McMahon replaces him → memory/domains/organization/corporate-announcements-2001.md ←[[m09548]]
