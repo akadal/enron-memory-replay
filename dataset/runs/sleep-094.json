@@ -1,0 +1,202 @@
+{
+ "slice": 94,
+ "simulated_today": "2001-08-19",
+ "feed": {
+  "slice": 94,
+  "iso_week": "2001-W33",
+  "first_seq": 8909,
+  "last_seq": 8988,
+  "messages": 80,
+  "durable": 73,
+  "first_date": "2001-08-13 04:51",
+  "last_date": "2001-08-19 21:33",
+  "today": "2001-08-19",
+  "inbox_files": [
+   "2001-08-13--mail.md",
+   "2001-08-14--mail.md",
+   "2001-08-15--mail.md",
+   "2001-08-16--mail.md",
+   "2001-08-17--mail.md",
+   "2001-08-19--mail.md"
+  ],
+  "inbox_chars": 61359,
+  "l2_chars": 193073
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 704,
+ "quota_before": {
+  "five_hour": 33.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 37.0,
+  "seven_day": 54.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 94,
+  "messages": 80,
+  "durable": 73,
+  "kept": 72,
+  "kept_rate_excluding_redundant": 0.986,
+  "drop_classes": {
+   "social": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3483,
+  "fact_lines_with_source": 2198,
+  "dated": 2198,
+  "date_matches_source": 2146,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.83,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 627
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1676
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 219,
+   "chars": 386544
+  },
+  "people": {
+   "files": 701,
+   "chars": 452357
+  },
+  "archive_inbox": {
+   "files": 585,
+   "chars": 5323458
+  },
+  "archive_mail": {
+   "files": 9014,
+   "chars": 23016893
+  },
+  "archive_other": {
+   "files": 1750,
+   "chars": 1402452
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 55,
+   "duration_ms": 702715,
+   "duration_api_ms": 599323,
+   "total_cost_usd": 4.047283200000001,
+   "usage": {
+    "input_tokens": 104,
+    "cache_creation_input_tokens": 174007,
+    "cache_read_input_tokens": 6542229,
+    "output_tokens": 67305,
+    "output_tokens_details": {
+     "thinking_tokens": 22719
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 174007,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 968,
+      "cache_read_input_tokens": 191793,
+      "cache_creation_input_tokens": 1153,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 1153
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002654,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 104,
+     "outputTokens": 67305,
+     "cacheReadInputTokens": 6542229,
+     "cacheCreationInputTokens": 174007,
+     "webSearchRequests": 0,
+     "costUSD": 4.047017800000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22719,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 174007,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 54,
+   "result_summary": "The 2001-08-19 consolidation ran end to end and is committed as one commit on `main`. I did not push, since the preamble says the runner pushes after its own checks. Both gates passed on the first run: `lint.py` with no errors and the same 190 budget warnings as before, and `sleep-audit.py` with 70 files checked and no findings. 72 of this week's 73 messages with notes are cited in L1. The other one, m08943 (the announcement of Krishna's new baby), is listed in `dataset/drops/sleep-094.tsv` as social. Most of the week went into existing topics:\n- **Prediction Company:** Skilling's resignation pushed the Santa Fe and Stanford trip with Whalley to early in the week of 3 Sep, with no firm date yet. The owner had a call with Jim Nusbaum about the agenda and the non-disclosure agreement on 17 Aug.\n- **Credit and VaR:** Duffie reviewed the reliability-based VaR document and asked for a step-by-step \"cookbook\"; the owner said Enron's internal risk models rate the company roughly BB.\n- **Other topics:** the United Way push to 100%, Wiley's interest in a book like \"Managing Energy Price Risk\", invitations from Georgia Tech and a conference in Spain, Labbe's revised contracts and Ganjoo's reversed promotion, the California Direct Access briefing, the Wharton e-business programme, and Toshiba approaching through Enron's Tokyo office.\n\nI opened one new topic, `work/brazil-hydro-2001`, for the Brazil hydro shortage and measuring reservoir levels. Six people reached their fifth message this week and now have entity files: Brian Mihura, Jim Nusbaum, Remi Collonges, Mark Brady, Marge Nadasky and Mark Taylor. The alias \"Remy Collonge\" needs approval, so it went to `questions.md` instead of being applied. Two alias questions (\"Les\" and \"John Martin\") passed their due date of 14 Aug unanswered. I closed them as unanswered: both names stay unlinked, with a note marked `(?)`. Topics already over their size target moved their oldest lines word for word to `memory/archive/<domain>/2001/*-"
+  },
+  "repair": null
+ }
+}
