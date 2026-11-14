@@ -3,9 +3,9 @@ id: office-equipment
 type: topic
 domain: organization
 title: "Research Group office equipment and IT, 19th floor"
-summary: "Group equipment and access: 32nd-floor seats, owner EB3240D; Avistar for EB3240D; Weather Group fax replaced (Nov 2000); journal renewals, colour printer, copier and office swaps archived."
+summary: "Group equipment and access: 32nd-floor seats, owner EB3240D; Avistar for EB3240D; Weather Group fax replaced; Journal of Finance and JFQA renewed (Nov 2000); colour printer, copier and office swaps archived."
 status: active
-updated: 2000-11-12
+updated: 2000-11-19
 ---
 # Research Group office equipment and IT, 19th floor
 
@@ -16,3 +16,4 @@ Kevin Moore (x34710) orders through Lyn Malina; Shirley Crenshaw files requests 
 - [2000-07-14] 32nd floor (Kevin Moore): owner EB3240D; Roberts A, Marquez B, Moore C, Tlapek E, William Smith F, Chilkina G; Charlie Weldon EB3239E; open EB3239F, EB3274A, EB3273A. ←[[m02398]]
 - [2000-10-24] Avistar system for the owner's EB3240D (Kevin Moore): not before next Monday, may need cable to his desk (site visit), Stella Ely bills. ←[[m03773]]
 - [2000-11-06] Iain Russell replaces the Weather Group's old fax with new models at half the rent: "Good thinking. Thanks a lot." ←[[m04042]]
+- [2000-11-14] Journal of Finance and JFQA renewals (Susan L Kennedy via Crenshaw): "Yes." ←[[m04235]]

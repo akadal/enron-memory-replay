@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-11-12
+updated: 2000-11-19
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- EnronCredit.com VaR: owner will not sign off without reviewing the vendor algorithms (Board in Dec) → memory/domains/work/enroncredit-support-2000.md; DRAM trading authority awaits his concurrence → memory/domains/work/dram-trading-authority-2000.md
-- Ethylene margin collar: BP bid just under $5 MM → memory/domains/work/margin-collar-bid-nov-2000.md; NGI-SOCAL fat tails → memory/domains/work/var-backtesting-2000.md
-- Baylor Mon 13 Nov (seminar, Ex MBA talk); Martin interviews Fastow, Skilling, Lay Mon 4 Dec → memory/domains/work/enron-transformation-paper.md
-- CMU: Comp. Fin. interviews and E-commerce satellite (Eisel, Bryant) → memory/domains/work/cmu-mscf-visit-nov-2000.md; Nesbitt met 7 Nov, WeatherDelta to be reset, Pro Opticus → memory/domains/work/vendor-reviews-nov-2000.md
-- UT conference keynote: Louise Kitchen not yet answered → memory/domains/work/ut-austin-ties-2000.md; Sutton Bridge case, Mannheim curves released → memory/domains/work/outside-requests.md
+- EnronCredit.com VaR: owner will not sign off without reviewing the vendor algorithms → memory/domains/work/enroncredit-support-2000.md; DRAM trading authority awaits his concurrence → memory/domains/work/dram-trading-authority-2000.md
+- VaR: separate the price process from position changes; Gorny's priorities, IR and FX VaR first; ff vols by power-law fits → memory/domains/work/var-backtesting-2000.md
+- Martin's 'thought document' to edit, draft by Christmas; Fastow, Skilling, Lay Mon 4 Dec → memory/domains/work/enron-transformation-paper.md
+- MarketPoint gas model offered at $55,000 a year, DerivaPrice.com, Pathstar → memory/domains/work/vendor-reviews-nov-2000.md; Mike Barry's basis strips (Issler) → memory/domains/work/desk-analysis-requests.md
+- UT conference: Whalley declined, Louise Kitchen still open → memory/domains/work/ut-austin-ties-2000.md; newsletter 20 Nov features Sharad, owner writes a reserve article → memory/domains/work/research-presentations.md
 
 ## Files
 
