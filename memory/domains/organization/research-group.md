@@ -5,17 +5,16 @@ domain: organization
 title: "The owner's Research Group"
 summary: "Titles (Nov 2000: Tamarchenko, Lu Directors); Thursday staff meeting 11:30, 19th floor (owner EB1962); Project Tracking database access (30 Nov); Lu's re-org idea (1 Dec); Research Directory of 14 Dec (London, EES members; owner's listed cell is private); HR Rep Norma Villarreal; older lists archived."
 status: active
-updated: 2000-12-22
+updated: 2000-12-31
 ---
 # The owner's Research Group
 
-Detail ←[[research-group-2000-04-w16]] … (one archive file per week) ←[[research-group-2000-12-w48]] ←[[research-group-2000-12-w51]]
+Detail ←[[research-group-2000-04-w16]] … (one archive file per week) ←[[research-group-2000-12-w48]] ←[[research-group-2000-12-w51]] ←[[research-group-2000-12-w52]]
 
 Equipment: memory/domains/organization/office-equipment.md.
 
 ## Members and offices
 - [2000-11-27] Titles (Crenshaw): owner Managing Director and Head of Research; Gibner, Shanbhogue VPs; Tamarchenko, Lu Directors; Cunningham, Huang Managers; Crenshaw Administrative Coordinator (713-853-5290). ←[[m04423]] ←[[m04431]] ←[[m04473]]
-- [2000-12-14] Crenshaw's Research Directory (London: Leppard, Hewitt, Matthew Williams, Sharad; also Sofya Tamarchenko, Cunningham, Walton, Kate Lucas, Neale, Rabi De, Parkhill; Zadorozhny, Kiatsupaibul, Sezgen at EES addresses); owner: "The cell phone listed is my private phone, not the office cell number." ←[[m04849]] ←[[m04850]]
 
 ## Admin
 
@@ -27,3 +26,4 @@ Equipment: memory/domains/organization/office-equipment.md.
 
 Wider list (to 8 Sep 2000) and the 1999-2000 member list ←[[research-group-2000-09-w37]]
 - [2000-12-21] Clayton Vernon tells the owner he is not alone in objecting to Maureen's disrespect toward the owner (she berated him in public) and reports an unwelcome advance by her after a group function last April, unreported then; he remains willing to help the group. ←[[m04993]]
+- [2000-12-29] Owner asks Sheila Walton's advice on Vernon's complaint: "some action is required"; ignoring it risks "charges of double standard"; he recommends Maureen attend sensitivity training and a sexual harassment prevention class. ←[[m05070]]

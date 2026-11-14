@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2000-12-22
+updated: 2000-12-31
 ---
 # Organization — index
 
@@ -12,8 +12,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - Accomplishments sent to Delainey, weekly project list to follow → memory/domains/organization/year-end-prc-2000.md
 - Iris Mack 28 Dec or January, Qian, Hamilton → memory/domains/organization/candidate-interviews-jan-2001.md
 - Corp queries the $1.9MM 2001 RAC charge → memory/domains/organization/research-accounting-2000.md
-- RAC: Ted Murphy to London, Port runs Houston Market Risk → memory/domains/organization/corporate-announcements-2000.md
-- Bharati, Wichai (8 Jan), Kristal (2 Jan) → memory/domains/organization/staff-and-recruiting.md
+- RAC: Ted Murphy to London, Port runs Houston Market Risk; CORESTAFF temps from 2 Jan → memory/domains/organization/corporate-announcements-2000.md
+- Bharati, Wichai (8 Jan), Kristal (2 Jan) → memory/domains/organization/staff-and-recruiting.md; Vernon's complaint to Walton → memory/domains/organization/research-group.md
 
 ## Files
 

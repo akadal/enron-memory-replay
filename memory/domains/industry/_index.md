@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-12-22
+updated: 2000-12-31
 ---
 # Industry — index
 
@@ -9,9 +9,9 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Wharton Tiger Team in Houston 18-19 Jan → memory/domains/industry/wharton-tiger-trip-jan-2001.md; Kunreuther's proposal → memory/domains/industry/wharton-visit-oct-2000.md
+- Wharton Tiger Team in Houston 18-19 Jan, Retail team wants EES material → memory/domains/industry/wharton-tiger-trip-jan-2001.md; Kunreuther's proposal → memory/domains/industry/wharton-visit-oct-2000.md
 - GARP 2001 slides by 5 Jan; GARP at Enron 30 Jan → memory/domains/industry/garp-2001.md; EPRM 2001 talk 14 May → memory/domains/industry/eprm-risk.md
-- Carmona 13 Feb, Oren (PSERC), Kholodnyi, Sheble → memory/domains/industry/visitors-2001.md; Henwood ERCOT 23 Jan → memory/domains/industry/events-attending-2000.md
+- Carmona 13 Feb, Oren (PSERC), Kholodnyi, Sheble in Q1 → memory/domains/industry/visitors-2001.md; Henwood ERCOT 23 Jan → memory/domains/industry/events-attending-2000.md
 - Baylor think tank and dinner 23 Feb → memory/domains/industry/speaking-engagements-2000.md
 - California class action, NBER market-power paper → memory/domains/industry/california-power-2000.md
 
@@ -38,4 +38,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
-- memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001
+- memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project

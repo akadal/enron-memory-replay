@@ -5,7 +5,7 @@ entity: person
 name: "Chonawee Supatgiat"
 aliases: []
 domains: [organization, work]
-updated: 2000-02-27
+updated: 2000-12-31
 ---
 # Chonawee Supatgiat
 
@@ -20,3 +20,4 @@ Research Group Manager from 8 Feb 2000 (EB 1942), mainly EBS support, reporting 
 ## Context: work
 
 - [2000-02-23] On next-generation EBS algorithms → memory/domains/work/broadband-services.md ←[[m00746]]
+- [2000-12-28] Combinatorial bandwidth auction proposal → memory/domains/work/bandwidth-combinatorial-auction.md ←[[m05060]]

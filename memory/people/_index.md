@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-12-22
+updated: 2000-12-31
 ---
 # People — index
 
@@ -149,6 +149,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Gordon Sick
 - Grant Masson
 - Greg Whalley
+- Greg Woulfe
 - Gwyn Koepke
 - Habiba Bayi
 - Harry Arora
@@ -255,6 +256,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lucy Ortiz
 - Ludmila Kaminski (Ludmila)
 - Lyn Malina
+- Maheshram Vittal (Ram Vittal)
 - Manuel Rensink
 - Marc De La Roche
 - Margaret Carson
@@ -285,6 +287,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Sergeev
 - Michael Tomczyk
 - Mike McConnell
+- Mike Rosen
 - Mike Roberts (Mike A Roberts)
 - Ming Sit
 - Molly Magee
