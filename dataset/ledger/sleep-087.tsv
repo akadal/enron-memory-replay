@@ -1,0 +1,76 @@
+id	durable	status	detail
+m08587	yes	kept	domains/personal/correspondence.md
+m08588	yes	kept	domains/personal/correspondence.md
+m08589	yes	kept	domains/industry/speaking-engagements-2000.md
+m08590	yes	kept	domains/organization/recruiting-candidates.md
+m08591	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08592	yes	kept	domains/work/transmission-modelling-2001.md
+m08593	yes	kept	domains/personal/poland-trip-jul-2001.md domains/work/vendor-offers-2001.md
+m08594	yes	kept	domains/industry/weather-insurance-markets.md
+m08595	yes	kept	domains/work/internal-meetings-2001.md
+m08596	yes	kept	domains/organization/recruiting-candidates.md
+m08597	yes	kept	domains/work/outside-requests-2001.md
+m08598	no	not_durable	bulk
+m08599	yes	kept	domains/organization/research-group-2001.md people/chris-calger.md
+m08600	no	not_durable	logistics
+m08601	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m08602	yes	kept	domains/work/transmission-modelling-2001.md
+m08603	yes	kept	domains/organization/recruiting-candidates.md
+m08604	yes	kept	domains/organization/recruiting-candidates.md
+m08605	yes	kept	domains/organization/research-group-2001.md
+m08606	yes	kept	domains/organization/recruiting-candidates.md
+m08607	yes	kept	domains/organization/recruiting-candidates.md
+m08608	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08609	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08610	yes	kept	domains/work/country-risk-curves.md
+m08611	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08612	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08613	yes	kept	domains/work/country-risk-curves.md
+m08614	yes	kept	domains/organization/summer-interns-2001.md people/eric-cope.md
+m08615	yes	kept	domains/work/vendor-offers-2000.md
+m08616	no	not_durable	bulk
+m08617	yes	kept	domains/industry/eprm-risk.md
+m08618	yes	kept	domains/industry/eprm-risk.md
+m08619	yes	kept	domains/industry/eprm-risk.md
+m08620	yes	kept	domains/industry/eprm-risk.md
+m08621	yes	kept	domains/organization/recruiting-candidates.md
+m08622	yes	kept	domains/work/p-plus-spread-options-2001.md
+m08623	no	not_durable	quote_only
+m08624	yes	kept	domains/organization/office-equipment.md
+m08625	yes	kept	domains/industry/eprm-risk.md
+m08626	yes	kept	domains/work/vendor-offers-2001.md
+m08627	yes	kept	domains/organization/research-group-2001.md
+m08628	yes	kept	domains/work/credit-markets.md
+m08629	yes	kept	domains/industry/eprm-risk.md
+m08630	yes	kept	domains/personal/household.md
+m08631	yes	kept	domains/personal/household.md
+m08632	yes	kept	domains/industry/events-attending-2001.md
+m08633	yes	kept	domains/industry/eprm-risk.md
+m08634	yes	kept	domains/organization/corporate-announcements-2001.md
+m08635	yes	kept	domains/industry/eprm-risk.md
+m08636	yes	kept	domains/organization/corporate-announcements-2001.md
+m08637	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08638	yes	kept	domains/organization/summer-interns-2001.md
+m08639	yes	kept	domains/organization/hr-matters-2001.md domains/work/dabhol-power-sale.md
+m08640	yes	kept	domains/work/transmission-modelling-2001.md
+m08641	yes	kept	domains/work/var-credit-system-2001.md
+m08642	yes	kept	domains/personal/poland-trip-jul-2001.md domains/work/internal-meetings-2001.md
+m08643	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08644	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08645	yes	kept	domains/work/credit-markets.md
+m08646	no	not_durable	logistics
+m08647	no	not_durable	logistics
+m08648	no	not_durable	logistics
+m08649	no	not_durable	logistics
+m08650	no	not_durable	logistics
+m08651	no	not_durable	logistics
+m08652	yes	kept	domains/organization/leave-and-training.md
+m08653	yes	kept	domains/work/country-risk-curves.md people/pushkar-shahi.md people/william-stuart-iii.md
+m08654	yes	kept	domains/personal/investments-2000.md
+m08655	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08656	no	not_durable	other
+m08657	yes	kept	domains/industry/eprm-risk.md
+m08658	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m08659	yes	dropped	other: self-sent reference link for Pfandbrief information, no context
+m08660	yes	kept	domains/work/credit-markets.md
+m08661	no	not_durable	other

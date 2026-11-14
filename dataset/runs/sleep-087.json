@@ -1,0 +1,203 @@
+{
+ "slice": 87,
+ "simulated_today": "2001-06-29",
+ "feed": {
+  "slice": 87,
+  "iso_week": "2001-W26",
+  "first_seq": 8587,
+  "last_seq": 8661,
+  "messages": 75,
+  "durable": 63,
+  "first_date": "2001-06-25 07:25",
+  "last_date": "2001-06-29 10:50",
+  "today": "2001-06-29",
+  "inbox_files": [
+   "2001-06-25--mail.md",
+   "2001-06-26--mail.md",
+   "2001-06-27--mail.md",
+   "2001-06-28--mail.md",
+   "2001-06-29--mail.md"
+  ],
+  "inbox_chars": 51253,
+  "l2_chars": 184477
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 784,
+ "quota_before": {
+  "five_hour": 14.0,
+  "seven_day": 52.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 18.0,
+  "seven_day": 52.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 87,
+  "messages": 75,
+  "durable": 63,
+  "kept": 62,
+  "kept_rate_excluding_redundant": 0.984,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3427,
+  "fact_lines_with_source": 2137,
+  "dated": 2137,
+  "date_matches_source": 2085,
+  "date_mismatch_ids_this_slice": [
+   "m08628"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 701
+  },
+  "questions": {
+   "files": 1,
+   "chars": 761
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 214,
+   "chars": 385637
+  },
+  "people": {
+   "files": 683,
+   "chars": 438050
+  },
+  "archive_inbox": {
+   "files": 545,
+   "chars": 5061977
+  },
+  "archive_mail": {
+   "files": 8687,
+   "chars": 22078781
+  },
+  "archive_other": {
+   "files": 1635,
+   "chars": 1320466
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 782519,
+   "duration_api_ms": 614101,
+   "total_cost_usd": 4.3913478999999995,
+   "usage": {
+    "input_tokens": 120,
+    "cache_creation_input_tokens": 185415,
+    "cache_read_input_tokens": 7637615,
+    "output_tokens": 68988,
+    "output_tokens_details": {
+     "thinking_tokens": 24792
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 185415,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 946,
+      "cache_read_input_tokens": 203426,
+      "cache_creation_input_tokens": 928,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 928
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002649,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 120,
+     "outputTokens": 68988,
+     "cacheReadInputTokens": 7637615,
+     "cacheCreationInputTokens": 185415,
+     "webSearchRequests": 0,
+     "costUSD": 4.391083,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24792,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 185415,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "The week of 2001-06-29 (W26) is consolidated and committed as `655d7399`. Both gates passed: lint was green, and the audit was green after one fix (`vendor-offers-2000` had grown 151 characters against a 150 limit, so I shortened one line). I didn't push, because the replay instructions say the runner pushes after its own checks.\n\n**Sorting.** Of the 75 messages, 63 had notes. 62 are cited in existing topics and one is dropped: m08659, a link to Pfandbrief information the owner emailed himself, listed in `dataset/drops/sleep-087.tsv`. I checked that every message with notes is either cited or dropped, and that nothing cites a message from after this week. No new topic was needed. The main items were:\n- the owner's London week: the Risk course with Stig Faltinsen as his guest, the CreditDesk.com operation, and a dinner with Musiela and Karasinski;\n- his vacation on 5, 6 and 9 Jul;\n- the SMS conference: he will pay for the trip but not the fee;\n- the June country curves;\n- the Transmission Round Table project and the 90% estimate that the Dabhol PPA is terminated;\n- the stalled software contract with Geman.\n\n**People.** Four people reached five messages with notes and now have entity files: Chris Calger, Eric Cope, Pushkar Shahi and William Stuart III.\n\n**Krapels question.** \"Edward Krapels\" appears in 21 messages with notes but is not linked to the existing `ed-krapels` file. Adding that alias needs approval, so I re-proposed it in `questions.md`, due 2001-07-13, with new evidence: m08602 is signed by him as Director of ESAI Power and Gas Services. A post-run check that counts people by name may still flag him until someone approves it.\n\n**Compression.** No file was above 90% of its ceiling at the start, so the compression quota had no candidates. I still cut the two closest files, `credit-markets` and `speaking-engagements-2000`, by about 350 characters each. Every touched topic moved its oldest lines word for word to `archive/*/2001/*-2001-06-29.md`.\n\n**Housekeepin"
+  },
+  "repair": null
+ }
+}
