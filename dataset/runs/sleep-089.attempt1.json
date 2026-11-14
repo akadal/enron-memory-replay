@@ -1,0 +1,217 @@
+{
+ "slice": 89,
+ "simulated_today": "2001-07-15",
+ "feed": {
+  "slice": 89,
+  "iso_week": "2001-W28",
+  "first_seq": 8682,
+  "last_seq": 8701,
+  "messages": 20,
+  "durable": 17,
+  "first_date": "2001-07-10 09:54",
+  "last_date": "2001-07-15 22:08",
+  "today": "2001-07-15",
+  "inbox_files": [
+   "2001-07-10--mail.md",
+   "2001-07-11--mail.md",
+   "2001-07-12--mail.md",
+   "2001-07-13--mail.md",
+   "2001-07-15--mail.md"
+  ],
+  "inbox_chars": 13143,
+  "l2_chars": 67185
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 411,
+ "quota_before": {
+  "five_hour": 20.0,
+  "seven_day": 52.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 22.0,
+  "seven_day": 52.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "none"
+ },
+ "commits_by_run": 0,
+ "dirty_files_after": 0,
+ "inbox_files_left": 5,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 89,
+  "messages": 20,
+  "durable": 17,
+  "kept": 0,
+  "kept_rate_excluding_redundant": 0.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 17,
+  "missing_ids": [
+   "m08682",
+   "m08683",
+   "m08685",
+   "m08686",
+   "m08688",
+   "m08689",
+   "m08690",
+   "m08691",
+   "m08692",
+   "m08693",
+   "m08694",
+   "m08696",
+   "m08697",
+   "m08698",
+   "m08699",
+   "m08700",
+   "m08701"
+  ],
+  "future_citations": [],
+  "cited_ids_total": 3414,
+  "fact_lines_with_source": 2135,
+  "dated": 2135,
+  "date_matches_source": 2083,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0,
+   0.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 785
+  },
+  "questions": {
+   "files": 1,
+   "chars": 761
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 214,
+   "chars": 383035
+  },
+  "people": {
+   "files": 684,
+   "chars": 438769
+  },
+  "archive_inbox": {
+   "files": 548,
+   "chars": 5077936
+  },
+  "archive_mail": {
+   "files": 8727,
+   "chars": 22196109
+  },
+  "archive_other": {
+   "files": 1648,
+   "chars": 1333416
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 38,
+   "duration_ms": 409066,
+   "duration_api_ms": 310717,
+   "total_cost_usd": 1.9892206000000001,
+   "usage": {
+    "input_tokens": 70,
+    "cache_creation_input_tokens": 100660,
+    "cache_read_input_tokens": 2787581,
+    "output_tokens": 31294,
+    "output_tokens_details": {
+     "thinking_tokens": 12481
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 100660,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 614,
+      "cache_read_input_tokens": 118694,
+      "cache_creation_input_tokens": 905,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 905
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 24,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026440000000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 70,
+     "outputTokens": 31294,
+     "cacheReadInputTokens": 2787581,
+     "cacheCreationInputTokens": 100660,
+     "webSearchRequests": 0,
+     "costUSD": 1.9889561999999998,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12481,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 100660,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 37,
+   "result_summary": "I aborted the consolidation run and committed nothing. The audit was still red after the one repair attempt the run contract allows, so I ran `git reset --hard pre-sleep`. I also deleted the new files this run had created (archive files, run log, drops file), since a reset doesn't remove untracked files. The tree now matches pre-sleep, with only the runner's `sleep-089.transcript.jsonl` untracked, as it was at the start. The week's six inbox logs (W28 mail plus the 2001-07-03 run log) are back in `memory/inbox/`, unprocessed, for the next run.\n\nThe pass itself was finished: all 17 noted messages were filed into existing topics with no drops, no new entity files were due, and lint was green. The first audit flagged five files that had grown more than the 150-character tolerance while already over target. After the repair, two were still over: `work/lacima-book-2000.md` (+165, from Les's EPRM article 12 and the 23 Jul meeting) and `people/ed-krapels.md` (+213, from the \"Continental Divide\" piece and the alias-close note).\n\nThings the next run should reuse:\n- **Compression:** move oldest lines to the archive *before* adding the week's lines, and keep the new Lacima and Krapels lines short.\n- **People:** \"John Martin\" (Baylor) and \"Les\" (Lacima) don't exactly match any name in the people table, so they stay as unlinked text.\n- **Open question:** the Krapels alias question was due 2001-07-13, so it needs a status-quo close; m08685 is new evidence (signed \"Edward N. Krapels, Director of ESAI Power and Gas Services\") if it gets reopened."
+  },
+  "repair": null
+ }
+}
