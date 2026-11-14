@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2000-11-05
+updated: 2000-11-12
 ---
 # Industry — index
 
@@ -9,16 +9,17 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- INFORMS San Antonio: Mon 6 Nov afternoon (Deng) → memory/domains/industry/informs-san-antonio-2000.md; California caps and FERC remedies → memory/domains/industry/california-power-2000.md
-- Ordonez Wed 8 Nov, Diebold Thu 14 Dec → memory/domains/industry/visitors-2000.md; AA symposium 28 Nov → memory/domains/industry/events-attending-2000.md
-- Wharton: Shankman 8 Dec, Whalley 13 Dec, WeBI $250K/4 yrs → memory/domains/industry/wharton-visit-oct-2000.md; Rice ALP deadline 1 Dec, Bollerslev 8 Dec → memory/domains/industry/rice-university.md
-- Hurricane warning derivatives (Weldon) → memory/domains/industry/weather-insurance-markets.md; EPRM 2001 (Bristow) → memory/domains/industry/eprm-risk.md
+- Wharton: WeBI Corporate Partner agreed; Tiger Team kick-off and Kleindorfer Wed 6 Dec; Shankman 8 Dec → memory/domains/industry/wharton-visit-oct-2000.md
+- Diebold Thu 21 Dec, with a weather talk → memory/domains/industry/visitors-2000.md; AA symposium 28 Nov → memory/domains/industry/events-attending-2000.md
+- Rice ALP proposals due 1 Dec, Bollerslev 8 Dec → memory/domains/industry/rice-university.md
+- Passed on: Power Crisis in the West (Belden), PSERC (Cunningham); declined Risk stress-testing course → memory/domains/industry/declined-invitations-2000.md
+- California caps and FERC remedies → memory/domains/industry/california-power-2000.md; hurricane warning derivatives → memory/domains/industry/weather-insurance-markets.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis: CAISO price caps (26 Oct), FERC report and remedies (1 Nov 2000)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland: trainees (Dalecka), events, EuroLDS 2000; owner was in AIESEC Poland in the 1970s
-- memory/domains/industry/declined-invitations-2000.md — declined or passed invitations (Infocast, Alpbach)
+- memory/domains/industry/declined-invitations-2000.md — declined or passed invitations (Infocast, PSERC, Risk Waters)
 - memory/domains/industry/el-paso-capacity.md — El Paso firm capacity won by ENA (Dec 1999), deal terminated 31 Jan 2000
 - memory/domains/industry/eprm-risk.md — RISK's EPRM events, EPRM 2001 (Bristow), Hanley to the magazine
 - memory/domains/industry/esai-energycast-review.md — ESAI/WSI Energycast review with Ed Krapels: meeting 12 Jul, trial 31 Jul-3 Aug, EOL access
@@ -32,6 +33,6 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/rice-university.md — Rice: finance seminars (Bollerslev 8 Dec), Action Learning Project
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: GARP 2001 (chair, Feb 2001), PoweRisk Paris (Oct), EPRM ERM (Nov), EFA panel (Apr 2001)
 - memory/domains/industry/uh-econophysics.md — UH 'Econo-Physics' programme with Enron (Tzamouranis, McCauley, Pinsky), May 2000
-- memory/domains/industry/visitors-2000.md — visitors: Ordonez 8 Nov, Diebold 14 Dec
+- memory/domains/industry/visitors-2000.md — visitors: Ordonez 8 Nov, Diebold 21 Dec
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
-- memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, sponsorships, journalists' seminar, WeBI
+- memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, WeBI partner, Tiger Team kick-off 6 Dec, Kleindorfer

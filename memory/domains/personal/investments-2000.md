@@ -3,9 +3,9 @@ id: investments-2000
 type: topic
 domain: personal
 title: "Owner's investment account and Enron equity (2000)"
-summary: "Owner's Merrill Lynch account (David Walkup): option exercise 12 Aug to discuss; restricted stock deferral reminder (Jun 2000); PaineWebber's Julie Haviland offers corporate and muni bonds (Jul 2000)."
+summary: "Owner's Merrill Lynch account (David Walkup): option exercise 12 Aug; year-end exercise 'Possibly.' (Nov 2000); restricted stock deferral reminder (Jun 2000); PaineWebber's Julie Haviland offers bonds (Jul 2000)."
 status: active
-updated: 2000-09-03
+updated: 2000-11-12
 ---
 # Owner's investment account and Enron equity (2000)
 
@@ -15,3 +15,4 @@ Enron-wide option programme: memory/domains/organization/corporate-announcements
 - [2000-06-30] Kim Bolton (Executive Compensation): reminder to elect deferral of restricted stock released in 2001 into the Enron Corp. 1994 Deferral Plan; form to EB1614 or fax 713-646-4858. ←[[m02217]]
 - [2000-07-05] Julie Haviland (PaineWebber, his bond broker) sends a list of corporate and muni bonds that "look pretty good"; she passed on the ones discussed earlier (call date in August). ←[[m00556]] ←[[m01560]] ←[[m02240]]
 - [2000-08-28] Note to self: Lisa Marcelli, Bank One Securities (P.O. Box 2629, Houston 77252; 713 751 3967; "yaneth" 713 751 3901), with "$37.4" unexplained. ←[[m03037]]
+- [2000-11-09] Walkup wants to review the portfolio; still exercising the options by year-end? "Possibly." ←[[m04136]]

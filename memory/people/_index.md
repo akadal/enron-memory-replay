@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2000-11-05
+updated: 2000-11-12
 ---
 # People — index
 
@@ -84,6 +84,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dave Delainey
 - David Berberian
 - David Cox
+- David Davies
 - David Dupre
 - David Gorte (Dave Gorte)
 - David Oxley
@@ -146,6 +147,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jason Sokolov
 - Jay Webb
 - Jean Mrha
+- Jeff McMahon
 - Jeff Shankman (Jeffrey A Shankman)
 - Jeff Skilling
 - Jeffrey Shorter
@@ -228,6 +230,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Marie Hejka
 - Mark Frevert
 - Mark Giancola
+- Mark Haedicke
 - Mark Koenig
 - Mark Lay
 - Mark Palmer (Mark S Palmer)
@@ -340,12 +343,14 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Steven Shreve
 - Stinson Gibner
 - Tani Nath
+- Tanya Rohauer
 - Tanya Tamarchenko
 - Tara Rozen
 - Ted Bland
 - Ted Murphy
 - Teresa Bien
 - Thomas Knudsen
+- Tim Belden
 - Tim Davies (Timothy Davies)
 - Tim Luehrman
 - Tom Arnold
