@@ -1,0 +1,200 @@
+{
+ "slice": 84,
+ "simulated_today": "2001-06-09",
+ "feed": {
+  "slice": 84,
+  "iso_week": "2001-W23",
+  "first_seq": 8373,
+  "last_seq": 8533,
+  "messages": 161,
+  "durable": 76,
+  "first_date": "2001-06-06 06:13",
+  "last_date": "2001-06-09 06:30",
+  "today": "2001-06-09",
+  "inbox_files": [
+   "2001-06-06--mail-2.md",
+   "2001-06-07--mail.md",
+   "2001-06-08--mail.md",
+   "2001-06-09--mail.md"
+  ],
+  "inbox_chars": 67386,
+  "l2_chars": 529931
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 693,
+ "quota_before": {
+  "five_hour": 8.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 11.0,
+  "seven_day": 51.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 84,
+  "messages": 161,
+  "durable": 76,
+  "kept": 75,
+  "kept_rate_excluding_redundant": 0.987,
+  "drop_classes": {
+   "no_owner_content": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3428,
+  "fact_lines_with_source": 2131,
+  "dated": 2131,
+  "date_matches_source": 2080,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.92,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 645
+  },
+  "questions": {
+   "files": 1,
+   "chars": 525
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 213,
+   "chars": 382578
+  },
+  "people": {
+   "files": 677,
+   "chars": 433883
+  },
+  "archive_inbox": {
+   "files": 529,
+   "chars": 4970185
+  },
+  "archive_mail": {
+   "files": 8559,
+   "chars": 21735118
+  },
+  "archive_other": {
+   "files": 1590,
+   "chars": 1289675
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 49,
+   "duration_ms": 691159,
+   "duration_api_ms": 557069,
+   "total_cost_usd": 3.4992499,
+   "usage": {
+    "input_tokens": 94,
+    "cache_creation_input_tokens": 159455,
+    "cache_read_input_tokens": 5462435,
+    "output_tokens": 56524,
+    "output_tokens_details": {
+     "thinking_tokens": 25916
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 159455,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 944,
+      "cache_read_input_tokens": 177473,
+      "cache_creation_input_tokens": 921,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 921
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 29,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026690000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 94,
+     "outputTokens": 56524,
+     "cacheReadInputTokens": 5462435,
+     "cacheCreationInputTokens": 159455,
+     "webSearchRequests": 0,
+     "costUSD": 3.498983,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 25916,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 159455,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 48,
+   "result_summary": "The 2001-06-09 consolidation is committed on `main` as `a280df51`. Lint and `sleep-audit.py` both passed on the first try, and I did not push. Your instructions said both \"do not push\" and \"git push origin main\". I followed \"do not push; the runner pushes after its own checks\", because it is the more specific of the two.\n\nThe inbox held 161 messages, and 76 of them had notes. Seventy-five are now cited in existing topic files, and one (m08381, someone else's visa paperwork) is listed in `dataset/drops/sleep-084.tsv`. No new topic files were opened.\n\nThe main items filed were:\n- Gibner and Kate Lucas left on 6 Jun.\n- The owner called a Research reorganization meeting for 15 Jun.\n- Raymond disputed the owner's PRC comments on her Ken Lay briefing.\n- A Specialized Technical VP PRC is set for 18 Jul.\n- Paleologo still hasn't signed his offer.\n- Two Neptune replies came in: Presto likes the project, and Cunningham raised an undersea Canada–New England project.\n- Bob Lee's bid-ask series continues, and the intern's notes went to Whalley.\n- Parsons is recalibrating the CDS placement models, and a Convolution VAR paper came in for review.\n- The owner accepted INFOCAST in Houston on 10 Oct and was invited by IQPC to London.\n- Smaller items: the IACC gala table, the California updates and the PG&E ethical-wall form.\n\nI opened four new people files at the five-message mark: Cindy Hudler, Paul Joskow, Rita McGrath and Todd Strauss. Strauss's 1999 INFOCAST message (m00122) is filed under him as the same person, on the strength of his name and the same conference organiser.\n\nNo file was above 90% of its ceiling, so the three-file compression quota had nothing to act on. Each touched file moved its oldest lines verbatim to `archive/*/2001/*-2001-06-09.md` to stay within the growth limit. Indexes, `state.md` and the alias table are updated, and the processed logs are now in `memory/archive/inbox/`. This run's log is `memory/inbox/2001-06-09--run.md`. The five oldest ongoing lines a"
+  },
+  "repair": null
+ }
+}
