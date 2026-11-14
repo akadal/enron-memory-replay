@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-09-14
+updated: 2001-09-23
 ---
 # People — index
 
@@ -234,6 +234,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Grant Johnson
 - Grant Masson
 - Greg Hunt
+- Greg Piper
 - Greg Whalley
 - Greg Woulfe
 - Gwyn Koepke

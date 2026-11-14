@@ -5,7 +5,7 @@ entity: person
 name: "Pinnamaneni Krishnarao"
 aliases: ["Krishna Krishnarao"]
 domains: [organization, work]
-updated: 2000-02-27
+updated: 2001-09-23
 ---
 # Pinnamaneni Krishnarao
 
@@ -23,3 +23,4 @@ Research Group member at director level (EB 1964 from Jan 2000); also "Krishna K
 - [1999-12-17] "Actively Managing Credit Risk" → memory/domains/work/credit-markets.md ←[[m00052]]
 - [2000-01-27] ICF meeting, Sycamore trip → memory/domains/work/internal-meetings.md ←[[m00451]] ←[[m00458]] ←[[m00625]]
 - [2000-01-31] Cranfield student → memory/domains/work/outside-requests.md ←[[m00481]] ←[[m00700]]
+- [2001-09-23] CRAT (Contract Analysis Database): new link from him 14 Sep, http://172.30.84.36/crat ←[[m09204]]

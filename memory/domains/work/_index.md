@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-09-14
+updated: 2001-09-23
 ---
 # Work — index
 
@@ -10,12 +10,12 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - Prediction Company: Stanford (Wolak) 4 Sep, Santa Fe 5 Sep; NDA on the business talks only → memory/domains/work/prediction-company.md
-- EOL data mining: Whalley's top priority, bi-weekly updates to him, Jay Webb pledges help → memory/domains/work/eol-trading-algorithms-2001.md
+- EOL data mining: Whalley's top priority, bi-weekly updates to him; Lu's Executive Summary for the Statement of Work (18 Sep); Nelken's bid-offer study shelved (20 Sep) → memory/domains/work/eol-trading-algorithms-2001.md
 - Raptor: Issler values the Peregrine/Shortfall restrictions in Baker's discount model (6 Sep); credit capacity ($237MM) at 20 Aug; 'Notes On Raptors' → memory/domains/work/talon-raptor.md
-- Models: Duffie's audit, reliability VaR rewrite due, Enron owes him for 18 months → memory/domains/work/var-credit-system-2001.md; FEA @ENERGY v2.2 Storage → memory/domains/work/storage-model.md; Oz Deal → memory/domains/work/oz-crude-basket-2001.md
+- Models: Duffie's audit, reliability VaR rewrite due, Enron owes him for 18 months → memory/domains/work/var-credit-system-2001.md; FEA @ENERGY v2.2 Storage → memory/domains/work/storage-model.md; Huang's PSIM Semi Optimal Dispatch → memory/domains/work/genco-plant-model-2001.md; Oz Deal → memory/domains/work/oz-crude-basket-2001.md
 - Outside: Raymond's Argentina/Brazil deck, meeting with Guerriero → memory/domains/work/country-risk-curves.md; Dabhol exit via Indian FIs → memory/domains/work/dabhol-power-sale.md; EES Consumption Risk; Zimin Lu's meeting on a standard Research Model for Power Prices → memory/domains/work/internal-meetings-2001.md; Wiley reprints → memory/domains/work/owner-publications.md
 - Weather: Kimberlain's NAO/AO seminar 26 Sep, MIT/IBM collaboration "ASAP"; e-Acumen's WeatherAcumen pitch to Mike Roberts → memory/domains/work/weather-research-2001.md
-- UT Mon 10 Sep: Baldick 10:30, lunch with Ronn's faculty, class 2-5 pm → memory/domains/work/ut-austin-ties-2000.md
+- Brazil hydro: a consultant at US$200/hour before negotiation (Collonges, 17 Sep) → memory/domains/work/brazil-hydro-2001.md
 
 ## Files
 
