@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-02-23
+updated: 2001-03-04
 ---
 # Industry — index
 
@@ -9,17 +9,17 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- UT conference 22-23 Feb: Tanya probably goes in the owner's place → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Baylor dinner 23 Feb, workshop dinner at Ninfa's → memory/domains/industry/speaking-engagements-2000.md
-- Wharton Team 1: EOL vs ICE, DynegyDirect, HoustonStreet; FAP calls 1, 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md
-- Jim Elsner's hurricane talk Thu 22 Feb, Hyatt → memory/domains/industry/visitors-2001.md; Real Options UCLA 11-14 Jul; Texas Finance Festival 21 Apr → memory/domains/industry/events-attending-2000.md
-- Rice: MGMT 656 rosters (23 Feb), CV for the Jones School site; Karolyi 11-12 Mar, Jorion 18 Mar → memory/domains/industry/rice-university.md
-- EPRM VaR course: Lacima will not commit (22 Feb) → memory/domains/industry/eprm-risk.md; AIESEC SGH 30th-anniversary alumni meeting, May → memory/domains/industry/aiesec-houston.md
+- Rice: owner on the Risk Management Chair search, joins Jorion's closed job talk and dinner; MGMT 656 auditors (Kudin, Blanton, Loughridge) → memory/domains/industry/rice-university.md
+- Sponsorship asks: MIT Sloan Eastern European week; Stanford EMF real-time pricing conference, $25,000 → memory/domains/industry/sponsorship-requests-2001.md
+- UT: company day 4 Apr, UT wants the owner to teach MBA classes in the autumn → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Risk Waters financial mathematics course: Houston 21-22 Jun, London 28-29 Jun, NY 9-10 Jul → memory/domains/industry/eprm-risk.md
+- Wharton FAP calls 22, 29 Mar → memory/domains/industry/wharton-projects-feb-2001.md; Real Options UCLA 11-14 Jul → memory/domains/industry/events-attending-2000.md
 
 ## Files
 
 - memory/domains/industry/california-power-2000.md — California crisis 2000: caps, FERC, class action
 - memory/domains/industry/california-power-jan-2001.md — California briefings, Jan 2001
-- memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya likely in the owner's place)
+- memory/domains/industry/ut-energy-finance-conference-feb-2001.md — UT Energy Finance Conference, 22-23 Feb 2001 (Tanya in the owner's place; trustees' report)
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
 - memory/domains/industry/el-paso-capacity.md — El Paso capacity deal, ended 31 Jan 2000
@@ -44,3 +44,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/petronas-visit-feb-2001.md — Petronas risk management visit, 8 Feb 2001
 - memory/domains/industry/wharton-projects-feb-2001.md — Wharton FAP projects (Teams 1, 3) and the 20 Feb 2001 trip
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
+- memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)

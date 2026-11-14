@@ -5,7 +5,7 @@ entity: person
 name: "Duane Seppi"
 aliases: []
 domains: [organization, work]
-updated: 2000-09-10
+updated: 2001-03-04
 ---
 # Duane Seppi
 
@@ -18,3 +18,4 @@ Finance professor, GSIA, Carnegie Mellon; the owner has known him for many years
 ## Context: work
 
 - [2000-08-23] Lunch suggested by CMU's John Gordon; on the owner's faculty-lunch list → memory/domains/work/campus-recruiting-fall-2000.md ←[[m02970]] ←[[m03173]]
+- [2001-03-02] Asks typical swing-contract terms for his Monte Carlo research → memory/domains/work/outside-requests-2001.md ←[[m06029]]

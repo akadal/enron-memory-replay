@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-02-23
+updated: 2001-03-04
 ---
 # Work — index
 
@@ -9,12 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- EES credit reserve simulation: pricing discrepancy found, credit's output wish list (Tribolet, 22 Feb) → memory/domains/work/var-credit-system-2001.md; Lacima weather course left to Gary Taylor (22 Feb) → memory/domains/work/lacima-book-2000.md
-- Raptors spreadsheet (Bharati, 8 Feb) → memory/domains/work/talon-raptor.md; P+ re-mark at 98% cuts M-T-M ~$78M → memory/domains/work/p-plus-spread-options-2001.md
-- Synfuel option: reserve for a Section 29 repeal debated (Lu, Hochschild) → memory/domains/work/synfuel-option-2001.md; Merchant Asset VaR goes Monte Carlo (Hanover hedge) → memory/domains/work/hanover-costless-collar-jan-2001.md
-- CHARM call with Willis put off a week (12 Feb) → memory/domains/work/enterprise-risk-management.md; Cunningham corrects ERCOT's congestion example (20 Feb) → memory/domains/work/transmission-modelling-2001.md
-- RDI code matches Ken's sheet (15 Feb) → memory/domains/work/genco-plant-model-2001.md; Bambos visits Fri 9 Mar → memory/domains/work/stanford-research-ties.md
-- EES termination payments meeting Fri 16 Feb → memory/domains/work/ees-termination-payments-2001.md; MarketPoint gas model now Goodpasture's call → memory/domains/work/marketpoint-gas-model-2001.md
+- EES credit reserve: J.C. Penney option gap traced to inputs (26 Feb); analytical VaR in RisktRAC (1%, Mean Tail Loss) to IT (28 Feb) → memory/domains/work/var-credit-system-2001.md
+- Dabhol: Henwood says MSEB can pay for Maharashtra-only dispatch, pitch to Rebecca (27 Feb) → memory/domains/work/dabhol-power-sale.md; EBS's $1.44m research allocation, Pearce wants a plan → memory/domains/work/broadband-services.md
+- Zdunkewicz's damages limitations memo, meeting Fri 2 Mar → memory/domains/work/ees-termination-payments-2001.md; Delainey slides updated for the re-org → memory/domains/work/internal-meetings-2001.md
+- Bambos visits Fri 9 Mar (IP pricing talk) → memory/domains/work/stanford-research-ties.md; Titman's discount-rate note → memory/domains/work/ut-austin-ties-2000.md
+- Owed: answer to Bernard Murphy on spark-spread models; Seppi's swing terms; Thorne's call → memory/domains/work/outside-requests-2001.md; Cinergy prices for IR → memory/domains/work/desk-analysis-requests.md
 
 ## Files
 
@@ -38,6 +37,6 @@ Path: memory/domains/work/<name>.md
 - dabhol-energy-cost-jan-2001 · genco-plant-model-2001 · ken-lay-speech-tax-cut · risktrac-europe-var
 - hanover-costless-collar-jan-2001 · ees-risk-reviews-jan-2001 · var-credit-system-2001 · transmission-modelling-2001 · valuation-signoff-2001
 - p-plus-spread-options-2001 · hsb-reinsurance-model-2001 · warsaw-mba-theses-2001 · insurance-portfolio-risk-2001
-- synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001
+- synfuel-option-2001 · marketpoint-gas-model-2001 · ees-termination-payments-2001 · internal-meetings-2001 · outside-requests-2001
 
 Closed: 1
