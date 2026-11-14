@@ -1,0 +1,58 @@
+id	durable	status	detail
+m05771	yes	kept	domains/organization/candidate-referrals-2000.md
+m05772	yes	kept	domains/work/insurance-portfolio-risk-2001.md
+m05773	yes	kept	domains/organization/summer-interns-2001.md
+m05774	yes	kept	domains/organization/summer-interns-2001.md
+m05775	yes	kept	domains/organization/summer-interns-2001.md
+m05776	yes	kept	domains/organization/summer-interns-2001.md
+m05777	no	not_durable	other
+m05778	yes	kept	domains/work/enron-transformation-paper.md
+m05779	yes	kept	domains/work/enron-transformation-paper.md
+m05780	yes	kept	domains/industry/rice-university.md people/david-ikenberry.md
+m05781	yes	kept	domains/industry/wharton-tiger-trip-jan-2001.md
+m05782	yes	kept	domains/personal/correspondence.md
+m05783	yes	dropped	other: owner mails Martin an LA Times power/gas article link; no lasting content
+m05784	yes	kept	domains/work/ebs-storage-market.md
+m05785	yes	kept	domains/organization/summer-interns-2001.md
+m05786	yes	kept	domains/work/hsb-reinsurance-model-2001.md
+m05787	yes	kept	domains/industry/speaking-engagements-2000.md people/john-d-martin.md
+m05788	yes	kept	domains/industry/speaking-engagements-2000.md
+m05789	yes	kept	domains/industry/speaking-engagements-2000.md
+m05790	no	not_durable	quote_only
+m05791	yes	kept	domains/personal/correspondence.md people/mark-kierlanczyk.md
+m05792	no	not_durable	quote_only
+m05793	yes	kept	domains/personal/correspondence.md
+m05794	yes	kept	domains/personal/correspondence.md
+m05795	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/howard-haughton.md
+m05796	yes	kept	domains/industry/rice-university.md people/david-ikenberry.md
+m05797	yes	kept	domains/organization/year-end-prc-2000.md
+m05798	yes	dropped	no_owner_content: CORE UCL market incompleteness paper forwarded to own AOL, no comment
+m05799	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05800	yes	kept	domains/organization/leave-and-training.md
+m05801	no	not_durable	other
+m05802	yes	kept	domains/industry/eprm-risk.md
+m05803	yes	kept	domains/organization/corporate-announcements-2000.md
+m05804	yes	kept	domains/work/talon-raptor.md people/rakesh-bharati.md
+m05805	no	not_durable	empty
+m05806	yes	kept	domains/industry/rice-university.md people/david-ikenberry.md
+m05807	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/howard-haughton.md
+m05808	no	not_durable	quote_only
+m05809	no	not_durable	logistics
+m05810	yes	kept	domains/industry/rice-university.md people/david-ikenberry.md
+m05811	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05812	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05813	yes	kept	domains/organization/summer-interns-2001.md
+m05814	yes	kept	domains/organization/recruiting-candidates.md
+m05815	no	not_durable	bulk
+m05816	yes	kept	domains/work/dabhol-power-sale.md
+m05817	yes	kept	domains/work/ut-austin-ties-2000.md people/rakesh-bharati.md
+m05818	yes	kept	domains/work/enron-transformation-paper.md people/john-d-martin.md
+m05819	yes	kept	domains/work/enterprise-risk-management.md
+m05820	yes	kept	domains/work/genco-plant-model-2001.md
+m05821	yes	kept	domains/work/enron-transformation-paper.md
+m05822	yes	kept	domains/work/enron-transformation-paper.md
+m05823	yes	kept	domains/organization/ena-reorganization.md
+m05824	yes	kept	domains/work/talon-raptor.md people/rakesh-bharati.md
+m05825	yes	kept	domains/organization/summer-interns-2001.md
+m05826	yes	kept	domains/work/lacima-book-2000.md
+m05827	yes	kept	domains/industry/speaking-engagements-2000.md people/john-d-martin.md
