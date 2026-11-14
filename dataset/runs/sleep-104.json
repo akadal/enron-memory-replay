@@ -1,0 +1,202 @@
+{
+ "slice": 104,
+ "simulated_today": "2001-10-24",
+ "feed": {
+  "slice": 104,
+  "iso_week": "2001-W43",
+  "first_seq": 9437,
+  "last_seq": 9571,
+  "messages": 135,
+  "durable": 61,
+  "first_date": "2001-10-22 00:00",
+  "last_date": "2001-10-24 17:24",
+  "today": "2001-10-24",
+  "inbox_files": [
+   "2001-10-22--mail.md",
+   "2001-10-23--mail.md",
+   "2001-10-24--mail.md"
+  ],
+  "inbox_chars": 54665,
+  "l2_chars": 376617
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 720,
+ "quota_before": {
+  "five_hour": 57.0,
+  "seven_day": 56.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 61.0,
+  "seven_day": 56.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 104,
+  "messages": 135,
+  "durable": 61,
+  "kept": 54,
+  "kept_rate_excluding_redundant": 0.885,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 3,
+   "other": 1,
+   "social": 2
+  },
+  "dropped": 7,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3524,
+  "fact_lines_with_source": 2249,
+  "dated": 2249,
+  "date_matches_source": 2197,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.6,
+   1.0,
+   1.0,
+   1.0,
+   0.91,
+   1.0,
+   1.0,
+   0.91,
+   1.0,
+   0.4
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 683
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1847
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 387585
+  },
+  "people": {
+   "files": 717,
+   "chars": 469363
+  },
+  "archive_inbox": {
+   "files": 645,
+   "chars": 5673923
+  },
+  "archive_mail": {
+   "files": 9597,
+   "chars": 24861326
+  },
+  "archive_other": {
+   "files": 1899,
+   "chars": 1508726
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 63,
+   "duration_ms": 718317,
+   "duration_api_ms": 580493,
+   "total_cost_usd": 4.319707099999998,
+   "usage": {
+    "input_tokens": 120,
+    "cache_creation_input_tokens": 176970,
+    "cache_read_input_tokens": 7816216,
+    "output_tokens": 66998,
+    "output_tokens_details": {
+     "thinking_tokens": 25339
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 176970,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 729,
+      "cache_read_input_tokens": 195680,
+      "cache_creation_input_tokens": 229,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 229
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 120,
+     "outputTokens": 66998,
+     "cacheReadInputTokens": 7816216,
+     "cacheCreationInputTokens": 176970,
+     "webSearchRequests": 0,
+     "costUSD": 4.319443199999998,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 25339,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 176970,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 62,
+   "result_summary": "The 2001-10-24 consolidation is committed as `26cc4df8` and not pushed, as the brief says the runner pushes. Lint and `sleep-audit.py` were both green before the commit, so no repair or reset was needed. Of the 61 messages with notes, 54 are cited in memory and 7 are listed in `dataset/drops/sleep-104.tsv`, which leaves none missing. Main items filed:\n- **Company news:** the SEC request about the LJM deals and the 23 Oct all-employee meeting; McMahon named CFO with Fastow on leave.\n- **Raptor:** on 22 Oct the owner told Bharati, with Andersen's Scardino copied, that he cannot support the group's past Raptor analysis.\n- **Events:** he will chair a session at Gas & PoweRisk in Paris on 8 Nov. He handed SMS to Zimin Lu, the MIT Sloan panel to Shanbhogue and EPIS to Alex Huang.\n- **Staff and hiring:** a JCC go-ahead; candidates Philoche, Kholodnyi, Calabrese and Sam Cho; Werner's move to Houston; a Research manager to go on loan to Jeff Andrews's EGM fundamentals group.\n\nI opened people files for Karthik Rajan and Ozzie Pagan, whose fifth message arrived this week, and for Jeff Andrews, who passed five messages in May but never got a file. I added one question to `questions.md`: whether the Jeff Andrews interviewed in August 2000 is the same person; for now he stays one file marked (?). Nothing was due for a status-quo close, and the inbox held no sleep-task or feedback blocks. No file was above 90% of its ceiling, so the three-file compression quota had nothing to act on. Each touched file that was over target had its oldest lines moved verbatim into 20 new archive files dated 2001-10-24, and I rewrote `state.md` and refreshed the domain indexes. The three inbox logs and the run log are now in `memory/archive/inbox/`. I did not commit `dataset/runs/sleep-104.transcript.jsonl`, which was already untracked when I started."
+  },
+  "repair": null
+ }
+}
