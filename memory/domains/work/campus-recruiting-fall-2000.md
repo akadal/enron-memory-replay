@@ -3,16 +3,16 @@ id: campus-recruiting-fall-2000
 type: topic
 domain: work
 title: "Fall 2000 campus recruiting: Berkeley, CMU, MIT"
-summary: "Owner's fall 2000 campus recruiting: Berkeley (Oren's IEOR seminar, owner aims for 23 Oct; General Presentation 18 Oct; career fair 8 Sep; team meeting 29 Aug); CMU presentation 13 Sep with John Gordon and Kristin Gandy; MIT team (first event 21 Sep, interviews 7-8 Nov)."
+summary: "Fall 2000 campus recruiting: Berkeley 16-17 Oct (General Presentation Mon 16 Oct; Oren's seminar slot taken, likely a second trip), fair 8 Sep; CMU (Gandy): 13 Sep, 15 Sep, interviews 11-12 Dec, MSCF talk Nov; MIT; recruiting workshop 29 Sep (Aug 2000)."
 status: active
-updated: 2000-08-26
+updated: 2000-09-03
 ---
 # Fall 2000 campus recruiting: Berkeley, CMU, MIT
 
-Enron's university ties: memory/domains/work/university-relations.md. Earlier Berkeley and CMU detail ←[[university-relations-2000-08-w34]]
+Enron's university ties: memory/domains/work/university-relations.md. Earlier detail (Berkeley career fair 8 Sep, CMU 13 Sep with John B Gordon) ←[[university-relations-2000-08-w34]] ←[[campus-recruiting-fall-2000-2000-09-w35]]
 
-- [2000-08-23] Berkeley: Shmuel Oren (IEOR) still waits for the visit date; offers a Monday seminar (3:30-5 pm; title and abstract wanted), advertised also to Haas financial engineering students. Owner to Ashley Baxter: "FYI. What about Oct 16?"; 24 Aug to Oren: "I shall shoot for October the 23rd if this date works for the rest of our team." ←[[m02966]] ←[[m02969]] ←[[m02979]] ←[[m02988]]
-- [2000-08-24] Baxter: the Cal Berkeley General Presentation is Wed 18 Oct, 7:00 pm, before the resume deadline (Enron's first year there, she attends); she cannot do the 23rd (Rice interviews); keep Oren's seminar, perhaps as a separate trip. 25 Aug, on her Cal Berkeley Team Meeting (Issler, Sezgen, Pavetto, Belden, others): "I have confirmed." ←[[m02981]] ←[[m03005]]
-- [2000-08-26] Baxter: Cal Berkeley Career Fair Fri 8 Sep (three representatives, Analyst Program and Global Technology Track; leave Thu 7 Sep); recruiting team meeting Tue 29 Aug, 2:00, 49C4. ←[[m03023]]
-- [2000-08-23] CMU: John B Gordon (the only CMU alum in the Associate Program) joins the owner's corporate presentation 13 Sep, 7:30 am, suggests a talk to computational finance students and lunch with Duane Seppi; owner: "I haven't received the invitation yet to the Sep 13th meeting."; Kristin Gandy (CMU recruiter) visits him 25 Aug; he forwards her the MSCF Speaker Series thread (Ste-Marie). ←[[m02970]] ←[[m03001]] ←[[m03016]]
 - [2000-08-25] MIT: the owner is on Kristin Gandy's MIT team (Sloan candidates for the Associate Program; Mark Palmer among others): first campus event 21 Sep, interviews 7-8 Nov, team meeting 1 Sep, 10 am, 11C2. ←[[m03020]]
+- [2000-08-28] Berkeley: owner to Ashley Baxter: "Please, always cc my assistant Shirley Crenshaw"; Baxter books the Faculty Club for the General Presentation Mon 16 Oct, 7-9 pm, leaving room for Oren's 3:30 seminar; resume drops open that week. ←[[m03026]] ←[[m03047]]
+- [2000-08-29] Owner to Oren: trip 16-17 Oct; "I shall be glad to make a presentation on energy derivatives markets", abstract to follow. 30 Aug: the 16th slot is taken, dinner stands; owner: "Two trips are the best solution, unless of course Shmuel rearranges the speaker list". ←[[m03058]] ←[[m03059]] ←[[m03067]] ←[[m03068]] ←[[m03072]]
+- [2000-08-28] CMU (Gandy's team: owner, Kindall, Densley, McCoppin, Beskrowni, Babbar, Walt, John B Gordon, Cummings): first event 15 Sep, interviews 11-12 Dec; 3 Nov campus visit: "Any resolution?" (open). MSCF talk, early Nov: "Kristin  is taking care of all the arrangements." ←[[m03028]] ←[[m03030]] ←[[m03033]] ←[[m03034]]
+- [2000-08-30] Mandatory A&A recruiting workshop (Celeste Roberts): owner booked via Dolores Muzzy, 29 Sep 12:45. ←[[m03064]] ←[[m03069]] ←[[m03075]] ←[[m03076]]

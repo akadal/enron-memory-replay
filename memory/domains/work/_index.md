@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2000-08-26
+updated: 2000-09-03
 ---
 # Work — index
 
@@ -9,17 +9,17 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Azurix RAB multiples: results owed to Anderson → memory/domains/work/azurix-rab-valuation.md
-- Campus recruiting: Berkeley 18 Oct/23 Oct, CMU 13 Sep, MIT → memory/domains/work/campus-recruiting-fall-2000.md
-- London 18-21 Sep, Arthur Andersen UK meeting → memory/domains/work/value-research-lab.md
-- Lacima ch. 3: owner's half owed → memory/domains/work/lacima-book-2000.md
-- Cairn bid: owner to help Parsons → memory/domains/work/cairn-gas-bid.md
+- Berkeley 16-17 Oct (Oren seminar maybe a second trip); CMU 15 Sep, MSCF talk Nov; workshop 29 Sep → memory/domains/work/campus-recruiting-fall-2000.md
+- London 18-21 Sep: Arthur Andersen UK Mon 18 (Allan Roberts), Day and Leake Tue 19 → memory/domains/work/value-research-lab.md
+- LNG Book meeting Wed 6 Sep; owner against the Hyundai LNG deal → memory/domains/work/lng-book-2000.md
+- Azurix: Bob Lee's RAB/FX joint probabilities for Anderson → memory/domains/work/azurix-rab-valuation.md
+- Bambos needs the Enron/Stanford letter before mid-Sep RA deadlines → memory/domains/work/stanford-research-ties.md
 
 ## Files
 
 Path: memory/domains/work/<name>.md
 
-- 2000-02-20-london-trip · aga-storage-forecast · argentina-modelling · azurix-rab-valuation · basis-report
+- 2000-02-20-london-trip · aga-storage-forecast · argentina-modelling · azurix-rab-valuation · basis-report · british-pound-analysis
 - broadband-services · cairn-gas-bid · campus-recruiting-fall-2000 · chicago-office-support · china-pipeline-real-options · church-giving-forecast
 - correlation-stress · cost-of-capital-2000 · credit-markets · crude-oil-digital-option · dabhol-power-sale · day-rate-hedge
 - desk-analysis-requests · ebs-network-planning · ebs-storage-market · ebs-var-policy · ees-regulatory-var · ees-structuring-models
