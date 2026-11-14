@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Industry — index
 
@@ -9,12 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Talks: SMS fee surprise; Risk Waters slides due 20 Jun; IQPC brochure → memory/domains/industry/speaking-and-visits-jun-18-2001.md; Stanford 21-22 Jun; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
-- Neptune to Cunningham and Presto; Alberta MBA recruiting to Lemmons → memory/domains/industry/outside-contacts-jun-08-2001.md
+- Talks: Risk Waters London 28-29 Jun; Houston course 16-17 Jul; EPIS 12-14 Sep; Duffie in Crete → memory/domains/industry/speaking-and-visits-jun-25-2001.md; Paris 6-9 Nov (paper 12 Oct) → memory/domains/industry/speaking-and-visits-jun-15-2001.md; INFOCAST 10-12 Oct; SMS Oct; Werner 1-7 Jul → memory/domains/industry/speaking-and-visits-jun-08-2001.md; Baylor 27 Jul → memory/domains/industry/speaking-and-visits-early-jun-2001.md
+- Neptune (Krapels) → memory/domains/industry/outside-contacts-jun-08-2001.md
 - Universities: Stanford EMF agenda → memory/domains/industry/speaking-and-visits-early-jun-2001.md; WeBI → memory/domains/industry/university-ties-late-may-2001.md
-- Wharton: Risk Center 14 Jun → memory/domains/industry/wharton-risk-center-2001.md
+- Wharton: Risk Center → memory/domains/industry/wharton-risk-center-2001.md; attending → memory/domains/industry/events-attending-2001.md
 - California: Edison MOU stalled; CPUC delays the QF 15% payment (8 Jun) → memory/domains/industry/california-power-jun-2001.md
-- Attending: gas storage 22 Jun → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -65,3 +64,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/outside-contacts-jun-08-2001.md — Neptune, Alberta Energy MBA, Norsk Hydro evaluations, Jun 2001
 - memory/domains/industry/speaking-and-visits-jun-15-2001.md — talks from 11 Jun 2001 (Paris, IQPC, Stanford)
 - memory/domains/industry/speaking-and-visits-jun-18-2001.md — talks from 18 Jun 2001 (SMS fee, Risk Waters, IQPC)
+- memory/domains/industry/speaking-and-visits-jun-25-2001.md — talks from 25 Jun 2001 (London course, EPIS, Krapels)

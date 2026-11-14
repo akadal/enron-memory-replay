@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-06-21
+updated: 2001-06-29
 ---
 # Organization — index
 
@@ -9,10 +9,9 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Staff: all hiring postponed to late Aug-early Sep (new building); Bibi resigned (Putnam); Neale's Rice lectures → memory/domains/organization/research-staff-jun-18-2001.md
-- Policy: one-RAC Risk Management Policy draft; protest procedures → memory/domains/organization/research-staff-jun-15-2001.md
-- PRC: Research review 6 Jun; specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul → memory/domains/organization/referrals-and-admin-jun-08-2001.md
-- Referrals: Paleologo unsigned (in Italy); PG&E ethical wall → memory/domains/organization/referrals-and-admin-jun-08-2001.md
+- This week: owner off 5, 6, 9 Jul; Schoenemann referral; Toastmasters; intern dinner 2 Jul → memory/domains/organization/research-staff-jun-25-2001.md
+- Staff: hiring postponed to late Aug-early Sep (new building); Bibi to Putnam → memory/domains/organization/research-staff-jun-18-2001.md
+- PRC: specialists as ST → memory/domains/organization/mid-year-prc-2001.md; VP PRC 18 Jul; Paleologo unsigned → memory/domains/organization/referrals-and-admin-jun-08-2001.md; policy draft → memory/domains/organization/research-staff-jun-15-2001.md
 - Company: HPL sold to AEP; EnronOnline on Reuters → memory/domains/organization/corporate-announcements-2001.md
 - Admin: HR → memory/domains/organization/hr-matters-2001.md
 
@@ -82,3 +81,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/referrals-and-admin-jun-08-2001.md — referrals and admin from 6 Jun 2001
 - memory/domains/organization/research-staff-jun-15-2001.md — policy and events from 11 Jun 2001
 - memory/domains/organization/research-staff-jun-18-2001.md — hiring pause, Bibi, admin from 18 Jun 2001
+- memory/domains/organization/research-staff-jun-25-2001.md — staff, referrals, admin from 25 Jun 2001
