@@ -1,0 +1,39 @@
+id	durable	status	detail
+m05930	yes	kept	domains/organization/candidate-interviews-feb-2001.md people/rachel-quirke.md
+m05931	yes	kept	domains/industry/wharton-projects-feb-2001.md
+m05932	no	not_durable	bulk
+m05933	yes	kept	domains/industry/aiesec-houston.md
+m05934	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05935	yes	kept	domains/work/lacima-book-2000.md
+m05936	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05937	yes	kept	domains/industry/ut-energy-finance-conference-feb-2001.md
+m05938	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05939	yes	kept	domains/work/lacima-book-2000.md
+m05940	no	not_durable	bulk
+m05941	yes	kept	domains/industry/events-attending-2000.md
+m05942	yes	dropped	logistics: list of e-mail addresses mailed to himself
+m05943	yes	dropped	no_owner_content: review sent to Maureen Raymond, contents not in the message
+m05944	yes	kept	domains/industry/events-attending-2000.md
+m05945	yes	kept	domains/organization/summer-interns-2001.md
+m05946	yes	kept	domains/organization/recruiting-candidates.md
+m05947	yes	kept	domains/industry/speaking-engagements-2000.md
+m05948	yes	kept	domains/work/transmission-modelling-2001.md
+m05949	yes	kept	domains/organization/office-equipment.md
+m05950	yes	kept	domains/work/lacima-book-2000.md people/gary-taylor.md
+m05951	no	not_durable	other
+m05952	yes	kept	domains/industry/rice-university.md
+m05953	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05954	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05955	yes	kept	domains/organization/candidate-interviews-feb-2001.md
+m05956	no	not_durable	bulk
+m05957	yes	kept	domains/industry/visitors-2001.md
+m05958	yes	kept	domains/organization/summer-interns-2001.md
+m05959	yes	kept	domains/work/lacima-book-2000.md
+m05960	yes	kept	domains/industry/visitors-2001.md
+m05961	yes	kept	domains/industry/visitors-2001.md
+m05962	yes	dropped	social: Jones School wine tasting save-the-date forwarded to AOL
+m05963	yes	kept	domains/work/lacima-book-2000.md people/gary-taylor.md
+m05964	yes	kept	domains/work/var-credit-system-2001.md people/michael-tribolet.md
+m05965	yes	kept	domains/industry/eprm-risk.md
+m05966	yes	kept	domains/organization/staff-moves-jan-2001.md
+m05967	yes	kept	domains/industry/rice-university.md

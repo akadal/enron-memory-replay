@@ -1,0 +1,187 @@
+{
+ "slice": 65,
+ "simulated_today": "2001-02-23",
+ "feed": {
+  "slice": 65,
+  "iso_week": "2001-W08",
+  "first_seq": 5930,
+  "last_seq": 5967,
+  "messages": 38,
+  "durable": 34,
+  "first_date": "2001-02-19 09:05",
+  "last_date": "2001-02-23 08:35",
+  "today": "2001-02-23",
+  "inbox_files": [
+   "2001-02-19--mail.md",
+   "2001-02-20--mail.md",
+   "2001-02-21--mail.md",
+   "2001-02-22--mail.md",
+   "2001-02-23--mail.md"
+  ],
+  "inbox_chars": 24785,
+  "l2_chars": 88989
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 379,
+ "quota_before": {
+  "five_hour": 16.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 17.0,
+  "seven_day": 40.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 65,
+  "messages": 38,
+  "durable": 34,
+  "kept": 31,
+  "kept_rate_excluding_redundant": 0.912,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1,
+   "social": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 2681,
+  "fact_lines_with_source": 1784,
+  "dated": 1784,
+  "date_matches_source": 1740,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.75,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 1,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 634
+  },
+  "questions": {
+   "files": 1,
+   "chars": 655
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 187,
+   "chars": 328770
+  },
+  "people": {
+   "files": 503,
+   "chars": 335003
+  },
+  "archive_inbox": {
+   "files": 422,
+   "chars": 3542543
+  },
+  "archive_mail": {
+   "files": 5993,
+   "chars": 14616790
+  },
+  "archive_other": {
+   "files": 1160,
+   "chars": 985042
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 35,
+   "duration_ms": 377865,
+   "duration_api_ms": 315833,
+   "total_cost_usd": 2.265205,
+   "usage": {
+    "input_tokens": 66,
+    "cache_creation_input_tokens": 109039,
+    "cache_read_input_tokens": 3364145,
+    "output_tokens": 35990,
+    "output_tokens_details": {
+     "thinking_tokens": 12012
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 109039,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 833,
+      "cache_read_input_tokens": 140518,
+      "cache_creation_input_tokens": 312,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 312
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-opus-5-5": {
+     "inputTokens": 66,
+     "outputTokens": 35990,
+     "cacheReadInputTokens": 3364145,
+     "cacheCreationInputTokens": 109039,
+     "webSearchRequests": 0,
+     "costUSD": 2.265205,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 12012,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 109039,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 34,
+   "result_summary": "I consolidated week 2001-W08 (38 messages, 34 with notes) and made one commit on `main`. Lint and sleep-audit were both green before the commit, and I did not push, as the run instructions said. Of the 34 noted messages, 31 are now cited in L1. The other three are listed in `dataset/drops/sleep-065.tsv`:\n- m05942: a list of e-mail addresses the owner mailed to himself.\n- m05943: a review sent to Maureen Raymond with no content in the message.\n- m05962: a wine-tasting save-the-date.\n\nThis week's main facts went into 16 topic files:\n- **Candidates:** Haughton's 20 Feb London round went ahead without the owner, and a video interview with him will follow. A trading candidate for Lavorato is being moved fast. Mujica will be interviewed while Raymond is away.\n- **Interns:** Gandy's list of Wharton Tigers is waiting for the owner to check it. The owner declined to interview at Harvard.\n- **Lacima:** the weather course is one day at Enron for $1,100 a head, and Gary Taylor will negotiate with Lacima directly. Lacima also pulled out of the EPRM VaR course.\n- **Smaller items:** credit's wish list for the EES credit reserve simulation, Cunningham's correction to ERCOT's congestion example, Wharton Team 1's EnronOnline assessment, AIESEC SGH's 30th anniversary, Elsner's talk, Real Options UCLA, the Rice rosters and CV request, and EnTouch new hires.\n\nMichael Tribolet reached five noted messages, so he now has an entity file and an alias-table entry. \"Julie\" of Lacima and \"Jeff\" the recruiter also have more than five noted messages but still have no entity files: the mail gives first names only, and the earlier question about Julie closed by status quo.\n\nTo stay inside the ratchet tolerance, I moved older lines from 13 files into new `memory/archive/*/2001/*-2001-02-w08.md` files; `visitors-2001` shrank the most (438 characters). No file was above 90% of its ceiling, so the three-file compression quota didn't apply. I refreshed the indexes and `state.md`, and the five oldest ong"
+  },
+  "repair": null
+ }
+}
