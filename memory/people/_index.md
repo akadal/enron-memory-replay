@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-27
+updated: 2002-02-03
 ---
 # People — index
 
@@ -287,6 +287,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jane Allen
 - Janet Dietrich
 - Jarek Astramowicz
+- Jason Jennaro
 - Jason Sokolov
 - Javier Lamas
 - Jay Webb
@@ -660,6 +661,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Scott Yeager
 - Sean Bolks
 - Sean Grady
+- Sean Yang
 - Seksan Kiatsupaibul
 - Sevil Yaman
 - Shalesh Ganjoo

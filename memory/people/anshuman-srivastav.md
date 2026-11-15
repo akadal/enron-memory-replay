@@ -5,11 +5,11 @@ entity: person
 name: "Anshuman Srivastav"
 aliases: []
 domains: [work]
-updated: 2001-02-18
+updated: 2002-02-03
 ---
 # Anshuman Srivastav
 
-On Sandeep Kohli's Enron India team. ←[[m00100]]
+On Sandeep Kohli's Enron India team. ←[[m00100]] "Anshuman" (anshu1975@hotmail.com, leaving for India, Dec 2001) is not linked (?): the question lapsed unanswered 2002-01-29; status quo, no link. ←[[m10539]]
 
 ## Context: work
 

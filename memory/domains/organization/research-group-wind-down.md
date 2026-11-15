@@ -3,16 +3,16 @@ id: research-group-wind-down
 type: topic
 domain: organization
 title: "Research Group wind-down after the bankruptcy"
-summary: "Shutting down the Research Group (Jan 2002): gone on 31 Jan, Kevin Moore the only one left, the group laptop to him (24 Jan 2002); Mora off next week (25 Jan 2002); Mike Roberts' team declines UBS (22 Jan 2002); Reunion #1, Party #1 at Sandeep Kohli's (25 Jan), Pravas Sud to EGAS, Deng, Neale, Lin to Netco, release on 15 Jan and older items archived."
+summary: "Shutting down the Research Group (Jan 2002): Sezgen's laptop and Blackberry back via San Francisco (30 Jan 2002); Weather Team time sheets done, Hrgovcic out of the system (29 Jan 2002); members and alumni contact list (28 Jan 2002); gone on 31 Jan, Kevin Moore the only one left (24 Jan 2002); Mora's days off, Roberts' team declines UBS, Kohli's party, releases and older items archived."
 status: active
-updated: 2002-01-27
+updated: 2002-02-03
 ---
 # Research Group wind-down after the bankruptcy
 
-Detail ←[[research-group-wind-down-2002-01-13]] ←[[research-group-wind-down-2002-01-16]] ←[[research-group-wind-down-2002-01-20]] ←[[research-group-wind-down-2002-01-24]] ←[[research-group-wind-down-2002-01-27]]
+Detail ←[[research-group-wind-down-2002-01-13]] ←[[research-group-wind-down-2002-01-16]] ←[[research-group-wind-down-2002-01-20]] ←[[research-group-wind-down-2002-01-24]] ←[[research-group-wind-down-2002-01-27]] ←[[research-group-wind-down-2002-02-03]]
 
 Job searches, references: memory/domains/organization/leavers-and-job-leads.md. Software and staff to NETCO: memory/domains/organization/ubsw-transfer.md.
 
-- [2002-01-22] Anne Labbe: Mike Roberts and his team have all declined the UBS offer, are harassed by some traders, and move to 19 on 23 Jan (vacation carryover: memory/domains/organization/hr-matters-2001.md). ←[[m11194]]
-- [2002-01-24] Therese Candella to Joe Langston (cc the owner): the group will be gone on 31 Jan, Kevin Moore the only one remaining; the 'Research' laptop (asset tag 990860), which Langston returned on 22 Jan, is managed by Moore from 24 Jan; owner copies it to AOL. ←[[m11274]] ←[[m11279]] ←[[m11294]] ←[[m11300]]
-- [2002-01-25] Mauricio Mora thanks the owner for his support; out Mon-Thu next week (discretionary, personal and vacation days); asks Candella and Crenshaw to mail him the 15 Jan and next Thursday's paystubs. ←[[m11336]]
+- [2002-01-28] Crenshaw sends members and alumni the updated Research and Research Alumni contact list; owner copies it to AOL (29 Jan). ←[[m11392]] ←[[m11434]]
+- [2002-01-29] Kevin Moore: the Weather Team's time sheets are done; Joe Hrgovcic is no longer in the system. ←[[m11425]]
+- [2002-01-30] Crenshaw to Joe Langston and Paige Cox: former member Osman Sezgen, staying in California, returns his Blackberry (14879) and laptop (40115) to the San Francisco office (April Hrach); Research should get the credit; owner copies it to AOL. ←[[m11516]] ←[[m11520]]

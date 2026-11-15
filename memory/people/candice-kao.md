@@ -5,11 +5,11 @@ entity: person
 name: "Candice Kao"
 aliases: []
 domains: [organization]
-updated: 2001-12-16
+updated: 2002-02-03
 ---
 # Candice Kao
 
-Edward Kao's (UH) daughter, student at Mount Holyoke College; (413) 493-5092, cgkao@mtholyoke.edu. ←[[m06974]] ←[[m07026]]
+Edward Kao's (UH) daughter, student at Mount Holyoke College; (413) 493-5092, cgkao@mtholyoke.edu. ←[[m06974]] ←[[m07026]] "Candace Kao" (27-28 Dec 2001) not attached (?): the alias question lapsed unanswered 2002-01-29; status quo, no alias. ←[[m10494]] ←[[m10500]]
 
 ## Context: organization
 
