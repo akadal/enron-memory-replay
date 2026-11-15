@@ -1,0 +1,203 @@
+{
+ "slice": 114,
+ "simulated_today": "2001-12-30",
+ "feed": {
+  "slice": 114,
+  "iso_week": "2001-W52",
+  "first_seq": 10438,
+  "last_seq": 10563,
+  "messages": 126,
+  "durable": 32,
+  "first_date": "2001-12-24 00:16",
+  "last_date": "2001-12-30 10:17",
+  "today": "2001-12-30",
+  "inbox_files": [
+   "2001-12-24--mail.md",
+   "2001-12-25--mail.md",
+   "2001-12-26--mail.md",
+   "2001-12-27--mail.md",
+   "2001-12-28--mail.md",
+   "2001-12-29--mail.md",
+   "2001-12-30--mail.md"
+  ],
+  "inbox_chars": 38317,
+  "l2_chars": 373721
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 359,
+ "quota_before": {
+  "five_hour": 13.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 15.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 114,
+  "messages": 126,
+  "durable": 32,
+  "kept": 32,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3719,
+  "fact_lines_with_source": 2405,
+  "dated": 2405,
+  "date_matches_source": 2337,
+  "date_mismatch_ids_this_slice": [
+   "m10539"
+  ],
+  "kept_rate_by_decile": [
+   null,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 722
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1834
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 226,
+   "chars": 399462
+  },
+  "people": {
+   "files": 753,
+   "chars": 503897
+  },
+  "archive_inbox": {
+   "files": 717,
+   "chars": 6134354
+  },
+  "archive_mail": {
+   "files": 10589,
+   "chars": 27919944
+  },
+  "archive_other": {
+   "files": 2046,
+   "chars": 1605011
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 43,
+   "duration_ms": 357495,
+   "duration_api_ms": 309562,
+   "total_cost_usd": 2.1502411,
+   "usage": {
+    "input_tokens": 74,
+    "cache_creation_input_tokens": 104015,
+    "cache_read_input_tokens": 3130606,
+    "output_tokens": 34572,
+    "output_tokens_details": {
+     "thinking_tokens": 10658
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 104015,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 748,
+      "cache_read_input_tokens": 122733,
+      "cache_creation_input_tokens": 221,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 221
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 74,
+     "outputTokens": 34572,
+     "cacheReadInputTokens": 3130606,
+     "cacheCreationInputTokens": 104015,
+     "webSearchRequests": 0,
+     "costUSD": 2.1499772000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 10658,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 104015,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 42,
+   "result_summary": "I consolidated week 2001-W52 (simulated date 2001-12-30) and committed it as `8af8ee1a`. All 32 messages with notes are cited in L1, so `dataset/drops/sleep-114.tsv` is empty. Both gates passed: `lint.py` (204 budget warnings, no errors) and `sleep-audit.py`. The week's facts went into 14 existing topics:\n- **Raptor memo:** David Cohen at Wilmer could not find it, so the owner re-sent it to litigation.ljm.\n- **Corporate:** Britt Davis's notice not to delete any e-mail (subpoenas) and the DPR schedule over New Year.\n- **People and contacts:** Bharati's pending matter with Anne Labbe; the owner's conditions for Ostdiek's Rice data request (a formal release, a research-only letter, approval from the trading desks); the Coral agreement he signed for Arfsten; notes from Khokher and Anshuman; the \"Transitions\" seminar for ex-Enron staff.\n- **Group:** the new Weather Class and the holiday absences.\n- **AOL copies:** the owner's many forwards to his AOL address.\n\nJan Cooley reached five messages with notes, so I opened `memory/people/jan-cooley.md` and added the name to the alias table. Two new questions went into `questions.md` instead of being applied: whether to attach \"Candace Kao\" to the Candice Kao entity, and whether \"Anshuman\" is Anshuman Srivastav. The BFL \"Bjorn\" question falls due today rather than having passed, so it stays open for one more run. To make room, I moved the oldest lines of 8 topics word for word into `memory/archive/<domain>/2001/`. No file was above 90% of its ceiling, so the compression quota had nothing to act on. The five oldest ongoing lines are still valid, and there was no sleep task or feedback block to handle. I refreshed the indexes and `state.md` and moved the processed logs into `memory/archive/inbox/`; this run's log stays in the inbox for the next run, the same way the last one did. Following the replay instruction, I did not push; that conflicts with the \"git push origin main\" line at the end of the brief, so the runner needs to pus"
+  },
+  "repair": null
+ }
+}
