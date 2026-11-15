@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-13
+updated: 2002-01-16
 ---
 # People — index
 
@@ -319,6 +319,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jim Schwieger
 - Jin Yu
 - Jinbaek Kim
+- Jo Williams
 - Joan Payne
 - Joana Ryan Bekerman (Joana Bekerman)
 - Joanna Vidal
@@ -651,6 +652,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Scott Tholan
 - Scott Wakefield
 - Scott Yeager
+- Sean Bolks
 - Sean Grady
 - Seksan Kiatsupaibul
 - Sevil Yaman
@@ -751,6 +753,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vincent Tang
 - Vladimir Gorny
 - Wade Cline
+- Walter Brown
 - Walter Coffer
 - Wanda Curry
 - Wes Colwell

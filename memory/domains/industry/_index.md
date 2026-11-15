@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2002-01-13
+updated: 2002-01-16
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: Duffie's Bauer seminar 10 Jan, owner at the lunch, Kumar's trading-floor tour Friday (7-8 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's price data passed on (10 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
-- Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May, Kerridge awaits his answer (11 Jan) → memory/domains/industry/eprm-risk.md
+- Speaking: INFOCAST's Market Price Volatility conference, Houston 1 May, accepted (14 Jan); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
+- Universities: Kumar and Warga's lunch on his UH faculty appointment, Mon 21 Jan (14 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's number to Martin Lin (14 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
+- Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May: he takes the market and credit risk talk, panel asked (15-16 Jan) → memory/domains/industry/eprm-risk.md
 - Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM 9.0.8.4, winter definition asked (13 Jan) → memory/domains/industry/gpcm-rbac.md
-- 2002 events: GARP talk 12 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, revised agenda (10 Jan) → memory/domains/industry/events-attending-2001.md
+- 2002 events: GARP talk 12 Feb (20 Dec), slides request forwarded (14 Jan) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, final agenda, owner joins (14-16 Jan) → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -23,7 +23,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/aiesec-houston.md — AIESEC Houston and Poland (owner a member in the 1970s)
 - memory/domains/industry/declined-invitations-2000.md — declined invitations
 - memory/domains/industry/el-paso-capacity.md — El Paso capacity deal, ended 31 Jan 2000
-- memory/domains/industry/eprm-risk.md — RISK's EPRM events, EPRM 2001 (Bristow), Hanley to the magazine
+- memory/domains/industry/eprm-risk.md — RISK's EPRM events, EPRM 2001 (Bristow), Hanley to the magazine, EPRM 2002 USA
 - memory/domains/industry/esai-energycast-review.md — ESAI and Ed Krapels: Energycast (Jul 2000), his Enron memo (Oct 2001)
 - memory/domains/industry/events-attending-2000.md — events attended (CERAWeek, Texas Finance Festival 2001)
 - memory/domains/industry/ferc-transmission-resale.md — FERC transmission resale cap (Mar 2000)
@@ -36,7 +36,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum, Energy Club
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: HEG Houston Nov 2001, Bachelier Congress Crete Jun 2002 (plenary), Risk Waters real options course; SMS, IQPC, INFOCAST, Paris and older archived
-- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga, Goldenfeld Sep 2001, Energy Markets Institute, Bauer Energy Committee Nov 2001)
+- memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga, UH faculty appointment Jan 2002, Goldenfeld Sep 2001, Energy Markets Institute, Bauer Energy Committee Nov 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo, Shimko (RCM, Nov)
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings

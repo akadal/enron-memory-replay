@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2002-01-13
+updated: 2002-01-16
 ---
 # Work — index
 
@@ -9,9 +9,9 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Crisis: owner sends David Cohen (Wilmer) his 4 Oct Raptor memo, gone from his Enron mailbox (19 Dec); Cohen cannot find it, re-sent to litigation.ljm (28 Dec); Cooley collects files (7 Nov) → memory/domains/work/talon-raptor.md; SEC deposition without counsel (4 Jan) → memory/domains/organization/legal-matters.md; Barkley: EOL transactions down for two weeks (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md
+- Crisis: owner sends David Cohen (Wilmer) his 4 Oct Raptor memo, gone from his Enron mailbox (19 Dec); Cohen cannot find it, re-sent to litigation.ljm (28 Dec); Raptor copies re-sent from AOL (16 Jan) → memory/domains/work/talon-raptor.md; SEC deposition without counsel (4 Jan) → memory/domains/organization/legal-matters.md; Barkley: EOL transactions down for two weeks (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md
 - Corporate Development: De's margin capital simulation (6 Dec); Port's P&L breakout (7 Dec); Bharati's profitability data to SSB (14 Dec), copied to AOL to 4 Jan; his cross-guarantee document (21 Dec) → memory/domains/work/corp-dev-risk-analysis.md
-- Models: Neale scopes about 6 options models for Northern Natural Gas (9 Jan) → memory/domains/work/tw-capacity-options.md; Koepke's Poland forecast for Cangucu (11 Jan) → memory/domains/work/country-risk-curves.md; Krishna's 2002 EAM support (19 Nov) → memory/domains/work/ees-structuring-models.md; Supatgiat's merger-probability calculator (19-26 Nov) → memory/domains/work/ene-stock-drivers.md
+- Models: Neale wants the weather derivative pricing model (15 Jan) → memory/domains/work/weather-research-2001.md; Neale scopes about 6 options models for Northern Natural Gas (9 Jan) → memory/domains/work/tw-capacity-options.md; Koepke's Poland forecast for Cangucu (11 Jan) → memory/domains/work/country-risk-curves.md; Krishna's 2002 EAM support (19 Nov) → memory/domains/work/ees-structuring-models.md; Supatgiat's merger-probability calculator (19-26 Nov) → memory/domains/work/ene-stock-drivers.md
 - Writing: Scudder's end-of-year commentary asked, due 18 Dec (10 Dec) → memory/domains/work/outside-requests-2001.md; column chased by Sam (27 Nov) → memory/domains/work/kaminski-column.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
 - Universities: Shreve's MSCF board summary, owner's views asked (18 Dec) → memory/domains/work/cmu-mscf-visit-nov-2000.md; PJM West delayed (21 Dec); Alliance interconnection call 7 Jan to Martin Lin (2 Jan) → memory/domains/work/transmission-modelling-2001.md; Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md
 

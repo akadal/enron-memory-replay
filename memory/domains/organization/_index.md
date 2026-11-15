@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-13
+updated: 2002-01-16
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; officers' questionnaire never reached him, asked again (10 Jan) → memory/domains/organization/corporate-announcements-2001.md; no software to NETCO without Fallon's letter (9 Jan) → memory/domains/organization/ubsw-transfer.md
-- Legal: SEC deposition without counsel (4 Jan); testimony in Washington in January (13 Jan) → memory/domains/organization/legal-matters.md
-- Wind-down: Raymond's unit ends 15 Jan; some staff kept to 30 Jan (9 Jan); Deng, Neale, Lin to Netco, most of the group released 15 Jan (11 Jan) → memory/domains/organization/research-group-wind-down.md; owner may stay to 31 Jan, Bharati's leave to 15 Jan → memory/domains/organization/hr-matters-2001.md
-- Leavers: Hrgovcic to Harvard Management (10 Jan); Supatgiat's letters due 15 Jan, Crenshaw's resume, Cindy Olson helps Leann Walton (11 Jan) → memory/domains/organization/leavers-and-job-leads.md
-- Group: Ann Thomas gets Kim Watson, McMichael, Breese as outside voices (10 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones, LeBoutillier's op-ed (12-13 Jan) → memory/domains/organization/press-and-media.md
+- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; NYSE delists, stock OTC as ENRNQ (16 Jan) → memory/domains/organization/corporate-announcements-2001.md; UBS's 51% of Netco (15 Jan); Exotica needs a specific letter from Fallon (16 Jan) → memory/domains/organization/ubsw-transfer.md
+- Legal: testimony in Washington in January (13 Jan); no records destroyed (14 Jan); indemnification: his lawyer Walter Brown meets Robert C. Williams 16 Jan, a possible conflict (15 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: Deng, Neale, Lin to Netco, most of the group released 15 Jan (11 Jan); last group lunch, Research Reunion #1 (14-15 Jan) → memory/domains/organization/research-group-wind-down.md; owner with Enron till 31 Jan (15 Jan) → memory/domains/organization/hr-matters-2001.md
+- Leavers: Jaesoo Lew's lunch, Ganjoo's resume (14 Jan); Mora leaves (15 Jan); Pernoud seeks work (16 Jan) → memory/domains/organization/leavers-and-job-leads.md; Danilov to RWE Trading (15 Jan) → memory/domains/organization/london-research.md
+- Group: Ann Thomas asks Kim Watson, McMichael, Breese for interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones, LeBoutillier's op-ed (12-13 Jan) → memory/domains/organization/press-and-media.md
 
 ## Files
 
@@ -32,8 +32,8 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
 - memory/domains/organization/group-events-2000.md — parties, gatherings, farewells
 - memory/domains/organization/leave-and-training.md — leave and courses
-- memory/domains/organization/legal-matters.md — legal matters: Cuneo case (Jan 2000), e-mail retention, SEC deposition (Dec 2001-Jan 2002)
-- memory/domains/organization/london-research.md — London Research (Leppard)
+- memory/domains/organization/legal-matters.md — legal matters: Cuneo case (Jan 2000), e-mail retention, SEC deposition (Dec 2001-Jan 2002), indemnification and Walter Brown (Jan 2002)
+- memory/domains/organization/london-research.md — London Research (Leppard, Danilov)
 - memory/domains/organization/mg-metals-integration.md — MG Metals integration
 - memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC
 - memory/domains/organization/office-equipment.md — equipment, subscriptions (IIF), Avistar
@@ -59,7 +59,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
 - memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001
-- memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001 (Capital Book, iBuyit)
+- memory/domains/organization/corporate-announcements-2001.md — company-wide news and systems, 2001-02 (Capital Book, iBuyit, ENRNQ)
 - memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
 - memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
 - memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001

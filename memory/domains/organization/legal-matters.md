@@ -3,16 +3,14 @@ id: legal-matters
 type: topic
 domain: organization
 title: "Legal matters involving the owner"
-summary: "Legal matters involving the owner: e-mail retention: his old mail vanished, backup tapes keep everything (31 Dec 2001); SEC deposition without counsel (4 Jan 2002), Levy offers help (7 Jan 2002); Bryan Cave's Therese Pritchard noted (8 Jan 2002); testimony in Washington in January (13 Jan 2002); detail and the Cuneo case (2000) archived."
+summary: "Legal matters involving the owner: testimony in Washington in January (13 Jan 2002); no records destroyed, Derrick's reminder (14 Jan 2002); indemnification: his lawyer Walter Brown (Thelen Reid) to meet Robert C. Williams 16 Jan, a possible conflict (15 Jan 2002); SEC deposition without counsel (4 Jan 2002), e-mail retention (31 Dec 2001), Levy, Pritchard, the Cuneo case (2000) archived."
 status: active
-updated: 2002-01-13
+updated: 2002-01-16
 ---
 # Legal matters involving the owner
 
-Detail ←[[legal-matters-2002-01-09]] ←[[legal-matters-2002-01-13]]
+Detail ←[[legal-matters-2002-01-09]] ←[[legal-matters-2002-01-13]] ←[[legal-matters-2002-01-16]]
 
-- [2002-01-07] Michael Levy (Swidler, (202) 295-8414; cc Robert C. Williams, Amy Carpenter-Holmes) wishes the owner well in his SEC testimony, offers help on counsel or any government investigation; copied to AOL 8 Jan. ←[[m10652]] ←[[m10687]]
-- [2002-01-08] Owner mails himself, subject "B-C", Bryan Cave's people page for Therese D. Pritchard. ←[[m10716]]
-- [2001-12-31] E-mail retention: owner tells Britt Davis his mail older than 30 days vanished despite the keep-all notice; Robert C. Williams: a subpoena precaution, backup tapes keep everything, deletions retrievable on request. ←[[m10569]] ←[[m10570]] ←[[m10581]] ←[[m10582]] ←[[m10621]] ←[[m10622]]
-- [2002-01-04] SEC deposition: owner to Robert C. Williams: "I decided that I don't really  need a counsel to assist me at my deposition before the Commission."; may hire his own lawyer for procedural advice and send Williams the bill; faxes the SEC; tells Michael Levy (Swidler) he will appear without counsel. ←[[m10629]] ←[[m10633]] ←[[m10635]]
 - [2002-01-13] Owner to Zofia Grodek (22 Dec, forwarded 13 Jan): "W styczniu bede zeznawac w Waszyngtonie przed SEC na temat ENRON." ←[[m10873]]
+- [2002-01-14] James Derrick Jr. (Legal) to all: pending and threatened proceedings, so no records, paper or electronic, may be destroyed; closing offices call Bob Williams (713-345-2402) for storage. ←[[m10918]]
+- [2002-01-15] Indemnification: the owner's lawyer is Walter Brown, Thelen Reid & Priest LLP, San Francisco; owner asks Robert C. Williams for "5-10 minutes to meet him in the morning to discuss the procedure for indemnification" (Wed 16 Jan); Williams, with the carriers 9-3, has before 9 or after 3; owner: "Let's meet at 8:30 I shall bring him to your office."; Brown: a partner sees a possible conflict (Thelen Reid acts for another client in a significant transaction with Enron, whose consent may be needed); if his flight that evening slips, hold off the meeting. ←[[m10951]] ←[[m10957]] ←[[m10958]] ←[[m10959]] ←[[m10961]] ←[[m10962]] ←[[m10970]]
