@@ -1,0 +1,207 @@
+{
+ "slice": 111,
+ "simulated_today": "2001-12-09",
+ "feed": {
+  "slice": 111,
+  "iso_week": "2001-W49",
+  "first_seq": 10175,
+  "last_seq": 10245,
+  "messages": 71,
+  "durable": 47,
+  "first_date": "2001-12-03 07:03",
+  "last_date": "2001-12-09 21:26",
+  "today": "2001-12-09",
+  "inbox_files": [
+   "2001-12-03--mail.md",
+   "2001-12-04--mail.md",
+   "2001-12-05--mail.md",
+   "2001-12-06--mail.md",
+   "2001-12-07--mail.md",
+   "2001-12-09--mail.md"
+  ],
+  "inbox_chars": 40556,
+  "l2_chars": 177220
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 543,
+ "quota_before": {
+  "five_hour": 4.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 7.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 111,
+  "messages": 71,
+  "durable": 47,
+  "kept": 44,
+  "kept_rate_excluding_redundant": 0.957,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1,
+   "redundant": 1
+  },
+  "dropped": 3,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3655,
+  "fact_lines_with_source": 2374,
+  "dated": 2374,
+  "date_matches_source": 2307,
+  "date_mismatch_ids_this_slice": [
+   "m10203",
+   "m10220"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.75,
+   1.0,
+   0.86,
+   1.0,
+   1.0,
+   0.5,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 760
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1107
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 225,
+   "chars": 392217
+  },
+  "people": {
+   "files": 746,
+   "chars": 497205
+  },
+  "archive_inbox": {
+   "files": 693,
+   "chars": 6003614
+  },
+  "archive_mail": {
+   "files": 10271,
+   "chars": 26999083
+  },
+  "archive_other": {
+   "files": 2013,
+   "chars": 1583508
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 541008,
+   "duration_api_ms": 488108,
+   "total_cost_usd": 3.2317269000000004,
+   "usage": {
+    "input_tokens": 80,
+    "cache_creation_input_tokens": 155812,
+    "cache_read_input_tokens": 4425230,
+    "output_tokens": 54980,
+    "output_tokens_details": {
+     "thinking_tokens": 24276
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 155812,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 958,
+      "cache_read_input_tokens": 174122,
+      "cache_creation_input_tokens": 629,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 629
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002649,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 80,
+     "outputTokens": 54980,
+     "cacheReadInputTokens": 4425230,
+     "cacheCreationInputTokens": 155812,
+     "webSearchRequests": 0,
+     "costUSD": 3.2314620000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24276,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 155812,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "The 2001-12-09 consolidation (week 2001-W49) is committed as `4e36d377`, and both gates passed: lint (194 over-target warnings, no errors) and sleep-audit. I did not push. The instructions said both \"do not push, the runner pushes\" and \"git push origin main\"; I followed the replay-specific one and left the push to the runner. The untracked `dataset/runs/sleep-111.transcript.jsonl` is the runner's file, so I left it out of the commit.\n\n- **Messages:** all 47 messages with notes are handled. 44 are cited in memory, and 3 are listed in `dataset/drops/sleep-111.tsv`: m10191 is a re-forward of a note already filed, m10210 is a mass mailing of job candidates, and m10225 is only an e-mail address change.\n- **Existing topics:** 10 topic files took the week's news, including the University of Houston lunch and trading-floor visit, the Rice faculty meeting moved to 28 Jan, the GARP presentation due 14 Dec, and the 4 Dec e-mail virus with the rule against outside mail accounts.\n- **New topics:** I opened three, because the HR, staff and correspondence files were already over their size targets and adding the week there would have failed the audit:\n  - `work/corp-dev-risk-analysis`: Corporate Development's request for volatilities, capital and P&L figures.\n  - `organization/ubsw-transfer`: the plan to move 4 meteorologists and 2 quants to UBS Warburg's new company, and its request for the VaR model reviews.\n  - `organization/leavers-and-job-leads`: Paulo Issler's resignation, Bob Lee's return to Michigan, colleagues' farewells and job leads.\n- **People:** Prakash Narayanan and Jayshree Desai reached five messages, so each got an entity file and a line in the alias table. 15 existing people files got a context line.\n- **Compression and checks:** I moved the oldest lines of 9 topics word for word into this run's archive files. No file was above 90% of its size limit, so the compression quota had nothing to work on. The five oldest \"still true\" lines still hold.\n- **Questions:** b"
+  },
+  "repair": null
+ }
+}
