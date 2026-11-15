@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-09
+updated: 2002-01-13
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; officers' questionnaire, trading-business auction 10 Jan (9 Jan) → memory/domains/organization/corporate-announcements-2001.md; no software to NETCO without Fallon's letter (9 Jan) → memory/domains/organization/ubsw-transfer.md
-- Legal: SEC deposition without counsel (4 Jan), Levy offers help (7 Jan) → memory/domains/organization/legal-matters.md
-- Wind-down: Narongwanich, Supatgiat resign (7-8 Jan); Raymond's unit ends 15 Jan; some staff kept to 30 Jan; one-on-ones 10 Jan (9 Jan) → memory/domains/organization/research-group-wind-down.md; owner may stay to 31 Jan, Bharati's leave to 15 Jan → memory/domains/organization/hr-matters-2001.md
-- Leavers: Bob Lee drafts Skinner's reference, Surbey's resume (7 Jan); Sezgen's Chevron lead (8 Jan) → memory/domains/organization/leavers-and-job-leads.md
-- Group: Weather Class again from 9 Jan; Ann Thomas seeks outside voices (9 Jan) → memory/domains/organization/research-group-2001.md; AP complaint (Dec) → memory/domains/organization/press-and-media.md
+- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; officers' questionnaire never reached him, asked again (10 Jan) → memory/domains/organization/corporate-announcements-2001.md; no software to NETCO without Fallon's letter (9 Jan) → memory/domains/organization/ubsw-transfer.md
+- Legal: SEC deposition without counsel (4 Jan); testimony in Washington in January (13 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: Raymond's unit ends 15 Jan; some staff kept to 30 Jan (9 Jan); Deng, Neale, Lin to Netco, most of the group released 15 Jan (11 Jan) → memory/domains/organization/research-group-wind-down.md; owner may stay to 31 Jan, Bharati's leave to 15 Jan → memory/domains/organization/hr-matters-2001.md
+- Leavers: Hrgovcic to Harvard Management (10 Jan); Supatgiat's letters due 15 Jan, Crenshaw's resume, Cindy Olson helps Leann Walton (11 Jan) → memory/domains/organization/leavers-and-job-leads.md
+- Group: Ann Thomas gets Kim Watson, McMichael, Breese as outside voices (10 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones, LeBoutillier's op-ed (12-13 Jan) → memory/domains/organization/press-and-media.md
 
 ## Files
 
@@ -65,5 +65,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
 - memory/domains/organization/leavers-and-job-leads.md — leavers, farewells and job leads after the collapse (Dec 2001)
 - memory/domains/organization/ubsw-transfer.md — UBS Warburg's new company (Netco): staff transfer, staff lists, headcount, VaR review diligence, DPR (Dec 2001)
-- memory/domains/organization/press-and-media.md — the owner and the press after the collapse: Reuters, the AP complaint (Dec 2001)
+- memory/domains/organization/press-and-media.md — the owner and the press after the collapse: the AP complaint (Dec 2001), articles he forwards (Jan 2002)
 - memory/domains/organization/research-group-wind-down.md — the group's shutdown (Jan 2002): resignations, terminations, extensions

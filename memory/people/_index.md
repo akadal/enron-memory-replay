@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-09
+updated: 2002-01-13
 ---
 # People — index
 
@@ -80,6 +80,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Bjorn Hagelmann
 - Blake Johnson
 - Bob Casey
+- Bob Nau
 - Bob Peebler
 - Bob Shults
 - Bobby Farris
@@ -126,9 +127,11 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Christian LeBroc
 - Christian Werner
 - Christie Patrick
+- Chuanli Deng
 - Cindy Derecskey
 - Cindy Hudler
 - Cindy Justice
+- Cindy Olson
 - Cindy Skinner
 - Claude Philoche
 - Claudio Ribeiro
@@ -743,6 +746,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Vera Apodaca
 - Viacheslav Danilov (Slava Danilov)
 - Vicky Windsor
+- Victoria Kerridge
 - Vincent Chen
 - Vincent Tang
 - Vladimir Gorny

@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2002-01-09
+updated: 2002-01-13
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: Duffie's Bauer seminar 10 Jan, owner at the lunch, Kumar's trading-floor tour Friday (7-8 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's price data (Dec) → memory/domains/industry/rice-university.md
-- Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May (12 Dec) → memory/domains/industry/eprm-risk.md
-- Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM analyst jobs (14-31 Dec) → memory/domains/industry/gpcm-rbac.md
-- 2002 events: GARP talk 12 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan (4 Jan) → memory/domains/industry/events-attending-2001.md
+- Universities: Duffie's Bauer seminar 10 Jan, owner at the lunch, Kumar's trading-floor tour Friday (7-8 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's price data passed on (10 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
+- Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May, Kerridge awaits his answer (11 Jan) → memory/domains/industry/eprm-risk.md
+- Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM 9.0.8.4, winter definition asked (13 Jan) → memory/domains/industry/gpcm-rbac.md
+- 2002 events: GARP talk 12 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, revised agenda (10 Jan) → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -49,4 +49,4 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001
 - memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (EPIS Nov 2001, CERA call Dec 2001, EMF 20 at Rice Jan 2002)
 - memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, weather project, Energy Club speaker
-- memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)
+- memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers; Duke as sponsor, Jan 2002)
