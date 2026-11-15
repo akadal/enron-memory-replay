@@ -5,7 +5,7 @@ entity: person
 name: "Therese Candella"
 aliases: []
 domains: [organization, work]
-updated: 2001-10-28
+updated: 2001-12-09
 ---
 # Therese Candella
 
@@ -15,6 +15,7 @@ Research Group admin assistant (Admin. Assistant II, ENA) from Aug 2001, backing
 
 - [2001-08-22] Joins the Research admin staff → memory/domains/organization/research-group-2001.md ←[[m09047]]
 - [2001-10-26] Runs the Enron Kids Christmas sponsorship Crenshaw puts to the owner → memory/domains/organization/research-group-2001.md ←[[m09684]]
+- [2001-12-07] Sends the group email list → memory/domains/organization/research-group-2001.md ←[[m10241]]
 
 ## Context: work
 

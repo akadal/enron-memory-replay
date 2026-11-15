@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-11-30
+updated: 2001-12-09
 ---
 # People — index
 
@@ -278,6 +278,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jason Sokolov
 - Javier Lamas
 - Jay Webb
+- Jayshree Desai
 - Jean Eisel
 - Jean Mrha
 - Jean Ryall
@@ -547,6 +548,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pierre-Philippe Ste-Marie
 - Pinnamaneni Krishnarao (Krishna Krishnarao)
 - Piotr Karasinski
+- Prakash Narayanan
 - Pravas Sud
 - Praveen Kumar
 - Praveen Mellacheruvu

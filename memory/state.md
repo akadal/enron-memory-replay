@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-11-30 (week 2001-W48). Enron in crisis: Enron Europe reportedly ends business 30 Nov except Metals; a potential buyer for gas and power trading meets Risk Control 30 Nov; no hiring for 12 months; colleagues leaving; discs and technical information may not leave Enron; owner: "No decision yet." on his future, the group's soft landing first.
+As of 2001-12-09 (week 2001-W49). Enron has collapsed; its trading business moves to UBS Warburg's new company, with 4 meteorologists and 2 pure quants from the group planned to transfer. About sixty of the owner's people need jobs; Issler and Bob Lee are leaving. The owner's own options are on hold until the uncertainty is resolved.
 
-- Coming: Rice faculty meeting 3 Dec; PSERC 5-7 Dec; UH holiday reception 7 Dec; MSCF board, New York 12 Dec; Bauer sub-group input 15 Dec; Duffie at Bauer 10 Jan → memory/domains/industry/_index.md
-- Owed: names to Lacima (Brennan); MSCF letter; 2002 EAM support decision; Bennett's EMBA funding; Wiley proposal; RISK referee report → memory/domains/work/_index.md
+- Coming: UH trading-floor visit 10 Dec; MSCF board, New York 12 Dec; GARP slides due 14 Dec; Bauer input 15 Dec; Duffie at Bauer 10 Jan; GEMI 23 Jan; Rice faculty 28 Jan → memory/domains/industry/_index.md
+- Owed: VaR model reviews for UBSW (Port); Corp Dev analysis (Desai); names to Lacima; MSCF letter; EAM 2002 decision; Bennett's EMBA; Wiley proposal; RISK report → memory/domains/work/_index.md

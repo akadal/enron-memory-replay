@@ -5,7 +5,7 @@ entity: person
 name: "Rabi De"
 aliases: []
 domains: [organization, work]
-updated: 2001-07-15
+updated: 2001-12-09
 ---
 # Rabi De
 
@@ -18,3 +18,4 @@ Candidate from Shell (rabide@yahoo.com), referred by Bill Berkeland. ←[[m02117
 ## Context: work
 
 - [2001-07-13] Co-writes the 'Reliability Var' paper with Tamarchenko → memory/domains/work/var-credit-system-2001.md ←[[m08699]] ←[[m08701]]
+- [2001-12-06] Margin capital simulation for Corporate Development → memory/domains/work/corp-dev-risk-analysis.md ←[[m10221]]

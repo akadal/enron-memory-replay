@@ -5,7 +5,7 @@ entity: person
 name: "Ravi Thuraisingham"
 aliases: []
 domains: [organization, work]
-updated: 2000-03-12
+updated: 2001-12-09
 ---
 # Ravi Thuraisingham
 
@@ -22,3 +22,4 @@ Research Group manager heading the EBS research unit (Enron Broadband Services).
 - [2000-01-18] EBS work: Sycamore, Salal Humair, Martin Lin, storage book → memory/domains/work/broadband-services.md ←[[m00375]] ←[[m00453]] ←[[m00557]] ←[[m00713]]
 - [2000-02-15] KMI database; Stanford tie → memory/domains/work/kmi-database-license.md, memory/domains/work/stanford-research-ties.md ←[[m00634]] ←[[m00677]] ←[[m00400]]
 - [2000-03-08] Hamachi, Griebling offsite, network modelling → memory/domains/work/broadband-services.md ←[[m00908]] ←[[m00883]] ←[[m00891]]
+- [2001-12-09] Asks for job leads → memory/domains/organization/leavers-and-job-leads.md ←[[m10245]]

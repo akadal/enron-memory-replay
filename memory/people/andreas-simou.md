@@ -5,7 +5,7 @@ entity: person
 name: "Andreas Simou"
 aliases: []
 domains: [industry]
-updated: 2001-09-14
+updated: 2001-12-09
 ---
 # Andreas Simou
 
@@ -15,3 +15,4 @@ GARP 2001 Conference Producer (andreas@garpmail.com, +44 (0) 20 7626 9301, fax +
 
 - [2000-08-15] The owner's GARP 2001 session and brochure details → memory/domains/industry/speaking-engagements-2000.md ←[[m02842]] ←[[m02883]] ←[[m02885]] ←[[m03008]] ←[[m03157]]
 - [2001-09-10] GARP 2002: owner speaks in the energy risk stream and runs a workshop with Mark Williams; brochure goes to press that week → memory/domains/industry/garp-2001.md ←[[m09157]] ←[[m09179]]
+- [2001-12-04] GARP 2002 presentation due 14 Dec → memory/domains/industry/garp-2001.md ←[[m10192]]

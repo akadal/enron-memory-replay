@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-11-30
+updated: 2001-12-09
 ---
 # Personal — index
 
@@ -9,14 +9,14 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Business plan with Stinson Gibner and BFL Associates (Arfsten, Bjorn), breakfast Thu 29 Nov; Andrea Reed leaves, owner her reference (29 Nov); Masson calls from London (30 Nov) → memory/domains/personal/correspondence.md
+- Business plan with Stinson Gibner and BFL Associates (Arfsten, Bjorn), next meeting Wed or Thu (3 Dec); Cumberland (El Paso) breakfast 7 Dec, Balagopal intro; Zofia Grodek writes from Poland (3 Dec) → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
 - Son: Entergy EMS lead via Dale Furrow, contact Charles Sanders (30 Nov); a Vizsla puppy search (30 Nov) → memory/domains/personal/household.md
 - Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday → memory/domains/personal/investments-2000.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (business plan with BFL and Gibner, leavers' contacts, Nov 2001; Arfsten lunch, Mihura, MacMillan, Lubowski, Barkley, Cumberland, Enron Dinner Friends, Kindall, Tlapek and others archived)
+- memory/domains/personal/correspondence.md — private contacts (business plan with BFL and Gibner, Cumberland, Grodek, Dec 2001; leavers' contacts, Nov 2001; Arfsten lunch, Mihura, MacMillan, Lubowski, Barkley, Cumberland, Enron Dinner Friends, Kindall, Tlapek and others archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford, son's Entergy lead, Vizsla search (Nov 2001); sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk

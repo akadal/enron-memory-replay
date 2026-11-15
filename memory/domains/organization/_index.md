@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-11-30
+updated: 2001-12-09
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: holiday party cancelled (19 Nov); ClickAtHome, Matching Gift and VIP suspended (21 Nov); Presto calls the owner to a Risk Control meeting with a potential buyer of the gas and power trading business (30 Nov) → memory/domains/organization/corporate-announcements-2001.md
-- HR: Labbe takes the group's Dynegy merger questions to the Q&A team (13-14 Nov); owner on his future: "No decision yet.", the group's soft landing first (16 Nov); Labbe: Werner's status with Whalley? still fund Bennett's Rice EMBA (65K)? (19 Nov) → memory/domains/organization/hr-matters-2001.md
-- Candidates: owner: "I do not anticipate any hiring over the next 12 months." (Williams, Panoutsakos); Katz to call next week; Figueroa-Lopez's internship unknown (27 Nov) → memory/domains/organization/recruiting-candidates.md; Lacima's London head, owner to send names (29-30 Nov) → memory/domains/organization/outside-recruiters-2001.md
-- Staff: Sevil Yaman asks about her full-time plan (13 Nov); Werner's Houston start likely 16 Jan → memory/domains/organization/staff-and-recruiting.md; Barrett's workshop: very good feedback, invoice entered (26 Nov); Ganjoo's GMAT: "file an expense report" (30 Nov) → memory/domains/organization/leave-and-training.md
-- Group: no floppy discs home, no technical information e-mailed outside Enron (30 Nov); Candella's personal email list (29 Nov) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
+- Company: e-mail virus, no external mail accounts from Enron PCs (5 Dec); potential buyer's Risk Control meeting (30 Nov) → memory/domains/organization/corporate-announcements-2001.md; UBS Warburg: 4 meteorologists and 2 pure quants to transfer, Duffie and Andersen VaR reviews asked (7-9 Dec) → memory/domains/organization/ubsw-transfer.md
+- Leavers: about sixty of the owner's people need help; ForwardVue and RWR leads (3 Dec); Paulo Issler resigns 6 Dec; Bob Lee to Michigan by February (7 Dec) → memory/domains/organization/leavers-and-job-leads.md
+- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec); Labbe: Werner's status, Bennett's Rice EMBA (19 Nov) → memory/domains/organization/hr-matters-2001.md; Fitzpatrick's numbers, owner: $95,000 for Paulo (5 Dec) → memory/domains/organization/staff-and-recruiting.md
+- Candidates: "I do not anticipate any hiring over the next 12 months." (27 Nov); Narayanan's CMU talk cancelled (3 Dec) → memory/domains/organization/recruiting-candidates.md; Lacima's London head, owner to send names (29-30 Nov) → memory/domains/organization/outside-recruiters-2001.md
+- Group: no floppy discs home (30 Nov); group email list (7 Dec) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
 
 ## Files
 
@@ -63,3 +63,5 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-mid-apr-2001.md — from 16 Apr 2001
 - memory/domains/organization/candidate-interviews-late-apr-2001.md — candidates and referrals from 23 Apr 2001
 - memory/domains/organization/candidate-interviews-apr-end-2001.md — candidates and referrals from 25 Apr 2001
+- memory/domains/organization/leavers-and-job-leads.md — leavers, farewells and job leads after the collapse (Dec 2001)
+- memory/domains/organization/ubsw-transfer.md — UBS Warburg's new company: staff transfer, VaR review diligence (Dec 2001)

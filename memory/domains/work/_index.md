@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-11-30
+updated: 2001-12-09
 ---
 # Work — index
 
@@ -10,8 +10,8 @@ Scope: the owner's own projects, models, deals and research output.
 ## Hot
 
 - Crisis: Barkley: EOL transactions down for two weeks, most on Power (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; LJM/Raptor memos to litigation.ljm, Cooley collects files (6-7 Nov) → memory/domains/work/talon-raptor.md
-- Liquidity: Shanbhogue's capital-needs template; cash burn $6.22M/day, shown as $10M (6 Nov) → memory/domains/work/var-credit-system-2001.md; DPC options: owner offers Stan Horton the group's help (7 Nov) → memory/domains/work/dabhol-power-sale.md
-- Models: Supatgiat's merger-probability calculator, write-up kept (19-26 Nov); Knowledge@Wharton's 'Oh, the Games Enron Played' (26 Nov) → memory/domains/work/ene-stock-drivers.md; Krishna's 2002 EAM support: 3 FTE, ~$750,000 (19 Nov) → memory/domains/work/ees-structuring-models.md; Tamarchenko: Enron short gold too (26 Nov) → memory/domains/work/mg-metals-var.md; her group's model list (16 Nov) → memory/domains/work/model-risk-audit.md
+- Corporate Development: Desai's vols, correlations, ROVAR and economic capital ask, Lew: power vol tracks VaR, not P&L (4 Dec); De's margin capital simulation (6 Dec); Port's P&L breakout: 2000 prop trading, 2001 new deals (7 Dec) → memory/domains/work/corp-dev-risk-analysis.md; cash burn $6.22M/day (6 Nov) → memory/domains/work/var-credit-system-2001.md
+- Models: Supatgiat's merger-probability calculator (19-26 Nov) → memory/domains/work/ene-stock-drivers.md; Krishna's 2002 EAM support: 3 FTE, ~$750,000 (19 Nov) → memory/domains/work/ees-structuring-models.md; Tamarchenko: Enron short gold too (26 Nov) → memory/domains/work/mg-metals-var.md; DPC options (7 Nov) → memory/domains/work/dabhol-power-sale.md
 - Writing: column chased by Sam, owner: "I shall try to get it by tomorrow." (27 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS contacts (12-16 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
 - Universities: Baylor visit 15-16 Nov held, Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md; CMU MSCF board 12 Dec, letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md; PowerWeb, Stoft and Hogan saved (13 Nov) → memory/domains/work/transmission-modelling-2001.md
 
@@ -41,6 +41,6 @@ Path: memory/domains/work/<name>.md
 - wind-farm-real-option-2001 · vendor-offers-2001 · ebs-research-requests-2001 · jedi-shares-2001 · outage-risk-option-2001 · weather-research-2001
 - private-firm-credit-model-2001 · petrochem-forward-curves-2001 · eol-trading-algorithms-2001 · project-x-var-2001 · prediction-company
 - oz-crude-basket-2001 · media-group-pitch-2001 · brazil-hydro-2001 · forest-products-curves-2001
-- kaminski-column · energy-derivatives-book
+- kaminski-column · energy-derivatives-book · corp-dev-risk-analysis
 
 Closed: 1

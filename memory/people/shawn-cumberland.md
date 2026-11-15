@@ -5,11 +5,11 @@ entity: person
 name: "Shawn Cumberland"
 aliases: []
 domains: [organization, work, personal]
-updated: 2001-10-21
+updated: 2001-12-09
 ---
 # Shawn Cumberland
 
-Enron business developer who met the owner in Nov 2000 and asked him about Bogdan Szopa (Feb 2001). ←[[m04459]] ←[[m05849]]
+Enron business developer who met the owner in Nov 2000 and asked him about Bogdan Szopa (Feb 2001); at El Paso by Dec 2001 (Shawn.Cumberland@ElPaso.com, ←[[m10215]]). ←[[m04459]] ←[[m05849]]
 
 ## Context: organization
 
@@ -22,3 +22,4 @@ Enron business developer who met the owner in Nov 2000 and asked him about Bogda
 ## Context: personal
 
 - [2001-10-19] Lunch with the owner Tue 23 Oct → memory/domains/personal/correspondence.md ←[[m09381]]
+- [2001-12-05] Now at El Paso; breakfast Fri 7 Dec; introduces Balu Balagopal → memory/domains/personal/correspondence.md ←[[m10215]] ←[[m10233]]

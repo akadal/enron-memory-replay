@@ -5,7 +5,7 @@ entity: person
 name: "David Port"
 aliases: []
 domains: [work]
-updated: 2000-11-05
+updated: 2001-12-09
 ---
 # David Port
 
@@ -17,3 +17,4 @@ RAC, Houston; in the weekly Risk Systems Enhancements meeting. ←[[m03308]]
 - [2000-10-24] Gets RAC's Inflation Model Review → memory/domains/work/uk-inflation-book-ppi.md ←[[m03889]]
 - [2000-10-30] SRM fits the volumetric part of EWRM → memory/domains/work/enterprise-risk-management.md ←[[m03935]]
 - [2000-11-02] Leads market risk on the new DRAM trading business (Michael Moulton, Steve Kim; head trader Moulton or Wade Dosier open); Cassandra Schultz drafts the interim policy for Rick Buy and Skilling, Christian LeBroc reviews the quant parameters; owner cc'd ←[[m03995]]
+- [2001-12-07] P&L breakout for Corporate Development → memory/domains/work/corp-dev-risk-analysis.md ←[[m10240]]; 9 Dec chases the VaR model reviews for UBS Warburg → memory/domains/organization/ubsw-transfer.md ←[[m10244]]
