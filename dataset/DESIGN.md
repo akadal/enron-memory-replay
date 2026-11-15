@@ -70,6 +70,19 @@ questions, not a curated alias table. An identity the run is unsure of stays a q
 of Lacima had eleven messages with notes by slice 60 and no entity file, because the question of
 who that is lapsed unanswered.
 
+The preamble's first sentence points to `dataset/README.md`, a file the pilot setup had and `main`
+never did; the method is described in the root `README.md` and in this file.
+
+Besides the prompt and Claude Code's own system prompt, every consolidation received one more
+file. The runs' working directory sat inside another git checkout on the build machine, and Claude
+Code also loads instruction files from parent directories, so each run was given that checkout's
+`CLAUDE.md`: 371 bytes, in Turkish, saying only that its rules live in `AGENTS.md` and its memory
+root in `memory/MEMORY.md`, two paths this repository also has. The two files it imports lie
+outside the working directory and were not loaded. Measured with the pinned CLI and the run's
+flags, the context in that directory is 761 tokens larger than in a directory outside it (this
+includes the git status), against roughly 10,000 tokens for the imported files. Capture ran from
+an empty directory and received neither.
+
 ## Gates (S6), checked from outside after every slice
 
 1. The harness exited 0 and committed at least once.
@@ -94,7 +107,16 @@ who that is lapsed unanswered.
    reset, and when the five-hour window is at 90% or more it waits for that to refill; a slice
    whose capture records are not written yet is waited for as well. Waiting changes nothing in
    the data; it only spreads the run over more days.
-7. The harness is Claude Code 2.1.323; the runner refuses any other version.
+7. The harness is Claude Code 2.1.323; the runner refuses any other version. Its environment
+   changed once. Up to slice 70 (and the cut-off first attempt of 71) the runner had been started
+   from the Claude desktop application and the runs inherited its launcher: they were offered 33
+   tools and 24 skills, with a first-turn context of about 39,100 tokens. From slice 71 the
+   runner was started from a plain terminal: 30 tools and 20 skills, about 25,300 tokens. The
+   difference is three Artifact tools and four skills (`artifact-capabilities`,
+   `artifact-diagramming`, `slides`, `whiteboard`), none of which any run called (runs 1-70 used
+   Bash, Write, Read, Edit, ToolSearch and TaskStop). From slice 71 Claude Code also makes one
+   small Haiku call of its own per run (see below). Each transcript's first event records the
+   tool list.
 
 The ledger also records the kept rate excluding drops classed as redundant, the classes of the
 drops, and the ids whose fact lines carry a bracket date different from their source message.
@@ -125,8 +147,8 @@ take its place.
 
 ## Second pass from slice 77 (review 090)
 
-The first pass of slices 77-90 is kept on branch `drift-77-90`, its tags renamed `drift-077` to
-`drift-090`. On `main` the memory and the run records were rolled back to `sleep-076` in one
+The first pass of slices 77-90 is kept in the history under tags `drift-077` to `drift-090`
+(every commit of it is an ancestor of `main`). On `main` the memory and the run records were rolled back to `sleep-076` in one
 commit, and the slices were run again. The first pass holds no false or lost fact, but from slice
 77 the runs stopped filing facts into standing topics. An over-target topic may grow only 150
 characters per run (the ratchet check), and from slice 78 the runs opened a new file per week
@@ -135,7 +157,7 @@ existing topics fell from 41 per slice (61-76) to 7 (81-90); topic files rose fr
 107 of them named after a month or a week; standing topics went stale (`work/storage-model` stops
 at 2001-05-13 while a June storage fact sits in a weekly file). That is a memory filed by date,
 not by subject, which eleman's format does not describe: time-bound files are `YYYY-MM-DD-slug.md`
-and a fact has one home. The branch stays as a control: the same feed and model without the
+and a fact has one home. The first pass stays as a control: the same feed and model without the
 paragraph below.
 
 From the second pass of slice 77 on, the preamble adds one paragraph (`run.sh`): a topic file is a
@@ -143,8 +165,8 @@ standing subject, never a period of time; a fact goes into the topic it belongs 
 week it arrives; when that file is over its budget its oldest fact lines move verbatim to
 `memory/archive/<domain>/YYYY/`; no topic file is named after a week or a month. The log-file name
 (gate 2) and the automatic rerun (above) apply from the same point. Slice 88's first-pass
-attempt, whose commit changed L2 and was discarded unpushed, is recorded on the branch
-(`sleep-088.attempt1.*`). `summary.py` now prices the small Haiku call that Claude Code makes on
+attempt, whose commit changed L2 and was discarded unpushed, is recorded in the first pass
+(`sleep-088.attempt1.*` from tag `drift-088`). `summary.py` now prices the small Haiku call that Claude Code makes on
 its own in every run from slice 71 (about 2,400 tokens in, 25 out); before, slices 71-76 showed no
 cost. (`dataset/audit/2026-11-14-8-review-090.md`)
 
@@ -234,7 +256,7 @@ for two decades and is used as the CMU release holds it. Concretely:
 
 ## Model choice and controls
 
-Each role uses one model throughout (README, "Models"), measured against Claude Opus 5.5, the
+Each role uses one model throughout (README, "Model and settings"), measured against Claude Opus 5.5, the
 model the reference deployment of eleman runs on (`dataset/validation/`):
 
 - **Capture: Claude Opus 5.5.** On 96 stratified pilot messages, judged blind both ways, Claude
@@ -243,27 +265,30 @@ model the reference deployment of eleman runs on (`dataset/validation/`):
   done; Opus was chosen so that one model does all model work in the dataset, which makes it
   simpler to describe and to reuse. On a subscription the price difference is quota, not money:
   a measured $0.018 list-equivalent per capture call.
-- **Consolidation: Claude Opus 5.5.** On pilot slices 1-3 (branch `control-opus`) Opus kept every
+- **Consolidation: Claude Opus 5.5.** On pilot slices 1-3 (tags `control-opus-001..003`) Opus kept every
   durable message, wrote standing topics instead of dated one-off files, stayed inside every
   budget, and cost 1.19 times Sonnet 5.5 with a third of the turns (review in
   `dataset/audit/2026-11-13-4-pilot-review.md`).
 
 ## Pilots kept as records
 
-| Branch | What it is |
+| Tags | What it is |
 |---|---|
-| `pilot-raw` (tags `pilot-raw-01..03`) | raw mail fed straight into the inbox, 100 messages per consolidation, Sonnet 5.5 |
-| `pilot-v2` (tags `pilot-v2-001..007`) | the capture pipeline before the stream and prompt fixes, weekly slices 1-7, Sonnet 5.5, Claude Code 2.1.263 |
-| `control-opus` (tags `control-opus-001..003`) | slices 1-3 of `pilot-v2`'s feed consolidated by Opus 5.5 |
-| `pilot-v3` (tags `pilot-v3-001..010`) | the corrected pipeline with Haiku capture and Opus consolidation, slices 1-10; checks A and B ran on it |
+| `pilot-raw-01..03` | raw mail fed straight into the inbox, 100 messages per consolidation, Sonnet 5.5 |
+| `pilot-v2-001..007`, `pilot-v2-final` | the capture pipeline before the stream and prompt fixes, weekly slices 1-7, Sonnet 5.5, Claude Code 2.1.263 |
+| `control-opus-001..003` | slices 1-3 of `pilot-v2`'s feed consolidated by Opus 5.5 |
+| `pilot-v3-001..010`, `pilot-v3-final` | the corrected pipeline with Haiku capture and Opus consolidation, slices 1-10; checks A and B ran on it |
 
-`main` was restarted from the setup commit after the review; its slices are the dataset.
+The pilots ran on branches of their own, removed at the freeze; their tags keep every commit
+(`pilot-v2-final` and `pilot-v3-final` mark the last commits after the last numbered tag). `main`
+was restarted from the setup commit after the review; its slices are the dataset.
 
-## Run plan
+## How the run went
 
 Checks A and B (`dataset/audit/2026-11-13-5-checks-a-and-b.md`) settled the pipeline; the
-three changes they led to (Opus capture, the entity sentence, the index budget) start `main` from
-slice 1 again. The capture step runs ahead over the whole mailbox while the weekly
-consolidations follow, each waiting for its slice's records; the run waits out quota windows and
-is resumable at any slice. A review of the first thirty slices decides whether anything changes
-before the rest.
+three changes they led to (Opus capture, the entity sentence, the index budget) started `main`
+from slice 1 again (tag `replay-start`). The capture step ran ahead over the whole mailbox while
+the weekly consolidations followed, each waiting for its slice's records; the run waited out quota
+windows and was resumed at a slice when it had stopped. It paused for a review after slices 30,
+60, 90 and 120 (`dataset/audit/`); what they changed is declared above and below. All 122 slices
+ended with every gate green, the last at 2002-02-03, from 13 to 15 November 2026.

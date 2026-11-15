@@ -4,7 +4,7 @@
 one in the capture prompt. Capture: Haiku 5.5. Consolidation: Opus 5.5. One short check first;
 if it passes, its ten slices are the first ten of the dataset.**
 
-Everything below was checked in the repository, `D:\data\enron-work\` and the control clone.
+Everything below was checked in the repository, the local working directory and the control clone.
 
 ## 1. Restart, not continue
 

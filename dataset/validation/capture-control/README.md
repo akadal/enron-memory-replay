@@ -1,5 +1,10 @@
 # Capture control: the capture model against Claude Opus 5.5
 
+> **Read this as a pre-run record.** It was written when the capture model was to be Claude
+> Haiku 5.5. The dataset's capture model is Claude Opus 5.5 (`README.md`). The repeat on the
+> corrected pipeline (prompt `capture-v3`) is in `../capture-control-v3/` and
+> `dataset/audit/2026-11-13-5-checks-a-and-b.md`; nothing more is added here.
+
 Question: does the capture model the dataset uses (Claude Haiku 5.5) lose information that
 Claude Opus 5.5, the model the reference deployment of eleman runs on, would have captured? A
 third model, DeepSeek V4 Pro (`deepseek/deepseek-v4-pro-0813`), was measured the same way as an

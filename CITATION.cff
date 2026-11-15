@@ -1,20 +1,26 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below. A DOI will be added at the first frozen release."
+message: "If you use this dataset, please cite it as below, and cite the Enron corpus it is derived from."
 type: dataset
-title: "enron-memory-replay: a personal memory core replayed through the Enron kaminski-v mailbox"
+title: "enron-memory-replay: an agent memory replayed week by week through one mailbox of the Enron corpus"
+version: 1.0.0
 authors:
   - family-names: Akadal
     given-names: Emre
     orcid: "https://orcid.org/0000-0001-6817-0127"
     affiliation: "Istanbul University"
 abstract: >-
-  An eleman memory core (an AI assistant's long-term memory kept as markdown in git) that lived
-  through one real mailbox: the kaminski-v mailbox of the CMU Enron corpus, 11,523 messages,
-  replayed in arrival order. Each message is kept verbatim, captured into short notes by a model,
-  and distilled by a weekly unattended consolidation; every distilled fact links to its source
-  message and a ledger accounts for every message.
+  An AI assistant's long-term memory, built week by week from one real mailbox, with every
+  intermediate layer kept. The kaminski-v mailbox of the CMU Enron corpus (11,523 messages,
+  November 1999 to February 2002) is replayed in arrival order into a file-based agent memory
+  (eleman: markdown files in git). Each message is kept verbatim and turned into short notes by
+  a model; once per week of mail an unattended consolidation distils the notes into the memory.
+  The memory after each of the 122 consolidations is a git tag; every distilled fact links to its
+  source message, and a ledger accounts for every message. All model work by Claude Opus 5.5.
 repository-code: "https://github.com/akadal/enron-memory-replay"
-license: CC-BY-4.0
+url: "https://github.com/akadal/enron-memory-replay"
+license:
+  - CC-BY-4.0
+  - MIT
 keywords:
   - agent memory
   - long-term memory
