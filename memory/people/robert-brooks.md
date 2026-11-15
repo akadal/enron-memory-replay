@@ -5,11 +5,12 @@ entity: person
 name: "Robert Brooks"
 aliases: ["Robert E. Brooks", "Bob Brooks"]
 domains: [industry]
-updated: 2000-03-12
+updated: 2001-10-28
 ---
 # Robert Brooks
 
 Dr. Robert E. Brooks of RBAC (rebrooks@rbac.com), developer of the GPCM gas market model. ←[[m00087]] ←[[m00860]]
+Not the University of Alabama's Bob Brooks (rbrooks@cba.ua.edu): two people (?), status quo 2001-10-28, the question went unanswered. ←[[m09211]]
 
 ## Context: industry
 

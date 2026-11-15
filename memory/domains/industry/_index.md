@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-10-24
+updated: 2001-10-28
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: Paris, Gas & PoweRisk: owner chairs 'On-Line Trading & Risk Management' 8 Nov, slides still owed; INFOCAST Houston 29-31 Oct; SMS: Lu's panel went well; Houston Energy Group 14 Nov; Bachelier Congress, Crete 12-15 Jun 2002, plenary; Spain 17-18 Dec pending → memory/domains/industry/speaking-engagements-2000.md; @Market Expo declined → memory/domains/industry/declined-invitations-2000.md
-- GARP 2002: Convention 12-13 Feb 2002, Roosevelt Hotel, New York; workshop with Mark Williams 14 Feb, bio sent (22 Oct) → memory/domains/industry/garp-2001.md
-- Wharton: Patrick there Mon 22 Oct (Piazzes, recruiting), owner may phone in → memory/domains/industry/wharton-projects-feb-2001.md; Energy Club, Terraso for 12 Nov → memory/domains/industry/wharton-risk-center-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
-- Universities: Rice spring electives preview 12 Nov → memory/domains/industry/rice-energy-derivatives-course.md; Rice Energy Club roundtables → memory/domains/industry/rice-university.md; UT conference 21-22 Feb 2002: Whalley's keynote answer still pending (15 Oct) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; UH: Energy Markets Institute established, business plan sent, industry session ~14 Nov → memory/domains/industry/uh-econophysics.md
-- MIT Sloan Leadership Conference 27 Oct: Shanbhogue takes the owner's place → memory/domains/industry/sponsorship-requests-2001.md; EPIS 12-13 Nov: owner withdraws, Alex Huang presents; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Rice/Enron seminar: Barberis 2 Nov, Ingrid Werner 9 Nov → memory/domains/industry/rice-finance-seminar-2001.md; GPCM workshop 17 Oct → memory/domains/industry/gpcm-rbac.md; Toshiba Boltzmann model (Kohli) → memory/domains/industry/visitors-2001.md
+- Speaking: INFOCAST Houston 29-31 Oct; Paris, Gas & PoweRisk: chairs 'On-Line Trading & Risk Management' 8 Nov, slides owed; HEG 14 Nov; Western Market Monitoring workshop, San Francisco 16 Nov, panel 3, Govt Affairs briefing offered; Bachelier Congress, Crete, Jun 2002; Risk Waters real options course ask → memory/domains/industry/speaking-engagements-2000.md; @Market Expo declined → memory/domains/industry/declined-invitations-2000.md
+- GARP 2002: Convention 12-13 Feb 2002, New York; workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md
+- Wharton: Energy Club, Terraso for 12 Nov → memory/domains/industry/wharton-risk-center-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
+- Universities: UH: owner asked onto EMI's Energy Executive Committee (first meeting 14 Nov) and for Bauer chair names (25 Oct) → memory/domains/industry/uh-econophysics.md; UT practicum sponsorship ask (25 Oct) → memory/domains/industry/sponsorship-requests-2001.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Rice electives preview 12 Nov → memory/domains/industry/rice-energy-derivatives-course.md
+- EPIS 12-13 Nov: Alex Huang presents; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Rice/Enron seminar: Barberis 2 Nov, Ingrid Werner 9 Nov → memory/domains/industry/rice-finance-seminar-2001.md; Toshiba Boltzmann model (Kohli) → memory/domains/industry/visitors-2001.md
 
 ## Files
 

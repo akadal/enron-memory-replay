@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-10-24
+updated: 2001-10-28
 ---
 # People — index
 
@@ -73,6 +73,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Biliana Pehlivanova
 - Bill Petty
 - Bill Rust
+- Bill White
 - Billy Lemmons
 - Bjorn Hagelmann
 - Blake Johnson
@@ -123,6 +124,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Cindy Derecskey
 - Cindy Hudler
 - Cindy Justice
+- Claude Philoche
 - Claudio Ribeiro
 - Clayton DeGiacinto
 - Clayton Vernon
@@ -175,6 +177,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dorothy Dalton
 - Dorothy Youngblood
 - Doug Arnell
+- Doug Gilbert-Smith
 - Doug Leach
 - Douglas Parsons (Douglas S Parsons, Doug Parsons)
 - Duane Maue
@@ -193,6 +196,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Eric Groves
 - Eric Hilton
 - Eric Kirkpatrick
+- Eric Moon
 - Eric Thode
 - Eric Toolson
 - Eric van Stone (Eric Van Stone)
@@ -410,7 +414,9 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Margaret Daffin
 - Marge Nadasky
 - Marie Hejka
+- Mario De La Ossa
 - Mark Brady
+- Mark Breese
 - Mark Frevert
 - Mark Garman (Mark B. Garman)
 - Mark Giancola
@@ -636,8 +642,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stanley Horton
 - Stathis Tompaidis
 - Stephanie Miller
-- Stephanie Taylor (Stephanie E. Taylor)
 - Stephanie Summers
+- Stephanie Taylor (Stephanie E. Taylor)
 - Stephen Bennett
 - Stephen Bramlett (Steven Bramlet)
 - Stephen Lessar (Steve Lessar)
@@ -665,6 +671,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ted Noble
 - Teresa Bien
 - Theresa Convery
+- Therese Candella
 - Thomas Knudsen
 - Tim Belden
 - Tim Bollerslev
