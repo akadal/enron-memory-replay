@@ -1,0 +1,201 @@
+{
+ "slice": 108,
+ "simulated_today": "2001-11-18",
+ "feed": {
+  "slice": 108,
+  "iso_week": "2001-W46",
+  "first_seq": 9883,
+  "last_seq": 9965,
+  "messages": 83,
+  "durable": 45,
+  "first_date": "2001-11-12 06:08",
+  "last_date": "2001-11-18 23:16",
+  "today": "2001-11-18",
+  "inbox_files": [
+   "2001-11-12--mail.md",
+   "2001-11-13--mail.md",
+   "2001-11-14--mail.md",
+   "2001-11-15--mail.md",
+   "2001-11-16--mail.md",
+   "2001-11-17--mail.md",
+   "2001-11-18--mail.md"
+  ],
+  "inbox_chars": 41360,
+  "l2_chars": 232705
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 633,
+ "quota_before": {
+  "five_hour": 71.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 74.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 108,
+  "messages": 83,
+  "durable": 45,
+  "kept": 45,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3598,
+  "fact_lines_with_source": 2318,
+  "dated": 2318,
+  "date_matches_source": 2255,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   null,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 635
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1796
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 389581
+  },
+  "people": {
+   "files": 740,
+   "chars": 487712
+  },
+  "archive_inbox": {
+   "files": 672,
+   "chars": 5883904
+  },
+  "archive_mail": {
+   "files": 9991,
+   "chars": 26130317
+  },
+  "archive_other": {
+   "files": 1975,
+   "chars": 1560253
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 45,
+   "duration_ms": 631780,
+   "duration_api_ms": 549716,
+   "total_cost_usd": 3.3643079,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 156190,
+    "cache_read_input_tokens": 4253175,
+    "output_tokens": 63178,
+    "output_tokens_details": {
+     "thinking_tokens": 29017
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 156190,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 785,
+      "cache_read_input_tokens": 174276,
+      "cache_creation_input_tokens": 853,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 853
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002649,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 63178,
+     "cacheReadInputTokens": 4253175,
+     "cacheCreationInputTokens": 156190,
+     "webSearchRequests": 0,
+     "costUSD": 3.3640430000000006,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 29017,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 156190,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 44,
+   "result_summary": "The week-108 consolidation (2001-W46, run as 2001-11-18) is committed as one commit, `56daa91e`; lint and sleep-audit were both green before it went in. I didn't push, as the replay instructions say (the runner pushes after its own checks). All 45 messages with notes are cited in memory, so `dataset/drops/sleep-108.tsv` was committed empty. The new facts went into existing standing topics and no new topic files were opened:\n- **Company:** Lay waived his change-of-control payment of about $60m, and his investor-call memo split Enron into core and non-core units, with job cuts to follow.\n- **The owner:** said \"No decision yet.\" about his own future, with the group's soft landing first, and told HR \"I don't see how we can hire anybody under the circumstances.\"\n- **Group business:** Barkley's EOL volume figures, which the owner reads as customers making risk-reducing trades; Tamarchenko's list of her group's models; the owner's proposal to Shankman to cancel this year's Wharton Tiger Team.\n- **Outside:** the Houston Energy Group (HEG) talk was held; he is listed as a plenary speaker at the Bachelier Congress (BFS 2002); he attended the Bauer Energy Committee meeting; the Baylor visit took place; lunch with Arfsten is set for 19 Nov.\n\nDaniel Reck's entity file was overdue: he had nine messages with notes, but earlier runs missed him because the sources use both \"Daniel\" and \"Dan\". I opened the file and added him to the alias table. I added one approval question rather than act on it: whether \"Steve Bigelow\" in m09959 is the existing Steve Bigalow. No question was due or had been asked twice, so none was closed, and there was no sleep task. No file was above 90% of its ceiling, so the three-file quota had nothing to act on. I still brought speaking-engagements-2000 down from 89.8% to about 75%, and moved the oldest or replaced lines of the 21 touched topics word for word to `memory/archive/<domain>/2001/*-2001-11-18.md`. The processed inbox logs are now in `memory/archive"
+  },
+  "repair": null
+ }
+}
