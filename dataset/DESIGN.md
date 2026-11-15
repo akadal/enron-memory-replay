@@ -159,6 +159,14 @@ so far, the share still cited somewhere in L1 falls from 57% at `sleep-076` (3,1
 and Michael Moore are named in five or more noted messages and have no entity file in the second
 pass (the first pass made them at slice 79); left to the runs. (`dataset/audit/2026-11-15-9-review-090-second-pass.md`)
 
+Slices 91-120 (2001-07 to 2002-01, Enron's collapse) ran without a rerun or a repair turn. The
+window kept sliding: 48% of the messages kept so far are still cited in L1 at `sleep-120` (3,806 of
+7,857). Every archived topic file's name starts with its topic's id, and that prefix is the route
+to it: 61 topics shorten their "Detail" list of archive links with an ellipsis, so about half of
+the 2,120 archive topic files (1,072) are not named anywhere in L1. Ids never change, as eleman
+requires, so a topic whose id carries "2001" can hold 2002 facts. Jeff Andrews has an entity file
+from slice 104; Peter McNabb and Michael Moore still have none. (`dataset/audit/2026-11-15-10-review-120.md`)
+
 ## Deviations from eleman as shipped
 
 eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing else does.
