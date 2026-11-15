@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2002-01-24
+updated: 2002-01-27
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: INFOCAST's Market Price Volatility conference, Houston 1 May, accepted (14 Jan); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: Kumar and Warga's lunch on his UH faculty appointment, Mon 21 Jan (14 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Jones School All Faculty Meeting 28 Jan (18 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
+- Speaking: INFOCAST's Market Price Volatility conference, Houston 1 May, accepted (14 Jan); AspenTech: Aspen World 2002 (3 Jan, back to Enron 24 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
+- Universities: Kumar and Warga's lunch on his UH faculty appointment, Mon 21 Jan (14 Jan); GEMI 23 Jan minutes: partner levels, certificates, Enron symposium (25 Jan) → memory/domains/industry/uh-econophysics.md; Jones School All Faculty Meeting 28 Jan (18, 24 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
 - Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May: he takes the market and credit risk talk, panel asked (15-16 Jan) → memory/domains/industry/eprm-risk.md
-- Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM 9.0.8.4, winter definition asked (13 Jan) → memory/domains/industry/gpcm-rbac.md
-- 2002 events: GARP talk 12 Feb (20 Dec), Simou asks him to confirm (21 Jan) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; CERAWeek as Maddox's guest (21-22 Jan); EMF 20 at Rice 22-23 Jan; CTAEE kickoff 29 Jan (16 Jan) → memory/domains/industry/events-attending-2001.md; latest MGMT 656 student list (22 Jan) → memory/domains/industry/rice-energy-derivatives-course.md
+- Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: power models feed GPCM a three-point demand curve (25 Jan) → memory/domains/industry/gpcm-rbac.md
+- 2002 events: GARP talk 12 Feb (20 Dec), Simou asks him to confirm (21 Jan) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; CERAWeek as Maddox's guest (21-22 Jan); EMF 20 next at Stanford, late Jun, dates polled (25 Jan); CTAEE kickoff 29 Jan (16 Jan) → memory/domains/industry/events-attending-2001.md; latest MGMT 656 student list (22 Jan) → memory/domains/industry/rice-energy-derivatives-course.md
 
 ## Files
 

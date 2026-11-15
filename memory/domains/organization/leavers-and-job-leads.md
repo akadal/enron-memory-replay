@@ -3,16 +3,15 @@ id: leavers-and-job-leads
 type: topic
 domain: organization
 title: "Leavers and job leads after Enron's collapse"
-summary: "Leavers and job leads after the collapse: Supatgiat's letters, Duke (21 Jan 2002); Shalesh Ganjoo's letter drafted by Gibner (22-23 Jan 2002); Eric Cope's AT&T reference via Martin Lin (22-23 Jan 2002); NewPower's quant post, Jennaro's coffee (22 Jan 2002); Mora, Pernoud, Larry's Cisco reference and older items archived."
+summary: "Leavers and job leads after the collapse: Eric Cope's AT&T Labs reference, Lin's draft (24-25 Jan 2002); Jennaro after coffee; Sean Yang's farewell (25 Jan 2002); Supatgiat's letters, Shalesh Ganjoo's letter, NewPower's quant post, Mora, Pernoud, Larry's Cisco reference and older items archived."
 status: active
-updated: 2002-01-24
+updated: 2002-01-27
 ---
 # Leavers and job leads after Enron's collapse
 
-Detail ←[[leavers-and-job-leads-2001-12-30]] ←[[leavers-and-job-leads-2002-01-06]] ←[[leavers-and-job-leads-2002-01-09]] ←[[leavers-and-job-leads-2002-01-13]] ←[[leavers-and-job-leads-2002-01-16]] ←[[leavers-and-job-leads-2002-01-20]] ←[[leavers-and-job-leads-2002-01-24]]
-- [2002-01-21] Supatgiat's faculty letters: Bob Nau (Fuqua, Duke) replies on his Decision Sciences application; owner to Crenshaw: "Another letter for Chonawee." ←[[m11141]] ←[[m11156]]
-- [2002-01-22] Letter for Shalesh Ganjoo (two years under the owner): owner asks Stinson Gibner, who drafts ShaleshJan02.doc that day; 23 Jan "Letter for Shalesh." to Crenshaw. ←[[m11177]] ←[[m11178]] ←[[m11184]] ←[[m11196]] ←[[m11197]] ←[[m11198]] ←[[m11233]]
-- [2002-01-22] Eric Cope (Stanford, Enron summer 2001) seeks summer work (AT&T, IBM, banks); owner asks Martin Lin for a draft; Lin: only AT&T's e-mail or phone request is due now, he drafts comments. ←[[m11220]] ←[[m11232]] ←[[m11247]]
-- [2002-01-22] Alex Kollaros (NewPower) seeks a heavy quant in New York, via Matt Crouse (713-345-9811); Jason Jennaro (Enron, risk management) asks career advice; owner: "Please, give me a call at 713 853 3848 and we can meet for coffee." ←[[m11183]] ←[[m11193]] ←[[m11199]] ←[[m11236]]
+Detail ←[[leavers-and-job-leads-2001-12-30]] ←[[leavers-and-job-leads-2002-01-06]] ←[[leavers-and-job-leads-2002-01-09]] ←[[leavers-and-job-leads-2002-01-13]] ←[[leavers-and-job-leads-2002-01-16]] ←[[leavers-and-job-leads-2002-01-20]] ←[[leavers-and-job-leads-2002-01-24]] ←[[leavers-and-job-leads-2002-01-27]]
 
 UBS Warburg transfer: memory/domains/organization/ubsw-transfer.md. Owner's own options: memory/domains/organization/hr-matters-2001.md. Detail ←[[leavers-and-job-leads-2001-12-16]] ←[[leavers-and-job-leads-2001-12-23]]
+- [2002-01-24] Eric W Cope's AT&T Labs summer-internship reference (S05371/R966, Ken Lyons): adaptability, learning, little supervision; owner notes his number 650-725-0541; 25 Jan to Martin Lin: "A request for the letter of recommendation."; Lin's draft: summer associate 2001, a web-browser trading simulation platform (algorithm tests never began), forecasts of box-office revenue, media prices and long-distance prices on scarce data; probably filed on the web site, so letterhead is moot. ←[[m11220]] ←[[m11319]] ←[[m11324]] ←[[m11337]] ←[[m11348]] ←[[m11356]]
+- [2002-01-25] Jason Jennaro (Enron risk management), after coffee with the owner, who had offered it on 22 Jan: thanks for the perspective, will pursue all his opportunities now as advised, asks for the owner's personal e-mail. ←[[m11199]] ←[[m11347]]
+- [2002-01-25] Sean Xiaozhuo Yang's farewell: a pleasure to know and 'almost work with' the owner; home 12306 Fox Meadow Drive, Stafford TX 77477, 281-240-3856; xyzyang@hotmail.com; owner copies it to AOL. ←[[m11351]] ←[[m11358]]

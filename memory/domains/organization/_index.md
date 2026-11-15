@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-24
+updated: 2002-01-27
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: EWS under CEO Jim Fallon (9 Jan) → memory/domains/organization/ena-reorganization.md; Ken Lay steps down, interim CEO sought (23 Jan); employee meeting postponed (22 Jan); ENRNQ (16 Jan) → memory/domains/organization/corporate-announcements-2001.md; Exotica: Fallon's letter awaited; Research Library: stayers leave in a week, Kitchen asks Mark to help (23-24 Jan) → memory/domains/organization/ubsw-transfer.md
-- Legal: FBI search and interviews, Michael Levy advises; orgcharts to Rob Walls and the FBI; retention memos to AOL (23 Jan); Enron lawyers' names to his lawyer Nathan (22 Jan) → memory/domains/organization/legal-matters.md
-- Wind-down: Reunion Party #1 at Sandeep Kohli's, Fri 25 Jan; Roberts' team declines UBS (22 Jan); Pravas Sud to EGAS (18 Jan) → memory/domains/organization/research-group-wind-down.md; vacation carryover for Roberts' group (22 Jan); owner with Enron till 31 Jan → memory/domains/organization/hr-matters-2001.md
-- Leavers: letters for Supatgiat (Duke), Shalesh Ganjoo (Gibner's draft), Eric Cope (via Martin Lin); NewPower quant post, Jennaro's coffee (21-23 Jan) → memory/domains/organization/leavers-and-job-leads.md; Leppard told of the disbanding (21 Jan) → memory/domains/organization/london-research.md
-- Group: Ann Thomas's interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fallon heard the owner's name on TV (24 Jan) → memory/domains/organization/press-and-media.md
+- Company: EWS under CEO Jim Fallon (9 Jan) → memory/domains/organization/ena-reorganization.md; Ken Lay steps down, interim CEO sought (23 Jan); employee meeting postponed (22 Jan); ENRNQ (16 Jan) → memory/domains/organization/corporate-announcements-2001.md; Research Library: owner waits for Fallon's word, then forwards data and models per the netco agreement, Rajan to Steve Stock (24 Jan); Pehlivanova takes UBS (27 Jan) → memory/domains/organization/ubsw-transfer.md; Cliff Baxter dies (25 Jan) → memory/domains/organization/corporate-announcements-2001.md
+- Legal: FBI takes documents, floor meeting (24 Jan); David Grant's subpoena team (25 Jan); FBI search, Michael Levy advises (23 Jan); Enron lawyers' names to his lawyer Nathan (22 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: group gone 31 Jan, Kevin Moore the only one left, laptop to him (24 Jan); Mora off next week (25 Jan); Roberts' team declines UBS (22 Jan) → memory/domains/organization/research-group-wind-down.md; vacation carryover for Roberts' group (22 Jan); owner with Enron till 31 Jan → memory/domains/organization/hr-matters-2001.md
+- Leavers: Eric Cope's AT&T Labs reference, Lin's draft (24-25 Jan); Jennaro after coffee, Sean Yang's farewell (25 Jan) → memory/domains/organization/leavers-and-job-leads.md; Leppard told of the disbanding (21 Jan) → memory/domains/organization/london-research.md
+- Group: Ann Thomas: his quotes to confirm by 30 Jan (24 Jan) → memory/domains/organization/research-group-2001.md; Fallon heard the owner's name on TV (24 Jan) → memory/domains/organization/press-and-media.md
 
 ## Files
 

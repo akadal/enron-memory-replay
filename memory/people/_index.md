@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-24
+updated: 2002-01-27
 ---
 # People — index
 
@@ -311,6 +311,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jens Gobel
 - Jere Overdyke (Jere C Overdyke)
 - Jeremy Blachman
+- Jesus Melendrez
 - Jim Dyer (James S. Dyer)
 - Jim Fallon
 - Jim Garven (James R. Garven)
@@ -328,6 +329,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joe Deffner
 - Joe Gold
 - Joe Hirko
+- Joe Langston
 - Joe Sutton
 - Joel Hanley
 - Johan Dahl
@@ -454,6 +456,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mark Kierlanczyk
 - Mark Koenig
 - Mark Lay
+- Mark Muller
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
 - Mark S. Daskin
