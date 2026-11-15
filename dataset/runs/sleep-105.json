@@ -1,0 +1,204 @@
+{
+ "slice": 105,
+ "simulated_today": "2001-10-28",
+ "feed": {
+  "slice": 105,
+  "iso_week": "2001-W43",
+  "first_seq": 9572,
+  "last_seq": 9705,
+  "messages": 134,
+  "durable": 66,
+  "first_date": "2001-10-24 17:25",
+  "last_date": "2001-10-28 20:23",
+  "today": "2001-10-28",
+  "inbox_files": [
+   "2001-10-24--mail-2.md",
+   "2001-10-25--mail.md",
+   "2001-10-26--mail.md",
+   "2001-10-27--mail.md",
+   "2001-10-28--mail.md"
+  ],
+  "inbox_chars": 59756,
+  "l2_chars": 453957
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 770,
+ "quota_before": {
+  "five_hour": 61.0,
+  "seven_day": 56.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 65.0,
+  "seven_day": 57.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 105,
+  "messages": 134,
+  "durable": 66,
+  "kept": 59,
+  "kept_rate_excluding_redundant": 0.908,
+  "drop_classes": {
+   "logistics": 2,
+   "no_owner_content": 1,
+   "redundant": 1,
+   "social": 3
+  },
+  "dropped": 7,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3568,
+  "fact_lines_with_source": 2286,
+  "dated": 2286,
+  "date_matches_source": 2233,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   0.86,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   0.78,
+   1.0,
+   0.8,
+   1.0,
+   0.8
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 741
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2114
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 389691
+  },
+  "people": {
+   "files": 724,
+   "chars": 476051
+  },
+  "archive_inbox": {
+   "files": 651,
+   "chars": 5736105
+  },
+  "archive_mail": {
+   "files": 9731,
+   "chars": 25315283
+  },
+  "archive_other": {
+   "files": 1918,
+   "chars": 1521657
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 75,
+   "duration_ms": 768783,
+   "duration_api_ms": 635740,
+   "total_cost_usd": 4.590364499999999,
+   "usage": {
+    "input_tokens": 130,
+    "cache_creation_input_tokens": 188164,
+    "cache_read_input_tokens": 8514133,
+    "output_tokens": 69072,
+    "output_tokens_details": {
+     "thinking_tokens": 26707
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 188164,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1133,
+      "cache_read_input_tokens": 206177,
+      "cache_creation_input_tokens": 926,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 926
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 27,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002659,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 130,
+     "outputTokens": 69072,
+     "cacheReadInputTokens": 8514133,
+     "cacheCreationInputTokens": 188164,
+     "webSearchRequests": 0,
+     "costUSD": 4.590098599999999,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 26707,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 188164,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 74,
+   "result_summary": "I ran the 2001-10-28 consolidation end to end and committed it as one commit (`ede394ff`) on `main`. Lint and sleep-audit were both green on the first try, so there was no reset to `pre-sleep`. I did not push: your replay note says the runner pushes after its own checks, so I followed that over the generic \"git push\" line.\n\n**Messages:** this week's five inbox logs held 134 messages, 66 of them with notes. 59 are now cited in memory. The other 7 are listed in `dataset/drops/sleep-105.tsv`: birthdays, a seminar notice already on file, the Rice SAS/SPSS licence thread, the MCI phone instructions, the JDRF donation, the benefits FAQ and a party invitation.\n\n**Main facts filed:**\n- Jim Derrick's order to keep all LJM documents, the Savings Plan freeze from 26 Oct to 20 Nov, and the rule for solicitation calls.\n- The owner's commitments to the Brazil team: CEPEL model review, SDDP runs, transmission work and swing options.\n- The owner sits on panel 3 of the Western Market Monitoring workshop in San Francisco on 16 Nov. The automatic note said Jim Steffes was the panellist, but the full message shows it is the owner, and the file follows the message.\n- The University of Houston's request that the owner join its Energy Executive Committee.\n- The Baylor visit on 15-16 Nov and the Atlanta trip on 31 Oct.\n- The Longitude contacts, the ERCOT TCR derating paper, and the candidate referrals and phone interviews.\n\n**People:** seven people had reached five noted messages without an entity file. I created files for Claude Philoche, Mario De La Ossa, Bill White, Eric Moon and Mark Breese, whose fifth message came this week, and for Doug Gilbert-Smith and Therese Candella, whose files were overdue from earlier weeks. All seven are in the alias table.\n\n**Questions:**\n- The Bob Brooks question reached its due date with no answer, so I closed it: the University of Alabama professor and the RBAC Robert Brooks stay two people, marked (?) on his file.\n- New: whether to attach \"Mac\" and ZZM"
+  },
+  "repair": null
+ }
+}
