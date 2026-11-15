@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-11-04
+updated: 2001-11-09
 ---
 # Personal — index
 
@@ -12,7 +12,7 @@ Scope: the owner's private matters that appear in the mail.
 - Drinks and the Polish film festival with Brian Mihura, Fri 2 Nov; breakfast with Al Arfsten 30 Oct; Barkley on the Brazilian consulate trouble → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
 - Family back to Houston from California (Jul) → memory/domains/personal/california-trip-jul-2001.md; son: Thorne's patent advice, Balson's IBM lead → memory/domains/personal/household.md
-- Bigalow: Devon fine long-term; P, OXY, DVN, PGN, LU, EMC → memory/domains/personal/investments-2000.md
+- Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday, not 15 Nov (Baylor) → memory/domains/personal/investments-2000.md
 
 ## Files
 

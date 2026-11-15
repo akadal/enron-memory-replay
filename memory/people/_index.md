@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-11-04
+updated: 2001-11-09
 ---
 # People — index
 
@@ -218,6 +218,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Ganapathy Ramesh
 - Gary Hickerson
 - Gary Taylor
+- Gayle Hayter (Gayle C. Hayter)
 - Gene Humphrey (Gene Humphreys)
 - George Albanis
 - George Carrick
@@ -342,6 +343,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Joseph Pokalsky (Joe Pokalsky, Joseph T. Pokalsky)
 - Josh Leventhal (Joshua Leventhal)
 - Julia Murray
+- Julie Brennan
 - Julie Gomez (Julie A Gomez)
 - Julie Haviland
 - Karen Marshall
@@ -371,6 +373,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Key Kasravi
 - Khairuddin Jaafar
 - Kim Whitsel
+- Kimberly Scardino (Kimberly R. Scardino)
 - Kimberly Watson
 - Kirstee Hewitt
 - Kristin Gandy
@@ -393,6 +396,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Lenos Trigeorgis
 - Leon Lasdon
 - Les Clewlow
+- Lexi Elliott
 - Li Sun
 - Li Xiao
 - Linda Vargo
