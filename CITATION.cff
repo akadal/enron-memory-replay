@@ -3,6 +3,15 @@ message: "If you use this dataset, please cite it as below, and cite the Enron c
 type: dataset
 title: "enron-memory-replay: an agent memory replayed week by week through one mailbox of the Enron corpus"
 version: 1.0.0
+doi: 10.5281/zenodo.24241955
+date-released: 2026-11-15
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24241955
+    description: "All versions"
+  - type: doi
+    value: 10.5281/zenodo.24241956
+    description: "Version 1.0.0"
 authors:
   - family-names: Akadal
     given-names: Emre

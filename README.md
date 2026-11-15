@@ -16,7 +16,8 @@ It exists because work on agent memory needs a long, real, dated stream and a me
 lived through it, where every distilled fact can be traced to its source and every loss is
 recorded. Synthetic dialogues do not give that; this is one such memory, built once, in the open.
 
-Version 1.0.0. DOI: `10.5281/zenodo.XXXXXXXX` (see [How to cite](#how-to-cite)).
+Version 1.0.0. DOI: [10.5281/zenodo.24241955](https://doi.org/10.5281/zenodo.24241955) (all
+versions; this version is 10.5281/zenodo.24241956). See [How to cite](#how-to-cite).
 
 ## In numbers
 
@@ -289,7 +290,7 @@ a removal is published as a new version.
 
 > Akadal, E. (2026). *enron-memory-replay: an agent memory replayed week by week through one
 > mailbox of the Enron corpus* (Version 1.0.0) [Data set]. Zenodo.
-> https://doi.org/10.5281/zenodo.XXXXXXXX
+> https://doi.org/10.5281/zenodo.24241955
 
 `CITATION.cff` holds the same record. Please also cite the source corpus: Klimt, B., & Yang, Y.
 (2004). The Enron Corpus: A New Dataset for Email Classification Research. *ECML 2004*.
