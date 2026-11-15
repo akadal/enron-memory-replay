@@ -5,13 +5,13 @@ domain: industry
 title: "University of Houston 'Econo-Physics' programme with Enron"
 summary: "UH ties: Kumar's Energy Markets Institute at Bauer (Oct 2001); the Bauer Energy Committee becomes GEMI, owner in the Seminars, Forums, Conferences sub group (20-26 Nov 2001); Peebler on the Learning forums and GEMI's draft fee structure (16 Dec 2001); Sloan's agenda for 23 Jan 2002, Denise Palmer Huggins on seminars, Tipton's input (18-19 Dec 2001); partner levels, the Kumar-Warga lunch, Duffie's Bauer seminar 10 Jan 2002 and older items archived."
 status: active
-updated: 2001-12-23
+updated: 2001-12-30
 ---
 # University of Houston "Econo-Physics" programme with Enron
 
 Detail ←[[uh-econophysics-2000-12-w50]] … (one archive file per week) ←[[uh-econophysics-2001-11-25]] ←[[uh-econophysics-2001-11-30]] ←[[uh-econophysics-2001-12-09]] ←[[uh-econophysics-2001-12-16]] ←[[uh-econophysics-2001-12-23]]
 
 Tzamouranis's earlier data visualisation talk: memory/domains/work/research-presentations.md
-- [2001-12-16] GEMI sub group (Peebler of Halliburton, Shell, ExxonMobil, EDS, Marathon, IBM; cc Casey, Kumar): Peebler answers the Learning forums questionnaire; on Sloan's 20 Nov draft fee structure (free certificate slots per level, pro-rated seminars, conference discounts; replies by 15 Dec) he would leave conferences out for now and wants other level titles; owner copies it to AOL. ←[[m10303]] ←[[m10304]] ←[[m10305]]
-- [2001-12-18] Sloan: the Energy Committee meets 23 Jan 2002, 5-7 pm on sub group output and marketing GEMI; questionnaire input so far from Peebler, Fran Keeth, Denise Huggins, Tim Tipton. His recap of the 16 Dec talk with Denise Palmer Huggins (sub group with Peebler, Gerald McElvy, Tina Sivinski): at most 4 practical, skill-building seminars a year (Nymex draws 35-50); no conference this year, or one lean topic, 2 days max; Nymex could market or sponsor; fees for non-members. ←[[m10322]] ←[[m10323]]
+- [2001-12-16] GEMI sub group (Peebler of Halliburton, Shell, ExxonMobil, EDS, Marathon, IBM; cc Casey, Kumar): Peebler answers the Learning forums questionnaire; on Sloan's 20 Nov draft fee structure (free certificate slots per level, pro-rated seminars, conference discounts; replies by 15 Dec) he would leave conferences out for now and wants other level titles; owner copies it to AOL (again 28 Dec). ←[[m10303]] ←[[m10304]] ←[[m10305]] ←[[m10534]] ←[[m10538]]
+- [2001-12-18] Sloan: the Energy Committee meets 23 Jan 2002, 5-7 pm on sub group output and marketing GEMI; questionnaire input so far from Peebler, Fran Keeth, Denise Huggins, Tim Tipton. His recap of the 16 Dec talk with Denise Palmer Huggins (sub group with Peebler, Gerald McElvy, Tina Sivinski): at most 4 practical, skill-building seminars a year (Nymex draws 35-50); no conference this year, or one lean topic, 2 days max; Nymex could market or sponsor; fees for non-members; owner copies the follow-up to AOL 28 Dec. ←[[m10322]] ←[[m10323]] ←[[m10532]]
 - [2001-12-19] Tim Tipton (Marathon) sends MOC's survey feedback and will attend on 23 Jan; owner copies the thread to AOL. ←[[m10331]] ←[[m10384]]

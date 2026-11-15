@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-12-23
+updated: 2001-12-30
 ---
 # Industry — index
 
@@ -10,7 +10,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: HEG talk held 14 Nov (17 Nov); BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); Risk Waters' Real Options course (18 Nov) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: GEMI: Sloan's 23 Jan agenda, Denise Palmer Huggins on seminars, Tipton's input (18-19 Dec) → memory/domains/industry/uh-econophysics.md; Jones School calendar moves to the web, Ostdiek asks for price data (17-23 Dec) → memory/domains/industry/rice-university.md; Kose John at the Rice seminar 14 Dec → memory/domains/industry/rice-finance-seminar-2001.md
+- Universities: GEMI: Sloan's 23 Jan agenda, Denise Palmer Huggins on seminars, Tipton's input (18-19 Dec) → memory/domains/industry/uh-econophysics.md; Jones School calendar moves to the web (17 Dec); Ostdiek's price data: release, research-only letter, desk approval (23-26 Dec) → memory/domains/industry/rice-university.md; Kose John at the Rice seminar 14 Dec → memory/domains/industry/rice-finance-seminar-2001.md
 - Wharton: owner abstains from the Risk Center Advisory Committee of 7 Dec (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; Tiger Team cancel proposed (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; RISK referee report owed; EPRM 2002 USA, Houston 14-15 May, speaker invitation (12 Dec) → memory/domains/industry/eprm-risk.md
 - Markets: Krapels sees no systemic risk in an Enron bankruptcy (28 Nov) → memory/domains/industry/esai-energycast-review.md; Shimko (RCM) on a Houston office (29 Nov) → memory/domains/industry/visitors-2001.md; RBAC hires GPCM analysts, Brooks offers to place the owner's people (14 Dec) → memory/domains/industry/gpcm-rbac.md
 - 2002 events: GARP slides due Fri 4 Jan, talk 12 Feb, workshop with Mark Williams 14 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT 'Future of Energy Trading' panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan (18 Dec) → memory/domains/industry/events-attending-2001.md; NARG declined, Yoo still asks (19 Dec) → memory/domains/industry/declined-invitations-2000.md

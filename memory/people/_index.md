@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-12-23
+updated: 2001-12-30
 ---
 # People — index
 
@@ -275,6 +275,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - James Valverde
 - Jana Giovannini
 - Jana Phillips (Jana Laird Phillips)
+- Jan Cooley
 - Jane Allen
 - Janet Dietrich
 - Jarek Astramowicz
