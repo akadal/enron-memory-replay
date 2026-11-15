@@ -1,0 +1,201 @@
+{
+ "slice": 119,
+ "simulated_today": "2002-01-20",
+ "feed": {
+  "slice": 119,
+  "iso_week": "2002-W03",
+  "first_seq": 11013,
+  "last_seq": 11143,
+  "messages": 131,
+  "durable": 39,
+  "first_date": "2002-01-16 14:47",
+  "last_date": "2002-01-20 22:13",
+  "today": "2002-01-20",
+  "inbox_files": [
+   "2002-01-16--mail-2.md",
+   "2002-01-17--mail.md",
+   "2002-01-18--mail.md",
+   "2002-01-19--mail.md",
+   "2002-01-20--mail.md"
+  ],
+  "inbox_chars": 41448,
+  "l2_chars": 517390
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 686,
+ "quota_before": {
+  "five_hour": 25.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 28.0,
+  "seven_day": 61.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 119,
+  "messages": 131,
+  "durable": 39,
+  "kept": 38,
+  "kept_rate_excluding_redundant": 0.974,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3833,
+  "fact_lines_with_source": 2452,
+  "dated": 2452,
+  "date_matches_source": 2385,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.88,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 8,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 795
+  },
+  "questions": {
+   "files": 1,
+   "chars": 3611
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 228,
+   "chars": 403056
+  },
+  "people": {
+   "files": 771,
+   "chars": 517455
+  },
+  "archive_inbox": {
+   "files": 745,
+   "chars": 6362574
+  },
+  "archive_mail": {
+   "files": 11169,
+   "chars": 30056152
+  },
+  "archive_other": {
+   "files": 2107,
+   "chars": 1650590
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 60,
+   "duration_ms": 684050,
+   "duration_api_ms": 472129,
+   "total_cost_usd": 3.6557137000000006,
+   "usage": {
+    "input_tokens": 116,
+    "cache_creation_input_tokens": 154137,
+    "cache_read_input_tokens": 6969449,
+    "output_tokens": 51400,
+    "output_tokens_details": {
+     "thinking_tokens": 18985
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 154137,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 975,
+      "cache_read_input_tokens": 172534,
+      "cache_creation_input_tokens": 542,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 542
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 116,
+     "outputTokens": 51400,
+     "cacheReadInputTokens": 6969449,
+     "cacheCreationInputTokens": 154137,
+     "webSearchRequests": 0,
+     "costUSD": 3.6554498000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 18985,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 154137,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 59,
+   "result_summary": "The 2002-01-20 consolidation is committed as `ee20d6e1`. It isn't pushed: the run brief says the runner pushes after its own checks, so I left that to it. Lint and `sleep-audit.py` were both green on the first try, so nothing was reset.\n\nThis week had 39 messages with notes (m11013–m11143). 38 are cited in L1; one is listed in `dataset/drops/sleep-119.tsv` (m11099, a pager number). Where they went:\n- **Exotica and the Research Library code:** the owner is holding the software until Jim Fallon sends a formal transfer letter, and Louise Kitchen asked Fallon to approve releasing the library's source code to Jay Webb. Both are in `ubsw-transfer`, with the NETCO sale announcement.\n- **Job hunt and outside ties:** the Morgan Stanley call with Catherine Flax and John Woodley is in `recruiter-approaches-2000`. The TrueHelp board role with Harry Arora got a new topic, `personal/truehelp.md`.\n- **Dates:** the EMF attendee contacts and the CTAEE kickoff on 29 Jan are in `events-attending-2001`, and the Rice faculty meeting on 28 Jan is in `rice-university`.\n- **Everything else:** the SEC letter thread, the AmEx corporate card cancellation, Pravas Sud's move, Larry's Cisco reference request, Supatgiat's faculty letters, a Los Angeles flight search for 22–23 Jan (the same days as EMF 20), and contacts with Shimko, Tlapek, Cumberland, Leppard and Bigalow went into their existing topics.\n\nThe other steps:\n- **People:** William Toriello, Patsy Barker and Mark S. Daskin each reached five messages with notes, so they have new entity files and are in the alias table.\n- **Ongoing lines:** I closed two at 2002-01-15 and moved them to History, the Research Intelligence newsletter and the Thursday staff meeting, because the owner says the group was disbanded that day.\n- **Compression:** no file was above 90% of its ceiling, so the quota had nothing to act on. I still moved the oldest lines of 14 topics verbatim to `archive/<domain>/2002/*-2002-01-20.md`.\n- **Questions:** none were past du"
+  },
+  "repair": null
+ }
+}
