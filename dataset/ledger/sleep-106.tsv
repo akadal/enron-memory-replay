@@ -1,0 +1,105 @@
+id	durable	status	detail
+m09706	no	not_durable	bulk
+m09707	no	not_durable	bulk
+m09708	no	not_durable	bulk
+m09709	no	not_durable	logistics
+m09710	yes	kept	domains/organization/recruiting-candidates.md people/james-doran.md
+m09711	yes	kept	domains/work/kaminski-column.md
+m09712	yes	dropped	redundant: Demianenko referral already filed from m09701/m09702
+m09713	yes	kept	domains/work/research-presentations.md
+m09714	yes	kept	domains/industry/declined-invitations-2000.md
+m09715	yes	kept	domains/organization/research-group-2001.md
+m09716	no	not_durable	logistics
+m09717	yes	kept	domains/work/kaminski-column.md
+m09718	yes	kept	domains/work/university-relations.md
+m09719	yes	dropped	redundant: PSIM talk notice already filed from m09617
+m09720	yes	kept	domains/organization/research-group-2001.md
+m09721	yes	kept	domains/work/kaminski-column.md
+m09722	yes	kept	domains/work/weather-research-2001.md
+m09723	yes	kept	domains/organization/recruiting-candidates.md people/marilyn-mielke.md
+m09724	no	not_durable	bulk
+m09725	no	not_durable	automated
+m09726	yes	dropped	social: Kevin Moore buys a cake for the 32nd-floor assistants
+m09727	yes	kept	domains/work/kaminski-column.md
+m09728	yes	kept	domains/work/kaminski-column.md
+m09729	yes	kept	domains/work/var-credit-system-2001.md
+m09730	yes	kept	domains/organization/research-group-2001.md
+m09731	yes	kept	domains/organization/research-group-2001.md people/moyez-lallani.md
+m09732	yes	kept	domains/work/kaminski-column.md
+m09733	yes	kept	domains/work/kaminski-column.md
+m09734	no	not_durable	bulk
+m09735	no	not_durable	bulk
+m09736	yes	kept	domains/organization/recruiting-candidates.md
+m09737	no	not_durable	bulk
+m09738	no	not_durable	bulk
+m09739	yes	dropped	social: owner tells Kevin Moore to expense the assistants cake
+m09740	yes	kept	domains/organization/research-group-2001.md
+m09741	yes	kept	domains/industry/declined-invitations-2000.md
+m09742	yes	dropped	other: Krishnarao consumption risk document forwarded to AOL, no content
+m09743	yes	kept	domains/organization/recruiting-candidates.md people/james-doran.md
+m09744	yes	kept	domains/work/research-presentations.md
+m09745	no	not_durable	bulk
+m09746	no	not_durable	bulk
+m09747	no	not_durable	pleasantry
+m09748	yes	dropped	logistics: Whalley office asks for home address for a mailing list
+m09749	yes	kept	domains/organization/research-group-2001.md people/moyez-lallani.md
+m09750	no	not_durable	logistics
+m09751	yes	kept	domains/work/prediction-company.md
+m09752	yes	kept	domains/work/university-relations.md
+m09753	yes	kept	domains/work/prediction-company.md
+m09754	yes	kept	domains/work/prediction-company.md
+m09755	yes	kept	domains/organization/outside-recruiters-2001.md
+m09756	yes	kept	domains/work/prediction-company.md
+m09757	yes	kept	domains/industry/esai-energycast-review.md
+m09758	yes	kept	domains/industry/esai-energycast-review.md
+m09759	yes	kept	domains/industry/esai-energycast-review.md
+m09760	yes	kept	domains/industry/esai-energycast-review.md
+m09761	yes	kept	domains/industry/esai-energycast-review.md
+m09762	no	not_durable	pleasantry
+m09763	no	not_durable	pleasantry
+m09764	yes	kept	domains/organization/recruiting-candidates.md
+m09765	yes	kept	domains/industry/esai-energycast-review.md
+m09766	yes	kept	domains/industry/esai-energycast-review.md
+m09767	yes	kept	domains/industry/esai-energycast-review.md
+m09768	yes	dropped	social: Sandeep Kohli daughter birthday invitation forwarded
+m09769	yes	kept	domains/organization/hr-matters-2001.md people/michelle-cash.md people/pinnamaneni-krishnarao.md
+m09770	yes	kept	domains/organization/hr-matters-2001.md people/michelle-cash.md
+m09771	no	not_durable	logistics
+m09772	yes	kept	domains/organization/hr-matters-2001.md people/michelle-cash.md people/milenia-soto.md
+m09773	yes	kept	domains/personal/correspondence.md
+m09774	yes	kept	domains/organization/research-group-2001.md
+m09775	yes	kept	domains/work/desk-analysis-requests.md
+m09776	yes	kept	domains/personal/correspondence.md
+m09777	yes	kept	domains/organization/hr-matters-2001.md people/michelle-cash.md people/milenia-soto.md
+m09778	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m09779	yes	kept	domains/industry/speaking-engagements-2000.md
+m09780	no	not_durable	bulk
+m09781	yes	kept	domains/industry/speaking-engagements-2000.md
+m09782	yes	kept	domains/work/petrochem-forward-curves-2001.md
+m09783	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/norene-mears.md people/sue-connelly.md
+m09784	yes	dropped	redundant: Akerlof paper for Chris Cramer already filed from m09546/m09590
+m09785	yes	kept	domains/work/university-relations.md
+m09786	no	not_durable	logistics
+m09787	yes	kept	domains/work/university-relations.md
+m09788	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/david-heath.md people/john-lehoczky.md people/norene-mears.md people/ramayya-krishnan.md people/rick-bryant.md people/sanjay-srivastava.md people/sue-connelly.md
+m09789	no	not_durable	bulk
+m09790	yes	kept	domains/industry/speaking-engagements-2000.md
+m09791	no	not_durable	bulk
+m09792	yes	kept	domains/industry/speaking-engagements-2000.md
+m09793	yes	kept	domains/industry/speaking-engagements-2000.md
+m09794	yes	kept	domains/work/transmission-modelling-2001.md
+m09795	no	not_durable	quote_only
+m09796	no	not_durable	logistics
+m09797	yes	kept	domains/work/university-relations.md
+m09798	yes	kept	domains/organization/hr-matters-2001.md people/michelle-cash.md people/milenia-soto.md people/pinnamaneni-krishnarao.md
+m09799	no	not_durable	logistics
+m09800	yes	kept	domains/organization/recruiting-candidates.md people/marilyn-mielke.md
+m09801	yes	kept	domains/organization/recruiting-candidates.md people/marilyn-mielke.md
+m09802	yes	kept	domains/work/outside-requests-2001.md
+m09803	yes	kept	domains/organization/staff-and-recruiting.md
+m09804	yes	kept	domains/work/jcc-brent-hedge.md domains/work/petrochem-forward-curves-2001.md
+m09805	yes	kept	domains/work/weather-research-2001.md
+m09806	yes	kept	domains/industry/speaking-engagements-2000.md
+m09807	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/david-heath.md people/john-lehoczky.md people/norene-mears.md people/ramayya-krishnan.md people/rick-bryant.md people/sanjay-srivastava.md people/sue-connelly.md
+m09808	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/david-heath.md people/john-lehoczky.md people/norene-mears.md people/ramayya-krishnan.md people/rick-bryant.md people/sanjay-srivastava.md people/sue-connelly.md
+m09809	yes	kept	domains/work/cmu-mscf-visit-nov-2000.md people/david-heath.md people/sue-connelly.md

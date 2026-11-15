@@ -1,0 +1,215 @@
+{
+ "slice": 106,
+ "simulated_today": "2001-11-04",
+ "feed": {
+  "slice": 106,
+  "iso_week": "2001-W44",
+  "first_seq": 9706,
+  "last_seq": 9809,
+  "messages": 104,
+  "durable": 79,
+  "first_date": "2001-10-29 02:46",
+  "last_date": "2001-11-04 18:50",
+  "today": "2001-11-04",
+  "inbox_files": [
+   "2001-10-29--mail.md",
+   "2001-10-30--mail.md",
+   "2001-10-31--mail.md",
+   "2001-11-01--mail.md",
+   "2001-11-02--mail.md",
+   "2001-11-03--mail.md",
+   "2001-11-04--mail.md"
+  ],
+  "inbox_chars": 63579,
+  "l2_chars": 346984
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 732,
+ "quota_before": {
+  "five_hour": 65.0,
+  "seven_day": 57.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 69.0,
+  "seven_day": 57.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 106,
+  "messages": 104,
+  "durable": 79,
+  "kept": 71,
+  "kept_rate_excluding_redundant": 0.934,
+  "drop_classes": {
+   "logistics": 1,
+   "other": 1,
+   "redundant": 3,
+   "social": 3
+  },
+  "dropped": 8,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3593,
+  "fact_lines_with_source": 2307,
+  "dated": 2307,
+  "date_matches_source": 2244,
+  "date_mismatch_ids_this_slice": [
+   "m09772",
+   "m09777",
+   "m09788",
+   "m09790",
+   "m09798",
+   "m09807",
+   "m09808",
+   "m09809"
+  ],
+  "kept_rate_by_decile": [
+   0.83,
+   0.75,
+   1.0,
+   0.67,
+   0.89,
+   0.89,
+   1.0,
+   0.88,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 739
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1359
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 388909
+  },
+  "people": {
+   "files": 735,
+   "chars": 483608
+  },
+  "archive_inbox": {
+   "files": 659,
+   "chars": 5801542
+  },
+  "archive_mail": {
+   "files": 9835,
+   "chars": 25662267
+  },
+  "archive_other": {
+   "files": 1940,
+   "chars": 1535397
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 75,
+   "duration_ms": 730381,
+   "duration_api_ms": 578075,
+   "total_cost_usd": 4.606262500000001,
+   "usage": {
+    "input_tokens": 146,
+    "cache_creation_input_tokens": 175909,
+    "cache_read_input_tokens": 9802013,
+    "output_tokens": 61887,
+    "output_tokens_details": {
+     "thinking_tokens": 20162
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 175909,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 1052,
+      "cache_read_input_tokens": 194135,
+      "cache_creation_input_tokens": 713,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 713
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 146,
+     "outputTokens": 61887,
+     "cacheReadInputTokens": 9802013,
+     "cacheCreationInputTokens": 175909,
+     "webSearchRequests": 0,
+     "costUSD": 4.6059986,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 20162,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 175909,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 74,
+   "result_summary": "I've finished the 2001-11-04 consolidation and committed it as `88fdbe53`. Both gates passed: lint was green on the first run, and the audit went green after I fixed its two RATCHET findings, where `speaking-engagements-2000` and `declined-invitations-2000` had grown a few characters past the 150-character tolerance. Of the week's 79 messages with notes, 71 are now cited in memory and 8 are listed in `dataset/drops/sleep-106.tsv` (3 redundant, 3 social, 1 logistics, 1 other).\n\n- **Topics:** the week's facts went into about 20 existing topic files. The main items are:\n  - The owner stays in Houston and Zimin Lu gives his Paris talk and workshop.\n  - The owner gave his INFOCAST volatility workshop and sent his Houston Energy Group title.\n  - Ed Krapels wrote a memo on Enron for ESAI clients and offered a side channel to Washington. I put this in the ESAI file and retitled it \"ESAI and Ed Krapels\".\n  - The owner visited Georgia Tech, and a student there is wanted as a summer intern.\n  - The CMU MSCF board meets on 12 Dec.\n  - Maureen Raymond wrote this week's column for him.\n  - Krishnarao's green card is at the I-485 stage.\n  - The ERCOT TCR vote, the plastics and ethanol curves, and the Longitude meeting.\n  \n  No new topic files were opened.\n- **People:** I opened 11 entity files that were due and added them to the alias table: six CMU MSCF contacts, plus James Doran, Marilyn Mielke, Michelle Cash, Moyez Lallani and Milenia Soto. For Soto I added the spellings Milly, Millie and Milena as aliases, since all four share the same phone number. These were set when the file was created, not attached to an existing person, so I didn't treat them as needing approval.\n- **Questions:** the two alias questions due 2001-11-03 (\"Richard L. Bryant\" and \"Joe Hirl\") lapsed unanswered. Both stay unattached, with a marked note on each person's file. I added no new questions.\n- **Upkeep:** I refreshed the four indexes and `state.md`. Older lines from the files I touched moved word for "
+  },
+  "repair": null
+ }
+}
