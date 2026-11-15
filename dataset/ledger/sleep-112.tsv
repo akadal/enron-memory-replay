@@ -1,0 +1,64 @@
+id	durable	status	detail
+m10246	yes	kept	domains/work/corp-dev-risk-analysis.md
+m10247	yes	kept	domains/organization/leavers-and-job-leads.md
+m10248	yes	kept	domains/organization/ubsw-transfer.md
+m10249	yes	kept	domains/organization/leavers-and-job-leads.md people/adam-stevens.md
+m10250	yes	kept	people/adam-stevens.md people/tony-hamilton.md
+m10251	yes	kept	domains/work/outside-requests-2001.md
+m10252	no	not_durable	logistics
+m10253	yes	kept	domains/industry/declined-invitations-2000.md
+m10254	yes	kept	domains/industry/events-attending-2001.md
+m10255	yes	kept	domains/organization/leavers-and-job-leads.md people/anne-labbe.md
+m10256	yes	kept	domains/organization/leavers-and-job-leads.md
+m10257	no	not_durable	logistics
+m10258	yes	kept	people/candice-kao.md
+m10259	yes	kept	domains/organization/ubsw-transfer.md
+m10260	yes	kept	domains/organization/ubsw-transfer.md
+m10261	yes	kept	people/william-balson.md
+m10262	yes	kept	domains/organization/ubsw-transfer.md
+m10263	yes	kept	domains/organization/ubsw-transfer.md
+m10264	yes	kept	domains/organization/leavers-and-job-leads.md domains/personal/household.md people/soma-ghosh.md
+m10265	yes	kept	domains/organization/press-and-media.md people/mark-palmer.md
+m10266	no	not_durable	quote_only
+m10267	yes	dropped	logistics: meeting time and place with Pak Ho (with Zimin Lu), no context on the subject
+m10268	no	not_durable	bulk
+m10269	no	not_durable	bulk
+m10270	yes	kept	domains/organization/leavers-and-job-leads.md
+m10271	no	not_durable	logistics
+m10272	no	not_durable	other
+m10273	yes	kept	domains/personal/correspondence.md
+m10274	yes	kept	domains/personal/correspondence.md
+m10275	yes	kept	domains/industry/eprm-risk.md
+m10276	yes	kept	domains/organization/research-group-2001.md
+m10277	yes	kept	domains/personal/correspondence.md
+m10278	yes	kept	domains/organization/leavers-and-job-leads.md
+m10279	yes	kept	domains/personal/correspondence.md
+m10280	yes	kept	domains/organization/research-group-2001.md
+m10281	yes	kept	domains/organization/research-group-2001.md
+m10282	yes	kept	domains/organization/research-group-2001.md
+m10283	yes	kept	domains/work/weather-research-2001.md
+m10284	yes	kept	domains/work/private-firm-credit-model-2001.md
+m10285	yes	kept	domains/organization/leavers-and-job-leads.md
+m10286	no	not_durable	bulk
+m10287	yes	kept	domains/organization/research-group-2001.md
+m10288	yes	kept	domains/work/private-firm-credit-model-2001.md
+m10289	yes	kept	domains/personal/correspondence.md
+m10290	no	not_durable	bulk
+m10291	no	not_durable	logistics
+m10292	no	not_durable	bulk
+m10293	yes	kept	domains/work/corp-dev-risk-analysis.md people/jeff-donahue.md
+m10294	yes	kept	domains/industry/gpcm-rbac.md domains/organization/leavers-and-job-leads.md
+m10295	no	not_durable	bulk
+m10296	no	not_durable	bulk
+m10297	yes	kept	domains/organization/ubsw-transfer.md people/sarah-brown.md
+m10298	no	not_durable	quote_only
+m10299	yes	kept	domains/work/corp-dev-risk-analysis.md people/jeff-donahue.md
+m10300	yes	kept	domains/organization/press-and-media.md
+m10301	yes	kept	people/candice-kao.md
+m10302	yes	kept	domains/organization/leavers-and-job-leads.md
+m10303	yes	kept	domains/industry/uh-econophysics.md people/bob-casey.md people/bob-peebler.md
+m10304	yes	kept	domains/industry/uh-econophysics.md people/bob-casey.md people/bob-peebler.md
+m10305	yes	kept	domains/industry/uh-econophysics.md people/bob-peebler.md
+m10306	yes	kept	people/candice-kao.md
+m10307	yes	kept	domains/personal/correspondence.md domains/personal/household.md
+m10308	no	not_durable	quote_only

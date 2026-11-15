@@ -1,0 +1,203 @@
+{
+ "slice": 112,
+ "simulated_today": "2001-12-16",
+ "feed": {
+  "slice": 112,
+  "iso_week": "2001-W50",
+  "first_seq": 10246,
+  "last_seq": 10308,
+  "messages": 63,
+  "durable": 48,
+  "first_date": "2001-12-10 06:17",
+  "last_date": "2001-12-16 11:07",
+  "today": "2001-12-16",
+  "inbox_files": [
+   "2001-12-10--mail.md",
+   "2001-12-11--mail.md",
+   "2001-12-12--mail.md",
+   "2001-12-13--mail.md",
+   "2001-12-14--mail.md",
+   "2001-12-15--mail.md",
+   "2001-12-16--mail.md"
+  ],
+  "inbox_chars": 38712,
+  "l2_chars": 160148
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 621,
+ "quota_before": {
+  "five_hour": 7.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 10.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 112,
+  "messages": 63,
+  "durable": 48,
+  "kept": 47,
+  "kept_rate_excluding_redundant": 0.979,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3696,
+  "fact_lines_with_source": 2400,
+  "dated": 2400,
+  "date_matches_source": 2333,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.67,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 746
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1107
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 226,
+   "chars": 397585
+  },
+  "people": {
+   "files": 751,
+   "chars": 501333
+  },
+  "archive_inbox": {
+   "files": 701,
+   "chars": 6044766
+  },
+  "archive_mail": {
+   "files": 10334,
+   "chars": 27159231
+  },
+  "archive_other": {
+   "files": 2021,
+   "chars": 1587977
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 61,
+   "duration_ms": 619342,
+   "duration_api_ms": 542331,
+   "total_cost_usd": 3.6347286000000003,
+   "usage": {
+    "input_tokens": 120,
+    "cache_creation_input_tokens": 148600,
+    "cache_read_input_tokens": 6801416,
+    "output_tokens": 54245,
+    "output_tokens_details": {
+     "thinking_tokens": 18772
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 148600,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 770,
+      "cache_read_input_tokens": 166708,
+      "cache_creation_input_tokens": 831,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 831
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 26,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002654,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 120,
+     "outputTokens": 54245,
+     "cacheReadInputTokens": 6801416,
+     "cacheCreationInputTokens": 148600,
+     "webSearchRequests": 0,
+     "costUSD": 3.6344632000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 18772,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 148600,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 60,
+   "result_summary": "I consolidated week 2001-W50 and committed it as one commit, `34f92f35`. Both gates passed before the commit: lint was green (199 budget warnings only) and sleep-audit was green after one fix, where three files had grown slightly past the limit and had to be compressed. I did not push: the replay instructions say the runner pushes after its own checks, which overrides the general \"git push\" step. 47 of the 48 messages with notes are now cited in the memory files. The one left out, m10267 (just a meeting time and place with Pak Ho), is listed in `dataset/drops/sleep-112.tsv`. Most of the week went into the topics that already existed: Netco staff lists and the headcount went into `ubsw-transfer`, which I retitled to cover them. The Weather Team break-up and the departures of Sam Smith, Anne Labbe and Soma Ghosh went into `leavers-and-job-leads`, along with job leads for the group's departing staff, among them Brian Mihura's reference request. Bharati's power and gas profitability figures, which went to SSB, went into the Corporate Development topic. Smaller items went into their existing files: the unpaid Dun & Bradstreet invoice for credit-model data, which now needs a bankruptcy claim; Bob Peebler's comments on the GEMI fee structure; the speaker invitation for EPRM 2002; the Scudder end-of-year commentary due 18 Dec; and the son coming home from Stanford. I opened one new topic, `organization/press-and-media`, for the Reuters interview request that the owner sent to PR and his formal complaint to the AP about Kristen Hays. Five people reached five or more messages with notes and got new entity files and alias-table entries: Adam Stevens, Bob Peebler, Bob Casey, Jeff Donahue and Sarah Brown. Six existing people got context lines. I moved the oldest lines of 8 topics word for word to `memory/archive/<domain>/2001/`; no file was above 90% of its ceiling, so the compression quota had nothing to work on. No question was due and I added none, and there was no sleep task"
+  },
+  "repair": null
+ }
+}
