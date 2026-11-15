@@ -8,8 +8,17 @@ plain markdown in git. Every week of mail is captured into short notes, then dis
 unattended consolidation run. The repository keeps every layer, from each raw message to the
 distilled memory after every week, with the links between them.
 
-> **Status: pilot, under construction.** Not frozen, no DOI yet. Layout and numbers below can
-> still change. See `dataset/DESIGN.md` for the plan and `dataset/runs/` for what has run.
+> **Status: replay complete, not yet frozen.** All 122 weekly consolidations have run (tags
+> `sleep-001` to `sleep-122`). No DOI yet; evaluation material and a datasheet come before the
+> freeze, and the layout can still change. See `dataset/DESIGN.md` for how it was built and
+> `dataset/runs/` for every run.
+
+**In numbers.** 11,523 messages replayed in 122 slices (November 1999 to February 2002). The
+capture judged 8,250 durable and 3,273 not durable; the consolidations kept 7,951 of the durable
+ones and dropped 299 (3.6%), each with a reason class. The memory at `sleep-122` holds 224 topic
+files and 776 people files (L1 about 934,000 characters in all), and 2,147 archive files of fact
+lines moved out of topics verbatim. Model work at list price: $242 for capture and $466 for the
+consolidations (`python dataset/tools/summary.py`).
 
 ## What you can study with it
 

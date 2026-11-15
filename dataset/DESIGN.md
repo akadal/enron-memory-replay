@@ -167,6 +167,10 @@ the 2,120 archive topic files (1,072) are not named anywhere in L1. Ids never ch
 requires, so a topic whose id carries "2001" can hold 2002 facts. Jeff Andrews has an entity file
 from slice 104; Peter McNabb and Michael Moore still have none. (`dataset/audit/2026-11-15-10-review-120.md`)
 
+Slices 121 and 122 closed the run at 2002-02-03, the last message of the mailbox, both green. The
+last run's own log, `memory/inbox/2002-02-03--run.md`, stays in the inbox at `sleep-122`: only a
+later sleep would archive it, and there is none.
+
 ## Deviations from eleman as shipped
 
 eleman is pinned at `66bd1af`. Everything below differs on purpose, and nothing else does.
