@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-11-09
+updated: 2001-11-18
 ---
 # Organization — index
 
@@ -9,12 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: Lay: all options evaluated to protect financial stability, no comment on merger talk (6 Nov); SEC asks about LJM deals (22 Oct); keep all LJM documents; Savings Plan frozen 26 Oct-20 Nov → memory/domains/organization/corporate-announcements-2001.md; Eastern gas origination to Lagrasta (24 Oct) → memory/domains/organization/ena-reorganization.md
-- Candidates: hires only on attrition, none for 4-6 months (Doran, 29 Oct); Philoche prefers Houston; Brian Hunt phone interview 30 Oct; Mielke to Rieker and the Associate program (2 Nov); Yvan Go → memory/domains/organization/recruiting-candidates.md; Bertges's VaR manager search → memory/domains/organization/outside-recruiters-2001.md
-- Staff: Werner's Houston start likely 16 Jan; a Research manager on loan to Jeff Andrews's EGM fundamentals, name owed (23 Oct); Halliburton leaves for New Zealand (2 Nov) → memory/domains/organization/staff-and-recruiting.md; Krishnarao's green card at I-485, approval expected end Nov → memory/domains/organization/hr-matters-2001.md
-- Tony Hamilton to be moved to EGM as Enron Europe cuts headcount, manager to be named (6 Nov) → memory/domains/organization/tony-hamilton-london-2001.md
-- Budget: 2002 allocations sent; Fellers wants the variances explained → memory/domains/organization/research-accounting-2000.md; SAS paid by the owner → memory/domains/organization/software-licenses.md
-- Group: Enron Center South tour Tue 6 Nov, Weather Team moves Fri 9 Nov; Thanksgiving lunch 13 Nov; Enron Kids cash to Candella by 30 Nov; Livelink accounts; Vernon's library plea → memory/domains/organization/research-group-2001.md; London Research may be dismantled (17 Oct) → memory/domains/organization/london-research.md
+- Company: Lay waives his ~$60m change-of-control payment, Dynegy close in 6-9 months (14 Nov); investor call: core/non-core split, job cuts to follow, 10-Q late to 19 Nov (16 Nov); Savings Plan frozen to 20 Nov → memory/domains/organization/corporate-announcements-2001.md
+- HR: Labbe takes the group's Dynegy merger questions to the Q&A team (13-14 Nov); owner on his future: "No decision yet.", the group's soft landing first (16 Nov); Krishnarao's and Supatgiat's green cards → memory/domains/organization/hr-matters-2001.md
+- Candidates: owner to Molly Magee: "I don't see how we can hire anybody under the circumstances." (13 Nov); Panoutsakos, Randy Katz, Donald Williams write (12-15 Nov) → memory/domains/organization/recruiting-candidates.md; Bertges's VaR manager search → memory/domains/organization/outside-recruiters-2001.md
+- Staff: Sevil Yaman asks about her full-time plan (13 Nov); Werner's Houston start likely 16 Jan; a manager on loan to Jeff Andrews's EGM fundamentals → memory/domains/organization/staff-and-recruiting.md; Koepke's French lessons end (12 Nov) → memory/domains/organization/leave-and-training.md; Tony Hamilton to EGM → memory/domains/organization/tony-hamilton-london-2001.md
+- Budget: headcount 49 (core 36) and 2002 allocations to Jim Fallon (16 Nov) → memory/domains/organization/research-accounting-2000.md; Group: Enron Kids cash to Candella by 30 Nov, Livelink → memory/domains/organization/research-group-2001.md
 
 ## Files
 
@@ -56,7 +55,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/summer-interns-2001.md — 2001 interns, campus recruiting
 - memory/domains/organization/staff-moves-jan-2001.md — moves and starts, Jan 2001
 - memory/domains/organization/candidate-interviews-mar-2001.md — from 5 Mar 2001
-- memory/domains/organization/hr-matters-2001.md — owner's contract, visas, owner's professional associations (2001)
+- memory/domains/organization/hr-matters-2001.md — owner's contract and future after Dynegy, visas and green cards, merger Q&A (Nov 2001)
 - memory/domains/organization/stanford-mba-recruiting-mar-2001.md — Stanford MBA recruiting trip, 14-16 Mar 2001
 - memory/domains/organization/candidate-interviews-apr-2001.md — from 2 Apr 2001
 - memory/domains/organization/tony-hamilton-london-2001.md — Tony Hamilton's London weather post, Apr 2001

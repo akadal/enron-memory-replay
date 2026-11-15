@@ -3,14 +3,14 @@ id: correspondence
 type: topic
 domain: personal
 title: "Owner's private contacts and views"
-summary: "Private contacts: Tom Barkley on the owner's Brazilian consulate trouble (17 Oct 2001); breakfast with Al Arfsten Tue 30 Oct, 7:00; a lawyer's number from Krishnarao (25 Oct 2001); drinks and the Polish film festival with Brian Mihura, Fri 2 Nov (31 Oct 2001); Cumberland lunch, Enron Dinner Friends, Kindall, Tlapek and older items archived."
+summary: "Private contacts: Brian Mihura's visit, Vin should get a job (12 Nov 2001); lunch with Al Arfsten and Bjorn Mon 19 Nov, 11:45 (13 Nov 2001); to Ian MacMillan: nothing has changed for him (13 Nov 2001); Lubowski's Polish tax note (14 Nov 2001); Barkley on the Brazilian consulate, the 30 Oct Arfsten breakfast, Mihura's Polish films, Cumberland, Enron Dinner Friends and older items archived."
 status: active
-updated: 2001-11-04
+updated: 2001-11-18
 ---
 # Owner's private contacts and views
 
-Detail ←[[correspondence-2000-03-w13]] … (one archive file per week) ←[[correspondence-2001-06-29]] ←[[correspondence-2001-07-26]] ←[[correspondence-2001-08-19]] ←[[correspondence-2001-08-24]] ←[[correspondence-2001-09-01]] ←[[correspondence-2001-09-28]] ←[[correspondence-2001-10-21]] ←[[correspondence-2001-10-28]] ←[[correspondence-2001-11-04]]
-- [2001-10-17] Tom Barkley (part Brazilian, grew up in Sao Paulo): Crenshaw asked him Monday to call the Brazilian Consulate in Argentina about the owner's predicament on the way to Sao Paulo; he could not get through, best handled from Enron's Brazilian side; offers Brazilian restaurants in Houston. ←[[m09312]]
-- [2001-10-25] Al Arfsten (BFL Associates), 'Troubled Waters': breakfast Tue 30 Oct at the usual place; owner: "Confirmed. 7:00 would work better for me." ←[[m09596]] ←[[m09602]] ←[[m09603]]
-- [2001-10-25] Krishnarao gives the owner a lawyer's number (Millie Soto); he copies it to AOL. ←[[m09625]] ←[[m09632]]
-- [2001-10-31] Brian Mihura offers a drink after the week's events; owner: "What about drinks after work on Friday?", then the Polish film festival, Angelica Movie Center, Fri 7:00 (Forum Polonia Houston); "Please, cc vkaminski@aol.com." ←[[m09773]] ←[[m09776]]
+Detail ←[[correspondence-2000-03-w13]] … (one archive file per week) ←[[correspondence-2001-06-29]] ←[[correspondence-2001-07-26]] ←[[correspondence-2001-08-19]] ←[[correspondence-2001-08-24]] ←[[correspondence-2001-09-01]] ←[[correspondence-2001-09-28]] ←[[correspondence-2001-10-21]] ←[[correspondence-2001-10-28]] ←[[correspondence-2001-11-04]] ←[[correspondence-2001-11-18]]
+- [2001-11-12] Brian Mihura visited the weekend before; owner: "I shall ask Vin about Blackbird."; Vin is at home with his parents: "I think he should get a job ASAP." ←[[m09885]]
+- [2001-11-13] Al Arfsten (BFL Associates), back from SF, proposes lunch with Bjorn; owner, travelling later that week: "What about a lunch or breakfast on Monday or Tuesday next week?"; then "I shall meet you there at 11:45 on Monday, November 19." (pick-up on Andrews Street, between the Enron building and the church). ←[[m09897]] ←[[m09900]]
+- [2001-11-13] Ian MacMillan (Wharton) hopes he is ok amid the Enron news; owner: nothing has changed for him, "I have always kept my common sense that allows me to recognize insanity when I see one." ←[[m09905]]
+- [2001-11-14] Andrzej Lubowski sends a circle of Polish friends 'Podatki 2002' (2002 taxes); owner copies it to AOL. ←[[m09912]]

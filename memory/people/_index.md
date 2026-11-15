@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-11-09
+updated: 2001-11-18
 ---
 # People — index
 
@@ -137,6 +137,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Dale Surbey
 - Damian Goodburn
 - Dan Diamond
+- Daniel Reck (Dan Reck)
 - Danny McCarty
 - Darrell Duffie
 - Darren Delage

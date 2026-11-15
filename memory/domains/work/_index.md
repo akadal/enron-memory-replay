@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-11-09
+updated: 2001-11-18
 ---
 # Work — index
 
@@ -9,13 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- LJM/Raptor: the 4 Oct memo and the 'Note on Valuation' go to litigation.ljm (6 Nov); Jan Cooley collects his Lotus Notes folders and hard copies (7 Nov) → memory/domains/work/talon-raptor.md; Dynegy vs Enron (24-25 Oct) → memory/domains/work/ene-stock-drivers.md
-- Liquidity: Shanbhogue's capital-needs template; cash burn $6.22M/day, shown as $10M (6 Nov); Duffie's remarks on the VAR paper (5 Nov) → memory/domains/work/var-credit-system-2001.md; DPC options: owner offers Stan Horton the group's help, Kohli (7 Nov) → memory/domains/work/dabhol-power-sale.md
-- Models: OStrip change misvalued larryoptmodel, Griffith: consult traders first (8 Nov); Issler's HJM simulator, no results yet (9 Nov) → memory/domains/work/monte-carlo-library.md; Cornell PowerWeb, "We should enroll." (7 Nov) → memory/domains/work/transmission-modelling-2001.md; Longitude: liquidity decides (8 Nov) → memory/domains/work/weather-research-2001.md
-- EOL: Vernon's fundamentals applets as EOL content, meeting this week (5 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; Prediction Company → memory/domains/work/prediction-company.md; curves: plastics, ethanol → memory/domains/work/petrochem-forward-curves-2001.md
-- Writing: column "coming soon" to Sam, Bob Lee checks an article (5 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS slides to become an OR paper (8 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
-- Universities: Baylor 15-16 Nov confirmed; Sung-Joo Lee deferred to the 2002 summer process; Hackman praises the Georgia Tech talk (6 Nov) → memory/domains/work/university-relations.md; CMU MSCF board 12 Dec, letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md
-- Outside: Clewlow's mean reversion fix for Phunnarungsi; Demery (Haas) on real options validation (7 Nov) → memory/domains/work/outside-requests-2001.md; Brazil commitments → memory/domains/work/brazil-hydro-2001.md
+- Crisis: Barkley's EOL counts dipped only on 9/11-12 and peaked 23 Oct; owner: customers were cutting their exposure to Enron (14 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; LJM/Raptor memos to litigation.ljm, Cooley collects files (6-7 Nov) → memory/domains/work/talon-raptor.md
+- Liquidity: Shanbhogue's capital-needs template; cash burn $6.22M/day, shown as $10M (6 Nov) → memory/domains/work/var-credit-system-2001.md; DPC options: owner offers Stan Horton the group's help (7 Nov) → memory/domains/work/dabhol-power-sale.md
+- Models: Tamarchenko's list of her group's models, documents being collected (16 Nov) → memory/domains/work/model-risk-audit.md; Issler's HJM simulator, OStrip misvaluation (8-9 Nov) → memory/domains/work/monte-carlo-library.md; Hudler's asset models by end-November (16 Nov) → memory/domains/work/country-risk-curves.md
+- Writing: column to Sam, "It's coming." (13 Nov); Andy Lo reference to John D. Martin (18 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS contacts (Sen, Keppo, CMU) and status list (12-16 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
+- Universities: Baylor visit 15-16 Nov held, Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md; CMU MSCF board 12 Dec, letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md; PowerWeb, Stoft and Hogan saved (13 Nov) → memory/domains/work/transmission-modelling-2001.md
 
 ## Files
 

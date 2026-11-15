@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-11-09
+updated: 2001-11-18
 ---
 # Personal — index
 
@@ -9,14 +9,14 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Drinks and the Polish film festival with Brian Mihura, Fri 2 Nov; breakfast with Al Arfsten 30 Oct; Barkley on the Brazilian consulate trouble → memory/domains/personal/correspondence.md
+- Lunch with Al Arfsten and Bjorn Mon 19 Nov, 11:45, Andrews Street (13 Nov); Mihura's visit, Vin should get a job (12 Nov); to Ian MacMillan: "I have always kept my common sense..." (13 Nov) → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
 - Family back to Houston from California (Jul) → memory/domains/personal/california-trip-jul-2001.md; son: Thorne's patent advice, Balson's IBM lead → memory/domains/personal/household.md
-- Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday, not 15 Nov (Baylor) → memory/domains/personal/investments-2000.md
+- Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday → memory/domains/personal/investments-2000.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (Barkley, Cumberland, Arfsten; Enron Dinner Friends, Kindall, Tlapek, Kierlanczyk, Dziurzynski, Pokalsky, Mihura (Polish films, Nov 2001), Kohli, Fowler, Eydeland, Paula Corey archived)
+- memory/domains/personal/correspondence.md — private contacts (Arfsten lunch 19 Nov 2001, Mihura, MacMillan, Lubowski; Barkley, Cumberland, Enron Dinner Friends, Kindall, Tlapek and others archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford; sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk

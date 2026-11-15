@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-11-09
+updated: 2001-11-18
 ---
 # Industry — index
 
@@ -9,12 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: HEG Wed 14 Nov, Chase Center 18th floor, projectors asked (7 Nov), then San Antonio; Paris 6-9 Nov: Zimin Lu goes; Western Market Monitoring, San Francisco 16 Nov, panel 3; Bachelier Congress, Crete, Jun 2002 → memory/domains/industry/speaking-engagements-2000.md; Algorithmics Vienna 8-9 Nov declined → memory/domains/industry/declined-invitations-2000.md
-- ESAI: Krapels's one-pager on Enron for clients, owner objects to the LTCM/MG paragraphs, side channel to Washington offered (30-31 Oct) → memory/domains/industry/esai-energycast-review.md
-- GARP 2002: Convention 12-13 Feb 2002, New York; workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md
-- Wharton: Energy Club, Terraso for 12 Nov → memory/domains/industry/wharton-risk-center-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
-- Universities: owner joins the Energy Committee of Bauer's Dean's Advisory Board, first meeting 14 Nov, Board 17 Jan (6 Nov) → memory/domains/industry/uh-econophysics.md; UT practicum declined (7 Nov) → memory/domains/industry/sponsorship-requests-2001.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Rice electives preview Mon 12 Nov, he presents (5 Nov) → memory/domains/industry/rice-energy-derivatives-course.md
-- EPIS 12-13 Nov: Alex Huang presents; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md; Rice/Enron seminar: Ingrid Werner 9 Nov → memory/domains/industry/rice-finance-seminar-2001.md
+- Speaking: HEG talk held 14 Nov, Hayter thanks him (17 Nov); BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); Risk Waters' Real Options course: ideas and a speaker slot asked (18 Nov) → memory/domains/industry/speaking-engagements-2000.md
+- Universities: owner attends the Bauer Energy Committee 14 Nov after all, Kumar offers a visit (12-13 Nov); Duffie's Bauer seminar 10 Jan 2002 → memory/domains/industry/uh-econophysics.md; MGMT 656 preliminary enrolment 39 (16 Nov) → memory/domains/industry/rice-energy-derivatives-course.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Wharton: owner proposes cancelling this year's Tiger Team (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
+- Markets: Reliant's Weather-sensitive Gas Load Indices, swaps planned (14 Nov) → memory/domains/industry/weather-insurance-markets.md; Uenohara's Boltzmann talk, Maths Week London 26 Nov → memory/domains/industry/visitors-2001.md; ESAI's Enron one-pager → memory/domains/industry/esai-energycast-review.md
+- GARP 2002: Convention 12-13 Feb 2002, New York; workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -36,7 +35,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/research-memberships-2000.md — membership offers: Wharton Partnership, conference sponsorships; AGA; EEI benchmarking
 - memory/domains/industry/rice-university.md — Rice: seminars, ALP team, Ikenberry's forum, Energy Club
 - memory/domains/industry/rice-energy-derivatives-course.md — the owner's MGMT 656 Energy Derivatives course, projects and grades
-- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: SMS (cancelled, Lu goes) and IQPC Oct 2001, INFOCAST Oct 2001, INFOCAST and Paris (Lu goes) Oct-Nov 2001, HEG Houston Nov 2001, Spain Dec 2001, Bachelier Congress Crete Jun 2002
+- memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: HEG Houston Nov 2001, Bachelier Congress Crete Jun 2002 (plenary), Risk Waters real options course; SMS, IQPC, INFOCAST, Paris and older archived
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga, Goldenfeld Sep 2001, Energy Markets Institute, Bauer Energy Committee Nov 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
 - memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo

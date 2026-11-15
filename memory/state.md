@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-11-09 (week 2001-W45). Enron in crisis: Lay says all options are being evaluated (6 Nov); the owner's LJM/Raptor memos go to the litigation team (6-7 Nov); no hiring for 4-6 months; Savings Plan frozen to 20 Nov.
+As of 2001-11-18 (week 2001-W46). Enron in crisis: Dynegy close expected in 6-9 months; Lay waives his change-of-control pay, core/non-core split, job cuts to follow (14-16 Nov); no hiring; owner: "No decision yet." on his future, the group's soft landing first.
 
-- Coming: Rice electives preview 12 Nov; Thanksgiving lunch 13 Nov; HEG talk, Bauer Energy Committee, San Antonio management conference 14 Nov; Baylor 15-16 Nov; market monitoring panel, SF 16 Nov; MSCF board, New York 12 Dec → memory/domains/industry/_index.md
-- Owed: MSCF letter; manager for Andrews's EGM loan; Wiley proposal; RISK referee report; variances to Fellers; Vernon meeting; EOL account answer to Nusbaum → memory/domains/work/_index.md
+- Coming: Arfsten lunch 19 Nov; Wharton ET 29-30 Nov; PSERC 5-7 Dec; MSCF board, New York 12 Dec; Duffie at Bauer 10 Jan → memory/domains/industry/_index.md
+- Owed: MSCF letter; Shankman's view on cancelling the Tiger Team; Bigelow's book to Martin; manager for Andrews's EGM loan; Wiley proposal; RISK referee report → memory/domains/work/_index.md
