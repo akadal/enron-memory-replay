@@ -1,0 +1,205 @@
+{
+ "slice": 117,
+ "simulated_today": "2002-01-13",
+ "feed": {
+  "slice": 117,
+  "iso_week": "2002-W02",
+  "first_seq": 10764,
+  "last_seq": 10881,
+  "messages": 118,
+  "durable": 43,
+  "first_date": "2002-01-09 16:31",
+  "last_date": "2002-01-13 20:44",
+  "today": "2002-01-13",
+  "inbox_files": [
+   "2002-01-09--mail-2.md",
+   "2002-01-10--mail.md",
+   "2002-01-11--mail.md",
+   "2002-01-12--mail.md",
+   "2002-01-13--mail.md"
+  ],
+  "inbox_chars": 44515,
+  "l2_chars": 509399
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 627,
+ "quota_before": {
+  "five_hour": 20.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 23.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 117,
+  "messages": 118,
+  "durable": 43,
+  "kept": 41,
+  "kept_rate_excluding_redundant": 0.953,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3792,
+  "fact_lines_with_source": 2445,
+  "dated": 2445,
+  "date_matches_source": 2377,
+  "date_mismatch_ids_this_slice": [
+   "m10847",
+   "m10879"
+  ],
+  "kept_rate_by_decile": [
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 7,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 695
+  },
+  "questions": {
+   "files": 1,
+   "chars": 3160
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 227,
+   "chars": 403627
+  },
+  "people": {
+   "files": 765,
+   "chars": 512840
+  },
+  "archive_inbox": {
+   "files": 735,
+   "chars": 6265336
+  },
+  "archive_mail": {
+   "files": 10907,
+   "chars": 29023327
+  },
+  "archive_other": {
+   "files": 2078,
+   "chars": 1629822
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 49,
+   "duration_ms": 624760,
+   "duration_api_ms": 512307,
+   "total_cost_usd": 3.3115643,
+   "usage": {
+    "input_tokens": 88,
+    "cache_creation_input_tokens": 153092,
+    "cache_read_input_tokens": 5110762,
+    "output_tokens": 53203,
+    "output_tokens_details": {
+     "thinking_tokens": 22998
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 153092,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 888,
+      "cache_read_input_tokens": 171142,
+      "cache_creation_input_tokens": 889,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 889
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 88,
+     "outputTokens": 53203,
+     "cacheReadInputTokens": 5110762,
+     "cacheCreationInputTokens": 153092,
+     "webSearchRequests": 0,
+     "costUSD": 3.3113004000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 22998,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 153092,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 48,
+   "result_summary": "The 2002-01-13 consolidation is committed as `2fbcebe0`, and both lint and `sleep-audit.py` passed before the commit. I did not push. Your prompt said both \"do not push; the runner pushes after its own checks\" and \"git push origin main\", and I took the first because it's the more specific instruction. The untracked `dataset/runs/sleep-117.transcript.jsonl` belongs to the runner, so I left it out of the commit.\n\n- **Messages:** this week had 43 messages with notes (m10764–m10881). 41 are now cited in 15 existing topics. The other two are listed in `dataset/drops/sleep-117.tsv`: m10774 (a bare web link) and m10880 (a news article mailed to self).\n- **Main content:**\n  - The Research Group is dissolved on Tuesday 15 Jan: most staff are released, and Deng, Neale and Lin move to Netco.\n  - Supatgiat needs seven recommendation letters by 15 Jan.\n  - Duke may take over sponsorship of Rice's orphaned seminar program.\n  - The owner never received the officers' questionnaire and asked for it again.\n  - The owner wrote that he will testify before the SEC in Washington in January.\n- **People:** Bob Nau, Cindy Olson, Victoria Kerridge and Chuanli Deng each reached five messages, so they have new person files and are in the alias table.\n- **Questions:** no item was past its due date, so nothing was closed by status quo. I added two alias approval questions: \"Jason Sokolove/Solok\" for `jason-sokolov.md`, and \"Thomas Barkley\" for `tom-barkley.md`. I also updated the Candace Kao question to point at the archive file her line moved to.\n- **Compression:** no file was above 90% of its ceiling, so the compression quota had nothing to act on. I still cut `legal-matters.md` from 87% of its ceiling to about 62%. The oldest lines of 13 topics moved verbatim to `memory/archive/<domain>/2002/`.\n- **Rest of the run:** I checked the five oldest ongoing lines and only the GPCM line needed updating. The processed inbox logs are in `memory/archive/inbox/`. This run's log, `2002-01-13--run.md`, sta"
+  },
+  "repair": null
+ }
+}
