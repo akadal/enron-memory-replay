@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-12-09
+updated: 2001-12-16
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: HEG talk held 14 Nov (17 Nov); BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); Risk Waters' Real Options course (18 Nov) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: UH lunch with Kumar and Warga 5 Dec, trading floor visit asked for 10 Dec; GEMI input due 15 Dec, next meeting 23 Jan → memory/domains/industry/uh-econophysics.md; Rice All Faculty Meeting moved to 28 Jan, Energy Club roundtables (4 Dec) → memory/domains/industry/rice-university.md; Kose John at the Rice seminar 14 Dec → memory/domains/industry/rice-finance-seminar-2001.md
-- Wharton: owner abstains from the Risk Center Advisory Committee of 7 Dec (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; Tiger Team cancel proposed (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; RISK referee report owed → memory/domains/industry/eprm-risk.md
-- Markets: Krapels sees no systemic risk in an Enron bankruptcy (28 Nov) → memory/domains/industry/esai-energycast-review.md; Shimko (RCM) on a Houston office (29 Nov) → memory/domains/industry/visitors-2001.md; RBAC hires GPCM analysts (29 Nov) → memory/domains/industry/gpcm-rbac.md
-- GARP 2002: Convention 11-14 Feb 2002, New York; presentation due 14 Dec for the delegate packs (4 Dec) → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
+- Universities: GEMI: Peebler on the Learning forums and the draft fee structure (16 Dec), next meeting 23 Jan → memory/domains/industry/uh-econophysics.md; Rice All Faculty Meeting moved to 28 Jan, Energy Club roundtables (4 Dec) → memory/domains/industry/rice-university.md; Kose John at the Rice seminar 14 Dec → memory/domains/industry/rice-finance-seminar-2001.md
+- Wharton: owner abstains from the Risk Center Advisory Committee of 7 Dec (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; Tiger Team cancel proposed (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; RISK referee report owed; EPRM 2002 USA, Houston 14-15 May, speaker invitation (12 Dec) → memory/domains/industry/eprm-risk.md
+- Markets: Krapels sees no systemic risk in an Enron bankruptcy (28 Nov) → memory/domains/industry/esai-energycast-review.md; Shimko (RCM) on a Houston office (29 Nov) → memory/domains/industry/visitors-2001.md; RBAC hires GPCM analysts, Brooks offers to place the owner's people (14 Dec) → memory/domains/industry/gpcm-rbac.md
+- GARP 2002: Convention 11-14 Feb 2002, New York; presentation due 14 Dec for the delegate packs (4 Dec) → memory/domains/industry/garp-2001.md; CERA Western call 14 Dec (10 Dec) → memory/domains/industry/events-attending-2001.md; NARG meeting declined (10 Dec) → memory/domains/industry/declined-invitations-2000.md
 
 ## Files
 
@@ -47,6 +47,6 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/energy-exchanges-2001.md — competing online energy exchanges (TradeSpark, 2001)
 - memory/domains/industry/sponsorship-requests-2001.md — sponsorship asks, 2001 (MIT Sloan, Stanford EMF)
 - memory/domains/industry/rice-alp-presentation-may-2001.md — Rice ALP team's presentation at Enron, 7 May 2001
-- memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (EPIS Nov 2001, Wharton ET 29-30 Nov 2001, PSERC Dec 2001)
+- memory/domains/industry/events-attending-2001.md — events attended from Apr 2001 (EPIS Nov 2001, Wharton ET 29-30 Nov 2001, CERA call Dec 2001)
 - memory/domains/industry/wharton-risk-center-2001.md — Wharton Risk Center: advisory committee, weather project, Energy Club speaker
 - memory/domains/industry/rice-finance-seminar-2001.md — Rice/Enron Seminar Series in Finance (Albert Wang, Zingales, 2001-02 speakers)

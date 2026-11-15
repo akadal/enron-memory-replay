@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-12-09
+updated: 2001-12-16
 ---
 # People — index
 
@@ -10,6 +10,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 
 - Abhay Mehta
 - Adam Brulinski
+- Adam Stevens
 - Ainsley Gaddis
 - Aisha Jamal
 - Al Arfsten
@@ -77,6 +78,8 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Billy Lemmons
 - Bjorn Hagelmann
 - Blake Johnson
+- Bob Casey
+- Bob Peebler
 - Bob Shults
 - Bobby Farris
 - Bogdan Szopa
@@ -285,6 +288,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jeannie Mandelker
 - Jed Howard
 - Jeff Andrews
+- Jeff Donahue
 - Jeff Gray
 - Jeff Kinneman
 - Jeff McMahon
@@ -623,6 +627,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sanjay Srivastava
 - Sanjay Wankhade
 - Sanjeev Khanna (Sanjeev K Khanna)
+- Sarah Brown
 - Sarah Wooddy (Sarah Woody)
 - Sasha Divelbiss
 - Scott Earnest

@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-12-09 (week 2001-W49). Enron has collapsed; its trading business moves to UBS Warburg's new company, with 4 meteorologists and 2 pure quants from the group planned to transfer. About sixty of the owner's people need jobs; Issler and Bob Lee are leaving. The owner's own options are on hold until the uncertainty is resolved.
+As of 2001-12-16 (week 2001-W50). Enron is bankrupt; trading moves to UBS Warburg's Netco, in which nobody asked in the owner's group, the owner included, has shown interest. The group is still intact "but not for long": Issler, Dhar, Labbe, Soma Ghosh and Sam Smith are gone, and the Weather Team is being broken up. The owner complained to the AP about a quote overheard at a luncheon.
 
-- Coming: UH trading-floor visit 10 Dec; MSCF board, New York 12 Dec; GARP slides due 14 Dec; Bauer input 15 Dec; Duffie at Bauer 10 Jan; GEMI 23 Jan; Rice faculty 28 Jan → memory/domains/industry/_index.md
-- Owed: VaR model reviews for UBSW (Port); Corp Dev analysis (Desai); names to Lacima; MSCF letter; EAM 2002 decision; Bennett's EMBA; Wiley proposal; RISK report → memory/domains/work/_index.md
+- Coming: owner in NYC Tue 18 Dec; Cumberland lunch 19 Dec; Duffie at Bauer 10 Jan; GEMI 23 Jan; Rice faculty 28 Jan → memory/domains/industry/_index.md
+- Owed: Scudder commentary 18 Dec; EPRM 2002 talk reply; headcount check 17 Dec; VaR reviews for UBSW (Port); MSCF letter; Wiley proposal; RISK report → memory/domains/work/_index.md

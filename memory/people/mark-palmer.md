@@ -5,7 +5,7 @@ entity: person
 name: "Mark Palmer"
 aliases: ["Mark S Palmer"]
 domains: [industry, work]
-updated: 2001-03-09
+updated: 2001-12-16
 ---
 # Mark Palmer
 
@@ -20,3 +20,7 @@ Identity disputed (?): Mark S Palmer may be a different person from Mark A. Palm
 ## Context: work
 
 - [2000-03-08] Wants an EBS-wide approach to storage; needs Research for a trading unit and pricing → memory/domains/work/ebs-storage-market.md ←[[m00907]] ←[[m00920]] ←[[m00923]]
+
+## Context: organization
+
+- [2001-12-11] Gets the Reuters interview request → memory/domains/organization/press-and-media.md ←[[m10265]]
