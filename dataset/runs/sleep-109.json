@@ -1,0 +1,204 @@
+{
+ "slice": 109,
+ "simulated_today": "2001-11-25",
+ "feed": {
+  "slice": 109,
+  "iso_week": "2001-W47",
+  "first_seq": 9966,
+  "last_seq": 10068,
+  "messages": 103,
+  "durable": 18,
+  "first_date": "2001-11-19 03:37",
+  "last_date": "2001-11-25 20:27",
+  "today": "2001-11-25",
+  "inbox_files": [
+   "2001-11-19--mail.md",
+   "2001-11-20--mail.md",
+   "2001-11-21--mail.md",
+   "2001-11-22--mail.md",
+   "2001-11-23--mail.md",
+   "2001-11-24--mail.md",
+   "2001-11-25--mail.md"
+  ],
+  "inbox_chars": 26464,
+  "l2_chars": 371926
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 445,
+ "quota_before": {
+  "five_hour": 74.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 1.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 109,
+  "messages": 103,
+  "durable": 18,
+  "kept": 16,
+  "kept_rate_excluding_redundant": 0.889,
+  "drop_classes": {
+   "no_owner_content": 1,
+   "other": 1
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3601,
+  "fact_lines_with_source": 2325,
+  "dated": 2325,
+  "date_matches_source": 2262,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   0.0,
+   1.0,
+   1.0,
+   null,
+   1.0,
+   1.0,
+   0.5,
+   null,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 702
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1468
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 389983
+  },
+  "people": {
+   "files": 741,
+   "chars": 489077
+  },
+  "archive_inbox": {
+   "files": 680,
+   "chars": 5912072
+  },
+  "archive_mail": {
+   "files": 10094,
+   "chars": 26502243
+  },
+  "archive_other": {
+   "files": 1986,
+   "chars": 1565984
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 44,
+   "duration_ms": 443520,
+   "duration_api_ms": 368019,
+   "total_cost_usd": 2.2628664999999994,
+   "usage": {
+    "input_tokens": 82,
+    "cache_creation_input_tokens": 104232,
+    "cache_read_input_tokens": 3518888,
+    "output_tokens": 36232,
+    "output_tokens_details": {
+     "thinking_tokens": 11831
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 104232,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 823,
+      "cache_read_input_tokens": 122610,
+      "cache_creation_input_tokens": 561,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 561
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 25,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002649,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 82,
+     "outputTokens": 36232,
+     "cacheReadInputTokens": 3518888,
+     "cacheCreationInputTokens": 104232,
+     "webSearchRequests": 0,
+     "costUSD": 2.2626016,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 11831,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 104232,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 43,
+   "result_summary": "I ran the 2001-11-25 consolidation for week 2001-W47 and committed it as `4bd40e49`. Both gates passed: `lint.py` green and `sleep-audit.py` green. I did not push, because the replay instructions say the runner pushes after its own checks; that overrides the generic \"git push\" line. Of 18 messages with notes, 16 are cited in L1 and 2 are listed in `dataset/drops/sleep-109.tsv`: Crenshaw's vague lawsuit question (m09981) and Lipton's book announcement (m10043). This week's facts went into 11 existing topic files, including:\n- The Kaminski Column was sent to Sam (\"Here it comes.\").\n- Supatgiat built an implied merger-probability calculator, filed under `ene-stock-drivers`.\n- Krishna proposed cutting 2002 support for EAM to 3 people at about $750,000, filed under `ees-structuring-models`.\n- Lay cancelled the holiday party, and ClickAtHome, matching gifts and VIP grants were suspended.\n- Labbe asked about Werner's employment status and about funding Bennett's Rice EMBA.\n- Also: the Bauer Energy Committee sub group, the Carpenter seminar at Rice, the GARP 2002 dates, Barrett's workshop invoice, Candella's email list and Jackie's phone and fax.\n\nLane Sloan reached six messages with notes, so I opened `memory/people/lane-sloan.md` and added him to the alias table. I closed the overdue Jeff Andrews identity question by status quo: he stays one entity, with the note next to his `(?)` line. To keep the touched files from growing past the audit limits, I moved the oldest lines of 12 files verbatim to `memory/archive/<domain>/2001/*-2001-11-25.md`. No file was above 90% of its ceiling, so the three-file compression quota did not apply. The five oldest ongoing lines are still valid. I updated the indexes and `state.md`, and moved the seven mail logs plus last week's run log to `memory/archive/inbox/`. There were no feedback or sleep-task blocks. The audit's sleep-task check fired because last week's run log contains the words \"(sleep-task)\" in a sentence saying there were none; "
+  },
+  "repair": null
+ }
+}
