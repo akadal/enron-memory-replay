@@ -1,0 +1,202 @@
+{
+ "slice": 122,
+ "simulated_today": "2002-02-03",
+ "feed": {
+  "slice": 122,
+  "iso_week": "2002-W05",
+  "first_seq": 11387,
+  "last_seq": 11523,
+  "messages": 137,
+  "durable": 60,
+  "first_date": "2002-01-28 00:42",
+  "last_date": "2002-02-03 17:07",
+  "today": "2002-02-03",
+  "inbox_files": [
+   "2002-01-28--mail.md",
+   "2002-01-29--mail.md",
+   "2002-01-30--mail.md",
+   "2002-02-03--mail.md"
+  ],
+  "inbox_chars": 58475,
+  "l2_chars": 418019
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 584,
+ "quota_before": {
+  "five_hour": 33.0,
+  "seven_day": 61.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 35.0,
+  "seven_day": 62.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 122,
+  "messages": 137,
+  "durable": 60,
+  "kept": 55,
+  "kept_rate_excluding_redundant": 0.965,
+  "drop_classes": {
+   "logistics": 1,
+   "no_owner_content": 1,
+   "redundant": 3
+  },
+  "dropped": 5,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3867,
+  "fact_lines_with_source": 2452,
+  "dated": 2452,
+  "date_matches_source": 2385,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   0.8,
+   0.91,
+   1.0,
+   0.8,
+   0.8,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 9,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 751
+  },
+  "questions": {
+   "files": 1,
+   "chars": 4471
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 228,
+   "chars": 403377
+  },
+  "people": {
+   "files": 777,
+   "chars": 522200
+  },
+  "archive_inbox": {
+   "files": 760,
+   "chars": 6514438
+  },
+  "archive_mail": {
+   "files": 11549,
+   "chars": 31353880
+  },
+  "archive_other": {
+   "files": 2147,
+   "chars": 1680070
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 42,
+   "duration_ms": 582495,
+   "duration_api_ms": 459423,
+   "total_cost_usd": 3.186910000000001,
+   "usage": {
+    "input_tokens": 80,
+    "cache_creation_input_tokens": 155363,
+    "cache_read_input_tokens": 4661798,
+    "output_tokens": 50553,
+    "output_tokens_details": {
+     "thinking_tokens": 24469
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 155363,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 957,
+      "cache_read_input_tokens": 173701,
+      "cache_creation_input_tokens": 601,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 601
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 28,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002664,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 80,
+     "outputTokens": 50553,
+     "cacheReadInputTokens": 4661798,
+     "cacheCreationInputTokens": 155363,
+     "webSearchRequests": 0,
+     "costUSD": 3.186643600000001,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 24469,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 155363,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 41,
+   "result_summary": "I folded week 2002-W05 into memory and committed it as one commit, `d8a16105`; lint and sleep-audit were both green on the first pass. I did not push: the replay instructions say the runner pushes after its own checks, which overrides the generic \"git push\" step. Of the 60 messages with notes, 55 are now cited in 17 existing topics. The other 5 are listed in `dataset/drops/sleep-122.tsv`:\n- **Already recorded:** m11440, m11441 and m11453 are AOL copies of threads that memory already holds.\n- **Nothing of the owner's:** m11474 is a bare signature.\n- **Logistics:** m11484 is a forwarded NESA invitation.\n\n**What came in this week**\n- **Company:** Stephen Cooper became interim CEO and Greg Whalley left for UBS Warburg. A bankruptcy court order now bars destroying records, and the owner told a colleague the FBI took his laptop.\n- **Hand-over to NetCo:** the Exotica Library hand-over to Sean Yang was under control by 29 Jan.\n- **Research Group:** its last days are recorded (contact list, time sheets, Osman Sezgen returning his equipment), along with leads for leavers: Shirley Crenshaw at Reliant, plus Goldman and Equiva quant jobs.\n- **The owner's job hunt:** he says he is \"relatively advanced in my negotiations with one company\"; joining a consultancy, such as Bill Balson's Charles River Associates, is another option.\n- **Engagements:** the UT panel on 22 Feb was renamed to the Enron/Andersen topic and he stays on it; also logged are the Rice executive-education meeting, EPRM's request for his speaker form, and the GARP slides.\n\n**Housekeeping**\n- **People:** Sean Yang and Jason Jennaro reached five messages, so each got an entity file and a line in the alias table.\n- **Questions:** the \"Candace Kao\" and \"Anshuman\" questions passed their due date unanswered and were closed by status quo; their notes are on the two people files. I added one approval question, whether to attach \"Sean Xiaozhuo Yang\" to Sean Yang. The two pointers that referred to lines moved this run now po"
+  },
+  "repair": null
+ }
+}
