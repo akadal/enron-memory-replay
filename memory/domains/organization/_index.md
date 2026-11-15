@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-16
+updated: 2002-01-20
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; NYSE delists, stock OTC as ENRNQ (16 Jan) → memory/domains/organization/corporate-announcements-2001.md; UBS's 51% of Netco (15 Jan); Exotica needs a specific letter from Fallon (16 Jan) → memory/domains/organization/ubsw-transfer.md
-- Legal: testimony in Washington in January (13 Jan); no records destroyed (14 Jan); indemnification: his lawyer Walter Brown meets Robert C. Williams 16 Jan, a possible conflict (15 Jan) → memory/domains/organization/legal-matters.md
-- Wind-down: Deng, Neale, Lin to Netco, most of the group released 15 Jan (11 Jan); last group lunch, Research Reunion #1 (14-15 Jan) → memory/domains/organization/research-group-wind-down.md; owner with Enron till 31 Jan (15 Jan) → memory/domains/organization/hr-matters-2001.md
-- Leavers: Jaesoo Lew's lunch, Ganjoo's resume (14 Jan); Mora leaves (15 Jan); Pernoud seeks work (16 Jan) → memory/domains/organization/leavers-and-job-leads.md; Danilov to RWE Trading (15 Jan) → memory/domains/organization/london-research.md
-- Group: Ann Thomas asks Kim Watson, McMichael, Breese for interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones, LeBoutillier's op-ed (12-13 Jan) → memory/domains/organization/press-and-media.md
+- Company: EWS under CEO Jim Fallon (9 Jan) → memory/domains/organization/ena-reorganization.md; ENRNQ (16 Jan), AmEx cards cancelled (18 Jan) → memory/domains/organization/corporate-announcements-2001.md; NETCO sale announced; owner awaits Fallon's Exotica letter; Research Library code to Jay Webb (16-17 Jan) → memory/domains/organization/ubsw-transfer.md
+- Legal: no records destroyed (14 Jan); indemnification: Walter Brown meets Robert C. Williams 16 Jan (15 Jan); SEC letter thread to AOL (18 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: Deng, Neale, Lin to Netco, group released 15 Jan (11 Jan); last lunch, Reunion #1 (15 Jan); Pravas Sud to EGAS (18 Jan) → memory/domains/organization/research-group-wind-down.md; owner with Enron till 31 Jan (15 Jan) → memory/domains/organization/hr-matters-2001.md
+- Leavers: Mora (15 Jan), Pernoud (16 Jan); Larry's Cisco reference, Supatgiat's faculty letters (17-20 Jan) → memory/domains/organization/leavers-and-job-leads.md; Leppard (BP) on GARCH with jumps (17 Jan) → memory/domains/organization/london-research.md
+- Group: Ann Thomas's interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones (12-13 Jan) → memory/domains/organization/press-and-media.md
 
 ## Files
 

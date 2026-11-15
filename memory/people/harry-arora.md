@@ -4,8 +4,8 @@ type: entity
 entity: person
 name: "Harry Arora"
 aliases: []
-domains: [organization, work]
-updated: 2000-04-07
+domains: [organization, work, personal]
+updated: 2002-01-20
 ---
 # Harry Arora
 
@@ -20,3 +20,7 @@ Enron; heads Public Financial Securities, which joins Enron Net Works (Apr 2000)
 
 - [2000-03-12] Copied on Ahmad's PPI model update → memory/domains/work/uk-inflation-book-ppi.md ←[[m00954]]
 - [2000-03-17] The owner forwards him IDEAglobal research → memory/domains/work/vendor-offers-2000.md ←[[m01011]] ←[[m01021]]
+
+## Context: personal
+
+- [2002-01-17] His venture TrueHelp, the owner on its board; the owner will assist (18 Jan) → memory/domains/personal/truehelp.md ←[[m11037]] ←[[m11102]]

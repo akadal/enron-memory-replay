@@ -3,16 +3,16 @@ id: ubsw-transfer
 type: topic
 domain: organization
 title: "Move to UBS Warburg (Netco): staff transfer, staff lists and risk support"
-summary: "Trading business moving to UBS Warburg's new company (Netco): weather consultants and market data to Netco (8 Jan 2002); UBS's 51% of Netco, no cash, a third of profits to Enron (15 Jan 2002); Exotica needs a specific letter from Fallon (16 Jan 2002); no software without his letter (9 Jan 2002), headcount, DPR, VaR reviews and older items archived."
+summary: "Trading business to UBS Warburg's new company (Netco): sale announced, UBS may hire staff (16 Jan 2002); Exotica: owner waits for Fallon's formal letter, leaves 31 Jan (16 Jan 2002); Research Library source code to Jay Webb, Muller's contract (17 Jan 2002); weather consultants, UBS's 51%, headcount, DPR, VaR reviews and older items archived."
 status: active
-updated: 2002-01-16
+updated: 2002-01-20
 ---
 # Move to UBS Warburg (Netco): staff transfer, staff lists and risk support
 
-Detail ←[[ubsw-transfer-2001-12-30]] ←[[ubsw-transfer-2002-01-09]] ←[[ubsw-transfer-2002-01-16]]
+Detail ←[[ubsw-transfer-2001-12-30]] ←[[ubsw-transfer-2002-01-09]] ←[[ubsw-transfer-2002-01-16]] ←[[ubsw-transfer-2002-01-20]]
 
 Potential buyer's Risk Control meeting (30 Nov): memory/domains/organization/corporate-announcements-2001.md. Leavers: memory/domains/organization/leavers-and-job-leads.md.
 
-- [2002-01-08] Kevin Moore: the Weather Research Team named consultants to move under contract to NET CO (Freez-Notis, Earth-Sat, WSI, Accu-Weather, PDI, Ardmore) plus the ECS Bloomberg account; Danielle Marcinkowski compiles the market data applications and subscriptions for Netco and negotiates the contracts. ←[[m10674]]
-- [2002-01-15] Shawn Cumberland (El Paso) forwards SSSB's utility update: UBS won Enron's trading operations over Citigroup and BP, a 51% stake in Netco (hardware, software, employment contracts); no cash, the $13bn book stays out, Enron gets a third of the profits for five years. ←[[m10976]]
-- [2002-01-16] Exotica: Fallon had said no software to NETCO without his formal letter (9 Jan); Berney Aucoin asks whether a specific letter is needed or the Enron/UBS License Agreement (all scheduled software, once executed) suffices; owner: "I fully agree. I don't want any complications after I leave Enron."; "Please, ask Jim Fallon to ask more specific letter."; Aucoin asks whether he is leaving for good. ←[[m11006]] ←[[m11011]] ←[[m11012]]
+- [2002-01-16] General Announcements: Enron sells the wholesale gas and power trading assets to UBS (NETCO); UBS may approach staff, those not hired stay with Enron; questions to Anne Labbe (5-7809), Fallon or Delainey. ←[[m11019]]
+- [2002-01-16] Owner to Aucoin: "My last day is Jan 31. The group was disbanded on Tue."; "Jim Fallon told me not to do anything till I receive a formal letter from him instructing me to transfer the software." (due that day; Aucoin had asked whether a specific letter or the Enron/UBS License Agreement suffices); Aucoin's farewell; owner sends him his private contacts (18 Jan). ←[[m11006]] ←[[m11014]] ←[[m11030]] ←[[m11035]] ←[[m11116]]
+- [2002-01-17] Research Library: Louise Kitchen asks Fallon to confirm the owner may release source code to Jay Webb; Fallon asks whether "the state" has copies of all programs, whether systems should manage the migration, and whether Muller sent the owner the contract section requiring the turnover. ←[[m11060]] ←[[m11061]]

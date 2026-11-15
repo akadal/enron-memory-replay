@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-16
+updated: 2002-01-20
 ---
 # People — index
 
@@ -456,6 +456,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mark Lay
 - Mark Palmer (Mark S Palmer)
 - Mark Ruane
+- Mark S. Daskin
 - Mark Tawney
 - Mark Taylor
 - Mark Westmoreland
@@ -533,6 +534,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Pat Henahan
 - Pat Scarborough
 - Patrycja Dalecka (Patricia Dalecka)
+- Patsy Barker
 - Paul Bristow
 - Paul Day
 - Paul Johnson
@@ -764,6 +766,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - William Fitzgibbon
 - William Smith (Sam Smith)
 - William Stuart III
+- William Toriello
 - Winny So
 - Winston Jia (Wenyao Jia)
 - Yana Kristal

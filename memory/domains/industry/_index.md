@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2002-01-16
+updated: 2002-01-20
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: INFOCAST's Market Price Volatility conference, Houston 1 May, accepted (14 Jan); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: Kumar and Warga's lunch on his UH faculty appointment, Mon 21 Jan (14 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's number to Martin Lin (14 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
+- Universities: Kumar and Warga's lunch on his UH faculty appointment, Mon 21 Jan (14 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Jones School All Faculty Meeting 28 Jan (18 Jan) → memory/domains/industry/rice-university.md; Duke may sponsor the orphaned seminars (9-11 Jan) → memory/domains/industry/rice-finance-seminar-2001.md
 - Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May: he takes the market and credit risk talk, panel asked (15-16 Jan) → memory/domains/industry/eprm-risk.md
 - Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM 9.0.8.4, winter definition asked (13 Jan) → memory/domains/industry/gpcm-rbac.md
-- 2002 events: GARP talk 12 Feb (20 Dec), slides request forwarded (14 Jan) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, final agenda, owner joins (14-16 Jan) → memory/domains/industry/events-attending-2001.md
+- 2002 events: GARP talk 12 Feb (20 Dec), slides request forwarded (14 Jan) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, owner joins, contacts sent (14-18 Jan); CTAEE kickoff 29 Jan (16 Jan) → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
