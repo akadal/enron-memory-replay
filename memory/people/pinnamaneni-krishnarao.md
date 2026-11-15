@@ -5,7 +5,7 @@ entity: person
 name: "Pinnamaneni Krishnarao"
 aliases: ["Krishna Krishnarao"]
 domains: [organization, work]
-updated: 2001-09-28
+updated: 2001-11-04
 ---
 # Pinnamaneni Krishnarao
 
@@ -14,12 +14,12 @@ Research Group member at director level (EB 1964 from Jan 2000); also "Krishna K
 ## Context: organization
 
 - [1999-12-10] Group member; India trip 9-20 Jan; asks interviews for Allen Humbolt (Feb) → memory/domains/organization/recruiting-candidates.md ←[[m00004]] ←[[m00186]] ←[[m00691]]
+- [2001-10-31] Green card (Outstanding Researcher, from 1995) at the I-485 stage; the owner enlists Cash and Daffin → memory/domains/organization/hr-matters-2001.md ←[[m09769]] ←[[m09798]]
 
 ## Context: work
 
 - [1999-12-10] Naphtha caps for the India team → memory/domains/work/naphtha-caps-india.md ←[[m00007]]
-- [2000-01-05] Dabhol structuring, Butts talks; sent a critical review of a Dabhol book (22 Feb) → memory/domains/work/dabhol-power-sale.md ←[[m00144]] ←[[m00427]] ←[[m00468]] ←[[m00730]] ←[[m00774]]
+- [2000-01-05] Dabhol structuring → memory/domains/work/dabhol-power-sale.md ←[[m00144]]
 - [2000-01-20] (?) Bare "Krishna" of m00397: closed unanswered 2000-02-27, not attributed → memory/domains/work/dabhol-power-sale.md ←[[m00397]]
-- [2000-01-27] Credit-risk paper, ICF meeting, Cranfield student and other early items archived ←[[pinnamaneni-krishnarao-2001-09-28]]
-- [2001-09-23] CRAT (Contract Analysis Database): new link from him 14 Sep, http://172.30.84.36/crat ←[[m09204]]
+- [2000-01-27] Credit-risk paper, ICF meeting, Cranfield student, CRAT link and other items archived ←[[pinnamaneni-krishnarao-2001-09-28]] ←[[pinnamaneni-krishnarao-2001-11-04]]
 - [2001-09-28] Copied on the MarketPoint no-licence reply → memory/domains/work/marketpoint-gas-model-2001.md ←[[m09219]]

@@ -2,13 +2,15 @@
 id: petrochem-forward-curves-2001
 type: topic
 domain: work
-title: "Petrochemical forward curves for the Petrochem Desk (Apr 2001)"
-summary: "Christian LeBroc (ex-RAC, now a Petrochem Desk trader under John Nowlan) wants a fundamental forward curve model for all petrochemicals; Nelson Neale: at least 6-8 weeks, crude (NYMEX) link plus supply and demand; owner: 'we have to help them', Vasant puts Kate on it (23 Apr 2001)."
+title: "EGM forward curves: petrochemicals, plastics, ethanol (2001)"
+summary: "Petrochem Desk (Christian LeBroc, under John Nowlan) wants fundamental curves; Neale: 6-8 weeks, crude link plus supply and demand; owner: 'we have to help them', Kate on it (Apr 2001); plastics: one model per product, not one VAR (1 Nov 2001); Neale's update: ethanol curve, butadiene hedge fails, TVA fly-ash cost, propane and heating oil models (2 Nov 2001)."
 status: active
-updated: 2001-04-25
+updated: 2001-11-04
 ---
-# Petrochemical forward curves for the Petrochem Desk (Apr 2001)
+# EGM forward curves: petrochemicals, plastics, ethanol
 
-- [2001-04-18] Nelson Neale met Christian LeBroc on a fundamental/econometric petrochemical curve like Research's ag curves, and asks how the owner, Vasant and Stinson want to proceed. LeBroc wants a model for all petrochemicals on the lines of "Curve Model2K" (built by Research for Plastics), his "Benz_Curve" being primitive; supply, demand and utilisation show no statistical link to aromatics prices, so he proposes crude volatility for a GBM part; Neale: GBM vol is hard to estimate without a forward curve. ←[[m06972]]
-- [2001-04-20] Neale: LeBroc left RAC in April to trade on John Nowlan's Petrochem Desk, whose curves were SWAGs, partly blamed for a rough P&L year; its fundamentals group is only 3-4 months old. At least 6-8 weeks: start from a NYMEX link (crude), then add supply and demand terms from market research. ←[[m07047]] ←[[m07052]]
+Detail ←[[petrochem-forward-curves-2001-2001-11-04]]
+
 - [2001-04-23] Owner to Shanbhogue: "It seems we have to help them. Can Kate help on this project?"; Vasant puts Kate on it, to get the details from Christian LeBroc. ←[[m07067]] ←[[m07071]] ←[[m07094]] ←[[m07098]]
+- [2001-11-01] Plastics: Neale and Mauricio rebuild curves for 7 products (ethylene and propylene contract and spot, PP, HDPE, LLDPE); one VAR dropped (5 years of data), a model each on first differences: ethylene and propylene on AR terms, WTI and gas, PP on propylene, HDPE and LLDPE on ethylene, plus monthly fundamentals; checked against Alan Engberg's curves. ←[[m09782]]
+- [2001-11-02] Neale's update (to Shanbhogue, cc owner): first-cut ethanol curve (NYMEX unleaded, WTI, EIA stocks), 1 SD +/- $0.30 on $1.40/gal, de la Roche and Maloney talk to Petrous on a swap; butadiene vs natural gasoline (Comiskey) not cointegrated; TVA wants $9 million for 9 fly-ash ponds (Clean Air Solutions pilot), half Enron's; Wooddy's propane model done, Ganjoo's heating oil next. ←[[m09804]]

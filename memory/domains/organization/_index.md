@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-10-28
+updated: 2001-11-04
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: SEC asks about LJM deals (22 Oct); McMahon CFO, Fastow on leave (24 Oct); LJM lawsuits, keep all LJM documents (Derrick); Savings Plan frozen 26 Oct-20 Nov (25 Oct); solicitation calls to Legal or PR (26 Oct) → memory/domains/organization/corporate-announcements-2001.md; Eastern gas origination to Lagrasta, Luce to Strategic Asset Development (24 Oct) → memory/domains/organization/ena-reorganization.md
-- Candidates: hires only on attrition; Philoche prefers Houston, owner offers Lavorato a call or visit; Demianenko referred to David Port (28 Oct); Jin Jung interviewed 26 Oct; phone interviews for Narayanan and Hunt → memory/domains/organization/recruiting-candidates.md; Focus Capital, TAGE → memory/domains/organization/outside-recruiters-2001.md
-- Staff: Werner's Houston start likely 16 Jan; a Research manager on loan to Jeff Andrews's EGM fundamentals, name owed (23 Oct); Kohli's project gone, he offers help (26 Oct) → memory/domains/organization/staff-and-recruiting.md; Koepke's French lessons → memory/domains/organization/leave-and-training.md; Labbe's EA pay comparables → memory/domains/organization/hr-matters-2001.md
-- Budget: 2002 allocations sent; Fellers wants the variances explained → memory/domains/organization/research-accounting-2000.md; SAS paid by the owner, Vernon to collect from desks → memory/domains/organization/software-licenses.md
-- Group: Enron Center South tour Tue 6 Nov, Weather Team moves Fri 9 Nov, Enron Kids ask → memory/domains/organization/research-group-2001.md; Thursday lunches → memory/domains/organization/research-group.md; aircard, Rand Journal subscribed → memory/domains/organization/office-equipment.md; London Research may be dismantled (17 Oct) → memory/domains/organization/london-research.md
+- Company: SEC asks about LJM deals (22 Oct); McMahon CFO, Fastow on leave (24 Oct); keep all LJM documents; Savings Plan frozen 26 Oct-20 Nov → memory/domains/organization/corporate-announcements-2001.md; Eastern gas origination to Lagrasta (24 Oct) → memory/domains/organization/ena-reorganization.md
+- Candidates: hires only on attrition, none for 4-6 months (Doran, 29 Oct); Philoche prefers Houston; Brian Hunt phone interview 30 Oct; Mielke to Rieker and the Associate program (2 Nov); Yvan Go → memory/domains/organization/recruiting-candidates.md; Bertges's VaR manager search → memory/domains/organization/outside-recruiters-2001.md
+- Staff: Werner's Houston start likely 16 Jan; a Research manager on loan to Jeff Andrews's EGM fundamentals, name owed (23 Oct); Halliburton leaves for New Zealand (2 Nov) → memory/domains/organization/staff-and-recruiting.md; Krishnarao's green card at I-485, approval expected end Nov → memory/domains/organization/hr-matters-2001.md
+- Budget: 2002 allocations sent; Fellers wants the variances explained → memory/domains/organization/research-accounting-2000.md; SAS paid by the owner → memory/domains/organization/software-licenses.md
+- Group: Enron Center South tour Tue 6 Nov, Weather Team moves Fri 9 Nov; Thanksgiving lunch 13 Nov; Enron Kids cash to Candella by 30 Nov; Livelink accounts; Vernon's library plea → memory/domains/organization/research-group-2001.md; London Research may be dismantled (17 Oct) → memory/domains/organization/london-research.md
 
 ## Files
 

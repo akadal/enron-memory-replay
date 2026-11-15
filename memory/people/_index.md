@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-10-28
+updated: 2001-11-04
 ---
 # People — index
 
@@ -147,6 +147,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Davies
 - David Dupre
 - David Gorte (Dave Gorte)
+- David Heath
 - David Hoog
 - David Ikenberry
 - David Kilgore
@@ -262,6 +263,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jaideep Singh
 - James A Hughes (James Hughes, Jim Hughes)
 - James Bouillion
+- James Doran
 - James Steffes (James D Steffes, Jim Steffes)
 - James Valverde
 - Jana Giovannini
@@ -323,6 +325,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - John Henderson
 - John Herbert (John H Herbert)
 - John Lavorato
+- John Lehoczky
 - John McCormack
 - John Nowlan (John L Nowlan)
 - John O'Brien
@@ -414,6 +417,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Margaret Daffin
 - Marge Nadasky
 - Marie Hejka
+- Marilyn Mielke
 - Mario De La Ossa
 - Mark Brady
 - Mark Breese
@@ -457,6 +461,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Tomczyk
 - Michael Tribolet
 - Michele Nezi Marvin
+- Michelle Cash
 - Michelle Cisneros
 - Michelle Mendoza
 - Mike Fowler
@@ -464,10 +469,12 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Mike Mumford
 - Mike Roberts (Mike A Roberts)
 - Mike Rosen
+- Milenia Soto (Milly Soto, Millie Soto, Milena Soto)
 - Ming Sit
 - Mitra Mujica
 - Mohan Gurunath
 - Molly Magee
+- Moyez Lallani
 - Mulong Wang
 - Nalin Kulatilaka
 - Naveen Andrews
@@ -481,6 +488,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Nina Knirel
 - Ning Zhang
 - Norberto Valdes
+- Norene Mears
 - Norma Villarreal
 - Norman Packard
 - Nur Azmin Abu Bakar
@@ -548,6 +556,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rajnish Kamat
 - Rakesh Bharati
 - Rakhi Israni
+- Ramayya Krishnan
 - Raul Davila
 - Ravi Thuraisingham
 - Ray Bowen
@@ -600,6 +609,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sally Gould
 - Samer Takriti
 - Sandeep Kohli
+- Sanjay Srivastava
 - Sanjay Wankhade
 - Sanjeev Khanna (Sanjeev K Khanna)
 - Sarah Wooddy (Sarah Woody)
@@ -658,6 +668,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Stig Faltinsen
 - Stinson Gibner
 - Stuart Hamel
+- Sue Connelly (Susan Connelly)
 - Suresh Raghavan (Surech Raghavan)
 - Susan Hansen (Susan C. Hansen)
 - Syed Iqbal (Farhan Iqbal)

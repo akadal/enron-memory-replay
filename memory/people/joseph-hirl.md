@@ -5,11 +5,11 @@ entity: person
 name: "Joseph Hirl"
 aliases: ["Joseph P Hirl"]
 domains: [work, industry]
-updated: 2000-06-04
+updated: 2001-11-04
 ---
 # Joseph Hirl
 
-Enron (Enron Development); evaluates an Enron merchant business in Japan. ←[[m00012]] ←[[m01857]]
+Enron (Enron Development); evaluates an Enron merchant business in Japan. "Joe Hirl" (m09223, the Japanese edition of the risk book) is not attached as an alias (?): approval question closed by status quo 2001-11-04. ←[[m00012]] ←[[m01857]]
 
 ## Context: work
 

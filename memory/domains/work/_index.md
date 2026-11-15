@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-10-28
+updated: 2001-11-04
 ---
 # Work — index
 
@@ -9,14 +9,14 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- LJM/Raptor: owner to Bharati, Andersen's Scardino copied (22 Oct): past valuations unsupported, restriction and put mutually exclusive; 4 Oct memo to Siurek → memory/domains/work/talon-raptor.md; Dynegy vs Enron, 'How Enron Blew It' (24-25 Oct) → memory/domains/work/ene-stock-drivers.md
-- EOL data mining: Whalley's top priority, bi-weekly updates to him → memory/domains/work/eol-trading-algorithms-2001.md; Prediction Company: owner to talk to Greg, Leppard wants in (23 Oct) → memory/domains/work/prediction-company.md
-- Models: Tamarchenko's VAR paper reworked for Duffie (26 Oct); Shanbhogue's sigma-shift method for cash needs vs collateral (28 Oct) → memory/domains/work/var-credit-system-2001.md; ERCOT TCR derating paper for the ROS meeting 30 Oct → memory/domains/work/transmission-modelling-2001.md; Longitude: Hrgovcic in New York 30 Oct → memory/domains/work/weather-research-2001.md
-- Risk and credit: Thuraisingham wants to revive the enterprise-wide risk tool (25 Oct); Operational Risk task force → memory/domains/work/enterprise-risk-management.md; Dhar: EES private firm model in final testing (26 Oct) → memory/domains/work/private-firm-credit-model-2001.md
-- Writing: column 'The Market for Lemons and the Price of Dishonesty', Akerlof paper for Cramer → memory/domains/work/kaminski-column.md; Wiley wants the energy book proposal → memory/domains/work/energy-derivatives-book.md
-- Universities: Georgia Tech Thu 1 Nov (Atlanta 31 Oct, breakfast with Eydeland), title and abstract owed; Baylor 15-16 Nov, Garven asks for materials → memory/domains/work/university-relations.md; CMU MSCF board Wed 12 Dec New York, formal letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md
-- Latin America: owner's Brazil commitments: CEPEL review, SDDP runs (Halliburton), transmission (Lin), swing options (Lu) (25 Oct) → memory/domains/work/brazil-hydro-2001.md; Argentina moves to SDDP → memory/domains/work/argentina-modelling.md
-- Desks and meetings: JCC small deals first → memory/domains/work/jcc-brent-hedge.md; De La Ossa's crack spread options models (25 Oct) → memory/domains/work/desk-analysis-requests.md; Issler's correlation calculator → memory/domains/work/correlation-stress.md; PSIM Tue 30 Oct → memory/domains/work/genco-plant-model-2001.md; EGM Monday staff meeting from 29 Oct → memory/domains/work/internal-meetings-2001.md; Emma Watts's renewables conference → memory/domains/work/outside-requests-2001.md
+- LJM/Raptor: owner to Bharati, Andersen's Scardino copied (22 Oct): past valuations unsupported → memory/domains/work/talon-raptor.md; Dynegy vs Enron (24-25 Oct) → memory/domains/work/ene-stock-drivers.md
+- EOL: data mining is Whalley's top priority; Barkley and Rajan meet EOL report creators (30 Oct) → memory/domains/work/eol-trading-algorithms-2001.md; Prediction Company: EOL read-only account asked of Webb, separate meeting with Greg, Packard still behind the draft (30 Oct) → memory/domains/work/prediction-company.md
+- Models: Naveen Andrews's liquidity margin model (29 Oct); Shanbhogue's sigma-shift cash needs (28 Oct) → memory/domains/work/var-credit-system-2001.md; ERCOT WMS TCR vote mostly Enron's way (30 Oct) → memory/domains/work/transmission-modelling-2001.md; Longitude meeting 2 Nov, Diebold offers joint projects → memory/domains/work/weather-research-2001.md
+- Curves: plastics models, ethanol curve, TVA fly-ash, butadiene (1-2 Nov) → memory/domains/work/petrochem-forward-curves-2001.md; JCC yen/$ hedge works (2 Nov) → memory/domains/work/jcc-brent-hedge.md; Elba Island option memo (Kohli, 31 Oct) → memory/domains/work/desk-analysis-requests.md
+- Risk: Operational Risk task force; Thuraisingham's enterprise-wide tool (25 Oct) → memory/domains/work/enterprise-risk-management.md; EES private firm model → memory/domains/work/private-firm-credit-model-2001.md
+- Writing: Maureen Raymond wrote the 29 Oct column (Argentina) on his behalf → memory/domains/work/kaminski-column.md; Lin's FTR Technical Corner piece → memory/domains/work/research-presentations.md; Wiley wants the book proposal → memory/domains/work/energy-derivatives-book.md
+- Universities: Georgia Tech visited 1 Nov, Sung-Joo Lee as a summer intern; Baylor 15-16 Nov, Garven asks for materials → memory/domains/work/university-relations.md; CMU MSCF board Wed 12 Dec, Club Quarters New York, formal letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md
+- Latin America: Brazil commitments (CEPEL, SDDP, transmission, swing options) → memory/domains/work/brazil-hydro-2001.md; Argentina moves to SDDP → memory/domains/work/argentina-modelling.md; Phunnarungsi's Queensland data asked (2 Nov) → memory/domains/work/outside-requests-2001.md
 
 ## Files
 
