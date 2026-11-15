@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-20
+updated: 2002-01-24
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: EWS under CEO Jim Fallon (9 Jan) → memory/domains/organization/ena-reorganization.md; ENRNQ (16 Jan), AmEx cards cancelled (18 Jan) → memory/domains/organization/corporate-announcements-2001.md; NETCO sale announced; owner awaits Fallon's Exotica letter; Research Library code to Jay Webb (16-17 Jan) → memory/domains/organization/ubsw-transfer.md
-- Legal: no records destroyed (14 Jan); indemnification: Walter Brown meets Robert C. Williams 16 Jan (15 Jan); SEC letter thread to AOL (18 Jan) → memory/domains/organization/legal-matters.md
-- Wind-down: Deng, Neale, Lin to Netco, group released 15 Jan (11 Jan); last lunch, Reunion #1 (15 Jan); Pravas Sud to EGAS (18 Jan) → memory/domains/organization/research-group-wind-down.md; owner with Enron till 31 Jan (15 Jan) → memory/domains/organization/hr-matters-2001.md
-- Leavers: Mora (15 Jan), Pernoud (16 Jan); Larry's Cisco reference, Supatgiat's faculty letters (17-20 Jan) → memory/domains/organization/leavers-and-job-leads.md; Leppard (BP) on GARCH with jumps (17 Jan) → memory/domains/organization/london-research.md
-- Group: Ann Thomas's interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fortune on Egan-Jones (12-13 Jan) → memory/domains/organization/press-and-media.md
+- Company: EWS under CEO Jim Fallon (9 Jan) → memory/domains/organization/ena-reorganization.md; Ken Lay steps down, interim CEO sought (23 Jan); employee meeting postponed (22 Jan); ENRNQ (16 Jan) → memory/domains/organization/corporate-announcements-2001.md; Exotica: Fallon's letter awaited; Research Library: stayers leave in a week, Kitchen asks Mark to help (23-24 Jan) → memory/domains/organization/ubsw-transfer.md
+- Legal: FBI search and interviews, Michael Levy advises; orgcharts to Rob Walls and the FBI; retention memos to AOL (23 Jan); Enron lawyers' names to his lawyer Nathan (22 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: Reunion Party #1 at Sandeep Kohli's, Fri 25 Jan; Roberts' team declines UBS (22 Jan); Pravas Sud to EGAS (18 Jan) → memory/domains/organization/research-group-wind-down.md; vacation carryover for Roberts' group (22 Jan); owner with Enron till 31 Jan → memory/domains/organization/hr-matters-2001.md
+- Leavers: letters for Supatgiat (Duke), Shalesh Ganjoo (Gibner's draft), Eric Cope (via Martin Lin); NewPower quant post, Jennaro's coffee (21-23 Jan) → memory/domains/organization/leavers-and-job-leads.md; Leppard told of the disbanding (21 Jan) → memory/domains/organization/london-research.md
+- Group: Ann Thomas's interviews (10-14 Jan) → memory/domains/organization/research-group-2001.md; Fallon heard the owner's name on TV (24 Jan) → memory/domains/organization/press-and-media.md
 
 ## Files
 
@@ -32,7 +32,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
 - memory/domains/organization/group-events-2000.md — parties, gatherings, farewells
 - memory/domains/organization/leave-and-training.md — leave and courses
-- memory/domains/organization/legal-matters.md — legal matters: Cuneo case (Jan 2000), e-mail retention, SEC deposition (Dec 2001-Jan 2002), indemnification and Walter Brown (Jan 2002)
+- memory/domains/organization/legal-matters.md — legal matters: Cuneo case (Jan 2000), e-mail retention, SEC deposition (Dec 2001-Jan 2002), indemnification (Walter Brown), FBI search and orgcharts (Jan 2002)
 - memory/domains/organization/london-research.md — London Research (Leppard, Danilov)
 - memory/domains/organization/mg-metals-integration.md — MG Metals integration
 - memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC

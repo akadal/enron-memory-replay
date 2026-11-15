@@ -3,17 +3,16 @@ id: leavers-and-job-leads
 type: topic
 domain: organization
 title: "Leavers and job leads after Enron's collapse"
-summary: "Leavers and job leads after the collapse: Mora leaves, Krishnarao's and Breese's private contacts (15-16 Jan 2002); Pernoud seeks finance work (16 Jan 2002); Larry's Cisco reference (17 Jan 2002); Supatgiat's faculty letters, owner's letter sent (18-20 Jan 2002); Olson, Lew, Ganjoo and older items archived; staff cuts: research-group-wind-down."
+summary: "Leavers and job leads after the collapse: Supatgiat's letters, Duke (21 Jan 2002); Shalesh Ganjoo's letter drafted by Gibner (22-23 Jan 2002); Eric Cope's AT&T reference via Martin Lin (22-23 Jan 2002); NewPower's quant post, Jennaro's coffee (22 Jan 2002); Mora, Pernoud, Larry's Cisco reference and older items archived."
 status: active
-updated: 2002-01-20
+updated: 2002-01-24
 ---
 # Leavers and job leads after Enron's collapse
 
-Detail ←[[leavers-and-job-leads-2001-12-30]] ←[[leavers-and-job-leads-2002-01-06]] ←[[leavers-and-job-leads-2002-01-09]] ←[[leavers-and-job-leads-2002-01-13]] ←[[leavers-and-job-leads-2002-01-16]] ←[[leavers-and-job-leads-2002-01-20]]
+Detail ←[[leavers-and-job-leads-2001-12-30]] ←[[leavers-and-job-leads-2002-01-06]] ←[[leavers-and-job-leads-2002-01-09]] ←[[leavers-and-job-leads-2002-01-13]] ←[[leavers-and-job-leads-2002-01-16]] ←[[leavers-and-job-leads-2002-01-20]] ←[[leavers-and-job-leads-2002-01-24]]
+- [2002-01-21] Supatgiat's faculty letters: Bob Nau (Fuqua, Duke) replies on his Decision Sciences application; owner to Crenshaw: "Another letter for Chonawee." ←[[m11141]] ←[[m11156]]
+- [2002-01-22] Letter for Shalesh Ganjoo (two years under the owner): owner asks Stinson Gibner, who drafts ShaleshJan02.doc that day; 23 Jan "Letter for Shalesh." to Crenshaw. ←[[m11177]] ←[[m11178]] ←[[m11184]] ←[[m11196]] ←[[m11197]] ←[[m11198]] ←[[m11233]]
+- [2002-01-22] Eric Cope (Stanford, Enron summer 2001) seeks summer work (AT&T, IBM, banks); owner asks Martin Lin for a draft; Lin: only AT&T's e-mail or phone request is due now, he drafts comments. ←[[m11220]] ←[[m11232]] ←[[m11247]]
+- [2002-01-22] Alex Kollaros (NewPower) seeks a heavy quant in New York, via Matt Crouse (713-345-9811); Jason Jennaro (Enron, risk management) asks career advice; owner: "Please, give me a call at 713 853 3848 and we can meet for coffee." ←[[m11183]] ←[[m11193]] ←[[m11199]] ←[[m11236]]
 
 UBS Warburg transfer: memory/domains/organization/ubsw-transfer.md. Owner's own options: memory/domains/organization/hr-matters-2001.md. Detail ←[[leavers-and-job-leads-2001-12-16]] ←[[leavers-and-job-leads-2001-12-23]]
-- [2002-01-15] Mauricio Mora leaves Enron on 15 Jan (mao_mora@yahoo.com), the day his daughter Florencia is born; owner: "Congratulations". ←[[m10954]] ←[[m10955]] ←[[m10956]]
-- [2002-01-15] Private contacts kept: Krishnarao (anukrishna@aol.com) and Mark Breese (mbreese@ev1.net, wants Zimin's address, 16 Jan); owner copies both to AOL. ←[[m10942]] ←[[m10947]] ←[[m11002]]
-- [2002-01-16] Chris Pernoud (Rice MBA in May, ex-weather group) asks for finance job leads anywhere in the US; Mike Roberts: he did more for the weather group in one summer than any MBA in a year. ←[[m11000]]
-- [2002-01-17] Larry (LawrenceLawyer@aol.com) asks (14, 17 Jan) to name the owner as a reference for Assistant Treasurer at Cisco Systems (via Heidrick & Struggles); sees him next Thursday; owner copies it to AOL. ←[[m11040]] ←[[m11097]]
-- [2002-01-18] Chonawee Supatgiat's 11 Jan reminder for faculty-application letters (Stanford GSB and MS&E, Purdue, Northwestern (signed original to Mark S. Daskin), Berkeley, Cornell; draft attached) goes to AOL; 20 Jan the owner's letter, Chonawee_Vince_Rec.doc. ←[[m11110]] ←[[m11141]]

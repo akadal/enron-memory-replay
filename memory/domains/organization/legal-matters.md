@@ -3,14 +3,15 @@ id: legal-matters
 type: topic
 domain: organization
 title: "Legal matters involving the owner"
-summary: "Legal matters involving the owner: no records destroyed, Derrick's reminder (14 Jan 2002); indemnification: his lawyer Walter Brown (Thelen Reid) to meet Robert C. Williams 16 Jan, a possible conflict (15 Jan 2002); SEC letter and deposition thread copied to AOL, Levy away to 22 Jan (18 Jan 2002); testimony in Washington, e-mail retention, Pritchard, the Cuneo case (2000) archived."
+summary: "Legal matters involving the owner: Enron lawyers' names to his lawyer Nathan (22 Jan 2002); orgcharts to Rob Walls and the FBI; FBI search, Michael Levy advises; retention memos to AOL (23 Jan 2002); indemnification (Walter Brown), SEC letter thread, testimony, the Cuneo case (2000) archived."
 status: active
-updated: 2002-01-20
+updated: 2002-01-24
 ---
 # Legal matters involving the owner
 
-Detail ←[[legal-matters-2002-01-09]] ←[[legal-matters-2002-01-13]] ←[[legal-matters-2002-01-16]] ←[[legal-matters-2002-01-20]]
+Detail ←[[legal-matters-2002-01-09]] ←[[legal-matters-2002-01-13]] ←[[legal-matters-2002-01-16]] ←[[legal-matters-2002-01-20]] ←[[legal-matters-2002-01-24]]
+- [2002-01-22] To Nathan (hochman@taxlitigator.com, apparently his lawyer): Enron's lawyer for indemnification is Bob Williams, VP & Asst Gen Cnsl, (713) 345 2402; "The lawyer hired by Enron who talked to me is Michael N. Levy" (Swidler). ←[[m11182]]
+- [2002-01-23] Orgcharts: to Rob Walls (Enron), suggesting he "scan the hard drive for recently created/deleted files" of the group's PC ("IT guys took all the old PCs my group was using away."); the Research one to wc4.houston@fbi.gov "For Jim Hawkins". ←[[m11231]] ←[[m11242]]
+- [2002-01-23] James Derrick Jr. (Legal): Enron lets the FBI search the Enron Building and interview staff on alleged document destruction; Michael Levy (Swidler, 202-295-8414) advises employees; owner copies it to AOL. ←[[m11254]] ←[[m11259]]
+- [2002-01-23] Owner copies to AOL Derrick's 14 Jan no-destruction memo and the e-mail retention thread: Britt Davis (28 Dec): delete no e-mail (subpoenas); Robert C. Williams (31 Dec): backup tapes hold deleted e-mail, Enron follows Wilmer Cutler. ←[[m11256]] ←[[m11257]]
 
-- [2002-01-14] James Derrick Jr. (Legal) to all: pending and threatened proceedings, so no records, paper or electronic, may be destroyed; closing offices call Bob Williams (713-345-2402) for storage. ←[[m10918]]
-- [2002-01-15] Indemnification: the owner's lawyer is Walter Brown, Thelen Reid & Priest LLP, San Francisco; owner asks Robert C. Williams for "5-10 minutes to meet him in the morning to discuss the procedure for indemnification" (Wed 16 Jan); Williams, with the carriers 9-3, has before 9 or after 3; owner: "Let's meet at 8:30 I shall bring him to your office."; Brown: a partner sees a possible conflict (Thelen Reid acts for another client in a significant transaction with Enron, whose consent may be needed); if his flight that evening slips, hold off the meeting. ←[[m10951]] ←[[m10957]] ←[[m10958]] ←[[m10959]] ←[[m10961]] ←[[m10962]] ←[[m10970]]
-- [2002-01-18] Owner copies to AOL his 4 Jan "SEC Letter" thread (to Robert C. Williams; cc LJM Litigation, Swidler): Williams got his letter to the SEC on the deposition; Michael Levy (Swidler) away to about 22 Jan. ←[[m11111]] ←[[m11112]] ←[[m11113]]

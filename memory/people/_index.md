@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-20
+updated: 2002-01-24
 ---
 # People — index
 
@@ -481,6 +481,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Michael Danielson
 - Michael Froehls
 - Michael Guerriero
+- Michael Levy
 - Michael Maddox
 - Michael Moscoso (Michael E Moscoso)
 - Michael Schilmoeller
