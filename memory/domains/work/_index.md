@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-11-25
+updated: 2001-11-30
 ---
 # Work — index
 
@@ -9,10 +9,10 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Crisis: Barkley's EOL counts dipped only on 9/11-12 and peaked 23 Oct; owner: customers were cutting their exposure to Enron (14 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; LJM/Raptor memos to litigation.ljm, Cooley collects files (6-7 Nov) → memory/domains/work/talon-raptor.md
+- Crisis: Barkley: EOL transactions down for two weeks, most on Power (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; LJM/Raptor memos to litigation.ljm, Cooley collects files (6-7 Nov) → memory/domains/work/talon-raptor.md
 - Liquidity: Shanbhogue's capital-needs template; cash burn $6.22M/day, shown as $10M (6 Nov) → memory/domains/work/var-credit-system-2001.md; DPC options: owner offers Stan Horton the group's help (7 Nov) → memory/domains/work/dabhol-power-sale.md
-- Models: Supatgiat's implied merger-probability calculator (19 Nov) → memory/domains/work/ene-stock-drivers.md; Krishna's 2002 EAM support: 3 FTE, ~$750,000, for the owner and Pagan to approve (19 Nov) → memory/domains/work/ees-structuring-models.md; Tamarchenko's list of her group's models, documents being collected (16 Nov) → memory/domains/work/model-risk-audit.md; Issler's HJM simulator, OStrip misvaluation (8-9 Nov) → memory/domains/work/monte-carlo-library.md
-- Writing: column to Sam, "Here it comes." (19 Nov); Andy Lo reference to John D. Martin (18 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS contacts (Sen, Keppo, CMU) and status list (12-16 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
+- Models: Supatgiat's merger-probability calculator, write-up kept (19-26 Nov); Knowledge@Wharton's 'Oh, the Games Enron Played' (26 Nov) → memory/domains/work/ene-stock-drivers.md; Krishna's 2002 EAM support: 3 FTE, ~$750,000 (19 Nov) → memory/domains/work/ees-structuring-models.md; Tamarchenko: Enron short gold too (26 Nov) → memory/domains/work/mg-metals-var.md; her group's model list (16 Nov) → memory/domains/work/model-risk-audit.md
+- Writing: column chased by Sam, owner: "I shall try to get it by tomorrow." (27 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS contacts (12-16 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
 - Universities: Baylor visit 15-16 Nov held, Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md; CMU MSCF board 12 Dec, letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md; PowerWeb, Stoft and Hogan saved (13 Nov) → memory/domains/work/transmission-modelling-2001.md
 
 ## Files

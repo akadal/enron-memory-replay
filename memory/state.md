@@ -1,6 +1,6 @@
 # State — right now
 
-As of 2001-11-25 (week 2001-W47). Enron in crisis: Dynegy close expected in 6-9 months, core/non-core split, job cuts to follow; cost cuts: holiday party cancelled, ClickAtHome and matching gifts suspended (19-21 Nov); no hiring; owner: "No decision yet." on his future, the group's soft landing first.
+As of 2001-11-30 (week 2001-W48). Enron in crisis: Enron Europe reportedly ends business 30 Nov except Metals; a potential buyer for gas and power trading meets Risk Control 30 Nov; no hiring for 12 months; colleagues leaving; discs and technical information may not leave Enron; owner: "No decision yet." on his future, the group's soft landing first.
 
-- Coming: Wharton ET 29-30 Nov; Carpenter at Rice 30 Nov; PSERC 5-7 Dec; MSCF board, New York 12 Dec; Bauer sub-group input 15 Dec; Duffie at Bauer 10 Jan → memory/domains/industry/_index.md
-- Owed: MSCF letter; Shankman's view on cancelling the Tiger Team; 2002 EAM support decision; Bennett's EMBA funding; Wiley proposal; RISK referee report → memory/domains/work/_index.md
+- Coming: Rice faculty meeting 3 Dec; PSERC 5-7 Dec; UH holiday reception 7 Dec; MSCF board, New York 12 Dec; Bauer sub-group input 15 Dec; Duffie at Bauer 10 Jan → memory/domains/industry/_index.md
+- Owed: names to Lacima (Brennan); MSCF letter; 2002 EAM support decision; Bennett's EMBA funding; Wiley proposal; RISK referee report → memory/domains/work/_index.md

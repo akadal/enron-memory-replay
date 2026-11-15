@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-11-25
+updated: 2001-11-30
 ---
 # People — index
 
@@ -155,11 +155,13 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - David Oxley
 - David Palumbo
 - David Port
+- David Shimko
 - David Walkup (David C. Walkup)
 - David Warwick
 - Dawn Derr
 - Dawn Scovill
 - Debbie Brackett (Debbie R Brackett)
+- Deborah Barrett
 - Deepa Mallik
 - Denise Rancour
 - Dennis Benevides
@@ -352,6 +354,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Karolina Potter
 - Karthik Rajan
 - Kate Bruges
+- Kate Fang (Fang Fang)
 - Kate Lucas
 - Kate Szablya
 - Kathie Grabstald

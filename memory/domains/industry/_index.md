@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-11-25
+updated: 2001-11-30
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: HEG talk held 14 Nov, Hayter thanks him (17 Nov); BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); Risk Waters' Real Options course: ideas and a speaker slot asked (18 Nov) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: Bauer Energy Committee: owner in Sloan's Seminars, Forums, Conferences sub group, input due 15 Dec (20 Nov); Duffie's Bauer seminar 10 Jan 2002 → memory/domains/industry/uh-econophysics.md; MGMT 656 preliminary enrolment 39 (16 Nov) → memory/domains/industry/rice-energy-derivatives-course.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Jennifer Carpenter at the Rice seminar Fri 30 Nov → memory/domains/industry/rice-finance-seminar-2001.md
-- Wharton: owner proposes cancelling this year's Tiger Team (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
-- Markets: Reliant's Weather-sensitive Gas Load Indices, swaps planned (14 Nov) → memory/domains/industry/weather-insurance-markets.md; Uenohara's Boltzmann talk, Maths Week London 26 Nov → memory/domains/industry/visitors-2001.md; ESAI's Enron one-pager → memory/domains/industry/esai-energycast-review.md
-- GARP 2002: Convention 11-14 Feb 2002, New York, Simou asks whether Enron's events affect the owner's part (21 Nov); workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
+- Universities: Bauer Energy Committee is now GEMI, sub group input due 15 Dec, next meeting January; Peter Carr's UH seminar 30 Nov, UH holiday reception 7 Dec → memory/domains/industry/uh-econophysics.md; MGMT 656 Spring 2002 roster (30 Nov) → memory/domains/industry/rice-energy-derivatives-course.md; Rice All Faculty Meeting 3 Dec → memory/domains/industry/rice-university.md; Carpenter at the Rice seminar 30 Nov → memory/domains/industry/rice-finance-seminar-2001.md
+- Wharton: owner abstains from the Risk Center Advisory Committee of 7 Dec for the team (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; owner proposes cancelling this year's Tiger Team (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; ET workshop 29-30 Nov → memory/domains/industry/events-attending-2001.md; RISK referee report owed → memory/domains/industry/eprm-risk.md
+- Markets: Krapels, asked by the White House team, sees no systemic risk in an Enron bankruptcy (28 Nov) → memory/domains/industry/esai-energycast-review.md; Shimko (RCM) on staffing a Houston office, coffee 29 Nov → memory/domains/industry/visitors-2001.md; RBAC hires GPCM analysts (29 Nov) → memory/domains/industry/gpcm-rbac.md
+- GARP 2002: Convention 11-14 Feb 2002, New York, Simou asks whether Enron's events affect the owner's part (21 Nov) → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 
 ## Files
 
@@ -38,7 +38,7 @@ Scope: markets, regulation, conferences, universities and other outside institut
 - memory/domains/industry/speaking-engagements-2000.md — owner's conference roles: HEG Houston Nov 2001, Bachelier Congress Crete Jun 2002 (plenary), Risk Waters real options course; SMS, IQPC, INFOCAST, Paris and older archived
 - memory/domains/industry/uh-econophysics.md — UH ties (econo-physics, Kouri round-table, Kumar and Warga, Goldenfeld Sep 2001, Energy Markets Institute, Bauer Energy Committee Nov 2001)
 - memory/domains/industry/visitors-2000.md — visitors 2000 (Ordonez, Diebold 21 Dec)
-- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo
+- memory/domains/industry/visitors-2001.md — 2001 visits: Carmona, Sheble, Oren, Kholodnyi, Harvard 'Modern Giants' (Garvin), Toshiba, Keppo, Shimko (RCM, Nov)
 - memory/domains/industry/weather-insurance-markets.md — weather and insurance derivatives: research partners, low-riverflow, hurricane warnings
 - memory/domains/industry/wharton-visit-oct-2000.md — Wharton: visit 19 Oct, Tiger Team 6 Dec
 - memory/domains/industry/wharton-tiger-trip-jan-2001.md — Tiger Team trip 18-19 Jan 2001; Retail team's EES project

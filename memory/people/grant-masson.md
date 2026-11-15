@@ -5,7 +5,7 @@ entity: person
 name: "Grant Masson"
 aliases: []
 domains: [organization, work]
-updated: 2001-02-18
+updated: 2001-11-30
 ---
 # Grant Masson
 
@@ -15,6 +15,7 @@ V.P. Research in the owner's group until he left Enron for a new venture on 29 S
 
 - [2000-01-05] Palm Vx; Henwood licence; interviews (Bob Lee; Lance Cunningham for his team) → memory/domains/organization/recruiting-candidates.md ←[[m00157]] ←[[m00328]] ←[[m00206]] ←[[m00612]]
 - [2000-12-15] El Paso VP, offered his old level and comp, declined; to support El Paso's London desk (Joao Neves, 7 Feb 2001) → memory/domains/organization/grant-masson-rehire-dec-2000.md ←[[m04813]] ←[[m04860]] ←[[m05186]] ←[[m05855]]
+- [2001-11-30] Now El Paso Europe, London; asks the owner for a call → memory/domains/personal/correspondence.md ←[[m10162]]
 
 ## Context: work
 

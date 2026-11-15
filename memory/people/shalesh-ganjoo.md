@@ -5,7 +5,7 @@ entity: person
 name: "Shalesh Ganjoo"
 aliases: []
 domains: [organization, work]
-updated: 2000-03-12
+updated: 2001-11-30
 ---
 # Shalesh Ganjoo
 
@@ -14,6 +14,7 @@ Rotating Analyst from 21 Feb 2000 (David Cox's referral); EBS Research's lead an
 ## Context: organization
 
 - [2000-02-08] Joins 21 Feb, EB1951 → memory/domains/organization/staff-and-recruiting.md ←[[m00565]] ←[[m00672]]
+- [2001-11-30] Asks about GMAT reimbursement; owner: file an expense report → memory/domains/organization/leave-and-training.md ←[[m10167]]
 
 ## Context: work
 

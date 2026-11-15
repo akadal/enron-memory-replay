@@ -3,14 +3,14 @@ id: uh-econophysics
 type: topic
 domain: industry
 title: "University of Houston 'Econo-Physics' programme with Enron"
-summary: "UH ties: Kumar's Energy Markets Institute (EMI) at Bauer (19 Oct 2001); owner joins the Bauer Energy Committee, Board 17 Jan 2002 (6 Nov 2001), attends its 14 Nov meeting; Duffie's Bauer seminar 10 Jan 2002 (16 Nov 2001); Sloan's Seminars, Forums, Conferences sub group, input due 15 Dec (20 Nov 2001); EMI's business plan, Goldenfeld's visit and older items archived."
+summary: "UH ties: Kumar's Energy Markets Institute at Bauer (Oct 2001); the Bauer Energy Committee becomes GEMI, owner in Sloan's Seminars, Forums, Conferences sub group, input due 15 Dec (20-26 Nov 2001); Peter Carr's seminar 30 Nov, holiday reception 7 Dec (26-27 Nov 2001); Duffie's Bauer seminar 10 Jan 2002, Goldenfeld and older items archived."
 status: active
-updated: 2001-11-25
+updated: 2001-11-30
 ---
 # University of Houston "Econo-Physics" programme with Enron
 
-Detail ←[[uh-econophysics-2000-12-w50]] ←[[uh-econophysics-2001-04-w14]] ←[[uh-econophysics-2001-04-w17]] ←[[uh-econophysics-2001-07-26]] ←[[uh-econophysics-2001-08-03]] ←[[uh-econophysics-2001-08-10]] ←[[uh-econophysics-2001-08-24]] ←[[uh-econophysics-2001-09-09]] ←[[uh-econophysics-2001-09-14]] ←[[uh-econophysics-2001-09-23]] ←[[uh-econophysics-2001-10-21]] ←[[uh-econophysics-2001-10-28]] ←[[uh-econophysics-2001-11-09]] ←[[uh-econophysics-2001-11-18]] ←[[uh-econophysics-2001-11-25]]
+Detail ←[[uh-econophysics-2000-12-w50]] … (one archive file per week) ←[[uh-econophysics-2001-11-25]] ←[[uh-econophysics-2001-11-30]]
 
 Tzamouranis's earlier data visualisation talk: memory/domains/work/research-presentations.md
-- [2001-11-16] Darrell Duffie (Stanford) gives a seminar at Bauer 10 Jan 2002 (Latha Ramchand) and at UT Austin (Ron Kaniel) the next day, travel split 50-50; the owner, Tamarchenko and Kumar copied. ←[[m09940]] ←[[m09941]]
-- [2001-11-20] Bauer Energy Committee (chair Lane Sloan; first met 14 Nov, owner attended): the owner is in its Seminars, Forums, Conferences sub group (Halliburton, IBM, ExxonMobil, Shell, EDS, Marathon Oil; cc Bob Casey, Praveen Kumar); input form due 15 Dec, for the January committee meeting; paper 'Energy Community Learning Programs'. ←[[m09892]] ←[[m09909]] ←[[m10002]] ←[[m10003]]
+- [2001-11-26] Bauer Energy Committee (chair Lane Sloan; first met 14 Nov) names itself the Global Energy Management Institute (GEMI); partner levels Wood $5k, Coal $25k, Oil&Gas $50k, Nuclear $100k; owner in its Seminars, Forums, Conferences sub group, input due 15 Dec; next meeting 10, 15, 23 or 24 Jan. ←[[m10002]] ←[[m10100]] ←[[m10101]] ←[[m10102]] ←[[m10139]]
+- [2001-11-26] Praveen Kumar's recruiting seminars: Evgenia Portniaguina (Utah) Thu 29 Nov; Peter Carr (NYU), "Hedging with Incomplete Markets", Fri 30 Nov, 256 Melcher; owner: "I shall try to attend Peter Carr's seminar.", to chat "about my association with UofH"; Crenshaw accepts the 7 Dec holiday reception (210 Melcher). ←[[m10104]] ←[[m10132]] ←[[m10134]] ←[[m10127]]

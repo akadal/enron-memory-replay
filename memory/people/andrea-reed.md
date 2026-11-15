@@ -4,8 +4,8 @@ type: entity
 entity: person
 name: "Andrea Reed"
 aliases: []
-domains: [organization, work]
-updated: 2000-07-14
+domains: [organization, work, personal]
+updated: 2001-11-30
 ---
 # Andrea Reed
 
@@ -19,3 +19,7 @@ ENA; heads Capital Structuring. ←[[m00028]] ←[[m02392]]
 ## Context: work
 
 - [2000-03-13] Gets the owner's Enterprise Wide Risk Management document (cc Masson) → memory/domains/work/enterprise-risk-management.md ←[[m00974]]
+
+## Context: personal
+
+- [2001-11-29] Leaves Enron; the owner offers to be her reference → memory/domains/personal/correspondence.md ←[[m10154]]

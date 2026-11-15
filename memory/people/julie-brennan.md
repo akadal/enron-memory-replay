@@ -5,7 +5,7 @@ entity: person
 name: "Julie Brennan"
 aliases: []
 domains: [work, organization]
-updated: 2001-11-09
+updated: 2001-11-30
 ---
 # Julie Brennan
 
@@ -21,3 +21,4 @@ Lacima (Les Clewlow and Chris Strickland's firm): book production, courses, prom
 ## Context: organization
 
 - [2000-03-09] Confirms the owner's Lacima course registration (Hyatt, Houston) → memory/domains/organization/leave-and-training.md ←[[m00942]]
+- [2001-11-29] Lacima seeks a London head; asks for jobless Enron referrals → memory/domains/organization/outside-recruiters-2001.md ←[[m10156]] ←[[m10173]]
