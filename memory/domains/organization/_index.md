@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-12-30
+updated: 2002-01-06
 ---
 # Organization — index
 
@@ -9,10 +9,10 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: Bowen: pre-petition expenses to $5,000 now (17 Dec); NETCO formed, Creditors' Committee, McMahon joins the Office of the Chairman, Frevert, Kean, Shankman leave (18 Dec); Britt Davis: delete no e-mail, subpoenas (28 Dec) → memory/domains/organization/corporate-announcements-2001.md; UBS Warburg (Netco): nobody in the group wants it (10 Dec); Issler and Dhar off the headcount (14 Dec); no DPR for 28 Dec, 31 Dec preliminary by 2 Jan (28 Dec) → memory/domains/organization/ubsw-transfer.md
-- Leavers: Li Sun returns to China (19 Dec); Supatgiat leaves his work on the O: drive, asks for faculty references (21-23 Dec); Cindy Skinner's reference (23 Dec); Anshuman to India, lunch in January (24 Dec); 'Transitions' seminar for ex-Enron staff, 5-8 Jan (29 Dec) → memory/domains/organization/leavers-and-job-leads.md
+- Company: NETCO formed, McMahon joins the Office of the Chairman (18 Dec); Dynegy settlement: Dynegy may take Northern Natural, Enron's repurchase right to 30 Jun (6 Jan) → memory/domains/organization/corporate-announcements-2001.md; Britt Davis's keep-all-mail notice, owner's vanished mail, backup tapes (28-31 Dec); owner declines counsel for his SEC deposition (4 Jan) → memory/domains/organization/legal-matters.md; UBS Warburg (Netco): no DPR for 28 Dec (28 Dec) → memory/domains/organization/ubsw-transfer.md
+- Leavers: Anshuman to India, lunch in January (24 Dec); owner promises Bob Nau (Duke Fuqua) a letter for Supatgiat (2 Jan); to-do list: Skinner, Chonawee, Martin, Praveen, Lawyer; Edmund Gaither's job search (4 Jan) → memory/domains/organization/leavers-and-job-leads.md
 - Press: owner's formal complaint to the AP about Kristen Hays (15-18 Dec) → memory/domains/organization/press-and-media.md
-- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec); Bharati's matter with Labbe pending (28 Dec) → memory/domains/organization/hr-matters-2001.md; Barrett's check awaits the bankruptcy court (19 Dec) → memory/domains/organization/leave-and-training.md; owner: $95,000 for Paulo (5 Dec) → memory/domains/organization/staff-and-recruiting.md
+- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec); Labbe to NETCO, Kymberly Booth his new HR representative, Rakesh's matter open (31 Dec) → memory/domains/organization/hr-matters-2001.md; Barrett's check awaits the bankruptcy court (19 Dec) → memory/domains/organization/leave-and-training.md
 - Candidates: "I do not anticipate any hiring over the next 12 months." (27 Nov) → memory/domains/organization/recruiting-candidates.md; MRI Portland (Bertges, Dahl), Bob Long (Denison) seek quants (20-23 Dec) → memory/domains/organization/outside-recruiters-2001.md
 - Group: Mora away to 7 Jan, Anita Dupont's cell (20-21 Dec); Weather Class on Wednesdays (26 Dec); Candace Kao's visit, Mujica and Koepke away to 7 Jan (27 Dec) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
 
@@ -33,7 +33,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
 - memory/domains/organization/group-events-2000.md — parties, gatherings, farewells
 - memory/domains/organization/leave-and-training.md — leave and courses
-- memory/domains/organization/legal-matters.md — Cuneo case (Jan 2000)
+- memory/domains/organization/legal-matters.md — legal matters: Cuneo case (Jan 2000), e-mail retention, SEC deposition (Dec 2001-Jan 2002)
 - memory/domains/organization/london-research.md — London Research (Leppard)
 - memory/domains/organization/mg-metals-integration.md — MG Metals integration
 - memory/domains/organization/mid-year-prc-2000.md — mid-year 2000 PRC

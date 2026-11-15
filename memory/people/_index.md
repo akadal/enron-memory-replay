@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-12-30
+updated: 2002-01-06
 ---
 # People — index
 
@@ -89,6 +89,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Brad Romine (Bradley Romine)
 - Brian Mihura
 - Brian Nelson
+- Britt Davis
 - Britta Bothe
 - Bruce James
 - Bryan Seyfried
@@ -127,6 +128,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Cindy Derecskey
 - Cindy Hudler
 - Cindy Justice
+- Cindy Skinner
 - Claude Philoche
 - Claudio Ribeiro
 - Clayton DeGiacinto
@@ -147,6 +149,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Datren Williams (Datren L. Williams)
 - Dave Delainey
 - David Berberian
+- David Cohen
 - David Cox
 - David Davies
 - David Dupre
@@ -270,6 +273,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Jaideep Singh
 - James A Hughes (James Hughes, Jim Hughes)
 - James Bouillion
+- James Derrick
 - James Doran
 - James Steffes (James D Steffes, Jim Steffes)
 - James Valverde
@@ -598,6 +602,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Rita McGrath
 - Rob Bradley
 - Robert Brooks (Robert E. Brooks, Bob Brooks)
+- Robert C. Williams
 - Robert J. Guadette (Robert Guadette)
 - Robert Johnston
 - Robert Lee (Bob Lee)
@@ -630,6 +635,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Sanjay Wankhade
 - Sanjeev Khanna (Sanjeev K Khanna)
 - Sarah Brown
+- Sarah Taylor
 - Sarah Wooddy (Sarah Woody)
 - Sasha Divelbiss
 - Scott Earnest

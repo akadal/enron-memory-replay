@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-12-30
+updated: 2002-01-06
 ---
 # Personal — index
 
@@ -9,14 +9,14 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Capital Risk LLC (Carrick, Pasad): owner gives his home coordinates (18-19 Dec); Al Arfsten (BFL): breakfast next Wed at the Hyatt, owner faxes his Coral non-solicitation agreement (20-21 Dec), signs the Coral agreement, Gibner's contact list to Arfsten (26-27 Dec); Khokher (Ivey) writes (25 Dec) → memory/domains/personal/correspondence.md
+- Contacts: Arfsten (BFL), Coral agreement signed (20-27 Dec, archived); Hughes and Kit Flanagan noted (1-2 Jan); Cumberland meeting moved to Monday at Stinson's, owner in Chicago Thu-Fri (2 Jan); Terry Travis lunch (4 Jan) → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
-- Son: Wicus back home after Stanford, job hunting (16 Dec); Entergy EMS lead via Dale Furrow (30 Nov); owner keeps material at AOL (26-28 Dec) → memory/domains/personal/household.md
+- Son: Wicus back home after Stanford, job hunting (16 Dec); owner keeps material at AOL (26-28 Dec); Body Shop membership cancelled (4 Jan) → memory/domains/personal/household.md
 - Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday → memory/domains/personal/investments-2000.md
 
 ## Files
 
-- memory/domains/personal/correspondence.md — private contacts (business plan with BFL and Gibner, Cumberland, Balagopal, Grodek, Lee Choo, Dec 2001; leavers' contacts, Nov 2001; Arfsten lunch, Mihura, MacMillan, Lubowski, Barkley, Cumberland, Enron Dinner Friends, Kindall, Tlapek and others archived)
+- memory/domains/personal/correspondence.md — private contacts (Hughes, Flanagan, Hermans, Savage, Cumberland, Travis, Jan 2002; business plan with BFL and Gibner, Cumberland, Balagopal, Grodek, Lee Choo, Dec 2001; leavers' contacts, Nov 2001; Arfsten lunch, Mihura, MacMillan, Lubowski, Barkley, Cumberland, Enron Dinner Friends, Kindall, Tlapek and others archived)
 - memory/domains/personal/household.md — owner's AOL e-mail, home address, phones, work card, wife Ludmila, wife and son at Stanford, son's Entergy lead, Vizsla search (Nov 2001), son back from Stanford (Dec 2001); sister's estate archived
 - memory/domains/personal/poland-trip-sep-2000.md — Poland trip 20-26 Sep 2000: itinerary, Ryszard Domanski's contacts
 - memory/domains/personal/poland-trip-jul-2001.md — Warsaw trip 4-9 Jul 2001: fares, booking via Urszula Sobczyk
