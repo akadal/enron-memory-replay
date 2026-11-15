@@ -1,0 +1,197 @@
+{
+ "slice": 116,
+ "simulated_today": "2002-01-09",
+ "feed": {
+  "slice": 116,
+  "iso_week": "2002-W02",
+  "first_seq": 10645,
+  "last_seq": 10763,
+  "messages": 119,
+  "durable": 50,
+  "first_date": "2002-01-07 06:24",
+  "last_date": "2002-01-09 16:00",
+  "today": "2002-01-09",
+  "inbox_files": [
+   "2002-01-07--mail.md",
+   "2002-01-08--mail.md",
+   "2002-01-09--mail.md"
+  ],
+  "inbox_chars": 45434,
+  "l2_chars": 427664
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 600,
+ "quota_before": {
+  "five_hour": 17.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 20.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 116,
+  "messages": 119,
+  "durable": 50,
+  "kept": 50,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3768,
+  "fact_lines_with_source": 2434,
+  "dated": 2434,
+  "date_matches_source": 2367,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 5,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 721
+  },
+  "questions": {
+   "files": 1,
+   "chars": 2391
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 227,
+   "chars": 402942
+  },
+  "people": {
+   "files": 761,
+   "chars": 509873
+  },
+  "archive_inbox": {
+   "files": 729,
+   "chars": 6218732
+  },
+  "archive_mail": {
+   "files": 10789,
+   "chars": 28513928
+  },
+  "archive_other": {
+   "files": 2065,
+   "chars": 1619432
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 59,
+   "duration_ms": 598529,
+   "duration_api_ms": 467528,
+   "total_cost_usd": 3.2309356999999985,
+   "usage": {
+    "input_tokens": 116,
+    "cache_creation_input_tokens": 131651,
+    "cache_read_input_tokens": 5887699,
+    "output_tokens": 49973,
+    "output_tokens_details": {
+     "thinking_tokens": 16688
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 131651,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 672,
+      "cache_read_input_tokens": 149843,
+      "cache_creation_input_tokens": 747,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 747
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 116,
+     "outputTokens": 49973,
+     "cacheReadInputTokens": 5887699,
+     "cacheCreationInputTokens": 131651,
+     "webSearchRequests": 0,
+     "costUSD": 3.2306717999999983,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 16688,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 131651,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 58,
+   "result_summary": "I ran the 2002-01-09 consolidation and committed it as `4c0c7921`. Both gates passed (lint green, sleep-audit green with 0 warnings), and a date-leak check found none. I did not push, because the replay instructions say the runner pushes after its own checks.\n\nAll 50 messages with notes from week 2002-W02 are cited in memory, so `dataset/drops/sleep-116.tsv` is empty. I opened one new standing topic, `memory/domains/organization/research-group-wind-down.md`. It covers:\n- the Narongwanich and Supatgiat resignations;\n- Maureen Raymond's unit ending on 15 Jan unless David Gorte's group takes it;\n- selected staff kept to 30 Jan;\n- Shanna Funkhouser's process for the staff-reduction meetings;\n- Paulo Issler's December paycheck question;\n- the owner's idea of a group reunion.\n\nThe rest went into 12 existing topics, including Michael Levy's offer of help with the SEC testimony, the officers' questionnaire before the 10 Jan auction, the reorganisation of Enron Wholesale Services (EWS) under Jim Fallon, and the hold on releasing software to NETCO until Fallon sends a formal letter. Ann Thomas and Khymberly Booth reached five noted messages, so each now has an entity file and an entry in the alias table. Attaching the earlier spelling \"Kymberly Booth\" needs approval, so it went to `questions.md` as a new item. No question was past its due date, and the inbox held no sleep task. The five oldest ongoing lines are still valid. The only file above 90% of its size limit, `memory/people/grant-masson.md`, was compressed from 1465 to 1276 characters. The oldest lines of 11 topics moved word-for-word to `memory/archive/<domain>/2002/`. The four processed inbox logs are now in `memory/archive/inbox/`, and this run's log is `memory/inbox/2002-01-09--run.md`."
+  },
+  "repair": null
+ }
+}
