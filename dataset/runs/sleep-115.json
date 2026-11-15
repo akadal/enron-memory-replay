@@ -1,0 +1,201 @@
+{
+ "slice": 115,
+ "simulated_today": "2002-01-06",
+ "feed": {
+  "slice": 115,
+  "iso_week": "2002-W01",
+  "first_seq": 10564,
+  "last_seq": 10644,
+  "messages": 81,
+  "durable": 39,
+  "first_date": "2001-12-31 05:07",
+  "last_date": "2002-01-06 19:44",
+  "today": "2002-01-06",
+  "inbox_files": [
+   "2001-12-31--mail.md",
+   "2002-01-01--mail.md",
+   "2002-01-02--mail.md",
+   "2002-01-03--mail.md",
+   "2002-01-04--mail.md",
+   "2002-01-05--mail.md",
+   "2002-01-06--mail.md"
+  ],
+  "inbox_chars": 34853,
+  "l2_chars": 166320
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 514,
+ "quota_before": {
+  "five_hour": 15.0,
+  "seven_day": 59.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 17.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 115,
+  "messages": 81,
+  "durable": 39,
+  "kept": 39,
+  "kept_rate_excluding_redundant": 1.0,
+  "drop_classes": {},
+  "dropped": 0,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3742,
+  "fact_lines_with_source": 2425,
+  "dated": 2425,
+  "date_matches_source": 2357,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 4,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 736
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1884
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 226,
+   "chars": 401466
+  },
+  "people": {
+   "files": 759,
+   "chars": 508705
+  },
+  "archive_inbox": {
+   "files": 725,
+   "chars": 6171249
+  },
+  "archive_mail": {
+   "files": 10670,
+   "chars": 28086264
+  },
+  "archive_other": {
+   "files": 2054,
+   "chars": 1611327
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 46,
+   "duration_ms": 513129,
+   "duration_api_ms": 444191,
+   "total_cost_usd": 2.8149296999999995,
+   "usage": {
+    "input_tokens": 88,
+    "cache_creation_input_tokens": 126001,
+    "cache_read_input_tokens": 4225714,
+    "output_tokens": 48058,
+    "output_tokens_details": {
+     "thinking_tokens": 17395
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 126001,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 958,
+      "cache_read_input_tokens": 144251,
+      "cache_creation_input_tokens": 689,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 689
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 29,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026690000000000004,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 88,
+     "outputTokens": 48058,
+     "cacheReadInputTokens": 4225714,
+     "cacheCreationInputTokens": 126001,
+     "webSearchRequests": 0,
+     "costUSD": 2.8146628,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 17395,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 126001,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 45,
+   "result_summary": "I ran the 2002-01-06 consolidation and committed it as one commit, `6385a027`. Lint and sleep-audit were both green before the commit. I did not push: the replay instructions say the runner pushes after its own checks, so I followed that over the generic \"git push origin main\" line.\n\n- **What was merged:** all 39 messages with notes from week 2002-W01 now sit in 13 existing topic files, so `dataset/drops/sleep-115.tsv` is empty. The week covered:\n  - the owner's complaint that his old mail vanished despite the keep-all-mail notice;\n  - Robert C. Williams's reply about the backup tapes and Wilmer Cutler;\n  - the owner's decision to face his SEC deposition without a lawyer. This and the mail complaint went into the existing `organization/legal-matters.md` instead of a new file;\n  - Labbe leaving for NETCO, with Kymberly Booth as his new HR contact;\n  - the Dynegy settlement over Northern Natural Gas;\n  - the Duke Fuqua recommendation letter for Supatgiat, and Gaither's job search;\n  - speaking invitations from AspenTech and Zariphopoulou, and Duffie's Bauer seminar;\n  - the Alliance interconnection call, and the owner's new private contacts.\n- **People:** six people reached five messages and got entity files and alias-table entries: Britt Davis, David Cohen, Robert C. Williams, James Derrick, Sarah Taylor and Cindy Skinner.\n- **Questions:** the \"Bjorn\" question was past due, so I closed it unanswered and kept things as they were, with a (?) note in `al-arfsten.md`. I added one approval question: whether \"Jim Derrick\" and \"James Derrick Jr.\" should be attached to `james-derrick.md`.\n- **Compression:** no file was above 90% of its ceiling, so the compression quota had nothing to work on. Instead I moved the oldest lines of 10 touched topics word for word to `memory/archive/<domain>/2002/`.\n- **Audit fix:** the first audit run flagged three files that grew too much (RATCHET). I trimmed them and the second run passed. The trim took one cell phone number out of `correspond"
+  },
+  "repair": null
+ }
+}
