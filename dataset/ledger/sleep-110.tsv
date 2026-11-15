@@ -1,0 +1,107 @@
+id	durable	status	detail
+m10069	yes	kept	domains/industry/rice-finance-seminar-2001.md
+m10070	no	not_durable	bulk
+m10071	no	not_durable	automated
+m10072	no	not_durable	automated
+m10073	yes	kept	domains/personal/correspondence.md people/al-arfsten.md
+m10074	no	not_durable	quote_only
+m10075	no	not_durable	pleasantry
+m10076	no	not_durable	pleasantry
+m10077	no	not_durable	quote_only
+m10078	yes	kept	domains/work/kaminski-column.md people/william-smith.md
+m10079	no	not_durable	bulk
+m10080	yes	kept	domains/work/kaminski-column.md
+m10081	yes	kept	domains/personal/correspondence.md people/al-arfsten.md
+m10082	no	not_durable	logistics
+m10083	yes	kept	domains/industry/visitors-2001.md people/david-shimko.md
+m10084	no	not_durable	bulk
+m10085	yes	kept	domains/industry/wharton-risk-center-2001.md people/kate-fang.md
+m10086	no	not_durable	bulk
+m10087	no	not_durable	quote_only
+m10088	no	not_durable	other
+m10089	no	not_durable	other
+m10090	no	not_durable	logistics
+m10091	yes	kept	domains/industry/wharton-risk-center-2001.md
+m10092	yes	kept	domains/organization/leave-and-training.md people/deborah-barrett.md
+m10093	yes	kept	domains/industry/visitors-2001.md people/david-shimko.md
+m10094	yes	kept	domains/work/ene-stock-drivers.md
+m10095	no	not_durable	bulk
+m10096	no	not_durable	bulk
+m10097	no	not_durable	bulk
+m10098	yes	kept	domains/work/mg-metals-var.md
+m10099	yes	kept	domains/industry/rice-university.md
+m10100	yes	kept	domains/industry/uh-econophysics.md people/lane-sloan.md
+m10101	yes	kept	domains/industry/uh-econophysics.md
+m10102	yes	kept	domains/industry/uh-econophysics.md
+m10103	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m10104	yes	kept	domains/industry/uh-econophysics.md people/praveen-kumar.md
+m10105	no	not_durable	quote_only
+m10106	no	not_durable	bulk
+m10107	no	not_durable	bulk
+m10108	no	not_durable	bulk
+m10109	yes	kept	domains/industry/visitors-2001.md people/david-shimko.md
+m10110	no	not_durable	bulk
+m10111	yes	kept	domains/work/ene-stock-drivers.md
+m10112	no	not_durable	bulk
+m10113	no	not_durable	bulk
+m10114	no	not_durable	bulk
+m10115	no	not_durable	bulk
+m10116	no	not_durable	bulk
+m10117	no	not_durable	bulk
+m10118	no	not_durable	bulk
+m10119	yes	kept	domains/industry/visitors-2001.md people/david-shimko.md
+m10120	yes	kept	domains/work/eol-trading-algorithms-2001.md people/tom-barkley.md
+m10121	no	not_durable	bulk
+m10122	no	not_durable	bulk
+m10123	yes	kept	domains/industry/wharton-risk-center-2001.md people/kate-fang.md
+m10124	yes	kept	domains/industry/rice-university.md
+m10125	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m10126	yes	kept	domains/work/eol-trading-algorithms-2001.md
+m10127	yes	kept	domains/industry/uh-econophysics.md
+m10128	yes	kept	domains/work/kaminski-column.md people/william-smith.md
+m10129	no	not_durable	logistics
+m10130	yes	kept	domains/industry/wharton-risk-center-2001.md people/kate-fang.md
+m10131	no	not_durable	bulk
+m10132	yes	kept	domains/industry/uh-econophysics.md people/praveen-kumar.md
+m10133	yes	kept	domains/work/kaminski-column.md
+m10134	yes	kept	domains/industry/uh-econophysics.md
+m10135	yes	kept	domains/organization/recruiting-candidates.md
+m10136	yes	kept	domains/organization/recruiting-candidates.md
+m10137	no	not_durable	bulk
+m10138	yes	kept	domains/organization/recruiting-candidates.md
+m10139	yes	kept	domains/industry/uh-econophysics.md people/lane-sloan.md
+m10140	yes	kept	domains/organization/recruiting-candidates.md
+m10141	no	not_durable	quote_only
+m10142	no	not_durable	bulk
+m10143	no	not_durable	automated
+m10144	no	not_durable	bulk
+m10145	no	not_durable	bulk
+m10146	no	not_durable	bulk
+m10147	no	not_durable	bulk
+m10148	no	not_durable	bulk
+m10149	no	not_durable	bulk
+m10150	no	not_durable	bulk
+m10151	no	not_durable	bulk
+m10152	yes	kept	domains/industry/esai-energycast-review.md people/ed-krapels.md
+m10153	no	not_durable	bulk
+m10154	yes	kept	domains/personal/correspondence.md people/andrea-reed.md
+m10155	yes	kept	domains/industry/gpcm-rbac.md
+m10156	yes	kept	domains/organization/outside-recruiters-2001.md people/julie-brennan.md
+m10157	no	not_durable	bulk
+m10158	yes	kept	domains/organization/research-group-2001.md
+m10159	yes	kept	domains/organization/research-group-2001.md
+m10160	yes	kept	domains/personal/household.md
+m10161	no	not_durable	pleasantry
+m10162	yes	kept	domains/personal/correspondence.md people/grant-masson.md
+m10163	yes	kept	domains/organization/corporate-announcements-2001.md people/kevin-presto.md
+m10164	yes	kept	domains/industry/rice-energy-derivatives-course.md
+m10165	yes	dropped	logistics: Ed Mills phone number passed to Lavorato, no context
+m10166	no	not_durable	logistics
+m10167	yes	kept	domains/organization/leave-and-training.md people/shalesh-ganjoo.md
+m10168	yes	kept	domains/personal/household.md
+m10169	no	not_durable	bulk
+m10170	yes	kept	domains/personal/correspondence.md people/tomas-valnek.md
+m10171	yes	kept	domains/organization/recruiting-candidates.md
+m10172	yes	kept	domains/personal/correspondence.md people/alhamd-alkhayat.md
+m10173	yes	kept	domains/organization/outside-recruiters-2001.md people/julie-brennan.md
+m10174	no	not_durable	quote_only

@@ -1,0 +1,204 @@
+{
+ "slice": 110,
+ "simulated_today": "2001-11-30",
+ "feed": {
+  "slice": 110,
+  "iso_week": "2001-W48",
+  "first_seq": 10069,
+  "last_seq": 10174,
+  "messages": 106,
+  "durable": 54,
+  "first_date": "2001-11-26 05:35",
+  "last_date": "2001-11-30 17:36",
+  "today": "2001-11-30",
+  "inbox_files": [
+   "2001-11-26--mail.md",
+   "2001-11-27--mail.md",
+   "2001-11-28--mail.md",
+   "2001-11-29--mail.md",
+   "2001-11-30--mail.md"
+  ],
+  "inbox_chars": 46943,
+  "l2_chars": 319620
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 639,
+ "quota_before": {
+  "five_hour": 1.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 4.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 110,
+  "messages": 106,
+  "durable": 54,
+  "kept": 53,
+  "kept_rate_excluding_redundant": 0.981,
+  "drop_classes": {
+   "logistics": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3622,
+  "fact_lines_with_source": 2342,
+  "dated": 2342,
+  "date_matches_source": 2277,
+  "date_mismatch_ids_this_slice": [
+   "m10170",
+   "m10172"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 2,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 741
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1107
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 386648
+  },
+  "people": {
+   "files": 744,
+   "chars": 493675
+  },
+  "archive_inbox": {
+   "files": 686,
+   "chars": 5960753
+  },
+  "archive_mail": {
+   "files": 10200,
+   "chars": 26821863
+  },
+  "archive_other": {
+   "files": 2004,
+   "chars": 1577840
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 58,
+   "duration_ms": 637276,
+   "duration_api_ms": 529280,
+   "total_cost_usd": 3.6531635000000007,
+   "usage": {
+    "input_tokens": 114,
+    "cache_creation_input_tokens": 153487,
+    "cache_read_input_tokens": 6904738,
+    "output_tokens": 52180,
+    "output_tokens_details": {
+     "thinking_tokens": 20239
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 153487,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 912,
+      "cache_read_input_tokens": 171689,
+      "cache_creation_input_tokens": 737,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 737
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 114,
+     "outputTokens": 52180,
+     "cacheReadInputTokens": 6904738,
+     "cacheCreationInputTokens": 153487,
+     "webSearchRequests": 0,
+     "costUSD": 3.6528996000000005,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 20239,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 153487,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 57,
+   "result_summary": "I ran the 2001-11-30 consolidation for week 2001-W48 and committed it as `ecda91fc`. Lint and sleep-audit both passed before the commit. I did not push; the runner does that after its checks.\n\n- **Coverage:** 53 of the week's 54 messages with notes are now cited in memory. The one left out, m10165 (Ed Mills' phone number passed to Lavorato), is listed in `dataset/drops/sleep-110.tsv` as logistics.\n- **Where the week went:** everything was merged into 19 existing topic files and no new topic was opened. The main subjects were:\n  - Shimko wanting to open an RCM office in Houston.\n  - The owner skipping the Wharton Risk Center meeting on 7 Dec.\n  - The Bauer Energy Committee becoming GEMI.\n  - \"No hiring for 12 months\" replies to candidates.\n  - A meeting with a potential buyer of the gas and power trading business.\n  - Krapels' White House question on systemic risk.\n  - The group notice that no discs or technical files may leave Enron.\n  - Colleagues leaving, the owner's business plan with BFL Associates, his son's Entergy lead and a Vizsla puppy search.\n- **Size:** to keep files within budget, the oldest lines of 18 of those files moved word for word to `memory/archive/<domain>/2001/`, and 15 of them ended up smaller. No file was above 90% of its ceiling.\n- **People:** David Shimko, Kate Fang and Deborah Barrett each reached five messages with notes this week, so each now has an entity file and is in the alias table. I added context lines to 13 existing entity files.\n- **Questions:** two overdue questions closed unanswered, with things left as they were:\n  - \"Mac\" is not attached to Ian MacMillan; the note is in his entity file.\n  - The two Tom Moores stay two people with no file. No memory line names either, so that note is only in the run log.\n  \n  I added one new question: is \"Bjorn\" of BFL Associates the same person as Bjorn Hagelmann?\n- **Rest of the run:** `state.md` and all four domain indexes are updated. The five oldest ongoing lines still hold. The inbox ha"
+  },
+  "repair": null
+ }
+}
