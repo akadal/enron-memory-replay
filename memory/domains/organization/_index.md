@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-11-18
+updated: 2001-11-25
 ---
 # Organization — index
 
@@ -9,11 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: Lay waives his ~$60m change-of-control payment, Dynegy close in 6-9 months (14 Nov); investor call: core/non-core split, job cuts to follow, 10-Q late to 19 Nov (16 Nov); Savings Plan frozen to 20 Nov → memory/domains/organization/corporate-announcements-2001.md
-- HR: Labbe takes the group's Dynegy merger questions to the Q&A team (13-14 Nov); owner on his future: "No decision yet.", the group's soft landing first (16 Nov); Krishnarao's and Supatgiat's green cards → memory/domains/organization/hr-matters-2001.md
+- Company: investor call: core/non-core split, job cuts to follow, 10-Q late to 19 Nov (16 Nov); holiday party cancelled (19 Nov); ClickAtHome, Matching Gift and VIP suspended (21 Nov) → memory/domains/organization/corporate-announcements-2001.md
+- HR: Labbe takes the group's Dynegy merger questions to the Q&A team (13-14 Nov); owner on his future: "No decision yet.", the group's soft landing first (16 Nov); Labbe: Werner's status with Whalley? still fund Bennett's Rice EMBA (65K)? (19 Nov) → memory/domains/organization/hr-matters-2001.md
 - Candidates: owner to Molly Magee: "I don't see how we can hire anybody under the circumstances." (13 Nov); Panoutsakos, Randy Katz, Donald Williams write (12-15 Nov) → memory/domains/organization/recruiting-candidates.md; Bertges's VaR manager search → memory/domains/organization/outside-recruiters-2001.md
-- Staff: Sevil Yaman asks about her full-time plan (13 Nov); Werner's Houston start likely 16 Jan; a manager on loan to Jeff Andrews's EGM fundamentals → memory/domains/organization/staff-and-recruiting.md; Koepke's French lessons end (12 Nov) → memory/domains/organization/leave-and-training.md; Tony Hamilton to EGM → memory/domains/organization/tony-hamilton-london-2001.md
-- Budget: headcount 49 (core 36) and 2002 allocations to Jim Fallon (16 Nov) → memory/domains/organization/research-accounting-2000.md; Group: Enron Kids cash to Candella by 30 Nov, Livelink → memory/domains/organization/research-group-2001.md
+- Staff: Sevil Yaman asks about her full-time plan (13 Nov); Werner's Houston start likely 16 Jan; a manager on loan to Jeff Andrews's EGM fundamentals → memory/domains/organization/staff-and-recruiting.md; Koepke's French lessons end (12 Nov), Barrett's workshop invoice (21 Nov) → memory/domains/organization/leave-and-training.md; Tony Hamilton to EGM → memory/domains/organization/tony-hamilton-london-2001.md
+- Budget: headcount 49 (core 36) and 2002 allocations to Jim Fallon (16 Nov) → memory/domains/organization/research-accounting-2000.md; Group: Enron Kids cash to Candella by 30 Nov, she collects personal email addresses (21 Nov) → memory/domains/organization/research-group-2001.md
 
 ## Files
 

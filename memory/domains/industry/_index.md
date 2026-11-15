@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2001-11-18
+updated: 2001-11-25
 ---
 # Industry — index
 
@@ -10,10 +10,10 @@ Scope: markets, regulation, conferences, universities and other outside institut
 ## Hot
 
 - Speaking: HEG talk held 14 Nov, Hayter thanks him (17 Nov); BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); Risk Waters' Real Options course: ideas and a speaker slot asked (18 Nov) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: owner attends the Bauer Energy Committee 14 Nov after all, Kumar offers a visit (12-13 Nov); Duffie's Bauer seminar 10 Jan 2002 → memory/domains/industry/uh-econophysics.md; MGMT 656 preliminary enrolment 39 (16 Nov) → memory/domains/industry/rice-energy-derivatives-course.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md
+- Universities: Bauer Energy Committee: owner in Sloan's Seminars, Forums, Conferences sub group, input due 15 Dec (20 Nov); Duffie's Bauer seminar 10 Jan 2002 → memory/domains/industry/uh-econophysics.md; MGMT 656 preliminary enrolment 39 (16 Nov) → memory/domains/industry/rice-energy-derivatives-course.md; UT conference 21-22 Feb 2002 → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; Jennifer Carpenter at the Rice seminar Fri 30 Nov → memory/domains/industry/rice-finance-seminar-2001.md
 - Wharton: owner proposes cancelling this year's Tiger Team (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; ET workshop 29 Nov and 'Managing Knowledge Assets' 30 Nov, RSVP owed → memory/domains/industry/events-attending-2001.md; RISK referee report still owed → memory/domains/industry/eprm-risk.md
 - Markets: Reliant's Weather-sensitive Gas Load Indices, swaps planned (14 Nov) → memory/domains/industry/weather-insurance-markets.md; Uenohara's Boltzmann talk, Maths Week London 26 Nov → memory/domains/industry/visitors-2001.md; ESAI's Enron one-pager → memory/domains/industry/esai-energycast-review.md
-- GARP 2002: Convention 12-13 Feb 2002, New York; workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
+- GARP 2002: Convention 11-14 Feb 2002, New York, Simou asks whether Enron's events affect the owner's part (21 Nov); workshop with Mark Williams 14 Feb → memory/domains/industry/garp-2001.md; PSERC board 5-7 Dec → memory/domains/industry/events-attending-2001.md
 
 ## Files
 

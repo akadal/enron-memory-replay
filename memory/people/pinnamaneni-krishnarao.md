@@ -5,7 +5,7 @@ entity: person
 name: "Pinnamaneni Krishnarao"
 aliases: ["Krishna Krishnarao"]
 domains: [organization, work]
-updated: 2001-11-04
+updated: 2001-11-25
 ---
 # Pinnamaneni Krishnarao
 
@@ -19,7 +19,6 @@ Research Group member at director level (EB 1964 from Jan 2000); also "Krishna K
 ## Context: work
 
 - [1999-12-10] Naphtha caps for the India team → memory/domains/work/naphtha-caps-india.md ←[[m00007]]
-- [2000-01-05] Dabhol structuring → memory/domains/work/dabhol-power-sale.md ←[[m00144]]
-- [2000-01-20] (?) Bare "Krishna" of m00397: closed unanswered 2000-02-27, not attributed → memory/domains/work/dabhol-power-sale.md ←[[m00397]]
-- [2000-01-27] Credit-risk paper, ICF meeting, Cranfield student, CRAT link and other items archived ←[[pinnamaneni-krishnarao-2001-09-28]] ←[[pinnamaneni-krishnarao-2001-11-04]]
+- [2000-01-27] Credit-risk paper, ICF meeting, Cranfield student, CRAT link and other items archived ←[[pinnamaneni-krishnarao-2001-09-28]] ←[[pinnamaneni-krishnarao-2001-11-04]] ←[[pinnamaneni-krishnarao-2001-11-25]]
 - [2001-09-28] Copied on the MarketPoint no-licence reply → memory/domains/work/marketpoint-gas-model-2001.md ←[[m09219]]
+- [2001-11-19] Proposes 2002 EAM support of 3 FTE (~$750,000) → memory/domains/work/ees-structuring-models.md ←[[m09987]]

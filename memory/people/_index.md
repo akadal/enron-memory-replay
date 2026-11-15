@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-11-18
+updated: 2001-11-25
 ---
 # People — index
 
@@ -384,6 +384,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Laine Borgman
 - Lance Cunningham
 - Lane Hughston
+- Lane Sloan
 - Lara Berry
 - Larry Lawyer
 - Larry Pinsky

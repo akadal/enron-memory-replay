@@ -5,11 +5,11 @@ entity: person
 name: "Jeff Andrews"
 aliases: []
 domains: [organization, work]
-updated: 2001-10-24
+updated: 2001-11-25
 ---
 # Jeff Andrews
 
-Enron coal and emissions, then EGM fundamentals (2001); likely the coal-group candidate of Aug 2000 (?). ←[[m02750]] ←[[m05832]] ←[[m09502]]
+Enron coal and emissions, then EGM fundamentals (2001); likely the coal-group candidate of Aug 2000 (?); status quo, question closed unanswered 2001-11-25: one entity. ←[[m02750]] ←[[m05832]] ←[[m09502]]
 
 ## Context: organization
 
