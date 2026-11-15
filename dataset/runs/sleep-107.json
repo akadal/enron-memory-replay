@@ -1,0 +1,206 @@
+{
+ "slice": 107,
+ "simulated_today": "2001-11-09",
+ "feed": {
+  "slice": 107,
+  "iso_week": "2001-W45",
+  "first_seq": 9810,
+  "last_seq": 9882,
+  "messages": 73,
+  "durable": 48,
+  "first_date": "2001-11-05 03:35",
+  "last_date": "2001-11-09 19:02",
+  "today": "2001-11-09",
+  "inbox_files": [
+   "2001-11-05--mail.md",
+   "2001-11-06--mail.md",
+   "2001-11-07--mail.md",
+   "2001-11-08--mail.md",
+   "2001-11-09--mail.md"
+  ],
+  "inbox_chars": 39537,
+  "l2_chars": 235345
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 556,
+ "quota_before": {
+  "five_hour": 69.0,
+  "seven_day": 57.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 71.0,
+  "seven_day": 58.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 107,
+  "messages": 73,
+  "durable": 48,
+  "kept": 47,
+  "kept_rate_excluding_redundant": 0.979,
+  "drop_classes": {
+   "other": 1
+  },
+  "dropped": 1,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3614,
+  "fact_lines_with_source": 2317,
+  "dated": 2317,
+  "date_matches_source": 2252,
+  "date_mismatch_ids_this_slice": [
+   "m09849",
+   "m09857",
+   "m09862",
+   "m09872"
+  ],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   0.8,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 3,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 698
+  },
+  "questions": {
+   "files": 1,
+   "chars": 1359
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 222,
+   "chars": 390988
+  },
+  "people": {
+   "files": 739,
+   "chars": 486925
+  },
+  "archive_inbox": {
+   "files": 665,
+   "chars": 5842544
+  },
+  "archive_mail": {
+   "files": 9908,
+   "chars": 25897612
+  },
+  "archive_other": {
+   "files": 1957,
+   "chars": 1546415
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 48,
+   "duration_ms": 554941,
+   "duration_api_ms": 482120,
+   "total_cost_usd": 3.2148513000000003,
+   "usage": {
+    "input_tokens": 88,
+    "cache_creation_input_tokens": 150321,
+    "cache_read_input_tokens": 4635837,
+    "output_tokens": 54225,
+    "output_tokens_details": {
+     "thinking_tokens": 21499
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 150321,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 682,
+      "cache_read_input_tokens": 168444,
+      "cache_creation_input_tokens": 816,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 816
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 23,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.0002639,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 88,
+     "outputTokens": 54225,
+     "cacheReadInputTokens": 4635837,
+     "cacheCreationInputTokens": 150321,
+     "webSearchRequests": 0,
+     "costUSD": 3.2145874,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 21499,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 150321,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 47,
+   "result_summary": "The 2001-11-09 consolidation is committed as `7e01cb46` and not pushed, as you asked. Lint and sleep-audit were both green on the first try, so nothing was reset. 47 of the week's 48 messages with notes are cited in L1. The one drop, m09826 (a link the owner mailed to himself), is listed in `dataset/drops/sleep-107.tsv`. Everything went into existing topic files:\n- **talon-raptor:** LJM litigation, with the owner's memos sent to litigation.ljm and Jan Cooley collecting his Lotus Notes folders.\n- **corporate-announcements-2001:** Lay's \"evaluating all options\" update.\n- **var-credit-system-2001:** Shanbhogue's capital-needs template and the cash-burn figures.\n- **dabhol-power-sale:** the owner's offer to Horton to help with the DPC options.\n- **monte-carlo-library:** the OStrip misvaluation and Issler's HJM simulator.\n- **Other files:** Baylor, Georgia Tech, the HEG talk, Bauer, the UT practicum, Rice, Tony Hamilton, Bigalow and the rest.\n\nFour people reached their fifth noted message this week, so each got an entity file and a line in the alias table: Gayle Hayter, Lexi Elliott, Kimberly Scardino and Julie Brennan. Topic files that were over target had their oldest or superseded lines moved verbatim to `memory/archive/<domain>/2001/*-2001-11-09.md`; no file was above 90% of its ceiling. Nothing behind an approval gate came up and no question was due, so `questions.md` is unchanged. There was no (sleep-task) or (feedback) block, and the five oldest ongoing lines are still valid. The indexes, `state.md` and the alias table are refreshed, and the five mail logs plus the run log are now in `memory/archive/inbox/`. The runner's own `dataset/runs/sleep-107.transcript.jsonl` is left untracked."
+  },
+  "repair": null
+ }
+}
