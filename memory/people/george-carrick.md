@@ -5,7 +5,7 @@ entity: person
 name: "George Carrick"
 aliases: []
 domains: [industry, organization]
-updated: 2000-12-17
+updated: 2001-12-23
 ---
 # George Carrick
 
@@ -19,3 +19,4 @@ Enron colleague in the owner's Wharton effort. ←[[m04374]] ←[[m04740]]
 ## Context: organization
 
 - [2000-11-28] Interviewer for Alex Tartakouski (also on Phil Roan's list, Jun 2000) ←[[m01945]] ←[[m04482]]
+- [2001-12-18] Of Capital Risk LLC, New York, after a talk with the owner → memory/domains/personal/correspondence.md ←[[m10327]]

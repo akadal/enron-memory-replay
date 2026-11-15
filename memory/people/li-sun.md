@@ -5,7 +5,7 @@ entity: person
 name: "Li Sun"
 aliases: []
 domains: [organization]
-updated: 2000-09-10
+updated: 2001-12-23
 ---
 # Li Sun
 
@@ -14,6 +14,7 @@ Wharton recruit in the Analyst/Associate programme; first rotation in the owner'
 ## Context: organization
 
 - [2000-08-11] Asks to join Research; placed without an interview, then interviewed and taken for the first rotation → memory/domains/organization/candidate-interviews-aug-2000.md ←[[m02813]] ←[[m02929]] ←[[m02940]] ←[[m02951]] ←[[m02957]]
+- [2001-12-19] Leaves Enron and returns to China; Wharton lifetime e-mail → memory/domains/organization/leavers-and-job-leads.md ←[[m10335]]
 
 ## Context: work
 

@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2001-12-16
+updated: 2001-12-23
 ---
 # People — index
 
@@ -410,6 +410,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Li Sun
 - Li Xiao
 - Linda Vargo
+- Linda Werckle
 - Lisa Ford
 - Liz Taylor (Liz M Taylor)
 - Lloyd Fleming

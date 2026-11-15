@@ -1,7 +1,7 @@
 ---
 type: index
 domain: work
-updated: 2001-12-16
+updated: 2001-12-23
 ---
 # Work — index
 
@@ -9,11 +9,11 @@ Scope: the owner's own projects, models, deals and research output.
 
 ## Hot
 
-- Crisis: Barkley: EOL transactions down for two weeks, most on Power (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md; LJM/Raptor memos to litigation.ljm, Cooley collects files (6-7 Nov) → memory/domains/work/talon-raptor.md
-- Corporate Development: Desai's vols, correlations, ROVAR and economic capital ask (4 Dec); De's margin capital simulation (6 Dec); Port's P&L breakout (7 Dec); Bharati's power and gas profitability data to SSB (14 Dec) → memory/domains/work/corp-dev-risk-analysis.md; D&B invoice for credit-model data: bankruptcy claim (14 Dec) → memory/domains/work/private-firm-credit-model-2001.md; cash burn $6.22M/day (6 Nov) → memory/domains/work/var-credit-system-2001.md
-- Models: Supatgiat's merger-probability calculator (19-26 Nov) → memory/domains/work/ene-stock-drivers.md; Krishna's 2002 EAM support: 3 FTE, ~$750,000 (19 Nov) → memory/domains/work/ees-structuring-models.md; Tamarchenko: Enron short gold too (26 Nov) → memory/domains/work/mg-metals-var.md; DPC options (7 Nov) → memory/domains/work/dabhol-power-sale.md
-- Writing: Scudder's end-of-year commentary asked, due 18 Dec (10 Dec) → memory/domains/work/outside-requests-2001.md; column chased by Sam (27 Nov) → memory/domains/work/kaminski-column.md; Supatgiat's INFORMS contacts (12-16 Nov) → memory/domains/work/research-presentations.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
-- Universities: Baylor visit 15-16 Nov held, Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md; CMU MSCF board 12 Dec, letter owed → memory/domains/work/cmu-mscf-visit-nov-2000.md; PowerWeb, Stoft and Hogan saved (13 Nov) → memory/domains/work/transmission-modelling-2001.md
+- Crisis: owner sends David Cohen (Wilmer) his 4 Oct Raptor memo, gone from his Enron mailbox (19 Dec); Cooley collects files (7 Nov) → memory/domains/work/talon-raptor.md; Barkley: EOL transactions down for two weeks (27 Nov) → memory/domains/work/eol-trading-algorithms-2001.md
+- Corporate Development: De's margin capital simulation (6 Dec); Port's P&L breakout (7 Dec); Bharati's profitability data to SSB (14 Dec), his cross-guarantee document for the lawyers (21 Dec) → memory/domains/work/corp-dev-risk-analysis.md; D&B invoice: bankruptcy claim (14 Dec) → memory/domains/work/private-firm-credit-model-2001.md
+- Models: RAC's foreign curves via Cangucu: Venezuela, Italy, Poland, Turkey, Argentina (19 Dec) → memory/domains/work/country-risk-curves.md; Krishna's 2002 EAM support (19 Nov) → memory/domains/work/ees-structuring-models.md; Supatgiat's merger-probability calculator (19-26 Nov) → memory/domains/work/ene-stock-drivers.md
+- Writing: Scudder's end-of-year commentary asked, due 18 Dec (10 Dec) → memory/domains/work/outside-requests-2001.md; column chased by Sam (27 Nov) → memory/domains/work/kaminski-column.md; Wiley proposal → memory/domains/work/energy-derivatives-book.md
+- Universities: Shreve's MSCF board summary, owner's views asked (18 Dec) → memory/domains/work/cmu-mscf-visit-nov-2000.md; Hogan/Harvey FERC draft, PJM West delayed (19-21 Dec) → memory/domains/work/transmission-modelling-2001.md; Bigelow's candlestick book for Martin (18 Nov) → memory/domains/work/university-relations.md
 
 ## Files
 

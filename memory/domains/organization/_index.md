@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2001-12-16
+updated: 2001-12-23
 ---
 # Organization — index
 
@@ -9,12 +9,12 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: e-mail virus, no external mail accounts from Enron PCs (5 Dec); potential buyer's Risk Control meeting (30 Nov) → memory/domains/organization/corporate-announcements-2001.md; UBS Warburg (Netco): 4 meteorologists and 2 pure quants to transfer (7 Dec); nobody in the group wants Netco (10 Dec); DPR resumes (11 Dec); Issler and Dhar off the headcount (14 Dec) → memory/domains/organization/ubsw-transfer.md
-- Leavers: Issler resigns 6 Dec; Weather Team broken up, Sam Smith and Anne Labbe leave, Last Hurrah dinner (7-10 Dec); Soma Ghosh leaves, Mihura's reference (11 Dec); CSC and GPCM leads (13-14 Dec) → memory/domains/organization/leavers-and-job-leads.md
-- Press: Reuters interview referred to PR (11 Dec); owner's formal complaint to the AP about Kristen Hays (15 Dec) → memory/domains/organization/press-and-media.md
-- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec); Labbe: Werner's status, Bennett's Rice EMBA (19 Nov) → memory/domains/organization/hr-matters-2001.md; Fitzpatrick's numbers, owner: $95,000 for Paulo (5 Dec) → memory/domains/organization/staff-and-recruiting.md
-- Candidates: "I do not anticipate any hiring over the next 12 months." (27 Nov); Narayanan's CMU talk cancelled (3 Dec) → memory/domains/organization/recruiting-candidates.md; Lacima's London head, owner to send names (29-30 Nov) → memory/domains/organization/outside-recruiters-2001.md
-- Group: no floppy discs home (30 Nov); Ann Thomas's teamwork article, owner helps (12 Dec) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
+- Company: Bowen: pre-petition expenses to $5,000 now (17 Dec); NETCO formed, Creditors' Committee, McMahon joins the Office of the Chairman, Frevert, Kean, Shankman leave (18 Dec) → memory/domains/organization/corporate-announcements-2001.md; UBS Warburg (Netco): 4 meteorologists and 2 pure quants to transfer (7 Dec); nobody in the group wants Netco (10 Dec); Issler and Dhar off the headcount (14 Dec) → memory/domains/organization/ubsw-transfer.md
+- Leavers: Mihura's reference (11 Dec); CSC and GPCM leads (13 Dec); Li Sun returns to China (19 Dec); Supatgiat leaves his work on the O: drive, asks for faculty references (21-23 Dec); Cindy Skinner's reference (23 Dec) → memory/domains/organization/leavers-and-job-leads.md
+- Press: Reuters interview referred to PR (11 Dec); owner's formal complaint to the AP about Kristen Hays (15 Dec), passed to the editors (18 Dec); Kelly Summers in the FT (19 Dec) → memory/domains/organization/press-and-media.md
+- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec) → memory/domains/organization/hr-matters-2001.md; Barrett's check awaits the bankruptcy court (19 Dec) → memory/domains/organization/leave-and-training.md; owner: $95,000 for Paulo (5 Dec) → memory/domains/organization/staff-and-recruiting.md
+- Candidates: "I do not anticipate any hiring over the next 12 months." (27 Nov) → memory/domains/organization/recruiting-candidates.md; MRI Portland (Bertges, Dahl), Bob Long (Denison) seek quants (20-23 Dec) → memory/domains/organization/outside-recruiters-2001.md
+- Group: Ann Thomas's teamwork article (12 Dec); Mora away to 7 Jan, Anita Dupont's cell (20-21 Dec) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
 
 ## Files
 

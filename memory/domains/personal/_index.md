@@ -1,7 +1,7 @@
 ---
 type: index
 domain: personal
-updated: 2001-12-16
+updated: 2001-12-23
 ---
 # Personal — index
 
@@ -9,7 +9,7 @@ Scope: the owner's private matters that appear in the mail.
 
 ## Hot
 
-- Business plan with Stinson Gibner and BFL Associates (Arfsten, Bjorn) (3 Dec); Cumberland (El Paso) lunch Wed 19 Dec, Balagopal's contacts (12 Dec); Zofia Grodek invited, replies to AOL (16 Dec) → memory/domains/personal/correspondence.md
+- Capital Risk LLC (Carrick, Pasad): owner gives his home coordinates (18-19 Dec); Al Arfsten (BFL): breakfast next Wed at the Hyatt, owner faxes his Coral non-solicitation agreement (20-21 Dec); Zofia Grodek replies to AOL (16 Dec) → memory/domains/personal/correspondence.md
 - Extended vacation after Thanksgiving 2001 → memory/domains/industry/declined-invitations-2000.md
 - Son: Wicus back home after Stanford, job hunting (16 Dec); Entergy EMS lead via Dale Furrow (30 Nov); a Vizsla puppy search (30 Nov) → memory/domains/personal/household.md
 - Bigalow: ENE "Kicker signal" (5 Nov); dinner with him and Mike Roberts on a Tuesday → memory/domains/personal/investments-2000.md
