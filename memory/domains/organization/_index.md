@@ -1,7 +1,7 @@
 ---
 type: index
 domain: organization
-updated: 2002-01-06
+updated: 2002-01-09
 ---
 # Organization — index
 
@@ -9,12 +9,11 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 
 ## Hot
 
-- Company: NETCO formed, McMahon joins the Office of the Chairman (18 Dec); Dynegy settlement: Dynegy may take Northern Natural, Enron's repurchase right to 30 Jun (6 Jan) → memory/domains/organization/corporate-announcements-2001.md; Britt Davis's keep-all-mail notice, owner's vanished mail, backup tapes (28-31 Dec); owner declines counsel for his SEC deposition (4 Jan) → memory/domains/organization/legal-matters.md; UBS Warburg (Netco): no DPR for 28 Dec (28 Dec) → memory/domains/organization/ubsw-transfer.md
-- Leavers: Anshuman to India, lunch in January (24 Dec); owner promises Bob Nau (Duke Fuqua) a letter for Supatgiat (2 Jan); to-do list: Skinner, Chonawee, Martin, Praveen, Lawyer; Edmund Gaither's job search (4 Jan) → memory/domains/organization/leavers-and-job-leads.md
-- Press: owner's formal complaint to the AP about Kristen Hays (15-18 Dec) → memory/domains/organization/press-and-media.md
-- HR: owner's own options on hold, Reliant's senior quant offer (3-5 Dec); Labbe to NETCO, Kymberly Booth his new HR representative, Rakesh's matter open (31 Dec) → memory/domains/organization/hr-matters-2001.md; Barrett's check awaits the bankruptcy court (19 Dec) → memory/domains/organization/leave-and-training.md
-- Candidates: "I do not anticipate any hiring over the next 12 months." (27 Nov) → memory/domains/organization/recruiting-candidates.md; MRI Portland (Bertges, Dahl), Bob Long (Denison) seek quants (20-23 Dec) → memory/domains/organization/outside-recruiters-2001.md
-- Group: Mora away to 7 Jan, Anita Dupont's cell (20-21 Dec); Weather Class on Wednesdays (26 Dec); Candace Kao's visit, Mujica and Koepke away to 7 Jan (27 Dec) → memory/domains/organization/research-group-2001.md; headcount 49 (core 36), 2002 allocations (16 Nov) → memory/domains/organization/research-accounting-2000.md
+- Company: EWS under CEO Jim Fallon, DiMichele COO (9 Jan) → memory/domains/organization/ena-reorganization.md; officers' questionnaire, trading-business auction 10 Jan (9 Jan) → memory/domains/organization/corporate-announcements-2001.md; no software to NETCO without Fallon's letter (9 Jan) → memory/domains/organization/ubsw-transfer.md
+- Legal: SEC deposition without counsel (4 Jan), Levy offers help (7 Jan) → memory/domains/organization/legal-matters.md
+- Wind-down: Narongwanich, Supatgiat resign (7-8 Jan); Raymond's unit ends 15 Jan; some staff kept to 30 Jan; one-on-ones 10 Jan (9 Jan) → memory/domains/organization/research-group-wind-down.md; owner may stay to 31 Jan, Bharati's leave to 15 Jan → memory/domains/organization/hr-matters-2001.md
+- Leavers: Bob Lee drafts Skinner's reference, Surbey's resume (7 Jan); Sezgen's Chevron lead (8 Jan) → memory/domains/organization/leavers-and-job-leads.md
+- Group: Weather Class again from 9 Jan; Ann Thomas seeks outside voices (9 Jan) → memory/domains/organization/research-group-2001.md; AP complaint (Dec) → memory/domains/organization/press-and-media.md
 
 ## Files
 
@@ -29,7 +28,7 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/candidate-interviews-jan-2001.md — from 18 Dec 2000
 - memory/domains/organization/candidate-referrals-2000.md — referrals (Costantino, Szopa)
 - memory/domains/organization/corporate-announcements-2000.md — company-wide news
-- memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS
+- memory/domains/organization/ena-reorganization.md — ENA, EGM, EWS (under Fallon, Jan 2002)
 - memory/domains/organization/grant-masson-rehire-dec-2000.md — Masson's return, declined
 - memory/domains/organization/group-events-2000.md — parties, gatherings, farewells
 - memory/domains/organization/leave-and-training.md — leave and courses
@@ -67,3 +66,4 @@ Scope: Enron's structure, teams, hiring, HR and announcements; not the owner's o
 - memory/domains/organization/leavers-and-job-leads.md — leavers, farewells and job leads after the collapse (Dec 2001)
 - memory/domains/organization/ubsw-transfer.md — UBS Warburg's new company (Netco): staff transfer, staff lists, headcount, VaR review diligence, DPR (Dec 2001)
 - memory/domains/organization/press-and-media.md — the owner and the press after the collapse: Reuters, the AP complaint (Dec 2001)
+- memory/domains/organization/research-group-wind-down.md — the group's shutdown (Jan 2002): resignations, terminations, extensions

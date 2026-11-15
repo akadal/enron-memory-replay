@@ -1,7 +1,7 @@
 ---
 type: index
 domain: industry
-updated: 2002-01-06
+updated: 2002-01-09
 ---
 # Industry — index
 
@@ -9,11 +9,11 @@ Scope: markets, regulation, conferences, universities and other outside institut
 
 ## Hot
 
-- Speaking: BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); AspenTech: Aspen World 2002, Washington, October (3 Jan); Zariphopoulou: UT Austin seminar, Crete travel help (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
-- Universities: GEMI: Sloan's 23 Jan agenda (18-19 Dec); Duffie's Bauer seminar 10 Jan, he asks to meet (3-5 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's price data: release, research-only letter, desk approval (23-26 Dec); Spring 2002 schedule (31 Dec) → memory/domains/industry/rice-university.md
-- Wharton: owner abstains from the Risk Center Advisory Committee of 7 Dec (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; Tiger Team cancel proposed (13 Nov) → memory/domains/industry/wharton-projects-feb-2001.md; RISK referee report owed; EPRM 2002 USA, Houston 14-15 May, speaker invitation (12 Dec) → memory/domains/industry/eprm-risk.md
-- Markets: Krapels sees no systemic risk in an Enron bankruptcy (28 Nov) → memory/domains/industry/esai-energycast-review.md; Brooks: GPCM analyst jobs, owner will circulate them (14-31 Dec) → memory/domains/industry/gpcm-rbac.md
-- 2002 events: GARP talk 12 Feb, workshop 14 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan, response form (4 Jan) → memory/domains/industry/events-attending-2001.md; NARG declined (19 Dec) → memory/domains/industry/declined-invitations-2000.md
+- Speaking: BFS 2002, Crete, Jun 2002: plenary speaker (16 Nov); AspenTech: Aspen World 2002 (3 Jan); Zariphopoulou: UT Austin seminar (5 Jan) → memory/domains/industry/speaking-engagements-2000.md
+- Universities: Duffie's Bauer seminar 10 Jan, owner at the lunch, Kumar's trading-floor tour Friday (7-8 Jan); GEMI 23 Jan agenda (9 Jan) → memory/domains/industry/uh-econophysics.md; Ostdiek's price data (Dec) → memory/domains/industry/rice-university.md
+- Wharton: owner abstains from the Risk Center committee (27 Nov) → memory/domains/industry/wharton-risk-center-2001.md; EPRM 2002 USA, Houston 14-15 May (12 Dec) → memory/domains/industry/eprm-risk.md
+- Declined: Risk Waters' weather conference, no pay, no trip; NARG agenda (8 Jan) → memory/domains/industry/declined-invitations-2000.md; Brooks: GPCM analyst jobs (14-31 Dec) → memory/domains/industry/gpcm-rbac.md
+- 2002 events: GARP talk 12 Feb (20 Dec) → memory/domains/industry/garp-2001.md; UT panel 22 Feb (21 Dec) → memory/domains/industry/ut-energy-finance-conference-feb-2001.md; EMF 20 at Rice 22-23 Jan (4 Jan) → memory/domains/industry/events-attending-2001.md
 
 ## Files
 

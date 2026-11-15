@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2002-01-06
+updated: 2002-01-09
 ---
 # People — index
 
@@ -43,6 +43,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Anguel Grigorov
 - Anita Dupont (Anita DuPont)
 - Anjam Ahmad
+- Ann Thomas
 - Anne Labbe
 - Anne Stamer
 - Anoush Farhangi
@@ -386,6 +387,7 @@ File: memory/people/<name in kebab-case>.md. Aliases in parentheses (all of them
 - Kevin Presto (Kevin M Presto)
 - Key Kasravi
 - Khairuddin Jaafar
+- Khymberly Booth
 - Kim Whitsel
 - Kimberly Scardino (Kimberly R. Scardino)
 - Kimberly Watson
