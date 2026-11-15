@@ -1,0 +1,199 @@
+{
+ "slice": 118,
+ "simulated_today": "2002-01-16",
+ "feed": {
+  "slice": 118,
+  "iso_week": "2002-W03",
+  "first_seq": 10882,
+  "last_seq": 11012,
+  "messages": 131,
+  "durable": 59,
+  "first_date": "2002-01-14 00:12",
+  "last_date": "2002-01-16 14:45",
+  "today": "2002-01-16",
+  "inbox_files": [
+   "2002-01-14--mail.md",
+   "2002-01-15--mail.md",
+   "2002-01-16--mail.md"
+  ],
+  "inbox_chars": 51505,
+  "l2_chars": 515435
+ },
+ "harness_cli": "2.1.323 (Claude Code)",
+ "exit_code": 0,
+ "wall_seconds": 529,
+ "quota_before": {
+  "five_hour": 23.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "quota_after": {
+  "five_hour": 25.0,
+  "seven_day": 60.0,
+  "extra_usage": null
+ },
+ "gates": {
+  "lint": "green",
+  "sleep_audit": "green"
+ },
+ "commits_by_run": 1,
+ "dirty_files_after": 0,
+ "inbox_files_left": 0,
+ "date_leaks": {
+  "count": 0,
+  "examples": []
+ },
+ "ledger": {
+  "slice": 118,
+  "messages": 131,
+  "durable": 59,
+  "kept": 57,
+  "kept_rate_excluding_redundant": 0.966,
+  "drop_classes": {
+   "social": 2
+  },
+  "dropped": 2,
+  "missing": 0,
+  "missing_ids": [],
+  "future_citations": [],
+  "cited_ids_total": 3814,
+  "fact_lines_with_source": 2451,
+  "dated": 2451,
+  "date_matches_source": 2383,
+  "date_mismatch_ids_this_slice": [],
+  "kept_rate_by_decile": [
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   0.86,
+   0.89,
+   1.0,
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "repair_turn": false,
+ "open_questions": 8,
+ "sizes": {
+  "root": {
+   "files": 1,
+   "chars": 2726
+  },
+  "state": {
+   "files": 1,
+   "chars": 772
+  },
+  "questions": {
+   "files": 1,
+   "chars": 3611
+  },
+  "todo": {
+   "files": 1,
+   "chars": 627
+  },
+  "domains": {
+   "files": 227,
+   "chars": 403802
+  },
+  "people": {
+   "files": 768,
+   "chars": 515390
+  },
+  "archive_inbox": {
+   "files": 739,
+   "chars": 6319208
+  },
+  "archive_mail": {
+   "files": 11038,
+   "chars": 29538762
+  },
+  "archive_other": {
+   "files": 2093,
+   "chars": 1640676
+  }
+ },
+ "harness": {
+  "main": {
+   "subtype": "success",
+   "is_error": false,
+   "num_turns": 47,
+   "duration_ms": 526986,
+   "duration_api_ms": 429776,
+   "total_cost_usd": 2.966079400000001,
+   "usage": {
+    "input_tokens": 84,
+    "cache_creation_input_tokens": 140051,
+    "cache_read_input_tokens": 4296455,
+    "output_tokens": 49289,
+    "output_tokens_details": {
+     "thinking_tokens": 16429
+    },
+    "server_tool_use": {
+     "web_search_requests": 0,
+     "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+     "ephemeral_1h_input_tokens": 140051,
+     "ephemeral_5m_input_tokens": 0
+    },
+    "inference_geo": "global",
+    "iterations": [
+     {
+      "input_tokens": 2,
+      "output_tokens": 691,
+      "cache_read_input_tokens": 158823,
+      "cache_creation_input_tokens": 167,
+      "cache_creation": {
+       "ephemeral_5m_input_tokens": 0,
+       "ephemeral_1h_input_tokens": 167
+      },
+      "type": "message"
+     }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+   },
+   "modelUsage": {
+    "claude-haiku-5-5": {
+     "inputTokens": 2524,
+     "outputTokens": 24,
+     "cacheReadInputTokens": 0,
+     "cacheCreationInputTokens": 0,
+     "webSearchRequests": 0,
+     "costUSD": 0.00026440000000000003,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 0,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 0,
+     "canonicalModel": "claude-haiku-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    },
+    "claude-opus-5-5": {
+     "inputTokens": 84,
+     "outputTokens": 49289,
+     "cacheReadInputTokens": 4296455,
+     "cacheCreationInputTokens": 140051,
+     "webSearchRequests": 0,
+     "costUSD": 2.965815,
+     "contextWindow": 1000000,
+     "maxOutputTokens": 128000,
+     "thinkingTokens": 16429,
+     "cacheCreationEphemeral5mInputTokens": 0,
+     "cacheCreationEphemeral1hInputTokens": 140051,
+     "canonicalModel": "claude-opus-5-5",
+     "provider": "firstParty",
+     "costBasis": "list"
+    }
+   },
+   "stop_reason": "end_turn",
+   "tool_calls": 46,
+   "result_summary": "The 2002-01-16 consolidation for week 2002-W03 is committed as `8c539dec` and not pushed, as you asked; lint and sleep-audit were both green before the commit. Of the 59 messages with notes, 57 are now cited in 18 existing topic files and the new people files. The other two (m10941, m10948) are the same birth announcement and are listed as social in `dataset/drops/sleep-118.tsv`.\n\n- **Main news this week:** the Research Group closed on 15 Jan, and Enron's stock was delisted from the NYSE (it now trades over the counter as ENRNQ).\n- **Owner's plans:** he stays with Enron until 31 Jan and is looking for his next job. A recruiter at Brookville Search set up a Morgan Stanley call for 18 Jan, and he has a lunch on 21 Jan about a faculty post at the University of Houston.\n- **Legal:** he is arranging indemnification with his lawyer Walter Brown, who has raised a possible conflict of interest.\n- **Talks:** he accepted a talk at the Market Price Volatility conference (1 May) and one at EPRM 2002 USA (14-15 May).\n- **People:** Jo Williams, Sean Bolks and Walter Brown each reached five noted messages, so each now has an entity file and an alias-table entry.\n- **Questions:** one new approval item asks whether to attach the name \"Bob Williams\" to Robert C. Williams. No question was due, so none was closed by default.\n- **Old lines:** to stay within the size budgets, the oldest lines of 16 topic files were moved word for word to `memory/archive/<domain>/2002/`. No file was above 90% of its ceiling, so the compression quota had nothing to do.\n- **Other steps:** the five oldest ongoing lines still hold. `state.md` is refreshed, the processed logs are in `memory/archive/inbox/`, and there was no sleep task or feedback block.\n\n`dataset/runs/sleep-118.transcript.jsonl` was untracked when I started and I left it uncommitted."
+  },
+  "repair": null
+ }
+}
