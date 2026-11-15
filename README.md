@@ -266,6 +266,9 @@ Short form; `dataset/DESIGN.md` has each one with its numbers.
   build machine, which only names `AGENTS.md` and `memory/MEMORY.md`; the files it imports were
   not loaded (`dataset/DESIGN.md`, "Consolidation").
 - Threads and quote pointers in the manifest are approximate.
+- Transcripts are stored as produced, except that three directory names of the build machine
+  were replaced; commit hashes quoted inside transcripts and run records are those of the build
+  history and are mapped to the published ones in `dataset/commit-map.tsv`.
 
 ## The data is used as it is, and it is about real people
 

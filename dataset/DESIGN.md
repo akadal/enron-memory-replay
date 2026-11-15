@@ -292,3 +292,15 @@ the weekly consolidations followed, each waiting for its slice's records; the ru
 windows and was resumed at a slice when it had stopped. It paused for a review after slices 30,
 60, 90 and 120 (`dataset/audit/`); what they changed is declared above and below. All 122 slices
 ended with every gate green, the last at 2002-02-03, from 13 to 15 November 2026.
+
+## Published history
+
+Before the release the history was rewritten once (15 November 2026), only to replace three
+directory names of the build machine inside the gzip run transcripts: the name of the checkout
+that enclosed this one (`repos/<name>/temp` became `repos/work/temp`), the Windows account name
+(became `user`, also where `ls` printed it as a file owner) and the second Claude Code
+configuration folder (`claude2-config` became `claude-config`); 38,637, 4,218 and 627
+replacements in 160 transcript files across all tags. No other file, commit message, author, date
+or ref changed; the two initial commits GitHub had created lost GitHub's signature. Commit hashes
+quoted inside transcripts and run records are those of the build history: `dataset/commit-map.tsv`
+maps every one to its published hash.
